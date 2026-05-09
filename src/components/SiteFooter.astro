@@ -1,0 +1,59 @@
+---
+import { formatDateTime } from "@/lib/dates";
+
+interface Props {
+  generatedAt?: string;
+}
+
+const { generatedAt } = Astro.props;
+---
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <p>数据每日更新，当前内容由本地 JSON 静态构建生成。</p>
+    <p>{generatedAt ? `最近生成时间：${formatDateTime(generatedAt)}` : "生成时间待更新"}</p>
+    <p>原文版权归原始来源所有，AIpulse 仅做资讯聚合与摘要整理。</p>
+    <nav class="footer-links" aria-label="站点信息">
+      <a href="/about">关于</a>
+      <a href="/privacy">隐私政策</a>
+      <a href="/contact">联系方式</a>
+      <a href="/methodology">方法说明</a>
+      <a href="/sources-and-attribution">来源与版权</a>
+    </nav>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    margin-top: 56px;
+    border-top: 1px solid var(--border);
+    background: var(--surface);
+  }
+
+  .footer-inner {
+    padding-top: 24px;
+    padding-bottom: 28px;
+    color: var(--text-muted);
+    font-size: var(--font-sm);
+  }
+
+  .footer-inner p {
+    margin: 0;
+  }
+
+  .footer-inner p + p {
+    margin-top: 8px;
+  }
+
+  .footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 16px;
+    margin-top: 12px;
+  }
+
+  .footer-links a {
+    color: var(--accent-text);
+    font-weight: 600;
+  }
+</style>

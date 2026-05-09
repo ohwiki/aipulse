@@ -1,0 +1,86 @@
+---
+interface Props {
+  currentPath: string;
+}
+
+const { currentPath } = Astro.props;
+
+const links = [
+  { href: "/about", label: "关于 AIpulse" },
+  { href: "/privacy", label: "隐私政策" },
+  { href: "/contact", label: "联系方式" },
+  { href: "/methodology", label: "方法说明" },
+  { href: "/sources-and-attribution", label: "来源与版权" }
+];
+---
+
+<section class="page-section trust-links surface-panel">
+  <div class="trust-links-copy">
+    <p class="eyebrow">继续了解</p>
+    <h2 class="section-title">站点说明与信任信息</h2>
+    <p class="section-copy">查看 AIpulse 的产品定位、方法说明、来源边界和联系入口。</p>
+  </div>
+
+  <nav class="trust-links-nav" aria-label="站点说明导航">
+    {
+      links.map((link) => (
+        <a
+          href={link.href}
+          class:list={["trust-link", { active: currentPath === link.href }]}
+          aria-current={currentPath === link.href ? "page" : undefined}
+        >
+          {link.label}
+        </a>
+      ))
+    }
+  </nav>
+</section>
+
+<style>
+  .trust-links {
+    display: grid;
+    gap: 14px;
+  }
+
+  .trust-links-copy {
+    display: grid;
+    gap: 6px;
+  }
+
+  .trust-links-copy .eyebrow,
+  .trust-links-copy .section-title,
+  .trust-links-copy .section-copy {
+    margin: 0;
+  }
+
+  .trust-links-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .trust-link {
+    display: inline-flex;
+    align-items: center;
+    min-height: 34px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    background: var(--surface);
+    padding: 7px 11px;
+    color: var(--text-muted);
+    font-size: var(--font-sm);
+    font-weight: 600;
+  }
+
+  .trust-link:hover,
+  .trust-link:focus-visible {
+    border-color: var(--border-strong);
+    color: var(--text);
+  }
+
+  .trust-link.active {
+    border-color: color-mix(in srgb, var(--accent) 35%, var(--border));
+    background: var(--accent-soft);
+    color: var(--accent-text);
+  }
+</style>

@@ -1,0 +1,77 @@
+---
+import HeaderBar from "@/components/HeaderBar.astro";
+import PageIntro from "@/components/PageIntro.astro";
+import SiteFooter from "@/components/SiteFooter.astro";
+import TrustLinks from "@/components/TrustLinks.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getLatestDigest } from "@/lib/content";
+
+const latest = await getLatestDigest();
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  name: "AIpulse 隐私政策",
+  description: "了解 AIpulse 当前如何处理基础访问数据、第三方服务和未来广告相关说明。",
+  breadcrumb: {
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "首页", item: "https://pulse.ouraihub.com/" },
+      { "@type": "ListItem", position: 2, name: "隐私政策", item: "https://pulse.ouraihub.com/privacy" }
+    ]
+  }
+};
+---
+
+<BaseLayout
+  title="AIpulse | 隐私政策"
+  description="了解 AIpulse 当前如何处理基础访问数据、第三方服务和未来广告相关说明。"
+  schemaType="WebPage"
+  structuredData={structuredData}
+>
+  <HeaderBar currentPath={Astro.url.pathname} />
+
+  <main class="container page-main">
+    <PageIntro
+      eyebrow="信任与合规"
+      title="隐私政策"
+      description="说明 AIpulse 当前的基础访问处理方式，以及未来可能接入统计与广告服务时的原则。"
+      pills={["当前为静态站", "以最少数据处理为原则", "后续变更将同步更新"]}
+    />
+
+    <section class="page-section info-grid">
+      <article class="info-card">
+        <h2>当前站点状态</h2>
+        <p>AIpulse 当前主要以静态页面方式提供内容浏览。站点展示内容来自本地生成的 JSON 数据，不要求用户注册或登录后才能浏览。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>当前收集的数据</h2>
+        <p>当前页面本身不面向普通访问者主动收集个人资料。服务器、托管平台或 CDN 可能出于安全和访问统计目的记录基础访问日志，例如访问时间、请求路径、设备类型或 IP 信息。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>Cookie 与本地存储</h2>
+        <p>当前站点不依赖登录态 Cookie 提供核心内容浏览能力。未来如果为统计、偏好设置或广告服务接入 Cookie 或本地存储，会在本页面中补充说明用途和范围。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>第三方服务与未来广告</h2>
+        <p>当前站点未正式接入 Google AdSense 等广告服务。未来如接入访问统计、广告脚本或第三方内容服务，AIpulse 会补充说明数据使用方式、第三方角色以及用户可参考的相关政策信息。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>数据最小化原则</h2>
+        <p>AIpulse 会尽量避免收集与资讯浏览无关的个人信息。后续如果新增订阅、反馈或联系表单，也应只收集完成该功能所必需的最少信息。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>隐私相关联系</h2>
+        <p>如果后续你对站点的数据处理方式、第三方服务或广告相关设置有疑问，应通过站点提供的正式联系入口提交反馈，站点会在产品能力范围内进行说明和处理。</p>
+      </article>
+    </section>
+
+    <TrustLinks currentPath={Astro.url.pathname} />
+  </main>
+
+  <SiteFooter generatedAt={latest.generatedAt} />
+</BaseLayout>

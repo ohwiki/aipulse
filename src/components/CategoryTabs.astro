@@ -1,0 +1,171 @@
+---
+import { CATEGORY_ORDER, getCategoryMeta } from "@/lib/categories";
+
+interface Props {
+  activeCategory?: string;
+  variant?: "feature" | "compact";
+}
+
+const { activeCategory, variant = "feature" } = Astro.props;
+---
+
+<section class:list={["tabs-shell", { "surface-panel": variant === "feature", compact: variant === "compact" }]}>
+  {
+    variant === "feature" && (
+      <div class="tabs-heading">
+        <div>
+          <p class="tabs-kicker">分类导航</p>
+          <h2 class="tabs-title">按主题进入当天重点版块</h2>
+        </div>
+        <p class="tabs-copy">直接跳到你关心的赛道，先看模型、产品，再补行业和研究动态。</p>
+      </div>
+    )
+  }
+
+  <nav class="category-tabs" aria-label="分类导航">
+    {
+      CATEGORY_ORDER.map((category) => {
+        const meta = getCategoryMeta(category);
+
+        return (
+          <a
+            href={`/category/${category}`}
+            class:list={["tab-link", { active: category === activeCategory }]}
+          >
+            <span class="tab-label">{meta.label}</span>
+            <span class="tab-description">{meta.description}</span>
+          </a>
+        );
+      })
+    }
+  </nav>
+</section>
+
+<style>
+  .tabs-shell {
+    display: grid;
+    gap: 14px;
+  }
+
+  .tabs-shell.compact {
+    gap: 10px;
+  }
+
+  .tabs-heading {
+    display: grid;
+    gap: 6px;
+  }
+
+  .tabs-kicker,
+  .tabs-title,
+  .tabs-copy {
+    margin: 0;
+  }
+
+  .tabs-kicker {
+    color: var(--accent-text);
+    font-size: var(--font-sm);
+    font-weight: 700;
+  }
+
+  .tabs-title {
+    font-size: clamp(20px, 2.6vw, 24px);
+    line-height: 1.2;
+  }
+
+  .tabs-copy {
+    color: var(--text-muted);
+    font-size: var(--font-sm);
+  }
+
+  .category-tabs {
+    display: grid;
+    gap: 8px;
+  }
+
+  .tab-link {
+    display: grid;
+    align-content: start;
+    gap: 6px;
+    min-height: 78px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background: var(--surface);
+    padding: 11px 13px;
+    color: var(--text-muted);
+  }
+
+  .tab-link:hover,
+  .tab-link:focus-visible {
+    border-color: var(--border-strong);
+    color: var(--text);
+    background: color-mix(in srgb, var(--surface) 92%, var(--accent-soft));
+  }
+
+  .tab-link.active {
+    border-color: color-mix(in srgb, var(--accent) 35%, var(--border));
+    background: var(--accent-soft);
+    color: var(--accent-text);
+  }
+
+  .tab-label {
+    color: var(--text);
+    font-size: var(--font-md);
+    font-weight: 700;
+    line-height: 1.3;
+  }
+
+  .tab-description {
+    color: var(--text-muted);
+    font-size: 13px;
+    line-height: 1.45;
+  }
+
+  .tab-link.active .tab-label,
+  .tab-link.active .tab-description {
+    color: inherit;
+  }
+
+  .compact .category-tabs {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .compact .tab-link {
+    min-height: auto;
+    gap: 0;
+    padding: 8px 12px;
+    border-radius: var(--radius-sm);
+  }
+
+  .compact .tab-description {
+    display: none;
+  }
+
+  .compact .tab-label {
+    font-size: var(--font-sm);
+    line-height: 1.25;
+  }
+
+  @media (min-width: 720px) {
+    .category-tabs {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .compact .category-tabs {
+      grid-template-columns: none;
+    }
+  }
+
+  @media (min-width: 1080px) {
+    .tabs-heading {
+      grid-template-columns: minmax(0, 1fr) minmax(300px, 0.8fr);
+      align-items: end;
+      gap: 16px;
+    }
+
+    .category-tabs {
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+    }
+  }
+</style>

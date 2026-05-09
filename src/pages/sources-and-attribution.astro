@@ -1,0 +1,77 @@
+---
+import HeaderBar from "@/components/HeaderBar.astro";
+import PageIntro from "@/components/PageIntro.astro";
+import SiteFooter from "@/components/SiteFooter.astro";
+import TrustLinks from "@/components/TrustLinks.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getLatestDigest } from "@/lib/content";
+
+const latest = await getLatestDigest();
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  name: "AIpulse 来源与版权说明",
+  description: "查看 AIpulse 当前主要来源类型、站内保留字段以及原文版权与引用边界说明。",
+  breadcrumb: {
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "首页", item: "https://pulse.ouraihub.com/" },
+      { "@type": "ListItem", position: 2, name: "来源与版权说明", item: "https://pulse.ouraihub.com/sources-and-attribution" }
+    ]
+  }
+};
+---
+
+<BaseLayout
+  title="AIpulse | 来源与版权说明"
+  description="查看 AIpulse 当前主要来源类型、站内保留字段以及原文版权与引用边界说明。"
+  schemaType="WebPage"
+  structuredData={structuredData}
+>
+  <HeaderBar currentPath={Astro.url.pathname} />
+
+  <main class="container page-main">
+    <PageIntro
+      eyebrow="信任与合规"
+      title="来源与版权说明"
+      description="说明 AIpulse 的主要来源范围、站内保留内容类型，以及原文版权与跳转原则。"
+      pills={["来源可追溯", "站内保留结构化信息", "原文版权归原始来源所有"]}
+    />
+
+    <section class="page-section info-grid">
+      <article class="info-card">
+        <h2>主要来源类型</h2>
+        <p>AIpulse 当前主要覆盖公开 RSS 源、公开研究论文源和公开产品/研究更新接口。站点会持续调整来源配置，但应始终以公开可访问、可追溯的内容源为主。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>站内保留哪些内容</h2>
+        <p>站内主要保留标题、来源名称、发布时间、分类、简要摘要和跳转链接。这些信息用于帮助用户快速理解和定位原始内容，不以替代原文阅读为目标。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>站内不保留哪些内容</h2>
+        <p>AIpulse 不应将原文全文、长段正文或完整研究内容镜像到站内页面。站内页面的职责是精选、整理和导航，而不是复制原始发布内容。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>版权归属说明</h2>
+        <p>原始文章、论文、公告和相关内容的版权归各原始来源所有。AIpulse 仅基于公开来源做资讯聚合、摘要整理和链接导航，用户如需查看完整内容，应返回原始来源页面。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>来源引用原则</h2>
+        <p>后续无论新增多少来源，都应保持来源清晰、链接可追溯、分类明确的原则。任何页面都不应隐藏来源，也不应让用户误以为站内内容本身就是原始发布方。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>更正与移除沟通</h2>
+        <p>如果来源方或相关方认为某条展示存在错误、归属不清或需要进一步沟通，应通过站点的正式联系入口提交说明，站点应基于实际情况进行核对和处理。</p>
+      </article>
+    </section>
+
+    <TrustLinks currentPath={Astro.url.pathname} />
+  </main>
+
+  <SiteFooter generatedAt={latest.generatedAt} />
+</BaseLayout>

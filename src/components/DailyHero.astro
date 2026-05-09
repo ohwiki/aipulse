@@ -1,0 +1,91 @@
+---
+import NewsCard from "./NewsCard.astro";
+import type { PulseItem } from "@/lib/types";
+
+interface Props {
+  items: PulseItem[];
+}
+
+const { items } = Astro.props;
+const [lead, ...rest] = items;
+---
+
+{
+  lead && (
+    <section class="page-section hero-section">
+      <div class="hero-heading">
+        <div>
+          <p class="hero-kicker">头条速览</p>
+          <h2 class="hero-title">今日最值得先看的几条</h2>
+        </div>
+        <p class="hero-copy">先看主头条，再按右侧速读卡快速扫一遍当天高分更新。</p>
+      </div>
+      <div class="hero-grid">
+        <NewsCard item={lead} variant="hero" />
+        {rest.length > 0 && (
+          <div class="hero-stack">
+            {rest.map((item) => <NewsCard item={item} variant="compact" />)}
+          </div>
+        )}
+      </div>
+    </section>
+  )
+}
+
+<style>
+  .hero-section {
+    display: grid;
+    gap: 10px;
+  }
+
+  .hero-heading {
+    display: grid;
+    gap: 6px;
+  }
+
+  .hero-kicker,
+  .hero-title,
+  .hero-copy {
+    margin: 0;
+  }
+
+  .hero-kicker {
+    color: var(--accent-text);
+    font-size: var(--font-sm);
+    font-weight: 700;
+  }
+
+  .hero-title {
+    font-size: clamp(22px, 3vw, 28px);
+    line-height: 1.2;
+  }
+
+  .hero-copy {
+    color: var(--text-muted);
+    font-size: var(--font-sm);
+    max-width: 42ch;
+  }
+
+  .hero-grid {
+    display: grid;
+    gap: 12px;
+  }
+
+  .hero-stack {
+    display: grid;
+    gap: 10px;
+  }
+
+  @media (min-width: 1024px) {
+    .hero-heading {
+      grid-template-columns: minmax(0, 1fr) minmax(280px, 0.72fr);
+      align-items: end;
+      gap: 16px;
+    }
+
+    .hero-grid {
+      grid-template-columns: minmax(0, 1.5fr) minmax(320px, 0.82fr);
+      align-items: start;
+    }
+  }
+</style>

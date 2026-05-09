@@ -1,0 +1,177 @@
+---
+import { formatDateTime } from "@/lib/dates";
+import { getCategoryMeta } from "@/lib/categories";
+import type { PulseItem } from "@/lib/types";
+
+interface Props {
+  item: PulseItem;
+  variant?: "full" | "compact" | "hero";
+}
+
+const { item, variant = "full" } = Astro.props;
+const meta = getCategoryMeta(item.category);
+const showSummary = variant !== "compact";
+const showEnglishTitle = variant === "full" && item.titleEn;
+---
+
+<article class:list={["news-card", variant]}>
+  <div class="meta-row">
+    <span class="category-tag">{meta.label}</span>
+    <span class="score-tag">{item.score.toFixed(1).replace(".0", "")}</span>
+  </div>
+
+  <h3 class="card-title">{item.title}</h3>
+  {showEnglishTitle && <p class="title-en">{item.titleEn}</p>}
+
+  <p class="card-subline">
+    <span>{item.source}</span>
+    <span>{formatDateTime(item.publishedAt)}</span>
+  </p>
+
+  {showSummary && <p class="card-summary">{item.summary}</p>}
+
+  <a class="card-link" href={item.url} target="_blank" rel="noreferrer">查看原文</a>
+</article>
+
+<style>
+  .news-card {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    height: 100%;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background: var(--surface);
+    padding: 14px;
+    box-shadow: var(--shadow-subtle);
+  }
+
+  .news-card:hover,
+  .news-card:has(.card-link:focus-visible) {
+    border-color: var(--border-strong);
+    background: color-mix(in srgb, var(--surface) 90%, var(--accent-soft));
+  }
+
+  .news-card.hero {
+    padding: 18px 20px;
+    gap: 12px;
+    background:
+      linear-gradient(180deg, color-mix(in srgb, var(--accent-soft) 42%, #ffffff) 0%, var(--surface) 100%);
+  }
+
+  .meta-row,
+  .card-subline {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 12px;
+    align-items: center;
+  }
+
+  .category-tag,
+  .score-tag {
+    display: inline-flex;
+    align-items: center;
+    border-radius: var(--radius-sm);
+    padding: 4px 8px;
+    font-size: var(--font-xs);
+    font-weight: 700;
+  }
+
+  .category-tag {
+    background: var(--accent-soft);
+    color: var(--accent-text);
+  }
+
+  .score-tag {
+    background: var(--surface-muted);
+    color: var(--text);
+  }
+
+  .card-title {
+    margin: 0;
+    font-size: 18px;
+    line-height: var(--leading-tight);
+  }
+
+  .hero .card-title {
+    font-size: clamp(26px, 3vw, 34px);
+    line-height: 1.1;
+  }
+
+  .title-en,
+  .card-summary,
+  .card-subline {
+    margin: 0;
+  }
+
+  .title-en {
+    color: var(--text-soft);
+    font-size: 13px;
+    line-height: 1.45;
+  }
+
+  .card-subline {
+    color: var(--text-muted);
+    font-size: var(--font-sm);
+  }
+
+  .card-subline span + span::before {
+    content: "·";
+    margin-right: 12px;
+    color: var(--text-soft);
+  }
+
+  .card-summary {
+    color: var(--text);
+    font-size: var(--font-md);
+    line-height: 1.62;
+  }
+
+  .compact .card-summary,
+  .compact .title-en {
+    display: none;
+  }
+
+  .compact {
+    gap: 5px;
+    padding: 13px 15px;
+  }
+
+  .compact .meta-row {
+    gap: 6px 8px;
+  }
+
+  .compact .card-title {
+    font-size: 17px;
+    line-height: 1.28;
+  }
+
+  .compact .category-tag {
+    display: none;
+  }
+
+  .compact .card-subline {
+    font-size: 13px;
+  }
+
+  .compact .card-link {
+    margin-top: 1px;
+  }
+
+  .hero .card-summary {
+    max-width: 62ch;
+    font-size: 16px;
+    line-height: 1.62;
+  }
+
+  .hero .card-link {
+    margin-top: 4px;
+    font-size: var(--font-md);
+  }
+
+  @media (min-width: 768px) {
+    .news-card {
+      padding: 16px;
+    }
+  }
+</style>

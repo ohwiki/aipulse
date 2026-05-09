@@ -1,0 +1,99 @@
+---
+import CategoryTabs from "@/components/CategoryTabs.astro";
+import EmptyState from "@/components/EmptyState.astro";
+import HeaderBar from "@/components/HeaderBar.astro";
+import NewsCard from "@/components/NewsCard.astro";
+import PageIntro from "@/components/PageIntro.astro";
+import SiteFooter from "@/components/SiteFooter.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { CATEGORY_ORDER, getCategoryMeta } from "@/lib/categories";
+import { getLatestDigest, listCategoryItems } from "@/lib/content";
+
+export const prerender = true;
+
+export function getStaticPaths() {
+  return CATEGORY_ORDER.map((slug) => ({ params: { slug } }));
+}
+
+const { slug } = Astro.params;
+const category = slug ?? "";
+const meta = getCategoryMeta(category);
+const [latest, items] = await Promise.all([getLatestDigest(), listCategoryItems(category)]);
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: `${meta.label} 条目流`,
+  numberOfItems: items.length,
+  itemListElement: items.map((item, index) => ({
+    "@type": "ListItem",
+    position: index + 1,
+    url: item.url,
+    name: item.title
+  }))
+};
+---
+
+<BaseLayout
+  title={`AIpulse | ${meta.label}`}
+  description={`查看最近 7 天的 ${meta.label} 条目，快速掌握该主题下值得关注的 AI 动态。`}
+  schemaType="CollectionPage"
+  structuredData={structuredData}
+>
+  <HeaderBar currentPath={Astro.url.pathname} />
+
+  <main class="container page-main">
+    <PageIntro
+      eyebrow="分类浏览"
+      title={meta.label}
+      description={`${meta.description} 最近 7 天内的相关条目会按更适合扫读的顺序连续展示。`}
+      pills={["最近 7 天", `${items.length} 条`]}
+    />
+
+    <section class="page-section category-context surface-panel">
+      <div class="category-context-copy">
+        <p class="eyebrow">专题流</p>
+        <h2 class="section-title">围绕同一主题连续浏览</h2>
+        <p class="section-copy">当前页重点是正文流本身。切换分类时保持轻导航，减少对阅读路径的打断。</p>
+      </div>
+      <CategoryTabs activeCategory={category} variant="compact" />
+    </section>
+
+    {
+      items.length > 0 ? (
+        <section class="page-section content-list">
+          {items.map((item) => <NewsCard item={item} variant="full" />)}
+        </section>
+      ) : (
+        <EmptyState title="这个分类暂时没有内容" description="请切换其他分类或返回首页。" />
+      )
+    }
+  </main>
+
+  <SiteFooter generatedAt={latest.generatedAt} />
+</BaseLayout>
+
+<style>
+  .category-context {
+    display: grid;
+    gap: 12px;
+  }
+
+  .category-context-copy {
+    display: grid;
+    gap: 6px;
+  }
+
+  .category-context-copy .eyebrow,
+  .category-context-copy .section-title,
+  .category-context-copy .section-copy {
+    margin: 0;
+  }
+
+  @media (min-width: 960px) {
+    .category-context {
+      grid-template-columns: minmax(0, 1fr) auto;
+      align-items: end;
+      gap: 20px;
+    }
+  }
+</style>

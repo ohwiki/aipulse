@@ -1,0 +1,44 @@
+rss:
+  - name: OpenAI Blog
+    url: https://openai.com/blog/rss.xml
+    category: ai-models
+  - name: Anthropic
+    url: https://www.anthropic.com/rss.xml
+    category: ai-models
+    enabled: false
+    note: RSS endpoint currently returns 404 as of 2026-05-09
+  - name: Google DeepMind
+    url: https://deepmind.google/blog/rss.xml
+    category: ai-models
+  - name: Meta AI
+    url: https://ai.meta.com/blog/rss/
+    category: ai-models
+    enabled: false
+    note: RSS endpoint currently returns 404 as of 2026-05-09
+  - name: HuggingFace Blog
+    url: https://huggingface.co/blog/feed.xml
+    category: ai-products
+  - name: Mistral AI
+    url: https://mistral.ai/feed.xml
+    category: ai-models
+    enabled: false
+    note: RSS endpoint currently returns 404 as of 2026-05-09
+  - name: Product Hunt AI
+    url: https://www.producthunt.com/feed?category=artificial-intelligence
+    category: ai-products
+
+api:
+  - name: arXiv cs.AI
+    type: arxiv
+    query: "cat:cs.AI"
+    max_results: 30
+    category: paper
+  - name: arXiv cs.CL
+    type: arxiv
+    query: "cat:cs.CL"
+    max_results: 30
+    category: paper
+  - name: HuggingFace Daily Papers
+    type: hf_papers
+    url: https://huggingface.co/api/daily_papers
+    category: paper

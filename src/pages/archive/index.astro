@@ -1,0 +1,112 @@
+---
+import ArchiveDayCard from "@/components/ArchiveDayCard.astro";
+import EmptyState from "@/components/EmptyState.astro";
+import HeaderBar from "@/components/HeaderBar.astro";
+import PageIntro from "@/components/PageIntro.astro";
+import SiteFooter from "@/components/SiteFooter.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getLatestDigest, listArchiveEntries } from "@/lib/content";
+
+const entries = await listArchiveEntries();
+const latest = await getLatestDigest();
+const latestEntry = entries[0];
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: "AIpulse 日报归档",
+  numberOfItems: entries.length,
+  itemListElement: entries.map((entry, index) => ({
+    "@type": "ListItem",
+    position: index + 1,
+    url: `https://pulse.ouraihub.com/archive/${entry.date}`,
+    name: `${entry.date} AI 日报`
+  }))
+};
+---
+
+<BaseLayout
+  title="AIpulse | 日报归档"
+  description="按日期查看 AIpulse 的历史日报归档，快速回看每天的重要 AI 动态与精选条目。"
+  schemaType="CollectionPage"
+  structuredData={structuredData}
+>
+  <HeaderBar currentPath={Astro.url.pathname} />
+
+  <main class="container page-main">
+    <PageIntro
+      eyebrow="历史回看"
+      title="日报归档"
+      description="按日期查看历史日报，快速定位某一天的重要 AI 动态。"
+      pills={[`当前 ${entries.length} 期日报`, `最近 ${latest.total} 条入选资讯`]}
+    />
+
+    {
+      latestEntry && (
+        <section class="page-section archive-rail surface-panel">
+          <div class="archive-rail-copy">
+            <p class="eyebrow">快速入口</p>
+            <h2 class="section-title">先看最新一期，再决定回翻</h2>
+            <p class="section-copy">
+              如果你只是想快速进入当前可看的日报，优先查看 {latestEntry.date}，再按日期回翻更早的内容。
+            </p>
+          </div>
+          <div class="archive-rail-actions">
+            <a class="primary-link" href={`/archive/${latestEntry.date}`}>查看最新一期</a>
+            <a class="archive-secondary-link" href="/">返回今日首页</a>
+          </div>
+        </section>
+      )
+    }
+
+    {
+      entries.length > 0 ? (
+        <section class="page-section content-list">
+          {entries.map((entry) => <ArchiveDayCard entry={entry} />)}
+        </section>
+      ) : (
+        <EmptyState title="归档还没有数据" description="当前未生成可用的日报文件。" />
+      )
+    }
+  </main>
+
+  <SiteFooter generatedAt={latest.generatedAt} />
+</BaseLayout>
+
+<style>
+  .archive-rail {
+    display: grid;
+    gap: 14px;
+  }
+
+  .archive-rail-copy {
+    display: grid;
+    gap: 6px;
+  }
+
+  .archive-rail-copy .eyebrow,
+  .archive-rail-copy .section-title,
+  .archive-rail-copy .section-copy {
+    margin: 0;
+  }
+
+  .archive-rail-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 12px;
+    align-items: center;
+  }
+
+  .archive-secondary-link {
+    color: var(--accent-text);
+    font-size: var(--font-sm);
+    font-weight: 600;
+  }
+
+  @media (min-width: 960px) {
+    .archive-rail {
+      grid-template-columns: minmax(0, 1.15fr) auto;
+      align-items: end;
+      gap: 20px;
+    }
+  }
+</style>

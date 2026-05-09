@@ -1,0 +1,161 @@
+---
+import CategoryTabs from "@/components/CategoryTabs.astro";
+import DailyHero from "@/components/DailyHero.astro";
+import EmptyState from "@/components/EmptyState.astro";
+import HeaderBar from "@/components/HeaderBar.astro";
+import SectionBlock from "@/components/SectionBlock.astro";
+import SiteFooter from "@/components/SiteFooter.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getCategoryMeta } from "@/lib/categories";
+import { getLatestDailyDigest, getTopItems } from "@/lib/content";
+import { formatDateLabel, formatDateTime } from "@/lib/dates";
+
+const digest = await getLatestDailyDigest();
+const title = "AIpulse | 今日 AI 资讯精选";
+const description = "面向中文 AI 从业者的每日资讯精选首页，快速查看今天最值得关注的模型、产品、行业与研究动态。";
+const leadItems = digest ? getTopItems(digest, 5) : [];
+const structuredData = digest
+  ? {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      name: `${digest.date} AI 资讯精选`,
+      numberOfItems: leadItems.length,
+      itemListElement: leadItems.map((item, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        url: item.url,
+        name: item.title
+      }))
+    }
+  : undefined;
+---
+
+<BaseLayout title={title} description={description} schemaType="CollectionPage" structuredData={structuredData}>
+  <HeaderBar currentPath={Astro.url.pathname} />
+
+  <main class="container page-main">
+    {
+      digest ? (
+        <>
+          <section class="page-section intro-block">
+            <div class="intro-copy">
+              <p class="eyebrow">今日简报</p>
+              <h1 class="page-title">今日 AI 资讯精选</h1>
+              <p class="section-copy">
+                {formatDateLabel(digest.date)} · 最近生成时间 {formatDateTime(digest.generatedAt)}
+              </p>
+            </div>
+
+            <div class="intro-rail surface-panel">
+              <div class="intro-rail-copy">
+                <p class="eyebrow">浏览方式</p>
+                <p class="section-copy">先看头条，再按主题下钻，最后用归档回看每天的完整筛选结果。</p>
+              </div>
+              <div class="meta-strip">
+                <span class="meta-pill">当日 {digest.total} 条</span>
+                <span class="meta-pill">共 {digest.sections.length} 个版块</span>
+                <span class="meta-pill">静态构建，无运行时依赖</span>
+              </div>
+              <div class="intro-actions">
+                <a class="primary-link" href="/archive">查看历史日报</a>
+                <a class="secondary-link" href="/category/ai-models">先看模型发布</a>
+              </div>
+            </div>
+          </section>
+
+          <DailyHero items={leadItems} />
+
+          <section class="page-section">
+            <CategoryTabs />
+          </section>
+
+          {
+            digest.sections.map((section) => (
+              <SectionBlock
+                section={section}
+                description={getCategoryMeta(section.category).description}
+              />
+            ))
+          }
+
+          <section class="page-section archive-entry surface-panel">
+            <p class="eyebrow">继续浏览</p>
+            <h2 class="section-title">历史日报</h2>
+            <p class="section-copy">查看最近生成的日报归档，按日期回看每天的重要 AI 动态。</p>
+            <a class="primary-link" href="/archive">进入归档页</a>
+          </section>
+        </>
+      ) : (
+        <EmptyState
+          title="暂时还没有可展示的日报"
+          description="当前未找到可用的 daily JSON，请先运行数据生成流程。"
+        />
+      )
+    }
+  </main>
+
+  <SiteFooter generatedAt={digest?.generatedAt} />
+</BaseLayout>
+
+<style>
+  .intro-block {
+    display: grid;
+    gap: 14px;
+    align-items: end;
+  }
+
+  .intro-copy {
+    display: grid;
+    gap: 6px;
+    max-width: 720px;
+  }
+
+  .intro-rail {
+    display: grid;
+    gap: 12px;
+  }
+
+  .intro-rail-copy {
+    display: grid;
+    gap: 4px;
+  }
+
+  .intro-rail-copy .eyebrow,
+  .intro-rail-copy .section-copy {
+    margin: 0;
+  }
+
+  .intro-actions,
+  .archive-entry {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 12px;
+    align-items: flex-start;
+  }
+
+  .archive-entry {
+    max-width: 720px;
+  }
+
+  .secondary-link {
+    color: var(--accent-text);
+    font-size: var(--font-sm);
+    font-weight: 600;
+  }
+
+  .archive-entry .section-title {
+    font-size: 20px;
+  }
+
+  @media (min-width: 960px) {
+    .intro-block {
+      grid-template-columns: minmax(0, 1.4fr) minmax(280px, 0.8fr);
+      gap: 24px;
+    }
+
+    .intro-rail {
+      justify-self: stretch;
+      align-self: stretch;
+    }
+  }
+  </style>

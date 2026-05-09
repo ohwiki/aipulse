@@ -1,0 +1,39 @@
+---
+interface Props {
+  eyebrow: string;
+  title: string;
+  description?: string;
+  pills?: string[];
+  backHref?: string;
+  backLabel?: string;
+}
+
+const {
+  eyebrow,
+  title,
+  description,
+  pills = [],
+  backHref,
+  backLabel
+} = Astro.props;
+---
+
+<section class="page-section page-intro">
+  {backHref && backLabel && (
+    <a class="back-link" href={backHref}>
+      {backLabel}
+    </a>
+  )}
+
+  <p class="eyebrow">{eyebrow}</p>
+  <h1 class="page-title">{title}</h1>
+  {description && <p class="section-copy">{description}</p>}
+
+  {
+    pills.length > 0 && (
+      <div class="meta-strip">
+        {pills.map((pill) => <span class="meta-pill">{pill}</span>)}
+      </div>
+    )
+  }
+</section>

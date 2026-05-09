@@ -1,0 +1,123 @@
+---
+import HeaderBar from "@/components/HeaderBar.astro";
+import PageIntro from "@/components/PageIntro.astro";
+import SiteFooter from "@/components/SiteFooter.astro";
+import TrustLinks from "@/components/TrustLinks.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getLatestDigest } from "@/lib/content";
+
+const latest = await getLatestDigest();
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  name: "关于 AIpulse",
+  description: "了解 AIpulse 的定位、数据来源、更新方式，以及它如何作为面向中文 AI 从业者的编辑型资讯聚合站运行。",
+  about: {
+    "@type": "WebSite",
+    name: "AIpulse",
+    url: "https://pulse.ouraihub.com/"
+  }
+};
+---
+
+<BaseLayout
+  title="AIpulse | 关于"
+  description="了解 AIpulse 的定位、数据来源、更新方式，以及它如何作为面向中文 AI 从业者的编辑型资讯聚合站运行。"
+  schemaType="AboutPage"
+  structuredData={structuredData}
+>
+  <HeaderBar currentPath={Astro.url.pathname} />
+
+  <main class="container page-main">
+    <PageIntro
+      eyebrow="关于项目"
+      title="关于 AIpulse"
+      description="面向中文 AI 从业者的每日资讯聚合服务。"
+      pills={["每日更新", "中文精选", "静态渲染"]}
+    />
+
+    <section class="page-section about-lead surface-panel">
+      <div class="about-lead-copy">
+        <p class="eyebrow">产品定位</p>
+        <h2 class="section-title">不是 AI 新闻镜像，而是更适合中文从业者快速判断的信息入口</h2>
+        <p class="section-copy">
+          AIpulse 关注的不是“把更多链接堆给你”，而是把每天值得先看的模型发布、产品更新、研究进展和行业信号整理成可快速扫读的结构化页面。
+        </p>
+      </div>
+
+      <div class="about-lead-points">
+        <div class="meta-pill">优先做筛选与排序</div>
+        <div class="meta-pill">强调中文摘要与回看</div>
+        <div class="meta-pill">站内导航，不替代原文</div>
+      </div>
+    </section>
+
+    <section class="page-section info-grid about-support-grid">
+      <article class="info-card">
+        <h2>AIpulse 是什么</h2>
+        <p>AIpulse 每天从多个 AI 信息源抓取内容，经过筛选、打分和摘要整理，生成结构化中文日报，帮助用户先看重要内容，再决定是否深入阅读原文。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>数据从哪里来</h2>
+        <p>当前主要覆盖 RSS、arXiv、HuggingFace Daily Papers 等公开来源，后续会继续扩展。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>多久更新一次</h2>
+        <p>默认每天生成一次日报，并同步更新最近 7 天的聚合数据。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>内容归属</h2>
+        <p>原文版权归原始来源所有，站内仅保留标题、摘要和跳转链接，方便快速回看。</p>
+      </article>
+    </section>
+
+    <TrustLinks currentPath={Astro.url.pathname} />
+  </main>
+
+  <SiteFooter generatedAt={latest.generatedAt} />
+</BaseLayout>
+
+<style>
+  .about-lead {
+    display: grid;
+    gap: 16px;
+  }
+
+  .about-lead-copy {
+    display: grid;
+    gap: 8px;
+    max-width: 760px;
+  }
+
+  .about-lead-copy .eyebrow,
+  .about-lead-copy .section-title,
+  .about-lead-copy .section-copy {
+    margin: 0;
+  }
+
+  .about-lead-points {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .about-support-grid .info-card:first-child {
+    background: color-mix(in srgb, var(--surface) 88%, var(--accent-soft));
+  }
+
+  @media (min-width: 960px) {
+    .about-lead {
+      grid-template-columns: minmax(0, 1.25fr) minmax(280px, 0.8fr);
+      align-items: start;
+      gap: 24px;
+    }
+
+    .about-lead-points {
+      align-content: start;
+      justify-content: flex-start;
+    }
+  }
+</style>

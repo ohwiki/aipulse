@@ -1,0 +1,175 @@
+---
+import EmptyState from "@/components/EmptyState.astro";
+import HeaderBar from "@/components/HeaderBar.astro";
+import PageIntro from "@/components/PageIntro.astro";
+import SectionBlock from "@/components/SectionBlock.astro";
+import SiteFooter from "@/components/SiteFooter.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getCategoryMeta } from "@/lib/categories";
+import { getDailyDates, getDailyDigest } from "@/lib/content";
+import { formatDateLabel, formatDateTime } from "@/lib/dates";
+
+export const prerender = true;
+
+export async function getStaticPaths() {
+  const dates = await getDailyDates();
+  return dates.map((date) => ({ params: { date } }));
+}
+
+const { date } = Astro.params;
+const digest = date ? await getDailyDigest(date) : null;
+
+let previousDate: string | undefined;
+let nextDate: string | undefined;
+
+if (date) {
+  const dates = await getDailyDates();
+  const index = dates.indexOf(date);
+  previousDate = index >= 0 ? dates[index + 1] : undefined;
+  nextDate = index > 0 ? dates[index - 1] : undefined;
+}
+
+const flattenedItems = digest ? digest.sections.flatMap((section) => section.items) : [];
+const structuredData = digest
+  ? {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      name: `${digest.date} AI 日报`,
+      numberOfItems: flattenedItems.length,
+      itemListElement: flattenedItems.map((item, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        url: item.url,
+        name: item.title
+      }))
+    }
+  : undefined;
+---
+
+<BaseLayout
+  title={digest ? `AIpulse | ${digest.date} AI 日报` : "AIpulse | 日报"}
+  description={
+    digest
+      ? `查看 ${digest.date} 的 AIpulse 日报，按分类回看当天值得关注的 AI 模型、产品、行业和研究动态。`
+      : "查看指定日期的 AIpulse 日报内容。"
+  }
+  schemaType="CollectionPage"
+  structuredData={structuredData}
+>
+  <HeaderBar currentPath={Astro.url.pathname} />
+
+  <main class="container page-main">
+    {
+      digest ? (
+        <>
+          <PageIntro
+            backHref="/archive"
+            backLabel="返回归档"
+            eyebrow="单日回看"
+            title={`${formatDateLabel(digest.date)} AI 日报`}
+            description={`共 ${digest.total} 条 · 生成于 ${formatDateTime(digest.generatedAt)}`}
+            pills={[`${digest.sections.length} 个版块`, "按分类整理展示"]}
+          />
+
+          <section class="page-section daily-rail surface-panel">
+            <div class="daily-rail-copy">
+              <p class="eyebrow">当日工作台</p>
+              <h2 class="section-title">先扫全局，再按版块深入</h2>
+              <p class="section-copy">
+                这页适合完整回看 {digest.date} 的筛选结果。建议先扫一遍版块分布，再进入你最关心的模型、产品、研究或行业更新。
+              </p>
+            </div>
+
+            <div class="daily-rail-actions">
+              <a class="primary-link" href="/">返回今日首页</a>
+              <a class="secondary-link" href="/category/ai-models">查看模型分类</a>
+              {previousDate && <a class="secondary-link" href={`/archive/${previousDate}`}>回看上一日</a>}
+              {nextDate && <a class="secondary-link" href={`/archive/${nextDate}`}>查看下一日</a>}
+            </div>
+          </section>
+
+          {
+            digest.sections.map((section) => (
+              <SectionBlock
+                section={section}
+                description={getCategoryMeta(section.category).description}
+              />
+            ))
+          }
+
+          <nav class="page-section pager" aria-label="相邻日报">
+            {previousDate ? <a href={`/archive/${previousDate}`}>上一日：{previousDate}</a> : <span>已经到最早记录</span>}
+            {nextDate ? <a href={`/archive/${nextDate}`}>下一日：{nextDate}</a> : <span>这是最新一期</span>}
+          </nav>
+        </>
+      ) : (
+        <EmptyState title="找不到这一天的日报" description="请返回归档页选择可用日期。" />
+      )
+    }
+  </main>
+
+  <SiteFooter generatedAt={digest?.generatedAt} />
+</BaseLayout>
+
+<style>
+  .daily-rail {
+    display: grid;
+    gap: 14px;
+  }
+
+  .daily-rail-copy {
+    display: grid;
+    gap: 6px;
+    max-width: 760px;
+  }
+
+  .daily-rail-copy .eyebrow,
+  .daily-rail-copy .section-title,
+  .daily-rail-copy .section-copy {
+    margin: 0;
+  }
+
+  .daily-rail-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 12px;
+    align-items: center;
+  }
+
+  .pager {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    border-top: 1px solid var(--border);
+    padding-top: 16px;
+    color: var(--text-muted);
+    font-size: var(--font-sm);
+  }
+
+  .pager a {
+    color: var(--accent-text);
+    font-size: var(--font-sm);
+    font-weight: 600;
+  }
+
+  .secondary-link {
+    color: var(--accent-text);
+    font-size: var(--font-sm);
+    font-weight: 600;
+  }
+
+  @media (min-width: 960px) {
+    .daily-rail {
+      grid-template-columns: minmax(0, 1.15fr) auto;
+      align-items: end;
+      gap: 20px;
+    }
+  }
+
+  @media (max-width: 639px) {
+    .pager {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+</style>

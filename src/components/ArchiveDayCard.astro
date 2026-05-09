@@ -1,0 +1,147 @@
+---
+import { formatDateTime } from "@/lib/dates";
+import type { ArchiveEntry } from "@/lib/types";
+
+interface Props {
+  entry: ArchiveEntry;
+}
+
+const { entry } = Astro.props;
+---
+
+<a class="archive-card" href={`/archive/${entry.date}`}>
+  <div class="archive-top">
+    <div class="archive-heading">
+      <p class="archive-kicker">日报摘要</p>
+      <h3>{entry.date}</h3>
+      <p class="archive-time">生成于 {formatDateTime(entry.generatedAt)}</p>
+    </div>
+    <div class="archive-stats" aria-label="摘要统计">
+      <span class="archive-stat">
+        <strong>{entry.total}</strong>
+        <span>条</span>
+      </span>
+      <span class="archive-stat">
+        <strong>{entry.sectionCount}</strong>
+        <span>版块</span>
+      </span>
+    </div>
+  </div>
+
+  <div class="archive-body">
+    <p class="archive-summary-label">当日重点</p>
+    <ul class="archive-highlights">
+      {entry.highlights.map((item) => <li>{item.title}</li>)}
+    </ul>
+  </div>
+
+  <span class="open-link">查看当日详情</span>
+</a>
+
+<style>
+  .archive-card {
+    display: grid;
+    gap: 10px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background: var(--surface);
+    padding: 15px 16px;
+    box-shadow: var(--shadow-subtle);
+  }
+
+  .archive-card:hover,
+  .archive-card:focus-visible {
+    border-color: var(--border-strong);
+    background: color-mix(in srgb, var(--surface) 92%, var(--accent-soft));
+  }
+
+  .archive-top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px 16px;
+  }
+
+  .archive-heading,
+  .archive-highlights,
+  .archive-top h3,
+  .archive-top p {
+    margin: 0;
+  }
+
+  .archive-heading {
+    display: grid;
+    gap: 4px;
+  }
+
+  .archive-kicker {
+    color: var(--accent-text);
+    font-size: var(--font-xs);
+    font-weight: 700;
+  }
+
+  .archive-top h3 {
+    font-size: var(--font-lg);
+    line-height: 1.25;
+  }
+
+  .archive-time,
+  .archive-summary-label {
+    color: var(--text-muted);
+    font-size: var(--font-sm);
+  }
+
+  .archive-stats {
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+  }
+
+  .archive-stat {
+    display: grid;
+    justify-items: center;
+    min-width: 68px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 8px 10px;
+    background: color-mix(in srgb, var(--surface) 84%, var(--surface-muted));
+    color: var(--text-muted);
+    font-size: var(--font-xs);
+    font-weight: 600;
+  }
+
+  .archive-stat strong {
+    color: var(--text);
+    font-size: var(--font-md);
+    line-height: 1.2;
+  }
+
+  .archive-body {
+    display: grid;
+    gap: 6px;
+  }
+
+  .archive-summary-label {
+    font-weight: 600;
+  }
+
+  .archive-highlights {
+    padding-left: 18px;
+    color: var(--text);
+  }
+
+  .archive-highlights li::marker {
+    color: var(--text-soft);
+  }
+
+  .archive-highlights li + li {
+    margin-top: 4px;
+  }
+
+  .open-link {
+    display: inline-flex;
+    color: var(--accent-text);
+    font-size: var(--font-sm);
+    font-weight: 700;
+  }
+</style>

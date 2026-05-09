@@ -1,0 +1,89 @@
+---
+import HeaderBar from "@/components/HeaderBar.astro";
+import PageIntro from "@/components/PageIntro.astro";
+import SiteFooter from "@/components/SiteFooter.astro";
+import TrustLinks from "@/components/TrustLinks.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getLatestDigest } from "@/lib/content";
+
+const latest = await getLatestDigest();
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  name: "AIpulse 联系方式",
+  description: "通过正式入口向 AIpulse 提交反馈、纠错、来源补充、合作或版权相关沟通。",
+  breadcrumb: {
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "首页", item: "https://pulse.ouraihub.com/" },
+      { "@type": "ListItem", position: 2, name: "联系方式", item: "https://pulse.ouraihub.com/contact" }
+    ]
+  }
+};
+---
+
+<BaseLayout
+  title="AIpulse | 联系方式"
+  description="通过正式入口向 AIpulse 提交反馈、纠错、来源补充、合作或版权相关沟通。"
+  schemaType="ContactPage"
+  structuredData={structuredData}
+>
+  <HeaderBar currentPath={Astro.url.pathname} />
+
+  <main class="container page-main">
+    <PageIntro
+      eyebrow="信任与合规"
+      title="联系方式"
+      description="面向站点反馈、内容纠错、来源补充、合作沟通和版权相关事项的统一入口。"
+      pills={["反馈与纠错", "来源补充", "合作与版权沟通"]}
+    />
+
+    <section class="page-section info-grid">
+      <article class="info-card">
+        <h2>适合联系的事项</h2>
+        <p>你可以通过正式联系入口反馈页面问题、条目错误、来源补充建议、合作意向、版权沟通或其他与 AIpulse 运营相关的问题。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>内容纠错</h2>
+        <p>如果你发现标题、摘要、时间、来源归类或跳转链接存在错误，建议在反馈时尽量附带页面路径、条目标题和你认为需要修正的内容，方便后续快速定位。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>来源补充</h2>
+        <p>如果你知道适合纳入 AIpulse 的公开信息源、研究来源、产品公告或行业信息渠道，也可以通过联系入口提交建议，帮助后续扩展覆盖范围。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>合作与商务沟通</h2>
+        <p>如需讨论合作、产品联动、内容引用、技术交流或未来广告相关合作，应通过统一联系渠道发起，以便后续集中处理。</p>
+      </article>
+    </section>
+
+    <section class="page-section surface-panel contact-panel">
+      <p class="eyebrow">当前说明</p>
+      <h2 class="section-title">正式联系渠道待补充</h2>
+      <p class="section-copy">
+        当前项目仍处于产品与页面建设阶段，这里先预留正式联系页结构。后续应补入稳定可用的邮箱、表单或其他正式联系方式，并同步更新页脚入口。
+      </p>
+    </section>
+
+    <TrustLinks currentPath={Astro.url.pathname} />
+  </main>
+
+  <SiteFooter generatedAt={latest.generatedAt} />
+</BaseLayout>
+
+<style>
+  .contact-panel {
+    display: grid;
+    gap: 10px;
+    max-width: 820px;
+  }
+
+  .contact-panel .eyebrow,
+  .contact-panel .section-title,
+  .contact-panel .section-copy {
+    margin: 0;
+  }
+</style>

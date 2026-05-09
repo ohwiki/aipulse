@@ -1,0 +1,57 @@
+---
+import NewsCard from "./NewsCard.astro";
+import type { DailySection } from "@/lib/types";
+
+interface Props {
+  section: DailySection;
+  description?: string;
+}
+
+const { section, description } = Astro.props;
+---
+
+<section class="page-section">
+  <div class="section-head">
+    <div class="section-kicker">
+      <p class="eyebrow">{section.label}</p>
+      <span class="count-chip">{section.items.length} 条</span>
+    </div>
+    {description && <p class="section-copy">{description}</p>}
+  </div>
+  <div class="section-list">
+    {section.items.map((item) => <NewsCard item={item} variant="full" />)}
+  </div>
+</section>
+
+<style>
+  .section-head {
+    margin-bottom: 12px;
+  }
+
+  .section-kicker {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .section-kicker .eyebrow {
+    margin: 0;
+  }
+
+  .count-chip {
+    display: inline-flex;
+    align-items: center;
+    min-height: 24px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 2px 8px;
+    color: var(--text-muted);
+    font-size: var(--font-xs);
+    font-weight: 700;
+  }
+
+  .section-list {
+    display: grid;
+    gap: 14px;
+  }
+</style>

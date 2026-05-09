@@ -1,0 +1,98 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  robots?: string;
+  ogType?: string;
+  schemaType?: string;
+  structuredData?: Record<string, unknown> | Array<Record<string, unknown>>;
+}
+
+type JsonLdEntry = Record<string, unknown>;
+
+const {
+  title,
+  description,
+  image,
+  robots = "index,follow",
+  ogType = "website",
+  schemaType = "WebPage",
+  structuredData
+} = Astro.props;
+
+const siteName = "AIpulse";
+const siteUrl = Astro.site ?? new URL("https://pulse.ouraihub.com");
+const canonicalUrl = new URL(Astro.url.pathname, siteUrl).toString();
+const socialImage = image ? new URL(image, siteUrl).toString() : undefined;
+
+const defaultStructuredData: JsonLdEntry[] = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: siteName,
+    url: siteUrl.toString(),
+    inLanguage: "zh-CN",
+    description: "面向中文 AI 从业者的每日资讯精选与摘要站。"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": schemaType,
+    name: title,
+    url: canonicalUrl,
+    description,
+    isPartOf: {
+      "@type": "WebSite",
+      name: siteName,
+      url: siteUrl.toString()
+    },
+    inLanguage: "zh-CN"
+  }
+];
+
+const extraStructuredData: JsonLdEntry[] = structuredData
+  ? Array.isArray(structuredData)
+    ? structuredData
+    : [structuredData]
+  : [];
+
+const mergedStructuredData: JsonLdEntry[] = defaultStructuredData.concat(extraStructuredData);
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content={robots} />
+    <meta name="theme-color" content="#6d4aff" />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="canonical" href={canonicalUrl} />
+
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    {socialImage && <meta property="og:image" content={socialImage} />}
+
+    <meta name="twitter:card" content={socialImage ? "summary_large_image" : "summary"} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    {socialImage && <meta name="twitter:image" content={socialImage} />}
+
+    {
+      mergedStructuredData.map((entry) => (
+        <script is:inline type="application/ld+json" set:html={JSON.stringify(entry)} />
+      ))
+    }
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

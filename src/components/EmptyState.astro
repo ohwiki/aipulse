@@ -1,0 +1,46 @@
+---
+interface Props {
+  title: string;
+  description: string;
+}
+
+const { title, description } = Astro.props;
+---
+
+<section class="empty-state page-section">
+  <p class="eyebrow">暂无内容</p>
+  <h2>{title}</h2>
+  <p>{description}</p>
+  <a class="card-link" href="/">返回首页</a>
+</section>
+
+<style>
+  .empty-state {
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background: var(--surface);
+    padding: 24px 18px;
+  }
+
+  .empty-state .eyebrow,
+  .empty-state h2,
+  .empty-state p {
+    margin: 0;
+  }
+
+  .empty-state h2 {
+    margin-top: 8px;
+    font-size: var(--font-xl);
+    line-height: var(--leading-tight);
+  }
+
+  .empty-state p {
+    margin-top: 10px;
+    color: var(--text-muted);
+  }
+
+  .empty-state a {
+    display: inline-block;
+    margin-top: 16px;
+  }
+</style>

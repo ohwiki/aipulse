@@ -1,0 +1,39 @@
+name: Daily Fetch
+
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch sources
+        run: python tools/fetch_sources.py
+
+      - name: Score and filter
+        env:
+          NULLCLAW_API_KEY: ${{ secrets.NULLCLAW_API_KEY }}
+          NULLCLAW_BASE_URL: ${{ secrets.NULLCLAW_BASE_URL }}
+          NULLCLAW_MODEL: ${{ vars.NULLCLAW_MODEL }}
+        run: python tools/score_and_filter.py
+
+      - name: Generate daily
+        run: python tools/generate_daily.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || (git commit -m "daily: $(date +%Y-%m-%d)" && git push)

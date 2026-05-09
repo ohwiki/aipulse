@@ -1,0 +1,77 @@
+---
+import HeaderBar from "@/components/HeaderBar.astro";
+import PageIntro from "@/components/PageIntro.astro";
+import SiteFooter from "@/components/SiteFooter.astro";
+import TrustLinks from "@/components/TrustLinks.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getLatestDigest } from "@/lib/content";
+
+const latest = await getLatestDigest();
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  name: "AIpulse 方法说明",
+  description: "了解 AIpulse 当前如何抓取、筛选、排序和整理 AI 资讯，以及站内摘要与原文的边界。",
+  breadcrumb: {
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "首页", item: "https://pulse.ouraihub.com/" },
+      { "@type": "ListItem", position: 2, name: "方法说明", item: "https://pulse.ouraihub.com/methodology" }
+    ]
+  }
+};
+---
+
+<BaseLayout
+  title="AIpulse | 方法说明"
+  description="了解 AIpulse 当前如何抓取、筛选、排序和整理 AI 资讯，以及站内摘要与原文的边界。"
+  schemaType="WebPage"
+  structuredData={structuredData}
+>
+  <HeaderBar currentPath={Astro.url.pathname} />
+
+  <main class="container page-main">
+    <PageIntro
+      eyebrow="信任与合规"
+      title="方法说明"
+      description="说明 AIpulse 当前如何从公开来源获取条目，并将其整理成适合中文 AI 从业者快速浏览的资讯流。"
+      pills={["公开来源抓取", "筛选与排序", "摘要整理而非原文复制"]}
+    />
+
+    <section class="page-section info-grid">
+      <article class="info-card">
+        <h2>数据从哪里来</h2>
+        <p>AIpulse 当前主要从公开 RSS、arXiv 和 HuggingFace Daily Papers 这类来源抓取内容。站点的目标不是覆盖一切信息，而是优先覆盖对 AI 从业者有持续参考价值的公开更新源。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>如何进入候选池</h2>
+        <p>抓取程序会按配置源拉取最近条目，并做去重、字段统一和基础清洗。进入前端的数据不是原始网页快照，而是结构化后的候选资讯条目。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>如何筛选与排序</h2>
+        <p>当前流程会结合打分与筛选步骤，优先保留对中文 AI 从业者更有价值的条目，例如模型发布、重要产品更新、研究进展和行业信号。站内展示默认不是纯时间倒序，而是更强调值得先看的内容。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>中文摘要如何形成</h2>
+        <p>站内展示会尽量将原始条目整理为更适合中文浏览的标题与摘要。AIpulse 的目标是帮助用户更快理解一条资讯为何值得看，而不是把原文大段复制到站内。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>人工与模型的边界</h2>
+        <p>当前流程包含自动抓取、打分和整理步骤。后续无论是继续优化模型提示词，还是加入人工规则，原则都应保持一致：提升筛选质量、增强摘要价值、减少噪音，而不是制造表面上的内容数量。</p>
+      </article>
+
+      <article class="info-card">
+        <h2>为什么不直接复制原文</h2>
+        <p>AIpulse 的定位是资讯聚合与导航，不是原文镜像站。站内保留的是帮助用户快速判断的结构化信息，用户需要阅读全文时，应通过原文链接回到原始来源。</p>
+      </article>
+    </section>
+
+    <TrustLinks currentPath={Astro.url.pathname} />
+  </main>
+
+  <SiteFooter generatedAt={latest.generatedAt} />
+</BaseLayout>
