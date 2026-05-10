@@ -2,6 +2,7 @@ rss:
   - name: OpenAI Blog
     url: https://openai.com/blog/rss.xml
     category: ai-models
+    window_hours: 72
   - name: Anthropic
     url: https://www.anthropic.com/rss.xml
     category: ai-models
@@ -10,6 +11,33 @@ rss:
   - name: Google DeepMind
     url: https://deepmind.google/blog/rss.xml
     category: ai-models
+    window_hours: 72
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+    category: ai-models
+    window_hours: 72
+    keywords_any:
+      - gemini
+      - model
+      - llm
+      - agent
+      - ai
+      - deepmind
+      - reasoning
+      - multimodal
+  - name: Google Developers Blog AI
+    url: https://developers.googleblog.com/rss/
+    category: ai-models
+    window_hours: 72
+    keywords_any:
+      - gemini
+      - large language model
+      - llm
+      - agent
+      - ai
+      - generative ai
+      - model
+      - reasoning
   - name: Meta AI
     url: https://ai.meta.com/blog/rss/
     category: ai-models
@@ -18,14 +46,12 @@ rss:
   - name: HuggingFace Blog
     url: https://huggingface.co/blog/feed.xml
     category: ai-products
+    window_hours: 72
   - name: Mistral AI
     url: https://mistral.ai/feed.xml
     category: ai-models
     enabled: false
     note: RSS endpoint currently returns 404 as of 2026-05-09
-  - name: Product Hunt AI
-    url: https://www.producthunt.com/feed?category=artificial-intelligence
-    category: ai-products
 
 api:
   - name: arXiv cs.AI
@@ -33,12 +59,107 @@ api:
     query: "cat:cs.AI"
     max_results: 30
     category: paper
+    window_hours: 72
+    keywords_any:
+      - agent
+      - llm
+      - language model
+      - reasoning
+      - benchmark
   - name: arXiv cs.CL
     type: arxiv
     query: "cat:cs.CL"
     max_results: 30
     category: paper
+    window_hours: 72
+    keywords_any:
+      - llm
+      - language model
+      - agent
+      - rag
+      - retrieval
+      - benchmark
+      - reasoning
+  - name: arXiv cs.LG
+    type: arxiv
+    query: "cat:cs.LG"
+    max_results: 40
+    category: paper
+    window_hours: 72
+    keywords_any:
+      - llm
+      - language model
+      - agent
+      - multimodal
+      - reasoning
+      - benchmark
+      - open-source
+      - inference
+  - name: arXiv cs.IR
+    type: arxiv
+    query: "cat:cs.IR"
+    max_results: 30
+    category: paper
+    window_hours: 72
+    keywords_any:
+      - rag
+      - retrieval
+      - search
+      - rank
+      - re-rank
+      - dense retrieval
+      - agent
+  - name: arXiv cs.CV
+    type: arxiv
+    query: "cat:cs.CV"
+    max_results: 30
+    category: paper
+    window_hours: 72
+    keywords_any:
+      - multimodal
+      - vision-language
+      - vla
+      - agent
+      - video
+      - diffusion
+      - world model
   - name: HuggingFace Daily Papers
     type: hf_papers
     url: https://huggingface.co/api/daily_papers
     category: paper
+    window_hours: 72
+    keywords_any:
+      - llm
+      - language model
+      - agent
+      - multimodal
+      - reasoning
+      - benchmark
+      - retrieval
+      - diffusion
+  - name: Product Hunt AI
+    type: producthunt
+    category: ai-products
+    max_results: 12
+    page_size: 12
+    window_hours: 24
+    keywords_any:
+      - ai
+      - llm
+      - agent
+      - gpt
+      - claude
+      - openai
+      - anthropic
+      - prompt
+      - automation
+      - coding
+      - developer
+
+daily:
+  category_limits:
+    ai-models: 4
+    ai-products: 4
+    industry: 4
+    paper: 8
+    tip: 4

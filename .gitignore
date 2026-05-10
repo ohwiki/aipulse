@@ -6,3 +6,10 @@ dist/
 .bun-tmp/
 *.log
 msgflow/
+.env
+.env.local
+.venv/
+.pydeps/
+.uv-cache/
+data/raw/*.json
+data/scored/*.json

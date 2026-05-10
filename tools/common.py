@@ -17,6 +17,25 @@ SCORED_DIR = DATA_DIR / "scored"
 DAILY_DIR = DATA_DIR / "daily"
 
 
+def load_dotenv() -> None:
+    for candidate in (ROOT_DIR / ".env", ROOT_DIR / ".env.local"):
+        if not candidate.exists():
+            continue
+        for raw_line in candidate.read_text(encoding="utf-8").splitlines():
+            line = raw_line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, value = line.split("=", 1)
+            key = key.strip()
+            if not key or key in os.environ:
+                continue
+            value = value.strip().strip("\"'")
+            os.environ[key] = value
+
+
+load_dotenv()
+
+
 def ensure_dir(path: Path) -> None:
     path.mkdir(parents=True, exist_ok=True)
 

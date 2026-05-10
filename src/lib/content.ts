@@ -24,6 +24,17 @@ interface RawItem {
   published_at?: string;
   publishedAt?: string;
   score?: number;
+  rank_score?: number;
+  rankingScore?: number;
+  source_type?: string;
+  sourceType?: string;
+  votes_count?: number;
+  votesCount?: number;
+  featured?: boolean;
+  topics?: string[];
+  score_details?: {
+    reason?: string;
+  };
 }
 
 interface RawDailySection {
@@ -52,6 +63,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT_DIR = path.resolve(__dirname, "../..");
 const DATA_DIR = path.join(ROOT_DIR, "data");
 const DAILY_DIR = path.join(DATA_DIR, "daily");
+const DAILY_FILENAME_RE = /^\d{4}-\d{2}-\d{2}\.json$/;
 
 function normalizeItem(item: RawItem): PulseItem {
   const title = item.title_zh ?? item.title ?? "";
@@ -63,23 +75,31 @@ function normalizeItem(item: RawItem): PulseItem {
     titleEn: titleEn && titleEn !== title ? titleEn : undefined,
     url: item.url,
     source: item.source,
+    sourceType: item.source_type ?? item.sourceType,
     category: item.category ?? "",
     score: item.score ?? 0,
+    rankingScore: item.rankingScore ?? item.rank_score ?? item.score ?? 0,
     summary: item.summary_zh ?? item.summary ?? "",
-    publishedAt: item.published_at ?? item.publishedAt
+    publishedAt: item.published_at ?? item.publishedAt,
+    votesCount: item.votesCount ?? item.votes_count,
+    featured: item.featured,
+    topics: item.topics ?? [],
+    rankingReason: item.score_details?.reason
   };
 }
 
 function sortItems(items: PulseItem[]) {
   return [...items].sort((left, right) => {
+    const leftScore = left.rankingScore ?? left.score;
+    const rightScore = right.rankingScore ?? right.score;
     const leftTime = left.publishedAt ? new Date(left.publishedAt).getTime() : 0;
     const rightTime = right.publishedAt ? new Date(right.publishedAt).getTime() : 0;
 
-    if (leftTime !== rightTime) {
-      return rightTime - leftTime;
+    if (leftScore !== rightScore) {
+      return rightScore - leftScore;
     }
 
-    return right.score - left.score;
+    return rightTime - leftTime;
   });
 }
 
@@ -114,7 +134,7 @@ export async function getDailyDates(): Promise<string[]> {
   const entries = await fs.readdir(DAILY_DIR);
 
   return entries
-    .filter((entry: string) => entry.endsWith(".json"))
+    .filter((entry: string) => DAILY_FILENAME_RE.test(entry))
     .map((entry: string) => entry.replace(/\.json$/, ""))
     .sort((left: string, right: string) => right.localeCompare(left));
 }
@@ -146,14 +166,23 @@ export async function getLatestDailyDigest(): Promise<DailyDigest | null> {
 }
 
 export async function getLatestDigest(): Promise<LatestDigest> {
-  const raw = await readJson<RawLatestDigest>(path.join(DATA_DIR, "latest.json"));
+  try {
+    const raw = await readJson<RawLatestDigest>(path.join(DATA_DIR, "latest.json"));
 
-  return {
-    generatedAt: raw.generated_at ?? raw.generatedAt ?? "",
-    days: raw.days ?? 0,
-    total: raw.total ?? raw.items.length,
-    items: sortItems(raw.items.map(normalizeItem))
-  };
+    return {
+      generatedAt: raw.generated_at ?? raw.generatedAt ?? "",
+      days: raw.days ?? 0,
+      total: raw.total ?? raw.items.length,
+      items: sortItems(raw.items.map(normalizeItem))
+    };
+  } catch {
+    return {
+      generatedAt: "",
+      days: 0,
+      total: 0,
+      items: []
+    };
+  }
 }
 
 export interface ItemQuery {

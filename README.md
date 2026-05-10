@@ -24,7 +24,8 @@ aipulse-dev/
 ├── .github/       # GitHub Actions
 ├── package.json   # 前端依赖与脚本
 ├── pnpm-lock.yaml
-├── requirements.txt
+├── pyproject.toml
+├── uv.lock
 └── README.md
 ```
 
@@ -33,22 +34,59 @@ aipulse-dev/
 当前 P1 能力：
 
 - 从 RSS、arXiv、HuggingFace Daily Papers 拉取最近 24 小时条目
+- 通过 Product Hunt GraphQL API 拉取最近 24 小时高票新品，并按 AI 关键词过滤
 - 调用 MiMo 兼容接口打分并筛选高价值资讯
 - 生成按分类组织的日报 JSON 和最近 7 天聚合数据
 - 支持 GitHub Actions 定时执行
 
+### 使用 uv
+
+推荐直接用 `uv` 管理 Python 环境：
+
+```bash
+uv sync
+```
+
+之后统一这样运行：
+
+```bash
+uv run python tools/fetch_sources.py
+uv run python tools/score_and_filter.py --dry-run
+uv run python tools/generate_daily.py
+```
+
 ### 安装依赖
 
 ```bash
-python -m pip install -r requirements.txt
+uv sync
 ```
+
+### 本地配置
+
+`aipulse` 现在会优先读取仓库根目录下的 `.env` 和 `.env.local`，不需要再借用别的项目里的环境变量文件。
+
+先复制模板：
+
+```bash
+cp .env.example .env
+```
+
+然后在 `.env` 中填写你自己的密钥：
+
+- `NULLCLAW_API_KEY`
+- `PRODUCTHUNT_DEVELOPER_TOKEN`
+
+如果没有 Product Hunt developer token，也可以改填：
+
+- `PRODUCTHUNT_CLIENT_ID`
+- `PRODUCTHUNT_CLIENT_SECRET`
 
 ### 运行顺序
 
 1. 拉取原始数据
 
 ```bash
-python tools/fetch_sources.py
+uv run python tools/fetch_sources.py
 ```
 
 2. 打分和筛选
@@ -56,27 +94,27 @@ python tools/fetch_sources.py
 真实 LLM 模式：
 
 ```bash
-python tools/score_and_filter.py
+uv run python tools/score_and_filter.py
 ```
 
 如果还没配置 MiMo，先用演练模式跑通全链路：
 
 ```bash
-python tools/score_and_filter.py --dry-run
+uv run python tools/score_and_filter.py --dry-run
 ```
 
 3. 生成日报
 
 ```bash
-python tools/generate_daily.py
+uv run python tools/generate_daily.py
 ```
 
 完整演练顺序：
 
 ```bash
-python tools/fetch_sources.py
-python tools/score_and_filter.py --dry-run
-python tools/generate_daily.py
+uv run python tools/fetch_sources.py
+uv run python tools/score_and_filter.py --dry-run
+uv run python tools/generate_daily.py
 ```
 
 ### 环境变量
@@ -84,11 +122,19 @@ python tools/generate_daily.py
 - `NULLCLAW_API_KEY`: MiMo API Key
 - `NULLCLAW_BASE_URL`: API Base URL，默认 `https://platform.xiaomimimo.com/v1`
 - `NULLCLAW_MODEL`: 模型名，默认 `mimo-v2.5-pro`
+- `PRODUCTHUNT_DEVELOPER_TOKEN`: Product Hunt 开发者 token，抓取 Product Hunt API 时优先使用
+- `PRODUCTHUNT_CLIENT_ID` / `PRODUCTHUNT_CLIENT_SECRET`: 如果没有 developer token，可用这组凭证换取 access token
+
+优先级：
+
+1. 进程环境变量
+2. 仓库根目录 `.env.local`
+3. 仓库根目录 `.env`
 
 未设置 `NULLCLAW_API_KEY` 时：
 
-- `python tools/score_and_filter.py` 会直接报错并提示你配置 Key
-- `python tools/score_and_filter.py --dry-run` 会跳过真实 LLM 调用，使用启发式分数和本地占位摘要
+- `uv run python tools/score_and_filter.py` 会直接报错并提示你配置 Key
+- `uv run python tools/score_and_filter.py --dry-run` 会跳过真实 LLM 调用，使用启发式分数和本地占位摘要
 
 ### 输出目录
 
@@ -113,6 +159,7 @@ python tools/generate_daily.py
 
 - `tools/sources.yaml` 支持 `enabled: false`，可临时禁用失效源
 - 可选 `note` 字段会进入抓取日志，方便区分“源被禁用”和“抓取失败”
+- `tools/sources.yaml` 里的 `daily.category_limits` 可控制日报每个分类的展示条数
 
 ## Astro 前端
 

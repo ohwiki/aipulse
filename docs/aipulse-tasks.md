@@ -18,7 +18,8 @@ aipulse/
 │   └── generate_daily.py   # 生成日报 JSON
 ├── data/
 │   └── .gitkeep
-├── requirements.txt
+├── pyproject.toml
+├── uv.lock
 └── README.md
 ```
 
@@ -30,11 +31,17 @@ aipulse/
 
 创建上述目录结构和基础文件。
 
-**requirements.txt:**
+**pyproject.toml:**
 ```
-feedparser
-requests
-pyyaml
+[project]
+name = "aipulse"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+  "feedparser",
+  "requests",
+  "pyyaml",
+]
 ```
 
 **README.md:** 简单说明项目是什么、怎么跑。
@@ -220,25 +227,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - uses: astral-sh/setup-uv@v5
         with:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: uv sync --locked
 
       - name: Fetch sources
-        run: python tools/fetch_sources.py
+        run: uv run python tools/fetch_sources.py
 
       - name: Score and filter
         env:
           NULLCLAW_API_KEY: ${{ secrets.NULLCLAW_API_KEY }}
           NULLCLAW_BASE_URL: ${{ secrets.NULLCLAW_BASE_URL }}
           NULLCLAW_MODEL: ${{ vars.NULLCLAW_MODEL }}
-        run: python tools/score_and_filter.py
+        run: uv run python tools/score_and_filter.py
 
       - name: Generate daily
-        run: python tools/generate_daily.py
+        run: uv run python tools/generate_daily.py
 
       - name: Commit and push
         run: |

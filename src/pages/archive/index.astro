@@ -10,6 +10,7 @@ import { getLatestDigest, listArchiveEntries } from "@/lib/content";
 const entries = await listArchiveEntries();
 const latest = await getLatestDigest();
 const latestEntry = entries[0];
+const quickDates = entries.slice(0, 8);
 const structuredData = {
   "@context": "https://schema.org",
   "@type": "ItemList",
@@ -41,6 +42,20 @@ const structuredData = {
     />
 
     {
+      quickDates.length > 0 && (
+        <section class="page-section archive-shortcuts surface-panel">
+          <div class="archive-shortcuts-copy">
+            <p class="eyebrow">快速跳转</p>
+            <p class="section-copy">先从最近几期里选一天进入，减少在长列表里来回找。</p>
+          </div>
+          <nav class="archive-shortcuts-links" aria-label="最近日报跳转">
+            {quickDates.map((entry) => <a href={`/archive/${entry.date}`}>{entry.date}</a>)}
+          </nav>
+        </section>
+      )
+    }
+
+    {
       latestEntry && (
         <section class="page-section archive-rail surface-panel">
           <div class="archive-rail-copy">
@@ -64,7 +79,7 @@ const structuredData = {
           {entries.map((entry) => <ArchiveDayCard entry={entry} />)}
         </section>
       ) : (
-        <EmptyState title="归档还没有数据" description="当前未生成可用的日报文件。" />
+        <EmptyState title="归档还没有数据" description="当前未生成可用的日报文件。" actionHref="/" actionLabel="返回今日首页" />
       )
     }
   </main>
@@ -76,6 +91,34 @@ const structuredData = {
   .archive-rail {
     display: grid;
     gap: 14px;
+  }
+
+  .archive-shortcuts {
+    display: grid;
+    gap: 12px;
+  }
+
+  .archive-shortcuts-copy .eyebrow,
+  .archive-shortcuts-copy .section-copy {
+    margin: 0;
+  }
+
+  .archive-shortcuts-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .archive-shortcuts-links a {
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: var(--surface);
+    padding: 8px 12px;
+    color: var(--text-muted);
+    font-size: var(--font-sm);
+    font-weight: 600;
   }
 
   .archive-rail-copy {

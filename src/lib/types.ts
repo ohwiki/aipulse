@@ -11,10 +11,16 @@ export interface PulseItem {
   titleEn?: string;
   url: string;
   source: string;
+  sourceType?: string;
   category: PulseCategory | string;
   score: number;
+  rankingScore?: number;
   summary: string;
   publishedAt?: string;
+  votesCount?: number;
+  featured?: boolean;
+  topics?: string[];
+  rankingReason?: string;
 }
 
 export interface DailySection {

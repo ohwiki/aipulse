@@ -12,12 +12,36 @@ const { item, variant = "full" } = Astro.props;
 const meta = getCategoryMeta(item.category);
 const showSummary = variant !== "compact";
 const showEnglishTitle = variant === "full" && item.titleEn;
+const showReason = variant !== "compact" && item.rankingReason;
+
+function inferSourceSignal(current: PulseItem) {
+  if (current.featured) {
+    return "Featured";
+  }
+
+  if (typeof current.votesCount === "number" && current.votesCount > 0) {
+    return `PH ${current.votesCount}`;
+  }
+
+  const source = current.source.toLowerCase();
+  if (source.includes("arxiv")) return "论文";
+  if (source.includes("product hunt")) return "产品榜";
+  if (["openai", "google", "deepmind", "anthropic", "mistral", "huggingface", "meta"].some((keyword) => source.includes(keyword))) {
+    return "官方";
+  }
+
+  return undefined;
+}
+
+const sourceSignal = inferSourceSignal(item);
+const topicPreview = item.topics?.slice(0, 2).join(" / ");
 ---
 
 <article class:list={["news-card", variant]}>
   <div class="meta-row">
     <span class="category-tag">{meta.label}</span>
     <span class="score-tag">{item.score.toFixed(1).replace(".0", "")}</span>
+    {sourceSignal && <span class="signal-tag">{sourceSignal}</span>}
   </div>
 
   <h3 class="card-title">{item.title}</h3>
@@ -29,6 +53,8 @@ const showEnglishTitle = variant === "full" && item.titleEn;
   </p>
 
   {showSummary && <p class="card-summary">{item.summary}</p>}
+  {showReason && <p class="card-reason">{item.rankingReason}</p>}
+  {!showReason && topicPreview && variant === "hero" && <p class="card-reason">{topicPreview}</p>}
 
   <a class="card-link" href={item.url} target="_blank" rel="noreferrer">查看原文</a>
 </article>
@@ -38,7 +64,6 @@ const showEnglishTitle = variant === "full" && item.titleEn;
     display: flex;
     flex-direction: column;
     gap: 8px;
-    height: 100%;
     border: 1px solid var(--border);
     border-radius: var(--radius-md);
     background: var(--surface);
@@ -68,7 +93,8 @@ const showEnglishTitle = variant === "full" && item.titleEn;
   }
 
   .category-tag,
-  .score-tag {
+  .score-tag,
+  .signal-tag {
     display: inline-flex;
     align-items: center;
     border-radius: var(--radius-sm);
@@ -87,6 +113,11 @@ const showEnglishTitle = variant === "full" && item.titleEn;
     color: var(--text);
   }
 
+  .signal-tag {
+    background: color-mix(in srgb, var(--surface) 78%, #eef7ff);
+    color: color-mix(in srgb, var(--text) 84%, #2d6cdf);
+  }
+
   .card-title {
     margin: 0;
     font-size: 18px;
@@ -100,7 +131,8 @@ const showEnglishTitle = variant === "full" && item.titleEn;
 
   .title-en,
   .card-summary,
-  .card-subline {
+  .card-subline,
+  .card-reason {
     margin: 0;
   }
 
@@ -127,8 +159,15 @@ const showEnglishTitle = variant === "full" && item.titleEn;
     line-height: 1.62;
   }
 
+  .card-reason {
+    color: var(--text-soft);
+    font-size: 13px;
+    line-height: 1.5;
+  }
+
   .compact .card-summary,
-  .compact .title-en {
+  .compact .title-en,
+  .compact .card-reason {
     display: none;
   }
 

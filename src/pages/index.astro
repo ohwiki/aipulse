@@ -13,7 +13,16 @@ import { formatDateLabel, formatDateTime } from "@/lib/dates";
 const digest = await getLatestDailyDigest();
 const title = "AIpulse | 今日 AI 资讯精选";
 const description = "面向中文 AI 从业者的每日资讯精选首页，快速查看今天最值得关注的模型、产品、行业与研究动态。";
-const leadItems = digest ? getTopItems(digest, 5) : [];
+const leadItems = digest ? getTopItems(digest, 4) : [];
+const leadIds = new Set(leadItems.map((item) => item.id));
+const remainingSections = digest
+  ? digest.sections
+      .map((section) => ({
+        ...section,
+        items: section.items.filter((item) => !leadIds.has(item.id))
+      }))
+      .filter((section) => section.items.length > 0)
+  : [];
 const structuredData = digest
   ? {
       "@context": "https://schema.org",
@@ -70,12 +79,20 @@ const structuredData = digest
           </section>
 
           {
-            digest.sections.map((section) => (
-              <SectionBlock
-                section={section}
-                description={getCategoryMeta(section.category).description}
-              />
-            ))
+            remainingSections.length > 0 ? (
+              remainingSections.map((section) => (
+                <SectionBlock
+                  section={section}
+                  description={getCategoryMeta(section.category).description}
+                  note={section.items.length <= 2 ? "今天这个版块条目较少，已把最高分内容提前放进头条区。" : undefined}
+                />
+              ))
+            ) : (
+              <section class="page-section surface-panel sparse-note">
+                <p class="eyebrow">当日较稀疏</p>
+                <p class="section-copy">今天入选条目不多，重点内容已经集中放在头条区，下面可直接切到归档或分类页继续看。</p>
+              </section>
+            )
           }
 
           <section class="page-section archive-entry surface-panel">
@@ -145,6 +162,11 @@ const structuredData = digest
 
   .archive-entry .section-title {
     font-size: 20px;
+  }
+
+  .sparse-note .section-copy,
+  .sparse-note .eyebrow {
+    margin: 0;
   }
 
   @media (min-width: 960px) {

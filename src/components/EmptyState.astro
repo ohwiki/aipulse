@@ -2,16 +2,23 @@
 interface Props {
   title: string;
   description: string;
+  actionHref?: string;
+  actionLabel?: string;
 }
 
-const { title, description } = Astro.props;
+const {
+  title,
+  description,
+  actionHref = "/",
+  actionLabel = "返回首页"
+} = Astro.props;
 ---
 
 <section class="empty-state page-section">
   <p class="eyebrow">暂无内容</p>
   <h2>{title}</h2>
   <p>{description}</p>
-  <a class="card-link" href="/">返回首页</a>
+  <a class="card-link" href={actionHref}>{actionLabel}</a>
 </section>
 
 <style>

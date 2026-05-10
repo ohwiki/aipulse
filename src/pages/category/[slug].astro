@@ -19,6 +19,29 @@ const { slug } = Astro.params;
 const category = slug ?? "";
 const meta = getCategoryMeta(category);
 const [latest, items] = await Promise.all([getLatestDigest(), listCategoryItems(category)]);
+const dayLabel = latest.days > 0 ? `最近 ${latest.days} 天` : "最近一段时间";
+
+function slugify(value: string) {
+  return value
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "") || "source";
+}
+
+const sourceGroups = Array.from(
+  items.reduce((map, item) => {
+    const key = item.source || "未知来源";
+    const bucket = map.get(key) ?? [];
+    bucket.push(item);
+    map.set(key, bucket);
+    return map;
+  }, new Map<string, typeof items>())
+).map(([source, sourceItems]) => ({
+  source,
+  sourceItems,
+  anchor: `source-${slugify(source)}`
+}));
+
 const structuredData = {
   "@context": "https://schema.org",
   "@type": "ItemList",
@@ -35,18 +58,18 @@ const structuredData = {
 
 <BaseLayout
   title={`AIpulse | ${meta.label}`}
-  description={`查看最近 7 天的 ${meta.label} 条目，快速掌握该主题下值得关注的 AI 动态。`}
+  description={`查看${dayLabel}的 ${meta.label} 条目，快速掌握该主题下值得关注的 AI 动态。`}
   schemaType="CollectionPage"
   structuredData={structuredData}
 >
   <HeaderBar currentPath={Astro.url.pathname} />
 
-  <main class="container page-main">
+  <main id="top" class="container page-main">
     <PageIntro
       eyebrow="分类浏览"
       title={meta.label}
-      description={`${meta.description} 最近 7 天内的相关条目会按更适合扫读的顺序连续展示。`}
-      pills={["最近 7 天", `${items.length} 条`]}
+      description={`${meta.description} ${dayLabel}内的相关条目会按更适合扫读的顺序连续展示。`}
+      pills={[dayLabel, `${items.length} 条`]}
     />
 
     <section class="page-section category-context surface-panel">
@@ -59,12 +82,37 @@ const structuredData = {
     </section>
 
     {
-      items.length > 0 ? (
-        <section class="page-section content-list">
-          {items.map((item) => <NewsCard item={item} variant="full" />)}
+      sourceGroups.length > 1 && (
+        <section class="page-section source-jump surface-panel">
+          <div class="source-jump-copy">
+            <p class="eyebrow">来源跳转</p>
+            <p class="section-copy">按来源快速定位，适合先看官方发布，再扫产品榜和论文源。</p>
+          </div>
+          <nav class="source-jump-links" aria-label="来源跳转">
+            {sourceGroups.map((group) => <a href={`#${group.anchor}`}>{group.source} <span>{group.sourceItems.length}</span></a>)}
+          </nav>
         </section>
+      )
+    }
+
+    {
+      items.length > 0 ? (
+        sourceGroups.map((group) => (
+          <section class="page-section source-group" id={group.anchor}>
+            <div class="source-group-head">
+              <div class="section-kicker">
+                <p class="eyebrow">{group.source}</p>
+                <span class="count-chip">{group.sourceItems.length} 条</span>
+              </div>
+              <a class="source-back-link" href="#top">回到页首</a>
+            </div>
+            <div class="content-list">
+              {group.sourceItems.map((item) => <NewsCard item={item} variant="full" />)}
+            </div>
+          </section>
+        ))
       ) : (
-        <EmptyState title="这个分类暂时没有内容" description="请切换其他分类或返回首页。" />
+        <EmptyState title="这个分类暂时没有内容" description="请切换其他分类或返回首页。" actionHref="/archive" actionLabel="去看归档" />
       )
     }
   </main>
@@ -87,6 +135,72 @@ const structuredData = {
   .category-context-copy .section-title,
   .category-context-copy .section-copy {
     margin: 0;
+  }
+
+  .source-jump,
+  .source-group {
+    display: grid;
+    gap: 12px;
+  }
+
+  .source-jump-copy .eyebrow,
+  .source-jump-copy .section-copy {
+    margin: 0;
+  }
+
+  .source-jump-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .source-jump-links a {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 7px 12px;
+    background: var(--surface);
+    color: var(--text-muted);
+    font-size: var(--font-sm);
+    font-weight: 600;
+  }
+
+  .source-jump-links span,
+  .count-chip {
+    display: inline-flex;
+    align-items: center;
+    min-height: 24px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 2px 8px;
+    color: var(--text-muted);
+    font-size: var(--font-xs);
+    font-weight: 700;
+    background: color-mix(in srgb, var(--surface) 88%, var(--surface-muted));
+  }
+
+  .source-group-head,
+  .section-kicker {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .section-kicker .eyebrow {
+    margin: 0;
+  }
+
+  .source-group-head {
+    justify-content: space-between;
+  }
+
+  .source-back-link {
+    color: var(--accent-text);
+    font-size: var(--font-sm);
+    font-weight: 600;
   }
 
   @media (min-width: 960px) {

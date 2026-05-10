@@ -1,0 +1,14 @@
+[project]
+name = "aipulse"
+version = "0.1.0"
+description = "AIpulse Python data pipeline"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "feedparser",
+  "requests",
+  "pyyaml",
+]
+
+[tool.uv]
+package = false

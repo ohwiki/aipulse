@@ -5,18 +5,20 @@ import type { DailySection } from "@/lib/types";
 interface Props {
   section: DailySection;
   description?: string;
+  note?: string;
 }
 
-const { section, description } = Astro.props;
+const { section, description, note } = Astro.props;
 ---
 
-<section class="page-section">
+<section class="page-section" id={`section-${section.category}`}>
   <div class="section-head">
     <div class="section-kicker">
       <p class="eyebrow">{section.label}</p>
       <span class="count-chip">{section.items.length} 条</span>
     </div>
     {description && <p class="section-copy">{description}</p>}
+    {note && <p class="section-note">{note}</p>}
   </div>
   <div class="section-list">
     {section.items.map((item) => <NewsCard item={item} variant="full" />)}
@@ -53,5 +55,11 @@ const { section, description } = Astro.props;
   .section-list {
     display: grid;
     gap: 14px;
+  }
+
+  .section-note {
+    margin: 6px 0 0;
+    color: var(--text-soft);
+    font-size: 13px;
   }
 </style>

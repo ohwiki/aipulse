@@ -71,6 +71,16 @@ const structuredData = digest
             pills={[`${digest.sections.length} 个版块`, "按分类整理展示"]}
           />
 
+          <nav class="page-section section-jump surface-panel" aria-label="版块跳转">
+            <div class="section-jump-copy">
+              <p class="eyebrow">版块跳转</p>
+              <p class="section-copy">先按版块快速落点，再决定是否完整读完某一段。</p>
+            </div>
+            <div class="section-jump-links">
+              {digest.sections.map((section) => <a href={`#section-${section.category}`}>{section.label}</a>)}
+            </div>
+          </nav>
+
           <section class="page-section daily-rail surface-panel">
             <div class="daily-rail-copy">
               <p class="eyebrow">当日工作台</p>
@@ -103,7 +113,7 @@ const structuredData = digest
           </nav>
         </>
       ) : (
-        <EmptyState title="找不到这一天的日报" description="请返回归档页选择可用日期。" />
+        <EmptyState title="找不到这一天的日报" description="请返回归档页选择可用日期。" actionHref="/archive" actionLabel="返回归档页" />
       )
     }
   </main>
@@ -115,6 +125,34 @@ const structuredData = digest
   .daily-rail {
     display: grid;
     gap: 14px;
+  }
+
+  .section-jump {
+    display: grid;
+    gap: 12px;
+  }
+
+  .section-jump-copy .eyebrow,
+  .section-jump-copy .section-copy {
+    margin: 0;
+  }
+
+  .section-jump-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .section-jump-links a {
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: var(--surface);
+    padding: 8px 12px;
+    color: var(--text-muted);
+    font-size: var(--font-sm);
+    font-weight: 600;
   }
 
   .daily-rail-copy {

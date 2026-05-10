@@ -2,7 +2,7 @@ name: Daily Fetch
 
 on:
   schedule:
-    - cron: "0 23 * * *"
+    - cron: "30 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,29 +11,50 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - uses: astral-sh/setup-uv@v5
         with:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: uv sync --locked
 
       - name: Fetch sources
-        run: python tools/fetch_sources.py
+        env:
+          PRODUCTHUNT_DEVELOPER_TOKEN: ${{ secrets.PRODUCTHUNT_DEVELOPER_TOKEN }}
+          PRODUCTHUNT_CLIENT_ID: ${{ secrets.PRODUCTHUNT_CLIENT_ID }}
+          PRODUCTHUNT_CLIENT_SECRET: ${{ secrets.PRODUCTHUNT_CLIENT_SECRET }}
+        run: uv run python tools/fetch_sources.py
 
       - name: Score and filter
         env:
           NULLCLAW_API_KEY: ${{ secrets.NULLCLAW_API_KEY }}
           NULLCLAW_BASE_URL: ${{ secrets.NULLCLAW_BASE_URL }}
           NULLCLAW_MODEL: ${{ vars.NULLCLAW_MODEL }}
-        run: python tools/score_and_filter.py
+        run: uv run python tools/score_and_filter.py
 
       - name: Generate daily
-        run: python tools/generate_daily.py
+        run: uv run python tools/generate_daily.py
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install frontend dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build frontend
+        env:
+          ASTRO_TELEMETRY_DISABLED: "1"
+        run: pnpm build
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/daily/ data/latest.json
           git diff --cached --quiet || (git commit -m "daily: $(date +%Y-%m-%d)" && git push)
