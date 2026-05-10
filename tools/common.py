@@ -7,9 +7,11 @@ from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
+from zoneinfo import ZoneInfo
 
 
 UTC = timezone.utc
+LOCAL_TZ = ZoneInfo("Asia/Shanghai")
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"
 RAW_DIR = DATA_DIR / "raw"
@@ -49,9 +51,17 @@ def utc_now() -> datetime:
     return datetime.now(UTC)
 
 
+def local_now() -> datetime:
+    return datetime.now(LOCAL_TZ)
+
+
 def today_str(now: datetime | None = None) -> str:
-    current = now or utc_now()
-    return current.date().isoformat()
+    current = now or local_now()
+    return current.astimezone(LOCAL_TZ).date().isoformat()
+
+
+def local_date_str_from_utc(value: datetime) -> str:
+    return value.astimezone(LOCAL_TZ).date().isoformat()
 
 
 def isoformat_z(value: datetime) -> str:

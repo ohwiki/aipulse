@@ -15,10 +15,10 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 try:
-    from common import RAW_DIR, ensure_data_dirs, isoformat_z, item_id, normalize_whitespace, parse_datetime, today_str, utc_now, write_json
+    from common import RAW_DIR, ensure_data_dirs, isoformat_z, item_id, local_date_str_from_utc, normalize_whitespace, parse_datetime, today_str, utc_now, write_json
     from logger import get_logger
 except ModuleNotFoundError:
-    from tools.common import RAW_DIR, ensure_data_dirs, isoformat_z, item_id, normalize_whitespace, parse_datetime, today_str, utc_now, write_json
+    from tools.common import RAW_DIR, ensure_data_dirs, isoformat_z, item_id, local_date_str_from_utc, normalize_whitespace, parse_datetime, today_str, utc_now, write_json
     from tools.logger import get_logger
 
 
@@ -423,7 +423,7 @@ def main() -> None:
     args = parse_args()
     ensure_data_dirs()
     now = utc_now()
-    output_date = args.date or today_str(now)
+    output_date = args.date or local_date_str_from_utc(now)
     start_at, end_at = resolve_target_window(args.date)
     sources = load_sources(args.sources)
     all_items: list[dict] = []
