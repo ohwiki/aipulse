@@ -85,6 +85,15 @@ uv run python tools/generate_daily.py
 - 如果 Python 成功但前端构建失败，不会提交脏数据
 - 只有整条链路都通过，才会更新仓库内容
 
+此外，当前 workflow 已在 YAML 中显式声明：
+
+```yaml
+permissions:
+  contents: write
+```
+
+这一步是为了允许 `GITHUB_TOKEN` 在 workflow 中执行 `git push`。
+
 ## 5.2 GitHub Secrets / Variables
 
 进入：
@@ -110,6 +119,54 @@ uv run python tools/generate_daily.py
 ### Variables
 
 - `NULLCLAW_MODEL`
+
+## 5.3 组织 / 仓库权限设置
+
+如果仓库在 GitHub Organization 下，除了 workflow YAML 里的 `permissions:`，还必须检查 GitHub 后台的默认 token 权限。
+
+### 仓库级页面
+
+路径：
+
+- `Repository -> Settings -> Actions -> General`
+
+查看：
+
+- `Workflow permissions`
+
+如果这里是灰色不可编辑，说明它被组织级设置托管，不能在仓库里改。
+
+### 组织级页面
+
+路径：
+
+- `Organization -> Settings -> Actions -> General`
+
+找到：
+
+- `Workflow permissions`
+
+选择：
+
+- `Read and write permissions`
+
+说明：
+
+- 这一步决定 `GITHUB_TOKEN` 默认是否有写仓库权限
+- 如果这里只允许只读，即使 workflow 里写了 `permissions: contents: write`，`git push` 仍可能 403
+
+### 不要混淆的设置
+
+同一页面里还会有：
+
+- `Allow all actions and reusable workflows`
+- `Allow <org> actions and reusable workflows`
+
+这一块只控制：
+
+- 允许使用哪些 Actions
+
+它**不等于** `GITHUB_TOKEN` 的读写权限设置，不能替代 `Workflow permissions`
 
 ## 5.3 定时执行时间
 
@@ -168,12 +225,14 @@ Netlify 会监听仓库变更。
 
 1. 把当前代码 push 到 GitHub 主分支
 2. 在 GitHub 配好 Actions 的 secrets / variables
-3. 在 Netlify 连接仓库并完成首次部署
-4. 回到 GitHub Actions，手动运行一次 `Daily Fetch`
-5. 等 workflow 完成
-6. 检查仓库是否生成新的 `data/*.json`
-7. 等 Netlify 自动重新部署
-8. 打开线上站点验证页面结果
+3. 在 GitHub 组织或仓库的 `Actions -> General` 中确认：
+   - `Workflow permissions = Read and write permissions`
+4. 在 Netlify 连接仓库并完成首次部署
+5. 回到 GitHub Actions，手动运行一次 `Daily Fetch`
+6. 等 workflow 完成
+7. 检查仓库是否生成新的 `data/daily/*.json` 和 `data/latest.json`
+8. 等 Netlify 自动重新部署
+9. 打开线上站点验证页面结果
 
 ## 8. 验收清单
 
@@ -199,6 +258,11 @@ Netlify 会监听仓库变更。
 
 - workflow 提交数据后，Netlify 能自动重新部署
 
+### 权限链路
+
+- workflow 中 `git push` 不再报 403
+- `github-actions[bot]` 可以把 `data/daily` 和 `data/latest.json` 推回仓库
+
 ## 9. 当前已处理的上线前问题
 
 当前仓库已经处理：
@@ -208,6 +272,7 @@ Netlify 会监听仓库变更。
 - demo 产物已清理
 - 前端 demo 标记已移除
 - workflow 已补上 `pnpm build` 验证
+- workflow 已显式声明 `permissions: contents: write`
 - `netlify.toml` 已提供
 
 ## 10. 当前仍建议后续优化的内容
