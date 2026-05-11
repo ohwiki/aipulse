@@ -6,7 +6,7 @@ import HeaderBar from "@/components/HeaderBar.astro";
 import SectionBlock from "@/components/SectionBlock.astro";
 import SiteFooter from "@/components/SiteFooter.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
-import { getCategoryMeta } from "@/lib/categories";
+import { CATEGORY_ORDER, getCategoryMeta } from "@/lib/categories";
 import { getLatestDailyDigest, getTopItems } from "@/lib/content";
 import { formatDateLabel, formatDateTime } from "@/lib/dates";
 
@@ -22,6 +22,9 @@ const remainingSections = digest
         items: section.items.filter((item) => !leadIds.has(item.id))
       }))
       .filter((section) => section.items.length > 0)
+  : [];
+const missingCategories = digest
+  ? CATEGORY_ORDER.filter((category) => !digest.sections.some((section) => section.category === category)).map((category) => getCategoryMeta(category).label)
   : [];
 const structuredData = digest
   ? {
@@ -77,6 +80,18 @@ const structuredData = digest
           <section class="page-section">
             <CategoryTabs />
           </section>
+
+          {
+            missingCategories.length > 0 && (
+              <section class="page-section surface-panel coverage-note">
+                <p class="eyebrow">当日覆盖范围</p>
+                <h2 class="section-title">今天并不是每个版块都有新条目</h2>
+                <p class="section-copy">
+                  本期日报当前只收到了 {digest.sections.length} 个版块的入选内容。{missingCategories.join("、")} 今天暂无新条目，因此不会出现在首页主内容区。
+                </p>
+              </section>
+            )
+          }
 
           {
             remainingSections.length > 0 ? (
@@ -164,6 +179,9 @@ const structuredData = digest
     font-size: 20px;
   }
 
+  .coverage-note .eyebrow,
+  .coverage-note .section-title,
+  .coverage-note .section-copy,
   .sparse-note .section-copy,
   .sparse-note .eyebrow {
     margin: 0;

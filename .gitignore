@@ -13,3 +13,5 @@ msgflow/
 .uv-cache/
 data/raw/*.json
 data/scored/*.json
+data/daily/*.json
+data/latest.json

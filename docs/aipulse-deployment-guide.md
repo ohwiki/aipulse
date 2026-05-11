@@ -3,6 +3,8 @@
 > 部署目标：
 > - GitHub Actions 负责每日抓取、打分、生成 `data/*.json`
 > - Netlify 负责构建 Astro 前端并发布静态站
+> - `main` 只保留代码
+> - `data` 分支只保留正式数据
 
 ## 1. 当前推荐架构
 
@@ -13,8 +15,9 @@ GitHub Actions (cron)
 -> uv run python tools/fetch_sources.py
 -> uv run python tools/score_and_filter.py
 -> uv run python tools/generate_daily.py
--> commit data/*.json 回仓库
--> Netlify 监听仓库变更
+-> sync/push 到 data 分支
+-> 触发 Netlify build hook
+-> 构建前同步 data 分支
 -> pnpm build
 -> 发布 dist/
 ```
@@ -115,6 +118,22 @@ permissions:
 
 - `NULLCLAW_API_KEY`
 - `NULLCLAW_BASE_URL`
+- `NETLIFY_BUILD_HOOK_URL`
+
+### `NETLIFY_BUILD_HOOK_URL` 怎么获取
+
+1. 打开 Netlify 站点
+2. 进入 `Project configuration -> Build & deploy -> Continuous deployment -> Build hooks`
+3. 点击 `Add build hook`
+4. 输入一个名字并保存
+5. Netlify 会生成一条唯一的 hook URL
+6. 把这条 URL 复制到 GitHub Repo 的 `Settings -> Secrets and variables -> Actions` 中，名称设为 `NETLIFY_BUILD_HOOK_URL`
+
+说明：
+
+- 这条 URL 只用于触发 Netlify 重新构建
+- 不要提交到仓库
+- 如果不配置这条 secret，workflow 仍会正常产出 `data` 分支，只是不会自动触发 Netlify 重建
 
 ### Variables
 
@@ -211,13 +230,13 @@ permissions:
 
 ## 6.3 部署触发方式
 
-Netlify 会监听仓库变更。
+Netlify 不再依赖 `main` 的 daily commit 来触发。
 
 因此：
 
-- GitHub Actions 每天提交新的 `data/*.json`
-- 仓库主分支有新 commit
-- Netlify 自动重新构建并发布
+- GitHub Actions 每天提交新的 `data/*.json` 到 `data` 分支
+- workflow 成功后调用 Netlify build hook
+- Netlify 收到 hook 后重新构建并发布
 
 ## 7. 首次上线顺序
 
@@ -230,8 +249,8 @@ Netlify 会监听仓库变更。
 4. 在 Netlify 连接仓库并完成首次部署
 5. 回到 GitHub Actions，手动运行一次 `Daily Fetch`
 6. 等 workflow 完成
-7. 检查仓库是否生成新的 `data/daily/*.json` 和 `data/latest.json`
-8. 等 Netlify 自动重新部署
+7. 检查 `data` 分支是否生成新的 `data/daily/*.json` 和 `data/latest.json`
+8. 等 Netlify 通过 build hook 重新部署
 9. 打开线上站点验证页面结果
 
 ## 8. 验收清单
@@ -241,8 +260,6 @@ Netlify 会监听仓库变更。
 ### 数据链路
 
 - workflow 能手动触发成功
-- `data/raw/*.json` 生成
-- `data/scored/*.json` 生成
 - `data/daily/*.json` 生成
 - `data/latest.json` 更新
 
@@ -256,12 +273,12 @@ Netlify 会监听仓库变更。
 
 ### 自动更新
 
-- workflow 提交数据后，Netlify 能自动重新部署
+- workflow 提交数据后，Netlify 能通过 build hook 重新部署
 
 ### 权限链路
 
 - workflow 中 `git push` 不再报 403
-- `github-actions[bot]` 可以把 `data/daily` 和 `data/latest.json` 推回仓库
+- `github-actions[bot]` 可以把 `data/daily` 和 `data/latest.json` 推到 `data` 分支
 
 ## 9. 当前已处理的上线前问题
 
@@ -274,6 +291,7 @@ Netlify 会监听仓库变更。
 - workflow 已补上 `pnpm build` 验证
 - workflow 已显式声明 `permissions: contents: write`
 - `netlify.toml` 已提供
+- `NETLIFY_BUILD_HOOK_URL` 已作为可选触发参数接入 workflow
 
 ## 10. 当前仍建议后续优化的内容
 

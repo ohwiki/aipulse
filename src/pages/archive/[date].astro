@@ -5,7 +5,7 @@ import PageIntro from "@/components/PageIntro.astro";
 import SectionBlock from "@/components/SectionBlock.astro";
 import SiteFooter from "@/components/SiteFooter.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
-import { getCategoryMeta } from "@/lib/categories";
+import { CATEGORY_ORDER, getCategoryMeta } from "@/lib/categories";
 import { getDailyDates, getDailyDigest } from "@/lib/content";
 import { formatDateLabel, formatDateTime } from "@/lib/dates";
 
@@ -30,6 +30,9 @@ if (date) {
 }
 
 const flattenedItems = digest ? digest.sections.flatMap((section) => section.items) : [];
+const missingCategories = digest
+  ? CATEGORY_ORDER.filter((category) => !digest.sections.some((section) => section.category === category)).map((category) => getCategoryMeta(category).label)
+  : [];
 const structuredData = digest
   ? {
       "@context": "https://schema.org",
@@ -97,6 +100,18 @@ const structuredData = digest
               {nextDate && <a class="secondary-link" href={`/archive/${nextDate}`}>查看下一日</a>}
             </div>
           </section>
+
+          {
+            missingCategories.length > 0 && (
+              <section class="page-section surface-panel coverage-note">
+                <p class="eyebrow">版块覆盖</p>
+                <h2 class="section-title">这一天只有部分版块有入选内容</h2>
+                <p class="section-copy">
+                  {missingCategories.join("、")} 在 {digest.date} 这一天暂无新条目，所以这份日报只展示了实际命中的版块，而不是漏掉了页面内容。
+                </p>
+              </section>
+            )
+          }
 
           {
             digest.sections.map((section) => (
@@ -172,6 +187,12 @@ const structuredData = digest
     flex-wrap: wrap;
     gap: 10px 12px;
     align-items: center;
+  }
+
+  .coverage-note .eyebrow,
+  .coverage-note .section-title,
+  .coverage-note .section-copy {
+    margin: 0;
   }
 
   .pager {

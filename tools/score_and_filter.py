@@ -73,6 +73,46 @@ SUMMARY_RETRY_PROMPT = """请严格输出一个 JSON 对象，不要解释，不
 摘要：{summary}"""
 log = get_logger("score")
 
+MODEL_HINTS = (
+    "llm",
+    "foundation model",
+    "reasoning model",
+    "embedding model",
+    "multimodal model",
+    "model api",
+    "open weights",
+    "weights",
+    "inference model",
+    "model release",
+    "model update",
+)
+
+INDUSTRY_HINTS = (
+    "funding",
+    "raised",
+    "acquisition",
+    "acquire",
+    "partnership",
+    "partnered",
+    "merger",
+    "enterprise rollout",
+    "compliance",
+    "regulation",
+    "policy",
+)
+
+TIP_HINTS = (
+    "playbook",
+    "guide",
+    "tutorial",
+    "prompt",
+    "workflow template",
+    "template",
+    "best practice",
+    "cheat sheet",
+    "checklist",
+)
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Score and filter AIpulse source items")
@@ -80,6 +120,39 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--input", help="Explicit raw input path")
     parser.add_argument("--dry-run", action="store_true", help="Skip LLM calls and use heuristic scores/localized fields")
     return parser.parse_args()
+
+
+def infer_category(item: dict) -> str:
+    current = str(item.get("category", "")).strip() or "ai-products"
+    title = clean_text(str(item.get("title", ""))).lower()
+    summary = clean_text(str(item.get("summary", ""))).lower()
+    topics = " ".join(
+        str(topic.get("name", "")).lower()
+        for topic in (item.get("topics") or [])
+        if isinstance(topic, dict)
+    )
+    text = " ".join(part for part in (title, summary, topics) if part)
+
+    if current != "ai-products":
+        return current
+
+    if any(keyword in text for keyword in INDUSTRY_HINTS):
+        return "industry"
+
+    if any(keyword in text for keyword in TIP_HINTS):
+        return "tip"
+
+    if any(keyword in text for keyword in MODEL_HINTS):
+        return "ai-models"
+
+    return current
+
+
+def with_inferred_category(item: dict) -> dict:
+    inferred = infer_category(item)
+    if inferred == item.get("category"):
+        return item
+    return {**item, "category": inferred}
 
 
 def call_llm(prompt: str, model: str | None = None, temperature: float = 0.1, max_tokens: int = 200) -> str:
@@ -113,6 +186,7 @@ def call_llm(prompt: str, model: str | None = None, temperature: float = 0.1, ma
 
 
 def heuristic_score(item: dict) -> int:
+    item = with_inferred_category(item)
     score = 5
     source = str(item.get("source", "")).lower()
     title = str(item.get("title", ""))
@@ -196,6 +270,7 @@ def score_floor(item: dict, llm_score: int, heuristic: int) -> int:
 
 
 def fallback_score(item: dict, heuristic: int) -> int:
+    item = with_inferred_category(item)
     if is_producthunt_item(item):
         votes = int(item.get("votes_count") or 0)
         if votes >= 120:
@@ -235,6 +310,7 @@ def should_filter(item: dict, score: int, rank_score: float, score_payload: dict
 
 
 def is_candidate(item: dict) -> bool:
+    item = with_inferred_category(item)
     category = str(item.get("category", ""))
     title = str(item.get("title", "")).lower()
     summary = str(item.get("summary", "")).lower()
@@ -302,6 +378,7 @@ def is_candidate(item: dict) -> bool:
 
 
 def candidate_priority(item: dict) -> tuple:
+    item = with_inferred_category(item)
     category = str(item.get("category", ""))
     if is_producthunt_item(item):
         return (
@@ -356,6 +433,7 @@ def select_candidates(items: list[dict]) -> list[dict]:
 
 
 def heuristic_summary(item: dict) -> dict[str, str]:
+    item = with_inferred_category(item)
     title = clean_text(str(item.get("title", "")).strip())
     summary = clean_text(str(item.get("summary", "")).strip())
     source = str(item.get("source", "")).strip()
@@ -516,10 +594,10 @@ def prepare_item_for_scoring(item: dict) -> dict:
 
     content = fetch_content(item["url"])
     if not content:
-        return enriched
+        return with_inferred_category(enriched)
 
     enriched["summary"] = clean_text(content)[:4000]
-    return enriched
+    return with_inferred_category(enriched)
 
 
 def main() -> None:

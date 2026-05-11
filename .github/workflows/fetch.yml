@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: astral-sh/setup-uv@v5
         with:
@@ -55,9 +57,46 @@ jobs:
           ASTRO_TELEMETRY_DISABLED: "1"
         run: pnpm build
 
-      - name: Commit and push
+      - name: Publish data branch
+        id: publish
         run: |
+          set -euo pipefail
+          if ! git ls-remote --exit-code --heads origin data >/dev/null; then
+            echo "data branch does not exist yet; initialize it once before enabling this workflow."
+            exit 1
+          fi
+
+          git fetch origin data
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/daily/ data/latest.json
-          git diff --cached --quiet || (git commit -m "daily: $(date +%Y-%m-%d)" && git push)
+          data_worktree="$RUNNER_TEMP/aipulse-data"
+          rm -rf "$data_worktree"
+          git worktree add -B data "$data_worktree" origin/data
+          rm -rf "$data_worktree/data"
+          mkdir -p "$data_worktree/data/daily"
+          cp data/latest.json "$data_worktree/data/latest.json"
+          cp -R data/daily/. "$data_worktree/data/daily/"
+
+          cd "$data_worktree"
+          git add data/daily data/latest.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git commit -m "daily: $(date +%Y-%m-%d)"
+          git push origin HEAD:data
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Trigger Netlify build hook
+        if: steps.publish.outputs.changed == 'true'
+        env:
+          NETLIFY_BUILD_HOOK_URL: ${{ secrets.NETLIFY_BUILD_HOOK_URL }}
+        run: |
+          if [ -z "$NETLIFY_BUILD_HOOK_URL" ]; then
+            echo "NETLIFY_BUILD_HOOK_URL is not set; skipping hook trigger."
+            exit 0
+          fi
+
+          curl -fsS -X POST "$NETLIFY_BUILD_HOOK_URL"

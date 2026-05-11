@@ -7,6 +7,15 @@ AIpulse 是一个面向中文 AI 从业者的每日资讯聚合项目。
 - **Python pipeline**：抓取、打分、筛选、生成 `data/*.json`
 - **Astro 前端**：读取本地 JSON，生成静态资讯页面
 
+当前正式流程已经拆分为：
+
+- `main` 分支：代码与文档
+- `data` 分支：正式数据文件
+- GitHub Actions：每日产出并推送正式数据
+- Netlify：构建前同步 `data` 分支再发布，数据更新后可由 build hook 触发重建
+
+如果要启用 Netlify 自动重建，还需要在 GitHub Secrets 里配置 `NETLIFY_BUILD_HOOK_URL`，这个值来自 Netlify 站点的 Build hooks。
+
 这不是两个无关项目，而是一条完整链路：
 
 ```text
@@ -160,10 +169,13 @@ uv run python tools/generate_daily.py
 - `tools/sources.yaml` 支持 `enabled: false`，可临时禁用失效源
 - 可选 `note` 字段会进入抓取日志，方便区分“源被禁用”和“抓取失败”
 - `tools/sources.yaml` 里的 `daily.category_limits` 可控制日报每个分类的展示条数
+- `tools/score_and_filter.py` 会在评分前做一层轻量重分类，把明显更适合 `ai-models` / `industry` / `tip` 的条目从通用产品流里纠偏出来
 
 ## Astro 前端
 
 前端读取 `data/daily/*.json` 和 `data/latest.json`，生成静态页面。
+
+正式线上数据来自 `data` 分支，本地构建和 Netlify 构建都会先同步该分支的 `data/` 目录。
 
 当前已实现页面：
 

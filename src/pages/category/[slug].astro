@@ -7,7 +7,7 @@ import PageIntro from "@/components/PageIntro.astro";
 import SiteFooter from "@/components/SiteFooter.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import { CATEGORY_ORDER, getCategoryMeta } from "@/lib/categories";
-import { getLatestDigest, listCategoryItems } from "@/lib/content";
+import { getDailyDates, getLatestDigest, listCategoryItems } from "@/lib/content";
 
 export const prerender = true;
 
@@ -18,8 +18,13 @@ export function getStaticPaths() {
 const { slug } = Astro.params;
 const category = slug ?? "";
 const meta = getCategoryMeta(category);
-const [latest, items] = await Promise.all([getLatestDigest(), listCategoryItems(category)]);
+const [latest, items, dailyDates] = await Promise.all([getLatestDigest(), listCategoryItems(category), getDailyDates()]);
 const dayLabel = latest.days > 0 ? `最近 ${latest.days} 天` : "最近一段时间";
+const latestDailyDate = dailyDates[0];
+const latestDayItems = latestDailyDate
+  ? items.filter((item) => (item.publishedAt ? item.publishedAt.startsWith(latestDailyDate) : false))
+  : [];
+const hasLatestDayItems = latestDayItems.length > 0;
 
 function slugify(value: string) {
   return value
@@ -82,6 +87,18 @@ const structuredData = {
     </section>
 
     {
+      latestDailyDate && !hasLatestDayItems && items.length > 0 && (
+        <section class="page-section freshness-note surface-panel">
+          <p class="eyebrow">当日更新状态</p>
+          <h2 class="section-title">{latestDailyDate} 暂无这个分类的新条目</h2>
+          <p class="section-copy">
+            当前页展示的是最近 {latest.days} 天内的累计内容。也就是说，这不是漏渲染，而是最新一期日报里这个分类当天没有入选内容。
+          </p>
+        </section>
+      )
+    }
+
+    {
       sourceGroups.length > 1 && (
         <section class="page-section source-jump surface-panel">
           <div class="source-jump-copy">
@@ -138,13 +155,17 @@ const structuredData = {
   }
 
   .source-jump,
-  .source-group {
+  .source-group,
+  .freshness-note {
     display: grid;
     gap: 12px;
   }
 
   .source-jump-copy .eyebrow,
-  .source-jump-copy .section-copy {
+  .source-jump-copy .section-copy,
+  .freshness-note .eyebrow,
+  .freshness-note .section-title,
+  .freshness-note .section-copy {
     margin: 0;
   }
 

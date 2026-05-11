@@ -7,7 +7,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "check": "astro check"
+    "check": "astro check",
+    "sync:data": "python tools/sync_data_branch.py"
   },
   "dependencies": {
     "astro": "^5.8.0"
