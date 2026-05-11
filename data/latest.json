@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-11T01:51:16Z",
-  "generatedAt": "2026-05-11T01:51:16Z",
+  "generated_at": "2026-05-11T04:42:55Z",
+  "generatedAt": "2026-05-11T04:42:55Z",
   "days": 7,
   "total": 4,
   "count": 4,
   "items": [
     {
       "id": "ce66e408",
-      "title": "Vercel开源deepsec",
+      "title": "Vercel开源Deepsec",
       "title_en": "deepsec",
       "url": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
@@ -18,11 +18,11 @@
       "score": 9,
       "rank_score": 10.0,
       "rankingScore": 10.0,
-      "summary": "Vercel开源AI代码安全工具deepsec，可用你的基础设施和密钥检测代码安全问题。",
-      "summary_zh": "Vercel开源AI代码安全工具deepsec，可用你的基础设施和密钥检测代码安全问题。",
+      "summary": "Vercel开源AI代码安全工具Deepsec，可在用户自有基础设施中用自有密钥审查代码。",
+      "summary_zh": "Vercel开源AI代码安全工具Deepsec，可在用户自有基础设施中用自有密钥审查代码。",
       "publishedAt": "2026-05-10T07:01:00Z",
       "published_at": "2026-05-10T07:01:00Z",
-      "votes_count": 203,
+      "votes_count": 216,
       "featured": true,
       "topics": [
         {
@@ -59,7 +59,7 @@
     },
     {
       "id": "1d56a9e8",
-      "title": "TailGrids 3.0重构发布",
+      "title": "TailGrids 3.0发布",
       "title_en": "Tailgrids 3.0",
       "url": "https://www.producthunt.com/products/tailgrids?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
@@ -70,11 +70,11 @@
       "score": 8,
       "rank_score": 9.0,
       "rankingScore": 9.0,
-      "summary": "TailGrids 3.0全面重构，推出整合React、Tailwind和Figma的开源UI库，含600多个组件及AI工作流支持。",
-      "summary_zh": "TailGrids 3.0全面重构，推出整合React、Tailwind和Figma的开源UI库，含600多个组件及AI工作流支持。",
+      "summary": "TailGrids 3.0重构发布，整合React、Tailwind和Figma，提供600+组件及AI工作流支持。",
+      "summary_zh": "TailGrids 3.0重构发布，整合React、Tailwind和Figma，提供600+组件及AI工作流支持。",
       "publishedAt": "2026-05-10T07:01:00Z",
       "published_at": "2026-05-10T07:01:00Z",
-      "votes_count": 275,
+      "votes_count": 285,
       "featured": true,
       "topics": [
         {
@@ -106,7 +106,7 @@
         "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "3.0重构发布，含MCP与高票featured信号"
+        "reason": "PH高票Featured，属3.0重大发布"
       }
     },
     {
@@ -122,11 +122,11 @@
       "score": 8,
       "rank_score": 9.0,
       "rankingScore": 9.0,
-      "summary": "Adject 2.0上线AI产品视觉工作室，可在同一项目中持续生成、编辑和迭代商品素材。",
-      "summary_zh": "Adject 2.0上线AI产品视觉工作室，可在同一项目中持续生成、编辑和迭代商品素材。",
+      "summary": "Adject 2.0上线AI产品视觉工作室，可在同一项目中持续生成、编辑并迭代品牌产品素材。",
+      "summary_zh": "Adject 2.0上线AI产品视觉工作室，可在同一项目中持续生成、编辑并迭代品牌产品素材。",
       "publishedAt": "2026-05-10T07:01:00Z",
       "published_at": "2026-05-10T07:01:00Z",
-      "votes_count": 161,
+      "votes_count": 174,
       "featured": true,
       "topics": [
         {
@@ -153,7 +153,7 @@
         "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "PH高票featured，AI电商视觉工作流更新信号明确"
+        "reason": "PH高票Featured，属AI电商设计新发布"
       }
     },
     {
@@ -169,11 +169,11 @@
       "score": 8,
       "rank_score": 9.0,
       "rankingScore": 9.0,
-      "summary": "Notion 3.4新增仪表盘、连接器、图片生成和文档展示，AI代理能力进一步增强。",
-      "summary_zh": "Notion 3.4新增仪表盘、连接器、图片生成和文档展示，AI代理能力进一步增强。",
+      "summary": "Notion 3.4新增图像生成、仪表盘、文档展示、连接器和更智能AI代理。",
+      "summary_zh": "Notion 3.4新增图像生成、仪表盘、文档展示、连接器和更智能AI代理。",
       "publishedAt": "2026-05-10T07:01:00Z",
       "published_at": "2026-05-10T07:01:00Z",
-      "votes_count": 144,
+      "votes_count": 149,
       "featured": true,
       "topics": [
         {
@@ -200,7 +200,7 @@
         "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "Notion重要版本更新，AI能力增强且有热度"
+        "reason": "Notion重要版本更新，AI功能明确且PH热度高"
       }
     }
   ]
