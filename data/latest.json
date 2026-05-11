@@ -1,0 +1,375 @@
+{
+  "generated_at": "2026-05-11T00:05:36Z",
+  "generatedAt": "2026-05-11T00:05:36Z",
+  "days": 7,
+  "total": 8,
+  "count": 8,
+  "items": [
+    {
+      "id": "ce66e408",
+      "title": "Vercel开源AI代码安全工具Deepsec",
+      "title_en": "deepsec",
+      "url": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 9,
+      "rank_score": 10.0,
+      "rankingScore": 10.0,
+      "summary": "Vercel开源Deepsec，可在企业自有基础设施和密钥下对代码进行AI安全检测。",
+      "summary_zh": "Vercel开源Deepsec，可在企业自有基础设施和密钥下对代码进行AI安全检测。",
+      "publishedAt": "2026-05-10T07:01:00Z",
+      "published_at": "2026-05-10T07:01:00Z",
+      "votes_count": 200,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "865",
+          "name": "Security",
+          "slug": "security"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 2,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "Vercel开源AI代码安全工具，PH高票featured"
+      }
+    },
+    {
+      "id": "92f209ec",
+      "title": "Mac刘海监控Claude Code",
+      "title_en": "AgentPeek",
+      "url": "https://www.producthunt.com/products/agentpeek?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/agentpeek?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 9,
+      "rank_score": 10.0,
+      "rankingScore": 10.0,
+      "summary": "AgentPeek可在Mac刘海区监控Claude Code和Codex的会话、权限、Token用量及本地开发服务，数据仅存本地。",
+      "summary_zh": "AgentPeek可在Mac刘海区监控Claude Code和Codex的会话、权限、Token用量及本地开发服务，数据仅存本地。",
+      "publishedAt": "2026-05-10T07:01:00Z",
+      "published_at": "2026-05-10T07:01:00Z",
+      "votes_count": 126,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "303",
+          "name": "Menu Bar Apps",
+          "slug": "menu-bar-apps"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 2,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "监控Claude Code/Codex，PH高票featured"
+      }
+    },
+    {
+      "id": "1d56a9e8",
+      "title": "TailGrids 3.0重构发布",
+      "title_en": "Tailgrids 3.0",
+      "url": "https://www.producthunt.com/products/tailgrids?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/tailgrids?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "TailGrids 3.0发布，重构为整合React、Tailwind和Figma的开源UI库，含600多个组件与AI工作流支持。",
+      "summary_zh": "TailGrids 3.0发布，重构为整合React、Tailwind和Figma的开源UI库，含600多个组件与AI工作流支持。",
+      "publishedAt": "2026-05-10T07:01:00Z",
+      "published_at": "2026-05-10T07:01:00Z",
+      "votes_count": 266,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "AI应用前端工具更新，PH热度强"
+      }
+    },
+    {
+      "id": "b8f698bc",
+      "title": "Adject 2.0发布",
+      "title_en": "Adject 2.0",
+      "url": "https://www.producthunt.com/products/adject?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/adject?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Adject 2.0上线AI产品视觉工作流，可在同一项目中持续生成、编辑并迭代产品图、模特图和视频。",
+      "summary_zh": "Adject 2.0上线AI产品视觉工作流，可在同一项目中持续生成、编辑并迭代产品图、模特图和视频。",
+      "publishedAt": "2026-05-10T07:01:00Z",
+      "published_at": "2026-05-10T07:01:00Z",
+      "votes_count": 159,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "278",
+          "name": "E-Commerce",
+          "slug": "e-commerce"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票featured，属AI电商视觉更新"
+      }
+    },
+    {
+      "id": "ff4e48d0",
+      "title": "ZapDigits推出AI报告助手Zappy",
+      "title_en": "Zappy by ZapDigits",
+      "url": "https://www.producthunt.com/products/zapdigits?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/zapdigits?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "ZapDigits发布Zappy，可接入多种营销数据源并用自然语言秒生成客户报告。",
+      "summary_zh": "ZapDigits发布Zappy，可接入多种营销数据源并用自然语言秒生成客户报告。",
+      "publishedAt": "2026-05-09T07:01:00Z",
+      "published_at": "2026-05-09T07:01:00Z",
+      "votes_count": 158,
+      "featured": true,
+      "topics": [
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "775",
+          "name": "Data Visualization",
+          "slug": "data-visualization"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票精选，营销分析Agent新品，价值较垂直"
+      }
+    },
+    {
+      "id": "ffc743bd",
+      "title": "ClawTick发布AI定时调度服务",
+      "title_en": "ClawTick",
+      "url": "https://www.producthunt.com/products/clawtick?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/clawtick?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 8.6,
+      "rankingScore": 8.6,
+      "summary": "ClawTick推出面向AI代理的云端定时调度工具，可一条命令安排任务并提供监控、重试和日志。",
+      "summary_zh": "ClawTick推出面向AI代理的云端定时调度工具，可一条命令安排任务并提供监控、重试和日志。",
+      "publishedAt": "2026-05-09T07:01:00Z",
+      "published_at": "2026-05-09T07:01:00Z",
+      "votes_count": 84,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 3,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "AI Agent调度新品，PH精选且有实用价值"
+      }
+    },
+    {
+      "id": "aedbe318",
+      "title": "P9推出AI熟练度评估",
+      "title_en": "How AI-pilled are you?",
+      "url": "https://www.producthunt.com/products/how-ai-pilled-are-you?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/how-ai-pilled-are-you?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 6,
+      "rank_score": 7.0,
+      "rankingScore": 7.0,
+      "summary": "P9发布AI Fluency Index，企业可在约12分钟内获得AI成熟度评分及提升建议。",
+      "summary_zh": "P9发布AI Fluency Index，企业可在约12分钟内获得AI成熟度评分及提升建议。",
+      "publishedAt": "2026-05-09T07:01:00Z",
+      "published_at": "2026-05-09T07:01:00Z",
+      "votes_count": 200,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 1,
+        "practitioner_value": 1,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票精选，但更偏组织评估工具"
+      }
+    },
+    {
+      "id": "33f3a065",
+      "title": "Prism招聘搜索平台",
+      "title_en": "Prism",
+      "url": "https://www.producthunt.com/products/prism-26?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/prism-26?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 6,
+      "rank_score": 7.0,
+      "rankingScore": 7.0,
+      "summary": "Prism面向开放人才市场搜索高匹配候选人，并协助企业快速精准触达。",
+      "summary_zh": "Prism面向开放人才市场搜索高匹配候选人，并协助企业快速精准触达。",
+      "publishedAt": "2026-05-09T07:01:00Z",
+      "published_at": "2026-05-09T07:01:00Z",
+      "votes_count": 176,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 1,
+        "practitioner_value": 1,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票精选招聘AI工具，但偏垂直场景"
+      }
+    }
+  ]
+}
