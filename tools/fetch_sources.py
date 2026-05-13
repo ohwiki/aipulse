@@ -396,6 +396,47 @@ def fetch_producthunt(source: dict, now: datetime, start_at: datetime, end_at: d
     return items[:max_results]
 
 
+def fetch_jina_list(source: dict, now: datetime, start_at: datetime, end_at: datetime) -> list[dict]:
+    """Fetch article titles from a web page via Jina Reader (for sites without RSS)."""
+    import re
+    url = source["url"]
+    jina_url = f"https://r.jina.ai/{url}"
+    resp = requests.get(jina_url, timeout=30, headers={"User-Agent": "aipulse/1.0"})
+    resp.raise_for_status()
+    text = resp.text
+
+    items: list[dict] = []
+    skip_prefixes = ("!", "URL Source", "Title:", "Markdown Content", "Image", "http", "今天", "昨天")
+    lines = text.split("\n")
+    for line in lines:
+        line = line.strip()
+        if not line or len(line) < 15:
+            continue
+        if any(line.startswith(p) for p in skip_prefixes):
+            continue
+        # Skip lines that look like tags (short, single word/phrase)
+        if len(line) < 20 and " " not in line and "，" not in line:
+            continue
+
+        title = normalize_whitespace(line)
+        if not source_matches_keywords(source, title):
+            continue
+
+        article_url = url  # No per-article URL from Jina plain text
+        items.append({
+            "id": item_id(url + title),
+            "title": title,
+            "url": article_url,
+            "source": source["name"],
+            "category": source.get("category", "cn-media"),
+            "summary": "",
+            "published_at": isoformat_z(now),
+        })
+
+    max_results = source.get("max_results", 10)
+    return items[:max_results]
+
+
 def fetch_api_source(source: dict, now: datetime, start_at: datetime, end_at: datetime) -> list[dict]:
     source_type = source["type"]
     if source_type == "arxiv":
@@ -409,12 +450,12 @@ def fetch_api_source(source: dict, now: datetime, start_at: datetime, end_at: da
 
 def dedupe_items(items: list[dict]) -> list[dict]:
     deduped: list[dict] = []
-    seen_urls: set[str] = set()
+    seen: set[str] = set()
     for item in items:
-        url = item["url"]
-        if url in seen_urls:
+        key = item["url"] + "|" + item.get("title", "")
+        if key in seen:
             continue
-        seen_urls.add(url)
+        seen.add(key)
         deduped.append(item)
     return deduped
 
@@ -464,11 +505,14 @@ def main() -> None:
             )
             continue
         try:
-            items = fetch_rss(source, now, start_at, end_at)
+            source_type = source.get("type", "rss")
+            if source_type == "jina_list":
+                items = fetch_jina_list(source, now, start_at, end_at)
+            else:
+                items = fetch_rss(source, now, start_at, end_at)
             all_items.extend(items)
             log.info("source fetched", extra={"source_name": source["name"], "source_type": "cn_media", "count": len(items)})
         except Exception as exc:  # noqa: BLE001
-            # Try fallback URL if primary fails
             fallback = source.get("fallback_url")
             if fallback:
                 try:

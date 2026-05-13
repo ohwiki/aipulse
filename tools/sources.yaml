@@ -185,11 +185,11 @@ cn_media:
       - DeepSeek
       - 机器人
   - name: 机器之心
-    url: https://www.jiqizhixin.com/rss
+    type: jina_list
+    url: https://www.jiqizhixin.com/articles
     category: cn-media
-    window_hours: 72
-    enabled: false
-    note: RSS returns 302 redirect, needs investigation
+    window_hours: 48
+    max_results: 10
   - name: 量子位
     url: https://rsshub.app/qbitai/category/资讯
     category: cn-media
