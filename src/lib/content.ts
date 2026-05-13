@@ -5,6 +5,7 @@ import { fileURLToPath } from "node:url";
 import { CATEGORY_ORDER, getCategoryMeta } from "./categories";
 import type {
   ArchiveEntry,
+  ArchiveIndex,
   DailyDigest,
   DailySection,
   LatestDigest,
@@ -51,6 +52,23 @@ interface RawDailyDigest {
   sections: RawDailySection[];
 }
 
+interface RawArchiveIndexEntry {
+  date: string;
+  generated_at?: string;
+  generatedAt?: string;
+  total?: number;
+  sectionCount?: number;
+  highlights?: RawItem[];
+}
+
+interface RawArchiveIndex {
+  generated_at?: string;
+  generatedAt?: string;
+  total?: number;
+  count?: number;
+  entries: RawArchiveIndexEntry[];
+}
+
 interface RawLatestDigest {
   generated_at?: string;
   generatedAt?: string;
@@ -63,6 +81,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT_DIR = path.resolve(__dirname, "../..");
 const DATA_DIR = path.join(ROOT_DIR, "data");
 const DAILY_DIR = path.join(DATA_DIR, "daily");
+const INDEX_PATH = path.join(DATA_DIR, "index.json");
 const DAILY_FILENAME_RE = /^\d{4}-\d{2}-\d{2}\.json$/;
 
 function normalizeItem(item: RawItem): PulseItem {
@@ -130,13 +149,61 @@ function normalizeDailySection(section: RawDailySection): DailySection {
   };
 }
 
-export async function getDailyDates(): Promise<string[]> {
+function normalizeArchiveEntry(entry: RawArchiveIndexEntry): ArchiveEntry {
+  return {
+    date: entry.date,
+    generatedAt: entry.generated_at ?? entry.generatedAt ?? "",
+    total: entry.total ?? 0,
+    sectionCount: entry.sectionCount ?? 0,
+    highlights: sortItems((entry.highlights ?? []).map(normalizeItem)).slice(0, 3)
+  };
+}
+
+function normalizeArchiveEntries(entries: RawArchiveIndexEntry[]): ArchiveEntry[] {
+  const byDate = new Map<string, ArchiveEntry>();
+
+  for (const entry of entries) {
+    if (!entry.date) continue;
+    byDate.set(entry.date, normalizeArchiveEntry(entry));
+  }
+
+  return [...byDate.values()].sort((left, right) => right.date.localeCompare(left.date));
+}
+
+async function listDailyDatesFromFilesystem(): Promise<string[]> {
   const entries = await fs.readdir(DAILY_DIR);
 
   return entries
     .filter((entry: string) => DAILY_FILENAME_RE.test(entry))
-    .map((entry: string) => entry.replace(/\.json$/, ""))
-    .sort((left: string, right: string) => right.localeCompare(left));
+    .map((entry: string) => entry.replace(/\.json$/, ""));
+}
+
+async function loadArchiveIndex(): Promise<ArchiveIndex | null> {
+  try {
+    const raw = await readJson<RawArchiveIndex>(INDEX_PATH);
+    const entries = Array.isArray(raw.entries) ? normalizeArchiveEntries(raw.entries) : [];
+    if (!entries.length) {
+      return null;
+    }
+
+    return {
+      generatedAt: raw.generated_at ?? raw.generatedAt ?? "",
+      total: raw.total ?? raw.count ?? entries.length,
+      count: raw.count ?? raw.total ?? entries.length,
+      entries
+    };
+  } catch {
+    return null;
+  }
+}
+
+export async function getDailyDates(): Promise<string[]> {
+  const archiveIndex = await loadArchiveIndex();
+  const indexedDates = archiveIndex?.entries.map((entry) => entry.date) ?? [];
+  const fileDates = await listDailyDatesFromFilesystem();
+  const merged = new Set<string>([...indexedDates, ...fileDates]);
+
+  return [...merged].sort((left: string, right: string) => right.localeCompare(left));
 }
 
 export async function getDailyDigest(date: string): Promise<DailyDigest | null> {
@@ -193,6 +260,28 @@ export interface ItemQuery {
 }
 
 export async function listArchiveEntries(): Promise<ArchiveEntry[]> {
+  const archiveIndex = await loadArchiveIndex();
+  if (archiveIndex?.entries.length) {
+    const indexedDates = new Set(archiveIndex.entries.map((entry) => entry.date));
+    const fileDates = await listDailyDatesFromFilesystem();
+    const missingDates = fileDates.filter((date) => !indexedDates.has(date));
+
+    if (!missingDates.length) {
+      return archiveIndex.entries;
+    }
+
+    const missingDigests = await Promise.all(missingDates.map((date) => getDailyDigest(date)));
+    const missingEntries = missingDigests.filter((digest): digest is DailyDigest => digest !== null).map((digest) => ({
+      date: digest.date,
+      generatedAt: digest.generatedAt,
+      total: digest.total,
+      sectionCount: digest.sections.length,
+      highlights: sortItems(digest.sections.flatMap((section) => section.items)).slice(0, 3)
+    }));
+
+    return [...archiveIndex.entries, ...missingEntries].sort((left, right) => right.date.localeCompare(left.date));
+  }
+
   const dates = await getDailyDates();
   const digests = await Promise.all(dates.map((date) => getDailyDigest(date)));
 

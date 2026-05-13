@@ -2,16 +2,15 @@ from __future__ import annotations
 
 import argparse
 from collections import defaultdict
-from datetime import timedelta
 from pathlib import Path
 
 import yaml
 
 try:
-    from common import DAILY_DIR, DATA_DIR, SCORED_DIR, ensure_data_dirs, isoformat_z, load_json, parse_datetime, today_str, utc_now, write_json
+    from common import DAILY_DIR, DATA_DIR, SCORED_DIR, ensure_data_dirs, isoformat_z, load_json, today_str, utc_now, write_json
     from logger import get_logger
 except ModuleNotFoundError:
-    from tools.common import DAILY_DIR, DATA_DIR, SCORED_DIR, ensure_data_dirs, isoformat_z, load_json, parse_datetime, today_str, utc_now, write_json
+    from tools.common import DAILY_DIR, DATA_DIR, SCORED_DIR, ensure_data_dirs, isoformat_z, load_json, today_str, utc_now, write_json
     from tools.logger import get_logger
 
 
@@ -22,11 +21,16 @@ CATEGORY_LABELS = {
     "paper": "论文研究",
     "tip": "技巧与观点",
 }
+INDEX_PATH = DATA_DIR / "index.json"
 log = get_logger("daily")
 
 
 def sort_score(item: dict) -> float:
     return float(item.get("rank_score", item.get("score", 0)) or 0)
+
+
+def sort_archive_items(items: list[dict]) -> list[dict]:
+    return sorted(items, key=lambda item: (-sort_score(item), item.get("published_at", "")))
 
 
 def parse_args() -> argparse.Namespace:
@@ -93,22 +97,91 @@ def to_public_item(item: dict) -> dict:
     return public_item
 
 
+def build_archive_entry(payload: dict) -> dict:
+    sections = payload.get("sections") or []
+    items = payload.get("items") or []
+    if not items and sections:
+        items = [item for section in sections for item in section.get("items", [])]
+
+    highlights = sort_archive_items(list(items))[:3]
+    generated_at = str(payload.get("generatedAt") or payload.get("generated_at") or "")
+
+    return {
+        "date": payload.get("date"),
+        "generated_at": generated_at,
+        "generatedAt": generated_at,
+        "total": int(payload.get("total") or len(items)),
+        "sectionCount": len(sections),
+        "highlights": highlights,
+    }
+
+
+def load_archive_entries() -> list[dict]:
+    index_payload = load_json(INDEX_PATH, default={}) or {}
+    raw_entries = index_payload.get("entries") if isinstance(index_payload, dict) else []
+    indexed_entries = [
+        entry
+        for entry in raw_entries
+        if isinstance(entry, dict) and entry.get("date")
+    ]
+    if not indexed_entries:
+        entries: list[dict] = []
+        for path in sorted(DAILY_DIR.glob("*.json"), key=lambda item: item.name, reverse=True):
+            payload = load_json(path, default={})
+            if not isinstance(payload, dict) or not payload.get("date"):
+                continue
+            entries.append(build_archive_entry(payload))
+        return entries
+
+    entries_by_date = {entry["date"]: entry for entry in indexed_entries}
+    indexed_dates = set(entries_by_date)
+    file_dates = {path.stem for path in DAILY_DIR.glob("*.json")}
+    missing_dates = sorted(file_dates - indexed_dates, reverse=True)
+    for date in missing_dates:
+        payload = load_json(DAILY_DIR / f"{date}.json", default={})
+        if isinstance(payload, dict) and payload.get("date"):
+            entries_by_date[date] = build_archive_entry(payload)
+
+    return sorted(entries_by_date.values(), key=lambda entry: entry["date"], reverse=True)
+
+
+def write_archive_index(payload: dict, generated_at: str) -> None:
+    entries = load_archive_entries()
+    entries_by_date = {entry["date"]: entry for entry in entries if entry.get("date")}
+    current_entry = build_archive_entry(payload)
+    if current_entry.get("date"):
+        entries_by_date[str(current_entry["date"])] = current_entry
+
+    ordered_entries = sorted(entries_by_date.values(), key=lambda entry: entry["date"], reverse=True)
+    index_payload = {
+        "generated_at": generated_at,
+        "generatedAt": generated_at,
+        "count": len(ordered_entries),
+        "total": len(ordered_entries),
+        "entries": ordered_entries,
+    }
+    write_json(INDEX_PATH, index_payload)
+
+
 def collect_latest(days: int = 7) -> list[dict]:
-    cutoff = utc_now() - timedelta(days=days)
+    index_payload = load_json(INDEX_PATH, default={}) or {}
+    indexed_dates = [
+        str(entry.get("date", "")).strip()
+        for entry in index_payload.get("entries", [])
+        if isinstance(entry, dict) and str(entry.get("date", "")).strip()
+    ]
+    file_dates = [path.stem for path in sorted(DAILY_DIR.glob("*.json"), key=lambda item: item.name, reverse=True)[:days]]
+    dates = sorted(set(indexed_dates) | set(file_dates), reverse=True)[:days]
+
     aggregated: list[dict] = []
-    for path in sorted(DAILY_DIR.glob("*.json"), reverse=True):
-        if path.name == "latest.json":
-            continue
-        payload = load_json(path, default={})
-        date_value = parse_datetime(payload.get("generatedAt") or payload.get("generated_at"))
-        if date_value and date_value < cutoff:
-            continue
+    for date in dates:
+        payload = load_json(DAILY_DIR / f"{date}.json", default={})
         if payload.get("items"):
             aggregated.extend(payload.get("items", []))
             continue
         for section in payload.get("sections", []):
             aggregated.extend(section.get("items", []))
-    aggregated.sort(key=lambda item: (sort_score(item), item.get("published_at", "")), reverse=True)
+    aggregated = sort_archive_items(aggregated)
     return aggregated
 
 
@@ -142,6 +215,7 @@ def main() -> None:
 
     output_path = DAILY_DIR / f"{target_date}.json"
     write_json(output_path, daily_payload)
+    write_archive_index(daily_payload, generated_at)
 
     latest_payload = {
         "generated_at": generated_at,

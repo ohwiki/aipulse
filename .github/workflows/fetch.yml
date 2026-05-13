@@ -73,13 +73,14 @@ jobs:
           data_worktree="$RUNNER_TEMP/aipulse-data"
           rm -rf "$data_worktree"
           git worktree add -B data "$data_worktree" origin/data
-          rm -rf "$data_worktree/data"
+
           mkdir -p "$data_worktree/data/daily"
-          cp data/latest.json "$data_worktree/data/latest.json"
           cp -R data/daily/. "$data_worktree/data/daily/"
+          cp data/latest.json "$data_worktree/data/latest.json"
+          node scripts/rebuild-generated-index.mjs --root "$data_worktree"
 
           cd "$data_worktree"
-          git add data/daily data/latest.json
+          git add data/daily data/index.json data/latest.json
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0

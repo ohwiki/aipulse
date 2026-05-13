@@ -5,7 +5,7 @@ AIpulse 是一个面向中文 AI 从业者的每日资讯聚合项目。
 当前仓库同时包含两部分：
 
 - **Python pipeline**：抓取、打分、筛选、生成 `data/*.json`
-- **Astro 前端**：读取本地 JSON，生成静态资讯页面
+- **Astro 前端**：构建时同步 `data` 分支中的生产 JSON，生成静态资讯页面
 
 当前正式流程已经拆分为：
 
@@ -19,14 +19,14 @@ AIpulse 是一个面向中文 AI 从业者的每日资讯聚合项目。
 这不是两个无关项目，而是一条完整链路：
 
 ```text
-Python tools -> data/*.json -> Astro pages
+Python tools -> data branch -> Astro build -> static pages
 ```
 
 ## 目录结构
 
 ```text
 aipulse-dev/
-├── data/          # 抓取结果、打分结果、日报 JSON
+├── data/          # 本地运行产物、评估样本、构建时同步的数据
 ├── docs/          # 设计文档与任务文档
 ├── src/           # Astro 前端源码
 ├── tools/         # Python 数据流水线
@@ -150,7 +150,14 @@ uv run python tools/generate_daily.py
 - `data/raw/YYYY-MM-DD.json`: 原始抓取结果
 - `data/scored/YYYY-MM-DD.json`: 打分和中文化后的结果
 - `data/daily/YYYY-MM-DD.json`: 当日日报
+- `data/index.json`: 日报归档索引
 - `data/latest.json`: 最近 7 天聚合结果
+
+说明：
+
+- 本地运行时，这些文件会写到工作目录下的 `data/`
+- 生产环境中，GitHub Actions 会把 `data/daily/*.json`、`data/index.json` 和 `data/latest.json` 发布到 `data` 分支
+- `main` 分支不再承载生产日报 JSON
 
 ## Skill
 
@@ -173,7 +180,7 @@ uv run python tools/generate_daily.py
 
 ## Astro 前端
 
-前端读取 `data/daily/*.json` 和 `data/latest.json`，生成静态页面。
+前端构建前会先同步 `data` 分支里的 `data/daily/*.json`、`data/index.json` 和 `data/latest.json`，再生成静态页面。
 
 正式线上数据来自 `data` 分支，本地构建和 Netlify 构建都会先同步该分支的 `data/` 目录。
 
@@ -215,6 +222,12 @@ pnpm check
 
 ```bash
 pnpm build
+```
+
+如果要模拟线上构建流程：
+
+```bash
+pnpm sync:data && pnpm build
 ```
 
 ## 设计文档

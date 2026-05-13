@@ -194,7 +194,7 @@ flowchart LR
 因此，P2 前端采用：
 
 - **Astro 作为静态站框架**
-- **以 `data/daily/*.json` 和 `data/latest.json` 为唯一页面数据源**
+- **以 `data/daily/*.json`、`data/index.json` 和 `data/latest.json` 为唯一页面数据源**
 - **页面组件围绕“日报流”“归档流”“分类流”设计**
 
 ### 前端目标
@@ -211,7 +211,7 @@ flowchart LR
 | 路径 | 内容 | 数据来源 |
 |------|------|----------|
 | `/` | 今日精选（当天各分类分组 + Top items） | `data/daily/{latest-date}.json` |
-| `/archive` | 日报归档列表（最近 7 天优先，可扩展全部历史） | `data/latest.json` + `data/daily/*.json` |
+| `/archive` | 日报归档列表（最近 7 天优先，可扩展全部历史） | `data/index.json` + `data/daily/*.json` |
 | `/archive/{date}` | 指定日期日报 | `data/daily/{date}.json` |
 | `/category/{slug}` | 某一分类最近 7 天条目流 | `data/latest.json` |
 | `/about` | 产品说明、数据来源、更新频率、免责声明 | 静态内容 |

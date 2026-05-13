@@ -50,3 +50,10 @@ export interface ArchiveEntry {
   sectionCount: number;
   highlights: PulseItem[];
 }
+
+export interface ArchiveIndex {
+  generatedAt: string;
+  total: number;
+  count?: number;
+  entries: ArchiveEntry[];
+}
