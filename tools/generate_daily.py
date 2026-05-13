@@ -20,6 +20,7 @@ CATEGORY_LABELS = {
     "industry": "行业动态",
     "paper": "论文研究",
     "tip": "技巧与观点",
+    "cn-media": "中文媒体精选",
 }
 INDEX_PATH = DATA_DIR / "index.json"
 log = get_logger("daily")

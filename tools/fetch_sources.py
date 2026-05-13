@@ -456,6 +456,31 @@ def main() -> None:
         except Exception as exc:  # noqa: BLE001
             log.error("source fetch failed", extra={"source_name": source["name"], "source_type": source.get("type"), "error": str(exc)})
 
+    for source in sources.get("cn_media", []):
+        if not is_enabled(source):
+            log.info(
+                "source skipped",
+                extra={"source_name": source["name"], "source_type": "cn_media", "reason": source.get("note", "disabled")},
+            )
+            continue
+        try:
+            items = fetch_rss(source, now, start_at, end_at)
+            all_items.extend(items)
+            log.info("source fetched", extra={"source_name": source["name"], "source_type": "cn_media", "count": len(items)})
+        except Exception as exc:  # noqa: BLE001
+            # Try fallback URL if primary fails
+            fallback = source.get("fallback_url")
+            if fallback:
+                try:
+                    fallback_source = {**source, "url": fallback}
+                    items = fetch_rss(fallback_source, now, start_at, end_at)
+                    all_items.extend(items)
+                    log.info("source fetched (fallback)", extra={"source_name": source["name"], "source_type": "cn_media", "count": len(items)})
+                except Exception as exc2:  # noqa: BLE001
+                    log.error("source fetch failed (both)", extra={"source_name": source["name"], "error": str(exc2)})
+            else:
+                log.error("source fetch failed", extra={"source_name": source["name"], "source_type": "cn_media", "error": str(exc)})
+
     deduped_items = dedupe_items(all_items)
     output_path = RAW_DIR / f"{output_date}.json"
     write_json(output_path, deduped_items)

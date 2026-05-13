@@ -163,3 +163,53 @@ daily:
     industry: 4
     paper: 8
     tip: 4
+    cn-media: 4
+
+cn_media:
+  - name: 机器之心
+    url: https://rsshub.app/jiqizhixin/daily
+    category: cn-media
+    window_hours: 48
+    fallback_url: https://www.jiqizhixin.com/rss
+    keywords_any:
+      - AI
+      - 模型
+      - agent
+      - 大模型
+      - LLM
+      - 开源
+      - GPT
+      - Claude
+      - Gemini
+  - name: 量子位
+    url: https://rsshub.app/qbitai/category/资讯
+    category: cn-media
+    window_hours: 48
+    keywords_any:
+      - AI
+      - 模型
+      - agent
+      - 大模型
+      - 发布
+      - 开源
+  - name: 新智元
+    url: https://rsshub.app/36kr/motif/452
+    category: cn-media
+    window_hours: 48
+    keywords_any:
+      - AI
+      - 模型
+      - GPT
+      - 大模型
+      - agent
+      - 发布
+  - name: 36氪AI频道
+    url: https://rsshub.app/36kr/motif/452
+    category: cn-media
+    window_hours: 48
+    keywords_any:
+      - AI
+      - 模型
+      - 融资
+      - 发布
+      - agent
