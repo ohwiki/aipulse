@@ -3,7 +3,8 @@ export type PulseCategory =
   | "ai-products"
   | "industry"
   | "paper"
-  | "tip";
+  | "tip"
+  | "cn-media";
 
 export interface PulseItem {
   id: string;

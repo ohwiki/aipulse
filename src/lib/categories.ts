@@ -5,7 +5,8 @@ export const CATEGORY_ORDER: PulseCategory[] = [
   "ai-products",
   "industry",
   "paper",
-  "tip"
+  "tip",
+  "cn-media"
 ];
 
 export const CATEGORY_META: Record<
@@ -31,6 +32,10 @@ export const CATEGORY_META: Record<
   tip: {
     label: "技巧与观点",
     description: "实践经验、方法论与观察。"
+  },
+  "cn-media": {
+    label: "中文媒体精选",
+    description: "来自 36氪、机器之心、量子位等中文 AI 媒体的精选内容。"
   }
 };
 
