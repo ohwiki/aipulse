@@ -1,9 +1,159 @@
 {
-  "generated_at": "2026-05-14T10:43:18Z",
-  "generatedAt": "2026-05-14T10:43:18Z",
-  "count": 2,
-  "total": 2,
+  "generated_at": "2026-05-14T21:43:10Z",
+  "generatedAt": "2026-05-14T21:43:10Z",
+  "count": 3,
+  "total": 3,
   "entries": [
+    {
+      "date": "2026-05-15",
+      "generated_at": "2026-05-14T21:43:10Z",
+      "generatedAt": "2026-05-14T21:43:10Z",
+      "total": 10,
+      "sectionCount": 3,
+      "highlights": [
+        {
+          "id": "0b8b15a0",
+          "title": "Notion开发者平台发布",
+          "title_en": "Notion Developer Platform",
+          "url": "https://www.producthunt.com/products/notion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/notion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 10,
+          "rank_score": 11,
+          "rankingScore": 11,
+          "summary": "Notion推出开发者平台，支持CLI、Webhook、MCP和外部代理在同一工作区协同开发与运行。",
+          "summary_zh": "Notion推出开发者平台，支持CLI、Webhook、MCP和外部代理在同一工作区协同开发与运行。",
+          "publishedAt": "2026-05-14T07:01:00Z",
+          "published_at": "2026-05-14T07:01:00Z",
+          "votes_count": 150,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            },
+            {
+              "id": "963",
+              "name": "Notion",
+              "slug": "notion"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 2,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "Notion开发平台发布，AI/Agent能力明确，PH高票Featured"
+          }
+        },
+        {
+          "id": "7bd19854",
+          "title": "Spellar 3.0发布",
+          "title_en": "Spellar 3.0",
+          "url": "https://www.producthunt.com/products/spellar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/spellar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Spellar 3.0推出可跨会议记忆的AI会议助手，能追溯客户发言、决策和待办事项。",
+          "summary_zh": "Spellar 3.0推出可跨会议记忆的AI会议助手，能追溯客户发言、决策和待办事项。",
+          "publishedAt": "2026-05-14T07:01:00Z",
+          "published_at": "2026-05-14T07:01:00Z",
+          "votes_count": 395,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，AI会议记忆有产品信号"
+          }
+        },
+        {
+          "id": "7dc6aeb8",
+          "title": "Toloka推出Tendem平台",
+          "title_en": "Tendem by Toloka",
+          "url": "https://www.producthunt.com/products/tendem-by-toloka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/tendem-by-toloka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Toloka发布Tendem，让AI处理流程并由人类专家把关高风险任务结果。",
+          "summary_zh": "Toloka发布Tendem，让AI处理流程并由人类专家把关高风险任务结果。",
+          "publishedAt": "2026-05-14T07:01:00Z",
+          "published_at": "2026-05-14T07:01:00Z",
+          "votes_count": 195,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，AI+专家协作平台，发布信号强"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-05-14",
       "generated_at": "2026-05-14T10:43:18Z",
