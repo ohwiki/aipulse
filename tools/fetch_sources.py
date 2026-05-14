@@ -406,7 +406,7 @@ def fetch_jina_list(source: dict, now: datetime, start_at: datetime, end_at: dat
     text = resp.text
 
     items: list[dict] = []
-    skip_prefixes = ("!", "URL Source", "Title:", "Markdown Content", "Image", "http", "今天", "昨天")
+    skip_prefixes = ("!", "URL Source", "Title:", "Markdown Content", "Image", "http", "今天", "昨天", "[!", "[![", "*", "#", "##", "###")
     lines = text.split("\n")
     for line in lines:
         line = line.strip()
@@ -417,12 +417,15 @@ def fetch_jina_list(source: dict, now: datetime, start_at: datetime, end_at: dat
         # Skip lines that look like tags (short, single word/phrase)
         if len(line) < 20 and " " not in line and "，" not in line:
             continue
-
-        title = normalize_whitespace(line)
-        if not source_matches_keywords(source, title):
-            continue
-
-        article_url = url  # No per-article URL from Jina plain text
+        # Extract title from tophub format: "1.[title](url)count"
+        import re
+        tophub_match = re.match(r'(?:\d+[:.]?\s*)?\[([^\]]+)\]\((https?://[^\)]+)\)', line)
+        if tophub_match:
+            title = tophub_match.group(1)
+            article_url = tophub_match.group(2)
+        else:
+            title = line
+            article_url = url
         items.append({
             "id": item_id(url + title),
             "title": title,

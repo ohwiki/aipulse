@@ -194,3 +194,25 @@ cn_media:
     url: https://rsshub.ktachibana.party/qbitai/category/资讯
     category: cn-media
     window_hours: 48
+
+  - name: 微信10w+热文
+    type: jina_list
+    url: https://tophub.today/n/WnBe01o371
+    category: cn-media
+    window_hours: 24
+    max_results: 5
+    keywords_any:
+      - AI
+      - 人工智能
+      - 大模型
+      - 机器人
+      - ChatGPT
+      - OpenAI
+      - 智能体
+      - 豆包
+      - DeepSeek
+      - 算力
+      - 芯片
+      - Sora
+      - 无人驾驶
+      - 自动驾驶
