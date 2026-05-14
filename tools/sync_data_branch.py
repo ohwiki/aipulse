@@ -47,7 +47,7 @@ def extract_archive(ref: str) -> Path:
     temp_dir = Path(tempfile.mkdtemp(prefix="aipulse-data-sync-"))
 
     with tarfile.open(fileobj=io.BytesIO(archive.stdout), mode="r:") as tar:
-        tar.extractall(temp_dir)
+        tar.extractall(temp_dir, filter="data")
 
     staged_data = temp_dir / "data"
     if not staged_data.exists():

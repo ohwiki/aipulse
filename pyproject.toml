@@ -5,9 +5,9 @@ description = "AIpulse Python data pipeline"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-  "feedparser",
-  "requests",
-  "pyyaml",
+  "feedparser>=6.0.12",
+  "requests>=2.33.1",
+  "pyyaml>=6.0.3",
 ]
 
 [tool.uv]
