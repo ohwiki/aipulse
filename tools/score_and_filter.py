@@ -294,6 +294,10 @@ def should_filter(item: dict, score: int, rank_score: float, score_payload: dict
     if score >= 7:
         return False
 
+    # cn-media sources are pre-filtered AI media, use lower threshold
+    if str(item.get("category", "")) == "cn-media" and score >= 5:
+        return False
+
     if not is_producthunt_item(item):
         return True
 
@@ -373,6 +377,9 @@ def is_candidate(item: dict) -> bool:
             "release",
         )
         return any(keyword in text for keyword in product_keywords) and len(summary) >= 80
+
+    if category == "cn-media":
+        return len(title) >= 10
 
     return False
 
