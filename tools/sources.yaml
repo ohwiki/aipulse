@@ -191,8 +191,6 @@ cn_media:
     window_hours: 48
     max_results: 10
   - name: 量子位
-    url: https://rsshub.app/qbitai/category/资讯
+    url: https://rsshub.ktachibana.party/qbitai/category/资讯
     category: cn-media
     window_hours: 48
-    enabled: false
-    note: RSSHub public instance returns 403, needs self-hosted instance
