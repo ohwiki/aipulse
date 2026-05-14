@@ -14,9 +14,9 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "feedparser" },
-    { name = "pyyaml" },
-    { name = "requests" },
+    { name = "feedparser", specifier = ">=6.0.12" },
+    { name = "pyyaml", specifier = ">=6.0.3" },
+    { name = "requests", specifier = ">=2.33.1" },
 ]
 
 [[package]]
