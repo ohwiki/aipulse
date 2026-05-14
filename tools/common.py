@@ -136,5 +136,5 @@ def load_app_config(require_api_key: bool = False) -> AppConfig:
     return AppConfig(
         api_key=api_key,
         base_url=os.getenv("NULLCLAW_BASE_URL", "https://platform.xiaomimimo.com/v1").rstrip("/"),
-        model=os.getenv("NULLCLAW_MODEL", "mimo-v2.5-pro"),
+        model=os.getenv("NULLCLAW_MODEL", "gpt-5.5"),
     )
