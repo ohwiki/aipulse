@@ -21,11 +21,27 @@ AIpulse 是一个 AI 资讯聚合服务。两部分：
 
 - 用项目的 logger（`from logger import get_logger`），不要用 print
 - 新函数必须有类型注解
-- 错误处理：不要静默吞异常，至少 log.warning
 - 新增数据源：加到 `sources.yaml`，不要硬编码 URL
-- item dict 的字段名参考 `common.py` 中的 `build_raw_item` 模式
+- item dict 的字段名参考 `fetchers/__init__.py` 中的 `build_item` 模式
 - 运行 `uv run python tools/fetch_sources.py` 验证抓取
 - 依赖变更后更新 `uv.lock`（`uv lock`）
+
+### 错误处理（必须遵守）
+
+- 不要用裸 `except Exception: return None`——至少 log.error 记录原因
+- 外部请求（HTTP、API）必须有 timeout 参数
+- 失败时日志要包含：什么操作失败 + 错误信息 + 相关上下文（source_name、URL 等）
+- fetcher 失败不应中断整个 pipeline——单个源失败记录日志后继续下一个
+- LLM 调用失败要记录 HTTP status + 响应前 200 字符
+
+### 日志（必须遵守）
+
+- 每个 fetcher 模块的 `fetch()` 入口打 log.info（记录开始）
+- 成功打 log.info（记录条目数量或内容长度）
+- 失败打 log.error（记录错误原因 + 上下文）
+- 预期内的降级（如 fallback 到备用源）用 log.warning 而不是 error
+- logger 命名用点分层级：`get_logger("fetch")`、`get_logger("score")`、`get_logger("daily")`
+- 不要在循环内每条 item 都打 info（会刷屏），用汇总日志：`log.info("scored", extra={"total": n})`
 
 ## 3. 前端规范
 
