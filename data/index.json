@@ -1,77 +1,40 @@
 {
-  "generated_at": "2026-05-14T01:32:45Z",
-  "generatedAt": "2026-05-14T01:32:45Z",
+  "generated_at": "2026-05-14T10:43:18Z",
+  "generatedAt": "2026-05-14T10:43:18Z",
   "count": 2,
   "total": 2,
   "entries": [
     {
       "date": "2026-05-14",
-      "generated_at": "2026-05-14T01:32:45Z",
-      "generatedAt": "2026-05-14T01:32:45Z",
-      "total": 9,
-      "sectionCount": 3,
+      "generated_at": "2026-05-14T10:43:18Z",
+      "generatedAt": "2026-05-14T10:43:18Z",
+      "total": 5,
+      "sectionCount": 2,
       "highlights": [
         {
-          "id": "cd23f03f",
-          "title": "Claude Code追踪工具发布",
-          "title_en": "Latitude for Claude Code",
-          "url": "https://www.producthunt.com/products/latitude-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "2fd9ab95",
+          "title": "Asteroid发布电脑操作代理平台",
+          "title_en": "Asteroid",
+          "url": "https://www.producthunt.com/products/asteroid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/latitude-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/asteroid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
-          "score": 9,
-          "rank_score": 10,
-          "rankingScore": 10,
-          "summary": "Latitude推出Claude Code追踪功能，可查看提示词、工具调用、子代理及每轮Token成本。",
-          "summary_zh": "Latitude推出Claude Code追踪功能，可查看提示词、工具调用、子代理及每轮Token成本。",
-          "publishedAt": "2026-05-13T07:01:00Z",
-          "published_at": "2026-05-13T07:01:00Z",
-          "votes_count": 280,
+          "score": 8,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Asteroid推出可在浏览器、Linux和Windows快速构建电脑操作代理的平台，已完成超15万次执行。",
+          "summary_zh": "Asteroid推出可在浏览器、Linux和Windows快速构建电脑操作代理的平台，已完成超15万次执行。",
+          "publishedAt": "2026-05-14T07:01:00Z",
+          "published_at": "2026-05-14T07:01:00Z",
+          "votes_count": 0,
           "featured": true,
           "topics": [
             {
               "id": "267",
               "name": "Developer Tools",
               "slug": "developer-tools"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 3,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "Claude Code可观测工具，PH高票Featured"
-          }
-        },
-        {
-          "id": "69990408",
-          "title": "CraftBot推出Living UI",
-          "title_en": "CraftBot with Living UI",
-          "url": "https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 9,
-          "rank_score": 10,
-          "rankingScore": 10,
-          "summary": "CraftBot上线Living UI，可在自身内生成并持续演化可直接操作的定制应用与仪表盘。",
-          "summary_zh": "CraftBot上线Living UI，可在自身内生成并持续演化可直接操作的定制应用与仪表盘。",
-          "publishedAt": "2026-05-13T07:01:00Z",
-          "published_at": "2026-05-13T07:01:00Z",
-          "votes_count": 214,
-          "featured": true,
-          "topics": [
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
             },
             {
               "id": "268",
@@ -79,78 +42,65 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "1194",
-              "name": "Vibe coding",
-              "slug": "vibe-coding"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 3,
-            "practitioner_value": 2,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "PH高票featured，AI代理+可演化UI发布"
-          }
-        },
-        {
-          "id": "f8f578b4",
-          "title": "Apideck发布MCP服务器",
-          "title_en": "Apideck MCP Server",
-          "url": "https://www.producthunt.com/products/apideck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/apideck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 9,
-          "rank_score": 10,
-          "rankingScore": 10,
-          "summary": "Apideck推出MCP服务器，让AI代理经单一端点安全访问200多款企业应用实时数据。",
-          "summary_zh": "Apideck推出MCP服务器，让AI代理经单一端点安全访问200多款企业应用实时数据。",
-          "publishedAt": "2026-05-13T07:01:00Z",
-          "published_at": "2026-05-13T07:01:00Z",
-          "votes_count": 148,
-          "featured": true,
-          "topics": [
-            {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
             }
           ],
           "score_details": {
             "is_ai_relevant": true,
             "is_real_launch_or_update": true,
             "novelty": 2,
-            "practitioner_value": 3,
+            "practitioner_value": 2,
             "signal_over_promo": 1,
-            "distribution_signal": 2,
+            "distribution_signal": 1,
             "confidence": 1,
-            "reason": "AI代理接入SaaS数据，PH高票featured"
+            "reason": "AI电脑操作Agent构建器，PH featured但热度弱"
           }
+        },
+        {
+          "id": "ac192d89",
+          "title": "商汤SenseNova U1深度拆解",
+          "title_en": "商汤SenseNova U1深度拆解，原生统一架构终结缝合时代",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "商汤SenseNova U1深度拆解，原生统一架构终结缝合时代",
+          "summary_zh": "商汤SenseNova U1深度拆解，原生统一架构终结缝合时代",
+          "publishedAt": "2026-05-14T10:41:35Z",
+          "published_at": "2026-05-14T10:41:35Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "17ad342a",
+          "title": "36氪首发 | 九号领投一家AI智能影像设备公司，在巨头夹缝中年增长近4倍",
+          "title_en": null,
+          "url": "https://36kr.com/p/3807831328300549?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3807831328300549?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能体育影像品牌「XbotGo」（深眸远智）于近期完成近亿元的新一轮融资。由九号资本领投，元禾控股、不同资本跟投，老股东零一创投超额跟投，云岫资本担任长期独家财务顾问。 在青少年体育运动文化发达的美国，体育不仅仅是竞技，更是家庭生活的核心。相关数据显示，美国有超过3000万青少年参与专业体育训练，美国家庭每周花在孩子体育活动上的时间平均高达10小时。 然而，一个长期困扰家长的痛点是：在赛场上的手动拍摄，不仅让家长无法沉浸式享受比赛的“即时情绪价值”，更由于距离远、目标小、场面复杂，很难精准捕捉到精彩的瞬时影像和运动数据。 XbotGo的创业缘起也来源于，创始人兼CEO谈科峰数年陪孩子踢球的经历，让其意识到体育活动中存在的拍摄问题和市场机遇。基于此，XbotGo的产品旨在解决体育活动拍摄问题，为用户提供自动拍摄设备捕捉体育赛场影像和数据，并通过AI帮助用户分析数据、拆解数据，最终能够全自动生成内容来解决体育活动分析及创作问题：可以是高光片段一键生成、可以是训练数据分析面板、也可以是多机位实时直播在线互动等等。 以XbotGo最新推出的独立AI",
+          "summary_zh": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能体育影像品牌「XbotGo」（深眸远智）于近期完成近亿元的新一轮融资。由九号资本领投，元禾控股、不同资本跟投，老股东零一创投超额跟投，云岫资本担任长期独家财务顾问。 在青少年体育运动文化发达的美国，体育不仅仅是竞技，更是家庭生活的核心。相关数据显示，美国有超过3000万青少年参与专业体育训练，美国家庭每周花在孩子体育活动上的时间平均高达10小时。 然而，一个长期困扰家长的痛点是：在赛场上的手动拍摄，不仅让家长无法沉浸式享受比赛的“即时情绪价值”，更由于距离远、目标小、场面复杂，很难精准捕捉到精彩的瞬时影像和运动数据。 XbotGo的创业缘起也来源于，创始人兼CEO谈科峰数年陪孩子踢球的经历，让其意识到体育活动中存在的拍摄问题和市场机遇。基于此，XbotGo的产品旨在解决体育活动拍摄问题，为用户提供自动拍摄设备捕捉体育赛场影像和数据，并通过AI帮助用户分析数据、拆解数据，最终能够全自动生成内容来解决体育活动分析及创作问题：可以是高光片段一键生成、可以是训练数据分析面板、也可以是多机位实时直播在线互动等等。 以XbotGo最新推出的独立AI",
+          "publishedAt": "2026-05-14T01:30:37Z",
+          "published_at": "2026-05-14T01:30:37Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
         }
       ]
     },
