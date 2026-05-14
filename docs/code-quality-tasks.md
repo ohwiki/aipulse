@@ -7,6 +7,14 @@
 - [x] T0-1: tarfile.extractall() 加 filter='data'
 - [x] T0-2: 创建 astro.config.mjs
 - [x] T0-3: pyproject.toml 锁定依赖版本
+- [x] T0-4: fetch_sources.py 拆分为 fetchers/ 模块化包（rss/arxiv/hf_papers/producthunt/jina）
+- [x] T0-5: 加 tools/__init__.py 使其成为正式 package
+- [x] T0-6: LOCAL_TZ 改为环境变量可配置
+- [x] T0-7: sync_data_branch.py 用 logger 替代 print
+- [x] T0-8: .env.example 与代码默认值保持一致
+- [x] T0-9: clean_summary 去除 HTML 标签 + 截断 500 字
+- [x] T0-10: dedupe_items 改为 url+title 组合去重
+- [x] T0-11: cn-media 加入候选选择 + 降低过滤阈值
 
 ---
 
