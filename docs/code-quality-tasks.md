@@ -187,3 +187,21 @@ function readJson<T>(path: string): T | null {
 > T4 和 T7 可以最后做。
 > 每个 task 完成后 git commit。
 > 测试用 pytest，前端类型用 Zod。
+
+## 验证标准
+
+每个任务完成后必须通过对应的验证，否则不算完成：
+
+| Task | 验证命令 | 通过标准 |
+|------|---------|---------|
+| T1 | `uv run pytest tests/ -v` | 全部通过，覆盖率 > 0（有测试在跑） |
+| T2 | `uv run python -c "from tools.models import RawItem, ScoredItem, PublicItem"` | 无 ImportError |
+| T3 | `uv run python tools/score_and_filter.py --help` + `wc -l tools/score_and_filter.py` | 能跑 + 主文件 < 120 行 |
+| T4 | `uv run python -m tools.fetch_sources --help` | 能以模块方式运行，无 try/except import |
+| T5 | `uv run python tools/fetch_sources.py 2>&1 \| grep "error"` | 错误日志包含 source_name + error 详情（不是空的） |
+| T6 | `grep -r "build_raw_item\|build_item" tools/fetchers/` | 所有 fetcher 都用统一的 build 函数 |
+| T7 | `grep "LOCAL_TZ" tools/common.py` | 从 os.getenv 读取（已完成） |
+| T9 | `pnpm build` | 构建通过，无类型错误 |
+| T10 | `grep "aria-label" src/components/NewsCard.astro` | 外链有 aria-label |
+| T11 | `grep "SITE_LINKS\|NAV_LINKS" src/lib/constants.ts` | 共享常量文件存在 |
+| T12 | `grep "jsonCache\|cache" src/lib/content.ts` | 有缓存逻辑 |
