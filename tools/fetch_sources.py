@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import html
 import os
+import re
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -80,7 +81,10 @@ def feed_time_to_datetime(parsed_time: struct_time | None) -> datetime | None:
 
 def clean_summary(value: str | None) -> str:
     text = normalize_whitespace(value)
-    return html.unescape(text)
+    # Strip HTML tags
+    text = re.sub(r"<[^>]+>", "", text)
+    text = html.unescape(text)
+    return text.strip()[:500]  # Cap at 500 chars to avoid storing full articles as summary
 
 
 def build_retry_session() -> requests.Session:
@@ -398,7 +402,6 @@ def fetch_producthunt(source: dict, now: datetime, start_at: datetime, end_at: d
 
 def fetch_jina_list(source: dict, now: datetime, start_at: datetime, end_at: datetime) -> list[dict]:
     """Fetch article titles from a web page via Jina Reader (for sites without RSS)."""
-    import re
     url = source["url"]
     jina_url = f"https://r.jina.ai/{url}"
     resp = requests.get(jina_url, timeout=30, headers={"User-Agent": "aipulse/1.0"})
@@ -418,7 +421,6 @@ def fetch_jina_list(source: dict, now: datetime, start_at: datetime, end_at: dat
         if len(line) < 20 and " " not in line and "，" not in line:
             continue
         # Extract title from tophub format: "1.[title](url)count"
-        import re
         tophub_match = re.match(r'(?:\d+[:.]?\s*)?\[([^\]]+)\]\((https?://[^\)]+)\)', line)
         if tophub_match:
             title = tophub_match.group(1)
