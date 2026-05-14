@@ -1,0 +1,292 @@
+{
+  "generated_at": "2026-05-14T00:21:46Z",
+  "generatedAt": "2026-05-14T00:21:46Z",
+  "count": 2,
+  "total": 2,
+  "entries": [
+    {
+      "date": "2026-05-14",
+      "generated_at": "2026-05-14T00:21:46Z",
+      "generatedAt": "2026-05-14T00:21:46Z",
+      "total": 5,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "cd23f03f",
+          "title": "Latitude支持Claude Code追踪",
+          "title_en": "Latitude for Claude Code",
+          "url": "https://www.producthunt.com/products/latitude-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/latitude-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10,
+          "rankingScore": 10,
+          "summary": "Latitude为Claude Code提供会话追踪，可查看提示词、工具调用和每轮Token成本。",
+          "summary_zh": "Latitude为Claude Code提供会话追踪，可查看提示词、工具调用和每轮Token成本。",
+          "publishedAt": "2026-05-13T07:01:00Z",
+          "published_at": "2026-05-13T07:01:00Z",
+          "votes_count": 274,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 2,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "Claude Code可观测工具，PH高票精选"
+          }
+        },
+        {
+          "id": "69990408",
+          "title": "CraftBot推出Living UI",
+          "title_en": "CraftBot with Living UI",
+          "url": "https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10,
+          "rankingScore": 10,
+          "summary": "CraftBot发布Living UI，可在自身内部生成并持续进化定制应用和仪表板。",
+          "summary_zh": "CraftBot发布Living UI，可在自身内部生成并持续进化定制应用和仪表板。",
+          "publishedAt": "2026-05-13T07:01:00Z",
+          "published_at": "2026-05-13T07:01:00Z",
+          "votes_count": 212,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 3,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，Agent内生UI方向较新"
+          }
+        },
+        {
+          "id": "f8f578b4",
+          "title": "Apideck发布MCP服务器",
+          "title_en": "Apideck MCP Server",
+          "url": "https://www.producthunt.com/products/apideck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/apideck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10,
+          "rankingScore": 10,
+          "summary": "Apideck推出MCP服务器，让AI代理经单一接口安全访问和操作200多款企业SaaS应用实时数据。",
+          "summary_zh": "Apideck推出MCP服务器，让AI代理经单一接口安全访问和操作200多款企业SaaS应用实时数据。",
+          "publishedAt": "2026-05-13T07:01:00Z",
+          "published_at": "2026-05-13T07:01:00Z",
+          "votes_count": 147,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 2,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "Agent接入SaaS数据的高信号MCP发布"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "generated_at": "2026-05-13T04:32:19Z",
+      "generatedAt": "2026-05-13T04:32:19Z",
+      "total": 12,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "deae0377",
+          "title": "论文更新：TextSeal: A Loc",
+          "title_en": "TextSeal: A Localized LLM Watermark for Provenance & Distillation Protection",
+          "url": "http://arxiv.org/abs/2605.12456v1",
+          "source": "arXiv cs.CL",
+          "source_type": null,
+          "sourceName": "arXiv cs.CL",
+          "sourceUrl": "http://arxiv.org/abs/2605.12456v1",
+          "category": "paper",
+          "score": 9,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "We introduce TextSeal, a state-of-the-art wate",
+          "summary_zh": "We introduce TextSeal, a state-of-the-art wate",
+          "publishedAt": "2026-05-12T17:44:41Z",
+          "published_at": "2026-05-12T17:44:41Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 3,
+            "practitioner_value": 3,
+            "signal_over_promo": 2,
+            "distribution_signal": 0,
+            "confidence": 1,
+            "reason": "LLM水印新论文，兼顾溯源与蒸馏保护"
+          }
+        },
+        {
+          "id": "3f3ecac1",
+          "title": "Jotform接入Claude",
+          "title_en": "Jotform Claude App",
+          "url": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Jotform可在Claude内通过对话直接创建、编辑、分析表单并查询提交数据。",
+          "summary_zh": "Jotform可在Claude内通过对话直接创建、编辑、分析表单并查询提交数据。",
+          "publishedAt": "2026-05-12T07:01:00Z",
+          "published_at": "2026-05-12T07:01:00Z",
+          "votes_count": 174,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "Claude 内表单 Agent，上线信号强"
+          }
+        },
+        {
+          "id": "ffc5e7e8",
+          "title": "display.dev发布企业内网HTML",
+          "title_en": "display.dev",
+          "url": "https://www.producthunt.com/products/display-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/display-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "display.dev可一键将AI生成的HTML和Markdown发布为需企业登录访问的永久链接，并支持文内评论。",
+          "summary_zh": "display.dev可一键将AI生成的HTML和Markdown发布为需企业登录访问的永久链接，并支持文内评论。",
+          "publishedAt": "2026-05-12T07:01:00Z",
+          "published_at": "2026-05-12T07:01:00Z",
+          "votes_count": 156,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "AI产物发布协作工具，PH高票featured"
+          }
+        }
+      ]
+    }
+  ]
+}
