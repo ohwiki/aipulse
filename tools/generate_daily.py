@@ -119,7 +119,7 @@ def build_archive_entry(payload: dict) -> dict:
 
 def load_archive_entries() -> list[dict]:
     index_payload = load_json(INDEX_PATH, default={}) or {}
-    raw_entries = index_payload.get("entries") if isinstance(index_payload, dict) else []
+    raw_entries = (index_payload.get("entries") or []) if isinstance(index_payload, dict) else []
     indexed_entries = [
         entry
         for entry in raw_entries
