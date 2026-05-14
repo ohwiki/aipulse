@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-14T00:37:28Z",
-  "generatedAt": "2026-05-14T00:37:28Z",
+  "generated_at": "2026-05-14T01:32:45Z",
+  "generatedAt": "2026-05-14T01:32:45Z",
   "days": 7,
   "total": 9,
   "count": 9,
   "items": [
     {
       "id": "cd23f03f",
-      "title": "Latitude接入Claude Code追踪",
+      "title": "Claude Code追踪工具发布",
       "title_en": "Latitude for Claude Code",
       "url": "https://www.producthunt.com/products/latitude-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
@@ -18,11 +18,11 @@
       "score": 9,
       "rank_score": 10.0,
       "rankingScore": 10.0,
-      "summary": "Latitude推出Claude Code追踪，可查看提示词、工具调用、子代理和每轮Token成本。",
-      "summary_zh": "Latitude推出Claude Code追踪，可查看提示词、工具调用、子代理和每轮Token成本。",
+      "summary": "Latitude推出Claude Code追踪功能，可查看提示词、工具调用、子代理及每轮Token成本。",
+      "summary_zh": "Latitude推出Claude Code追踪功能，可查看提示词、工具调用、子代理及每轮Token成本。",
       "publishedAt": "2026-05-13T07:01:00Z",
       "published_at": "2026-05-13T07:01:00Z",
-      "votes_count": 277,
+      "votes_count": 280,
       "featured": true,
       "topics": [
         {
@@ -36,10 +36,62 @@
         "is_real_launch_or_update": true,
         "novelty": 2,
         "practitioner_value": 3,
-        "signal_over_promo": 2,
+        "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "Claude Code可观测工具，PH高票featured"
+        "reason": "Claude Code可观测工具，PH高票Featured"
+      }
+    },
+    {
+      "id": "69990408",
+      "title": "CraftBot推出Living UI",
+      "title_en": "CraftBot with Living UI",
+      "url": "https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 9,
+      "rank_score": 10.0,
+      "rankingScore": 10.0,
+      "summary": "CraftBot上线Living UI，可在自身内生成并持续演化可直接操作的定制应用与仪表盘。",
+      "summary_zh": "CraftBot上线Living UI，可在自身内生成并持续演化可直接操作的定制应用与仪表盘。",
+      "publishedAt": "2026-05-13T07:01:00Z",
+      "published_at": "2026-05-13T07:01:00Z",
+      "votes_count": 214,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "1194",
+          "name": "Vibe coding",
+          "slug": "vibe-coding"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 3,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票featured，AI代理+可演化UI发布"
       }
     },
     {
@@ -88,93 +140,10 @@
         "is_real_launch_or_update": true,
         "novelty": 2,
         "practitioner_value": 3,
-        "signal_over_promo": 2,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "MCP接入200+SaaS，PH高票featured"
-      }
-    },
-    {
-      "id": "69990408",
-      "title": "CraftBot推出Living UI",
-      "title_en": "CraftBot with Living UI",
-      "url": "https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 8,
-      "rank_score": 9.0,
-      "rankingScore": 9.0,
-      "summary": "CraftBot新增Living UI，可在自身内持续生成、导入和演化应用与仪表盘。",
-      "summary_zh": "CraftBot新增Living UI，可在自身内持续生成、导入和演化应用与仪表盘。",
-      "publishedAt": "2026-05-13T07:01:00Z",
-      "published_at": "2026-05-13T07:01:00Z",
-      "votes_count": 214,
-      "featured": true,
-      "topics": [
-        {
-          "id": "237",
-          "name": "SaaS",
-          "slug": "saas"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "272",
-          "name": "GitHub",
-          "slug": "github"
-        },
-        {
-          "id": "1194",
-          "name": "Vibe coding",
-          "slug": "vibe-coding"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 2,
         "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "PH高票featured，Agent内生UI方向新"
-      }
-    },
-    {
-      "id": "4a3442a5",
-      "title": "OpenAI为Windows打造Codex沙箱",
-      "title_en": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "source": "OpenAI Blog",
-      "source_type": null,
-      "sourceName": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/building-codex-windows-sandbox",
-      "category": "ai-models",
-      "score": 9,
-      "rank_score": 9.0,
-      "rankingScore": 9.0,
-      "summary": "OpenAI构建Windows安全沙箱，让Codex在受控文件与网络权限下安全高效运行。",
-      "summary_zh": "OpenAI构建Windows安全沙箱，让Codex在受控文件与网络权限下安全高效运行。",
-      "publishedAt": "2026-05-13T11:00:00Z",
-      "published_at": "2026-05-13T11:00:00Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 3,
-        "signal_over_promo": 2,
-        "distribution_signal": 1,
-        "confidence": 1,
-        "reason": "OpenAI披露Codex安全沙箱实现，工程参考价值高"
+        "reason": "AI代理接入SaaS数据，PH高票featured"
       }
     },
     {
@@ -187,14 +156,14 @@
       "sourceName": "Product Hunt AI",
       "sourceUrl": "https://www.producthunt.com/products/memoket-gem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Memoket Gem推出可全天记录并总结对话的AI穿戴设备，现开放50个创始会员免费体验名额。",
-      "summary_zh": "Memoket Gem推出可全天记录并总结对话的AI穿戴设备，现开放50个创始会员免费体验名额。",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Memoket Gem推出可全天记录并整理对话的AI可穿戴设备，开放50个创始会员名额供早期试用。",
+      "summary_zh": "Memoket Gem推出可全天记录并整理对话的AI可穿戴设备，开放50个创始会员名额供早期试用。",
       "publishedAt": "2026-05-13T07:01:00Z",
       "published_at": "2026-05-13T07:01:00Z",
-      "votes_count": 341,
+      "votes_count": 346,
       "featured": true,
       "topics": [
         {
@@ -217,30 +186,30 @@
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
         "novelty": 2,
-        "practitioner_value": 1,
+        "practitioner_value": 2,
         "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "高票featured，AI可穿戴首发但偏消费端"
+        "reason": "PH高票featured，AI可穿戴早期发布"
       }
     },
     {
-      "id": "4e9bcb35",
-      "title": "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
-      "title_en": null,
-      "url": "https://36kr.com/p/3807039782116865?f=rss",
-      "source": "36氪",
+      "id": "4a3442a5",
+      "title": "OpenAI为Windows打造Codex沙箱",
+      "title_en": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "source": "OpenAI Blog",
       "source_type": null,
-      "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3807039782116865?f=rss",
-      "category": "cn-media",
-      "score": 7,
-      "rank_score": 7.0,
-      "rankingScore": 7.0,
-      "summary": "<p>36氪获悉，智能建造机器人本体开发商北京方石机器人有限公司（下称「方石机器人」）近期宣布完成近亿元A轮融资，由北京科创亦庄直投基金、航发基金等机构联合投资。资金将主要用于核心产品的研发迭代投入、批量化生产交付能力建设以及海外市场体系布局。</p> <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260513/v2_0f1e43d47d474cecaa6e69a198d0c67a@5688585_oswg871985oswg1920oswg1220_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p> <p class=\"img-desc\">方石机器人产品矩阵</p> <p><strong>方石机器人成立于2019年，致力于解决建筑行业用工老龄化、作业环境高危低效等痛点，通过打造全栈自研的“具身智能+建筑大模型”AI解决方案，推动传统建筑业向智能建造模式转型。</strong>目前，公司已深度服务中国建筑、中国铁建等100余家头部建筑企业，落地超500个标杆工程，累计施工面积突破1500万平方米。</p> <p>2023年以来，方石机器人产品逐步进入中东、东南亚、东亚等十余个国家和地区市场，并正在中东、东南亚设立区域服务中心与备件库。</p> <h3>以市场需求驱动，兼顾能力底座通用性与产品功能差异化</h3> <p>在遭遇“人荒”的建筑业，“机器替人”成为行业必选项。国家统计局数据显示，十年间我国建筑业农民工累计减少1500万，工地“招不到、留不住人”已是常态。劳动力断崖式离场，从业人员老龄化问题日益严峻。方石机器人创始人李思桥分享，2025年建筑行业45岁以上工人占比已突破60%，30岁以下年轻从业者严重不足。</p> <p>同时，施工环境苦、安全风险高等长期痛点也在倒逼行业向智能建造转型。住建部《智能建造技术导则（试行）》（建办市〔2025〕14号）明确要求，推广建筑机器人在高空作业、混凝土施工、钢结构安装等危险繁重场景的应用，推动施工现场“人退机进”。</p> <p>但是建筑机器人的应用场景有上百个，在当下并不都适合大规模引进机器人作业。李思桥根据长期实践经验总结，具备落地条件的场景通常具备三个特征：单个应用场景的市场容量足够大，能够支撑产品的规模化投入与回报；施工流程具备较高的标准化程度，解决方案可以形成可复制的交付模式；以及涉及重体力劳动，有“机器替人”的刚性需求。</p> <p>基于以上判断，方石机器人遵循<strong>“以现场需求为驱动、以市场容量为标尺、以技术可行性为底线”</strong>的业务拓展逻辑，逐步构建覆盖全施工周期的模块化产品矩阵。</p> <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260513/v2_4e91fd3c75914767ad9f01aefbcbc5bd@5688585_oswg776366oswg1920oswg1220_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p> <p class=\"img-desc\">方石机器人现场施工图</p> <p>混凝土地坪施工是方石机器人最先选择切入的细分场景——市场空间足够大，属于重体力、大面积、高重复性的标准化工种，天然适合机器人介入，也容易让客户直观看到效果，并且团队此前已经积累大量工程化经验。</p> <p>方石机器人的四轮激光地面整平机器人和双盘抹平抹光机器人，采用智能激光找平算法与线控底盘技术，可实现无人自主高精施工，施工效率达每小时400-600平方米，平整度偏差控制在5毫米以内。</p> <p>在与客户合作过程中，方石机器人不断收到新的工种需求，挖掘实际施工现场其他痛点，产品研发逐渐向喷刮、铺贴等工种拓展，陆续推出家装喷刮打磨一体机器人、地砖薄贴机器人、石材砖铺贴机器人等产品。</p> <p>在李思桥看来，方石机器人的产品竞争力在于两点：</p> <p>一是“标准化产品+参数化适配”的产品模式。每款针对特定应用场景的标准化产品可以适配多种原材料和施工工艺的能力，比如家装喷刮打磨一体设备通过切换不同的末端执行器，能够完成墙面腻子喷刮、打磨、乳胶漆喷涂等工作。此外，标准化产品可以根据客户指定的材料型号调整工艺算法参数，保证产品的规模化生产和快速交付，也能灵活响应不同客户的具体需求。</p> <p>二是“平台通用化、应用场景化”的技术架构。由于多个应用场景的核心部件具有高度通用性，新工种的产品研发不需要从零开始，而是在通用算法和运动平台上进行模块化增量开发，从而缩短研发周期和量产爬坡时间。</p> <p>“方石机器人的最终目标是构建覆盖结构施工、二次结构与装修、辅助巡检等全周期环节的模块化产品矩阵。”李思桥表示。</p> <h3><strong>用“具身智能+建筑大模型”重新定义建筑机器人</strong></h3> <p>过去受限于环境感知与运动控制能力，建筑机器人往往只能作为半自动化工具，需要人工持续介入才能完成作业，限制了机器人的效率提升与落地规模。</p> <p>“本质上还是工业机械臂的逻辑，在固定工位、固定流程下执行预设动作。”在李思桥看来，建筑现场与工业产线的关键区别在于，前者环境是非结构化、动态化的，施工过程中障碍物和工况随时在变，这要求机器人必须具备自主感知、自主决策、自主适应的能力，而大模型与具身智能的快速发展，使建筑机器人突破能力卡点成为可能。</p> <p>方石机器人提出“具身智能+建筑大模型”的技术路线，通过打通数字资产、数字空间生成与机器人模型预训练过程，构建端到端强化学习闭环；同时利用建筑场景专属空间生成大模型和语义识别能力，为机器人的复杂场景适应性、覆盖率及功能泛化性提供技术基础。</p> <p>相比于通用大模型，建筑大模型通过采集真实场景的人工作业及遥操作数据，整合建筑细分领域上下游数据，对基于仿真数据的预训练结果进行调优，从而使模型对建筑工艺、施工规范、现场工况等行业“know-how”的理解更加深刻，模型准确性和工程化部署效率更高。</p> <p>“具身智能+建筑大模型”理念，具体体现在方石机器人自研的软硬件结合智能系统“阿尔戈斯系统”上<strong>。</strong></p> <p>据李思桥介绍，阿尔戈斯系统搭载灵光K1三维重建模块与高性能规划主机，融合多线激光雷达、4目视觉技术与自研神经网络算法，在实际施工中通过360°全视场移动式扫描，实现施工现场的高精度空间数字化（相对精度1.2厘米、绝对精度3厘米），可以在15分钟内完成单户型的全流程智能规划，并直接生成可执行的施工方案，发送给机器人终端执行。</p> <p>“这套系统大幅降低了施工现场的规划门槛与部署难度，实现‘实景感知-智能规划-机器人执行’的有效协同。过去需要经验丰富的技术人员花费大量时间进行现场勘测和方案编制的工作，现在通过阿尔戈斯系统可以高效、标准化地完成。”李思桥说道。</p> <h3><strong>已落地超500个工程项目，产品进入十多个海外市场</strong></h3> <p>目前，方石机器人已在全国80多个城市完成业务布局，服务中国建筑、中国铁建、上海建工、陕西建工等100余家头部建筑企业，落地项目涵盖广州白云机场、上海同济大学自主智能无人系统科学中心、太仓阿尔卑斯冰雪世界等超500个项目工程。</p> <p><strong>在商业化路径上，方石机器人采取“机器人本体销售/租赁+完整施工服务解决方案”的组合模式。</strong>具体来说，已经对方石机器人的产品性能和施工表现有一定认知的成熟用户，一般会直接采购机器人设备，纳入自有施工体系。新客户试用或短期施工服务需求可以选择先租再买。施工服务类客户则希望整体引入机器人施工方案，由方石机器人提供“设备+操作+技术支持”的一体化交付。</p> <p>“采购和使用建筑机器人的决策，主要还是在具体施工的项目方。不同层级的客户，对建筑机器人的需求侧重点有明显差异。”李思桥介绍，总包层面的核心诉求是稳定性和可靠性，以及施工效率、质量合格率等系统层面的效能提升；而劳务班组更关注产品的易用性、上手门槛和经济性。“但最终指向同一个方向，必须在产品可靠性、操作便捷性和经济性三个维度上同时过关，才能真正被市场接受。”</p> <p>李思桥认为，建筑业本质上是一个对降本增效高度敏感的传统行业。“客户核心算的是经济账：在保证工期和施工质量的前提下，使用机器人到底划不划算。”他表示，方石机器人产品此前能够快速打开市场，关键在于设备购入后回本周期短，平均投资回收期在12个月以内，后续施工项目也可以持续为客户创造成本节约。</p> <p>除了继续深耕国内市场，方石机器人也在积极拓展海外市场。</p> <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260513/v2_d76b676468e6449e9fbc77b50c72e08b@5688585_oswg854835oswg1920oswg1220_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p> <p class=\"img-desc\">方石机器人海外现场施工图</p> <p>由于海外劳务用工成本普遍高于国内，“机器替人”需求更加旺盛。方石机器人2023年首入澳大利亚市场以来，产品已覆盖中东、东南亚、东亚等十余个国家和地区，并与区域内头部建筑商建立紧密合作，并且加速在中东、东南亚设立区域服务中心与备件库，推动从产品出海向本地化运营跨越。</p> <p>针对不同地区的本地化适配，方石机器人的做法是“客户调研-现场调试-设备迭代”三步走：先调研目标市场的建筑工艺标准、材料体系、法规要求；再将设备带到当地施工现场进行实际调试；最后根据现场反馈进行迭代优化，形成针对该市场的产品版本。</p> <p>谈及公司的未来方向，李思桥给出的战略排序是，先将已有产品能力做深做透，保证稳定的现金流与客户口碑。“公司有一套严格的新研发项目立项评价体系，新产品立项要经过市场容量、技术可行性、客户需求验证等多维度评估，不会盲目追求工种覆盖广度。”</p> <p>在技术层面，方石机器人持续积累数字资产和建筑大模型等核心资产的同时，也在探索人形机器人在建筑行业特定应用场景中的泛化可能性。“当人形机器人的硬件成熟度达到建筑现场的可靠性要求时，我们在建筑垂直领域的AI能力将成为非常有价值的软件层。”李思桥表示。</p>",
-      "summary_zh": "<p>36氪获悉，智能建造机器人本体开发商北京方石机器人有限公司（下称「方石机器人」）近期宣布完成近亿元A轮融资，由北京科创亦庄直投基金、航发基金等机构联合投资。资金将主要用于核心产品的研发迭代投入、批量化生产交付能力建设以及海外市场体系布局。</p> <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260513/v2_0f1e43d47d474cecaa6e69a198d0c67a@5688585_oswg871985oswg1920oswg1220_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p> <p class=\"img-desc\">方石机器人产品矩阵</p> <p><strong>方石机器人成立于2019年，致力于解决建筑行业用工老龄化、作业环境高危低效等痛点，通过打造全栈自研的“具身智能+建筑大模型”AI解决方案，推动传统建筑业向智能建造模式转型。</strong>目前，公司已深度服务中国建筑、中国铁建等100余家头部建筑企业，落地超500个标杆工程，累计施工面积突破1500万平方米。</p> <p>2023年以来，方石机器人产品逐步进入中东、东南亚、东亚等十余个国家和地区市场，并正在中东、东南亚设立区域服务中心与备件库。</p> <h3>以市场需求驱动，兼顾能力底座通用性与产品功能差异化</h3> <p>在遭遇“人荒”的建筑业，“机器替人”成为行业必选项。国家统计局数据显示，十年间我国建筑业农民工累计减少1500万，工地“招不到、留不住人”已是常态。劳动力断崖式离场，从业人员老龄化问题日益严峻。方石机器人创始人李思桥分享，2025年建筑行业45岁以上工人占比已突破60%，30岁以下年轻从业者严重不足。</p> <p>同时，施工环境苦、安全风险高等长期痛点也在倒逼行业向智能建造转型。住建部《智能建造技术导则（试行）》（建办市〔2025〕14号）明确要求，推广建筑机器人在高空作业、混凝土施工、钢结构安装等危险繁重场景的应用，推动施工现场“人退机进”。</p> <p>但是建筑机器人的应用场景有上百个，在当下并不都适合大规模引进机器人作业。李思桥根据长期实践经验总结，具备落地条件的场景通常具备三个特征：单个应用场景的市场容量足够大，能够支撑产品的规模化投入与回报；施工流程具备较高的标准化程度，解决方案可以形成可复制的交付模式；以及涉及重体力劳动，有“机器替人”的刚性需求。</p> <p>基于以上判断，方石机器人遵循<strong>“以现场需求为驱动、以市场容量为标尺、以技术可行性为底线”</strong>的业务拓展逻辑，逐步构建覆盖全施工周期的模块化产品矩阵。</p> <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260513/v2_4e91fd3c75914767ad9f01aefbcbc5bd@5688585_oswg776366oswg1920oswg1220_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p> <p class=\"img-desc\">方石机器人现场施工图</p> <p>混凝土地坪施工是方石机器人最先选择切入的细分场景——市场空间足够大，属于重体力、大面积、高重复性的标准化工种，天然适合机器人介入，也容易让客户直观看到效果，并且团队此前已经积累大量工程化经验。</p> <p>方石机器人的四轮激光地面整平机器人和双盘抹平抹光机器人，采用智能激光找平算法与线控底盘技术，可实现无人自主高精施工，施工效率达每小时400-600平方米，平整度偏差控制在5毫米以内。</p> <p>在与客户合作过程中，方石机器人不断收到新的工种需求，挖掘实际施工现场其他痛点，产品研发逐渐向喷刮、铺贴等工种拓展，陆续推出家装喷刮打磨一体机器人、地砖薄贴机器人、石材砖铺贴机器人等产品。</p> <p>在李思桥看来，方石机器人的产品竞争力在于两点：</p> <p>一是“标准化产品+参数化适配”的产品模式。每款针对特定应用场景的标准化产品可以适配多种原材料和施工工艺的能力，比如家装喷刮打磨一体设备通过切换不同的末端执行器，能够完成墙面腻子喷刮、打磨、乳胶漆喷涂等工作。此外，标准化产品可以根据客户指定的材料型号调整工艺算法参数，保证产品的规模化生产和快速交付，也能灵活响应不同客户的具体需求。</p> <p>二是“平台通用化、应用场景化”的技术架构。由于多个应用场景的核心部件具有高度通用性，新工种的产品研发不需要从零开始，而是在通用算法和运动平台上进行模块化增量开发，从而缩短研发周期和量产爬坡时间。</p> <p>“方石机器人的最终目标是构建覆盖结构施工、二次结构与装修、辅助巡检等全周期环节的模块化产品矩阵。”李思桥表示。</p> <h3><strong>用“具身智能+建筑大模型”重新定义建筑机器人</strong></h3> <p>过去受限于环境感知与运动控制能力，建筑机器人往往只能作为半自动化工具，需要人工持续介入才能完成作业，限制了机器人的效率提升与落地规模。</p> <p>“本质上还是工业机械臂的逻辑，在固定工位、固定流程下执行预设动作。”在李思桥看来，建筑现场与工业产线的关键区别在于，前者环境是非结构化、动态化的，施工过程中障碍物和工况随时在变，这要求机器人必须具备自主感知、自主决策、自主适应的能力，而大模型与具身智能的快速发展，使建筑机器人突破能力卡点成为可能。</p> <p>方石机器人提出“具身智能+建筑大模型”的技术路线，通过打通数字资产、数字空间生成与机器人模型预训练过程，构建端到端强化学习闭环；同时利用建筑场景专属空间生成大模型和语义识别能力，为机器人的复杂场景适应性、覆盖率及功能泛化性提供技术基础。</p> <p>相比于通用大模型，建筑大模型通过采集真实场景的人工作业及遥操作数据，整合建筑细分领域上下游数据，对基于仿真数据的预训练结果进行调优，从而使模型对建筑工艺、施工规范、现场工况等行业“know-how”的理解更加深刻，模型准确性和工程化部署效率更高。</p> <p>“具身智能+建筑大模型”理念，具体体现在方石机器人自研的软硬件结合智能系统“阿尔戈斯系统”上<strong>。</strong></p> <p>据李思桥介绍，阿尔戈斯系统搭载灵光K1三维重建模块与高性能规划主机，融合多线激光雷达、4目视觉技术与自研神经网络算法，在实际施工中通过360°全视场移动式扫描，实现施工现场的高精度空间数字化（相对精度1.2厘米、绝对精度3厘米），可以在15分钟内完成单户型的全流程智能规划，并直接生成可执行的施工方案，发送给机器人终端执行。</p> <p>“这套系统大幅降低了施工现场的规划门槛与部署难度，实现‘实景感知-智能规划-机器人执行’的有效协同。过去需要经验丰富的技术人员花费大量时间进行现场勘测和方案编制的工作，现在通过阿尔戈斯系统可以高效、标准化地完成。”李思桥说道。</p> <h3><strong>已落地超500个工程项目，产品进入十多个海外市场</strong></h3> <p>目前，方石机器人已在全国80多个城市完成业务布局，服务中国建筑、中国铁建、上海建工、陕西建工等100余家头部建筑企业，落地项目涵盖广州白云机场、上海同济大学自主智能无人系统科学中心、太仓阿尔卑斯冰雪世界等超500个项目工程。</p> <p><strong>在商业化路径上，方石机器人采取“机器人本体销售/租赁+完整施工服务解决方案”的组合模式。</strong>具体来说，已经对方石机器人的产品性能和施工表现有一定认知的成熟用户，一般会直接采购机器人设备，纳入自有施工体系。新客户试用或短期施工服务需求可以选择先租再买。施工服务类客户则希望整体引入机器人施工方案，由方石机器人提供“设备+操作+技术支持”的一体化交付。</p> <p>“采购和使用建筑机器人的决策，主要还是在具体施工的项目方。不同层级的客户，对建筑机器人的需求侧重点有明显差异。”李思桥介绍，总包层面的核心诉求是稳定性和可靠性，以及施工效率、质量合格率等系统层面的效能提升；而劳务班组更关注产品的易用性、上手门槛和经济性。“但最终指向同一个方向，必须在产品可靠性、操作便捷性和经济性三个维度上同时过关，才能真正被市场接受。”</p> <p>李思桥认为，建筑业本质上是一个对降本增效高度敏感的传统行业。“客户核心算的是经济账：在保证工期和施工质量的前提下，使用机器人到底划不划算。”他表示，方石机器人产品此前能够快速打开市场，关键在于设备购入后回本周期短，平均投资回收期在12个月以内，后续施工项目也可以持续为客户创造成本节约。</p> <p>除了继续深耕国内市场，方石机器人也在积极拓展海外市场。</p> <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260513/v2_d76b676468e6449e9fbc77b50c72e08b@5688585_oswg854835oswg1920oswg1220_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p> <p class=\"img-desc\">方石机器人海外现场施工图</p> <p>由于海外劳务用工成本普遍高于国内，“机器替人”需求更加旺盛。方石机器人2023年首入澳大利亚市场以来，产品已覆盖中东、东南亚、东亚等十余个国家和地区，并与区域内头部建筑商建立紧密合作，并且加速在中东、东南亚设立区域服务中心与备件库，推动从产品出海向本地化运营跨越。</p> <p>针对不同地区的本地化适配，方石机器人的做法是“客户调研-现场调试-设备迭代”三步走：先调研目标市场的建筑工艺标准、材料体系、法规要求；再将设备带到当地施工现场进行实际调试；最后根据现场反馈进行迭代优化，形成针对该市场的产品版本。</p> <p>谈及公司的未来方向，李思桥给出的战略排序是，先将已有产品能力做深做透，保证稳定的现金流与客户口碑。“公司有一套严格的新研发项目立项评价体系，新产品立项要经过市场容量、技术可行性、客户需求验证等多维度评估，不会盲目追求工种覆盖广度。”</p> <p>在技术层面，方石机器人持续积累数字资产和建筑大模型等核心资产的同时，也在探索人形机器人在建筑行业特定应用场景中的泛化可能性。“当人形机器人的硬件成熟度达到建筑现场的可靠性要求时，我们在建筑垂直领域的AI能力将成为非常有价值的软件层。”李思桥表示。</p>",
-      "publishedAt": "2026-05-13T01:24:00Z",
-      "published_at": "2026-05-13T01:24:00Z",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/building-codex-windows-sandbox",
+      "category": "ai-models",
+      "score": 8,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "OpenAI在Windows上构建安全沙箱，让Codex能受控访问文件并限制联网执行代码。",
+      "summary_zh": "OpenAI在Windows上构建安全沙箱，让Codex能受控访问文件并限制联网执行代码。",
+      "publishedAt": "2026-05-13T11:00:00Z",
+      "published_at": "2026-05-13T11:00:00Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -249,10 +218,10 @@
         "is_real_launch_or_update": true,
         "novelty": 2,
         "practitioner_value": 2,
-        "signal_over_promo": 1,
+        "signal_over_promo": 2,
         "distribution_signal": 1,
         "confidence": 1,
-        "reason": "具身智能建筑机器人融资，含落地与技术信号"
+        "reason": "OpenAI披露Codex在Windows沙箱实现，具工程参考价值"
       }
     },
     {
@@ -268,8 +237,8 @@
       "score": 7,
       "rank_score": 7.0,
       "rankingScore": 7.0,
-      "summary": "<h1>Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜</h1> <div class=\"article_info\"> <span class=\"author\"><img class=\"avatar avatar-200\" height=\"200\" src=\"http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg\" width=\"200\" /><em><a href=\"https://www.qbitai.com/author/simiao\" rel=\"author\" title=\"由 思邈 发布\">思邈</a></em></span> <span class=\"date\">2026-05-13</span> <span class=\"time\">12:08:58</span> <span class=\"from\"> 来源：<a href=\"https://www.qbitai.com/\" rel=\"nofllow\" target=\"blank\">量子位</a> </span></div> <!--摘要样式--> <div class=\"zhaiyao\"><p>正式进入“迭代优化”时代</p> </div> <blockquote> <p>允中 发自 凹非寺</p> <p>量子位 | 公众号 QbitAI</p> </blockquote> <p>如果把AI丢进一个<strong>没有标准答案</strong>的工程现场，它还能活下来吗？</p> <p>长期以来，AI Agent看起来无所不能，实则大多是在已知知识库里“翻记忆”。</p> <p>但真实的工程世界是残酷的：水下机器人的稳定性、动力电池的析锂边界、量子线路的噪声控制……这些问题没有“满分”，只有<strong>“更逼近极限的优化”</strong>。</p> <p>近期，<strong>Einsia AI旗下Navers lab</strong>发布的Agent Benchmark——<strong>Frontier-Eng Bench</strong>，正式撕掉了AI“做题家”的标签。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/b03d2149fec707b22c46b153656549d6.webp\" /></div> <p>研究团队没有让AI刷那些陈旧的代码题，取而代之的是，给了它一套完整的“工程闭环”：提出方案、接入仿真器、吃报错、改参数、重跑。</p> <p>在<strong>47个</strong>多学科交叉的硬核任务面前，AI必须表现得像资深工程师一样，在功耗、安全、性能的“不可能三角”中寻找最优解。</p> <p>这不仅仅是一个测试集，它更像是一场关于Agent“进化”的预演。</p> <p>当AI开始学会在反馈中自我修正，那个“人类提目标、AI则24小时不间断迭代”的<strong>Auto Research</strong>时代，可能比我们想象中更近了。</p> <h1 class=\"pgc-h-forward-slash\">AI开始干“硬活”了</h1> <p>过去的大模型，更像一个超级学霸。</p> <p>你抛出问题，它从海量训练数据里“翻记忆”，然后拼凑成一个看起来很合理的答案。</p> <p>这种模式下，大模型本质上是在玩“文字接龙”，而非解决现实问题。</p> <p>但Frontier-Eng Bench的出现，却让AI干起了<strong>“工程优化”</strong>的活儿。</p> <p>流程转而变成了让AI先提出方案、再接入simulator跑实验、继而获取反馈和报错、修改参数和代码、再继续重跑，直到性能继续上涨。</p> <p>在这种闭环系统中，AI的身份发生了质变。</p> <ul> <li>你想让水下机器人更稳定？AI必须开始自动调控制器。</li> <li>你想把机械臂速度再提升一点？AI得自己跑仿真。</li> </ul> <p>某种程度上，AI们已经脱离了单纯的语义理解，开始像一个<strong>职业工程师</strong>那样，在真实环境反馈里做持续优化。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/20ca75b11af826b61420e91c71a3d687.webp\" /><span class=\"pgc-img-caption\">△Frontier-Eng Bench总览</span></div> <p>Frontier-Eng Bench最有意思的地方在于：它测的不是AI“答对没有”，而是<strong>AI到底能不能持续变强</strong>。</p> <p>因为真实的工程优化，从来不是做选择题，没有唯一的标准答案。</p> <p>以电池快充为例，目标听起来很简单——充得越快越好，但现实没那么容易。</p> <p>AI必须在温度不能爆表、电压不能超速、电池寿命不能掉太快、还要避免析锂的严苛约束下，精准踩中性能的平衡点。</p> <p>这意味着AI无法通过任何技巧性的“刷题”来通关，它必须在长程反馈中展现出持续进化的耐力。</p> <p><strong>那AI能不能在真实环境里做长期优化？</strong></p> <p>从结果来看，<strong>GPT5.4</strong>整体表现最稳，但距离把Benchmark“做穿”，AI们要走的路还很远。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/0bbb21a869c2e0170039a0ddb3ba0fa7.webp\" /><span class=\"pgc-img-caption\">△不同模型的详细评测结果</span></div> <h1 class=\"pgc-h-forward-slash\">Auto Research进入“迭代优化”时代</h1> <p>研究团队在论文里提了一个非常有意思的点：</p> <blockquote> <p>真正高级的智能，本质上都依赖长期反馈闭环。</p> </blockquote> <p>正如AlphaGo之所以能击败李世石，在于其每一步决策背后深不见底的<strong>海量模拟与即时反馈</strong>，而非对既定棋谱的死记硬背。</p> <p>真正的科研也一样，顶级实验室并不依赖某一次的灵感爆发，而是不断地提假设、跑实验、看结果、改方案、再继续尝试。</p> <p>工程优化也是同理，第一版往往谁都能做，真正难的，其实是最后那1%的性能跃迁。</p> <p>Frontier-Eng Bench的意义就在于：<strong>它第一次开始系统性地测试AI的“迭代优化能力”，并总结出了两条近乎残酷的AI进化规律。</strong></p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/77260b3c69b007969a061763c770b05c.webp\" /><span class=\"pgc-img-caption\">△工程优化的双重幂律衰减</span></div> <p>第一个规律是：<strong>越往后，提升越难。</strong></p> <p>这篇论文发现，Agent的改进频率和幅度都呈现幂律衰减：</p> <ul> <li>改进频率∝ 1/迭代轮数</li> <li>改进幅度∝ 1/改进次数</li> </ul> <p>简单说就是：前面几轮涨得最快，后面越来越难、越来越小。</p> <p>这很像真实研发过程，第一版AI能快速干掉大量“低垂果实”，但越往后越接近瓶颈，想再抠一点性能都得下狠功夫。</p> <p>那是不是多开几条路并行试错，会更划算？答案藏在第二个规律里。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/4e93d5c8177ff158690b4404ff7ab79e.jpeg\" /><span class=\"pgc-img-caption\">△深度 vs 宽度</span></div> <p>第二个规律：<strong>宽度有用，但深度更不可或缺。</strong></p> <p>并行多跑几条线能避免卡壳，但预算固定时，每多开一条链就会压浅深度。</p> <p>很多工程突破需要靠持续积累、不断修正，才会出现结构性跃迁，并不是说靠“多试几次”就能实现。</p> <p>这其实提示了我们下一代Agent的发展方向：不是“一次出答案”的模型，而是<strong>能在长程反馈里持续迭代、自我进化的系统。</strong></p> <h1 class=\"pgc-h-forward-slash\">AI工程师，可能真的要来了</h1> <p>这项研究真正的深远意义，在于它初步勾勒出了一套<strong>开始接近真实工程循环的AI系统。</strong></p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/7392cedbc9961874e156bdccba442480.webp\" /><span class=\"pgc-img-caption\">△Frontier-Eng Bench体系概览</span></div> <p>试想一下，当AI接入工业软件、仿真环境、CAD系统、芯片设计工具、科学计算平台……</p> <p>一场生产力模态的剧变便呼之欲出。</p> <p>未来的实验室里，很可能会出现这样一种分工：</p> <p>人类研究员负责提出方向和目标。</p> <p>例如“把这个部件的能耗降低30%”、“把这个模型前向的GPU占用率压得更低”、“让机器人控制的稳定性再提升一点”、“让量子线路的保真度继续逼近极限”等等。</p> <p>而AI负责“死磕路径”，它们围绕这些目标，持续优化。</p> <p>例如自动运行仿真与实验、自动读取verifier与simulator的反馈，再继续修改和优化，24小时不停迭代。</p> <p>这种进化逻辑，让AI摆脱了“辅助工具”的身份，开始像一个真正的工程团队那样去解决复杂系统问题，而且不知疲倦。</p> <p>而Frontier-Eng这一Benchmark揭示的问题，其实也非常直接：</p> <p>当AI开始学会“长期优化”，它距离真正的工程智能，还有多远？</p> <p>论文题目：Frontier-Eng: Benchmarking Self-Evolving Agents on Real-World Engineering Tasks with Generative Optimization<br /> 项目主页：https://lab.einsia.ai/frontier-eng/<br /> Arxiv: https://arxiv.org/abs/2604.12290<br /> GitHub repo: https://github.com/EinsiaLab/Frontier-Engineering</p> <!--版权声明--> <div class=\"line_font\"><span></span><em>版权所有，未经授权不得以任何形式转载及使用，违者必究。</em><span></span></div>",
-      "summary_zh": "<h1>Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜</h1> <div class=\"article_info\"> <span class=\"author\"><img class=\"avatar avatar-200\" height=\"200\" src=\"http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg\" width=\"200\" /><em><a href=\"https://www.qbitai.com/author/simiao\" rel=\"author\" title=\"由 思邈 发布\">思邈</a></em></span> <span class=\"date\">2026-05-13</span> <span class=\"time\">12:08:58</span> <span class=\"from\"> 来源：<a href=\"https://www.qbitai.com/\" rel=\"nofllow\" target=\"blank\">量子位</a> </span></div> <!--摘要样式--> <div class=\"zhaiyao\"><p>正式进入“迭代优化”时代</p> </div> <blockquote> <p>允中 发自 凹非寺</p> <p>量子位 | 公众号 QbitAI</p> </blockquote> <p>如果把AI丢进一个<strong>没有标准答案</strong>的工程现场，它还能活下来吗？</p> <p>长期以来，AI Agent看起来无所不能，实则大多是在已知知识库里“翻记忆”。</p> <p>但真实的工程世界是残酷的：水下机器人的稳定性、动力电池的析锂边界、量子线路的噪声控制……这些问题没有“满分”，只有<strong>“更逼近极限的优化”</strong>。</p> <p>近期，<strong>Einsia AI旗下Navers lab</strong>发布的Agent Benchmark——<strong>Frontier-Eng Bench</strong>，正式撕掉了AI“做题家”的标签。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/b03d2149fec707b22c46b153656549d6.webp\" /></div> <p>研究团队没有让AI刷那些陈旧的代码题，取而代之的是，给了它一套完整的“工程闭环”：提出方案、接入仿真器、吃报错、改参数、重跑。</p> <p>在<strong>47个</strong>多学科交叉的硬核任务面前，AI必须表现得像资深工程师一样，在功耗、安全、性能的“不可能三角”中寻找最优解。</p> <p>这不仅仅是一个测试集，它更像是一场关于Agent“进化”的预演。</p> <p>当AI开始学会在反馈中自我修正，那个“人类提目标、AI则24小时不间断迭代”的<strong>Auto Research</strong>时代，可能比我们想象中更近了。</p> <h1 class=\"pgc-h-forward-slash\">AI开始干“硬活”了</h1> <p>过去的大模型，更像一个超级学霸。</p> <p>你抛出问题，它从海量训练数据里“翻记忆”，然后拼凑成一个看起来很合理的答案。</p> <p>这种模式下，大模型本质上是在玩“文字接龙”，而非解决现实问题。</p> <p>但Frontier-Eng Bench的出现，却让AI干起了<strong>“工程优化”</strong>的活儿。</p> <p>流程转而变成了让AI先提出方案、再接入simulator跑实验、继而获取反馈和报错、修改参数和代码、再继续重跑，直到性能继续上涨。</p> <p>在这种闭环系统中，AI的身份发生了质变。</p> <ul> <li>你想让水下机器人更稳定？AI必须开始自动调控制器。</li> <li>你想把机械臂速度再提升一点？AI得自己跑仿真。</li> </ul> <p>某种程度上，AI们已经脱离了单纯的语义理解，开始像一个<strong>职业工程师</strong>那样，在真实环境反馈里做持续优化。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/20ca75b11af826b61420e91c71a3d687.webp\" /><span class=\"pgc-img-caption\">△Frontier-Eng Bench总览</span></div> <p>Frontier-Eng Bench最有意思的地方在于：它测的不是AI“答对没有”，而是<strong>AI到底能不能持续变强</strong>。</p> <p>因为真实的工程优化，从来不是做选择题，没有唯一的标准答案。</p> <p>以电池快充为例，目标听起来很简单——充得越快越好，但现实没那么容易。</p> <p>AI必须在温度不能爆表、电压不能超速、电池寿命不能掉太快、还要避免析锂的严苛约束下，精准踩中性能的平衡点。</p> <p>这意味着AI无法通过任何技巧性的“刷题”来通关，它必须在长程反馈中展现出持续进化的耐力。</p> <p><strong>那AI能不能在真实环境里做长期优化？</strong></p> <p>从结果来看，<strong>GPT5.4</strong>整体表现最稳，但距离把Benchmark“做穿”，AI们要走的路还很远。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/0bbb21a869c2e0170039a0ddb3ba0fa7.webp\" /><span class=\"pgc-img-caption\">△不同模型的详细评测结果</span></div> <h1 class=\"pgc-h-forward-slash\">Auto Research进入“迭代优化”时代</h1> <p>研究团队在论文里提了一个非常有意思的点：</p> <blockquote> <p>真正高级的智能，本质上都依赖长期反馈闭环。</p> </blockquote> <p>正如AlphaGo之所以能击败李世石，在于其每一步决策背后深不见底的<strong>海量模拟与即时反馈</strong>，而非对既定棋谱的死记硬背。</p> <p>真正的科研也一样，顶级实验室并不依赖某一次的灵感爆发，而是不断地提假设、跑实验、看结果、改方案、再继续尝试。</p> <p>工程优化也是同理，第一版往往谁都能做，真正难的，其实是最后那1%的性能跃迁。</p> <p>Frontier-Eng Bench的意义就在于：<strong>它第一次开始系统性地测试AI的“迭代优化能力”，并总结出了两条近乎残酷的AI进化规律。</strong></p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/77260b3c69b007969a061763c770b05c.webp\" /><span class=\"pgc-img-caption\">△工程优化的双重幂律衰减</span></div> <p>第一个规律是：<strong>越往后，提升越难。</strong></p> <p>这篇论文发现，Agent的改进频率和幅度都呈现幂律衰减：</p> <ul> <li>改进频率∝ 1/迭代轮数</li> <li>改进幅度∝ 1/改进次数</li> </ul> <p>简单说就是：前面几轮涨得最快，后面越来越难、越来越小。</p> <p>这很像真实研发过程，第一版AI能快速干掉大量“低垂果实”，但越往后越接近瓶颈，想再抠一点性能都得下狠功夫。</p> <p>那是不是多开几条路并行试错，会更划算？答案藏在第二个规律里。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/4e93d5c8177ff158690b4404ff7ab79e.jpeg\" /><span class=\"pgc-img-caption\">△深度 vs 宽度</span></div> <p>第二个规律：<strong>宽度有用，但深度更不可或缺。</strong></p> <p>并行多跑几条线能避免卡壳，但预算固定时，每多开一条链就会压浅深度。</p> <p>很多工程突破需要靠持续积累、不断修正，才会出现结构性跃迁，并不是说靠“多试几次”就能实现。</p> <p>这其实提示了我们下一代Agent的发展方向：不是“一次出答案”的模型，而是<strong>能在长程反馈里持续迭代、自我进化的系统。</strong></p> <h1 class=\"pgc-h-forward-slash\">AI工程师，可能真的要来了</h1> <p>这项研究真正的深远意义，在于它初步勾勒出了一套<strong>开始接近真实工程循环的AI系统。</strong></p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/7392cedbc9961874e156bdccba442480.webp\" /><span class=\"pgc-img-caption\">△Frontier-Eng Bench体系概览</span></div> <p>试想一下，当AI接入工业软件、仿真环境、CAD系统、芯片设计工具、科学计算平台……</p> <p>一场生产力模态的剧变便呼之欲出。</p> <p>未来的实验室里，很可能会出现这样一种分工：</p> <p>人类研究员负责提出方向和目标。</p> <p>例如“把这个部件的能耗降低30%”、“把这个模型前向的GPU占用率压得更低”、“让机器人控制的稳定性再提升一点”、“让量子线路的保真度继续逼近极限”等等。</p> <p>而AI负责“死磕路径”，它们围绕这些目标，持续优化。</p> <p>例如自动运行仿真与实验、自动读取verifier与simulator的反馈，再继续修改和优化，24小时不停迭代。</p> <p>这种进化逻辑，让AI摆脱了“辅助工具”的身份，开始像一个真正的工程团队那样去解决复杂系统问题，而且不知疲倦。</p> <p>而Frontier-Eng这一Benchmark揭示的问题，其实也非常直接：</p> <p>当AI开始学会“长期优化”，它距离真正的工程智能，还有多远？</p> <p>论文题目：Frontier-Eng: Benchmarking Self-Evolving Agents on Real-World Engineering Tasks with Generative Optimization<br /> 项目主页：https://lab.einsia.ai/frontier-eng/<br /> Arxiv: https://arxiv.org/abs/2604.12290<br /> GitHub repo: https://github.com/EinsiaLab/Frontier-Engineering</p> <!--版权声明--> <div class=\"line_font\"><span></span><em>版权所有，未经授权不得以任何形式转载及使用，违者必究。</em><span></span></div>",
+      "summary": "Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜  思邈 2026-05-13 12:08:58  来源：量子位   正式进入“迭代优化”时代   允中 发自 凹非寺 量子位 | 公众号 QbitAI  如果把AI丢进一个没有标准答案的工程现场，它还能活下来吗？ 长期以来，AI Agent看起来无所不能，实则大多是在已知知识库里“翻记忆”。 但真实的工程世界是残酷的：水下机器人的稳定性、动力电池的析锂边界、量子线路的噪声控制……这些问题没有“满分”，只有“更逼近极限的优化”。 近期，Einsia AI旗下Navers lab发布的Agent Benchmark——Frontier-Eng Bench，正式撕掉了AI“做题家”的标签。  研究团队没有让AI刷那些陈旧的代码题，取而代之的是，给了它一套完整的“工程闭环”：提出方案、接入仿真器、吃报错、改参数、重跑。 在47个多学科交叉的硬核任务面前，AI必须表现得像资深工程师一样，在功耗、安全、性能的“不可能三角”中寻找最优解。 这不仅仅是一个测试集，它更像是一场关于Agent“进化”的预演。 当AI开始学会",
+      "summary_zh": "Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜  思邈 2026-05-13 12:08:58  来源：量子位   正式进入“迭代优化”时代   允中 发自 凹非寺 量子位 | 公众号 QbitAI  如果把AI丢进一个没有标准答案的工程现场，它还能活下来吗？ 长期以来，AI Agent看起来无所不能，实则大多是在已知知识库里“翻记忆”。 但真实的工程世界是残酷的：水下机器人的稳定性、动力电池的析锂边界、量子线路的噪声控制……这些问题没有“满分”，只有“更逼近极限的优化”。 近期，Einsia AI旗下Navers lab发布的Agent Benchmark——Frontier-Eng Bench，正式撕掉了AI“做题家”的标签。  研究团队没有让AI刷那些陈旧的代码题，取而代之的是，给了它一套完整的“工程闭环”：提出方案、接入仿真器、吃报错、改参数、重跑。 在47个多学科交叉的硬核任务面前，AI必须表现得像资深工程师一样，在功耗、安全、性能的“不可能三角”中寻找最优解。 这不仅仅是一个测试集，它更像是一场关于Agent“进化”的预演。 当AI开始学会",
       "publishedAt": "2026-05-13T04:08:58Z",
       "published_at": "2026-05-13T04:08:58Z",
       "votes_count": null,
@@ -283,43 +252,12 @@
         "signal_over_promo": 1,
         "distribution_signal": 0,
         "confidence": 1,
-        "reason": "新Agent工程优化基准，论文与代码齐全"
-      }
-    },
-    {
-      "id": "f71ceab5",
-      "title": "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/05/416762.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/05/416762.html",
-      "category": "cn-media",
-      "score": 7,
-      "rank_score": 7.0,
-      "rankingScore": 7.0,
-      "summary": "<h1>AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览</h1> <div class=\"article_info\"> <span class=\"author\"><img class=\"avatar avatar-200\" height=\"200\" src=\"http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg\" width=\"200\" /><em><a href=\"https://www.qbitai.com/author/xifeng\" rel=\"author\" title=\"由 西风 发布\">西风</a></em></span> <span class=\"date\">2026-05-13</span> <span class=\"time\">12:43:31</span> <span class=\"from\"> 来源：<a href=\"https://www.qbitai.com/\" rel=\"nofllow\" target=\"blank\">量子位</a> </span></div> <!--摘要样式--> <div class=\"zhaiyao\"><p>李彦宏提出“AI时代进化论”</p> </div> <blockquote> <p class=\"pgc-h-forward-slash\">允中 发自 凹非寺</p> <p class=\"pgc-h-forward-slash\">量子位 | 公众号 QbitAI</p> </blockquote> <p>龙虾的出现，引爆了智能体赛道。</p> <p>对应移动互联网最通用的度量衡“日活用户数”（DAU），刚刚，AI智能体时代另一个度量衡出现了——</p> <p><strong>日活智能体数（DAA）</strong>。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/8aabc013410909f42fd9486158169de0.jpeg\" /></div> <p>刚刚，Create2026百度AI开发者⼤会在京召开。</p> <p>百度创始人李彦宏首次提出DAA，在他看来，Token不一定代表终局，它只代表成本并不代表收益，衡量的是投入而非产出。</p> <p>而DAA这个指标，更为关注的是有多少Agent在给人类干活，并交付结果。李彦宏预测，未来全球日活智能体数（DAA）可能会超过100亿。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/37c6f7911e845adb92568122f3b6cda6.jpeg\" /></div> <p>与此同时，大会以“自我进化”为主题，展示了百度一系列AI布局及其进展。</p> <p>李彦宏也解释了自我进化的三层涵义：</p> <blockquote> <p>一是智能体的自我进化，从被动响应到从环境中不断吸取营养来提升自己，并主动执行；</p> <p>二是人类个体的自我进化，从普通个体到超级个体，并学会跟AI共存；</p> <p>三是企业组织的自我进化，从人与人的分工协作，到人与智能体的混合编队，成为超级组织。</p> </blockquote> <p>而为了支撑智能体应用爆发，百度构建起了“芯云模体”全栈能力。</p> <p>具体都有哪些进展，我们一一来看。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/6120102d92c3aac2ea595153fdada91d.png\" /></div> <h1 class=\"pgc-h-forward-slash\">百度搭子DuMate正式亮相</h1> <p>大会上，百度搭子DuMate全新推出移动端App，一句话，实现从“想法”到“结果”自动执行。</p> <p>DuMate自MVP版本发布以来快速迭代，使用场景不断扩大，任务完成率不断提高，现在已可以胜任多种复杂工作。</p> <p>其将百度AI搜索、秒哒、伐谋、百科等核心产品能力集成为可随时调用的内置技能，同时强化长程任务执行与主动决策能力，正逐步成为用户进入Agent世界的统一入口。</p> <p>目前，DuMate已在多个国际权威Agent Benchmark评测中达到SOTA水平。</p> <p>据悉，Dumate移动端App实现了与PC端的远程实时互通，可随时随地发起任务，真正实现7×24小时AI助手陪伴，PC端与移动端数据、任务状态实时同步，无缝切换。</p> <h1 class=\"pgc-h-forward-slash\">秒哒App及企业版上线</h1> <p>另外，百度发布代码智能体秒哒App及企业版。</p> <p>李彦宏表示，秒哒这样的代码智能体，让软件行业正被重新定义，‘一次性软件’或者说‘日抛型软件’变得合理，“这个市场很可能会被放大10倍。”</p> <p>据悉，秒哒App本身90%的代码由秒哒智能体自动生成。截止目前，秒哒生成的应用已累计服务用户超1000万，应用价值达50亿元。</p> <h1 class=\"pgc-h-forward-slash\">慧播星升级为“百度一镜”</h1> <p>现场，百度慧播星升级为“百度一镜”，成为全球首个全场景多智能体数字人平台。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/cf44e1f9f165cff30f9d8af92990226e.jpeg\" /></div> <p>从主要应用于直播带货场景的数字人，升级为以数字人为特色，包含直播、视频、实时互动等多形态的“全场景数字人平台”，并可生成几分钟乃至数小时的高互动内容。</p> <p>李彦宏表示，“数字人就是‘看得见’的智能体”，未来很多场景下，人们调用智能体、管理任务、获得服务，很可能不是面对一个聊天框，而是面对一个数字人。</p> <p>一镜海外版同步推出，让全球创作者能更高效地做出有质量、有商业价值的内容。</p> <h1 class=\"pgc-h-forward-slash\">百度伐谋2.0发布</h1> <p>与此同时，自我演化决策智能体百度伐谋升级至2.0版本，进一步直接面向业务专家，聚焦生产排程、物流规划、工艺优化三大场景。</p> <div class=\"pgc-img\"><img src=\"https://mp.toutiao.com/mp/agw/article_material/open_image/get?code=ZWU3NDA5ZjEzMmExMWM3OWNjODkzMTFjMzY4YTU5ZmQsMTc3ODY0NzA4MTY2OQ==\" /></div> <p>百度伐谋2.0让业务专家无需懂代码，可像带徒弟一样通过对话进行调整；企业级记忆系统将业务逻辑沉淀为可复用的AI资产，越用越懂企业，方案持续优化。</p> <p>百度伐谋在三大典型行业场景实现垂直能力的突破：</p> <ul> <li>生产排程领域，将404个任务分配到82台注塑机，生产率提升6.31%；</li> <li>物流规划领域，在自动化码头，帮助全球首套码头智能管控系统A-TOS实现10.21%的绝对指标提升，助力中国产品走向世界；</li> <li>工艺优化方面，强化跨学科知识融合建模能力，在科学计算模型保障下理解材料、化工、生物等原理。</li> </ul> <div class=\"pgc-img\"><img src=\"https://mp.toutiao.com/mp/agw/article_material/open_image/get?code=YWM5MzAxZjRiOTMyOTI5ZTAwNjUzN2I3MzI1ZDAyNzQsMTc3ODY0NzA4MTY2OQ==\" /></div> <p>此前，百度伐谋Agent 2.0已登顶机器学习权威基准MLE-Bench，在15道最难题目中拿下9项第一，超越搭载Claude-Opus-4.6等主流大模型的同类智能体。</p> <h1 class=\"pgc-h-forward-slash\">百度智能云</h1> <p>5月13日，在Create 2026百度AI开发者大会上，百度集团执行副总裁、百度智能云事业群总裁沈抖披露了一系列最新进展。</p> <p>首先，百度智能云<strong>去年成功支持了超过2000万辆L2级辅助驾驶新车交付</strong>。</p> <p>沈抖介绍，百度智能云通过芯云模体新全栈AI云，目前支持涵盖主机厂、电池、芯片、无人车等产业链领军企业的研发、训练、仿真、测试和量产交付多个环节，客户包括吉利、理想、长安、蔚来、地平线、新石器、宁德时代等。</p> <p>其次，百度智能云目前<strong>已服务超过1000家AI硬件公司</strong>，为其提供核心算力、模型服务、Agent Harness等能力。</p> <p>客户覆盖范围包括全球排名前十的手机厂商、中国排名前十AI眼镜企业中的90%、Top5扫地机器人品牌，以及Top5 AI玩具厂商，另有500万台智能家电已接入百度智能云。</p> <p>第三，百度智能云<strong>已服务超30家重点具身智能企业</strong>，市场份额超过第二、第三名总和。</p> <p>当前，具身智能大规模落地，正在攀登“数据、模型、本体”三座大山。</p> <p>在数据层面，百度智能云正将十余年自动驾驶积累的数据服务能力迁移至具身场景，支持大规模数据采集与标注。在模型训练方面，依托百度智能云在大模型AI Infra领域的长期积累，目前典型VLA训练已实现超过70%的训练加速，世界模型推理时延降低近50%，原本按周进行的训练周期，正在缩短至按天迭代。</p> <p>目前，百度智能云已形成覆盖算力、平台工具链、数据服务、语音交互、安全能力在内的全栈支撑体系，并将推出“训练-评测-反馈”闭环系统，进一步帮助具身智能企业实现模型规模化训练与持续进化。</p> <p>除此之外，百度智能云公布以昆仑芯为主的国产算力在金融行业的规模化落地情况。</p> <p>其中，招商银行基于昆仑芯P800打造国产算力底座，在目前已上线超800个AI智能体应用，覆盖风控、营销、研发、办公等核心场景，其中超50%运行于昆仑芯算力之上。</p> <p>浦发银行则基于昆仑芯精调金融分析专精模型，在多个场景提升金融意图识别准确率，其2025年资产总额突破10万亿元，对公贷款尽调效率显著提升。目前，全国100%系统重要性银行及800余家金融机构已选择百度智能云。</p> <p>百度智能云还宣布全面升级Agent基础设施，将MaaS模型服务升级为Token Factory（词元工厂），并发布Harness Engineering（驾驭工程），帮助企业和超级个体打造和使用智能水平更高、更能交付结果的智能体。</p> <p>其中，Token Factory以Agent-first理念，大幅减少token重复计算，推理速度较市场平均水平提升约25%，并依托百度自研昆仑芯片，为文心、DeepSeek、GLM、MiniMax等国产主流大模型提供更高性价比的算力支撑。</p> <p>百度版Harness Engineering，集长上下文管理、持久记忆、工具调用、子智能体调度等核心能力于一体，并深度适配Office、浏览器等企业常用工具。实测数据显示，该方案在典型办公场景中任务成功率可达95%，相比同类产品最高可降低23%的token消耗。</p> <p>目前，百度智能云Agent基础设施已支撑百度伐谋、秒哒等垂直智能体及通用智能体DuMate的稳定运行，并支撑零金融、能源、互联网、制造、教育、医疗、汽车等行业企业打造了高效能的智能体。</p> <p>芯片方面，目前昆仑芯P800已完成规模化验证，2025年至今已交付多个万卡集群。此外在昆仑芯全国产集群上，已成功完成对文心5.1重要版本的训练，整个集群的有效训练率达到 97%，万卡规模集群线性扩展度超过 85%，可以满足前沿大模型大规模训练对计算精度、算子稳定性、框架适配和长周期运行的要求。</p> <p>基于昆仑芯的天池256卡超节点已经在上个月点亮，将于6月正式上市，吞吐性能较上一代提升25%，并完成包含文心、DeepSeek、GLM、MiniMax等主流模型的适配，推理效率提升50%，网络架构升级至HPN5.0，端到端时延优化50%，支持按需搭建数十万卡乃至百万卡超大集群。</p> <p>百度智能云也公布了吉瓦级AIDC升级，通过“网络向心布局”设计理念，让计算与网络距离最短，最大限度提升计算效率，规模化落地风液兼容架构，让数据中心的整体建设周期缩短约30%。</p> <p>基于百度在昆仑芯、AI云、文心大模型、智能体等方面的丰富实践，百度智能云宣布将全面升级为面向大规模智能体应用的新全栈AI云，打造单位Token的智能水平最好的Agent Infra和每瓦性能更强、性价比更高的AI Infra。</p> <p> </p> <!--版权声明--> <div class=\"line_font\"><span></span><em>版权所有，未经授权不得以任何形式转载及使用，违者必究。</em><span></span></div>",
-      "summary_zh": "<h1>AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览</h1> <div class=\"article_info\"> <span class=\"author\"><img class=\"avatar avatar-200\" height=\"200\" src=\"http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg\" width=\"200\" /><em><a href=\"https://www.qbitai.com/author/xifeng\" rel=\"author\" title=\"由 西风 发布\">西风</a></em></span> <span class=\"date\">2026-05-13</span> <span class=\"time\">12:43:31</span> <span class=\"from\"> 来源：<a href=\"https://www.qbitai.com/\" rel=\"nofllow\" target=\"blank\">量子位</a> </span></div> <!--摘要样式--> <div class=\"zhaiyao\"><p>李彦宏提出“AI时代进化论”</p> </div> <blockquote> <p class=\"pgc-h-forward-slash\">允中 发自 凹非寺</p> <p class=\"pgc-h-forward-slash\">量子位 | 公众号 QbitAI</p> </blockquote> <p>龙虾的出现，引爆了智能体赛道。</p> <p>对应移动互联网最通用的度量衡“日活用户数”（DAU），刚刚，AI智能体时代另一个度量衡出现了——</p> <p><strong>日活智能体数（DAA）</strong>。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/8aabc013410909f42fd9486158169de0.jpeg\" /></div> <p>刚刚，Create2026百度AI开发者⼤会在京召开。</p> <p>百度创始人李彦宏首次提出DAA，在他看来，Token不一定代表终局，它只代表成本并不代表收益，衡量的是投入而非产出。</p> <p>而DAA这个指标，更为关注的是有多少Agent在给人类干活，并交付结果。李彦宏预测，未来全球日活智能体数（DAA）可能会超过100亿。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/37c6f7911e845adb92568122f3b6cda6.jpeg\" /></div> <p>与此同时，大会以“自我进化”为主题，展示了百度一系列AI布局及其进展。</p> <p>李彦宏也解释了自我进化的三层涵义：</p> <blockquote> <p>一是智能体的自我进化，从被动响应到从环境中不断吸取营养来提升自己，并主动执行；</p> <p>二是人类个体的自我进化，从普通个体到超级个体，并学会跟AI共存；</p> <p>三是企业组织的自我进化，从人与人的分工协作，到人与智能体的混合编队，成为超级组织。</p> </blockquote> <p>而为了支撑智能体应用爆发，百度构建起了“芯云模体”全栈能力。</p> <p>具体都有哪些进展，我们一一来看。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/6120102d92c3aac2ea595153fdada91d.png\" /></div> <h1 class=\"pgc-h-forward-slash\">百度搭子DuMate正式亮相</h1> <p>大会上，百度搭子DuMate全新推出移动端App，一句话，实现从“想法”到“结果”自动执行。</p> <p>DuMate自MVP版本发布以来快速迭代，使用场景不断扩大，任务完成率不断提高，现在已可以胜任多种复杂工作。</p> <p>其将百度AI搜索、秒哒、伐谋、百科等核心产品能力集成为可随时调用的内置技能，同时强化长程任务执行与主动决策能力，正逐步成为用户进入Agent世界的统一入口。</p> <p>目前，DuMate已在多个国际权威Agent Benchmark评测中达到SOTA水平。</p> <p>据悉，Dumate移动端App实现了与PC端的远程实时互通，可随时随地发起任务，真正实现7×24小时AI助手陪伴，PC端与移动端数据、任务状态实时同步，无缝切换。</p> <h1 class=\"pgc-h-forward-slash\">秒哒App及企业版上线</h1> <p>另外，百度发布代码智能体秒哒App及企业版。</p> <p>李彦宏表示，秒哒这样的代码智能体，让软件行业正被重新定义，‘一次性软件’或者说‘日抛型软件’变得合理，“这个市场很可能会被放大10倍。”</p> <p>据悉，秒哒App本身90%的代码由秒哒智能体自动生成。截止目前，秒哒生成的应用已累计服务用户超1000万，应用价值达50亿元。</p> <h1 class=\"pgc-h-forward-slash\">慧播星升级为“百度一镜”</h1> <p>现场，百度慧播星升级为“百度一镜”，成为全球首个全场景多智能体数字人平台。</p> <div class=\"pgc-img\"><img src=\"https://i.qbitai.com/wp-content/uploads/2026/05/cf44e1f9f165cff30f9d8af92990226e.jpeg\" /></div> <p>从主要应用于直播带货场景的数字人，升级为以数字人为特色，包含直播、视频、实时互动等多形态的“全场景数字人平台”，并可生成几分钟乃至数小时的高互动内容。</p> <p>李彦宏表示，“数字人就是‘看得见’的智能体”，未来很多场景下，人们调用智能体、管理任务、获得服务，很可能不是面对一个聊天框，而是面对一个数字人。</p> <p>一镜海外版同步推出，让全球创作者能更高效地做出有质量、有商业价值的内容。</p> <h1 class=\"pgc-h-forward-slash\">百度伐谋2.0发布</h1> <p>与此同时，自我演化决策智能体百度伐谋升级至2.0版本，进一步直接面向业务专家，聚焦生产排程、物流规划、工艺优化三大场景。</p> <div class=\"pgc-img\"><img src=\"https://mp.toutiao.com/mp/agw/article_material/open_image/get?code=ZWU3NDA5ZjEzMmExMWM3OWNjODkzMTFjMzY4YTU5ZmQsMTc3ODY0NzA4MTY2OQ==\" /></div> <p>百度伐谋2.0让业务专家无需懂代码，可像带徒弟一样通过对话进行调整；企业级记忆系统将业务逻辑沉淀为可复用的AI资产，越用越懂企业，方案持续优化。</p> <p>百度伐谋在三大典型行业场景实现垂直能力的突破：</p> <ul> <li>生产排程领域，将404个任务分配到82台注塑机，生产率提升6.31%；</li> <li>物流规划领域，在自动化码头，帮助全球首套码头智能管控系统A-TOS实现10.21%的绝对指标提升，助力中国产品走向世界；</li> <li>工艺优化方面，强化跨学科知识融合建模能力，在科学计算模型保障下理解材料、化工、生物等原理。</li> </ul> <div class=\"pgc-img\"><img src=\"https://mp.toutiao.com/mp/agw/article_material/open_image/get?code=YWM5MzAxZjRiOTMyOTI5ZTAwNjUzN2I3MzI1ZDAyNzQsMTc3ODY0NzA4MTY2OQ==\" /></div> <p>此前，百度伐谋Agent 2.0已登顶机器学习权威基准MLE-Bench，在15道最难题目中拿下9项第一，超越搭载Claude-Opus-4.6等主流大模型的同类智能体。</p> <h1 class=\"pgc-h-forward-slash\">百度智能云</h1> <p>5月13日，在Create 2026百度AI开发者大会上，百度集团执行副总裁、百度智能云事业群总裁沈抖披露了一系列最新进展。</p> <p>首先，百度智能云<strong>去年成功支持了超过2000万辆L2级辅助驾驶新车交付</strong>。</p> <p>沈抖介绍，百度智能云通过芯云模体新全栈AI云，目前支持涵盖主机厂、电池、芯片、无人车等产业链领军企业的研发、训练、仿真、测试和量产交付多个环节，客户包括吉利、理想、长安、蔚来、地平线、新石器、宁德时代等。</p> <p>其次，百度智能云目前<strong>已服务超过1000家AI硬件公司</strong>，为其提供核心算力、模型服务、Agent Harness等能力。</p> <p>客户覆盖范围包括全球排名前十的手机厂商、中国排名前十AI眼镜企业中的90%、Top5扫地机器人品牌，以及Top5 AI玩具厂商，另有500万台智能家电已接入百度智能云。</p> <p>第三，百度智能云<strong>已服务超30家重点具身智能企业</strong>，市场份额超过第二、第三名总和。</p> <p>当前，具身智能大规模落地，正在攀登“数据、模型、本体”三座大山。</p> <p>在数据层面，百度智能云正将十余年自动驾驶积累的数据服务能力迁移至具身场景，支持大规模数据采集与标注。在模型训练方面，依托百度智能云在大模型AI Infra领域的长期积累，目前典型VLA训练已实现超过70%的训练加速，世界模型推理时延降低近50%，原本按周进行的训练周期，正在缩短至按天迭代。</p> <p>目前，百度智能云已形成覆盖算力、平台工具链、数据服务、语音交互、安全能力在内的全栈支撑体系，并将推出“训练-评测-反馈”闭环系统，进一步帮助具身智能企业实现模型规模化训练与持续进化。</p> <p>除此之外，百度智能云公布以昆仑芯为主的国产算力在金融行业的规模化落地情况。</p> <p>其中，招商银行基于昆仑芯P800打造国产算力底座，在目前已上线超800个AI智能体应用，覆盖风控、营销、研发、办公等核心场景，其中超50%运行于昆仑芯算力之上。</p> <p>浦发银行则基于昆仑芯精调金融分析专精模型，在多个场景提升金融意图识别准确率，其2025年资产总额突破10万亿元，对公贷款尽调效率显著提升。目前，全国100%系统重要性银行及800余家金融机构已选择百度智能云。</p> <p>百度智能云还宣布全面升级Agent基础设施，将MaaS模型服务升级为Token Factory（词元工厂），并发布Harness Engineering（驾驭工程），帮助企业和超级个体打造和使用智能水平更高、更能交付结果的智能体。</p> <p>其中，Token Factory以Agent-first理念，大幅减少token重复计算，推理速度较市场平均水平提升约25%，并依托百度自研昆仑芯片，为文心、DeepSeek、GLM、MiniMax等国产主流大模型提供更高性价比的算力支撑。</p> <p>百度版Harness Engineering，集长上下文管理、持久记忆、工具调用、子智能体调度等核心能力于一体，并深度适配Office、浏览器等企业常用工具。实测数据显示，该方案在典型办公场景中任务成功率可达95%，相比同类产品最高可降低23%的token消耗。</p> <p>目前，百度智能云Agent基础设施已支撑百度伐谋、秒哒等垂直智能体及通用智能体DuMate的稳定运行，并支撑零金融、能源、互联网、制造、教育、医疗、汽车等行业企业打造了高效能的智能体。</p> <p>芯片方面，目前昆仑芯P800已完成规模化验证，2025年至今已交付多个万卡集群。此外在昆仑芯全国产集群上，已成功完成对文心5.1重要版本的训练，整个集群的有效训练率达到 97%，万卡规模集群线性扩展度超过 85%，可以满足前沿大模型大规模训练对计算精度、算子稳定性、框架适配和长周期运行的要求。</p> <p>基于昆仑芯的天池256卡超节点已经在上个月点亮，将于6月正式上市，吞吐性能较上一代提升25%，并完成包含文心、DeepSeek、GLM、MiniMax等主流模型的适配，推理效率提升50%，网络架构升级至HPN5.0，端到端时延优化50%，支持按需搭建数十万卡乃至百万卡超大集群。</p> <p>百度智能云也公布了吉瓦级AIDC升级，通过“网络向心布局”设计理念，让计算与网络距离最短，最大限度提升计算效率，规模化落地风液兼容架构，让数据中心的整体建设周期缩短约30%。</p> <p>基于百度在昆仑芯、AI云、文心大模型、智能体等方面的丰富实践，百度智能云宣布将全面升级为面向大规模智能体应用的新全栈AI云，打造单位Token的智能水平最好的Agent Infra和每瓦性能更强、性价比更高的AI Infra。</p> <p> </p> <!--版权声明--> <div class=\"line_font\"><span></span><em>版权所有，未经授权不得以任何形式转载及使用，违者必究。</em><span></span></div>",
-      "publishedAt": "2026-05-13T04:43:31Z",
-      "published_at": "2026-05-13T04:43:31Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 2,
-        "signal_over_promo": 1,
-        "distribution_signal": 1,
-        "confidence": 1,
-        "reason": "百度开发者大会多项Agent/云产品更新，信号强但宣传偏多"
+        "reason": "Agent工程优化基准发布，具研究参考价值"
       }
     },
     {
       "id": "4c25736b",
-      "title": "动态约束缓解多教师冲突",
+      "title": "动态约束化解多教师冲突",
       "title_en": "ICML 2026 | 将多教师冲突转化为动态约束，破解多模态大模型推理对齐难题",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
@@ -330,10 +268,10 @@
       "score": 7,
       "rank_score": 7.0,
       "rankingScore": 7.0,
-      "summary": "ICML 2026提出将多教师监督冲突转为动态约束，以改进多模态大模型推理对齐。",
-      "summary_zh": "ICML 2026提出将多教师监督冲突转为动态约束，以改进多模态大模型推理对齐。",
-      "publishedAt": "2026-05-14T00:34:41Z",
-      "published_at": "2026-05-14T00:34:41Z",
+      "summary": "该研究把多教师信号冲突转为动态约束，以提升多模态大模型推理对齐效果。",
+      "summary_zh": "该研究把多教师信号冲突转为动态约束，以提升多模态大模型推理对齐效果。",
+      "publishedAt": "2026-05-14T01:30:11Z",
+      "published_at": "2026-05-14T01:30:11Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -344,8 +282,70 @@
         "practitioner_value": 2,
         "signal_over_promo": 1,
         "distribution_signal": 0,
-        "confidence": 1,
-        "reason": "ICML论文报道，属多模态对齐方法更新"
+        "confidence": 0,
+        "reason": "ICML论文报道，属多模态对齐新方法"
+      }
+    },
+    {
+      "id": "7cf26420",
+      "title": "林俊旸创业，新公司估值约20亿美金丨智能涌现独家",
+      "title_en": null,
+      "url": "https://36kr.com/p/3807382930251523?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3807382930251523?f=rss",
+      "category": "cn-media",
+      "score": 6,
+      "rank_score": 6.0,
+      "rankingScore": 6.0,
+      "summary": "文｜周鑫雨 邓咏仪 编辑｜杨轩 林俊旸以创业者的身份，重新加入AI模型的战场。 《智能涌现》独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。 目前，林俊旸已经招募数名字节、腾讯和海外背景的成员，并以约20亿美金的估值开启融资，接触基金包括红杉中国、高榕创投等。 截至发稿前，有关上述信息，林俊旸尚未回复。 时间距离3月初的那场“闪电”诀别，已经过去了两个月。 2026年3月4日凌晨，林俊旸在X上宣布离开千问：“me stepping down. bye my beloved qwen（我卸任了。再见了，我深爱的千问）。”更早前，3月3日下午，他在Qwen成员的钉钉群中发出消息：“无颜再带领大家。” 在从百模大战，快速收束至巨头争锋（字节、阿里、DeepSeek）的三年里，林俊旸是阿里Qwen留在大模型一线梯队的灵魂人物。 自2022年起，林俊旸就接手阿里Qwen团队，负责整体工作。三年以来，他主导了Qwen系列模型的研发和开源——最全尺寸、开源策略的推进，也让Qwen成为在全球开发者社区中颇具影响力的国产模型。 林俊旸掌舵的几年中，Qwen被“",
+      "summary_zh": "文｜周鑫雨 邓咏仪 编辑｜杨轩 林俊旸以创业者的身份，重新加入AI模型的战场。 《智能涌现》独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。 目前，林俊旸已经招募数名字节、腾讯和海外背景的成员，并以约20亿美金的估值开启融资，接触基金包括红杉中国、高榕创投等。 截至发稿前，有关上述信息，林俊旸尚未回复。 时间距离3月初的那场“闪电”诀别，已经过去了两个月。 2026年3月4日凌晨，林俊旸在X上宣布离开千问：“me stepping down. bye my beloved qwen（我卸任了。再见了，我深爱的千问）。”更早前，3月3日下午，他在Qwen成员的钉钉群中发出消息：“无颜再带领大家。” 在从百模大战，快速收束至巨头争锋（字节、阿里、DeepSeek）的三年里，林俊旸是阿里Qwen留在大模型一线梯队的灵魂人物。 自2022年起，林俊旸就接手阿里Qwen团队，负责整体工作。三年以来，他主导了Qwen系列模型的研发和开源——最全尺寸、开源策略的推进，也让Qwen成为在全球开发者社区中颇具影响力的国产模型。 林俊旸掌舵的几年中，Qwen被“",
+      "publishedAt": "2026-05-13T07:24:16Z",
+      "published_at": "2026-05-13T07:24:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 1,
+        "signal_over_promo": 1,
+        "distribution_signal": 1,
+        "confidence": 0,
+        "reason": "AI核心人物创业融资，属行业动态但细节有限"
+      }
+    },
+    {
+      "id": "b2a736c1",
+      "title": "8岁男孩用AI生成原生App",
+      "title_en": "8岁小孩哥「聊出」操作系统，一部手机、几句话，原生App直接生成",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 6,
+      "rank_score": 6.0,
+      "rankingScore": 6.0,
+      "summary": "一名8岁男孩仅用手机对话，就让AI直接生成了可运行的原生App。",
+      "summary_zh": "一名8岁男孩仅用手机对话，就让AI直接生成了可运行的原生App。",
+      "publishedAt": "2026-05-14T01:30:11Z",
+      "published_at": "2026-05-14T01:30:11Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 0,
+        "confidence": 0,
+        "reason": "疑似百度秒哒3.0发布，但摘要信息不足"
       }
     }
   ]

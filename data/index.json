@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-05-14T00:37:28Z",
-  "generatedAt": "2026-05-14T00:37:28Z",
+  "generated_at": "2026-05-14T01:32:45Z",
+  "generatedAt": "2026-05-14T01:32:45Z",
   "count": 2,
   "total": 2,
   "entries": [
     {
       "date": "2026-05-14",
-      "generated_at": "2026-05-14T00:37:28Z",
-      "generatedAt": "2026-05-14T00:37:28Z",
+      "generated_at": "2026-05-14T01:32:45Z",
+      "generatedAt": "2026-05-14T01:32:45Z",
       "total": 9,
       "sectionCount": 3,
       "highlights": [
         {
           "id": "cd23f03f",
-          "title": "Latitude接入Claude Code追踪",
+          "title": "Claude Code追踪工具发布",
           "title_en": "Latitude for Claude Code",
           "url": "https://www.producthunt.com/products/latitude-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
@@ -24,11 +24,11 @@
           "score": 9,
           "rank_score": 10,
           "rankingScore": 10,
-          "summary": "Latitude推出Claude Code追踪，可查看提示词、工具调用、子代理和每轮Token成本。",
-          "summary_zh": "Latitude推出Claude Code追踪，可查看提示词、工具调用、子代理和每轮Token成本。",
+          "summary": "Latitude推出Claude Code追踪功能，可查看提示词、工具调用、子代理及每轮Token成本。",
+          "summary_zh": "Latitude推出Claude Code追踪功能，可查看提示词、工具调用、子代理及每轮Token成本。",
           "publishedAt": "2026-05-13T07:01:00Z",
           "published_at": "2026-05-13T07:01:00Z",
-          "votes_count": 277,
+          "votes_count": 280,
           "featured": true,
           "topics": [
             {
@@ -42,10 +42,62 @@
             "is_real_launch_or_update": true,
             "novelty": 2,
             "practitioner_value": 3,
-            "signal_over_promo": 2,
+            "signal_over_promo": 1,
             "distribution_signal": 2,
             "confidence": 1,
-            "reason": "Claude Code可观测工具，PH高票featured"
+            "reason": "Claude Code可观测工具，PH高票Featured"
+          }
+        },
+        {
+          "id": "69990408",
+          "title": "CraftBot推出Living UI",
+          "title_en": "CraftBot with Living UI",
+          "url": "https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10,
+          "rankingScore": 10,
+          "summary": "CraftBot上线Living UI，可在自身内生成并持续演化可直接操作的定制应用与仪表盘。",
+          "summary_zh": "CraftBot上线Living UI，可在自身内生成并持续演化可直接操作的定制应用与仪表盘。",
+          "publishedAt": "2026-05-13T07:01:00Z",
+          "published_at": "2026-05-13T07:01:00Z",
+          "votes_count": 214,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 3,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，AI代理+可演化UI发布"
           }
         },
         {
@@ -94,41 +146,10 @@
             "is_real_launch_or_update": true,
             "novelty": 2,
             "practitioner_value": 3,
-            "signal_over_promo": 2,
+            "signal_over_promo": 1,
             "distribution_signal": 2,
             "confidence": 1,
-            "reason": "MCP接入200+SaaS，PH高票featured"
-          }
-        },
-        {
-          "id": "4a3442a5",
-          "title": "OpenAI为Windows打造Codex沙箱",
-          "title_en": "Building a safe, effective sandbox to enable Codex on Windows",
-          "url": "https://openai.com/index/building-codex-windows-sandbox",
-          "source": "OpenAI Blog",
-          "source_type": null,
-          "sourceName": "OpenAI Blog",
-          "sourceUrl": "https://openai.com/index/building-codex-windows-sandbox",
-          "category": "ai-models",
-          "score": 9,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "OpenAI构建Windows安全沙箱，让Codex在受控文件与网络权限下安全高效运行。",
-          "summary_zh": "OpenAI构建Windows安全沙箱，让Codex在受控文件与网络权限下安全高效运行。",
-          "publishedAt": "2026-05-13T11:00:00Z",
-          "published_at": "2026-05-13T11:00:00Z",
-          "votes_count": null,
-          "featured": null,
-          "topics": [],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 3,
-            "signal_over_promo": 2,
-            "distribution_signal": 1,
-            "confidence": 1,
-            "reason": "OpenAI披露Codex安全沙箱实现，工程参考价值高"
+            "reason": "AI代理接入SaaS数据，PH高票featured"
           }
         }
       ]
