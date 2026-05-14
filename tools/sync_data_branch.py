@@ -8,6 +8,12 @@ import tarfile
 import tempfile
 from pathlib import Path
 
+try:
+    from logger import get_logger
+except ModuleNotFoundError:
+    from tools.logger import get_logger
+
+log = get_logger("sync")
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"
@@ -79,7 +85,7 @@ def main() -> None:
     finally:
         shutil.rmtree(staged_root, ignore_errors=True)
 
-    print(f"Synced {args.ref} -> {DATA_DIR.relative_to(ROOT_DIR)}")
+    log.info("data synced", extra={"ref": args.ref, "target": str(DATA_DIR.relative_to(ROOT_DIR))})
 
 
 if __name__ == "__main__":

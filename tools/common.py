@@ -11,7 +11,7 @@ from zoneinfo import ZoneInfo
 
 
 UTC = timezone.utc
-LOCAL_TZ = ZoneInfo("Asia/Shanghai")
+LOCAL_TZ = ZoneInfo(os.getenv("TZ", "Asia/Shanghai"))
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"
 RAW_DIR = DATA_DIR / "raw"
