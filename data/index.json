@@ -1,9 +1,174 @@
 {
-  "generated_at": "2026-05-15T10:51:15Z",
-  "generatedAt": "2026-05-15T10:51:15Z",
-  "count": 3,
-  "total": 3,
+  "generated_at": "2026-05-15T21:34:36Z",
+  "generatedAt": "2026-05-15T21:34:36Z",
+  "count": 4,
+  "total": 4,
   "entries": [
+    {
+      "date": "2026-05-16",
+      "generated_at": "2026-05-15T21:34:36Z",
+      "generatedAt": "2026-05-15T21:34:36Z",
+      "total": 7,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "d253ab63",
+          "title": "PHBench发布融资预测基准",
+          "title_en": "PHBench",
+          "url": "https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10,
+          "rankingScore": 10,
+          "summary": "PHBench公开基准上线，可根据Product Hunt发布信号预测项目获A轮融资概率。",
+          "summary_zh": "PHBench公开基准上线，可根据Product Hunt发布信号预测项目获A轮融资概率。",
+          "publishedAt": "2026-05-15T07:01:00Z",
+          "published_at": "2026-05-15T07:01:00Z",
+          "votes_count": 277,
+          "featured": true,
+          "topics": [
+            {
+              "id": "208",
+              "name": "Venture Capital",
+              "slug": "venture-capital"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "771",
+              "name": "Data",
+              "slug": "data"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 3,
+            "practitioner_value": 2,
+            "signal_over_promo": 2,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "公开基准+开源数据，PH高票有行业信号"
+          }
+        },
+        {
+          "id": "04f6d877",
+          "title": "OpenHuman发布测试版",
+          "title_en": "OpenHuman",
+          "url": "https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "开源AI工具OpenHuman推出测试版，主打本地优先、长期记忆、隐私保护和一键上手。",
+          "summary_zh": "开源AI工具OpenHuman推出测试版，主打本地优先、长期记忆、隐私保护和一键上手。",
+          "publishedAt": "2026-05-15T07:01:00Z",
+          "published_at": "2026-05-15T07:01:00Z",
+          "votes_count": 314,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，AI代理工具Beta首发"
+          }
+        },
+        {
+          "id": "81a9f278",
+          "title": "HasData推出托管抓取服务",
+          "title_en": "HasData",
+          "url": "https://www.producthunt.com/products/hasdata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/hasdata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "HasData发布面向AI代理的托管网页抓取服务，输入URL即可返回结构化JSON或Markdown。",
+          "summary_zh": "HasData发布面向AI代理的托管网页抓取服务，输入URL即可返回结构化JSON或Markdown。",
+          "publishedAt": "2026-05-15T07:01:00Z",
+          "published_at": "2026-05-15T07:01:00Z",
+          "votes_count": 310,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "771",
+              "name": "Data",
+              "slug": "data"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 2,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "Agent抓取基础设施，PH高票featured"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-05-15",
       "generated_at": "2026-05-15T10:51:15Z",
