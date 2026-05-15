@@ -1,156 +1,81 @@
 {
-  "generated_at": "2026-05-14T21:43:10Z",
-  "generatedAt": "2026-05-14T21:43:10Z",
+  "generated_at": "2026-05-15T10:51:15Z",
+  "generatedAt": "2026-05-15T10:51:15Z",
   "count": 3,
   "total": 3,
   "entries": [
     {
       "date": "2026-05-15",
-      "generated_at": "2026-05-14T21:43:10Z",
-      "generatedAt": "2026-05-14T21:43:10Z",
-      "total": 10,
-      "sectionCount": 3,
+      "generated_at": "2026-05-15T10:51:15Z",
+      "generatedAt": "2026-05-15T10:51:15Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "0b8b15a0",
-          "title": "Notion开发者平台发布",
-          "title_en": "Notion Developer Platform",
-          "url": "https://www.producthunt.com/products/notion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "449ad4a7",
+          "title": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/05/417935.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/notion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 10,
-          "rank_score": 11,
-          "rankingScore": 11,
-          "summary": "Notion推出开发者平台，支持CLI、Webhook、MCP和外部代理在同一工作区协同开发与运行。",
-          "summary_zh": "Notion推出开发者平台，支持CLI、Webhook、MCP和外部代理在同一工作区协同开发与运行。",
-          "publishedAt": "2026-05-14T07:01:00Z",
-          "published_at": "2026-05-14T07:01:00Z",
-          "votes_count": 150,
-          "featured": true,
-          "topics": [
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "589",
-              "name": "Development",
-              "slug": "development"
-            },
-            {
-              "id": "963",
-              "name": "Notion",
-              "slug": "notion"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 3,
-            "signal_over_promo": 2,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "Notion开发平台发布，AI/Agent能力明确，PH高票Featured"
-          }
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/05/417935.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能  衡宇 2026-05-15 10:21:28  来源：量子位   具身智能正在经历一场静默但深刻的路线转变   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能正在经历一场静默但深刻的路线转变。 过去两年，大多数机器人团队都在做同一件事，让机器人反复模仿动作，用海量仿真数据“喂”出技能。但一个根本问题始终没解决——机器人并不理解为什么要这么做。 一家成立仅一年的中国公司，从一开始就走了一条“非共识”的路：先让机器人像人一样观察世界、理解物理规律，再让它学会行动。 这条路，如今被证明是对的。 深度机智，这家由北京中关村学院和中关村人工智能研究院联合孵化的具身大模型公司，是国内最早定义并系统化布局“人类学习”路线的具身智能团队。 围绕今年3月发布的PhysBrain 1.0具身通用智能基座模型体系，团队已形成一组核心模型成果，并在WorldArena、SimplerEnv、RoboTwin 2.0、RoboCasa、LIBERO等五大国际权威榜单中登顶或领先。 深度机智最近还首次对外正式披露了",
+          "summary_zh": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能  衡宇 2026-05-15 10:21:28  来源：量子位   具身智能正在经历一场静默但深刻的路线转变   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能正在经历一场静默但深刻的路线转变。 过去两年，大多数机器人团队都在做同一件事，让机器人反复模仿动作，用海量仿真数据“喂”出技能。但一个根本问题始终没解决——机器人并不理解为什么要这么做。 一家成立仅一年的中国公司，从一开始就走了一条“非共识”的路：先让机器人像人一样观察世界、理解物理规律，再让它学会行动。 这条路，如今被证明是对的。 深度机智，这家由北京中关村学院和中关村人工智能研究院联合孵化的具身大模型公司，是国内最早定义并系统化布局“人类学习”路线的具身智能团队。 围绕今年3月发布的PhysBrain 1.0具身通用智能基座模型体系，团队已形成一组核心模型成果，并在WorldArena、SimplerEnv、RoboTwin 2.0、RoboCasa、LIBERO等五大国际权威榜单中登顶或领先。 深度机智最近还首次对外正式披露了",
+          "publishedAt": "2026-05-15T02:21:28Z",
+          "published_at": "2026-05-15T02:21:28Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
         },
         {
-          "id": "7bd19854",
-          "title": "Spellar 3.0发布",
-          "title_en": "Spellar 3.0",
-          "url": "https://www.producthunt.com/products/spellar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "cef35e5e",
+          "title": "36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元",
+          "title_en": null,
+          "url": "https://36kr.com/p/3809919654403587?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/spellar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 8,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "Spellar 3.0推出可跨会议记忆的AI会议助手，能追溯客户发言、决策和待办事项。",
-          "summary_zh": "Spellar 3.0推出可跨会议记忆的AI会议助手，能追溯客户发言、决策和待办事项。",
-          "publishedAt": "2026-05-14T07:01:00Z",
-          "published_at": "2026-05-14T07:01:00Z",
-          "votes_count": 395,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "252",
-              "name": "Meetings",
-              "slug": "meetings"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 2,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "PH高票featured，AI会议记忆有产品信号"
-          }
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3809919654403587?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，消费级桌面CNC与智能数字制造平台「无限工坊（Infimaker）」近日宣布，连续获得多轮融资，融资金额近亿元，投资机构包括美团战投、昆仑资本及奇绩创坛。本轮资金将主要用于产品研发、供应链建设以及高质量量产交付。 无限工坊成立于2024年11月，由多位前DJI核心成员及机器人领域海归博士联合创立。团队所切入的消费级CNC（数控机床）也是Maker赛道里的最后一块拼图。 在消费级3D打印、消费级激光雕刻机走入大众市场后，消费者对于创意工具愈发有认知，对于易用性与使用门槛也更有要求。而CNC产品过去常年主要用于工业级市场，消费级的的改造有门槛也更有市场。 无限工坊创始人兼CEO谢博文告诉硬氪：“全球范围内，越来越多人开始追求个人化创造与小型化生产。仅在美国，就有超过1.3亿人将自己视为创客（Maker）。但对于个人用户和小型工作室而言，真正具备工业级精度、多材质加工能力，同时又足够易用的桌面制造工具，依然十分稀缺。” 在无限工坊看来，传统CNC最大的问题，并不只是硬件本身，而是软件和交互逻辑依旧停留在工业时代。 过去的CNC产品，本质上仍服务于",
+          "summary_zh": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，消费级桌面CNC与智能数字制造平台「无限工坊（Infimaker）」近日宣布，连续获得多轮融资，融资金额近亿元，投资机构包括美团战投、昆仑资本及奇绩创坛。本轮资金将主要用于产品研发、供应链建设以及高质量量产交付。 无限工坊成立于2024年11月，由多位前DJI核心成员及机器人领域海归博士联合创立。团队所切入的消费级CNC（数控机床）也是Maker赛道里的最后一块拼图。 在消费级3D打印、消费级激光雕刻机走入大众市场后，消费者对于创意工具愈发有认知，对于易用性与使用门槛也更有要求。而CNC产品过去常年主要用于工业级市场，消费级的的改造有门槛也更有市场。 无限工坊创始人兼CEO谢博文告诉硬氪：“全球范围内，越来越多人开始追求个人化创造与小型化生产。仅在美国，就有超过1.3亿人将自己视为创客（Maker）。但对于个人用户和小型工作室而言，真正具备工业级精度、多材质加工能力，同时又足够易用的桌面制造工具，依然十分稀缺。” 在无限工坊看来，传统CNC最大的问题，并不只是硬件本身，而是软件和交互逻辑依旧停留在工业时代。 过去的CNC产品，本质上仍服务于",
+          "publishedAt": "2026-05-15T02:11:30Z",
+          "published_at": "2026-05-15T02:11:30Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
         },
         {
-          "id": "7dc6aeb8",
-          "title": "Toloka推出Tendem平台",
-          "title_en": "Tendem by Toloka",
-          "url": "https://www.producthunt.com/products/tendem-by-toloka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "5f0e6f8f",
+          "title": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
+          "title_en": null,
+          "url": "https://36kr.com/p/3809911566704388?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/tendem-by-toloka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 8,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "Toloka发布Tendem，让AI处理流程并由人类专家把关高风险任务结果。",
-          "summary_zh": "Toloka发布Tendem，让AI处理流程并由人类专家把关高风险任务结果。",
-          "publishedAt": "2026-05-14T07:01:00Z",
-          "published_at": "2026-05-14T07:01:00Z",
-          "votes_count": 195,
-          "featured": true,
-          "topics": [
-            {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
-            },
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 2,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "PH高票featured，AI+专家协作平台，发布信号强"
-          }
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3809911566704388?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
+          "summary_zh": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
+          "publishedAt": "2026-05-15T02:06:00Z",
+          "published_at": "2026-05-15T02:06:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
         }
       ]
     },
