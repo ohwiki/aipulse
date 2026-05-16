@@ -1,0 +1,595 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-16T21:10:16Z",
+  "generatedAt": "2026-05-16T21:10:16Z",
+  "total": 7,
+  "count": 7,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "9df2e101",
+          "title": "Agentmemory爆火GitHub",
+          "title_en": "Agentmemory",
+          "url": "https://www.producthunt.com/products/agent-memory-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/agent-memory-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10.0,
+          "rankingScore": 10.0,
+          "summary": "Agentmemory为Claude Code、Codex等编程代理提供可搜索持久记忆，大幅减少上下文token占用。",
+          "summary_zh": "Agentmemory为Claude Code、Codex等编程代理提供可搜索持久记忆，大幅减少上下文token占用。",
+          "publishedAt": "2026-05-16T07:01:00Z",
+          "published_at": "2026-05-16T07:01:00Z",
+          "votes_count": 202,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 2,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "AI编程Agent记忆层新品，开源且热度强"
+          }
+        },
+        {
+          "id": "798c7013",
+          "title": "谷歌发布Gemini 3.1 Flash-Lite",
+          "title_en": "Gemini 3.1 Flash-Lite",
+          "url": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10.0,
+          "rankingScore": 10.0,
+          "summary": "谷歌推出Gemini 3.1 Flash-Lite，面向高并发低延迟生产级AI代理流水线。",
+          "summary_zh": "谷歌推出Gemini 3.1 Flash-Lite，面向高并发低延迟生产级AI代理流水线。",
+          "publishedAt": "2026-05-16T07:01:00Z",
+          "published_at": "2026-05-16T07:01:00Z",
+          "votes_count": 137,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "谷歌轻量模型发布，面向高并发生产场景"
+          }
+        },
+        {
+          "id": "681f6751",
+          "title": "Loova推出AI视频导演代理",
+          "title_en": "Loova Agents",
+          "url": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "Loova Agents可根据自然语言构思，自动策划并生成广告、短片和产品视频。",
+          "summary_zh": "Loova Agents可根据自然语言构思，自动策划并生成广告、短片和产品视频。",
+          "publishedAt": "2026-05-16T07:01:00Z",
+          "published_at": "2026-05-16T07:01:00Z",
+          "votes_count": 298,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，属AI视频Agent发布"
+          }
+        },
+        {
+          "id": "6e212fcf",
+          "title": "ChatGPT上线个人理财预览",
+          "title_en": "ChatGPT for Personal Finance",
+          "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "美国Pro用户可在ChatGPT安全连接金融账户，查看收支并基于账户信息提问。",
+          "summary_zh": "美国Pro用户可在ChatGPT安全连接金融账户，查看收支并基于账户信息提问。",
+          "publishedAt": "2026-05-16T07:01:00Z",
+          "published_at": "2026-05-16T07:01:00Z",
+          "votes_count": 134,
+          "featured": true,
+          "topics": [
+            {
+              "id": "94",
+              "name": "Fintech",
+              "slug": "fintech"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "570",
+              "name": "Business",
+              "slug": "business"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 1,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "ChatGPT金融场景新功能，PH热度较高"
+          }
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "00462834",
+          "title": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/05/418518.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/05/418518.html",
+          "category": "cn-media",
+          "score": 8,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行  闻乐 2026-05-16 14:35:05  来源：量子位   “抱歉，我无法直接访问这些网站。” 每次想让AI读个外部网站的信息，看到这句话头都要炸了。  不过，GitHub有个开源项目OpenCLI把这事儿解决了：网站变命令行。 目前20k+ Star，还在涨！！  Reddit讨论、B站热门、Arxiv论文，以前开浏览器一个个翻的东西，现在终端一行命令直接出结构化数据。  而且不只是网页，现在OpenCLI连微信、Telegram、Discord这些私域聊天记录都给打通了。 对，你没看错，微信聊天记录也能查。  所以，只要把配套的skill装进Agent，管你什么公域私域、网站还是App，基本都能通过命令直接在终端里调。  而且CLI命令本身是在本地浏览器里直接执行的，不经过大模型推理。 意思就是很多原本需要Agent“边看边点”的操作，现在浏览器自己就能干，跑多少次都不花一分钱Token。 聊天记录变个人信息流 先说咋装。一行命令搞定（Node.js 21+）：  npm install -g @jack",
+          "summary_zh": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行  闻乐 2026-05-16 14:35:05  来源：量子位   “抱歉，我无法直接访问这些网站。” 每次想让AI读个外部网站的信息，看到这句话头都要炸了。  不过，GitHub有个开源项目OpenCLI把这事儿解决了：网站变命令行。 目前20k+ Star，还在涨！！  Reddit讨论、B站热门、Arxiv论文，以前开浏览器一个个翻的东西，现在终端一行命令直接出结构化数据。  而且不只是网页，现在OpenCLI连微信、Telegram、Discord这些私域聊天记录都给打通了。 对，你没看错，微信聊天记录也能查。  所以，只要把配套的skill装进Agent，管你什么公域私域、网站还是App，基本都能通过命令直接在终端里调。  而且CLI命令本身是在本地浏览器里直接执行的，不经过大模型推理。 意思就是很多原本需要Agent“边看边点”的操作，现在浏览器自己就能干，跑多少次都不花一分钱Token。 聊天记录变个人信息流 先说咋装。一行命令搞定（Node.js 21+）：  npm install -g @jack",
+          "publishedAt": "2026-05-16T06:35:05Z",
+          "published_at": "2026-05-16T06:35:05Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "Agent可调用网页/私域，开源热度强"
+          }
+        },
+        {
+          "id": "b11bcd4c",
+          "title": "虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/05/418571.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/05/418571.html",
+          "category": "cn-media",
+          "score": 8,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库  闻乐 2026-05-16 14:42:33  来源：量子位   懂我的还得是Human   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  虾在前，马当道，居然还有新物种能在Agent赛道突出重围。 OpenHuman连续霸榜GitHub Trending第一，狂揽9k+ Star，一天就涨千星。 和虾马不一样，Human不用你花心思养，还能反过来主动了解你。  虾和马，本质还是你在教AI。你得配skill、写prompt、调工作流。 归根结底，你得先动，它们才动。 OpenHuman不需要你教，连上你的Gmail、GitHub、Slack、Notion、日历……118个服务一键接进来，每20分钟自动抓一遍新数据，压缩进一个卡帕西式的本地知识库。 一次同步跑完，直接对你工作生活的了如指掌。 没有训练期，没有磨合期，第一天上班就能干活。  谁懂啊，养虾养马已经养累了，终于来了个不用教的！ 20分钟了解你的Agent Karpathy之前公开了自己的一个工作流，叫LLM Wiki。 把所有笔记、文档",
+          "summary_zh": "虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库  闻乐 2026-05-16 14:42:33  来源：量子位   懂我的还得是Human   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  虾在前，马当道，居然还有新物种能在Agent赛道突出重围。 OpenHuman连续霸榜GitHub Trending第一，狂揽9k+ Star，一天就涨千星。 和虾马不一样，Human不用你花心思养，还能反过来主动了解你。  虾和马，本质还是你在教AI。你得配skill、写prompt、调工作流。 归根结底，你得先动，它们才动。 OpenHuman不需要你教，连上你的Gmail、GitHub、Slack、Notion、日历……118个服务一键接进来，每20分钟自动抓一遍新数据，压缩进一个卡帕西式的本地知识库。 一次同步跑完，直接对你工作生活的了如指掌。 没有训练期，没有磨合期，第一天上班就能干活。  谁懂啊，养虾养马已经养累了，终于来了个不用教的！ 20分钟了解你的Agent Karpathy之前公开了自己的一个工作流，叫LLM Wiki。 把所有笔记、文档",
+          "publishedAt": "2026-05-16T06:42:33Z",
+          "published_at": "2026-05-16T06:42:33Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "AI Agent新品走红，GitHub热度强"
+          }
+        },
+        {
+          "id": "385ce302",
+          "title": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/05/418491.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/05/418491.html",
+          "category": "cn-media",
+          "score": 7,
+          "rank_score": 7.0,
+          "rankingScore": 7.0,
+          "summary": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源  梦晨 2026-05-16 12:49:15  来源：量子位   阿里健康发布「氢离子」   金磊 发自 杭州量子位 | 公众号 QbitAI  很反差。 明明是一场AI的发布会，台下却坐满了医学界的大佬们： 有北大、清华的，有浙江、上海的，甚至医学顶刊BMJ集团的主编都来围观了……    为啥会这样？ 因为阿里健康正式发布了一个新的医学AI产品——氢离子，主打的就是靠谱的医学AI助手。 或许你还会有疑问，现在通用大模型、医疗AI不是蛮多的么，阿里健康干嘛还要再另起炉灶啊？ 好问题。 阿里健康CTO王祥志在现场举的例子，就直击了这个问题的七寸。 他用专业的Prompt来约束通用大模型：  你必须要查询专业的文献，告诉我氟泽雷塞的使用注意事项，当病人出现漏服到底怎么办的时候？  结果，通用大模型一本正经地给出了错误的补服建议……    在容错率极低的医学场景下，这绝对是个Big Problem。 除此之外，在“用”这件事上，也有问题。 目前中国50%的医生，会通过4个以上的APP来解决他们的问题，包括查询用药、查询临床指南，查询中",
+          "summary_zh": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源  梦晨 2026-05-16 12:49:15  来源：量子位   阿里健康发布「氢离子」   金磊 发自 杭州量子位 | 公众号 QbitAI  很反差。 明明是一场AI的发布会，台下却坐满了医学界的大佬们： 有北大、清华的，有浙江、上海的，甚至医学顶刊BMJ集团的主编都来围观了……    为啥会这样？ 因为阿里健康正式发布了一个新的医学AI产品——氢离子，主打的就是靠谱的医学AI助手。 或许你还会有疑问，现在通用大模型、医疗AI不是蛮多的么，阿里健康干嘛还要再另起炉灶啊？ 好问题。 阿里健康CTO王祥志在现场举的例子，就直击了这个问题的七寸。 他用专业的Prompt来约束通用大模型：  你必须要查询专业的文献，告诉我氟泽雷塞的使用注意事项，当病人出现漏服到底怎么办的时候？  结果，通用大模型一本正经地给出了错误的补服建议……    在容错率极低的医学场景下，这绝对是个Big Problem。 除此之外，在“用”这件事上，也有问题。 目前中国50%的医生，会通过4个以上的APP来解决他们的问题，包括查询用药、查询临床指南，查询中",
+          "publishedAt": "2026-05-16T04:49:15Z",
+          "published_at": "2026-05-16T04:49:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 0,
+            "confidence": 1,
+            "reason": "医疗AI新品发布，行业信号强于细节"
+          }
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "9df2e101",
+      "title": "Agentmemory爆火GitHub",
+      "title_en": "Agentmemory",
+      "url": "https://www.producthunt.com/products/agent-memory-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/agent-memory-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 9,
+      "rank_score": 10.0,
+      "rankingScore": 10.0,
+      "summary": "Agentmemory为Claude Code、Codex等编程代理提供可搜索持久记忆，大幅减少上下文token占用。",
+      "summary_zh": "Agentmemory为Claude Code、Codex等编程代理提供可搜索持久记忆，大幅减少上下文token占用。",
+      "publishedAt": "2026-05-16T07:01:00Z",
+      "published_at": "2026-05-16T07:01:00Z",
+      "votes_count": 202,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 3,
+        "signal_over_promo": 2,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "AI编程Agent记忆层新品，开源且热度强"
+      }
+    },
+    {
+      "id": "798c7013",
+      "title": "谷歌发布Gemini 3.1 Flash-Lite",
+      "title_en": "Gemini 3.1 Flash-Lite",
+      "url": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 9,
+      "rank_score": 10.0,
+      "rankingScore": 10.0,
+      "summary": "谷歌推出Gemini 3.1 Flash-Lite，面向高并发低延迟生产级AI代理流水线。",
+      "summary_zh": "谷歌推出Gemini 3.1 Flash-Lite，面向高并发低延迟生产级AI代理流水线。",
+      "publishedAt": "2026-05-16T07:01:00Z",
+      "published_at": "2026-05-16T07:01:00Z",
+      "votes_count": 137,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 3,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "谷歌轻量模型发布，面向高并发生产场景"
+      }
+    },
+    {
+      "id": "681f6751",
+      "title": "Loova推出AI视频导演代理",
+      "title_en": "Loova Agents",
+      "url": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Loova Agents可根据自然语言构思，自动策划并生成广告、短片和产品视频。",
+      "summary_zh": "Loova Agents可根据自然语言构思，自动策划并生成广告、短片和产品视频。",
+      "publishedAt": "2026-05-16T07:01:00Z",
+      "published_at": "2026-05-16T07:01:00Z",
+      "votes_count": 298,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票featured，属AI视频Agent发布"
+      }
+    },
+    {
+      "id": "6e212fcf",
+      "title": "ChatGPT上线个人理财预览",
+      "title_en": "ChatGPT for Personal Finance",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "美国Pro用户可在ChatGPT安全连接金融账户，查看收支并基于账户信息提问。",
+      "summary_zh": "美国Pro用户可在ChatGPT安全连接金融账户，查看收支并基于账户信息提问。",
+      "publishedAt": "2026-05-16T07:01:00Z",
+      "published_at": "2026-05-16T07:01:00Z",
+      "votes_count": 134,
+      "featured": true,
+      "topics": [
+        {
+          "id": "94",
+          "name": "Fintech",
+          "slug": "fintech"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "570",
+          "name": "Business",
+          "slug": "business"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 1,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "ChatGPT金融场景新功能，PH热度较高"
+      }
+    },
+    {
+      "id": "00462834",
+      "title": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/05/418518.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/05/418518.html",
+      "category": "cn-media",
+      "score": 8,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行  闻乐 2026-05-16 14:35:05  来源：量子位   “抱歉，我无法直接访问这些网站。” 每次想让AI读个外部网站的信息，看到这句话头都要炸了。  不过，GitHub有个开源项目OpenCLI把这事儿解决了：网站变命令行。 目前20k+ Star，还在涨！！  Reddit讨论、B站热门、Arxiv论文，以前开浏览器一个个翻的东西，现在终端一行命令直接出结构化数据。  而且不只是网页，现在OpenCLI连微信、Telegram、Discord这些私域聊天记录都给打通了。 对，你没看错，微信聊天记录也能查。  所以，只要把配套的skill装进Agent，管你什么公域私域、网站还是App，基本都能通过命令直接在终端里调。  而且CLI命令本身是在本地浏览器里直接执行的，不经过大模型推理。 意思就是很多原本需要Agent“边看边点”的操作，现在浏览器自己就能干，跑多少次都不花一分钱Token。 聊天记录变个人信息流 先说咋装。一行命令搞定（Node.js 21+）：  npm install -g @jack",
+      "summary_zh": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行  闻乐 2026-05-16 14:35:05  来源：量子位   “抱歉，我无法直接访问这些网站。” 每次想让AI读个外部网站的信息，看到这句话头都要炸了。  不过，GitHub有个开源项目OpenCLI把这事儿解决了：网站变命令行。 目前20k+ Star，还在涨！！  Reddit讨论、B站热门、Arxiv论文，以前开浏览器一个个翻的东西，现在终端一行命令直接出结构化数据。  而且不只是网页，现在OpenCLI连微信、Telegram、Discord这些私域聊天记录都给打通了。 对，你没看错，微信聊天记录也能查。  所以，只要把配套的skill装进Agent，管你什么公域私域、网站还是App，基本都能通过命令直接在终端里调。  而且CLI命令本身是在本地浏览器里直接执行的，不经过大模型推理。 意思就是很多原本需要Agent“边看边点”的操作，现在浏览器自己就能干，跑多少次都不花一分钱Token。 聊天记录变个人信息流 先说咋装。一行命令搞定（Node.js 21+）：  npm install -g @jack",
+      "publishedAt": "2026-05-16T06:35:05Z",
+      "published_at": "2026-05-16T06:35:05Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 3,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "Agent可调用网页/私域，开源热度强"
+      }
+    },
+    {
+      "id": "b11bcd4c",
+      "title": "虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/05/418571.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/05/418571.html",
+      "category": "cn-media",
+      "score": 8,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库  闻乐 2026-05-16 14:42:33  来源：量子位   懂我的还得是Human   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  虾在前，马当道，居然还有新物种能在Agent赛道突出重围。 OpenHuman连续霸榜GitHub Trending第一，狂揽9k+ Star，一天就涨千星。 和虾马不一样，Human不用你花心思养，还能反过来主动了解你。  虾和马，本质还是你在教AI。你得配skill、写prompt、调工作流。 归根结底，你得先动，它们才动。 OpenHuman不需要你教，连上你的Gmail、GitHub、Slack、Notion、日历……118个服务一键接进来，每20分钟自动抓一遍新数据，压缩进一个卡帕西式的本地知识库。 一次同步跑完，直接对你工作生活的了如指掌。 没有训练期，没有磨合期，第一天上班就能干活。  谁懂啊，养虾养马已经养累了，终于来了个不用教的！ 20分钟了解你的Agent Karpathy之前公开了自己的一个工作流，叫LLM Wiki。 把所有笔记、文档",
+      "summary_zh": "虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库  闻乐 2026-05-16 14:42:33  来源：量子位   懂我的还得是Human   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  虾在前，马当道，居然还有新物种能在Agent赛道突出重围。 OpenHuman连续霸榜GitHub Trending第一，狂揽9k+ Star，一天就涨千星。 和虾马不一样，Human不用你花心思养，还能反过来主动了解你。  虾和马，本质还是你在教AI。你得配skill、写prompt、调工作流。 归根结底，你得先动，它们才动。 OpenHuman不需要你教，连上你的Gmail、GitHub、Slack、Notion、日历……118个服务一键接进来，每20分钟自动抓一遍新数据，压缩进一个卡帕西式的本地知识库。 一次同步跑完，直接对你工作生活的了如指掌。 没有训练期，没有磨合期，第一天上班就能干活。  谁懂啊，养虾养马已经养累了，终于来了个不用教的！ 20分钟了解你的Agent Karpathy之前公开了自己的一个工作流，叫LLM Wiki。 把所有笔记、文档",
+      "publishedAt": "2026-05-16T06:42:33Z",
+      "published_at": "2026-05-16T06:42:33Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "AI Agent新品走红，GitHub热度强"
+      }
+    },
+    {
+      "id": "385ce302",
+      "title": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/05/418491.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/05/418491.html",
+      "category": "cn-media",
+      "score": 7,
+      "rank_score": 7.0,
+      "rankingScore": 7.0,
+      "summary": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源  梦晨 2026-05-16 12:49:15  来源：量子位   阿里健康发布「氢离子」   金磊 发自 杭州量子位 | 公众号 QbitAI  很反差。 明明是一场AI的发布会，台下却坐满了医学界的大佬们： 有北大、清华的，有浙江、上海的，甚至医学顶刊BMJ集团的主编都来围观了……    为啥会这样？ 因为阿里健康正式发布了一个新的医学AI产品——氢离子，主打的就是靠谱的医学AI助手。 或许你还会有疑问，现在通用大模型、医疗AI不是蛮多的么，阿里健康干嘛还要再另起炉灶啊？ 好问题。 阿里健康CTO王祥志在现场举的例子，就直击了这个问题的七寸。 他用专业的Prompt来约束通用大模型：  你必须要查询专业的文献，告诉我氟泽雷塞的使用注意事项，当病人出现漏服到底怎么办的时候？  结果，通用大模型一本正经地给出了错误的补服建议……    在容错率极低的医学场景下，这绝对是个Big Problem。 除此之外，在“用”这件事上，也有问题。 目前中国50%的医生，会通过4个以上的APP来解决他们的问题，包括查询用药、查询临床指南，查询中",
+      "summary_zh": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源  梦晨 2026-05-16 12:49:15  来源：量子位   阿里健康发布「氢离子」   金磊 发自 杭州量子位 | 公众号 QbitAI  很反差。 明明是一场AI的发布会，台下却坐满了医学界的大佬们： 有北大、清华的，有浙江、上海的，甚至医学顶刊BMJ集团的主编都来围观了……    为啥会这样？ 因为阿里健康正式发布了一个新的医学AI产品——氢离子，主打的就是靠谱的医学AI助手。 或许你还会有疑问，现在通用大模型、医疗AI不是蛮多的么，阿里健康干嘛还要再另起炉灶啊？ 好问题。 阿里健康CTO王祥志在现场举的例子，就直击了这个问题的七寸。 他用专业的Prompt来约束通用大模型：  你必须要查询专业的文献，告诉我氟泽雷塞的使用注意事项，当病人出现漏服到底怎么办的时候？  结果，通用大模型一本正经地给出了错误的补服建议……    在容错率极低的医学场景下，这绝对是个Big Problem。 除此之外，在“用”这件事上，也有问题。 目前中国50%的医生，会通过4个以上的APP来解决他们的问题，包括查询用药、查询临床指南，查询中",
+      "publishedAt": "2026-05-16T04:49:15Z",
+      "published_at": "2026-05-16T04:49:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 0,
+        "confidence": 1,
+        "reason": "医疗AI新品发布，行业信号强于细节"
+      }
+    }
+  ]
+}

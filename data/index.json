@@ -1,9 +1,164 @@
 {
-  "generated_at": "2026-05-16T09:55:23Z",
-  "generatedAt": "2026-05-16T09:55:23Z",
-  "count": 4,
-  "total": 4,
+  "generated_at": "2026-05-16T21:10:16Z",
+  "generatedAt": "2026-05-16T21:10:16Z",
+  "count": 5,
+  "total": 5,
   "entries": [
+    {
+      "date": "2026-05-17",
+      "generated_at": "2026-05-16T21:10:16Z",
+      "generatedAt": "2026-05-16T21:10:16Z",
+      "total": 7,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "9df2e101",
+          "title": "Agentmemory爆火GitHub",
+          "title_en": "Agentmemory",
+          "url": "https://www.producthunt.com/products/agent-memory-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/agent-memory-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10,
+          "rankingScore": 10,
+          "summary": "Agentmemory为Claude Code、Codex等编程代理提供可搜索持久记忆，大幅减少上下文token占用。",
+          "summary_zh": "Agentmemory为Claude Code、Codex等编程代理提供可搜索持久记忆，大幅减少上下文token占用。",
+          "publishedAt": "2026-05-16T07:01:00Z",
+          "published_at": "2026-05-16T07:01:00Z",
+          "votes_count": 202,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 2,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "AI编程Agent记忆层新品，开源且热度强"
+          }
+        },
+        {
+          "id": "798c7013",
+          "title": "谷歌发布Gemini 3.1 Flash-Lite",
+          "title_en": "Gemini 3.1 Flash-Lite",
+          "url": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10,
+          "rankingScore": 10,
+          "summary": "谷歌推出Gemini 3.1 Flash-Lite，面向高并发低延迟生产级AI代理流水线。",
+          "summary_zh": "谷歌推出Gemini 3.1 Flash-Lite，面向高并发低延迟生产级AI代理流水线。",
+          "publishedAt": "2026-05-16T07:01:00Z",
+          "published_at": "2026-05-16T07:01:00Z",
+          "votes_count": 137,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "谷歌轻量模型发布，面向高并发生产场景"
+          }
+        },
+        {
+          "id": "681f6751",
+          "title": "Loova推出AI视频导演代理",
+          "title_en": "Loova Agents",
+          "url": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Loova Agents可根据自然语言构思，自动策划并生成广告、短片和产品视频。",
+          "summary_zh": "Loova Agents可根据自然语言构思，自动策划并生成广告、短片和产品视频。",
+          "publishedAt": "2026-05-16T07:01:00Z",
+          "published_at": "2026-05-16T07:01:00Z",
+          "votes_count": 298,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，属AI视频Agent发布"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-05-16",
       "generated_at": "2026-05-16T09:55:23Z",
