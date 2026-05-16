@@ -1,615 +1,193 @@
 {
   "date": "2026-05-16",
-  "generated_at": "2026-05-15T21:34:36Z",
-  "generatedAt": "2026-05-15T21:34:36Z",
-  "total": 7,
-  "count": 7,
+  "generated_at": "2026-05-16T09:55:23Z",
+  "generatedAt": "2026-05-16T09:55:23Z",
+  "total": 4,
+  "count": 4,
   "sections": [
-    {
-      "category": "ai-products",
-      "label": "产品发布/更新",
-      "items": [
-        {
-          "id": "d253ab63",
-          "title": "PHBench发布融资预测基准",
-          "title_en": "PHBench",
-          "url": "https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 9,
-          "rank_score": 10.0,
-          "rankingScore": 10.0,
-          "summary": "PHBench公开基准上线，可根据Product Hunt发布信号预测项目获A轮融资概率。",
-          "summary_zh": "PHBench公开基准上线，可根据Product Hunt发布信号预测项目获A轮融资概率。",
-          "publishedAt": "2026-05-15T07:01:00Z",
-          "published_at": "2026-05-15T07:01:00Z",
-          "votes_count": 277,
-          "featured": true,
-          "topics": [
-            {
-              "id": "208",
-              "name": "Venture Capital",
-              "slug": "venture-capital"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "771",
-              "name": "Data",
-              "slug": "data"
-            },
-            {
-              "id": "1359",
-              "name": "Vercel Day",
-              "slug": "vercel-day"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 3,
-            "practitioner_value": 2,
-            "signal_over_promo": 2,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "公开基准+开源数据，PH高票有行业信号"
-          }
-        },
-        {
-          "id": "04f6d877",
-          "title": "OpenHuman发布测试版",
-          "title_en": "OpenHuman",
-          "url": "https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 8,
-          "rank_score": 9.0,
-          "rankingScore": 9.0,
-          "summary": "开源AI工具OpenHuman推出测试版，主打本地优先、长期记忆、隐私保护和一键上手。",
-          "summary_zh": "开源AI工具OpenHuman推出测试版，主打本地优先、长期记忆、隐私保护和一键上手。",
-          "publishedAt": "2026-05-15T07:01:00Z",
-          "published_at": "2026-05-15T07:01:00Z",
-          "votes_count": 314,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 2,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "PH高票featured，AI代理工具Beta首发"
-          }
-        },
-        {
-          "id": "81a9f278",
-          "title": "HasData推出托管抓取服务",
-          "title_en": "HasData",
-          "url": "https://www.producthunt.com/products/hasdata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/hasdata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 8,
-          "rank_score": 9.0,
-          "rankingScore": 9.0,
-          "summary": "HasData发布面向AI代理的托管网页抓取服务，输入URL即可返回结构化JSON或Markdown。",
-          "summary_zh": "HasData发布面向AI代理的托管网页抓取服务，输入URL即可返回结构化JSON或Markdown。",
-          "publishedAt": "2026-05-15T07:01:00Z",
-          "published_at": "2026-05-15T07:01:00Z",
-          "votes_count": 310,
-          "featured": true,
-          "topics": [
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "771",
-              "name": "Data",
-              "slug": "data"
-            },
-            {
-              "id": "1359",
-              "name": "Vercel Day",
-              "slug": "vercel-day"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 3,
-            "signal_over_promo": 2,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "Agent抓取基础设施，PH高票featured"
-          }
-        },
-        {
-          "id": "00adaa7b",
-          "title": "Lokuma发布网站代理2.0",
-          "title_en": "Agentic Website Builder 2.0 by Lokuma",
-          "url": "https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 8,
-          "rank_score": 9.0,
-          "rankingScore": 9.0,
-          "summary": "Lokuma推出网站代理2.0，把规划、设计、编辑和发布整合成一体化建站流程。",
-          "summary_zh": "Lokuma推出网站代理2.0，把规划、设计、编辑和发布整合成一体化建站流程。",
-          "publishedAt": "2026-05-15T07:01:00Z",
-          "published_at": "2026-05-15T07:01:00Z",
-          "votes_count": 158,
-          "featured": true,
-          "topics": [
-            {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "1359",
-              "name": "Vercel Day",
-              "slug": "vercel-day"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 2,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "PH高票featured，属AI建站2.0实发"
-          }
-        }
-      ]
-    },
     {
       "category": "cn-media",
       "label": "中文媒体精选",
       "items": [
         {
-          "id": "449ad4a7",
-          "title": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能",
+          "id": "95b77fe4",
+          "title": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/05/417935.html",
+          "url": "https://www.qbitai.com/2026/05/418035.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/05/417935.html",
+          "sourceUrl": "https://www.qbitai.com/2026/05/418035.html",
           "category": "cn-media",
-          "score": 6,
-          "rank_score": 6.0,
-          "rankingScore": 6.0,
-          "summary": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能  衡宇 2026-05-15 10:21:28  来源：量子位   具身智能正在经历一场静默但深刻的路线转变   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能正在经历一场静默但深刻的路线转变。 过去两年，大多数机器人团队都在做同一件事，让机器人反复模仿动作，用海量仿真数据“喂”出技能。但一个根本问题始终没解决——机器人并不理解为什么要这么做。 一家成立仅一年的中国公司，从一开始就走了一条“非共识”的路：先让机器人像人一样观察世界、理解物理规律，再让它学会行动。 这条路，如今被证明是对的。 深度机智，这家由北京中关村学院和中关村人工智能研究院联合孵化的具身大模型公司，是国内最早定义并系统化布局“人类学习”路线的具身智能团队。 围绕今年3月发布的PhysBrain 1.0具身通用智能基座模型体系，团队已形成一组核心模型成果，并在WorldArena、SimplerEnv、RoboTwin 2.0、RoboCasa、LIBERO等五大国际权威榜单中登顶或领先。 深度机智最近还首次对外正式披露了",
-          "summary_zh": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能  衡宇 2026-05-15 10:21:28  来源：量子位   具身智能正在经历一场静默但深刻的路线转变   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能正在经历一场静默但深刻的路线转变。 过去两年，大多数机器人团队都在做同一件事，让机器人反复模仿动作，用海量仿真数据“喂”出技能。但一个根本问题始终没解决——机器人并不理解为什么要这么做。 一家成立仅一年的中国公司，从一开始就走了一条“非共识”的路：先让机器人像人一样观察世界、理解物理规律，再让它学会行动。 这条路，如今被证明是对的。 深度机智，这家由北京中关村学院和中关村人工智能研究院联合孵化的具身大模型公司，是国内最早定义并系统化布局“人类学习”路线的具身智能团队。 围绕今年3月发布的PhysBrain 1.0具身通用智能基座模型体系，团队已形成一组核心模型成果，并在WorldArena、SimplerEnv、RoboTwin 2.0、RoboCasa、LIBERO等五大国际权威榜单中登顶或领先。 深度机智最近还首次对外正式披露了",
-          "publishedAt": "2026-05-15T02:21:28Z",
-          "published_at": "2026-05-15T02:21:28Z",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?  闻乐 2026-05-15 17:55:56  来源：量子位   说明需求，Qoder就能帮你实现   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  AI Coding的玩法，又变了。 如果你留意就会发现，Cursor、Windsurf、Claude Code这些顶流玩家，现在基本都不爱吹“代码生成有多快”了。 话锋一转，全在讲“我能帮你完成多少任务”。  这个微妙的转变，原因也很简单：代码生成越来越不值钱了。 十秒出一个前端页面，谁家都能做，AI卷到今天，生成一段CRUD跟喝水一样简单。 那值钱的是啥？ 是把一个需求从说出来，到交付上线之间的整条链路跑通—— 拆任务、跨文件改、记住上下文、自动验证、交付。 谁能把这串事儿干利索，谁才真正从工具变成了队友。 就在行业集体转弯的节点上，阿里Qoder正式官宣1.0版本，直接完成身份跃迁，从传统AI IDE，升级成智能体自主开发工作台。  赛道转型的方向所有人都看得明明白白，但Qoder交出的这份答卷里有几个地方交得更早，答得更细。",
+          "summary_zh": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?  闻乐 2026-05-15 17:55:56  来源：量子位   说明需求，Qoder就能帮你实现   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  AI Coding的玩法，又变了。 如果你留意就会发现，Cursor、Windsurf、Claude Code这些顶流玩家，现在基本都不爱吹“代码生成有多快”了。 话锋一转，全在讲“我能帮你完成多少任务”。  这个微妙的转变，原因也很简单：代码生成越来越不值钱了。 十秒出一个前端页面，谁家都能做，AI卷到今天，生成一段CRUD跟喝水一样简单。 那值钱的是啥？ 是把一个需求从说出来，到交付上线之间的整条链路跑通—— 拆任务、跨文件改、记住上下文、自动验证、交付。 谁能把这串事儿干利索，谁才真正从工具变成了队友。 就在行业集体转弯的节点上，阿里Qoder正式官宣1.0版本，直接完成身份跃迁，从传统AI IDE，升级成智能体自主开发工作台。  赛道转型的方向所有人都看得明明白白，但Qoder交出的这份答卷里有几个地方交得更早，答得更细。",
+          "publishedAt": "2026-05-15T09:55:56Z",
+          "published_at": "2026-05-15T09:55:56Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 1,
-            "signal_over_promo": 1,
-            "distribution_signal": 0,
-            "confidence": 1,
-            "reason": "融资属行业动态，但偏品牌稿，实操信息少"
-          }
+          "score_details": null
         },
         {
-          "id": "5f0e6f8f",
-          "title": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
+          "id": "0c710483",
+          "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
           "title_en": null,
-          "url": "https://36kr.com/p/3809911566704388?f=rss",
+          "url": "https://www.qbitai.com/2026/05/418135.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/05/418135.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局  智能车参考 2026-05-15 18:14:54  来源：量子位   近日，华为云INSPIRE创想者大会官网披露主题演讲议程，将围绕Agentic AI呈现一条完整的技术链路：从底层算力与基础设施，延伸至模型训练与强化学习，再到企业级智能体平台与安全体系，并进一步拓展至行业应用与生态共建，形成贯穿Agentic AI全生命周期的系统化能力体系。  在基础设施层面，华为云围绕“硅基黑土地”战略，或将发布Agentic AI Infra新品。从官方呈现的信息来看，华为云将通过软硬芯协同持续强化AI算力底座，为Agent运行与大规模推理提供高效支撑。能够看出，Agentic AI基础设施的重点不再只是提升算力性能，而是面向智能体时代优化整体效率与调度能力。 在模型与平台层面，华为云将通过ModelArts持续完善一站式模型训推，支持百模千态生长。同时，通过模型强化学习平台，优化大模型与行业场景之间的适配，解决企业AI落地最后一公里的问题，使模型能力向工程化、可持续迭代。 在智能体层面，华为云将推出企业级智能体平台Agen",
+          "summary_zh": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局  智能车参考 2026-05-15 18:14:54  来源：量子位   近日，华为云INSPIRE创想者大会官网披露主题演讲议程，将围绕Agentic AI呈现一条完整的技术链路：从底层算力与基础设施，延伸至模型训练与强化学习，再到企业级智能体平台与安全体系，并进一步拓展至行业应用与生态共建，形成贯穿Agentic AI全生命周期的系统化能力体系。  在基础设施层面，华为云围绕“硅基黑土地”战略，或将发布Agentic AI Infra新品。从官方呈现的信息来看，华为云将通过软硬芯协同持续强化AI算力底座，为Agent运行与大规模推理提供高效支撑。能够看出，Agentic AI基础设施的重点不再只是提升算力性能，而是面向智能体时代优化整体效率与调度能力。 在模型与平台层面，华为云将通过ModelArts持续完善一站式模型训推，支持百模千态生长。同时，通过模型强化学习平台，优化大模型与行业场景之间的适配，解决企业AI落地最后一公里的问题，使模型能力向工程化、可持续迭代。 在智能体层面，华为云将推出企业级智能体平台Agen",
+          "publishedAt": "2026-05-15T10:14:54Z",
+          "published_at": "2026-05-15T10:14:54Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "6fc63a1e",
+          "title": "2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代",
+          "title_en": null,
+          "url": "https://36kr.com/p/3810607581634056?f=rss",
           "source": "36氪",
           "source_type": null,
           "sourceName": "36氪",
-          "sourceUrl": "https://36kr.com/p/3809911566704388?f=rss",
+          "sourceUrl": "https://36kr.com/p/3810607581634056?f=rss",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
-          "summary_zh": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
-          "publishedAt": "2026-05-15T02:06:00Z",
-          "published_at": "2026-05-15T02:06:00Z",
+          "summary": "2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。韶音全球品牌大使张婧仪登台分享，由韶音与国际设计大师Matteo Menotto合作的「缮己新声」艺术礼盒也在现场展出，带来一场关于听觉自由与生活质感的全新生活方式表达。  官方图片 锚定开放内核，解码「随我动听」 Shokz韶音中国区CEO杨云在现场分享了品牌对开放聆听的最新思考：“真实的世界从不静止。声音在流动，环境在变化，人的状态也在不断切换。过去，耳机给用户的选择并不多——要么沉浸而隔绝，要么感知而妥协。我们相信，理想的声音体验应当把选择权交还给用户。「随我动听」的核心，是声音跟随人的节奏。”   「随我」，意味着选择自由——用户可以沉浸于音乐世界，也能联结身边世界，随心而行、无需妥协；「动听」，是韶音深耕多年的专业运动基因延续，更是品牌对声音与生活关系的全新解读：无论是运动赛场、都市通勤，还是静坐办公、休闲独处，",
+          "summary_zh": "2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。韶音全球品牌大使张婧仪登台分享，由韶音与国际设计大师Matteo Menotto合作的「缮己新声」艺术礼盒也在现场展出，带来一场关于听觉自由与生活质感的全新生活方式表达。  官方图片 锚定开放内核，解码「随我动听」 Shokz韶音中国区CEO杨云在现场分享了品牌对开放聆听的最新思考：“真实的世界从不静止。声音在流动，环境在变化，人的状态也在不断切换。过去，耳机给用户的选择并不多——要么沉浸而隔绝，要么感知而妥协。我们相信，理想的声音体验应当把选择权交还给用户。「随我动听」的核心，是声音跟随人的节奏。”   「随我」，意味着选择自由——用户可以沉浸于音乐世界，也能联结身边世界，随心而行、无需妥协；「动听」，是韶音深耕多年的专业运动基因延续，更是品牌对声音与生活关系的全新解读：无论是运动赛场、都市通勤，还是静坐办公、休闲独处，",
+          "publishedAt": "2026-05-15T13:50:58Z",
+          "published_at": "2026-05-15T13:50:58Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 1,
-            "practitioner_value": 1,
-            "signal_over_promo": 1,
-            "distribution_signal": 0,
-            "confidence": 1,
-            "reason": "具身智能投融资趋势，偏行业信号"
-          }
+          "score_details": null
         },
         {
-          "id": "76deca60",
-          "title": "吴恩达批判AI失业焦虑生意",
-          "title_en": "吴恩达炮轰「AI就业末日论」：贩卖失业焦虑，其实就是一门生意",
-          "url": "https://www.jiqizhixin.com/articles",
-          "source": "机器之心",
+          "id": "387b0a34",
+          "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
+          "title_en": null,
+          "url": "https://36kr.com/p/3811265856626440?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "机器之心",
-          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3811265856626440?f=rss",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "吴恩达公开批评“AI导致就业末日”论，称其本质是在贩卖失业焦虑。",
-          "summary_zh": "吴恩达公开批评“AI导致就业末日”论，称其本质是在贩卖失业焦虑。",
-          "publishedAt": "2026-05-15T21:31:51Z",
-          "published_at": "2026-05-15T21:31:51Z",
+          "summary": "今日热点导览  OpenAI正考虑采取法律手段起诉苹果公司 三星电子开发下一代HBM封装技术，或用于智能手机等移动设备 海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群 世界银行首席经济学家英德米特・吉尔将于8月卸任退休 “海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示  TOP 3大新闻 央视确认获得2026年世界杯版权，费用为6000万美元  5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯新周期版权合作达成共识。合作赛事包括2026年世界杯、2030年世界杯、2027年女足世界杯、2031年女足世界杯。 根据双方合作意向，中央广播电视总台确认获得本周期合作赛事中国大陆独家全媒体权利及媒体分授权利，包括开路电视、付费电视、互联网和移动设备等。知情人士透露，中央广播电视总台与国际足联的版权协议已在15日下午生效。根据协议，美加墨世界杯的版权费为6000万美元。（每日经济新闻、澎湃新闻） 英伟达市值首破5.7万亿美元，已超过全球第三大经济体德国的GDP  5月15日外媒消息，在生成式人工智能热潮中获益颇丰的英伟达，股价在本周接连创下新高，",
+          "summary_zh": "今日热点导览  OpenAI正考虑采取法律手段起诉苹果公司 三星电子开发下一代HBM封装技术，或用于智能手机等移动设备 海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群 世界银行首席经济学家英德米特・吉尔将于8月卸任退休 “海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示  TOP 3大新闻 央视确认获得2026年世界杯版权，费用为6000万美元  5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯新周期版权合作达成共识。合作赛事包括2026年世界杯、2030年世界杯、2027年女足世界杯、2031年女足世界杯。 根据双方合作意向，中央广播电视总台确认获得本周期合作赛事中国大陆独家全媒体权利及媒体分授权利，包括开路电视、付费电视、互联网和移动设备等。知情人士透露，中央广播电视总台与国际足联的版权协议已在15日下午生效。根据协议，美加墨世界杯的版权费为6000万美元。（每日经济新闻、澎湃新闻） 英伟达市值首破5.7万亿美元，已超过全球第三大经济体德国的GDP  5月15日外媒消息，在生成式人工智能热潮中获益颇丰的英伟达，股价在本周接连创下新高，",
+          "publishedAt": "2026-05-16T01:03:11Z",
+          "published_at": "2026-05-16T01:03:11Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 1,
-            "practitioner_value": 1,
-            "signal_over_promo": 1,
-            "distribution_signal": 0,
-            "confidence": 1,
-            "reason": "AI行业观点动态，有讨论价值但实操弱"
-          }
+          "score_details": null
         }
       ]
     }
   ],
   "items": [
     {
-      "id": "d253ab63",
-      "title": "PHBench发布融资预测基准",
-      "title_en": "PHBench",
-      "url": "https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 9,
-      "rank_score": 10.0,
-      "rankingScore": 10.0,
-      "summary": "PHBench公开基准上线，可根据Product Hunt发布信号预测项目获A轮融资概率。",
-      "summary_zh": "PHBench公开基准上线，可根据Product Hunt发布信号预测项目获A轮融资概率。",
-      "publishedAt": "2026-05-15T07:01:00Z",
-      "published_at": "2026-05-15T07:01:00Z",
-      "votes_count": 277,
-      "featured": true,
-      "topics": [
-        {
-          "id": "208",
-          "name": "Venture Capital",
-          "slug": "venture-capital"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "272",
-          "name": "GitHub",
-          "slug": "github"
-        },
-        {
-          "id": "771",
-          "name": "Data",
-          "slug": "data"
-        },
-        {
-          "id": "1359",
-          "name": "Vercel Day",
-          "slug": "vercel-day"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 3,
-        "practitioner_value": 2,
-        "signal_over_promo": 2,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "公开基准+开源数据，PH高票有行业信号"
-      }
-    },
-    {
-      "id": "04f6d877",
-      "title": "OpenHuman发布测试版",
-      "title_en": "OpenHuman",
-      "url": "https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 8,
-      "rank_score": 9.0,
-      "rankingScore": 9.0,
-      "summary": "开源AI工具OpenHuman推出测试版，主打本地优先、长期记忆、隐私保护和一键上手。",
-      "summary_zh": "开源AI工具OpenHuman推出测试版，主打本地优先、长期记忆、隐私保护和一键上手。",
-      "publishedAt": "2026-05-15T07:01:00Z",
-      "published_at": "2026-05-15T07:01:00Z",
-      "votes_count": 314,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "89",
-          "name": "Open Source",
-          "slug": "open-source"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "272",
-          "name": "GitHub",
-          "slug": "github"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 2,
-        "signal_over_promo": 1,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "PH高票featured，AI代理工具Beta首发"
-      }
-    },
-    {
-      "id": "81a9f278",
-      "title": "HasData推出托管抓取服务",
-      "title_en": "HasData",
-      "url": "https://www.producthunt.com/products/hasdata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/hasdata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 8,
-      "rank_score": 9.0,
-      "rankingScore": 9.0,
-      "summary": "HasData发布面向AI代理的托管网页抓取服务，输入URL即可返回结构化JSON或Markdown。",
-      "summary_zh": "HasData发布面向AI代理的托管网页抓取服务，输入URL即可返回结构化JSON或Markdown。",
-      "publishedAt": "2026-05-15T07:01:00Z",
-      "published_at": "2026-05-15T07:01:00Z",
-      "votes_count": 310,
-      "featured": true,
-      "topics": [
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "771",
-          "name": "Data",
-          "slug": "data"
-        },
-        {
-          "id": "1359",
-          "name": "Vercel Day",
-          "slug": "vercel-day"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 3,
-        "signal_over_promo": 2,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "Agent抓取基础设施，PH高票featured"
-      }
-    },
-    {
-      "id": "00adaa7b",
-      "title": "Lokuma发布网站代理2.0",
-      "title_en": "Agentic Website Builder 2.0 by Lokuma",
-      "url": "https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/agentic-website-builder-2-0-by-lokuma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 8,
-      "rank_score": 9.0,
-      "rankingScore": 9.0,
-      "summary": "Lokuma推出网站代理2.0，把规划、设计、编辑和发布整合成一体化建站流程。",
-      "summary_zh": "Lokuma推出网站代理2.0，把规划、设计、编辑和发布整合成一体化建站流程。",
-      "publishedAt": "2026-05-15T07:01:00Z",
-      "published_at": "2026-05-15T07:01:00Z",
-      "votes_count": 158,
-      "featured": true,
-      "topics": [
-        {
-          "id": "44",
-          "name": "Design Tools",
-          "slug": "design-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "1359",
-          "name": "Vercel Day",
-          "slug": "vercel-day"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 2,
-        "signal_over_promo": 1,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "PH高票featured，属AI建站2.0实发"
-      }
-    },
-    {
-      "id": "449ad4a7",
-      "title": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能",
+      "id": "95b77fe4",
+      "title": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/05/417935.html",
+      "url": "https://www.qbitai.com/2026/05/418035.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/05/417935.html",
+      "sourceUrl": "https://www.qbitai.com/2026/05/418035.html",
       "category": "cn-media",
-      "score": 6,
-      "rank_score": 6.0,
-      "rankingScore": 6.0,
-      "summary": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能  衡宇 2026-05-15 10:21:28  来源：量子位   具身智能正在经历一场静默但深刻的路线转变   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能正在经历一场静默但深刻的路线转变。 过去两年，大多数机器人团队都在做同一件事，让机器人反复模仿动作，用海量仿真数据“喂”出技能。但一个根本问题始终没解决——机器人并不理解为什么要这么做。 一家成立仅一年的中国公司，从一开始就走了一条“非共识”的路：先让机器人像人一样观察世界、理解物理规律，再让它学会行动。 这条路，如今被证明是对的。 深度机智，这家由北京中关村学院和中关村人工智能研究院联合孵化的具身大模型公司，是国内最早定义并系统化布局“人类学习”路线的具身智能团队。 围绕今年3月发布的PhysBrain 1.0具身通用智能基座模型体系，团队已形成一组核心模型成果，并在WorldArena、SimplerEnv、RoboTwin 2.0、RoboCasa、LIBERO等五大国际权威榜单中登顶或领先。 深度机智最近还首次对外正式披露了",
-      "summary_zh": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能  衡宇 2026-05-15 10:21:28  来源：量子位   具身智能正在经历一场静默但深刻的路线转变   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能正在经历一场静默但深刻的路线转变。 过去两年，大多数机器人团队都在做同一件事，让机器人反复模仿动作，用海量仿真数据“喂”出技能。但一个根本问题始终没解决——机器人并不理解为什么要这么做。 一家成立仅一年的中国公司，从一开始就走了一条“非共识”的路：先让机器人像人一样观察世界、理解物理规律，再让它学会行动。 这条路，如今被证明是对的。 深度机智，这家由北京中关村学院和中关村人工智能研究院联合孵化的具身大模型公司，是国内最早定义并系统化布局“人类学习”路线的具身智能团队。 围绕今年3月发布的PhysBrain 1.0具身通用智能基座模型体系，团队已形成一组核心模型成果，并在WorldArena、SimplerEnv、RoboTwin 2.0、RoboCasa、LIBERO等五大国际权威榜单中登顶或领先。 深度机智最近还首次对外正式披露了",
-      "publishedAt": "2026-05-15T02:21:28Z",
-      "published_at": "2026-05-15T02:21:28Z",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?  闻乐 2026-05-15 17:55:56  来源：量子位   说明需求，Qoder就能帮你实现   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  AI Coding的玩法，又变了。 如果你留意就会发现，Cursor、Windsurf、Claude Code这些顶流玩家，现在基本都不爱吹“代码生成有多快”了。 话锋一转，全在讲“我能帮你完成多少任务”。  这个微妙的转变，原因也很简单：代码生成越来越不值钱了。 十秒出一个前端页面，谁家都能做，AI卷到今天，生成一段CRUD跟喝水一样简单。 那值钱的是啥？ 是把一个需求从说出来，到交付上线之间的整条链路跑通—— 拆任务、跨文件改、记住上下文、自动验证、交付。 谁能把这串事儿干利索，谁才真正从工具变成了队友。 就在行业集体转弯的节点上，阿里Qoder正式官宣1.0版本，直接完成身份跃迁，从传统AI IDE，升级成智能体自主开发工作台。  赛道转型的方向所有人都看得明明白白，但Qoder交出的这份答卷里有几个地方交得更早，答得更细。",
+      "summary_zh": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?  闻乐 2026-05-15 17:55:56  来源：量子位   说明需求，Qoder就能帮你实现   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  AI Coding的玩法，又变了。 如果你留意就会发现，Cursor、Windsurf、Claude Code这些顶流玩家，现在基本都不爱吹“代码生成有多快”了。 话锋一转，全在讲“我能帮你完成多少任务”。  这个微妙的转变，原因也很简单：代码生成越来越不值钱了。 十秒出一个前端页面，谁家都能做，AI卷到今天，生成一段CRUD跟喝水一样简单。 那值钱的是啥？ 是把一个需求从说出来，到交付上线之间的整条链路跑通—— 拆任务、跨文件改、记住上下文、自动验证、交付。 谁能把这串事儿干利索，谁才真正从工具变成了队友。 就在行业集体转弯的节点上，阿里Qoder正式官宣1.0版本，直接完成身份跃迁，从传统AI IDE，升级成智能体自主开发工作台。  赛道转型的方向所有人都看得明明白白，但Qoder交出的这份答卷里有几个地方交得更早，答得更细。",
+      "publishedAt": "2026-05-15T09:55:56Z",
+      "published_at": "2026-05-15T09:55:56Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 1,
-        "signal_over_promo": 1,
-        "distribution_signal": 0,
-        "confidence": 1,
-        "reason": "融资属行业动态，但偏品牌稿，实操信息少"
-      }
+      "score_details": null
     },
     {
-      "id": "5f0e6f8f",
-      "title": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
+      "id": "0c710483",
+      "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
       "title_en": null,
-      "url": "https://36kr.com/p/3809911566704388?f=rss",
+      "url": "https://www.qbitai.com/2026/05/418135.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/05/418135.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局  智能车参考 2026-05-15 18:14:54  来源：量子位   近日，华为云INSPIRE创想者大会官网披露主题演讲议程，将围绕Agentic AI呈现一条完整的技术链路：从底层算力与基础设施，延伸至模型训练与强化学习，再到企业级智能体平台与安全体系，并进一步拓展至行业应用与生态共建，形成贯穿Agentic AI全生命周期的系统化能力体系。  在基础设施层面，华为云围绕“硅基黑土地”战略，或将发布Agentic AI Infra新品。从官方呈现的信息来看，华为云将通过软硬芯协同持续强化AI算力底座，为Agent运行与大规模推理提供高效支撑。能够看出，Agentic AI基础设施的重点不再只是提升算力性能，而是面向智能体时代优化整体效率与调度能力。 在模型与平台层面，华为云将通过ModelArts持续完善一站式模型训推，支持百模千态生长。同时，通过模型强化学习平台，优化大模型与行业场景之间的适配，解决企业AI落地最后一公里的问题，使模型能力向工程化、可持续迭代。 在智能体层面，华为云将推出企业级智能体平台Agen",
+      "summary_zh": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局  智能车参考 2026-05-15 18:14:54  来源：量子位   近日，华为云INSPIRE创想者大会官网披露主题演讲议程，将围绕Agentic AI呈现一条完整的技术链路：从底层算力与基础设施，延伸至模型训练与强化学习，再到企业级智能体平台与安全体系，并进一步拓展至行业应用与生态共建，形成贯穿Agentic AI全生命周期的系统化能力体系。  在基础设施层面，华为云围绕“硅基黑土地”战略，或将发布Agentic AI Infra新品。从官方呈现的信息来看，华为云将通过软硬芯协同持续强化AI算力底座，为Agent运行与大规模推理提供高效支撑。能够看出，Agentic AI基础设施的重点不再只是提升算力性能，而是面向智能体时代优化整体效率与调度能力。 在模型与平台层面，华为云将通过ModelArts持续完善一站式模型训推，支持百模千态生长。同时，通过模型强化学习平台，优化大模型与行业场景之间的适配，解决企业AI落地最后一公里的问题，使模型能力向工程化、可持续迭代。 在智能体层面，华为云将推出企业级智能体平台Agen",
+      "publishedAt": "2026-05-15T10:14:54Z",
+      "published_at": "2026-05-15T10:14:54Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "6fc63a1e",
+      "title": "2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代",
+      "title_en": null,
+      "url": "https://36kr.com/p/3810607581634056?f=rss",
       "source": "36氪",
       "source_type": null,
       "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3809911566704388?f=rss",
+      "sourceUrl": "https://36kr.com/p/3810607581634056?f=rss",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
-      "summary_zh": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
-      "publishedAt": "2026-05-15T02:06:00Z",
-      "published_at": "2026-05-15T02:06:00Z",
+      "summary": "2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。韶音全球品牌大使张婧仪登台分享，由韶音与国际设计大师Matteo Menotto合作的「缮己新声」艺术礼盒也在现场展出，带来一场关于听觉自由与生活质感的全新生活方式表达。  官方图片 锚定开放内核，解码「随我动听」 Shokz韶音中国区CEO杨云在现场分享了品牌对开放聆听的最新思考：“真实的世界从不静止。声音在流动，环境在变化，人的状态也在不断切换。过去，耳机给用户的选择并不多——要么沉浸而隔绝，要么感知而妥协。我们相信，理想的声音体验应当把选择权交还给用户。「随我动听」的核心，是声音跟随人的节奏。”   「随我」，意味着选择自由——用户可以沉浸于音乐世界，也能联结身边世界，随心而行、无需妥协；「动听」，是韶音深耕多年的专业运动基因延续，更是品牌对声音与生活关系的全新解读：无论是运动赛场、都市通勤，还是静坐办公、休闲独处，",
+      "summary_zh": "2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。韶音全球品牌大使张婧仪登台分享，由韶音与国际设计大师Matteo Menotto合作的「缮己新声」艺术礼盒也在现场展出，带来一场关于听觉自由与生活质感的全新生活方式表达。  官方图片 锚定开放内核，解码「随我动听」 Shokz韶音中国区CEO杨云在现场分享了品牌对开放聆听的最新思考：“真实的世界从不静止。声音在流动，环境在变化，人的状态也在不断切换。过去，耳机给用户的选择并不多——要么沉浸而隔绝，要么感知而妥协。我们相信，理想的声音体验应当把选择权交还给用户。「随我动听」的核心，是声音跟随人的节奏。”   「随我」，意味着选择自由——用户可以沉浸于音乐世界，也能联结身边世界，随心而行、无需妥协；「动听」，是韶音深耕多年的专业运动基因延续，更是品牌对声音与生活关系的全新解读：无论是运动赛场、都市通勤，还是静坐办公、休闲独处，",
+      "publishedAt": "2026-05-15T13:50:58Z",
+      "published_at": "2026-05-15T13:50:58Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 1,
-        "practitioner_value": 1,
-        "signal_over_promo": 1,
-        "distribution_signal": 0,
-        "confidence": 1,
-        "reason": "具身智能投融资趋势，偏行业信号"
-      }
+      "score_details": null
     },
     {
-      "id": "76deca60",
-      "title": "吴恩达批判AI失业焦虑生意",
-      "title_en": "吴恩达炮轰「AI就业末日论」：贩卖失业焦虑，其实就是一门生意",
-      "url": "https://www.jiqizhixin.com/articles",
-      "source": "机器之心",
+      "id": "387b0a34",
+      "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
+      "title_en": null,
+      "url": "https://36kr.com/p/3811265856626440?f=rss",
+      "source": "36氪",
       "source_type": null,
-      "sourceName": "机器之心",
-      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3811265856626440?f=rss",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "吴恩达公开批评“AI导致就业末日”论，称其本质是在贩卖失业焦虑。",
-      "summary_zh": "吴恩达公开批评“AI导致就业末日”论，称其本质是在贩卖失业焦虑。",
-      "publishedAt": "2026-05-15T21:31:51Z",
-      "published_at": "2026-05-15T21:31:51Z",
+      "summary": "今日热点导览  OpenAI正考虑采取法律手段起诉苹果公司 三星电子开发下一代HBM封装技术，或用于智能手机等移动设备 海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群 世界银行首席经济学家英德米特・吉尔将于8月卸任退休 “海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示  TOP 3大新闻 央视确认获得2026年世界杯版权，费用为6000万美元  5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯新周期版权合作达成共识。合作赛事包括2026年世界杯、2030年世界杯、2027年女足世界杯、2031年女足世界杯。 根据双方合作意向，中央广播电视总台确认获得本周期合作赛事中国大陆独家全媒体权利及媒体分授权利，包括开路电视、付费电视、互联网和移动设备等。知情人士透露，中央广播电视总台与国际足联的版权协议已在15日下午生效。根据协议，美加墨世界杯的版权费为6000万美元。（每日经济新闻、澎湃新闻） 英伟达市值首破5.7万亿美元，已超过全球第三大经济体德国的GDP  5月15日外媒消息，在生成式人工智能热潮中获益颇丰的英伟达，股价在本周接连创下新高，",
+      "summary_zh": "今日热点导览  OpenAI正考虑采取法律手段起诉苹果公司 三星电子开发下一代HBM封装技术，或用于智能手机等移动设备 海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群 世界银行首席经济学家英德米特・吉尔将于8月卸任退休 “海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示  TOP 3大新闻 央视确认获得2026年世界杯版权，费用为6000万美元  5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯新周期版权合作达成共识。合作赛事包括2026年世界杯、2030年世界杯、2027年女足世界杯、2031年女足世界杯。 根据双方合作意向，中央广播电视总台确认获得本周期合作赛事中国大陆独家全媒体权利及媒体分授权利，包括开路电视、付费电视、互联网和移动设备等。知情人士透露，中央广播电视总台与国际足联的版权协议已在15日下午生效。根据协议，美加墨世界杯的版权费为6000万美元。（每日经济新闻、澎湃新闻） 英伟达市值首破5.7万亿美元，已超过全球第三大经济体德国的GDP  5月15日外媒消息，在生成式人工智能热潮中获益颇丰的英伟达，股价在本周接连创下新高，",
+      "publishedAt": "2026-05-16T01:03:11Z",
+      "published_at": "2026-05-16T01:03:11Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 1,
-        "practitioner_value": 1,
-        "signal_over_promo": 1,
-        "distribution_signal": 0,
-        "confidence": 1,
-        "reason": "AI行业观点动态，有讨论价值但实操弱"
-      }
+      "score_details": null
     }
   ]
 }

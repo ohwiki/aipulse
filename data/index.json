@@ -1,171 +1,81 @@
 {
-  "generated_at": "2026-05-15T21:34:36Z",
-  "generatedAt": "2026-05-15T21:34:36Z",
+  "generated_at": "2026-05-16T09:55:23Z",
+  "generatedAt": "2026-05-16T09:55:23Z",
   "count": 4,
   "total": 4,
   "entries": [
     {
       "date": "2026-05-16",
-      "generated_at": "2026-05-15T21:34:36Z",
-      "generatedAt": "2026-05-15T21:34:36Z",
-      "total": 7,
-      "sectionCount": 2,
+      "generated_at": "2026-05-16T09:55:23Z",
+      "generatedAt": "2026-05-16T09:55:23Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "d253ab63",
-          "title": "PHBench发布融资预测基准",
-          "title_en": "PHBench",
-          "url": "https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "387b0a34",
+          "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
+          "title_en": null,
+          "url": "https://36kr.com/p/3811265856626440?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 9,
-          "rank_score": 10,
-          "rankingScore": 10,
-          "summary": "PHBench公开基准上线，可根据Product Hunt发布信号预测项目获A轮融资概率。",
-          "summary_zh": "PHBench公开基准上线，可根据Product Hunt发布信号预测项目获A轮融资概率。",
-          "publishedAt": "2026-05-15T07:01:00Z",
-          "published_at": "2026-05-15T07:01:00Z",
-          "votes_count": 277,
-          "featured": true,
-          "topics": [
-            {
-              "id": "208",
-              "name": "Venture Capital",
-              "slug": "venture-capital"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "771",
-              "name": "Data",
-              "slug": "data"
-            },
-            {
-              "id": "1359",
-              "name": "Vercel Day",
-              "slug": "vercel-day"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 3,
-            "practitioner_value": 2,
-            "signal_over_promo": 2,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "公开基准+开源数据，PH高票有行业信号"
-          }
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3811265856626440?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "今日热点导览  OpenAI正考虑采取法律手段起诉苹果公司 三星电子开发下一代HBM封装技术，或用于智能手机等移动设备 海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群 世界银行首席经济学家英德米特・吉尔将于8月卸任退休 “海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示  TOP 3大新闻 央视确认获得2026年世界杯版权，费用为6000万美元  5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯新周期版权合作达成共识。合作赛事包括2026年世界杯、2030年世界杯、2027年女足世界杯、2031年女足世界杯。 根据双方合作意向，中央广播电视总台确认获得本周期合作赛事中国大陆独家全媒体权利及媒体分授权利，包括开路电视、付费电视、互联网和移动设备等。知情人士透露，中央广播电视总台与国际足联的版权协议已在15日下午生效。根据协议，美加墨世界杯的版权费为6000万美元。（每日经济新闻、澎湃新闻） 英伟达市值首破5.7万亿美元，已超过全球第三大经济体德国的GDP  5月15日外媒消息，在生成式人工智能热潮中获益颇丰的英伟达，股价在本周接连创下新高，",
+          "summary_zh": "今日热点导览  OpenAI正考虑采取法律手段起诉苹果公司 三星电子开发下一代HBM封装技术，或用于智能手机等移动设备 海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群 世界银行首席经济学家英德米特・吉尔将于8月卸任退休 “海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示  TOP 3大新闻 央视确认获得2026年世界杯版权，费用为6000万美元  5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯新周期版权合作达成共识。合作赛事包括2026年世界杯、2030年世界杯、2027年女足世界杯、2031年女足世界杯。 根据双方合作意向，中央广播电视总台确认获得本周期合作赛事中国大陆独家全媒体权利及媒体分授权利，包括开路电视、付费电视、互联网和移动设备等。知情人士透露，中央广播电视总台与国际足联的版权协议已在15日下午生效。根据协议，美加墨世界杯的版权费为6000万美元。（每日经济新闻、澎湃新闻） 英伟达市值首破5.7万亿美元，已超过全球第三大经济体德国的GDP  5月15日外媒消息，在生成式人工智能热潮中获益颇丰的英伟达，股价在本周接连创下新高，",
+          "publishedAt": "2026-05-16T01:03:11Z",
+          "published_at": "2026-05-16T01:03:11Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
         },
         {
-          "id": "04f6d877",
-          "title": "OpenHuman发布测试版",
-          "title_en": "OpenHuman",
-          "url": "https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "6fc63a1e",
+          "title": "2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代",
+          "title_en": null,
+          "url": "https://36kr.com/p/3810607581634056?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 8,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "开源AI工具OpenHuman推出测试版，主打本地优先、长期记忆、隐私保护和一键上手。",
-          "summary_zh": "开源AI工具OpenHuman推出测试版，主打本地优先、长期记忆、隐私保护和一键上手。",
-          "publishedAt": "2026-05-15T07:01:00Z",
-          "published_at": "2026-05-15T07:01:00Z",
-          "votes_count": 314,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 2,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "PH高票featured，AI代理工具Beta首发"
-          }
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3810607581634056?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。韶音全球品牌大使张婧仪登台分享，由韶音与国际设计大师Matteo Menotto合作的「缮己新声」艺术礼盒也在现场展出，带来一场关于听觉自由与生活质感的全新生活方式表达。  官方图片 锚定开放内核，解码「随我动听」 Shokz韶音中国区CEO杨云在现场分享了品牌对开放聆听的最新思考：“真实的世界从不静止。声音在流动，环境在变化，人的状态也在不断切换。过去，耳机给用户的选择并不多——要么沉浸而隔绝，要么感知而妥协。我们相信，理想的声音体验应当把选择权交还给用户。「随我动听」的核心，是声音跟随人的节奏。”   「随我」，意味着选择自由——用户可以沉浸于音乐世界，也能联结身边世界，随心而行、无需妥协；「动听」，是韶音深耕多年的专业运动基因延续，更是品牌对声音与生活关系的全新解读：无论是运动赛场、都市通勤，还是静坐办公、休闲独处，",
+          "summary_zh": "2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。韶音全球品牌大使张婧仪登台分享，由韶音与国际设计大师Matteo Menotto合作的「缮己新声」艺术礼盒也在现场展出，带来一场关于听觉自由与生活质感的全新生活方式表达。  官方图片 锚定开放内核，解码「随我动听」 Shokz韶音中国区CEO杨云在现场分享了品牌对开放聆听的最新思考：“真实的世界从不静止。声音在流动，环境在变化，人的状态也在不断切换。过去，耳机给用户的选择并不多——要么沉浸而隔绝，要么感知而妥协。我们相信，理想的声音体验应当把选择权交还给用户。「随我动听」的核心，是声音跟随人的节奏。”   「随我」，意味着选择自由——用户可以沉浸于音乐世界，也能联结身边世界，随心而行、无需妥协；「动听」，是韶音深耕多年的专业运动基因延续，更是品牌对声音与生活关系的全新解读：无论是运动赛场、都市通勤，还是静坐办公、休闲独处，",
+          "publishedAt": "2026-05-15T13:50:58Z",
+          "published_at": "2026-05-15T13:50:58Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
         },
         {
-          "id": "81a9f278",
-          "title": "HasData推出托管抓取服务",
-          "title_en": "HasData",
-          "url": "https://www.producthunt.com/products/hasdata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "0c710483",
+          "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/05/418135.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/hasdata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 8,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "HasData发布面向AI代理的托管网页抓取服务，输入URL即可返回结构化JSON或Markdown。",
-          "summary_zh": "HasData发布面向AI代理的托管网页抓取服务，输入URL即可返回结构化JSON或Markdown。",
-          "publishedAt": "2026-05-15T07:01:00Z",
-          "published_at": "2026-05-15T07:01:00Z",
-          "votes_count": 310,
-          "featured": true,
-          "topics": [
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "771",
-              "name": "Data",
-              "slug": "data"
-            },
-            {
-              "id": "1359",
-              "name": "Vercel Day",
-              "slug": "vercel-day"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 3,
-            "signal_over_promo": 2,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "Agent抓取基础设施，PH高票featured"
-          }
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/05/418135.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局  智能车参考 2026-05-15 18:14:54  来源：量子位   近日，华为云INSPIRE创想者大会官网披露主题演讲议程，将围绕Agentic AI呈现一条完整的技术链路：从底层算力与基础设施，延伸至模型训练与强化学习，再到企业级智能体平台与安全体系，并进一步拓展至行业应用与生态共建，形成贯穿Agentic AI全生命周期的系统化能力体系。  在基础设施层面，华为云围绕“硅基黑土地”战略，或将发布Agentic AI Infra新品。从官方呈现的信息来看，华为云将通过软硬芯协同持续强化AI算力底座，为Agent运行与大规模推理提供高效支撑。能够看出，Agentic AI基础设施的重点不再只是提升算力性能，而是面向智能体时代优化整体效率与调度能力。 在模型与平台层面，华为云将通过ModelArts持续完善一站式模型训推，支持百模千态生长。同时，通过模型强化学习平台，优化大模型与行业场景之间的适配，解决企业AI落地最后一公里的问题，使模型能力向工程化、可持续迭代。 在智能体层面，华为云将推出企业级智能体平台Agen",
+          "summary_zh": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局  智能车参考 2026-05-15 18:14:54  来源：量子位   近日，华为云INSPIRE创想者大会官网披露主题演讲议程，将围绕Agentic AI呈现一条完整的技术链路：从底层算力与基础设施，延伸至模型训练与强化学习，再到企业级智能体平台与安全体系，并进一步拓展至行业应用与生态共建，形成贯穿Agentic AI全生命周期的系统化能力体系。  在基础设施层面，华为云围绕“硅基黑土地”战略，或将发布Agentic AI Infra新品。从官方呈现的信息来看，华为云将通过软硬芯协同持续强化AI算力底座，为Agent运行与大规模推理提供高效支撑。能够看出，Agentic AI基础设施的重点不再只是提升算力性能，而是面向智能体时代优化整体效率与调度能力。 在模型与平台层面，华为云将通过ModelArts持续完善一站式模型训推，支持百模千态生长。同时，通过模型强化学习平台，优化大模型与行业场景之间的适配，解决企业AI落地最后一公里的问题，使模型能力向工程化、可持续迭代。 在智能体层面，华为云将推出企业级智能体平台Agen",
+          "publishedAt": "2026-05-15T10:14:54Z",
+          "published_at": "2026-05-15T10:14:54Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
         }
       ]
     },
