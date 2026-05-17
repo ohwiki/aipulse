@@ -1,10 +1,57 @@
 {
-  "generated_at": "2026-05-17T10:09:21Z",
-  "generatedAt": "2026-05-17T10:09:21Z",
+  "generated_at": "2026-05-17T21:14:02Z",
+  "generatedAt": "2026-05-17T21:14:02Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 7,
+  "count": 7,
   "items": [
+    {
+      "id": "d431b11a",
+      "title": "Vivago推出视频智能体",
+      "title_en": "Vivago Video Agent",
+      "url": "https://www.producthunt.com/products/viva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/viva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Vivago发布视频智能体，用户用自然语言和素材即可生成连贯、可预览关键帧的1分钟1080P叙事视频。",
+      "summary_zh": "Vivago发布视频智能体，用户用自然语言和素材即可生成连贯、可预览关键帧的1分钟1080P叙事视频。",
+      "publishedAt": "2026-05-17T07:01:00Z",
+      "published_at": "2026-05-17T07:01:00Z",
+      "votes_count": 289,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票featured，属真实AI视频Agent发布"
+      }
+    },
     {
       "id": "2655541e",
       "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
@@ -29,42 +76,167 @@
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
         "novelty": 2,
-        "practitioner_value": 3,
+        "practitioner_value": 2,
         "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "开源Agent科研流水线，GitHub热度高"
+        "reason": "开源Agent科研流水线，星标高"
       }
     },
     {
-      "id": "ab401fa9",
-      "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
+      "id": "71b92a00",
+      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
       "title_en": null,
-      "url": "https://36kr.com/p/3812788568907520?f=rss",
+      "url": "https://36kr.com/p/3812800346742274?f=rss",
       "source": "36氪",
       "source_type": null,
       "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3812788568907520?f=rss",
+      "sourceUrl": "https://36kr.com/p/3812800346742274?f=rss",
       "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。 绮算法成立于2022年7月，是一家聚焦宠物健康领域的大模型科技公司。依托多模态大模型能力，公司已打造一个融合线上线下、软硬件协同的宠物健康品牌。 绮算法创始人陈立毕业于英国国王学院，为Qlalgorithm Lab研究员，同时也是连续创业者；技术合伙人刘煜东为宾夕法尼亚大学博士，长期从事AI医疗方向研究；另一位技术合伙人邓子豪毕业于宾夕法尼亚大学，专注于新一代边缘计算技术。 此前，在智谱专业模型能力与“小暖医生”业务资源支持下，公司已围绕宠物医疗场景搭建起一套垂直化、可落地的AI模型体系。 宠物医疗领域，由于缺乏系统化的循证数据，加上宠物无法主动表达症状，诊断难度较高。陈立介绍称，绮算法基于数千万份宠物病历、医学影像及行为数据进行模型训练。相比通用大模型，更理解宠物医疗中的品种个体差异、症状表达与诊疗逻辑；模型不仅能够输出诊断结果，还能提供诊断依据、风",
-      "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。 绮算法成立于2022年7月，是一家聚焦宠物健康领域的大模型科技公司。依托多模态大模型能力，公司已打造一个融合线上线下、软硬件协同的宠物健康品牌。 绮算法创始人陈立毕业于英国国王学院，为Qlalgorithm Lab研究员，同时也是连续创业者；技术合伙人刘煜东为宾夕法尼亚大学博士，长期从事AI医疗方向研究；另一位技术合伙人邓子豪毕业于宾夕法尼亚大学，专注于新一代边缘计算技术。 此前，在智谱专业模型能力与“小暖医生”业务资源支持下，公司已围绕宠物医疗场景搭建起一套垂直化、可落地的AI模型体系。 宠物医疗领域，由于缺乏系统化的循证数据，加上宠物无法主动表达症状，诊断难度较高。陈立介绍称，绮算法基于数千万份宠物病历、医学影像及行为数据进行模型训练。相比通用大模型，更理解宠物医疗中的品种个体差异、症状表达与诊疗逻辑；模型不仅能够输出诊断结果，还能提供诊断依据、风",
-      "publishedAt": "2026-05-17T02:50:05Z",
-      "published_at": "2026-05-17T02:50:05Z",
+      "score": 8,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。  academic-research-skills 项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。  academic-research-skills 只能说，我读研的时候怎么没碰到这种好东西呢…  示意图 4个skill，跑通整套科研流程 ARS的核心架构由4个skill组成，它们各司其职，拼在一起就是一条从选题到交稿的完整链路。 我这里还做了图，大家可以看得比较直观：  △ Deep Research是一支13个Agent的研究团队。 它负责文献调研、研究问题构建、方法论设计，还能写系统性的PRISMA综述。 团队里有专门做文献溯源的Agent，会调用Semantic Scholar API验证每一篇引用的真实性。 有苏格拉底导",
+      "summary_zh": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。  academic-research-skills 项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。  academic-research-skills 只能说，我读研的时候怎么没碰到这种好东西呢…  示意图 4个skill，跑通整套科研流程 ARS的核心架构由4个skill组成，它们各司其职，拼在一起就是一条从选题到交稿的完整链路。 我这里还做了图，大家可以看得比较直观：  △ Deep Research是一支13个Agent的研究团队。 它负责文献调研、研究问题构建、方法论设计，还能写系统性的PRISMA综述。 团队里有专门做文献溯源的Agent，会调用Semantic Scholar API验证每一篇引用的真实性。 有苏格拉底导",
+      "publishedAt": "2026-05-17T04:59:08Z",
+      "published_at": "2026-05-17T04:59:08Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": {
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
-        "novelty": 1,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "开源AI科研工作流，热度高且可实操"
+      }
+    },
+    {
+      "id": "75d26dcd",
+      "title": "SUN音频直达Spotify",
+      "title_en": "SUN-to-Spotify",
+      "url": "https://www.producthunt.com/products/sun-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/sun-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "SUN可按文字需求生成播客或有声书，并直接发布到Spotify个人资料库。",
+      "summary_zh": "SUN可按文字需求生成播客或有声书，并直接发布到Spotify个人资料库。",
+      "publishedAt": "2026-05-17T07:01:00Z",
+      "published_at": "2026-05-17T07:01:00Z",
+      "votes_count": 281,
+      "featured": true,
+      "topics": [
+        {
+          "id": "204",
+          "name": "Education",
+          "slug": "education"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
         "practitioner_value": 1,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "AI音频生成直连Spotify，PH高票featured"
+      }
+    },
+    {
+      "id": "c63fef99",
+      "title": "Fere AI推出自主交易代理",
+      "title_en": "Fere AI",
+      "url": "https://www.producthunt.com/products/fere-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/fere-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Fere AI将市场信号自动转成加密货币和Polymarket交易，并可全天候自主执行与风控。",
+      "summary_zh": "Fere AI将市场信号自动转成加密货币和Polymarket交易，并可全天候自主执行与风控。",
+      "publishedAt": "2026-05-17T07:01:00Z",
+      "published_at": "2026-05-17T07:01:00Z",
+      "votes_count": 239,
+      "featured": true,
+      "topics": [
+        {
+          "id": "94",
+          "name": "Fintech",
+          "slug": "fintech"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "501",
+          "name": "Web3",
+          "slug": "web3"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 1,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票featured，AI交易Agent首发"
+      }
+    },
+    {
+      "id": "7e186cc6",
+      "title": "清华阿里发布ViT³架构",
+      "title_en": "CVPR 2026 Oral | 清华+阿里发布ViT³：解锁「视觉TTT」新架构，突破Transformer复杂度瓶颈",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 8,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "清华与阿里发布ViT³视觉TTT架构，突破Transformer复杂度瓶颈并入选CVPR 2026 Oral。",
+      "summary_zh": "清华与阿里发布ViT³视觉TTT架构，突破Transformer复杂度瓶颈并入选CVPR 2026 Oral。",
+      "publishedAt": "2026-05-17T21:11:15Z",
+      "published_at": "2026-05-17T21:11:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 3,
+        "practitioner_value": 2,
         "signal_over_promo": 1,
         "distribution_signal": 0,
         "confidence": 1,
-        "reason": "垂类医疗AI融资，行业信号强于技术增量"
+        "reason": "CVPR Oral论文，架构创新但摘要噪声大"
       }
     },
     {
@@ -77,9 +249,9 @@
       "sourceName": "量子位",
       "sourceUrl": "https://www.qbitai.com/2026/05/418814.html",
       "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
+      "score": 7,
+      "rank_score": 7.0,
+      "rankingScore": 7.0,
       "summary": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”  衡宇 2026-05-17 11:42:11  来源：量子位   先把SFT挖的坑填了！   PRISM团队 投稿 量子位 | 公众号 QbitAI  SFT之后，直接上强化学习就够了吗？ 小心，你做的可能不是“训练”，而是“还债”。 在多模态大模型（MLLM）的后训练中，行业内长期遵循着一个看似天经地义的范式：先SFT，再RL，两步到位。 从DeepSeek到Qwen，从GRPO到DAPO，大家拼命优化RL算法的稳定性、采样效率、奖励设计……却几乎没人回头看一眼： SFT到RL之间，是不是少了点什么？ 但来自香港科技大学（广州）、南洋理工大学、清华大学等机构的最新研究Beyond SFT-to-RL(PRISM)给出了一个令人不安的发现： SFT不仅没有为RL铺好路，反而在悄悄挖坑。    被忽视的“隐形断层”：SFT到底做了什么？ 先看一组比较有意思的数据（7个主流多模态benchmark的平均准确率）：                    阶段   Qwen3-VL-4B   Qwen3-VL-8B     原始In",
       "summary_zh": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”  衡宇 2026-05-17 11:42:11  来源：量子位   先把SFT挖的坑填了！   PRISM团队 投稿 量子位 | 公众号 QbitAI  SFT之后，直接上强化学习就够了吗？ 小心，你做的可能不是“训练”，而是“还债”。 在多模态大模型（MLLM）的后训练中，行业内长期遵循着一个看似天经地义的范式：先SFT，再RL，两步到位。 从DeepSeek到Qwen，从GRPO到DAPO，大家拼命优化RL算法的稳定性、采样效率、奖励设计……却几乎没人回头看一眼： SFT到RL之间，是不是少了点什么？ 但来自香港科技大学（广州）、南洋理工大学、清华大学等机构的最新研究Beyond SFT-to-RL(PRISM)给出了一个令人不安的发现： SFT不仅没有为RL铺好路，反而在悄悄挖坑。    被忽视的“隐形断层”：SFT到底做了什么？ 先看一组比较有意思的数据（7个主流多模态benchmark的平均准确率）：                    阶段   Qwen3-VL-4B   Qwen3-VL-8B     原始In",
       "publishedAt": "2026-05-17T03:42:11Z",
@@ -87,29 +259,16 @@
       "votes_count": null,
       "featured": null,
       "topics": [],
-      "score_details": null
-    },
-    {
-      "id": "71b92a00",
-      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
-      "title_en": null,
-      "url": "https://36kr.com/p/3812800346742274?f=rss",
-      "source": "36氪",
-      "source_type": null,
-      "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3812800346742274?f=rss",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。  academic-research-skills 项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。  academic-research-skills 只能说，我读研的时候怎么没碰到这种好东西呢…  示意图 4个skill，跑通整套科研流程 ARS的核心架构由4个skill组成，它们各司其职，拼在一起就是一条从选题到交稿的完整链路。 我这里还做了图，大家可以看得比较直观：  △ Deep Research是一支13个Agent的研究团队。 它负责文献调研、研究问题构建、方法论设计，还能写系统性的PRISMA综述。 团队里有专门做文献溯源的Agent，会调用Semantic Scholar API验证每一篇引用的真实性。 有苏格拉底导",
-      "summary_zh": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。  academic-research-skills 项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。  academic-research-skills 只能说，我读研的时候怎么没碰到这种好东西呢…  示意图 4个skill，跑通整套科研流程 ARS的核心架构由4个skill组成，它们各司其职，拼在一起就是一条从选题到交稿的完整链路。 我这里还做了图，大家可以看得比较直观：  △ Deep Research是一支13个Agent的研究团队。 它负责文献调研、研究问题构建、方法论设计，还能写系统性的PRISMA综述。 团队里有专门做文献溯源的Agent，会调用Semantic Scholar API验证每一篇引用的真实性。 有苏格拉底导",
-      "publishedAt": "2026-05-17T04:59:08Z",
-      "published_at": "2026-05-17T04:59:08Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": null
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 0,
+        "confidence": 1,
+        "reason": "多模态后训练新研究，对训练链路有启发"
+      }
     }
   ]
 }
