@@ -1,161 +1,90 @@
 {
-  "generated_at": "2026-05-16T21:10:16Z",
-  "generatedAt": "2026-05-16T21:10:16Z",
+  "generated_at": "2026-05-17T10:09:21Z",
+  "generatedAt": "2026-05-17T10:09:21Z",
   "count": 5,
   "total": 5,
   "entries": [
     {
       "date": "2026-05-17",
-      "generated_at": "2026-05-16T21:10:16Z",
-      "generatedAt": "2026-05-16T21:10:16Z",
-      "total": 7,
-      "sectionCount": 2,
+      "generated_at": "2026-05-17T10:09:21Z",
+      "generatedAt": "2026-05-17T10:09:21Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "9df2e101",
-          "title": "Agentmemory爆火GitHub",
-          "title_en": "Agentmemory",
-          "url": "https://www.producthunt.com/products/agent-memory-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "2655541e",
+          "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/05/418737.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/agent-memory-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 9,
-          "rank_score": 10,
-          "rankingScore": 10,
-          "summary": "Agentmemory为Claude Code、Codex等编程代理提供可搜索持久记忆，大幅减少上下文token占用。",
-          "summary_zh": "Agentmemory为Claude Code、Codex等编程代理提供可搜索持久记忆，大幅减少上下文token占用。",
-          "publishedAt": "2026-05-16T07:01:00Z",
-          "published_at": "2026-05-16T07:01:00Z",
-          "votes_count": 202,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 3,
-            "signal_over_promo": 2,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "AI编程Agent记忆层新品，开源且热度强"
-          }
-        },
-        {
-          "id": "798c7013",
-          "title": "谷歌发布Gemini 3.1 Flash-Lite",
-          "title_en": "Gemini 3.1 Flash-Lite",
-          "url": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 9,
-          "rank_score": 10,
-          "rankingScore": 10,
-          "summary": "谷歌推出Gemini 3.1 Flash-Lite，面向高并发低延迟生产级AI代理流水线。",
-          "summary_zh": "谷歌推出Gemini 3.1 Flash-Lite，面向高并发低延迟生产级AI代理流水线。",
-          "publishedAt": "2026-05-16T07:01:00Z",
-          "published_at": "2026-05-16T07:01:00Z",
-          "votes_count": 137,
-          "featured": true,
-          "topics": [
-            {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 3,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "谷歌轻量模型发布，面向高并发生产场景"
-          }
-        },
-        {
-          "id": "681f6751",
-          "title": "Loova推出AI视频导演代理",
-          "title_en": "Loova Agents",
-          "url": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/05/418737.html",
+          "category": "cn-media",
           "score": 8,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "Loova Agents可根据自然语言构思，自动策划并生成广告、短片和产品视频。",
-          "summary_zh": "Loova Agents可根据自然语言构思，自动策划并生成广告、短片和产品视频。",
-          "publishedAt": "2026-05-16T07:01:00Z",
-          "published_at": "2026-05-16T07:01:00Z",
-          "votes_count": 298,
-          "featured": true,
-          "topics": [
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "857",
-              "name": "Video",
-              "slug": "video"
-            }
-          ],
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了  衡宇 2026-05-17 11:37:07  来源：量子位   费用参考也很透明   听雨 发自 凹非寺 量子位 | 公众号 QbitAI  用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。    项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。    只能说，我读研的时候怎么没碰到这种好东西呢…    4个skill，跑通整套科研流程 ARS的核心架构由4个skill组成，它们各司其职，拼在一起就是一条从选题到交稿的完整链路。 我这里还做了图，大家可以看得比较直观：    △AI生成 Deep Research是一支13个Agent的研究团队。 它负责文献调研、研究问题构建、方法论设计，还能写系统性的PRISMA综述。 团队里有专门做文献溯源的Ag",
+          "summary_zh": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了  衡宇 2026-05-17 11:37:07  来源：量子位   费用参考也很透明   听雨 发自 凹非寺 量子位 | 公众号 QbitAI  用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。    项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。    只能说，我读研的时候怎么没碰到这种好东西呢…    4个skill，跑通整套科研流程 ARS的核心架构由4个skill组成，它们各司其职，拼在一起就是一条从选题到交稿的完整链路。 我这里还做了图，大家可以看得比较直观：    △AI生成 Deep Research是一支13个Agent的研究团队。 它负责文献调研、研究问题构建、方法论设计，还能写系统性的PRISMA综述。 团队里有专门做文献溯源的Ag",
+          "publishedAt": "2026-05-17T03:37:07Z",
+          "published_at": "2026-05-17T03:37:07Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": {
             "is_ai_relevant": true,
             "is_real_launch_or_update": true,
             "novelty": 2,
-            "practitioner_value": 2,
+            "practitioner_value": 3,
             "signal_over_promo": 1,
             "distribution_signal": 2,
             "confidence": 1,
-            "reason": "PH高票featured，属AI视频Agent发布"
+            "reason": "开源Agent科研流水线，GitHub热度高"
           }
+        },
+        {
+          "id": "71b92a00",
+          "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+          "title_en": null,
+          "url": "https://36kr.com/p/3812800346742274?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3812800346742274?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。  academic-research-skills 项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。  academic-research-skills 只能说，我读研的时候怎么没碰到这种好东西呢…  示意图 4个skill，跑通整套科研流程 ARS的核心架构由4个skill组成，它们各司其职，拼在一起就是一条从选题到交稿的完整链路。 我这里还做了图，大家可以看得比较直观：  △ Deep Research是一支13个Agent的研究团队。 它负责文献调研、研究问题构建、方法论设计，还能写系统性的PRISMA综述。 团队里有专门做文献溯源的Agent，会调用Semantic Scholar API验证每一篇引用的真实性。 有苏格拉底导",
+          "summary_zh": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。  academic-research-skills 项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。  academic-research-skills 只能说，我读研的时候怎么没碰到这种好东西呢…  示意图 4个skill，跑通整套科研流程 ARS的核心架构由4个skill组成，它们各司其职，拼在一起就是一条从选题到交稿的完整链路。 我这里还做了图，大家可以看得比较直观：  △ Deep Research是一支13个Agent的研究团队。 它负责文献调研、研究问题构建、方法论设计，还能写系统性的PRISMA综述。 团队里有专门做文献溯源的Agent，会调用Semantic Scholar API验证每一篇引用的真实性。 有苏格拉底导",
+          "publishedAt": "2026-05-17T04:59:08Z",
+          "published_at": "2026-05-17T04:59:08Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "aae8e22a",
+          "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/05/418814.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/05/418814.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”  衡宇 2026-05-17 11:42:11  来源：量子位   先把SFT挖的坑填了！   PRISM团队 投稿 量子位 | 公众号 QbitAI  SFT之后，直接上强化学习就够了吗？ 小心，你做的可能不是“训练”，而是“还债”。 在多模态大模型（MLLM）的后训练中，行业内长期遵循着一个看似天经地义的范式：先SFT，再RL，两步到位。 从DeepSeek到Qwen，从GRPO到DAPO，大家拼命优化RL算法的稳定性、采样效率、奖励设计……却几乎没人回头看一眼： SFT到RL之间，是不是少了点什么？ 但来自香港科技大学（广州）、南洋理工大学、清华大学等机构的最新研究Beyond SFT-to-RL(PRISM)给出了一个令人不安的发现： SFT不仅没有为RL铺好路，反而在悄悄挖坑。    被忽视的“隐形断层”：SFT到底做了什么？ 先看一组比较有意思的数据（7个主流多模态benchmark的平均准确率）：                    阶段   Qwen3-VL-4B   Qwen3-VL-8B     原始In",
+          "summary_zh": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”  衡宇 2026-05-17 11:42:11  来源：量子位   先把SFT挖的坑填了！   PRISM团队 投稿 量子位 | 公众号 QbitAI  SFT之后，直接上强化学习就够了吗？ 小心，你做的可能不是“训练”，而是“还债”。 在多模态大模型（MLLM）的后训练中，行业内长期遵循着一个看似天经地义的范式：先SFT，再RL，两步到位。 从DeepSeek到Qwen，从GRPO到DAPO，大家拼命优化RL算法的稳定性、采样效率、奖励设计……却几乎没人回头看一眼： SFT到RL之间，是不是少了点什么？ 但来自香港科技大学（广州）、南洋理工大学、清华大学等机构的最新研究Beyond SFT-to-RL(PRISM)给出了一个令人不安的发现： SFT不仅没有为RL铺好路，反而在悄悄挖坑。    被忽视的“隐形断层”：SFT到底做了什么？ 先看一组比较有意思的数据（7个主流多模态benchmark的平均准确率）：                    阶段   Qwen3-VL-4B   Qwen3-VL-8B     原始In",
+          "publishedAt": "2026-05-17T03:42:11Z",
+          "published_at": "2026-05-17T03:42:11Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
         }
       ]
     },
