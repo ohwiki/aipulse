@@ -1,28 +1,75 @@
 {
-  "generated_at": "2026-05-17T21:14:02Z",
-  "generatedAt": "2026-05-17T21:14:02Z",
+  "generated_at": "2026-05-18T12:00:03Z",
+  "generatedAt": "2026-05-18T12:00:03Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 6,
+  "count": 6,
   "items": [
     {
-      "id": "d431b11a",
-      "title": "Vivago推出视频智能体",
-      "title_en": "Vivago Video Agent",
-      "url": "https://www.producthunt.com/products/viva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "1bafd9e4",
+      "title": "Montage发布M1接口",
+      "title_en": "M1 by Montage",
+      "url": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/viva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 9,
+      "rank_score": 9.6,
+      "rankingScore": 9.6,
+      "summary": "Montage推出M1，用单次API生成可托管的交互式UI，速度更快且大幅降低Token成本。",
+      "summary_zh": "Montage推出M1，用单次API生成可托管的交互式UI，速度更快且大幅降低Token成本。",
+      "publishedAt": "2026-05-18T07:01:00Z",
+      "published_at": "2026-05-18T07:01:00Z",
+      "votes_count": 95,
+      "featured": true,
+      "topics": [
+        {
+          "id": "93",
+          "name": "User Experience",
+          "slug": "user-experience"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 3,
+        "practitioner_value": 3,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "AI Agent界面基础设施，PH高票featured，开发者价值高"
+      }
+    },
+    {
+      "id": "a2cfd91d",
+      "title": "LobeHub多智能体协作平台",
+      "title_en": "LobeHub",
+      "url": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 8,
       "rank_score": 9.0,
       "rankingScore": 9.0,
-      "summary": "Vivago发布视频智能体，用户用自然语言和素材即可生成连贯、可预览关键帧的1分钟1080P叙事视频。",
-      "summary_zh": "Vivago发布视频智能体，用户用自然语言和素材即可生成连贯、可预览关键帧的1分钟1080P叙事视频。",
-      "publishedAt": "2026-05-17T07:01:00Z",
-      "published_at": "2026-05-17T07:01:00Z",
-      "votes_count": 289,
+      "summary": "LobeHub可按目标自动组建并云端并行协调多智能体，通过现有通讯渠道回传结果。",
+      "summary_zh": "LobeHub可按目标自动组建并云端并行协调多智能体，通过现有通讯渠道回传结果。",
+      "publishedAt": "2026-05-18T07:01:00Z",
+      "published_at": "2026-05-18T07:01:00Z",
+      "votes_count": 143,
       "featured": true,
       "topics": [
         {
@@ -31,14 +78,103 @@
           "slug": "productivity"
         },
         {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票Featured，属多Agent协同新品"
+      }
+    },
+    {
+      "id": "0d19e389",
+      "title": "ReactVision Studio发布",
+      "title_en": "ReactVision Studio",
+      "url": "https://www.producthunt.com/products/reactvision-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/reactvision-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "ReactVision Studio推出可视化编辑器，用React Native开发AR/VR并一套代码发布到多端。",
+      "summary_zh": "ReactVision Studio推出可视化编辑器，用React Native开发AR/VR并一套代码发布到多端。",
+      "publishedAt": "2026-05-18T07:01:00Z",
+      "published_at": "2026-05-18T07:01:00Z",
+      "votes_count": 122,
+      "featured": true,
+      "topics": [
+        {
+          "id": "30",
+          "name": "Virtual Reality",
+          "slug": "virtual-reality"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "269",
+          "name": "Augmented Reality",
+          "slug": "augmented-reality"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票featured，AI辅助AR开发，信号较强"
+      }
+    },
+    {
+      "id": "02998b92",
+      "title": "Searchad.ai上线",
+      "title_en": "Searchad.ai",
+      "url": "https://www.producthunt.com/products/searchad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/searchad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 8.6,
+      "rankingScore": 8.6,
+      "summary": "Searchad.ai可通过聊天管理全球Apple搜索广告，默认只读，需用户明确批准才会执行投放操作。",
+      "summary_zh": "Searchad.ai可通过聊天管理全球Apple搜索广告，默认只读，需用户明确批准才会执行投放操作。",
+      "publishedAt": "2026-05-18T07:01:00Z",
+      "published_at": "2026-05-18T07:01:00Z",
+      "votes_count": 106,
+      "featured": true,
+      "topics": [
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
           "id": "164",
           "name": "Marketing",
           "slug": "marketing"
         },
         {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
+          "id": "362",
+          "name": "Apple",
+          "slug": "apple"
         }
       ],
       "score_details": {
@@ -49,26 +185,26 @@
         "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "PH高票featured，属真实AI视频Agent发布"
+        "reason": "PH高票featured，AI投放工具明确发布"
       }
     },
     {
-      "id": "2655541e",
-      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+      "id": "bdd1e3eb",
+      "title": "一只机器狗，把英伟达的算力王座拱翻了",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/05/418737.html",
+      "url": "https://www.qbitai.com/2026/05/418969.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/05/418737.html",
+      "sourceUrl": "https://www.qbitai.com/2026/05/418969.html",
       "category": "cn-media",
-      "score": 8,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了  衡宇 2026-05-17 11:37:07  来源：量子位   费用参考也很透明   听雨 发自 凹非寺 量子位 | 公众号 QbitAI  用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。    项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。    只能说，我读研的时候怎么没碰到这种好东西呢…    4个skill，跑通整套科研流程 ARS的核心架构由4个skill组成，它们各司其职，拼在一起就是一条从选题到交稿的完整链路。 我这里还做了图，大家可以看得比较直观：    △AI生成 Deep Research是一支13个Agent的研究团队。 它负责文献调研、研究问题构建、方法论设计，还能写系统性的PRISMA综述。 团队里有专门做文献溯源的Ag",
-      "summary_zh": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了  衡宇 2026-05-17 11:37:07  来源：量子位   费用参考也很透明   听雨 发自 凹非寺 量子位 | 公众号 QbitAI  用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。    项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。    只能说，我读研的时候怎么没碰到这种好东西呢…    4个skill，跑通整套科研流程 ARS的核心架构由4个skill组成，它们各司其职，拼在一起就是一条从选题到交稿的完整链路。 我这里还做了图，大家可以看得比较直观：    △AI生成 Deep Research是一支13个Agent的研究团队。 它负责文献调研、研究问题构建、方法论设计，还能写系统性的PRISMA综述。 团队里有专门做文献溯源的Ag",
-      "publishedAt": "2026-05-17T03:37:07Z",
-      "published_at": "2026-05-17T03:37:07Z",
+      "score": 6,
+      "rank_score": 6.0,
+      "rankingScore": 6.0,
+      "summary": "一只机器狗，把英伟达的算力王座拱翻了  Jay 2026-05-17 23:10:59  来源：量子位   人造劳动力，离普通家庭还有多远？   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  消费级机器人行业，可能要出现一次真正意义上的代际切换了。 过去几年，大家见过太多机器狗：能跑、能跳、能翻跟头。但问题一直没变。 它们很多时候其实看不清、听不清，也想不明白。  行业主流方案，还是200万像素摄像头、16线激光雷达、单芯片算力架构。 机器人能动，但距离真正理解世界，始终差一口气。 直到刚才，我看到一组「离谱」数据—— 6600万像素、HDR140db、223.2万点云/秒、70亿参数端侧运行280TPS。 更关键的是，它没有在英伟达的规则里卷。 而是用6颗芯片组成异构计算集群，把消费级机器人的算力效率，直接拉到行业10倍以上。 这组数据，来自蔚蓝科技刚刚发布的BabyAlpha A3消费级四⾜机器⼈。  这家已经卖出超2.5万台的消费级四足机器人、累计交互6548万次、用户使用时长超9.5亿分钟的公司，终于把过去几年积累下来的核心技术，集中兑现到了A3身上。 信号已经很明",
+      "summary_zh": "一只机器狗，把英伟达的算力王座拱翻了  Jay 2026-05-17 23:10:59  来源：量子位   人造劳动力，离普通家庭还有多远？   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  消费级机器人行业，可能要出现一次真正意义上的代际切换了。 过去几年，大家见过太多机器狗：能跑、能跳、能翻跟头。但问题一直没变。 它们很多时候其实看不清、听不清，也想不明白。  行业主流方案，还是200万像素摄像头、16线激光雷达、单芯片算力架构。 机器人能动，但距离真正理解世界，始终差一口气。 直到刚才，我看到一组「离谱」数据—— 6600万像素、HDR140db、223.2万点云/秒、70亿参数端侧运行280TPS。 更关键的是，它没有在英伟达的规则里卷。 而是用6颗芯片组成异构计算集群，把消费级机器人的算力效率，直接拉到行业10倍以上。 这组数据，来自蔚蓝科技刚刚发布的BabyAlpha A3消费级四⾜机器⼈。  这家已经卖出超2.5万台的消费级四足机器人、累计交互6548万次、用户使用时长超9.5亿分钟的公司，终于把过去几年积累下来的核心技术，集中兑现到了A3身上。 信号已经很明",
+      "publishedAt": "2026-05-17T15:10:59Z",
+      "published_at": "2026-05-17T15:10:59Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -76,186 +212,30 @@
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
         "novelty": 2,
-        "practitioner_value": 2,
-        "signal_over_promo": 1,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "开源Agent科研流水线，星标高"
-      }
-    },
-    {
-      "id": "71b92a00",
-      "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
-      "title_en": null,
-      "url": "https://36kr.com/p/3812800346742274?f=rss",
-      "source": "36氪",
-      "source_type": null,
-      "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3812800346742274?f=rss",
-      "category": "cn-media",
-      "score": 8,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。  academic-research-skills 项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。  academic-research-skills 只能说，我读研的时候怎么没碰到这种好东西呢…  示意图 4个skill，跑通整套科研流程 ARS的核心架构由4个skill组成，它们各司其职，拼在一起就是一条从选题到交稿的完整链路。 我这里还做了图，大家可以看得比较直观：  △ Deep Research是一支13个Agent的研究团队。 它负责文献调研、研究问题构建、方法论设计，还能写系统性的PRISMA综述。 团队里有专门做文献溯源的Agent，会调用Semantic Scholar API验证每一篇引用的真实性。 有苏格拉底导",
-      "summary_zh": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。  academic-research-skills 项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。  academic-research-skills 只能说，我读研的时候怎么没碰到这种好东西呢…  示意图 4个skill，跑通整套科研流程 ARS的核心架构由4个skill组成，它们各司其职，拼在一起就是一条从选题到交稿的完整链路。 我这里还做了图，大家可以看得比较直观：  △ Deep Research是一支13个Agent的研究团队。 它负责文献调研、研究问题构建、方法论设计，还能写系统性的PRISMA综述。 团队里有专门做文献溯源的Agent，会调用Semantic Scholar API验证每一篇引用的真实性。 有苏格拉底导",
-      "publishedAt": "2026-05-17T04:59:08Z",
-      "published_at": "2026-05-17T04:59:08Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 2,
-        "signal_over_promo": 1,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "开源AI科研工作流，热度高且可实操"
-      }
-    },
-    {
-      "id": "75d26dcd",
-      "title": "SUN音频直达Spotify",
-      "title_en": "SUN-to-Spotify",
-      "url": "https://www.producthunt.com/products/sun-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/sun-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "SUN可按文字需求生成播客或有声书，并直接发布到Spotify个人资料库。",
-      "summary_zh": "SUN可按文字需求生成播客或有声书，并直接发布到Spotify个人资料库。",
-      "publishedAt": "2026-05-17T07:01:00Z",
-      "published_at": "2026-05-17T07:01:00Z",
-      "votes_count": 281,
-      "featured": true,
-      "topics": [
-        {
-          "id": "204",
-          "name": "Education",
-          "slug": "education"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "471",
-          "name": "Audio",
-          "slug": "audio"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
         "practitioner_value": 1,
         "signal_over_promo": 1,
-        "distribution_signal": 2,
+        "distribution_signal": 0,
         "confidence": 1,
-        "reason": "AI音频生成直连Spotify，PH高票featured"
+        "reason": "机器人新品发布属AI，但偏媒体包装"
       }
     },
     {
-      "id": "c63fef99",
-      "title": "Fere AI推出自主交易代理",
-      "title_en": "Fere AI",
-      "url": "https://www.producthunt.com/products/fere-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/fere-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Fere AI将市场信号自动转成加密货币和Polymarket交易，并可全天候自主执行与风控。",
-      "summary_zh": "Fere AI将市场信号自动转成加密货币和Polymarket交易，并可全天候自主执行与风控。",
-      "publishedAt": "2026-05-17T07:01:00Z",
-      "published_at": "2026-05-17T07:01:00Z",
-      "votes_count": 239,
-      "featured": true,
-      "topics": [
-        {
-          "id": "94",
-          "name": "Fintech",
-          "slug": "fintech"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "501",
-          "name": "Web3",
-          "slug": "web3"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 1,
-        "signal_over_promo": 1,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "PH高票featured，AI交易Agent首发"
-      }
-    },
-    {
-      "id": "7e186cc6",
-      "title": "清华阿里发布ViT³架构",
-      "title_en": "CVPR 2026 Oral | 清华+阿里发布ViT³：解锁「视觉TTT」新架构，突破Transformer复杂度瓶颈",
+      "id": "6fb8ef22",
+      "title": "ICML 2026：少量思考词也能深度推理",
+      "title_en": "ICML 2026 | 只用少量Thinking Tokens，大模型依然能深度思考",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
       "sourceName": "机器之心",
       "sourceUrl": "https://www.jiqizhixin.com/articles",
       "category": "cn-media",
-      "score": 8,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "清华与阿里发布ViT³视觉TTT架构，突破Transformer复杂度瓶颈并入选CVPR 2026 Oral。",
-      "summary_zh": "清华与阿里发布ViT³视觉TTT架构，突破Transformer复杂度瓶颈并入选CVPR 2026 Oral。",
-      "publishedAt": "2026-05-17T21:11:15Z",
-      "published_at": "2026-05-17T21:11:15Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 3,
-        "practitioner_value": 2,
-        "signal_over_promo": 1,
-        "distribution_signal": 0,
-        "confidence": 1,
-        "reason": "CVPR Oral论文，架构创新但摘要噪声大"
-      }
-    },
-    {
-      "id": "aae8e22a",
-      "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/05/418814.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/05/418814.html",
-      "category": "cn-media",
-      "score": 7,
-      "rank_score": 7.0,
-      "rankingScore": 7.0,
-      "summary": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”  衡宇 2026-05-17 11:42:11  来源：量子位   先把SFT挖的坑填了！   PRISM团队 投稿 量子位 | 公众号 QbitAI  SFT之后，直接上强化学习就够了吗？ 小心，你做的可能不是“训练”，而是“还债”。 在多模态大模型（MLLM）的后训练中，行业内长期遵循着一个看似天经地义的范式：先SFT，再RL，两步到位。 从DeepSeek到Qwen，从GRPO到DAPO，大家拼命优化RL算法的稳定性、采样效率、奖励设计……却几乎没人回头看一眼： SFT到RL之间，是不是少了点什么？ 但来自香港科技大学（广州）、南洋理工大学、清华大学等机构的最新研究Beyond SFT-to-RL(PRISM)给出了一个令人不安的发现： SFT不仅没有为RL铺好路，反而在悄悄挖坑。    被忽视的“隐形断层”：SFT到底做了什么？ 先看一组比较有意思的数据（7个主流多模态benchmark的平均准确率）：                    阶段   Qwen3-VL-4B   Qwen3-VL-8B     原始In",
-      "summary_zh": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”  衡宇 2026-05-17 11:42:11  来源：量子位   先把SFT挖的坑填了！   PRISM团队 投稿 量子位 | 公众号 QbitAI  SFT之后，直接上强化学习就够了吗？ 小心，你做的可能不是“训练”，而是“还债”。 在多模态大模型（MLLM）的后训练中，行业内长期遵循着一个看似天经地义的范式：先SFT，再RL，两步到位。 从DeepSeek到Qwen，从GRPO到DAPO，大家拼命优化RL算法的稳定性、采样效率、奖励设计……却几乎没人回头看一眼： SFT到RL之间，是不是少了点什么？ 但来自香港科技大学（广州）、南洋理工大学、清华大学等机构的最新研究Beyond SFT-to-RL(PRISM)给出了一个令人不安的发现： SFT不仅没有为RL铺好路，反而在悄悄挖坑。    被忽视的“隐形断层”：SFT到底做了什么？ 先看一组比较有意思的数据（7个主流多模态benchmark的平均准确率）：                    阶段   Qwen3-VL-4B   Qwen3-VL-8B     原始In",
-      "publishedAt": "2026-05-17T03:42:11Z",
-      "published_at": "2026-05-17T03:42:11Z",
+      "score": 6,
+      "rank_score": 6.0,
+      "rankingScore": 6.0,
+      "summary": "ICML 2026指出，大模型仅需少量Thinking Tokens，仍能保持深度思考与推理能力。",
+      "summary_zh": "ICML 2026指出，大模型仅需少量Thinking Tokens，仍能保持深度思考与推理能力。",
+      "publishedAt": "2026-05-18T11:58:12Z",
+      "published_at": "2026-05-18T11:58:12Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -266,8 +246,8 @@
         "practitioner_value": 2,
         "signal_over_promo": 1,
         "distribution_signal": 0,
-        "confidence": 1,
-        "reason": "多模态后训练新研究，对训练链路有启发"
+        "confidence": 0,
+        "reason": "属AI论文报道，但摘要混杂，信息不完整"
       }
     }
   ]

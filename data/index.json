@@ -1,34 +1,81 @@
 {
-  "generated_at": "2026-05-17T21:14:02Z",
-  "generatedAt": "2026-05-17T21:14:02Z",
+  "generated_at": "2026-05-18T12:00:03Z",
+  "generatedAt": "2026-05-18T12:00:03Z",
   "count": 6,
   "total": 6,
   "entries": [
     {
       "date": "2026-05-18",
-      "generated_at": "2026-05-17T21:14:02Z",
-      "generatedAt": "2026-05-17T21:14:02Z",
-      "total": 7,
+      "generated_at": "2026-05-18T12:00:03Z",
+      "generatedAt": "2026-05-18T12:00:03Z",
+      "total": 6,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "d431b11a",
-          "title": "Vivago推出视频智能体",
-          "title_en": "Vivago Video Agent",
-          "url": "https://www.producthunt.com/products/viva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "1bafd9e4",
+          "title": "Montage发布M1接口",
+          "title_en": "M1 by Montage",
+          "url": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/viva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 9.6,
+          "rankingScore": 9.6,
+          "summary": "Montage推出M1，用单次API生成可托管的交互式UI，速度更快且大幅降低Token成本。",
+          "summary_zh": "Montage推出M1，用单次API生成可托管的交互式UI，速度更快且大幅降低Token成本。",
+          "publishedAt": "2026-05-18T07:01:00Z",
+          "published_at": "2026-05-18T07:01:00Z",
+          "votes_count": 95,
+          "featured": true,
+          "topics": [
+            {
+              "id": "93",
+              "name": "User Experience",
+              "slug": "user-experience"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 3,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "AI Agent界面基础设施，PH高票featured，开发者价值高"
+          }
+        },
+        {
+          "id": "a2cfd91d",
+          "title": "LobeHub多智能体协作平台",
+          "title_en": "LobeHub",
+          "url": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 8,
           "rank_score": 9,
           "rankingScore": 9,
-          "summary": "Vivago发布视频智能体，用户用自然语言和素材即可生成连贯、可预览关键帧的1分钟1080P叙事视频。",
-          "summary_zh": "Vivago发布视频智能体，用户用自然语言和素材即可生成连贯、可预览关键帧的1分钟1080P叙事视频。",
-          "publishedAt": "2026-05-17T07:01:00Z",
-          "published_at": "2026-05-17T07:01:00Z",
-          "votes_count": 289,
+          "summary": "LobeHub可按目标自动组建并云端并行协调多智能体，通过现有通讯渠道回传结果。",
+          "summary_zh": "LobeHub可按目标自动组建并云端并行协调多智能体，通过现有通讯渠道回传结果。",
+          "publishedAt": "2026-05-18T07:01:00Z",
+          "published_at": "2026-05-18T07:01:00Z",
+          "votes_count": 143,
           "featured": true,
           "topics": [
             {
@@ -37,11 +84,6 @@
               "slug": "productivity"
             },
             {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
@@ -55,85 +97,54 @@
             "signal_over_promo": 1,
             "distribution_signal": 2,
             "confidence": 1,
-            "reason": "PH高票featured，属真实AI视频Agent发布"
+            "reason": "PH高票Featured，属多Agent协同新品"
           }
         },
         {
-          "id": "7e186cc6",
-          "title": "清华阿里发布ViT³架构",
-          "title_en": "CVPR 2026 Oral | 清华+阿里发布ViT³：解锁「视觉TTT」新架构，突破Transformer复杂度瓶颈",
-          "url": "https://www.jiqizhixin.com/articles",
-          "source": "机器之心",
-          "source_type": null,
-          "sourceName": "机器之心",
-          "sourceUrl": "https://www.jiqizhixin.com/articles",
-          "category": "cn-media",
-          "score": 8,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "清华与阿里发布ViT³视觉TTT架构，突破Transformer复杂度瓶颈并入选CVPR 2026 Oral。",
-          "summary_zh": "清华与阿里发布ViT³视觉TTT架构，突破Transformer复杂度瓶颈并入选CVPR 2026 Oral。",
-          "publishedAt": "2026-05-17T21:11:15Z",
-          "published_at": "2026-05-17T21:11:15Z",
-          "votes_count": null,
-          "featured": null,
-          "topics": [],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 3,
-            "practitioner_value": 2,
-            "signal_over_promo": 1,
-            "distribution_signal": 0,
-            "confidence": 1,
-            "reason": "CVPR Oral论文，架构创新但摘要噪声大"
-          }
-        },
-        {
-          "id": "75d26dcd",
-          "title": "SUN音频直达Spotify",
-          "title_en": "SUN-to-Spotify",
-          "url": "https://www.producthunt.com/products/sun-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "0d19e389",
+          "title": "ReactVision Studio发布",
+          "title_en": "ReactVision Studio",
+          "url": "https://www.producthunt.com/products/reactvision-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/sun-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/reactvision-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "SUN可按文字需求生成播客或有声书，并直接发布到Spotify个人资料库。",
-          "summary_zh": "SUN可按文字需求生成播客或有声书，并直接发布到Spotify个人资料库。",
-          "publishedAt": "2026-05-17T07:01:00Z",
-          "published_at": "2026-05-17T07:01:00Z",
-          "votes_count": 281,
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "ReactVision Studio推出可视化编辑器，用React Native开发AR/VR并一套代码发布到多端。",
+          "summary_zh": "ReactVision Studio推出可视化编辑器，用React Native开发AR/VR并一套代码发布到多端。",
+          "publishedAt": "2026-05-18T07:01:00Z",
+          "published_at": "2026-05-18T07:01:00Z",
+          "votes_count": 122,
           "featured": true,
           "topics": [
             {
-              "id": "204",
-              "name": "Education",
-              "slug": "education"
+              "id": "30",
+              "name": "Virtual Reality",
+              "slug": "virtual-reality"
             },
             {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
             {
-              "id": "471",
-              "name": "Audio",
-              "slug": "audio"
+              "id": "269",
+              "name": "Augmented Reality",
+              "slug": "augmented-reality"
             }
           ],
           "score_details": {
             "is_ai_relevant": true,
             "is_real_launch_or_update": true,
             "novelty": 2,
-            "practitioner_value": 1,
+            "practitioner_value": 2,
             "signal_over_promo": 1,
             "distribution_signal": 2,
             "confidence": 1,
-            "reason": "AI音频生成直连Spotify，PH高票featured"
+            "reason": "PH高票featured，AI辅助AR开发，信号较强"
           }
         }
       ]
