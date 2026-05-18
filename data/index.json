@@ -1,9 +1,154 @@
 {
-  "generated_at": "2026-05-18T12:00:03Z",
-  "generatedAt": "2026-05-18T12:00:03Z",
-  "count": 6,
-  "total": 6,
+  "generated_at": "2026-05-18T21:46:38Z",
+  "generatedAt": "2026-05-18T21:46:38Z",
+  "count": 7,
+  "total": 7,
   "entries": [
+    {
+      "date": "2026-05-19",
+      "generated_at": "2026-05-18T21:46:38Z",
+      "generatedAt": "2026-05-18T21:46:38Z",
+      "total": 6,
+      "sectionCount": 3,
+      "highlights": [
+        {
+          "id": "a2cfd91d",
+          "title": "LobeHub发布多智能体协作平台",
+          "title_en": "LobeHub",
+          "url": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "LobeHub推出多智能体运营平台，可自动组建、协调并并行执行AI代理任务。",
+          "summary_zh": "LobeHub推出多智能体运营平台，可自动组建、协调并并行执行AI代理任务。",
+          "publishedAt": "2026-05-18T07:01:00Z",
+          "published_at": "2026-05-18T07:01:00Z",
+          "votes_count": 315,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票精选，多Agent协作产品首发信号强"
+          }
+        },
+        {
+          "id": "9e15fa19",
+          "title": "Shadow发布Mac端AI界面",
+          "title_en": "Shadow",
+          "url": "https://www.producthunt.com/products/shadow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/shadow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Shadow推出Mac端AI助手，可看屏幕、听语音并自动执行自定义技能与会议记录。",
+          "summary_zh": "Shadow推出Mac端AI助手，可看屏幕、听语音并自动执行自定义技能与会议记录。",
+          "publishedAt": "2026-05-18T07:01:00Z",
+          "published_at": "2026-05-18T07:01:00Z",
+          "votes_count": 160,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "90",
+              "name": "Writing",
+              "slug": "writing"
+            },
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票精选，AI桌面代理形态明确"
+          }
+        },
+        {
+          "id": "1bafd9e4",
+          "title": "Montage发布M1界面生成API",
+          "title_en": "M1 by Montage",
+          "url": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Montage推出M1，用一次API调用生成并托管带状态的交互式UI，速度更快且大幅降低Token成本。",
+          "summary_zh": "Montage推出M1，用一次API调用生成并托管带状态的交互式UI，速度更快且大幅降低Token成本。",
+          "publishedAt": "2026-05-18T07:01:00Z",
+          "published_at": "2026-05-18T07:01:00Z",
+          "votes_count": 122,
+          "featured": true,
+          "topics": [
+            {
+              "id": "93",
+              "name": "User Experience",
+              "slug": "user-experience"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "Agent UI基础设施首发，开发者价值高"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-05-18",
       "generated_at": "2026-05-18T12:00:03Z",

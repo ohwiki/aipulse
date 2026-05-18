@@ -1,0 +1,519 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-18T21:46:38Z",
+  "generatedAt": "2026-05-18T21:46:38Z",
+  "total": 6,
+  "count": 6,
+  "sections": [
+    {
+      "category": "ai-models",
+      "label": "模型发布/更新",
+      "items": [
+        {
+          "id": "6f1209c6",
+          "title": "OpenAI联手戴尔推企业私有Codex",
+          "title_en": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+          "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+          "source": "OpenAI Blog",
+          "source_type": null,
+          "sourceName": "OpenAI Blog",
+          "sourceUrl": "https://openai.com/index/dell-codex-enterprise-partnership",
+          "category": "ai-models",
+          "score": 8,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "OpenAI与戴尔合作，将Codex引入混合云和本地环境，帮助企业安全部署AI编程代理。",
+          "summary_zh": "OpenAI与戴尔合作，将Codex引入混合云和本地环境，帮助企业安全部署AI编程代理。",
+          "publishedAt": "2026-05-18T10:00:00Z",
+          "published_at": "2026-05-18T10:00:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 1,
+            "confidence": 1,
+            "reason": "OpenAI×Dell推进企业级本地Codex部署"
+          }
+        }
+      ]
+    },
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "a2cfd91d",
+          "title": "LobeHub发布多智能体协作平台",
+          "title_en": "LobeHub",
+          "url": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "LobeHub推出多智能体运营平台，可自动组建、协调并并行执行AI代理任务。",
+          "summary_zh": "LobeHub推出多智能体运营平台，可自动组建、协调并并行执行AI代理任务。",
+          "publishedAt": "2026-05-18T07:01:00Z",
+          "published_at": "2026-05-18T07:01:00Z",
+          "votes_count": 315,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票精选，多Agent协作产品首发信号强"
+          }
+        },
+        {
+          "id": "9e15fa19",
+          "title": "Shadow发布Mac端AI界面",
+          "title_en": "Shadow",
+          "url": "https://www.producthunt.com/products/shadow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/shadow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "Shadow推出Mac端AI助手，可看屏幕、听语音并自动执行自定义技能与会议记录。",
+          "summary_zh": "Shadow推出Mac端AI助手，可看屏幕、听语音并自动执行自定义技能与会议记录。",
+          "publishedAt": "2026-05-18T07:01:00Z",
+          "published_at": "2026-05-18T07:01:00Z",
+          "votes_count": 160,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "90",
+              "name": "Writing",
+              "slug": "writing"
+            },
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票精选，AI桌面代理形态明确"
+          }
+        },
+        {
+          "id": "1bafd9e4",
+          "title": "Montage发布M1界面生成API",
+          "title_en": "M1 by Montage",
+          "url": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "Montage推出M1，用一次API调用生成并托管带状态的交互式UI，速度更快且大幅降低Token成本。",
+          "summary_zh": "Montage推出M1，用一次API调用生成并托管带状态的交互式UI，速度更快且大幅降低Token成本。",
+          "publishedAt": "2026-05-18T07:01:00Z",
+          "published_at": "2026-05-18T07:01:00Z",
+          "votes_count": 122,
+          "featured": true,
+          "topics": [
+            {
+              "id": "93",
+              "name": "User Experience",
+              "slug": "user-experience"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "Agent UI基础设施首发，开发者价值高"
+          }
+        },
+        {
+          "id": "02998b92",
+          "title": "Searchad.ai上线",
+          "title_en": "Searchad.ai",
+          "url": "https://www.producthunt.com/products/searchad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/searchad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Searchad.ai让用户通过聊天式AI在全球投放和管理苹果搜索广告，操作需经明确授权。",
+          "summary_zh": "Searchad.ai让用户通过聊天式AI在全球投放和管理苹果搜索广告，操作需经明确授权。",
+          "publishedAt": "2026-05-18T07:01:00Z",
+          "published_at": "2026-05-18T07:01:00Z",
+          "votes_count": 131,
+          "featured": true,
+          "topics": [
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "362",
+              "name": "Apple",
+              "slug": "apple"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 1,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，属AI营销工具首发"
+          }
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "6fb8ef22",
+          "title": "少量思考令牌也能深度推理",
+          "title_en": "ICML 2026 | 只用少量Thinking Tokens，大模型依然能深度思考",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 6,
+          "rank_score": 6.0,
+          "rankingScore": 6.0,
+          "summary": "ICML 2026一项研究称，大模型只需少量Thinking Tokens，仍可进行深度思考。",
+          "summary_zh": "ICML 2026一项研究称，大模型只需少量Thinking Tokens，仍可进行深度思考。",
+          "publishedAt": "2026-05-18T21:42:57Z",
+          "published_at": "2026-05-18T21:42:57Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 0,
+            "confidence": 0,
+            "reason": "推理效率方向论文，相关但信息源较杂"
+          }
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "6f1209c6",
+      "title": "OpenAI联手戴尔推企业私有Codex",
+      "title_en": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "source": "OpenAI Blog",
+      "source_type": null,
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "category": "ai-models",
+      "score": 8,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "OpenAI与戴尔合作，将Codex引入混合云和本地环境，帮助企业安全部署AI编程代理。",
+      "summary_zh": "OpenAI与戴尔合作，将Codex引入混合云和本地环境，帮助企业安全部署AI编程代理。",
+      "publishedAt": "2026-05-18T10:00:00Z",
+      "published_at": "2026-05-18T10:00:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 1,
+        "confidence": 1,
+        "reason": "OpenAI×Dell推进企业级本地Codex部署"
+      }
+    },
+    {
+      "id": "a2cfd91d",
+      "title": "LobeHub发布多智能体协作平台",
+      "title_en": "LobeHub",
+      "url": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "LobeHub推出多智能体运营平台，可自动组建、协调并并行执行AI代理任务。",
+      "summary_zh": "LobeHub推出多智能体运营平台，可自动组建、协调并并行执行AI代理任务。",
+      "publishedAt": "2026-05-18T07:01:00Z",
+      "published_at": "2026-05-18T07:01:00Z",
+      "votes_count": 315,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票精选，多Agent协作产品首发信号强"
+      }
+    },
+    {
+      "id": "9e15fa19",
+      "title": "Shadow发布Mac端AI界面",
+      "title_en": "Shadow",
+      "url": "https://www.producthunt.com/products/shadow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/shadow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Shadow推出Mac端AI助手，可看屏幕、听语音并自动执行自定义技能与会议记录。",
+      "summary_zh": "Shadow推出Mac端AI助手，可看屏幕、听语音并自动执行自定义技能与会议记录。",
+      "publishedAt": "2026-05-18T07:01:00Z",
+      "published_at": "2026-05-18T07:01:00Z",
+      "votes_count": 160,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "90",
+          "name": "Writing",
+          "slug": "writing"
+        },
+        {
+          "id": "252",
+          "name": "Meetings",
+          "slug": "meetings"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票精选，AI桌面代理形态明确"
+      }
+    },
+    {
+      "id": "1bafd9e4",
+      "title": "Montage发布M1界面生成API",
+      "title_en": "M1 by Montage",
+      "url": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Montage推出M1，用一次API调用生成并托管带状态的交互式UI，速度更快且大幅降低Token成本。",
+      "summary_zh": "Montage推出M1，用一次API调用生成并托管带状态的交互式UI，速度更快且大幅降低Token成本。",
+      "publishedAt": "2026-05-18T07:01:00Z",
+      "published_at": "2026-05-18T07:01:00Z",
+      "votes_count": 122,
+      "featured": true,
+      "topics": [
+        {
+          "id": "93",
+          "name": "User Experience",
+          "slug": "user-experience"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 3,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "Agent UI基础设施首发，开发者价值高"
+      }
+    },
+    {
+      "id": "02998b92",
+      "title": "Searchad.ai上线",
+      "title_en": "Searchad.ai",
+      "url": "https://www.producthunt.com/products/searchad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/searchad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Searchad.ai让用户通过聊天式AI在全球投放和管理苹果搜索广告，操作需经明确授权。",
+      "summary_zh": "Searchad.ai让用户通过聊天式AI在全球投放和管理苹果搜索广告，操作需经明确授权。",
+      "publishedAt": "2026-05-18T07:01:00Z",
+      "published_at": "2026-05-18T07:01:00Z",
+      "votes_count": 131,
+      "featured": true,
+      "topics": [
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "362",
+          "name": "Apple",
+          "slug": "apple"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 1,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票featured，属AI营销工具首发"
+      }
+    },
+    {
+      "id": "6fb8ef22",
+      "title": "少量思考令牌也能深度推理",
+      "title_en": "ICML 2026 | 只用少量Thinking Tokens，大模型依然能深度思考",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 6,
+      "rank_score": 6.0,
+      "rankingScore": 6.0,
+      "summary": "ICML 2026一项研究称，大模型只需少量Thinking Tokens，仍可进行深度思考。",
+      "summary_zh": "ICML 2026一项研究称，大模型只需少量Thinking Tokens，仍可进行深度思考。",
+      "publishedAt": "2026-05-18T21:42:57Z",
+      "published_at": "2026-05-18T21:42:57Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 0,
+        "confidence": 0,
+        "reason": "推理效率方向论文，相关但信息源较杂"
+      }
+    }
+  ]
+}

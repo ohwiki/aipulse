@@ -1,60 +1,13 @@
 {
-  "generated_at": "2026-05-18T12:00:03Z",
-  "generatedAt": "2026-05-18T12:00:03Z",
+  "generated_at": "2026-05-18T21:46:38Z",
+  "generatedAt": "2026-05-18T21:46:38Z",
   "days": 7,
   "total": 6,
   "count": 6,
   "items": [
     {
-      "id": "1bafd9e4",
-      "title": "Montage发布M1接口",
-      "title_en": "M1 by Montage",
-      "url": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 9,
-      "rank_score": 9.6,
-      "rankingScore": 9.6,
-      "summary": "Montage推出M1，用单次API生成可托管的交互式UI，速度更快且大幅降低Token成本。",
-      "summary_zh": "Montage推出M1，用单次API生成可托管的交互式UI，速度更快且大幅降低Token成本。",
-      "publishedAt": "2026-05-18T07:01:00Z",
-      "published_at": "2026-05-18T07:01:00Z",
-      "votes_count": 95,
-      "featured": true,
-      "topics": [
-        {
-          "id": "93",
-          "name": "User Experience",
-          "slug": "user-experience"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 3,
-        "practitioner_value": 3,
-        "signal_over_promo": 1,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "AI Agent界面基础设施，PH高票featured，开发者价值高"
-      }
-    },
-    {
       "id": "a2cfd91d",
-      "title": "LobeHub多智能体协作平台",
+      "title": "LobeHub发布多智能体协作平台",
       "title_en": "LobeHub",
       "url": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
@@ -65,11 +18,11 @@
       "score": 8,
       "rank_score": 9.0,
       "rankingScore": 9.0,
-      "summary": "LobeHub可按目标自动组建并云端并行协调多智能体，通过现有通讯渠道回传结果。",
-      "summary_zh": "LobeHub可按目标自动组建并云端并行协调多智能体，通过现有通讯渠道回传结果。",
+      "summary": "LobeHub推出多智能体运营平台，可自动组建、协调并并行执行AI代理任务。",
+      "summary_zh": "LobeHub推出多智能体运营平台，可自动组建、协调并并行执行AI代理任务。",
       "publishedAt": "2026-05-18T07:01:00Z",
       "published_at": "2026-05-18T07:01:00Z",
-      "votes_count": 143,
+      "votes_count": 315,
       "featured": true,
       "topics": [
         {
@@ -91,43 +44,43 @@
         "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "PH高票Featured，属多Agent协同新品"
+        "reason": "PH高票精选，多Agent协作产品首发信号强"
       }
     },
     {
-      "id": "0d19e389",
-      "title": "ReactVision Studio发布",
-      "title_en": "ReactVision Studio",
-      "url": "https://www.producthunt.com/products/reactvision-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "9e15fa19",
+      "title": "Shadow发布Mac端AI界面",
+      "title_en": "Shadow",
+      "url": "https://www.producthunt.com/products/shadow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/reactvision-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/shadow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 8,
       "rank_score": 9.0,
       "rankingScore": 9.0,
-      "summary": "ReactVision Studio推出可视化编辑器，用React Native开发AR/VR并一套代码发布到多端。",
-      "summary_zh": "ReactVision Studio推出可视化编辑器，用React Native开发AR/VR并一套代码发布到多端。",
+      "summary": "Shadow推出Mac端AI助手，可看屏幕、听语音并自动执行自定义技能与会议记录。",
+      "summary_zh": "Shadow推出Mac端AI助手，可看屏幕、听语音并自动执行自定义技能与会议记录。",
       "publishedAt": "2026-05-18T07:01:00Z",
       "published_at": "2026-05-18T07:01:00Z",
-      "votes_count": 122,
+      "votes_count": 160,
       "featured": true,
       "topics": [
         {
-          "id": "30",
-          "name": "Virtual Reality",
-          "slug": "virtual-reality"
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
         },
         {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
+          "id": "90",
+          "name": "Writing",
+          "slug": "writing"
         },
         {
-          "id": "269",
-          "name": "Augmented Reality",
-          "slug": "augmented-reality"
+          "id": "252",
+          "name": "Meetings",
+          "slug": "meetings"
         }
       ],
       "score_details": {
@@ -138,7 +91,54 @@
         "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "PH高票featured，AI辅助AR开发，信号较强"
+        "reason": "PH高票精选，AI桌面代理形态明确"
+      }
+    },
+    {
+      "id": "1bafd9e4",
+      "title": "Montage发布M1界面生成API",
+      "title_en": "M1 by Montage",
+      "url": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Montage推出M1，用一次API调用生成并托管带状态的交互式UI，速度更快且大幅降低Token成本。",
+      "summary_zh": "Montage推出M1，用一次API调用生成并托管带状态的交互式UI，速度更快且大幅降低Token成本。",
+      "publishedAt": "2026-05-18T07:01:00Z",
+      "published_at": "2026-05-18T07:01:00Z",
+      "votes_count": 122,
+      "featured": true,
+      "topics": [
+        {
+          "id": "93",
+          "name": "User Experience",
+          "slug": "user-experience"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 3,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "Agent UI基础设施首发，开发者价值高"
       }
     },
     {
@@ -151,14 +151,14 @@
       "sourceName": "Product Hunt AI",
       "sourceUrl": "https://www.producthunt.com/products/searchad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
-      "score": 8,
-      "rank_score": 8.6,
-      "rankingScore": 8.6,
-      "summary": "Searchad.ai可通过聊天管理全球Apple搜索广告，默认只读，需用户明确批准才会执行投放操作。",
-      "summary_zh": "Searchad.ai可通过聊天管理全球Apple搜索广告，默认只读，需用户明确批准才会执行投放操作。",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Searchad.ai让用户通过聊天式AI在全球投放和管理苹果搜索广告，操作需经明确授权。",
+      "summary_zh": "Searchad.ai让用户通过聊天式AI在全球投放和管理苹果搜索广告，操作需经明确授权。",
       "publishedAt": "2026-05-18T07:01:00Z",
       "published_at": "2026-05-18T07:01:00Z",
-      "votes_count": 106,
+      "votes_count": 131,
       "featured": true,
       "topics": [
         {
@@ -181,30 +181,30 @@
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
         "novelty": 2,
-        "practitioner_value": 2,
+        "practitioner_value": 1,
         "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "PH高票featured，AI投放工具明确发布"
+        "reason": "PH高票featured，属AI营销工具首发"
       }
     },
     {
-      "id": "bdd1e3eb",
-      "title": "一只机器狗，把英伟达的算力王座拱翻了",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/05/418969.html",
-      "source": "量子位",
+      "id": "6f1209c6",
+      "title": "OpenAI联手戴尔推企业私有Codex",
+      "title_en": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "source": "OpenAI Blog",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/05/418969.html",
-      "category": "cn-media",
-      "score": 6,
-      "rank_score": 6.0,
-      "rankingScore": 6.0,
-      "summary": "一只机器狗，把英伟达的算力王座拱翻了  Jay 2026-05-17 23:10:59  来源：量子位   人造劳动力，离普通家庭还有多远？   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  消费级机器人行业，可能要出现一次真正意义上的代际切换了。 过去几年，大家见过太多机器狗：能跑、能跳、能翻跟头。但问题一直没变。 它们很多时候其实看不清、听不清，也想不明白。  行业主流方案，还是200万像素摄像头、16线激光雷达、单芯片算力架构。 机器人能动，但距离真正理解世界，始终差一口气。 直到刚才，我看到一组「离谱」数据—— 6600万像素、HDR140db、223.2万点云/秒、70亿参数端侧运行280TPS。 更关键的是，它没有在英伟达的规则里卷。 而是用6颗芯片组成异构计算集群，把消费级机器人的算力效率，直接拉到行业10倍以上。 这组数据，来自蔚蓝科技刚刚发布的BabyAlpha A3消费级四⾜机器⼈。  这家已经卖出超2.5万台的消费级四足机器人、累计交互6548万次、用户使用时长超9.5亿分钟的公司，终于把过去几年积累下来的核心技术，集中兑现到了A3身上。 信号已经很明",
-      "summary_zh": "一只机器狗，把英伟达的算力王座拱翻了  Jay 2026-05-17 23:10:59  来源：量子位   人造劳动力，离普通家庭还有多远？   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  消费级机器人行业，可能要出现一次真正意义上的代际切换了。 过去几年，大家见过太多机器狗：能跑、能跳、能翻跟头。但问题一直没变。 它们很多时候其实看不清、听不清，也想不明白。  行业主流方案，还是200万像素摄像头、16线激光雷达、单芯片算力架构。 机器人能动，但距离真正理解世界，始终差一口气。 直到刚才，我看到一组「离谱」数据—— 6600万像素、HDR140db、223.2万点云/秒、70亿参数端侧运行280TPS。 更关键的是，它没有在英伟达的规则里卷。 而是用6颗芯片组成异构计算集群，把消费级机器人的算力效率，直接拉到行业10倍以上。 这组数据，来自蔚蓝科技刚刚发布的BabyAlpha A3消费级四⾜机器⼈。  这家已经卖出超2.5万台的消费级四足机器人、累计交互6548万次、用户使用时长超9.5亿分钟的公司，终于把过去几年积累下来的核心技术，集中兑现到了A3身上。 信号已经很明",
-      "publishedAt": "2026-05-17T15:10:59Z",
-      "published_at": "2026-05-17T15:10:59Z",
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "category": "ai-models",
+      "score": 8,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "OpenAI与戴尔合作，将Codex引入混合云和本地环境，帮助企业安全部署AI编程代理。",
+      "summary_zh": "OpenAI与戴尔合作，将Codex引入混合云和本地环境，帮助企业安全部署AI编程代理。",
+      "publishedAt": "2026-05-18T10:00:00Z",
+      "published_at": "2026-05-18T10:00:00Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -212,16 +212,16 @@
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
         "novelty": 2,
-        "practitioner_value": 1,
+        "practitioner_value": 2,
         "signal_over_promo": 1,
-        "distribution_signal": 0,
+        "distribution_signal": 1,
         "confidence": 1,
-        "reason": "机器人新品发布属AI，但偏媒体包装"
+        "reason": "OpenAI×Dell推进企业级本地Codex部署"
       }
     },
     {
       "id": "6fb8ef22",
-      "title": "ICML 2026：少量思考词也能深度推理",
+      "title": "少量思考令牌也能深度推理",
       "title_en": "ICML 2026 | 只用少量Thinking Tokens，大模型依然能深度思考",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
@@ -232,10 +232,10 @@
       "score": 6,
       "rank_score": 6.0,
       "rankingScore": 6.0,
-      "summary": "ICML 2026指出，大模型仅需少量Thinking Tokens，仍能保持深度思考与推理能力。",
-      "summary_zh": "ICML 2026指出，大模型仅需少量Thinking Tokens，仍能保持深度思考与推理能力。",
-      "publishedAt": "2026-05-18T11:58:12Z",
-      "published_at": "2026-05-18T11:58:12Z",
+      "summary": "ICML 2026一项研究称，大模型只需少量Thinking Tokens，仍可进行深度思考。",
+      "summary_zh": "ICML 2026一项研究称，大模型只需少量Thinking Tokens，仍可进行深度思考。",
+      "publishedAt": "2026-05-18T21:42:57Z",
+      "published_at": "2026-05-18T21:42:57Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -247,7 +247,7 @@
         "signal_over_promo": 1,
         "distribution_signal": 0,
         "confidence": 0,
-        "reason": "属AI论文报道，但摘要混杂，信息不完整"
+        "reason": "推理效率方向论文，相关但信息源较杂"
       }
     }
   ]
