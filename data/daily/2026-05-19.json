@@ -1,69 +1,32 @@
 {
   "date": "2026-05-19",
-  "generated_at": "2026-05-18T21:46:38Z",
-  "generatedAt": "2026-05-18T21:46:38Z",
-  "total": 6,
-  "count": 6,
+  "generated_at": "2026-05-19T11:39:52Z",
+  "generatedAt": "2026-05-19T11:39:52Z",
+  "total": 8,
+  "count": 8,
   "sections": [
-    {
-      "category": "ai-models",
-      "label": "模型发布/更新",
-      "items": [
-        {
-          "id": "6f1209c6",
-          "title": "OpenAI联手戴尔推企业私有Codex",
-          "title_en": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-          "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-          "source": "OpenAI Blog",
-          "source_type": null,
-          "sourceName": "OpenAI Blog",
-          "sourceUrl": "https://openai.com/index/dell-codex-enterprise-partnership",
-          "category": "ai-models",
-          "score": 8,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "OpenAI与戴尔合作，将Codex引入混合云和本地环境，帮助企业安全部署AI编程代理。",
-          "summary_zh": "OpenAI与戴尔合作，将Codex引入混合云和本地环境，帮助企业安全部署AI编程代理。",
-          "publishedAt": "2026-05-18T10:00:00Z",
-          "published_at": "2026-05-18T10:00:00Z",
-          "votes_count": null,
-          "featured": null,
-          "topics": [],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 2,
-            "signal_over_promo": 1,
-            "distribution_signal": 1,
-            "confidence": 1,
-            "reason": "OpenAI×Dell推进企业级本地Codex部署"
-          }
-        }
-      ]
-    },
     {
       "category": "ai-products",
       "label": "产品发布/更新",
       "items": [
         {
-          "id": "a2cfd91d",
-          "title": "LobeHub发布多智能体协作平台",
-          "title_en": "LobeHub",
-          "url": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "6298c54d",
+          "title": "PollyReach让AI代打电话",
+          "title_en": "PollyReach",
+          "url": "https://www.producthunt.com/products/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 8,
           "rank_score": 9.0,
           "rankingScore": 9.0,
-          "summary": "LobeHub推出多智能体运营平台，可自动组建、协调并并行执行AI代理任务。",
-          "summary_zh": "LobeHub推出多智能体运营平台，可自动组建、协调并并行执行AI代理任务。",
-          "publishedAt": "2026-05-18T07:01:00Z",
-          "published_at": "2026-05-18T07:01:00Z",
-          "votes_count": 315,
+          "summary": "PollyReach为个人提供真实号码，让AI代你打电话订位、接听来电并过滤骚扰。",
+          "summary_zh": "PollyReach为个人提供真实号码，让AI代你打电话订位、接听来电并过滤骚扰。",
+          "publishedAt": "2026-05-19T07:01:00Z",
+          "published_at": "2026-05-19T07:01:00Z",
+          "votes_count": 170,
           "featured": true,
           "topics": [
             {
@@ -75,6 +38,11 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
             }
           ],
           "score_details": {
@@ -85,80 +53,122 @@
             "signal_over_promo": 1,
             "distribution_signal": 2,
             "confidence": 1,
-            "reason": "PH高票精选，多Agent协作产品首发信号强"
+            "reason": "AI电话代理首发，PH高票featured"
           }
         },
         {
-          "id": "9e15fa19",
-          "title": "Shadow发布Mac端AI界面",
-          "title_en": "Shadow",
-          "url": "https://www.producthunt.com/products/shadow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "604b8d6e",
+          "title": "Drizz推出AI移动测试平台",
+          "title_en": "Drizz",
+          "url": "https://www.producthunt.com/products/drizz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/shadow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/drizz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 8,
           "rank_score": 9.0,
           "rankingScore": 9.0,
-          "summary": "Shadow推出Mac端AI助手，可看屏幕、听语音并自动执行自定义技能与会议记录。",
-          "summary_zh": "Shadow推出Mac端AI助手，可看屏幕、听语音并自动执行自定义技能与会议记录。",
-          "publishedAt": "2026-05-18T07:01:00Z",
-          "published_at": "2026-05-18T07:01:00Z",
-          "votes_count": 160,
+          "summary": "Drizz用AI在真机上自动编写、执行并修复移动端测试用例。",
+          "summary_zh": "Drizz用AI在真机上自动编写、执行并修复移动端测试用例。",
+          "publishedAt": "2026-05-19T07:01:00Z",
+          "published_at": "2026-05-19T07:01:00Z",
+          "votes_count": 144,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
             {
-              "id": "90",
-              "name": "Writing",
-              "slug": "writing"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             },
             {
-              "id": "252",
-              "name": "Meetings",
-              "slug": "meetings"
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
             }
           ],
           "score_details": {
             "is_ai_relevant": true,
             "is_real_launch_or_update": true,
             "novelty": 2,
-            "practitioner_value": 2,
+            "practitioner_value": 3,
             "signal_over_promo": 1,
             "distribution_signal": 2,
             "confidence": 1,
-            "reason": "PH高票精选，AI桌面代理形态明确"
+            "reason": "PH高票featured，AI移动测试发布信号强"
           }
         },
         {
-          "id": "1bafd9e4",
-          "title": "Montage发布M1界面生成API",
-          "title_en": "M1 by Montage",
-          "url": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "4110d1f5",
+          "title": "Cursor发布Composer 2.5",
+          "title_en": "Composer 2.5",
+          "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 8,
           "rank_score": 9.0,
           "rankingScore": 9.0,
-          "summary": "Montage推出M1，用一次API调用生成并托管带状态的交互式UI，速度更快且大幅降低Token成本。",
-          "summary_zh": "Montage推出M1，用一次API调用生成并托管带状态的交互式UI，速度更快且大幅降低Token成本。",
-          "publishedAt": "2026-05-18T07:01:00Z",
-          "published_at": "2026-05-18T07:01:00Z",
-          "votes_count": 122,
+          "summary": "Cursor推出Composer 2.5，较Composer 2在智能性、行为表现和长程代理任务上显著提升。",
+          "summary_zh": "Cursor推出Composer 2.5，较Composer 2在智能性、行为表现和长程代理任务上显著提升。",
+          "publishedAt": "2026-05-19T07:01:00Z",
+          "published_at": "2026-05-19T07:01:00Z",
+          "votes_count": 133,
           "featured": true,
           "topics": [
             {
-              "id": "93",
-              "name": "User Experience",
-              "slug": "user-experience"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "Cursor核心模型升级，PH高票featured"
+          }
+        },
+        {
+          "id": "2f1654eb",
+          "title": "产品更新：CtrlOps",
+          "title_en": "CtrlOps",
+          "url": "https://www.producthunt.com/products/ctrlops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ctrlops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "Deploy, Debug & Manage Linux Servers with AI.",
+          "summary_zh": "Deploy, Debug & Manage Linux Servers with AI.",
+          "publishedAt": "2026-05-19T07:01:00Z",
+          "published_at": "2026-05-19T07:01:00Z",
+          "votes_count": 130,
+          "featured": true,
+          "topics": [
+            {
+              "id": "13",
+              "name": "Linux",
+              "slug": "linux"
             },
             {
               "id": "267",
@@ -175,58 +185,11 @@
             "is_ai_relevant": true,
             "is_real_launch_or_update": true,
             "novelty": 2,
-            "practitioner_value": 3,
+            "practitioner_value": 2,
             "signal_over_promo": 1,
             "distribution_signal": 2,
             "confidence": 1,
-            "reason": "Agent UI基础设施首发，开发者价值高"
-          }
-        },
-        {
-          "id": "02998b92",
-          "title": "Searchad.ai上线",
-          "title_en": "Searchad.ai",
-          "url": "https://www.producthunt.com/products/searchad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/searchad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Searchad.ai让用户通过聊天式AI在全球投放和管理苹果搜索广告，操作需经明确授权。",
-          "summary_zh": "Searchad.ai让用户通过聊天式AI在全球投放和管理苹果搜索广告，操作需经明确授权。",
-          "publishedAt": "2026-05-18T07:01:00Z",
-          "published_at": "2026-05-18T07:01:00Z",
-          "votes_count": 131,
-          "featured": true,
-          "topics": [
-            {
-              "id": "8",
-              "name": "iOS",
-              "slug": "ios"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "362",
-              "name": "Apple",
-              "slug": "apple"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 1,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "PH高票featured，属AI营销工具首发"
+            "reason": "PH高票featured，AI运维工具发布明确"
           }
         }
       ]
@@ -236,89 +199,115 @@
       "label": "中文媒体精选",
       "items": [
         {
-          "id": "6fb8ef22",
-          "title": "少量思考令牌也能深度推理",
-          "title_en": "ICML 2026 | 只用少量Thinking Tokens，大模型依然能深度思考",
-          "url": "https://www.jiqizhixin.com/articles",
-          "source": "机器之心",
+          "id": "1cff2ae8",
+          "title": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/05/419528.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "机器之心",
-          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/05/419528.html",
           "category": "cn-media",
-          "score": 6,
-          "rank_score": 6.0,
-          "rankingScore": 6.0,
-          "summary": "ICML 2026一项研究称，大模型只需少量Thinking Tokens，仍可进行深度思考。",
-          "summary_zh": "ICML 2026一项研究称，大模型只需少量Thinking Tokens，仍可进行深度思考。",
-          "publishedAt": "2026-05-18T21:42:57Z",
-          "published_at": "2026-05-18T21:42:57Z",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议  听雨 2026-05-18 20:18:30  来源：量子位   生成论文远比消化容易  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 上传AI水论文，被查实者封禁一年。 后续投稿须先通过同行评审，才有资格重新踏入arXiv。 这是arXiv计算机科学版块主席Thomas Dietterich在X上刚刚公开的新规，语气干脆，不带商量。  若论文中存在作者未核查LLM生成内容的确凿证据，所有署名作者一并受罚，没有例外。 消息一出，陶哲轩也亲自下场评论。 这位数学界最活跃的AI拥抱者，专门在Mathstodon发文，用自己此前提出的四条建议框架逐一对照新政，总结为一句话： 在生成论文比消化论文容易得多的时代，这个方向是对的。  网友则炸开了锅，有人鼓掌，说早就该这么干。  也有人反问：你会在2005年禁止用互联网进行研究的文章吗？  还有人提出质疑：这样的连坐制度，是要求论文的每一位合著者都必须检查每一条引用吗？  arXiv最严新规：签名即担责 物理、数学、计算机科学领域，绝大多数论文在进入同行评审之前，都要先在a",
+          "summary_zh": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议  听雨 2026-05-18 20:18:30  来源：量子位   生成论文远比消化容易  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 上传AI水论文，被查实者封禁一年。 后续投稿须先通过同行评审，才有资格重新踏入arXiv。 这是arXiv计算机科学版块主席Thomas Dietterich在X上刚刚公开的新规，语气干脆，不带商量。  若论文中存在作者未核查LLM生成内容的确凿证据，所有署名作者一并受罚，没有例外。 消息一出，陶哲轩也亲自下场评论。 这位数学界最活跃的AI拥抱者，专门在Mathstodon发文，用自己此前提出的四条建议框架逐一对照新政，总结为一句话： 在生成论文比消化论文容易得多的时代，这个方向是对的。  网友则炸开了锅，有人鼓掌，说早就该这么干。  也有人反问：你会在2005年禁止用互联网进行研究的文章吗？  还有人提出质疑：这样的连坐制度，是要求论文的每一位合著者都必须检查每一条引用吗？  arXiv最严新规：签名即担责 物理、数学、计算机科学领域，绝大多数论文在进入同行评审之前，都要先在a",
+          "publishedAt": "2026-05-18T12:18:30Z",
+          "published_at": "2026-05-18T12:18:30Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 2,
-            "signal_over_promo": 1,
-            "distribution_signal": 0,
-            "confidence": 0,
-            "reason": "推理效率方向论文，相关但信息源较杂"
-          }
+          "score_details": null
+        },
+        {
+          "id": "609d2a56",
+          "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/05/419585.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/05/419585.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代  量子位的朋友们 2026-05-18 21:16:45  来源：量子位   芯片与系统级双重创新  在今日举办的新品分享会上，英特尔表示第三代英特尔® 酷睿™ 处理器将为“全民AI轻薄本”提供核心算力与AI引擎，重塑主流PC体验。同时，英特尔亦通过“Firefly萤火虫计划”，联合产业链上下游伙伴推动系统级创新，为用户带来更智能、高效、便捷的日常计算体验。预计全球合作伙伴将陆续推出超过70款基于该平台的创新设计。    英特尔副总裁、中国区软件工程和客户端产品事业部总经理高嵩表示：“半导体制程、计算架构与AI技术的飞速演进，正在重塑PC的未来。基于芯片和系统层面的双重创新，第三代英特尔酷睿处理器将长效续航、瞬时响应和AI能力，扩展至更广泛的主流消费市场，让用户在每一次开合与触碰中，尽情享受卓越体验。” 芯片级创新，第三代家族持续扩展 AI时代，主流PC用户对智能的迫切需求，正驱动着技术创新与普及。第三代英特尔酷睿处理器以重塑主流PC体验为核心，为更广泛的用户带来更加触手可及的智能体验。 基于Intel 18A制程，第三代酷睿将为用",
+          "summary_zh": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代  量子位的朋友们 2026-05-18 21:16:45  来源：量子位   芯片与系统级双重创新  在今日举办的新品分享会上，英特尔表示第三代英特尔® 酷睿™ 处理器将为“全民AI轻薄本”提供核心算力与AI引擎，重塑主流PC体验。同时，英特尔亦通过“Firefly萤火虫计划”，联合产业链上下游伙伴推动系统级创新，为用户带来更智能、高效、便捷的日常计算体验。预计全球合作伙伴将陆续推出超过70款基于该平台的创新设计。    英特尔副总裁、中国区软件工程和客户端产品事业部总经理高嵩表示：“半导体制程、计算架构与AI技术的飞速演进，正在重塑PC的未来。基于芯片和系统层面的双重创新，第三代英特尔酷睿处理器将长效续航、瞬时响应和AI能力，扩展至更广泛的主流消费市场，让用户在每一次开合与触碰中，尽情享受卓越体验。” 芯片级创新，第三代家族持续扩展 AI时代，主流PC用户对智能的迫切需求，正驱动着技术创新与普及。第三代英特尔酷睿处理器以重塑主流PC体验为核心，为更广泛的用户带来更加触手可及的智能体验。 基于Intel 18A制程，第三代酷睿将为用",
+          "publishedAt": "2026-05-18T13:16:45Z",
+          "published_at": "2026-05-18T13:16:45Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "95066fad",
+          "title": "8点1氪丨贾跃亭又融资4.77亿元；巨力索具旗下十余家企业已注销；超越茅台，A股“新股王”诞生",
+          "title_en": null,
+          "url": "https://36kr.com/p/3815459487587847?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3815459487587847?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览  瑞幸咖啡正式上线两款含酒精的特调饮品 京张高铁试点推出“自行车随身行”服务 马斯克：计划今年进行首例用于治疗失明的Neuralink植入手术 韩国法院要求三星电子罢工行动不得影响产量 多家理财公司集中提前终止理财产品  TOP 3 大新闻 贾跃亭又拿到7000万美元投资 贾跃亭发布视频，宣布法拉第未来近期完成了7000万美元（现汇率约合4.77亿元人民币）机构投资者募资，并将启动战略、产品技术&业务、财务、资本、AI体系五大变革。贾跃亭表示，其目标包括FFAI市值重回2021年上市水平，2027年第四季度实现经营性现金流为正，五年内在EAI人形与仿生机器人领域成为北美真实场景部署量前三的机器人公司+北美EAIMPV领军者。贾跃亭还表示，要将FF真正重构为一家Physical AI生态公司。两年内实现过去12年没有完成的梦想，进入“0借口、0内耗、结果导向”的战斗状态，全力兑现对股东和用户的承诺。（IT之家） 巨力索具旗下十余家企业已注销 36氪获悉，近日，巨力索具因涉嫌信息披露误导性陈述违法违规，被证监会立案调查。天眼查App显示，巨力索具股份有限公司成立于2004年1",
+          "summary_zh": "今日热点导览  瑞幸咖啡正式上线两款含酒精的特调饮品 京张高铁试点推出“自行车随身行”服务 马斯克：计划今年进行首例用于治疗失明的Neuralink植入手术 韩国法院要求三星电子罢工行动不得影响产量 多家理财公司集中提前终止理财产品  TOP 3 大新闻 贾跃亭又拿到7000万美元投资 贾跃亭发布视频，宣布法拉第未来近期完成了7000万美元（现汇率约合4.77亿元人民币）机构投资者募资，并将启动战略、产品技术&业务、财务、资本、AI体系五大变革。贾跃亭表示，其目标包括FFAI市值重回2021年上市水平，2027年第四季度实现经营性现金流为正，五年内在EAI人形与仿生机器人领域成为北美真实场景部署量前三的机器人公司+北美EAIMPV领军者。贾跃亭还表示，要将FF真正重构为一家Physical AI生态公司。两年内实现过去12年没有完成的梦想，进入“0借口、0内耗、结果导向”的战斗状态，全力兑现对股东和用户的承诺。（IT之家） 巨力索具旗下十余家企业已注销 36氪获悉，近日，巨力索具因涉嫌信息披露误导性陈述违法违规，被证监会立案调查。天眼查App显示，巨力索具股份有限公司成立于2004年1",
+          "publishedAt": "2026-05-19T00:08:58Z",
+          "published_at": "2026-05-19T00:08:58Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "b82aa787",
+          "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
+          "title_en": null,
+          "url": "https://36kr.com/p/3805660478184966?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3805660478184966?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。 SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此前已获得李泽湘教授旗下清水湾基金的天使轮投资。 过去几年，运动科技赛道几乎被硬件厂商重新定义了一遍。发球机让“一个人练球”成为可能，运动相机令“训练过程的记录”不再需要专人跟拍，智能手表/手环把心率、步频、消耗卡路里等量化成精确的长期数据记录。 尽管每一类产品都跑出了规模不小的公司，但它们各自停留在陪练、记录、监测的单点功能上——数据相互独立、能力无法贯通，难以为用户提供连贯、整体的个性化支持。 运动人群的深层渴望远不止于被记录，还有被指导、被陪伴、被看见进步。一场更底层的变革正在发生：从“记录工具” 到 “AI运动Copilot”的跨越，运动科技赛道正在重写。 工具只需完成指令，而Copilot则可以像教",
+          "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。 SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此前已获得李泽湘教授旗下清水湾基金的天使轮投资。 过去几年，运动科技赛道几乎被硬件厂商重新定义了一遍。发球机让“一个人练球”成为可能，运动相机令“训练过程的记录”不再需要专人跟拍，智能手表/手环把心率、步频、消耗卡路里等量化成精确的长期数据记录。 尽管每一类产品都跑出了规模不小的公司，但它们各自停留在陪练、记录、监测的单点功能上——数据相互独立、能力无法贯通，难以为用户提供连贯、整体的个性化支持。 运动人群的深层渴望远不止于被记录，还有被指导、被陪伴、被看见进步。一场更底层的变革正在发生：从“记录工具” 到 “AI运动Copilot”的跨越，运动科技赛道正在重写。 工具只需完成指令，而Copilot则可以像教",
+          "publishedAt": "2026-05-19T01:30:00Z",
+          "published_at": "2026-05-19T01:30:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
         }
       ]
     }
   ],
   "items": [
     {
-      "id": "6f1209c6",
-      "title": "OpenAI联手戴尔推企业私有Codex",
-      "title_en": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "source": "OpenAI Blog",
-      "source_type": null,
-      "sourceName": "OpenAI Blog",
-      "sourceUrl": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "category": "ai-models",
-      "score": 8,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "OpenAI与戴尔合作，将Codex引入混合云和本地环境，帮助企业安全部署AI编程代理。",
-      "summary_zh": "OpenAI与戴尔合作，将Codex引入混合云和本地环境，帮助企业安全部署AI编程代理。",
-      "publishedAt": "2026-05-18T10:00:00Z",
-      "published_at": "2026-05-18T10:00:00Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 2,
-        "signal_over_promo": 1,
-        "distribution_signal": 1,
-        "confidence": 1,
-        "reason": "OpenAI×Dell推进企业级本地Codex部署"
-      }
-    },
-    {
-      "id": "a2cfd91d",
-      "title": "LobeHub发布多智能体协作平台",
-      "title_en": "LobeHub",
-      "url": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "6298c54d",
+      "title": "PollyReach让AI代打电话",
+      "title_en": "PollyReach",
+      "url": "https://www.producthunt.com/products/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 8,
       "rank_score": 9.0,
       "rankingScore": 9.0,
-      "summary": "LobeHub推出多智能体运营平台，可自动组建、协调并并行执行AI代理任务。",
-      "summary_zh": "LobeHub推出多智能体运营平台，可自动组建、协调并并行执行AI代理任务。",
-      "publishedAt": "2026-05-18T07:01:00Z",
-      "published_at": "2026-05-18T07:01:00Z",
-      "votes_count": 315,
+      "summary": "PollyReach为个人提供真实号码，让AI代你打电话订位、接听来电并过滤骚扰。",
+      "summary_zh": "PollyReach为个人提供真实号码，让AI代你打电话订位、接听来电并过滤骚扰。",
+      "publishedAt": "2026-05-19T07:01:00Z",
+      "published_at": "2026-05-19T07:01:00Z",
+      "votes_count": 170,
       "featured": true,
       "topics": [
         {
@@ -330,6 +319,11 @@
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
+        },
+        {
+          "id": "282",
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
         }
       ],
       "score_details": {
@@ -340,80 +334,122 @@
         "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "PH高票精选，多Agent协作产品首发信号强"
+        "reason": "AI电话代理首发，PH高票featured"
       }
     },
     {
-      "id": "9e15fa19",
-      "title": "Shadow发布Mac端AI界面",
-      "title_en": "Shadow",
-      "url": "https://www.producthunt.com/products/shadow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "604b8d6e",
+      "title": "Drizz推出AI移动测试平台",
+      "title_en": "Drizz",
+      "url": "https://www.producthunt.com/products/drizz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/shadow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/drizz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 8,
       "rank_score": 9.0,
       "rankingScore": 9.0,
-      "summary": "Shadow推出Mac端AI助手，可看屏幕、听语音并自动执行自定义技能与会议记录。",
-      "summary_zh": "Shadow推出Mac端AI助手，可看屏幕、听语音并自动执行自定义技能与会议记录。",
-      "publishedAt": "2026-05-18T07:01:00Z",
-      "published_at": "2026-05-18T07:01:00Z",
-      "votes_count": 160,
+      "summary": "Drizz用AI在真机上自动编写、执行并修复移动端测试用例。",
+      "summary_zh": "Drizz用AI在真机上自动编写、执行并修复移动端测试用例。",
+      "publishedAt": "2026-05-19T07:01:00Z",
+      "published_at": "2026-05-19T07:01:00Z",
+      "votes_count": 144,
       "featured": true,
       "topics": [
         {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
         },
         {
-          "id": "90",
-          "name": "Writing",
-          "slug": "writing"
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         },
         {
-          "id": "252",
-          "name": "Meetings",
-          "slug": "meetings"
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
         }
       ],
       "score_details": {
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
         "novelty": 2,
-        "practitioner_value": 2,
+        "practitioner_value": 3,
         "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "PH高票精选，AI桌面代理形态明确"
+        "reason": "PH高票featured，AI移动测试发布信号强"
       }
     },
     {
-      "id": "1bafd9e4",
-      "title": "Montage发布M1界面生成API",
-      "title_en": "M1 by Montage",
-      "url": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "4110d1f5",
+      "title": "Cursor发布Composer 2.5",
+      "title_en": "Composer 2.5",
+      "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 8,
       "rank_score": 9.0,
       "rankingScore": 9.0,
-      "summary": "Montage推出M1，用一次API调用生成并托管带状态的交互式UI，速度更快且大幅降低Token成本。",
-      "summary_zh": "Montage推出M1，用一次API调用生成并托管带状态的交互式UI，速度更快且大幅降低Token成本。",
-      "publishedAt": "2026-05-18T07:01:00Z",
-      "published_at": "2026-05-18T07:01:00Z",
-      "votes_count": 122,
+      "summary": "Cursor推出Composer 2.5，较Composer 2在智能性、行为表现和长程代理任务上显著提升。",
+      "summary_zh": "Cursor推出Composer 2.5，较Composer 2在智能性、行为表现和长程代理任务上显著提升。",
+      "publishedAt": "2026-05-19T07:01:00Z",
+      "published_at": "2026-05-19T07:01:00Z",
+      "votes_count": 133,
       "featured": true,
       "topics": [
         {
-          "id": "93",
-          "name": "User Experience",
-          "slug": "user-experience"
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 3,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "Cursor核心模型升级，PH高票featured"
+      }
+    },
+    {
+      "id": "2f1654eb",
+      "title": "产品更新：CtrlOps",
+      "title_en": "CtrlOps",
+      "url": "https://www.producthunt.com/products/ctrlops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ctrlops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Deploy, Debug & Manage Linux Servers with AI.",
+      "summary_zh": "Deploy, Debug & Manage Linux Servers with AI.",
+      "publishedAt": "2026-05-19T07:01:00Z",
+      "published_at": "2026-05-19T07:01:00Z",
+      "votes_count": 130,
+      "featured": true,
+      "topics": [
+        {
+          "id": "13",
+          "name": "Linux",
+          "slug": "linux"
         },
         {
           "id": "267",
@@ -430,90 +466,100 @@
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
         "novelty": 2,
-        "practitioner_value": 3,
+        "practitioner_value": 2,
         "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "Agent UI基础设施首发，开发者价值高"
+        "reason": "PH高票featured，AI运维工具发布明确"
       }
     },
     {
-      "id": "02998b92",
-      "title": "Searchad.ai上线",
-      "title_en": "Searchad.ai",
-      "url": "https://www.producthunt.com/products/searchad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
+      "id": "1cff2ae8",
+      "title": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/05/419528.html",
+      "source": "量子位",
       "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/searchad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Searchad.ai让用户通过聊天式AI在全球投放和管理苹果搜索广告，操作需经明确授权。",
-      "summary_zh": "Searchad.ai让用户通过聊天式AI在全球投放和管理苹果搜索广告，操作需经明确授权。",
-      "publishedAt": "2026-05-18T07:01:00Z",
-      "published_at": "2026-05-18T07:01:00Z",
-      "votes_count": 131,
-      "featured": true,
-      "topics": [
-        {
-          "id": "8",
-          "name": "iOS",
-          "slug": "ios"
-        },
-        {
-          "id": "164",
-          "name": "Marketing",
-          "slug": "marketing"
-        },
-        {
-          "id": "362",
-          "name": "Apple",
-          "slug": "apple"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 1,
-        "signal_over_promo": 1,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "PH高票featured，属AI营销工具首发"
-      }
-    },
-    {
-      "id": "6fb8ef22",
-      "title": "少量思考令牌也能深度推理",
-      "title_en": "ICML 2026 | 只用少量Thinking Tokens，大模型依然能深度思考",
-      "url": "https://www.jiqizhixin.com/articles",
-      "source": "机器之心",
-      "source_type": null,
-      "sourceName": "机器之心",
-      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/05/419528.html",
       "category": "cn-media",
-      "score": 6,
-      "rank_score": 6.0,
-      "rankingScore": 6.0,
-      "summary": "ICML 2026一项研究称，大模型只需少量Thinking Tokens，仍可进行深度思考。",
-      "summary_zh": "ICML 2026一项研究称，大模型只需少量Thinking Tokens，仍可进行深度思考。",
-      "publishedAt": "2026-05-18T21:42:57Z",
-      "published_at": "2026-05-18T21:42:57Z",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议  听雨 2026-05-18 20:18:30  来源：量子位   生成论文远比消化容易  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 上传AI水论文，被查实者封禁一年。 后续投稿须先通过同行评审，才有资格重新踏入arXiv。 这是arXiv计算机科学版块主席Thomas Dietterich在X上刚刚公开的新规，语气干脆，不带商量。  若论文中存在作者未核查LLM生成内容的确凿证据，所有署名作者一并受罚，没有例外。 消息一出，陶哲轩也亲自下场评论。 这位数学界最活跃的AI拥抱者，专门在Mathstodon发文，用自己此前提出的四条建议框架逐一对照新政，总结为一句话： 在生成论文比消化论文容易得多的时代，这个方向是对的。  网友则炸开了锅，有人鼓掌，说早就该这么干。  也有人反问：你会在2005年禁止用互联网进行研究的文章吗？  还有人提出质疑：这样的连坐制度，是要求论文的每一位合著者都必须检查每一条引用吗？  arXiv最严新规：签名即担责 物理、数学、计算机科学领域，绝大多数论文在进入同行评审之前，都要先在a",
+      "summary_zh": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议  听雨 2026-05-18 20:18:30  来源：量子位   生成论文远比消化容易  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 上传AI水论文，被查实者封禁一年。 后续投稿须先通过同行评审，才有资格重新踏入arXiv。 这是arXiv计算机科学版块主席Thomas Dietterich在X上刚刚公开的新规，语气干脆，不带商量。  若论文中存在作者未核查LLM生成内容的确凿证据，所有署名作者一并受罚，没有例外。 消息一出，陶哲轩也亲自下场评论。 这位数学界最活跃的AI拥抱者，专门在Mathstodon发文，用自己此前提出的四条建议框架逐一对照新政，总结为一句话： 在生成论文比消化论文容易得多的时代，这个方向是对的。  网友则炸开了锅，有人鼓掌，说早就该这么干。  也有人反问：你会在2005年禁止用互联网进行研究的文章吗？  还有人提出质疑：这样的连坐制度，是要求论文的每一位合著者都必须检查每一条引用吗？  arXiv最严新规：签名即担责 物理、数学、计算机科学领域，绝大多数论文在进入同行评审之前，都要先在a",
+      "publishedAt": "2026-05-18T12:18:30Z",
+      "published_at": "2026-05-18T12:18:30Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 2,
-        "signal_over_promo": 1,
-        "distribution_signal": 0,
-        "confidence": 0,
-        "reason": "推理效率方向论文，相关但信息源较杂"
-      }
+      "score_details": null
+    },
+    {
+      "id": "609d2a56",
+      "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/05/419585.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/05/419585.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代  量子位的朋友们 2026-05-18 21:16:45  来源：量子位   芯片与系统级双重创新  在今日举办的新品分享会上，英特尔表示第三代英特尔® 酷睿™ 处理器将为“全民AI轻薄本”提供核心算力与AI引擎，重塑主流PC体验。同时，英特尔亦通过“Firefly萤火虫计划”，联合产业链上下游伙伴推动系统级创新，为用户带来更智能、高效、便捷的日常计算体验。预计全球合作伙伴将陆续推出超过70款基于该平台的创新设计。    英特尔副总裁、中国区软件工程和客户端产品事业部总经理高嵩表示：“半导体制程、计算架构与AI技术的飞速演进，正在重塑PC的未来。基于芯片和系统层面的双重创新，第三代英特尔酷睿处理器将长效续航、瞬时响应和AI能力，扩展至更广泛的主流消费市场，让用户在每一次开合与触碰中，尽情享受卓越体验。” 芯片级创新，第三代家族持续扩展 AI时代，主流PC用户对智能的迫切需求，正驱动着技术创新与普及。第三代英特尔酷睿处理器以重塑主流PC体验为核心，为更广泛的用户带来更加触手可及的智能体验。 基于Intel 18A制程，第三代酷睿将为用",
+      "summary_zh": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代  量子位的朋友们 2026-05-18 21:16:45  来源：量子位   芯片与系统级双重创新  在今日举办的新品分享会上，英特尔表示第三代英特尔® 酷睿™ 处理器将为“全民AI轻薄本”提供核心算力与AI引擎，重塑主流PC体验。同时，英特尔亦通过“Firefly萤火虫计划”，联合产业链上下游伙伴推动系统级创新，为用户带来更智能、高效、便捷的日常计算体验。预计全球合作伙伴将陆续推出超过70款基于该平台的创新设计。    英特尔副总裁、中国区软件工程和客户端产品事业部总经理高嵩表示：“半导体制程、计算架构与AI技术的飞速演进，正在重塑PC的未来。基于芯片和系统层面的双重创新，第三代英特尔酷睿处理器将长效续航、瞬时响应和AI能力，扩展至更广泛的主流消费市场，让用户在每一次开合与触碰中，尽情享受卓越体验。” 芯片级创新，第三代家族持续扩展 AI时代，主流PC用户对智能的迫切需求，正驱动着技术创新与普及。第三代英特尔酷睿处理器以重塑主流PC体验为核心，为更广泛的用户带来更加触手可及的智能体验。 基于Intel 18A制程，第三代酷睿将为用",
+      "publishedAt": "2026-05-18T13:16:45Z",
+      "published_at": "2026-05-18T13:16:45Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "95066fad",
+      "title": "8点1氪丨贾跃亭又融资4.77亿元；巨力索具旗下十余家企业已注销；超越茅台，A股“新股王”诞生",
+      "title_en": null,
+      "url": "https://36kr.com/p/3815459487587847?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3815459487587847?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览  瑞幸咖啡正式上线两款含酒精的特调饮品 京张高铁试点推出“自行车随身行”服务 马斯克：计划今年进行首例用于治疗失明的Neuralink植入手术 韩国法院要求三星电子罢工行动不得影响产量 多家理财公司集中提前终止理财产品  TOP 3 大新闻 贾跃亭又拿到7000万美元投资 贾跃亭发布视频，宣布法拉第未来近期完成了7000万美元（现汇率约合4.77亿元人民币）机构投资者募资，并将启动战略、产品技术&业务、财务、资本、AI体系五大变革。贾跃亭表示，其目标包括FFAI市值重回2021年上市水平，2027年第四季度实现经营性现金流为正，五年内在EAI人形与仿生机器人领域成为北美真实场景部署量前三的机器人公司+北美EAIMPV领军者。贾跃亭还表示，要将FF真正重构为一家Physical AI生态公司。两年内实现过去12年没有完成的梦想，进入“0借口、0内耗、结果导向”的战斗状态，全力兑现对股东和用户的承诺。（IT之家） 巨力索具旗下十余家企业已注销 36氪获悉，近日，巨力索具因涉嫌信息披露误导性陈述违法违规，被证监会立案调查。天眼查App显示，巨力索具股份有限公司成立于2004年1",
+      "summary_zh": "今日热点导览  瑞幸咖啡正式上线两款含酒精的特调饮品 京张高铁试点推出“自行车随身行”服务 马斯克：计划今年进行首例用于治疗失明的Neuralink植入手术 韩国法院要求三星电子罢工行动不得影响产量 多家理财公司集中提前终止理财产品  TOP 3 大新闻 贾跃亭又拿到7000万美元投资 贾跃亭发布视频，宣布法拉第未来近期完成了7000万美元（现汇率约合4.77亿元人民币）机构投资者募资，并将启动战略、产品技术&业务、财务、资本、AI体系五大变革。贾跃亭表示，其目标包括FFAI市值重回2021年上市水平，2027年第四季度实现经营性现金流为正，五年内在EAI人形与仿生机器人领域成为北美真实场景部署量前三的机器人公司+北美EAIMPV领军者。贾跃亭还表示，要将FF真正重构为一家Physical AI生态公司。两年内实现过去12年没有完成的梦想，进入“0借口、0内耗、结果导向”的战斗状态，全力兑现对股东和用户的承诺。（IT之家） 巨力索具旗下十余家企业已注销 36氪获悉，近日，巨力索具因涉嫌信息披露误导性陈述违法违规，被证监会立案调查。天眼查App显示，巨力索具股份有限公司成立于2004年1",
+      "publishedAt": "2026-05-19T00:08:58Z",
+      "published_at": "2026-05-19T00:08:58Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "b82aa787",
+      "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3805660478184966?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3805660478184966?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。 SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此前已获得李泽湘教授旗下清水湾基金的天使轮投资。 过去几年，运动科技赛道几乎被硬件厂商重新定义了一遍。发球机让“一个人练球”成为可能，运动相机令“训练过程的记录”不再需要专人跟拍，智能手表/手环把心率、步频、消耗卡路里等量化成精确的长期数据记录。 尽管每一类产品都跑出了规模不小的公司，但它们各自停留在陪练、记录、监测的单点功能上——数据相互独立、能力无法贯通，难以为用户提供连贯、整体的个性化支持。 运动人群的深层渴望远不止于被记录，还有被指导、被陪伴、被看见进步。一场更底层的变革正在发生：从“记录工具” 到 “AI运动Copilot”的跨越，运动科技赛道正在重写。 工具只需完成指令，而Copilot则可以像教",
+      "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。 SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此前已获得李泽湘教授旗下清水湾基金的天使轮投资。 过去几年，运动科技赛道几乎被硬件厂商重新定义了一遍。发球机让“一个人练球”成为可能，运动相机令“训练过程的记录”不再需要专人跟拍，智能手表/手环把心率、步频、消耗卡路里等量化成精确的长期数据记录。 尽管每一类产品都跑出了规模不小的公司，但它们各自停留在陪练、记录、监测的单点功能上——数据相互独立、能力无法贯通，难以为用户提供连贯、整体的个性化支持。 运动人群的深层渴望远不止于被记录，还有被指导、被陪伴、被看见进步。一场更底层的变革正在发生：从“记录工具” 到 “AI运动Copilot”的跨越，运动科技赛道正在重写。 工具只需完成指令，而Copilot则可以像教",
+      "publishedAt": "2026-05-19T01:30:00Z",
+      "published_at": "2026-05-19T01:30:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
     }
   ]
 }
