@@ -1,0 +1,819 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-19T21:54:21Z",
+  "generatedAt": "2026-05-19T21:54:21Z",
+  "total": 11,
+  "count": 11,
+  "sections": [
+    {
+      "category": "ai-models",
+      "label": "模型发布/更新",
+      "items": [
+        {
+          "id": "64d3b909",
+          "title": "谷歌发布Gemini 3.5",
+          "title_en": "Gemini 3.5: frontier intelligence with action",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+          "source": "Google AI Blog",
+          "source_type": null,
+          "sourceName": "Google AI Blog",
+          "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+          "category": "ai-models",
+          "score": 9,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "谷歌推出Gemini 3.5，主打更强前沿智能与可执行操作能力。",
+          "summary_zh": "谷歌推出Gemini 3.5，主打更强前沿智能与可执行操作能力。",
+          "publishedAt": "2026-05-19T17:45:00Z",
+          "published_at": "2026-05-19T17:45:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 3,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "Google正式发布Gemini 3.5 Flash，开发可用"
+          }
+        },
+        {
+          "id": "f80637b4",
+          "title": "OpenAI推进AI内容溯源",
+          "title_en": "Advancing content provenance for a safer, more transparent AI ecosystem",
+          "url": "https://openai.com/index/advancing-content-provenance",
+          "source": "OpenAI Blog",
+          "source_type": null,
+          "sourceName": "OpenAI Blog",
+          "sourceUrl": "https://openai.com/index/advancing-content-provenance",
+          "category": "ai-models",
+          "score": 8,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "OpenAI推出内容凭证、SynthID和验证工具，帮助识别并可信追踪AI生成媒体。",
+          "summary_zh": "OpenAI推出内容凭证、SynthID和验证工具，帮助识别并可信追踪AI生成媒体。",
+          "publishedAt": "2026-05-19T10:45:00Z",
+          "published_at": "2026-05-19T10:45:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 1,
+            "confidence": 1,
+            "reason": "OpenAI发布溯源与验证工具，属行业重要更新"
+          }
+        },
+        {
+          "id": "f3054c38",
+          "title": "谷歌I/O 2026聚焦智能体Gemini",
+          "title_en": "I/O 2026: Welcome to the agentic Gemini era",
+          "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+          "source": "Google AI Blog",
+          "source_type": null,
+          "sourceName": "Google AI Blog",
+          "sourceUrl": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+          "category": "ai-models",
+          "score": 8,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "谷歌在I/O 2026宣布进入智能体化Gemini时代。",
+          "summary_zh": "谷歌在I/O 2026宣布进入智能体化Gemini时代。",
+          "publishedAt": "2026-05-19T17:45:00Z",
+          "published_at": "2026-05-19T17:45:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "Google I/O主旨，AI战略与发布信号强"
+          }
+        }
+      ]
+    },
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "604b8d6e",
+          "title": "Drizz发布AI移动测试平台",
+          "title_en": "Drizz",
+          "url": "https://www.producthunt.com/products/drizz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/drizz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10.0,
+          "rankingScore": 10.0,
+          "summary": "Drizz推出AI移动测试平台，可在真机上按自然语言自动生成、执行并修复测试用例。",
+          "summary_zh": "Drizz推出AI移动测试平台，可在真机上按自然语言自动生成、执行并修复测试用例。",
+          "publishedAt": "2026-05-19T07:01:00Z",
+          "published_at": "2026-05-19T07:01:00Z",
+          "votes_count": 326,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票精选，AI移动测试自动化有实用性"
+          }
+        },
+        {
+          "id": "6298c54d",
+          "title": "PollyReach让AI代打电话",
+          "title_en": "PollyReach",
+          "url": "https://www.producthunt.com/products/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "PollyReach为个人AI分配真实号码，可自主打电话办事、24小时接听来电并过滤骚扰。",
+          "summary_zh": "PollyReach为个人AI分配真实号码，可自主打电话办事、24小时接听来电并过滤骚扰。",
+          "publishedAt": "2026-05-19T07:01:00Z",
+          "published_at": "2026-05-19T07:01:00Z",
+          "votes_count": 394,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "高票Featured，AI语音代理发布信号强"
+          }
+        },
+        {
+          "id": "4110d1f5",
+          "title": "Cursor发布Composer 2.5",
+          "title_en": "Composer 2.5",
+          "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "Cursor推出Composer 2.5，较Composer 2在智能性、行为表现和长程代理任务上显著提升。",
+          "summary_zh": "Cursor推出Composer 2.5，较Composer 2在智能性、行为表现和长程代理任务上显著提升。",
+          "publishedAt": "2026-05-19T07:01:00Z",
+          "published_at": "2026-05-19T07:01:00Z",
+          "votes_count": 298,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "Cursor核心模型升级，热度高"
+          }
+        },
+        {
+          "id": "cc850060",
+          "title": "Mantle Chat团队协作平台",
+          "title_en": "Mantle Chat",
+          "url": "https://www.producthunt.com/products/mantle-chat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/mantle-chat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "Mantle Chat把聊天、AI模型、智能体和30多种工具整合到团队共享工作区。",
+          "summary_zh": "Mantle Chat把聊天、AI模型、智能体和30多种工具整合到团队共享工作区。",
+          "publishedAt": "2026-05-19T07:01:00Z",
+          "published_at": "2026-05-19T07:01:00Z",
+          "votes_count": 258,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "AI协作新品，PH高票featured，实用性较强"
+          }
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "61153ccc",
+          "title": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/05/419822.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/05/419822.html",
+          "category": "cn-media",
+          "score": 7,
+          "rank_score": 7.0,
+          "rankingScore": 7.0,
+          "summary": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速  衡宇 2026-05-19 10:46:06  来源：量子位   文本领域、视觉领域双双国产第一   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  阿里你的嘴是真严啊，怎么一眨眼Qwen 3.7预览版突然就上线了！ Arena（前大模型竞技场）官方账号公布了Qwen3.7-Max-Preview和Qwen3.7-Plus-Preview新鲜出炉的成绩。 文本领域，Qwen3.7-Max-Preview排名第13，连带着阿里巴巴的（实验室）排名提升至第6。 同时也是国产排名第一的模型。 视觉领域，Qwen3.7-Plus-Preview排名第16，阿里巴巴排名升至第5 同样是排行榜上国产排名第一的模型。 Qwen官号直接放话：“迫不及待想发布Qwen3.7系列了！”    但，等等，我记得4月底才发布了Qwen3.6-Max-Preview？ Qwen3.6-Max还处于预览版，Qwen3.7-Max预览版就端上桌了……一时不知道是正式版放出的节奏比较缓慢，还是版本迭代的速度太快？ 无论如何，Qw",
+          "summary_zh": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速  衡宇 2026-05-19 10:46:06  来源：量子位   文本领域、视觉领域双双国产第一   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  阿里你的嘴是真严啊，怎么一眨眼Qwen 3.7预览版突然就上线了！ Arena（前大模型竞技场）官方账号公布了Qwen3.7-Max-Preview和Qwen3.7-Plus-Preview新鲜出炉的成绩。 文本领域，Qwen3.7-Max-Preview排名第13，连带着阿里巴巴的（实验室）排名提升至第6。 同时也是国产排名第一的模型。 视觉领域，Qwen3.7-Plus-Preview排名第16，阿里巴巴排名升至第5 同样是排行榜上国产排名第一的模型。 Qwen官号直接放话：“迫不及待想发布Qwen3.7系列了！”    但，等等，我记得4月底才发布了Qwen3.6-Max-Preview？ Qwen3.6-Max还处于预览版，Qwen3.7-Max预览版就端上桌了……一时不知道是正式版放出的节奏比较缓慢，还是版本迭代的速度太快？ 无论如何，Qw",
+          "publishedAt": "2026-05-19T02:46:06Z",
+          "published_at": "2026-05-19T02:46:06Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 1,
+            "confidence": 1,
+            "reason": "Qwen预览版更新属真实信号，但细节有限"
+          }
+        },
+        {
+          "id": "54c85b0a",
+          "title": "MuSc-V2实现零样本缺陷检测",
+          "title_en": "[TPAMI2026] 华中科技大学新成果MuSc-V2：多模态零样本工业缺陷检测新技术，让机器学会“互评”找缺陷，颠覆工业质检！",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 7,
+          "rank_score": 7.0,
+          "rankingScore": 7.0,
+          "summary": "华中科技大学提出MuSc-V2，用多模态互评机制提升工业零样本缺陷检测能力。",
+          "summary_zh": "华中科技大学提出MuSc-V2，用多模态互评机制提升工业零样本缺陷检测能力。",
+          "publishedAt": "2026-05-19T21:51:24Z",
+          "published_at": "2026-05-19T21:51:24Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 0,
+            "confidence": 1,
+            "reason": "AI质检论文成果，真实但偏科研导读"
+          }
+        },
+        {
+          "id": "a5036c05",
+          "title": "HyperEyes并行多模态搜索提效",
+          "title_en": "HyperEyes：从「搜得更深」到「搜得更宽」，并行多模态搜索智能体的效率革命",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 6,
+          "rank_score": 6.0,
+          "rankingScore": 6.0,
+          "summary": "HyperEyes通过并行多模态搜索，把“搜得更宽”替代“搜得更深”，显著提升搜索效率。",
+          "summary_zh": "HyperEyes通过并行多模态搜索，把“搜得更宽”替代“搜得更深”，显著提升搜索效率。",
+          "publishedAt": "2026-05-19T21:51:24Z",
+          "published_at": "2026-05-19T21:51:24Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 0,
+            "confidence": 0,
+            "reason": "多模态搜索智能体更新，信息有限"
+          }
+        },
+        {
+          "id": "b82aa787",
+          "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
+          "title_en": null,
+          "url": "https://36kr.com/p/3805660478184966?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3805660478184966?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。 SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此前已获得李泽湘教授旗下清水湾基金的天使轮投资。 过去几年，运动科技赛道几乎被硬件厂商重新定义了一遍。发球机让“一个人练球”成为可能，运动相机令“训练过程的记录”不再需要专人跟拍，智能手表/手环把心率、步频、消耗卡路里等量化成精确的长期数据记录。 尽管每一类产品都跑出了规模不小的公司，但它们各自停留在陪练、记录、监测的单点功能上——数据相互独立、能力无法贯通，难以为用户提供连贯、整体的个性化支持。 运动人群的深层渴望远不止于被记录，还有被指导、被陪伴、被看见进步。一场更底层的变革正在发生：从“记录工具” 到 “AI运动Copilot”的跨越，运动科技赛道正在重写。 工具只需完成指令，而Copilot则可以像教",
+          "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。 SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此前已获得李泽湘教授旗下清水湾基金的天使轮投资。 过去几年，运动科技赛道几乎被硬件厂商重新定义了一遍。发球机让“一个人练球”成为可能，运动相机令“训练过程的记录”不再需要专人跟拍，智能手表/手环把心率、步频、消耗卡路里等量化成精确的长期数据记录。 尽管每一类产品都跑出了规模不小的公司，但它们各自停留在陪练、记录、监测的单点功能上——数据相互独立、能力无法贯通，难以为用户提供连贯、整体的个性化支持。 运动人群的深层渴望远不止于被记录，还有被指导、被陪伴、被看见进步。一场更底层的变革正在发生：从“记录工具” 到 “AI运动Copilot”的跨越，运动科技赛道正在重写。 工具只需完成指令，而Copilot则可以像教",
+          "publishedAt": "2026-05-19T01:30:00Z",
+          "published_at": "2026-05-19T01:30:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 1,
+            "practitioner_value": 1,
+            "signal_over_promo": 1,
+            "distribution_signal": 0,
+            "confidence": 1,
+            "reason": "融资属行业信号，但技术与产品细节少"
+          }
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "64d3b909",
+      "title": "谷歌发布Gemini 3.5",
+      "title_en": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "source": "Google AI Blog",
+      "source_type": null,
+      "sourceName": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "category": "ai-models",
+      "score": 9,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "谷歌推出Gemini 3.5，主打更强前沿智能与可执行操作能力。",
+      "summary_zh": "谷歌推出Gemini 3.5，主打更强前沿智能与可执行操作能力。",
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "published_at": "2026-05-19T17:45:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 3,
+        "practitioner_value": 3,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "Google正式发布Gemini 3.5 Flash，开发可用"
+      }
+    },
+    {
+      "id": "f80637b4",
+      "title": "OpenAI推进AI内容溯源",
+      "title_en": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "source": "OpenAI Blog",
+      "source_type": null,
+      "sourceName": "OpenAI Blog",
+      "sourceUrl": "https://openai.com/index/advancing-content-provenance",
+      "category": "ai-models",
+      "score": 8,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "OpenAI推出内容凭证、SynthID和验证工具，帮助识别并可信追踪AI生成媒体。",
+      "summary_zh": "OpenAI推出内容凭证、SynthID和验证工具，帮助识别并可信追踪AI生成媒体。",
+      "publishedAt": "2026-05-19T10:45:00Z",
+      "published_at": "2026-05-19T10:45:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 1,
+        "confidence": 1,
+        "reason": "OpenAI发布溯源与验证工具，属行业重要更新"
+      }
+    },
+    {
+      "id": "f3054c38",
+      "title": "谷歌I/O 2026聚焦智能体Gemini",
+      "title_en": "I/O 2026: Welcome to the agentic Gemini era",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "source": "Google AI Blog",
+      "source_type": null,
+      "sourceName": "Google AI Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "category": "ai-models",
+      "score": 8,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "谷歌在I/O 2026宣布进入智能体化Gemini时代。",
+      "summary_zh": "谷歌在I/O 2026宣布进入智能体化Gemini时代。",
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "published_at": "2026-05-19T17:45:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "Google I/O主旨，AI战略与发布信号强"
+      }
+    },
+    {
+      "id": "604b8d6e",
+      "title": "Drizz发布AI移动测试平台",
+      "title_en": "Drizz",
+      "url": "https://www.producthunt.com/products/drizz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/drizz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 9,
+      "rank_score": 10.0,
+      "rankingScore": 10.0,
+      "summary": "Drizz推出AI移动测试平台，可在真机上按自然语言自动生成、执行并修复测试用例。",
+      "summary_zh": "Drizz推出AI移动测试平台，可在真机上按自然语言自动生成、执行并修复测试用例。",
+      "publishedAt": "2026-05-19T07:01:00Z",
+      "published_at": "2026-05-19T07:01:00Z",
+      "votes_count": 326,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 3,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票精选，AI移动测试自动化有实用性"
+      }
+    },
+    {
+      "id": "6298c54d",
+      "title": "PollyReach让AI代打电话",
+      "title_en": "PollyReach",
+      "url": "https://www.producthunt.com/products/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "PollyReach为个人AI分配真实号码，可自主打电话办事、24小时接听来电并过滤骚扰。",
+      "summary_zh": "PollyReach为个人AI分配真实号码，可自主打电话办事、24小时接听来电并过滤骚扰。",
+      "publishedAt": "2026-05-19T07:01:00Z",
+      "published_at": "2026-05-19T07:01:00Z",
+      "votes_count": 394,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "282",
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "高票Featured，AI语音代理发布信号强"
+      }
+    },
+    {
+      "id": "4110d1f5",
+      "title": "Cursor发布Composer 2.5",
+      "title_en": "Composer 2.5",
+      "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Cursor推出Composer 2.5，较Composer 2在智能性、行为表现和长程代理任务上显著提升。",
+      "summary_zh": "Cursor推出Composer 2.5，较Composer 2在智能性、行为表现和长程代理任务上显著提升。",
+      "publishedAt": "2026-05-19T07:01:00Z",
+      "published_at": "2026-05-19T07:01:00Z",
+      "votes_count": 298,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 3,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "Cursor核心模型升级，热度高"
+      }
+    },
+    {
+      "id": "cc850060",
+      "title": "Mantle Chat团队协作平台",
+      "title_en": "Mantle Chat",
+      "url": "https://www.producthunt.com/products/mantle-chat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/mantle-chat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Mantle Chat把聊天、AI模型、智能体和30多种工具整合到团队共享工作区。",
+      "summary_zh": "Mantle Chat把聊天、AI模型、智能体和30多种工具整合到团队共享工作区。",
+      "publishedAt": "2026-05-19T07:01:00Z",
+      "published_at": "2026-05-19T07:01:00Z",
+      "votes_count": 258,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "60",
+          "name": "Messaging",
+          "slug": "messaging"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "AI协作新品，PH高票featured，实用性较强"
+      }
+    },
+    {
+      "id": "61153ccc",
+      "title": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/05/419822.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/05/419822.html",
+      "category": "cn-media",
+      "score": 7,
+      "rank_score": 7.0,
+      "rankingScore": 7.0,
+      "summary": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速  衡宇 2026-05-19 10:46:06  来源：量子位   文本领域、视觉领域双双国产第一   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  阿里你的嘴是真严啊，怎么一眨眼Qwen 3.7预览版突然就上线了！ Arena（前大模型竞技场）官方账号公布了Qwen3.7-Max-Preview和Qwen3.7-Plus-Preview新鲜出炉的成绩。 文本领域，Qwen3.7-Max-Preview排名第13，连带着阿里巴巴的（实验室）排名提升至第6。 同时也是国产排名第一的模型。 视觉领域，Qwen3.7-Plus-Preview排名第16，阿里巴巴排名升至第5 同样是排行榜上国产排名第一的模型。 Qwen官号直接放话：“迫不及待想发布Qwen3.7系列了！”    但，等等，我记得4月底才发布了Qwen3.6-Max-Preview？ Qwen3.6-Max还处于预览版，Qwen3.7-Max预览版就端上桌了……一时不知道是正式版放出的节奏比较缓慢，还是版本迭代的速度太快？ 无论如何，Qw",
+      "summary_zh": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速  衡宇 2026-05-19 10:46:06  来源：量子位   文本领域、视觉领域双双国产第一   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  阿里你的嘴是真严啊，怎么一眨眼Qwen 3.7预览版突然就上线了！ Arena（前大模型竞技场）官方账号公布了Qwen3.7-Max-Preview和Qwen3.7-Plus-Preview新鲜出炉的成绩。 文本领域，Qwen3.7-Max-Preview排名第13，连带着阿里巴巴的（实验室）排名提升至第6。 同时也是国产排名第一的模型。 视觉领域，Qwen3.7-Plus-Preview排名第16，阿里巴巴排名升至第5 同样是排行榜上国产排名第一的模型。 Qwen官号直接放话：“迫不及待想发布Qwen3.7系列了！”    但，等等，我记得4月底才发布了Qwen3.6-Max-Preview？ Qwen3.6-Max还处于预览版，Qwen3.7-Max预览版就端上桌了……一时不知道是正式版放出的节奏比较缓慢，还是版本迭代的速度太快？ 无论如何，Qw",
+      "publishedAt": "2026-05-19T02:46:06Z",
+      "published_at": "2026-05-19T02:46:06Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 1,
+        "confidence": 1,
+        "reason": "Qwen预览版更新属真实信号，但细节有限"
+      }
+    },
+    {
+      "id": "54c85b0a",
+      "title": "MuSc-V2实现零样本缺陷检测",
+      "title_en": "[TPAMI2026] 华中科技大学新成果MuSc-V2：多模态零样本工业缺陷检测新技术，让机器学会“互评”找缺陷，颠覆工业质检！",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 7,
+      "rank_score": 7.0,
+      "rankingScore": 7.0,
+      "summary": "华中科技大学提出MuSc-V2，用多模态互评机制提升工业零样本缺陷检测能力。",
+      "summary_zh": "华中科技大学提出MuSc-V2，用多模态互评机制提升工业零样本缺陷检测能力。",
+      "publishedAt": "2026-05-19T21:51:24Z",
+      "published_at": "2026-05-19T21:51:24Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 0,
+        "confidence": 1,
+        "reason": "AI质检论文成果，真实但偏科研导读"
+      }
+    },
+    {
+      "id": "a5036c05",
+      "title": "HyperEyes并行多模态搜索提效",
+      "title_en": "HyperEyes：从「搜得更深」到「搜得更宽」，并行多模态搜索智能体的效率革命",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 6,
+      "rank_score": 6.0,
+      "rankingScore": 6.0,
+      "summary": "HyperEyes通过并行多模态搜索，把“搜得更宽”替代“搜得更深”，显著提升搜索效率。",
+      "summary_zh": "HyperEyes通过并行多模态搜索，把“搜得更宽”替代“搜得更深”，显著提升搜索效率。",
+      "publishedAt": "2026-05-19T21:51:24Z",
+      "published_at": "2026-05-19T21:51:24Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 0,
+        "confidence": 0,
+        "reason": "多模态搜索智能体更新，信息有限"
+      }
+    },
+    {
+      "id": "b82aa787",
+      "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3805660478184966?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3805660478184966?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。 SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此前已获得李泽湘教授旗下清水湾基金的天使轮投资。 过去几年，运动科技赛道几乎被硬件厂商重新定义了一遍。发球机让“一个人练球”成为可能，运动相机令“训练过程的记录”不再需要专人跟拍，智能手表/手环把心率、步频、消耗卡路里等量化成精确的长期数据记录。 尽管每一类产品都跑出了规模不小的公司，但它们各自停留在陪练、记录、监测的单点功能上——数据相互独立、能力无法贯通，难以为用户提供连贯、整体的个性化支持。 运动人群的深层渴望远不止于被记录，还有被指导、被陪伴、被看见进步。一场更底层的变革正在发生：从“记录工具” 到 “AI运动Copilot”的跨越，运动科技赛道正在重写。 工具只需完成指令，而Copilot则可以像教",
+      "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。 SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此前已获得李泽湘教授旗下清水湾基金的天使轮投资。 过去几年，运动科技赛道几乎被硬件厂商重新定义了一遍。发球机让“一个人练球”成为可能，运动相机令“训练过程的记录”不再需要专人跟拍，智能手表/手环把心率、步频、消耗卡路里等量化成精确的长期数据记录。 尽管每一类产品都跑出了规模不小的公司，但它们各自停留在陪练、记录、监测的单点功能上——数据相互独立、能力无法贯通，难以为用户提供连贯、整体的个性化支持。 运动人群的深层渴望远不止于被记录，还有被指导、被陪伴、被看见进步。一场更底层的变革正在发生：从“记录工具” 到 “AI运动Copilot”的跨越，运动科技赛道正在重写。 工具只需完成指令，而Copilot则可以像教",
+      "publishedAt": "2026-05-19T01:30:00Z",
+      "published_at": "2026-05-19T01:30:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 1,
+        "practitioner_value": 1,
+        "signal_over_promo": 1,
+        "distribution_signal": 0,
+        "confidence": 1,
+        "reason": "融资属行业信号，但技术与产品细节少"
+      }
+    }
+  ]
+}
