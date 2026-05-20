@@ -1,9 +1,146 @@
 {
-  "generated_at": "2026-05-20T11:32:59Z",
-  "generatedAt": "2026-05-20T11:32:59Z",
-  "count": 8,
-  "total": 8,
+  "generated_at": "2026-05-20T22:36:16Z",
+  "generatedAt": "2026-05-20T22:36:16Z",
+  "count": 9,
+  "total": 9,
   "entries": [
+    {
+      "date": "2026-05-21",
+      "generated_at": "2026-05-20T22:36:16Z",
+      "generatedAt": "2026-05-20T22:36:16Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "c5f522f1",
+          "title": "产品更新：Emdash",
+          "title_en": "Emdash",
+          "url": "https://www.producthunt.com/products/emdash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/emdash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10,
+          "rankingScore": 10,
+          "summary": "One app. Every coding agent. Open-source. Emda",
+          "summary_zh": "One app. Every coding agent. Open-source. Emda",
+          "publishedAt": "2026-05-20T07:01:00Z",
+          "published_at": "2026-05-20T07:01:00Z",
+          "votes_count": 263,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 2,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，AI编程代理聚合器有实用性"
+          }
+        },
+        {
+          "id": "c07559f4",
+          "title": "StoreClaw电商销售代理平台",
+          "title_en": "StoreClaw",
+          "url": "https://www.producthunt.com/products/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "StoreClaw推出可接入网店的AI销售代理，分析经营数据并经授权自动执行增长建议。",
+          "summary_zh": "StoreClaw推出可接入网店的AI销售代理，分析经营数据并经授权自动执行增长建议。",
+          "publishedAt": "2026-05-20T07:01:00Z",
+          "published_at": "2026-05-20T07:01:00Z",
+          "votes_count": 490,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            },
+            {
+              "id": "839",
+              "name": "Marketing automation",
+              "slug": "marketing-automation"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "317c1c80",
+          "title": "产品更新：mailX by mailwa",
+          "title_en": "mailX by mailwarm",
+          "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Email deliverability toolkit for humans and AI",
+          "summary_zh": "Email deliverability toolkit for humans and AI",
+          "publishedAt": "2026-05-20T07:01:00Z",
+          "published_at": "2026-05-20T07:01:00Z",
+          "votes_count": 432,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "128",
+              "name": "Email Marketing",
+              "slug": "email-marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-05-20",
       "generated_at": "2026-05-20T11:32:59Z",

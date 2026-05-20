@@ -1,0 +1,549 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-20T22:36:16Z",
+  "generatedAt": "2026-05-20T22:36:16Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "c5f522f1",
+          "title": "产品更新：Emdash",
+          "title_en": "Emdash",
+          "url": "https://www.producthunt.com/products/emdash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/emdash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10.0,
+          "rankingScore": 10.0,
+          "summary": "One app. Every coding agent. Open-source. Emda",
+          "summary_zh": "One app. Every coding agent. Open-source. Emda",
+          "publishedAt": "2026-05-20T07:01:00Z",
+          "published_at": "2026-05-20T07:01:00Z",
+          "votes_count": 263,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 2,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，AI编程代理聚合器有实用性"
+          }
+        },
+        {
+          "id": "c07559f4",
+          "title": "StoreClaw电商销售代理平台",
+          "title_en": "StoreClaw",
+          "url": "https://www.producthunt.com/products/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "StoreClaw推出可接入网店的AI销售代理，分析经营数据并经授权自动执行增长建议。",
+          "summary_zh": "StoreClaw推出可接入网店的AI销售代理，分析经营数据并经授权自动执行增长建议。",
+          "publishedAt": "2026-05-20T07:01:00Z",
+          "published_at": "2026-05-20T07:01:00Z",
+          "votes_count": 490,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            },
+            {
+              "id": "839",
+              "name": "Marketing automation",
+              "slug": "marketing-automation"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "317c1c80",
+          "title": "产品更新：mailX by mailwa",
+          "title_en": "mailX by mailwarm",
+          "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Email deliverability toolkit for humans and AI",
+          "summary_zh": "Email deliverability toolkit for humans and AI",
+          "publishedAt": "2026-05-20T07:01:00Z",
+          "published_at": "2026-05-20T07:01:00Z",
+          "votes_count": 432,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "128",
+              "name": "Email Marketing",
+              "slug": "email-marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "eff288f8",
+          "title": "产品更新：Runtime",
+          "title_en": "Runtime",
+          "url": "https://www.producthunt.com/products/runtime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/runtime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Sandboxed coding agents for everyone on your t",
+          "summary_zh": "Sandboxed coding agents for everyone on your t",
+          "publishedAt": "2026-05-20T07:01:00Z",
+          "published_at": "2026-05-20T07:01:00Z",
+          "votes_count": 189,
+          "featured": true,
+          "topics": [
+            {
+              "id": "22",
+              "name": "Slack",
+              "slug": "slack"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "8b7d4f6d",
+          "title": "8点1氪丨谷歌推出Gemini 3.5系列模型；DeepSeek回应用户“对话泄露”疑虑；全国存款十强城市出炉",
+          "title_en": null,
+          "url": "https://36kr.com/p/3816885092910212?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3816885092910212?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览  谷歌推出Gemini 3.5系列模型 洁丽雅回应豪门内斗传闻，“毛巾少爷”1个月带货超500万元 巨力索具连续第二日跌停 前三星芯片负责人：明年内存将降价 自费流感疫苗也可使用医保报销 谷歌搜索宣布大改版，AI模式与代理助手全面嵌入  TOP 3 大新闻 DeepSeek回应用户“对话泄露”疑虑 5月19日，DeepSeek发布关于< think >字符触发模型异常回复的说明。近期关注到有用户反馈，在与DeepSeek模型的对话中输入< think >这类特殊字符后，模型偶发返回不可预期的内容，使部分用户产生了“对话泄露”的疑虑。针对这一问题，技术团队经全面排查后发现：输入< think >等字符触发返回异常内容，属于特殊字符引发的模型幻觉，不涉及安全问题或隐私泄露。DeepSeek表示，后续将通过针对性训练，优化模型在此类场景中的表现。 据此前报道，5月18日，多位用户反映DeepSeek网页版出现功能漏洞，当输入“<think”字符时，其会自动加载出对某问题的回答。有用户反馈称，这些题目疑似其他用户所提的问题，甚至有用户反馈测试时还出现过他人八字相关的隐私内容。（第",
+          "summary_zh": "今日热点导览  谷歌推出Gemini 3.5系列模型 洁丽雅回应豪门内斗传闻，“毛巾少爷”1个月带货超500万元 巨力索具连续第二日跌停 前三星芯片负责人：明年内存将降价 自费流感疫苗也可使用医保报销 谷歌搜索宣布大改版，AI模式与代理助手全面嵌入  TOP 3 大新闻 DeepSeek回应用户“对话泄露”疑虑 5月19日，DeepSeek发布关于< think >字符触发模型异常回复的说明。近期关注到有用户反馈，在与DeepSeek模型的对话中输入< think >这类特殊字符后，模型偶发返回不可预期的内容，使部分用户产生了“对话泄露”的疑虑。针对这一问题，技术团队经全面排查后发现：输入< think >等字符触发返回异常内容，属于特殊字符引发的模型幻觉，不涉及安全问题或隐私泄露。DeepSeek表示，后续将通过针对性训练，优化模型在此类场景中的表现。 据此前报道，5月18日，多位用户反映DeepSeek网页版出现功能漏洞，当输入“<think”字符时，其会自动加载出对某问题的回答。有用户反馈称，这些题目疑似其他用户所提的问题，甚至有用户反馈测试时还出现过他人八字相关的隐私内容。（第",
+          "publishedAt": "2026-05-20T00:20:10Z",
+          "published_at": "2026-05-20T00:20:10Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "ccb06363",
+          "title": "苏姿丰上海开讲：AI正在重新定义计算的每一层",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/05/420531.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/05/420531.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "苏姿丰上海开讲：AI正在重新定义计算的每一层  克雷西 2026-05-20 08:48:27  来源：量子位   AMD持续加码中国开发者生态建设    克雷西 发自 上海 量子位 | 公众号 QbitAI “AI正在重新定义计算的每一个层次。” 这是AMD AI开发者大会今天首次落地上海时，AMD董事会主席、首席执行官苏姿丰针对AI行业给出的最新判断。  这次应AMD邀请，量子位来到了这场大会现场观摩学习。 参加完这一天的活动后可以感受到，从苏姿丰的判断，到整场大会的选题和阵容，都折射出AI行业正在加速转变。 竞争的焦点，正在从模型能力转向系统工程与全栈优化能力。  推理、训练、微调，开发者在每一个环节上面对的挑战，都在变得更加具体、更加工程化。 开发者真正需要的，是一套可以落地、可以优化、可以持续演进的工程体系。 这个判断在中国尤其成立。 DeepSeek、Qwen……过去两年全球最活跃的一批AI工程项目，从未缺少过中国的影子。 中国开发者从来都不只是AI应用的消费者，更是基础设施的建设者。 AMD今天带来的，正是围绕这一趋势的系统性回应。 AI开发者需要新的工程体系 AI落地的",
+          "summary_zh": "苏姿丰上海开讲：AI正在重新定义计算的每一层  克雷西 2026-05-20 08:48:27  来源：量子位   AMD持续加码中国开发者生态建设    克雷西 发自 上海 量子位 | 公众号 QbitAI “AI正在重新定义计算的每一个层次。” 这是AMD AI开发者大会今天首次落地上海时，AMD董事会主席、首席执行官苏姿丰针对AI行业给出的最新判断。  这次应AMD邀请，量子位来到了这场大会现场观摩学习。 参加完这一天的活动后可以感受到，从苏姿丰的判断，到整场大会的选题和阵容，都折射出AI行业正在加速转变。 竞争的焦点，正在从模型能力转向系统工程与全栈优化能力。  推理、训练、微调，开发者在每一个环节上面对的挑战，都在变得更加具体、更加工程化。 开发者真正需要的，是一套可以落地、可以优化、可以持续演进的工程体系。 这个判断在中国尤其成立。 DeepSeek、Qwen……过去两年全球最活跃的一批AI工程项目，从未缺少过中国的影子。 中国开发者从来都不只是AI应用的消费者，更是基础设施的建设者。 AMD今天带来的，正是围绕这一趋势的系统性回应。 AI开发者需要新的工程体系 AI落地的",
+          "publishedAt": "2026-05-20T00:48:27Z",
+          "published_at": "2026-05-20T00:48:27Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "a556710c",
+          "title": "早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万",
+          "title_en": null,
+          "url": "https://36kr.com/p/3816947890471812?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3816947890471812?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，Visual Agent（视觉智能体）创业公司Chance AI宣布完成数百万美元天使轮融资。本轮由美图领投，NYX Ventures、阿里系投资机构等跟投。融资将用于模型能力迭代、北美学生群体增长、以及社区与商业化探索。 Chance AI成立于2025年，核心产品是全球第一款以摄像头为主要交互入口的AI产品——Visual Agent（视觉智能体）。 与传统AI产品依赖输入框不同，用户打开Chance AI后直接拍摄眼前内容，系统即可理解视觉意图并提供判断、建议和行动方案。  Chance AI APP 界面一览（图源/企业） 公司创始人曾熙，路径横跨学术与产业。他在巴塞罗那大学获得博士学位，研究方向为认知科学与当代艺术；后在OnePlus、OPPO负责产品与设计；随后加入字节跳动，在Flow部门参与豆包等AI产品从0到1的探索。 这段“学术+硬件+软件”的经历让他意识到：大语言模型擅长“回答问题”，但对于人类基于视觉形成判断，AI提供的支持仍非常不足。 技术层面，Chance AI的Visual Agent在多模态推理基准MMMU-Pro评测中",
+          "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，Visual Agent（视觉智能体）创业公司Chance AI宣布完成数百万美元天使轮融资。本轮由美图领投，NYX Ventures、阿里系投资机构等跟投。融资将用于模型能力迭代、北美学生群体增长、以及社区与商业化探索。 Chance AI成立于2025年，核心产品是全球第一款以摄像头为主要交互入口的AI产品——Visual Agent（视觉智能体）。 与传统AI产品依赖输入框不同，用户打开Chance AI后直接拍摄眼前内容，系统即可理解视觉意图并提供判断、建议和行动方案。  Chance AI APP 界面一览（图源/企业） 公司创始人曾熙，路径横跨学术与产业。他在巴塞罗那大学获得博士学位，研究方向为认知科学与当代艺术；后在OnePlus、OPPO负责产品与设计；随后加入字节跳动，在Flow部门参与豆包等AI产品从0到1的探索。 这段“学术+硬件+软件”的经历让他意识到：大语言模型擅长“回答问题”，但对于人类基于视觉形成判断，AI提供的支持仍非常不足。 技术层面，Chance AI的Visual Agent在多模态推理基准MMMU-Pro评测中",
+          "publishedAt": "2026-05-20T01:20:43Z",
+          "published_at": "2026-05-20T01:20:43Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 1,
+            "practitioner_value": 1,
+            "signal_over_promo": 1,
+            "distribution_signal": 0,
+            "confidence": 1,
+            "reason": "AI视觉Agent融资动态，行业信号有但偏宣传"
+          }
+        },
+        {
+          "id": "65d54cb7",
+          "title": "要做数字劳动力生产工厂，「未来式智能」完成Pre-A轮融资",
+          "title_en": null,
+          "url": "https://36kr.com/p/3816909945029760?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3816909945029760?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "文｜王欣逸 编辑｜邓咏仪 36氪获悉，未来式智能（AutoAgents.ai）近日完成Pre-A轮融资，新进投资方包括凡创资本、中关村资本、探元资本，老股东东证创新、麟阁创投跟投，本轮融资主要用于算力投入、团队扩张以及新产品的生态建设运营。 未来式智能成立于2023年6月，专注于以智能体技术赋能知识工作者。核心团队来自达摩院、腾讯、字节跳动和谷歌。创始人兼CEO杨劲松曾在达摩院担任产品/商业化总监，曾任字节飞书AI负责人、亚马逊AWS aPaaS平台负责人，主导推出阿里灵杰、通义-Alicemind，在AI产品和商业化方面有着多年经验。 作为核心产品之一的企业级智能体搭建平台“灵搭”，旨在解决企业部署和应用大模型时的核心诉求：数据安全隐私、权限分级管理、复杂系统集成，以及智能体在真实业务场景中的交付稳定性。 “灵搭”从诞生之初便一直把重点放在企业客户，尤其是电力、金融、制造等对稳定性和合规要求极高的行业。 时间回到2023年，当“百模大战”正酣、大多数创业者和投资人涌向大模型赛道时，杨劲松做出了一个与众不同的决定——不做大模型，做Agent。 在阿里达摩院亲手训练大模型的经历让他看到：",
+          "summary_zh": "文｜王欣逸 编辑｜邓咏仪 36氪获悉，未来式智能（AutoAgents.ai）近日完成Pre-A轮融资，新进投资方包括凡创资本、中关村资本、探元资本，老股东东证创新、麟阁创投跟投，本轮融资主要用于算力投入、团队扩张以及新产品的生态建设运营。 未来式智能成立于2023年6月，专注于以智能体技术赋能知识工作者。核心团队来自达摩院、腾讯、字节跳动和谷歌。创始人兼CEO杨劲松曾在达摩院担任产品/商业化总监，曾任字节飞书AI负责人、亚马逊AWS aPaaS平台负责人，主导推出阿里灵杰、通义-Alicemind，在AI产品和商业化方面有着多年经验。 作为核心产品之一的企业级智能体搭建平台“灵搭”，旨在解决企业部署和应用大模型时的核心诉求：数据安全隐私、权限分级管理、复杂系统集成，以及智能体在真实业务场景中的交付稳定性。 “灵搭”从诞生之初便一直把重点放在企业客户，尤其是电力、金融、制造等对稳定性和合规要求极高的行业。 时间回到2023年，当“百模大战”正酣、大多数创业者和投资人涌向大模型赛道时，杨劲松做出了一个与众不同的决定——不做大模型，做Agent。 在阿里达摩院亲手训练大模型的经历让他看到：",
+          "publishedAt": "2026-05-20T01:21:27Z",
+          "published_at": "2026-05-20T01:21:27Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "c5f522f1",
+      "title": "产品更新：Emdash",
+      "title_en": "Emdash",
+      "url": "https://www.producthunt.com/products/emdash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/emdash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 9,
+      "rank_score": 10.0,
+      "rankingScore": 10.0,
+      "summary": "One app. Every coding agent. Open-source. Emda",
+      "summary_zh": "One app. Every coding agent. Open-source. Emda",
+      "publishedAt": "2026-05-20T07:01:00Z",
+      "published_at": "2026-05-20T07:01:00Z",
+      "votes_count": 263,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 3,
+        "signal_over_promo": 2,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票featured，AI编程代理聚合器有实用性"
+      }
+    },
+    {
+      "id": "c07559f4",
+      "title": "StoreClaw电商销售代理平台",
+      "title_en": "StoreClaw",
+      "url": "https://www.producthunt.com/products/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "StoreClaw推出可接入网店的AI销售代理，分析经营数据并经授权自动执行增长建议。",
+      "summary_zh": "StoreClaw推出可接入网店的AI销售代理，分析经营数据并经授权自动执行增长建议。",
+      "publishedAt": "2026-05-20T07:01:00Z",
+      "published_at": "2026-05-20T07:01:00Z",
+      "votes_count": 490,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "278",
+          "name": "E-Commerce",
+          "slug": "e-commerce"
+        },
+        {
+          "id": "839",
+          "name": "Marketing automation",
+          "slug": "marketing-automation"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "317c1c80",
+      "title": "产品更新：mailX by mailwa",
+      "title_en": "mailX by mailwarm",
+      "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Email deliverability toolkit for humans and AI",
+      "summary_zh": "Email deliverability toolkit for humans and AI",
+      "publishedAt": "2026-05-20T07:01:00Z",
+      "published_at": "2026-05-20T07:01:00Z",
+      "votes_count": 432,
+      "featured": true,
+      "topics": [
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "128",
+          "name": "Email Marketing",
+          "slug": "email-marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "eff288f8",
+      "title": "产品更新：Runtime",
+      "title_en": "Runtime",
+      "url": "https://www.producthunt.com/products/runtime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/runtime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Sandboxed coding agents for everyone on your t",
+      "summary_zh": "Sandboxed coding agents for everyone on your t",
+      "publishedAt": "2026-05-20T07:01:00Z",
+      "published_at": "2026-05-20T07:01:00Z",
+      "votes_count": 189,
+      "featured": true,
+      "topics": [
+        {
+          "id": "22",
+          "name": "Slack",
+          "slug": "slack"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8b7d4f6d",
+      "title": "8点1氪丨谷歌推出Gemini 3.5系列模型；DeepSeek回应用户“对话泄露”疑虑；全国存款十强城市出炉",
+      "title_en": null,
+      "url": "https://36kr.com/p/3816885092910212?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3816885092910212?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览  谷歌推出Gemini 3.5系列模型 洁丽雅回应豪门内斗传闻，“毛巾少爷”1个月带货超500万元 巨力索具连续第二日跌停 前三星芯片负责人：明年内存将降价 自费流感疫苗也可使用医保报销 谷歌搜索宣布大改版，AI模式与代理助手全面嵌入  TOP 3 大新闻 DeepSeek回应用户“对话泄露”疑虑 5月19日，DeepSeek发布关于< think >字符触发模型异常回复的说明。近期关注到有用户反馈，在与DeepSeek模型的对话中输入< think >这类特殊字符后，模型偶发返回不可预期的内容，使部分用户产生了“对话泄露”的疑虑。针对这一问题，技术团队经全面排查后发现：输入< think >等字符触发返回异常内容，属于特殊字符引发的模型幻觉，不涉及安全问题或隐私泄露。DeepSeek表示，后续将通过针对性训练，优化模型在此类场景中的表现。 据此前报道，5月18日，多位用户反映DeepSeek网页版出现功能漏洞，当输入“<think”字符时，其会自动加载出对某问题的回答。有用户反馈称，这些题目疑似其他用户所提的问题，甚至有用户反馈测试时还出现过他人八字相关的隐私内容。（第",
+      "summary_zh": "今日热点导览  谷歌推出Gemini 3.5系列模型 洁丽雅回应豪门内斗传闻，“毛巾少爷”1个月带货超500万元 巨力索具连续第二日跌停 前三星芯片负责人：明年内存将降价 自费流感疫苗也可使用医保报销 谷歌搜索宣布大改版，AI模式与代理助手全面嵌入  TOP 3 大新闻 DeepSeek回应用户“对话泄露”疑虑 5月19日，DeepSeek发布关于< think >字符触发模型异常回复的说明。近期关注到有用户反馈，在与DeepSeek模型的对话中输入< think >这类特殊字符后，模型偶发返回不可预期的内容，使部分用户产生了“对话泄露”的疑虑。针对这一问题，技术团队经全面排查后发现：输入< think >等字符触发返回异常内容，属于特殊字符引发的模型幻觉，不涉及安全问题或隐私泄露。DeepSeek表示，后续将通过针对性训练，优化模型在此类场景中的表现。 据此前报道，5月18日，多位用户反映DeepSeek网页版出现功能漏洞，当输入“<think”字符时，其会自动加载出对某问题的回答。有用户反馈称，这些题目疑似其他用户所提的问题，甚至有用户反馈测试时还出现过他人八字相关的隐私内容。（第",
+      "publishedAt": "2026-05-20T00:20:10Z",
+      "published_at": "2026-05-20T00:20:10Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ccb06363",
+      "title": "苏姿丰上海开讲：AI正在重新定义计算的每一层",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/05/420531.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/05/420531.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "苏姿丰上海开讲：AI正在重新定义计算的每一层  克雷西 2026-05-20 08:48:27  来源：量子位   AMD持续加码中国开发者生态建设    克雷西 发自 上海 量子位 | 公众号 QbitAI “AI正在重新定义计算的每一个层次。” 这是AMD AI开发者大会今天首次落地上海时，AMD董事会主席、首席执行官苏姿丰针对AI行业给出的最新判断。  这次应AMD邀请，量子位来到了这场大会现场观摩学习。 参加完这一天的活动后可以感受到，从苏姿丰的判断，到整场大会的选题和阵容，都折射出AI行业正在加速转变。 竞争的焦点，正在从模型能力转向系统工程与全栈优化能力。  推理、训练、微调，开发者在每一个环节上面对的挑战，都在变得更加具体、更加工程化。 开发者真正需要的，是一套可以落地、可以优化、可以持续演进的工程体系。 这个判断在中国尤其成立。 DeepSeek、Qwen……过去两年全球最活跃的一批AI工程项目，从未缺少过中国的影子。 中国开发者从来都不只是AI应用的消费者，更是基础设施的建设者。 AMD今天带来的，正是围绕这一趋势的系统性回应。 AI开发者需要新的工程体系 AI落地的",
+      "summary_zh": "苏姿丰上海开讲：AI正在重新定义计算的每一层  克雷西 2026-05-20 08:48:27  来源：量子位   AMD持续加码中国开发者生态建设    克雷西 发自 上海 量子位 | 公众号 QbitAI “AI正在重新定义计算的每一个层次。” 这是AMD AI开发者大会今天首次落地上海时，AMD董事会主席、首席执行官苏姿丰针对AI行业给出的最新判断。  这次应AMD邀请，量子位来到了这场大会现场观摩学习。 参加完这一天的活动后可以感受到，从苏姿丰的判断，到整场大会的选题和阵容，都折射出AI行业正在加速转变。 竞争的焦点，正在从模型能力转向系统工程与全栈优化能力。  推理、训练、微调，开发者在每一个环节上面对的挑战，都在变得更加具体、更加工程化。 开发者真正需要的，是一套可以落地、可以优化、可以持续演进的工程体系。 这个判断在中国尤其成立。 DeepSeek、Qwen……过去两年全球最活跃的一批AI工程项目，从未缺少过中国的影子。 中国开发者从来都不只是AI应用的消费者，更是基础设施的建设者。 AMD今天带来的，正是围绕这一趋势的系统性回应。 AI开发者需要新的工程体系 AI落地的",
+      "publishedAt": "2026-05-20T00:48:27Z",
+      "published_at": "2026-05-20T00:48:27Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "a556710c",
+      "title": "早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万",
+      "title_en": null,
+      "url": "https://36kr.com/p/3816947890471812?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3816947890471812?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，Visual Agent（视觉智能体）创业公司Chance AI宣布完成数百万美元天使轮融资。本轮由美图领投，NYX Ventures、阿里系投资机构等跟投。融资将用于模型能力迭代、北美学生群体增长、以及社区与商业化探索。 Chance AI成立于2025年，核心产品是全球第一款以摄像头为主要交互入口的AI产品——Visual Agent（视觉智能体）。 与传统AI产品依赖输入框不同，用户打开Chance AI后直接拍摄眼前内容，系统即可理解视觉意图并提供判断、建议和行动方案。  Chance AI APP 界面一览（图源/企业） 公司创始人曾熙，路径横跨学术与产业。他在巴塞罗那大学获得博士学位，研究方向为认知科学与当代艺术；后在OnePlus、OPPO负责产品与设计；随后加入字节跳动，在Flow部门参与豆包等AI产品从0到1的探索。 这段“学术+硬件+软件”的经历让他意识到：大语言模型擅长“回答问题”，但对于人类基于视觉形成判断，AI提供的支持仍非常不足。 技术层面，Chance AI的Visual Agent在多模态推理基准MMMU-Pro评测中",
+      "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，Visual Agent（视觉智能体）创业公司Chance AI宣布完成数百万美元天使轮融资。本轮由美图领投，NYX Ventures、阿里系投资机构等跟投。融资将用于模型能力迭代、北美学生群体增长、以及社区与商业化探索。 Chance AI成立于2025年，核心产品是全球第一款以摄像头为主要交互入口的AI产品——Visual Agent（视觉智能体）。 与传统AI产品依赖输入框不同，用户打开Chance AI后直接拍摄眼前内容，系统即可理解视觉意图并提供判断、建议和行动方案。  Chance AI APP 界面一览（图源/企业） 公司创始人曾熙，路径横跨学术与产业。他在巴塞罗那大学获得博士学位，研究方向为认知科学与当代艺术；后在OnePlus、OPPO负责产品与设计；随后加入字节跳动，在Flow部门参与豆包等AI产品从0到1的探索。 这段“学术+硬件+软件”的经历让他意识到：大语言模型擅长“回答问题”，但对于人类基于视觉形成判断，AI提供的支持仍非常不足。 技术层面，Chance AI的Visual Agent在多模态推理基准MMMU-Pro评测中",
+      "publishedAt": "2026-05-20T01:20:43Z",
+      "published_at": "2026-05-20T01:20:43Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 1,
+        "practitioner_value": 1,
+        "signal_over_promo": 1,
+        "distribution_signal": 0,
+        "confidence": 1,
+        "reason": "AI视觉Agent融资动态，行业信号有但偏宣传"
+      }
+    },
+    {
+      "id": "65d54cb7",
+      "title": "要做数字劳动力生产工厂，「未来式智能」完成Pre-A轮融资",
+      "title_en": null,
+      "url": "https://36kr.com/p/3816909945029760?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3816909945029760?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "文｜王欣逸 编辑｜邓咏仪 36氪获悉，未来式智能（AutoAgents.ai）近日完成Pre-A轮融资，新进投资方包括凡创资本、中关村资本、探元资本，老股东东证创新、麟阁创投跟投，本轮融资主要用于算力投入、团队扩张以及新产品的生态建设运营。 未来式智能成立于2023年6月，专注于以智能体技术赋能知识工作者。核心团队来自达摩院、腾讯、字节跳动和谷歌。创始人兼CEO杨劲松曾在达摩院担任产品/商业化总监，曾任字节飞书AI负责人、亚马逊AWS aPaaS平台负责人，主导推出阿里灵杰、通义-Alicemind，在AI产品和商业化方面有着多年经验。 作为核心产品之一的企业级智能体搭建平台“灵搭”，旨在解决企业部署和应用大模型时的核心诉求：数据安全隐私、权限分级管理、复杂系统集成，以及智能体在真实业务场景中的交付稳定性。 “灵搭”从诞生之初便一直把重点放在企业客户，尤其是电力、金融、制造等对稳定性和合规要求极高的行业。 时间回到2023年，当“百模大战”正酣、大多数创业者和投资人涌向大模型赛道时，杨劲松做出了一个与众不同的决定——不做大模型，做Agent。 在阿里达摩院亲手训练大模型的经历让他看到：",
+      "summary_zh": "文｜王欣逸 编辑｜邓咏仪 36氪获悉，未来式智能（AutoAgents.ai）近日完成Pre-A轮融资，新进投资方包括凡创资本、中关村资本、探元资本，老股东东证创新、麟阁创投跟投，本轮融资主要用于算力投入、团队扩张以及新产品的生态建设运营。 未来式智能成立于2023年6月，专注于以智能体技术赋能知识工作者。核心团队来自达摩院、腾讯、字节跳动和谷歌。创始人兼CEO杨劲松曾在达摩院担任产品/商业化总监，曾任字节飞书AI负责人、亚马逊AWS aPaaS平台负责人，主导推出阿里灵杰、通义-Alicemind，在AI产品和商业化方面有着多年经验。 作为核心产品之一的企业级智能体搭建平台“灵搭”，旨在解决企业部署和应用大模型时的核心诉求：数据安全隐私、权限分级管理、复杂系统集成，以及智能体在真实业务场景中的交付稳定性。 “灵搭”从诞生之初便一直把重点放在企业客户，尤其是电力、金融、制造等对稳定性和合规要求极高的行业。 时间回到2023年，当“百模大战”正酣、大多数创业者和投资人涌向大模型赛道时，杨劲松做出了一个与众不同的决定——不做大模型，做Agent。 在阿里达摩院亲手训练大模型的经历让他看到：",
+      "publishedAt": "2026-05-20T01:21:27Z",
+      "published_at": "2026-05-20T01:21:27Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
