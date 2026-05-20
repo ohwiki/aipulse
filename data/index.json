@@ -1,112 +1,34 @@
 {
-  "generated_at": "2026-05-19T21:54:21Z",
-  "generatedAt": "2026-05-19T21:54:21Z",
+  "generated_at": "2026-05-20T11:32:59Z",
+  "generatedAt": "2026-05-20T11:32:59Z",
   "count": 8,
   "total": 8,
   "entries": [
     {
       "date": "2026-05-20",
-      "generated_at": "2026-05-19T21:54:21Z",
-      "generatedAt": "2026-05-19T21:54:21Z",
-      "total": 11,
-      "sectionCount": 3,
+      "generated_at": "2026-05-20T11:32:59Z",
+      "generatedAt": "2026-05-20T11:32:59Z",
+      "total": 18,
+      "sectionCount": 4,
       "highlights": [
         {
-          "id": "604b8d6e",
-          "title": "Drizz发布AI移动测试平台",
-          "title_en": "Drizz",
-          "url": "https://www.producthunt.com/products/drizz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "c5f522f1",
+          "title": "Emdash开源编程代理桌面应用",
+          "title_en": "Emdash",
+          "url": "https://www.producthunt.com/products/emdash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/drizz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/emdash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 9,
           "rank_score": 10,
           "rankingScore": 10,
-          "summary": "Drizz推出AI移动测试平台，可在真机上按自然语言自动生成、执行并修复测试用例。",
-          "summary_zh": "Drizz推出AI移动测试平台，可在真机上按自然语言自动生成、执行并修复测试用例。",
-          "publishedAt": "2026-05-19T07:01:00Z",
-          "published_at": "2026-05-19T07:01:00Z",
-          "votes_count": 326,
-          "featured": true,
-          "topics": [
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "470",
-              "name": "No-Code",
-              "slug": "no-code"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 3,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "PH高票精选，AI移动测试自动化有实用性"
-          }
-        },
-        {
-          "id": "64d3b909",
-          "title": "谷歌发布Gemini 3.5",
-          "title_en": "Gemini 3.5: frontier intelligence with action",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-          "source": "Google AI Blog",
-          "source_type": null,
-          "sourceName": "Google AI Blog",
-          "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-          "category": "ai-models",
-          "score": 9,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "谷歌推出Gemini 3.5，主打更强前沿智能与可执行操作能力。",
-          "summary_zh": "谷歌推出Gemini 3.5，主打更强前沿智能与可执行操作能力。",
-          "publishedAt": "2026-05-19T17:45:00Z",
-          "published_at": "2026-05-19T17:45:00Z",
-          "votes_count": null,
-          "featured": null,
-          "topics": [],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 3,
-            "practitioner_value": 3,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "Google正式发布Gemini 3.5 Flash，开发可用"
-          }
-        },
-        {
-          "id": "6298c54d",
-          "title": "PollyReach让AI代打电话",
-          "title_en": "PollyReach",
-          "url": "https://www.producthunt.com/products/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/pollyreach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 8,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "PollyReach为个人AI分配真实号码，可自主打电话办事、24小时接听来电并过滤骚扰。",
-          "summary_zh": "PollyReach为个人AI分配真实号码，可自主打电话办事、24小时接听来电并过滤骚扰。",
-          "publishedAt": "2026-05-19T07:01:00Z",
-          "published_at": "2026-05-19T07:01:00Z",
-          "votes_count": 394,
+          "summary": "Emdash发布开源桌面应用，可并行运行多个编程代理并集中查看会话、审查改动和生成PR。",
+          "summary_zh": "Emdash发布开源桌面应用，可并行运行多个编程代理并集中查看会话、审查改动和生成PR。",
+          "publishedAt": "2026-05-20T07:01:00Z",
+          "published_at": "2026-05-20T07:01:00Z",
+          "votes_count": 130,
           "featured": true,
           "topics": [
             {
@@ -115,14 +37,108 @@
               "slug": "productivity"
             },
             {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 2,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "多Agent编程调度，PH高票featured"
+          }
+        },
+        {
+          "id": "851be3d8",
+          "title": "Supercut推出Agent接口",
+          "title_en": "Supercut for Agents",
+          "url": "https://www.producthunt.com/products/supercut?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/supercut?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 9.6,
+          "rankingScore": 9.6,
+          "summary": "Supercut发布面向AI助手的MCP，可按权限访问录音及其转写、画面、评论等数据。",
+          "summary_zh": "Supercut发布面向AI助手的MCP，可按权限访问录音及其转写、画面、评论等数据。",
+          "publishedAt": "2026-05-20T07:01:00Z",
+          "published_at": "2026-05-20T07:01:00Z",
+          "votes_count": 96,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 2,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，MCP接入录音数据"
+          }
+        },
+        {
+          "id": "c07559f4",
+          "title": "StoreClaw智能电商代理平台",
+          "title_en": "StoreClaw",
+          "url": "https://www.producthunt.com/products/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "StoreClaw推出可接入网店的AI销售代理，分析经营数据并在获批后主动执行增长建议。",
+          "summary_zh": "StoreClaw推出可接入网店的AI销售代理，分析经营数据并在获批后主动执行增长建议。",
+          "publishedAt": "2026-05-20T07:01:00Z",
+          "published_at": "2026-05-20T07:01:00Z",
+          "votes_count": 238,
+          "featured": true,
+          "topics": [
+            {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
             },
             {
-              "id": "282",
-              "name": "Virtual Assistants",
-              "slug": "virtual-assistants"
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            },
+            {
+              "id": "839",
+              "name": "Marketing automation",
+              "slug": "marketing-automation"
             }
           ],
           "score_details": {
@@ -133,7 +149,7 @@
             "signal_over_promo": 1,
             "distribution_signal": 2,
             "confidence": 1,
-            "reason": "高票Featured，AI语音代理发布信号强"
+            "reason": "PH高票featured，AI电商Agent新品"
           }
         }
       ]
