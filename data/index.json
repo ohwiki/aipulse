@@ -1,34 +1,128 @@
 {
-  "generated_at": "2026-05-20T22:36:16Z",
-  "generatedAt": "2026-05-20T22:36:16Z",
+  "generated_at": "2026-05-21T11:49:11Z",
+  "generatedAt": "2026-05-21T11:49:11Z",
   "count": 9,
   "total": 9,
   "entries": [
     {
       "date": "2026-05-21",
-      "generated_at": "2026-05-20T22:36:16Z",
-      "generatedAt": "2026-05-20T22:36:16Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-05-21T11:49:11Z",
+      "generatedAt": "2026-05-21T11:49:11Z",
+      "total": 17,
+      "sectionCount": 4,
       "highlights": [
         {
-          "id": "c5f522f1",
-          "title": "产品更新：Emdash",
-          "title_en": "Emdash",
-          "url": "https://www.producthunt.com/products/emdash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "99435f15",
+          "title": "Google发布Antigravity 2.0",
+          "title_en": "Google Antigravity 2.0",
+          "url": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/emdash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 9,
           "rank_score": 10,
           "rankingScore": 10,
-          "summary": "One app. Every coding agent. Open-source. Emda",
-          "summary_zh": "One app. Every coding agent. Open-source. Emda",
-          "publishedAt": "2026-05-20T07:01:00Z",
-          "published_at": "2026-05-20T07:01:00Z",
-          "votes_count": 263,
+          "summary": "Google推出桌面版Antigravity 2.0，可并行编排多智能体并支持定时后台任务与原生开发集成。",
+          "summary_zh": "Google推出桌面版Antigravity 2.0，可并行编排多智能体并支持定时后台任务与原生开发集成。",
+          "publishedAt": "2026-05-21T07:01:00Z",
+          "published_at": "2026-05-21T07:01:00Z",
+          "votes_count": 158,
+          "featured": true,
+          "topics": [
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "高票Featured，开发者向Agent编排更新"
+          }
+        },
+        {
+          "id": "c793d78d",
+          "title": "WeWeb 3.0发布",
+          "title_en": "WeWeb 3.0",
+          "url": "https://www.producthunt.com/products/weweb-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/weweb-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "WeWeb 3.0推出可生成应用且可全程无代码精细编辑的AI建站工具。",
+          "summary_zh": "WeWeb 3.0推出可生成应用且可全程无代码精细编辑的AI建站工具。",
+          "publishedAt": "2026-05-21T07:01:00Z",
+          "published_at": "2026-05-21T07:01:00Z",
+          "votes_count": 151,
+          "featured": true,
+          "topics": [
+            {
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            },
+            {
+              "id": "805",
+              "name": "Web Design",
+              "slug": "web-design"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH featured高票，AI无代码建站3.0更新明确"
+          }
+        },
+        {
+          "id": "2efb546d",
+          "title": "Slideshot自动生成产品演示视频",
+          "title_en": "Slideshot",
+          "url": "https://www.producthunt.com/products/slideshot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/slideshot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Slideshot可让AI代理操作网页应用，自动录制并生成精修演示视频和GIF。",
+          "summary_zh": "Slideshot可让AI代理操作网页应用，自动录制并生成精修演示视频和GIF。",
+          "publishedAt": "2026-05-21T07:01:00Z",
+          "published_at": "2026-05-21T07:01:00Z",
+          "votes_count": 120,
           "featured": true,
           "topics": [
             {
@@ -37,61 +131,9 @@
               "slug": "productivity"
             },
             {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
               "id": "267",
               "name": "Developer Tools",
               "slug": "developer-tools"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 3,
-            "signal_over_promo": 2,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "PH高票featured，AI编程代理聚合器有实用性"
-          }
-        },
-        {
-          "id": "c07559f4",
-          "title": "StoreClaw电商销售代理平台",
-          "title_en": "StoreClaw",
-          "url": "https://www.producthunt.com/products/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "StoreClaw推出可接入网店的AI销售代理，分析经营数据并经授权自动执行增长建议。",
-          "summary_zh": "StoreClaw推出可接入网店的AI销售代理，分析经营数据并经授权自动执行增长建议。",
-          "publishedAt": "2026-05-20T07:01:00Z",
-          "published_at": "2026-05-20T07:01:00Z",
-          "votes_count": 490,
-          "featured": true,
-          "topics": [
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "278",
-              "name": "E-Commerce",
-              "slug": "e-commerce"
             },
             {
               "id": "839",
@@ -99,45 +141,16 @@
               "slug": "marketing-automation"
             }
           ],
-          "score_details": null
-        },
-        {
-          "id": "317c1c80",
-          "title": "产品更新：mailX by mailwa",
-          "title_en": "mailX by mailwarm",
-          "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Email deliverability toolkit for humans and AI",
-          "summary_zh": "Email deliverability toolkit for humans and AI",
-          "publishedAt": "2026-05-20T07:01:00Z",
-          "published_at": "2026-05-20T07:01:00Z",
-          "votes_count": 432,
-          "featured": true,
-          "topics": [
-            {
-              "id": "39",
-              "name": "Email",
-              "slug": "email"
-            },
-            {
-              "id": "128",
-              "name": "Email Marketing",
-              "slug": "email-marketing"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，AI演示录制工具"
+          }
         }
       ]
     },
