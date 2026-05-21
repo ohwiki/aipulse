@@ -1,0 +1,523 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-21T21:57:25Z",
+  "generatedAt": "2026-05-21T21:57:25Z",
+  "total": 6,
+  "count": 6,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "fb344aa3",
+          "title": "Tycoon推AI公司代理平台",
+          "title_en": "Tycoon AI",
+          "url": "https://www.producthunt.com/products/tycoon-us?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/tycoon-us?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "Tycoon推出可用AI代理运营一人公司的平台，AI CEO可分配任务、跟踪进度并驱动营销与开发。",
+          "summary_zh": "Tycoon推出可用AI代理运营一人公司的平台，AI CEO可分配任务、跟踪进度并驱动营销与开发。",
+          "publishedAt": "2026-05-21T07:01:00Z",
+          "published_at": "2026-05-21T07:01:00Z",
+          "votes_count": 349,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，AI代理公司化运营有看点"
+          }
+        },
+        {
+          "id": "99435f15",
+          "title": "Google发布Antigravity 2.0",
+          "title_en": "Google Antigravity 2.0",
+          "url": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "Google推出Antigravity 2.0桌面应用，支持并行编排多智能体工作流和定时后台任务。",
+          "summary_zh": "Google推出Antigravity 2.0桌面应用，支持并行编排多智能体工作流和定时后台任务。",
+          "publishedAt": "2026-05-21T07:01:00Z",
+          "published_at": "2026-05-21T07:01:00Z",
+          "votes_count": 241,
+          "featured": true,
+          "topics": [
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，AI多代理开发工具"
+          }
+        },
+        {
+          "id": "1266bfe5",
+          "title": "Mintlify推出文档工作流",
+          "title_en": "Mintlify Workflows",
+          "url": "https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "Mintlify发布Workflows，可自动更新知识库、生成变更日志并维护文档翻译。",
+          "summary_zh": "Mintlify发布Workflows，可自动更新知识库、生成变更日志并维护文档翻译。",
+          "publishedAt": "2026-05-21T07:01:00Z",
+          "published_at": "2026-05-21T07:01:00Z",
+          "votes_count": 238,
+          "featured": true,
+          "topics": [
+            {
+              "id": "96",
+              "name": "Notes",
+              "slug": "notes"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "AI文档自动化新发布，PH高票featured"
+          }
+        },
+        {
+          "id": "c793d78d",
+          "title": "WeWeb 3.0发布",
+          "title_en": "WeWeb 3.0",
+          "url": "https://www.producthunt.com/products/weweb-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/weweb-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "WeWeb 3.0上线：AI生成应用后，非程序员也能用无代码编辑器全面修改界面、流程和数据库。",
+          "summary_zh": "WeWeb 3.0上线：AI生成应用后，非程序员也能用无代码编辑器全面修改界面、流程和数据库。",
+          "publishedAt": "2026-05-21T07:01:00Z",
+          "published_at": "2026-05-21T07:01:00Z",
+          "votes_count": 232,
+          "featured": true,
+          "topics": [
+            {
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票Featured，AI无代码建应用更新"
+          }
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "66eaa4d7",
+          "title": "强化学习突破传统UED瓶颈",
+          "title_en": "ICML 2026｜传统UED瓶颈被打破，强化学习也能精准定位「最近发展区」",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 7,
+          "rank_score": 7.0,
+          "rankingScore": 7.0,
+          "summary": "ICML 2026工作提出新方法，打破传统UED限制，让强化学习更精准定位最近发展区。",
+          "summary_zh": "ICML 2026工作提出新方法，打破传统UED限制，让强化学习更精准定位最近发展区。",
+          "publishedAt": "2026-05-21T21:53:49Z",
+          "published_at": "2026-05-21T21:53:49Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 0,
+            "confidence": 1,
+            "reason": "ICML论文动态，方法有研究参考价值"
+          }
+        },
+        {
+          "id": "7fa0ae8c",
+          "title": "PACE参数变化环境设计",
+          "title_en": "PACE（Parameter Change Environment Design）",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 7,
+          "rank_score": 7.0,
+          "rankingScore": 7.0,
+          "summary": "PACE被提出，用于进行参数变化环境设计。",
+          "summary_zh": "PACE被提出，用于进行参数变化环境设计。",
+          "publishedAt": "2026-05-21T21:53:49Z",
+          "published_at": "2026-05-21T21:53:49Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 0,
+            "confidence": 0,
+            "reason": "ICML强化学习研究，偏学术但有方法新意"
+          }
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "fb344aa3",
+      "title": "Tycoon推AI公司代理平台",
+      "title_en": "Tycoon AI",
+      "url": "https://www.producthunt.com/products/tycoon-us?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/tycoon-us?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Tycoon推出可用AI代理运营一人公司的平台，AI CEO可分配任务、跟踪进度并驱动营销与开发。",
+      "summary_zh": "Tycoon推出可用AI代理运营一人公司的平台，AI CEO可分配任务、跟踪进度并驱动营销与开发。",
+      "publishedAt": "2026-05-21T07:01:00Z",
+      "published_at": "2026-05-21T07:01:00Z",
+      "votes_count": 349,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票featured，AI代理公司化运营有看点"
+      }
+    },
+    {
+      "id": "99435f15",
+      "title": "Google发布Antigravity 2.0",
+      "title_en": "Google Antigravity 2.0",
+      "url": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Google推出Antigravity 2.0桌面应用，支持并行编排多智能体工作流和定时后台任务。",
+      "summary_zh": "Google推出Antigravity 2.0桌面应用，支持并行编排多智能体工作流和定时后台任务。",
+      "publishedAt": "2026-05-21T07:01:00Z",
+      "published_at": "2026-05-21T07:01:00Z",
+      "votes_count": 241,
+      "featured": true,
+      "topics": [
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 3,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票featured，AI多代理开发工具"
+      }
+    },
+    {
+      "id": "1266bfe5",
+      "title": "Mintlify推出文档工作流",
+      "title_en": "Mintlify Workflows",
+      "url": "https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Mintlify发布Workflows，可自动更新知识库、生成变更日志并维护文档翻译。",
+      "summary_zh": "Mintlify发布Workflows，可自动更新知识库、生成变更日志并维护文档翻译。",
+      "publishedAt": "2026-05-21T07:01:00Z",
+      "published_at": "2026-05-21T07:01:00Z",
+      "votes_count": 238,
+      "featured": true,
+      "topics": [
+        {
+          "id": "96",
+          "name": "Notes",
+          "slug": "notes"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "AI文档自动化新发布，PH高票featured"
+      }
+    },
+    {
+      "id": "c793d78d",
+      "title": "WeWeb 3.0发布",
+      "title_en": "WeWeb 3.0",
+      "url": "https://www.producthunt.com/products/weweb-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/weweb-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "WeWeb 3.0上线：AI生成应用后，非程序员也能用无代码编辑器全面修改界面、流程和数据库。",
+      "summary_zh": "WeWeb 3.0上线：AI生成应用后，非程序员也能用无代码编辑器全面修改界面、流程和数据库。",
+      "publishedAt": "2026-05-21T07:01:00Z",
+      "published_at": "2026-05-21T07:01:00Z",
+      "votes_count": 232,
+      "featured": true,
+      "topics": [
+        {
+          "id": "243",
+          "name": "Website Builder",
+          "slug": "website-builder"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票Featured，AI无代码建应用更新"
+      }
+    },
+    {
+      "id": "66eaa4d7",
+      "title": "强化学习突破传统UED瓶颈",
+      "title_en": "ICML 2026｜传统UED瓶颈被打破，强化学习也能精准定位「最近发展区」",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 7,
+      "rank_score": 7.0,
+      "rankingScore": 7.0,
+      "summary": "ICML 2026工作提出新方法，打破传统UED限制，让强化学习更精准定位最近发展区。",
+      "summary_zh": "ICML 2026工作提出新方法，打破传统UED限制，让强化学习更精准定位最近发展区。",
+      "publishedAt": "2026-05-21T21:53:49Z",
+      "published_at": "2026-05-21T21:53:49Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 0,
+        "confidence": 1,
+        "reason": "ICML论文动态，方法有研究参考价值"
+      }
+    },
+    {
+      "id": "7fa0ae8c",
+      "title": "PACE参数变化环境设计",
+      "title_en": "PACE（Parameter Change Environment Design）",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 7,
+      "rank_score": 7.0,
+      "rankingScore": 7.0,
+      "summary": "PACE被提出，用于进行参数变化环境设计。",
+      "summary_zh": "PACE被提出，用于进行参数变化环境设计。",
+      "publishedAt": "2026-05-21T21:53:49Z",
+      "published_at": "2026-05-21T21:53:49Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 0,
+        "confidence": 0,
+        "reason": "ICML强化学习研究，偏学术但有方法新意"
+      }
+    }
+  ]
+}
