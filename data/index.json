@@ -1,88 +1,36 @@
 {
-  "generated_at": "2026-05-21T21:57:25Z",
-  "generatedAt": "2026-05-21T21:57:25Z",
+  "generated_at": "2026-05-22T11:27:27Z",
+  "generatedAt": "2026-05-22T11:27:27Z",
   "count": 10,
   "total": 10,
   "entries": [
     {
       "date": "2026-05-22",
-      "generated_at": "2026-05-21T21:57:25Z",
-      "generatedAt": "2026-05-21T21:57:25Z",
-      "total": 6,
-      "sectionCount": 2,
+      "generated_at": "2026-05-22T11:27:27Z",
+      "generatedAt": "2026-05-22T11:27:27Z",
+      "total": 13,
+      "sectionCount": 3,
       "highlights": [
         {
-          "id": "fb344aa3",
-          "title": "Tycoon推AI公司代理平台",
-          "title_en": "Tycoon AI",
-          "url": "https://www.producthunt.com/products/tycoon-us?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "d8f12579",
+          "title": "TestSprite 3.0发布",
+          "title_en": "TestSprite 3.0",
+          "url": "https://www.producthunt.com/products/testsprite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/tycoon-us?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/testsprite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 8,
           "rank_score": 9,
           "rankingScore": 9,
-          "summary": "Tycoon推出可用AI代理运营一人公司的平台，AI CEO可分配任务、跟踪进度并驱动营销与开发。",
-          "summary_zh": "Tycoon推出可用AI代理运营一人公司的平台，AI CEO可分配任务、跟踪进度并驱动营销与开发。",
-          "publishedAt": "2026-05-21T07:01:00Z",
-          "published_at": "2026-05-21T07:01:00Z",
-          "votes_count": 349,
+          "summary": "TestSprite 3.0用并行AI代理自动探索应用并生成端到端测试。",
+          "summary_zh": "TestSprite 3.0用并行AI代理自动探索应用并生成端到端测试。",
+          "publishedAt": "2026-05-22T07:01:00Z",
+          "published_at": "2026-05-22T07:01:00Z",
+          "votes_count": 149,
           "featured": true,
           "topics": [
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "352",
-              "name": "Tech",
-              "slug": "tech"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 2,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "PH高票featured，AI代理公司化运营有看点"
-          }
-        },
-        {
-          "id": "99435f15",
-          "title": "Google发布Antigravity 2.0",
-          "title_en": "Google Antigravity 2.0",
-          "url": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 8,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "Google推出Antigravity 2.0桌面应用，支持并行编排多智能体工作流和定时后台任务。",
-          "summary_zh": "Google推出Antigravity 2.0桌面应用，支持并行编排多智能体工作流和定时后台任务。",
-          "publishedAt": "2026-05-21T07:01:00Z",
-          "published_at": "2026-05-21T07:01:00Z",
-          "votes_count": 241,
-          "featured": true,
-          "topics": [
-            {
-              "id": "48",
-              "name": "Task Management",
-              "slug": "task-management"
-            },
             {
               "id": "267",
               "name": "Developer Tools",
@@ -92,6 +40,11 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1260",
+              "name": "Alpha",
+              "slug": "alpha"
             }
           ],
           "score_details": {
@@ -99,46 +52,93 @@
             "is_real_launch_or_update": true,
             "novelty": 2,
             "practitioner_value": 3,
-            "signal_over_promo": 1,
+            "signal_over_promo": 2,
             "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "PH高票featured，AI多代理开发工具"
+            "confidence": 0,
+            "reason": "AI测试Agent更新，PH热度不错"
           }
         },
         {
-          "id": "1266bfe5",
-          "title": "Mintlify推出文档工作流",
-          "title_en": "Mintlify Workflows",
-          "url": "https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "faa65ab1",
+          "title": "ASIC推理云发布",
+          "title_en": "General Compute",
+          "url": "https://www.producthunt.com/products/general-compute?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/general-compute?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 8,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "Mintlify发布Workflows，可自动更新知识库、生成变更日志并维护文档翻译。",
-          "summary_zh": "Mintlify发布Workflows，可自动更新知识库、生成变更日志并维护文档翻译。",
-          "publishedAt": "2026-05-21T07:01:00Z",
-          "published_at": "2026-05-21T07:01:00Z",
-          "votes_count": 238,
+          "rank_score": 8.6,
+          "rankingScore": 8.6,
+          "summary": "General Compute推出基于ASIC的推理云，称响应提速5倍。",
+          "summary_zh": "General Compute推出基于ASIC的推理云，称响应提速5倍。",
+          "publishedAt": "2026-05-22T07:01:00Z",
+          "published_at": "2026-05-22T07:01:00Z",
+          "votes_count": 115,
           "featured": true,
           "topics": [
             {
-              "id": "96",
-              "name": "Notes",
-              "slug": "notes"
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "1260",
+              "name": "Alpha",
+              "slug": "alpha"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 3,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 0,
+            "reason": "PH精选高票，ASIC推理云有实践价值"
+          }
+        },
+        {
+          "id": "42bef050",
+          "title": "AI产品经理Cleo",
+          "title_en": "Cleo",
+          "url": "https://www.producthunt.com/products/cleo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cleo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Cleo在Telegram和Slack中接管站会、跟进和决策，并提供透明可校正的记忆。",
+          "summary_zh": "Cleo在Telegram和Slack中接管站会、跟进和决策，并提供透明可校正的记忆。",
+          "publishedAt": "2026-05-22T07:01:00Z",
+          "published_at": "2026-05-22T07:01:00Z",
+          "votes_count": 122,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1260",
+              "name": "Alpha",
+              "slug": "alpha"
             }
           ],
           "score_details": {
@@ -148,8 +148,8 @@
             "practitioner_value": 2,
             "signal_over_promo": 1,
             "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "AI文档自动化新发布，PH高票featured"
+            "confidence": 0,
+            "reason": "PH featured且票数较高，AI PM Agent有实用性"
           }
         }
       ]
