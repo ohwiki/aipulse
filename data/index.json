@@ -1,9 +1,154 @@
 {
-  "generated_at": "2026-05-22T11:27:27Z",
-  "generatedAt": "2026-05-22T11:27:27Z",
-  "count": 10,
-  "total": 10,
+  "generated_at": "2026-05-22T21:42:53Z",
+  "generatedAt": "2026-05-22T21:42:53Z",
+  "count": 11,
+  "total": 11,
   "entries": [
+    {
+      "date": "2026-05-23",
+      "generated_at": "2026-05-22T21:42:53Z",
+      "generatedAt": "2026-05-22T21:42:53Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "d8f12579",
+          "title": "TestSprite 3.0发布",
+          "title_en": "TestSprite 3.0",
+          "url": "https://www.producthunt.com/products/testsprite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/testsprite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10,
+          "rankingScore": 10,
+          "summary": "TestSprite 3.0上线并行AI代理，可自主探索应用并生成前后端端到端与集成测试。",
+          "summary_zh": "TestSprite 3.0上线并行AI代理，可自主探索应用并生成前后端端到端与集成测试。",
+          "publishedAt": "2026-05-22T07:01:00Z",
+          "published_at": "2026-05-22T07:01:00Z",
+          "votes_count": 339,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票精选，AI测试3.0更新具体"
+          }
+        },
+        {
+          "id": "42bef050",
+          "title": "Cleo上线团队AI产品经理",
+          "title_en": "Cleo",
+          "url": "https://www.producthunt.com/products/cleo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cleo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Cleo在Telegram和Slack担任AI产品经理，透明追踪信息来源并自动处理站会、跟进和决策。",
+          "summary_zh": "Cleo在Telegram和Slack担任AI产品经理，透明追踪信息来源并自动处理站会、跟进和决策。",
+          "publishedAt": "2026-05-22T07:01:00Z",
+          "published_at": "2026-05-22T07:01:00Z",
+          "votes_count": 282,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1260",
+              "name": "Alpha",
+              "slug": "alpha"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，AI团队协作Agent首发"
+          }
+        },
+        {
+          "id": "faa65ab1",
+          "title": "General Compute推理云",
+          "title_en": "General Compute",
+          "url": "https://www.producthunt.com/products/general-compute?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/general-compute?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "General Compute推出基于ASIC的AI推理云，兼容OpenAI API，响应速度提升5倍。",
+          "summary_zh": "General Compute推出基于ASIC的AI推理云，兼容OpenAI API，响应速度提升5倍。",
+          "publishedAt": "2026-05-22T07:01:00Z",
+          "published_at": "2026-05-22T07:01:00Z",
+          "votes_count": 245,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "1260",
+              "name": "Alpha",
+              "slug": "alpha"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "AI推理云新品，PH高票featured，信号较强"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-05-22",
       "generated_at": "2026-05-22T11:27:27Z",
