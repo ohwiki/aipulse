@@ -1,36 +1,135 @@
 {
-  "generated_at": "2026-05-22T21:42:53Z",
-  "generatedAt": "2026-05-22T21:42:53Z",
+  "generated_at": "2026-05-23T10:14:09Z",
+  "generatedAt": "2026-05-23T10:14:09Z",
   "count": 11,
   "total": 11,
   "entries": [
     {
       "date": "2026-05-23",
-      "generated_at": "2026-05-22T21:42:53Z",
-      "generatedAt": "2026-05-22T21:42:53Z",
-      "total": 8,
+      "generated_at": "2026-05-23T10:14:09Z",
+      "generatedAt": "2026-05-23T10:14:09Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "d8f12579",
-          "title": "TestSprite 3.0发布",
-          "title_en": "TestSprite 3.0",
-          "url": "https://www.producthunt.com/products/testsprite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "99435f15",
+          "title": "谷歌发布Antigravity CLI",
+          "title_en": "Google Antigravity CLI",
+          "url": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/testsprite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
-          "score": 9,
-          "rank_score": 10,
-          "rankingScore": 10,
-          "summary": "TestSprite 3.0上线并行AI代理，可自主探索应用并生成前后端端到端与集成测试。",
-          "summary_zh": "TestSprite 3.0上线并行AI代理，可自主探索应用并生成前后端端到端与集成测试。",
-          "publishedAt": "2026-05-22T07:01:00Z",
-          "published_at": "2026-05-22T07:01:00Z",
-          "votes_count": 339,
+          "score": 8,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "谷歌推出Antigravity CLI，让开发者在终端直接运行具备多步推理、改多文件和调用工具的编码代理。",
+          "summary_zh": "谷歌推出Antigravity CLI，让开发者在终端直接运行具备多步推理、改多文件和调用工具的编码代理。",
+          "publishedAt": "2026-05-23T07:01:00Z",
+          "published_at": "2026-05-23T07:01:00Z",
+          "votes_count": 0,
           "featured": true,
           "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 1,
+            "confidence": 1,
+            "reason": "Google系终端Agent发布，开发者相关性强"
+          }
+        },
+        {
+          "id": "5b987b5a",
+          "title": "Cohere发布Command A+",
+          "title_en": "Command A+",
+          "url": "https://www.producthunt.com/products/cohere-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cohere-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Cohere推出开源大模型Command A+，主打高性能企业代理与高效率部署。",
+          "summary_zh": "Cohere推出开源大模型Command A+，主打高性能企业代理与高效率部署。",
+          "publishedAt": "2026-05-23T07:01:00Z",
+          "published_at": "2026-05-23T07:01:00Z",
+          "votes_count": 0,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 1,
+            "confidence": 1,
+            "reason": "Cohere新模型发布，PH精选但热度弱"
+          }
+        },
+        {
+          "id": "ed070d18",
+          "title": "Vibedock上架",
+          "title_en": "Vibedock",
+          "url": "https://www.producthunt.com/products/vibedock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vibedock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Vibedock可在macOS菜单栏一键开关Claude Code的MCP服务器，并自动重启会话生效。",
+          "summary_zh": "Vibedock可在macOS菜单栏一键开关Claude Code的MCP服务器，并自动重启会话生效。",
+          "publishedAt": "2026-05-23T07:01:00Z",
+          "published_at": "2026-05-23T07:01:00Z",
+          "votes_count": 0,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
             {
               "id": "267",
               "name": "Developer Tools",
@@ -46,105 +145,11 @@
             "is_ai_relevant": true,
             "is_real_launch_or_update": true,
             "novelty": 2,
-            "practitioner_value": 3,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "PH高票精选，AI测试3.0更新具体"
-          }
-        },
-        {
-          "id": "42bef050",
-          "title": "Cleo上线团队AI产品经理",
-          "title_en": "Cleo",
-          "url": "https://www.producthunt.com/products/cleo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/cleo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 8,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "Cleo在Telegram和Slack担任AI产品经理，透明追踪信息来源并自动处理站会、跟进和决策。",
-          "summary_zh": "Cleo在Telegram和Slack担任AI产品经理，透明追踪信息来源并自动处理站会、跟进和决策。",
-          "publishedAt": "2026-05-22T07:01:00Z",
-          "published_at": "2026-05-22T07:01:00Z",
-          "votes_count": 282,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "1260",
-              "name": "Alpha",
-              "slug": "alpha"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
             "practitioner_value": 2,
             "signal_over_promo": 1,
-            "distribution_signal": 2,
+            "distribution_signal": 1,
             "confidence": 1,
-            "reason": "PH高票featured，AI团队协作Agent首发"
-          }
-        },
-        {
-          "id": "faa65ab1",
-          "title": "General Compute推理云",
-          "title_en": "General Compute",
-          "url": "https://www.producthunt.com/products/general-compute?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/general-compute?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 8,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "General Compute推出基于ASIC的AI推理云，兼容OpenAI API，响应速度提升5倍。",
-          "summary_zh": "General Compute推出基于ASIC的AI推理云，兼容OpenAI API，响应速度提升5倍。",
-          "publishedAt": "2026-05-22T07:01:00Z",
-          "published_at": "2026-05-22T07:01:00Z",
-          "votes_count": 245,
-          "featured": true,
-          "topics": [
-            {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "247",
-              "name": "Software Engineering",
-              "slug": "software-engineering"
-            },
-            {
-              "id": "1260",
-              "name": "Alpha",
-              "slug": "alpha"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 2,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "AI推理云新品，PH高票featured，信号较强"
+            "reason": "Claude Code MCP管理工具，已上PH精选"
           }
         }
       ]
