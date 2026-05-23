@@ -1,9 +1,154 @@
 {
-  "generated_at": "2026-05-23T10:14:09Z",
-  "generatedAt": "2026-05-23T10:14:09Z",
-  "count": 11,
-  "total": 11,
+  "generated_at": "2026-05-23T21:14:16Z",
+  "generatedAt": "2026-05-23T21:14:16Z",
+  "count": 12,
+  "total": 12,
   "entries": [
+    {
+      "date": "2026-05-24",
+      "generated_at": "2026-05-23T21:14:16Z",
+      "generatedAt": "2026-05-23T21:14:16Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "99435f15",
+          "title": "Google发布Antigravity CLI",
+          "title_en": "Google Antigravity CLI",
+          "url": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10,
+          "rankingScore": 10,
+          "summary": "Google推出Antigravity CLI，让开发者在终端直接运行具备多步推理和多文件编辑能力的编码代理。",
+          "summary_zh": "Google推出Antigravity CLI，让开发者在终端直接运行具备多步推理和多文件编辑能力的编码代理。",
+          "publishedAt": "2026-05-23T07:01:00Z",
+          "published_at": "2026-05-23T07:01:00Z",
+          "votes_count": 195,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "Google系终端Agent发布，开发者价值高"
+          }
+        },
+        {
+          "id": "ed070d18",
+          "title": "Vibedock一键管理MCP",
+          "title_en": "Vibedock",
+          "url": "https://www.producthunt.com/products/vibedock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vibedock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 9.6,
+          "rankingScore": 9.6,
+          "summary": "Vibedock可在macOS菜单栏一键开关Claude Code的MCP服务器，并自动重启会话使配置生效。",
+          "summary_zh": "Vibedock可在macOS菜单栏一键开关Claude Code的MCP服务器，并自动重启会话使配置生效。",
+          "publishedAt": "2026-05-23T07:01:00Z",
+          "published_at": "2026-05-23T07:01:00Z",
+          "votes_count": 90,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 2,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "面向Claude Code/MCP的实用新工具，PH信号强"
+          }
+        },
+        {
+          "id": "bcd5b852",
+          "title": "Memdex把AI对话变本地记忆",
+          "title_en": "Memdex",
+          "url": "https://www.producthunt.com/products/memdex?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/memdex?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Memdex推出Chrome扩展，可自动保存多平台AI对话为本地加密记忆并一键复用。",
+          "summary_zh": "Memdex推出Chrome扩展，可自动保存多平台AI对话为本地加密记忆并一键复用。",
+          "publishedAt": "2026-05-23T07:01:00Z",
+          "published_at": "2026-05-23T07:01:00Z",
+          "votes_count": 176,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "AI记忆插件首发，PH高票且场景清晰"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-05-23",
       "generated_at": "2026-05-23T10:14:09Z",
