@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-24T10:19:40Z",
-  "generatedAt": "2026-05-24T10:19:40Z",
+  "generated_at": "2026-05-24T21:17:10Z",
+  "generatedAt": "2026-05-24T21:17:10Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "1e926c10",
@@ -15,14 +15,14 @@
       "sourceName": "Product Hunt AI",
       "sourceUrl": "https://www.producthunt.com/products/freu-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
-      "score": 8,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Freu AI推出可用自然语言编排Mac应用并本地零订阅成本运行的AI代理，并开源freu-cli。",
-      "summary_zh": "Freu AI推出可用自然语言编排Mac应用并本地零订阅成本运行的AI代理，并开源freu-cli。",
+      "score": 10,
+      "rank_score": 11.0,
+      "rankingScore": 11.0,
+      "summary": "Freu AI推出可用自然语言编排并本地执行任意Mac应用工作流的AI代理，并开源freu-cli。",
+      "summary_zh": "Freu AI推出可用自然语言编排并本地执行任意Mac应用工作流的AI代理，并开源freu-cli。",
       "publishedAt": "2026-05-24T07:01:00Z",
       "published_at": "2026-05-24T07:01:00Z",
-      "votes_count": 0,
+      "votes_count": 196,
       "featured": true,
       "topics": [
         {
@@ -49,59 +49,12 @@
       "score_details": {
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 2,
-        "signal_over_promo": 1,
-        "distribution_signal": 1,
-        "confidence": 1,
-        "reason": "Mac端Agent自动化有新意，已Featured但热度弱"
-      }
-    },
-    {
-      "id": "45423436",
-      "title": "Edgee推出Claude故障切换",
-      "title_en": "Edgee Fallback Models",
-      "url": "https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 8,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Edgee发布故障切换方案，Claude不可用或过贵时可无缝改用其他模型继续编码。",
-      "summary_zh": "Edgee发布故障切换方案，Claude不可用或过贵时可无缝改用其他模型继续编码。",
-      "publishedAt": "2026-05-24T07:01:00Z",
-      "published_at": "2026-05-24T07:01:00Z",
-      "votes_count": 0,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "247",
-          "name": "Software Engineering",
-          "slug": "software-engineering"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
+        "novelty": 3,
         "practitioner_value": 3,
-        "signal_over_promo": 1,
-        "distribution_signal": 1,
+        "signal_over_promo": 2,
+        "distribution_signal": 2,
         "confidence": 1,
-        "reason": "AI编程容灾工具，场景清晰但热度弱"
+        "reason": "AI桌面Agent首发，PH高票featured且开源CLI"
       }
     },
     {
@@ -114,14 +67,14 @@
       "sourceName": "Product Hunt AI",
       "sourceUrl": "https://www.producthunt.com/products/stitch-by-google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
-      "score": 7,
-      "rank_score": 7.0,
-      "rankingScore": 7.0,
-      "summary": "谷歌推出Stitch 3.0，可用文本生成并实时迭代移动端和网页UI，还能一键导出到Figma等平台。",
-      "summary_zh": "谷歌推出Stitch 3.0，可用文本生成并实时迭代移动端和网页UI，还能一键导出到Figma等平台。",
+      "score": 9,
+      "rank_score": 10.0,
+      "rankingScore": 10.0,
+      "summary": "Google推出Stitch 3.0，可用文本生成并实时修改移动端和网页UI，还能一键导出到Figma等工具。",
+      "summary_zh": "Google推出Stitch 3.0，可用文本生成并实时修改移动端和网页UI，还能一键导出到Figma等工具。",
       "publishedAt": "2026-05-24T07:01:00Z",
       "published_at": "2026-05-24T07:01:00Z",
-      "votes_count": 0,
+      "votes_count": 354,
       "featured": true,
       "topics": [
         {
@@ -144,16 +97,16 @@
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
         "novelty": 2,
-        "practitioner_value": 2,
-        "signal_over_promo": 1,
-        "distribution_signal": 1,
+        "practitioner_value": 3,
+        "signal_over_promo": 2,
+        "distribution_signal": 2,
         "confidence": 1,
-        "reason": "Google发布AI原型工具3.0版，面向设计开发协作"
+        "reason": "谷歌AI设计工具3.0发布，PH高票featured，实用性强"
       }
     },
     {
       "id": "ad759e72",
-      "title": "ModelHub发布Mac本地大模型管家",
+      "title": "ModelHub发布Mac菜单栏应用",
       "title_en": "ModelHub",
       "url": "https://www.producthunt.com/products/modelhub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
@@ -161,14 +114,14 @@
       "sourceName": "Product Hunt AI",
       "sourceUrl": "https://www.producthunt.com/products/modelhub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
-      "score": 7,
-      "rank_score": 7.0,
-      "rankingScore": 7.0,
-      "summary": "ModelHub推出Mac菜单栏应用，统一发现、下载和管理本地LLM，并打通Ollama等工具。",
-      "summary_zh": "ModelHub推出Mac菜单栏应用，统一发现、下载和管理本地LLM，并打通Ollama等工具。",
+      "score": 9,
+      "rank_score": 10.0,
+      "rankingScore": 10.0,
+      "summary": "ModelHub推出原生macOS菜单栏工具，统一发现、下载和管理本地LLM模型。",
+      "summary_zh": "ModelHub推出原生macOS菜单栏工具，统一发现、下载和管理本地LLM模型。",
       "publishedAt": "2026-05-24T07:01:00Z",
       "published_at": "2026-05-24T07:01:00Z",
-      "votes_count": 0,
+      "votes_count": 220,
       "featured": true,
       "topics": [
         {
@@ -196,30 +149,108 @@
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
         "novelty": 2,
-        "practitioner_value": 2,
+        "practitioner_value": 3,
         "signal_over_promo": 1,
-        "distribution_signal": 1,
+        "distribution_signal": 2,
         "confidence": 1,
-        "reason": "本地LLM开发工具，发布真实但热度弱"
+        "reason": "本地LLM开发工具，PH高票featured首发"
       }
     },
     {
-      "id": "70713350",
-      "title": "Bengio论文提升递归推理",
-      "title_en": "Bengio新论文刷新递归推理上限，并行轨迹碾压串行推理",
+      "id": "45423436",
+      "title": "Edgee推出Claude备用模型",
+      "title_en": "Edgee Fallback Models",
+      "url": "https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 9,
+      "rank_score": 10.0,
+      "rankingScore": 10.0,
+      "summary": "Edgee为Claude Code提供故障切换，Claude不可用或超额时可自动切到Kimi、Gemma等模型继续运行。",
+      "summary_zh": "Edgee为Claude Code提供故障切换，Claude不可用或超额时可自动切到Kimi、Gemma等模型继续运行。",
+      "publishedAt": "2026-05-24T07:01:00Z",
+      "published_at": "2026-05-24T07:01:00Z",
+      "votes_count": 148,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 3,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "AI编码容灾工具，PH高票featured"
+      }
+    },
+    {
+      "id": "5441346a",
+      "title": "CODA可自动生成CUDA内核",
+      "title_en": "还在手写CUDA内核？CODA来了！LLM和新手也能让Transformer跑出光速",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
       "sourceName": "机器之心",
       "sourceUrl": "https://www.jiqizhixin.com/articles",
       "category": "cn-media",
-      "score": 6,
-      "rank_score": 6.0,
-      "rankingScore": 6.0,
-      "summary": "Bengio新论文显示，并行递归推理轨迹的效果明显优于传统串行推理。",
-      "summary_zh": "Bengio新论文显示，并行递归推理轨迹的效果明显优于传统串行推理。",
-      "publishedAt": "2026-05-24T10:17:28Z",
-      "published_at": "2026-05-24T10:17:28Z",
+      "score": 9,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "CODA让大模型和新手也能自动生成Transformer高性能CUDA内核。",
+      "summary_zh": "CODA让大模型和新手也能自动生成Transformer高性能CUDA内核。",
+      "publishedAt": "2026-05-24T21:15:04Z",
+      "published_at": "2026-05-24T21:15:04Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 3,
+        "practitioner_value": 3,
+        "signal_over_promo": 1,
+        "distribution_signal": 1,
+        "confidence": 1,
+        "reason": "AI编译/内核生成新进展，工程价值高"
+      }
+    },
+    {
+      "id": "d6b096fd",
+      "title": "AgentChord预写机器人恢复动作",
+      "title_en": "RSS 2026｜机器人别等失败了才补救，AgentChord让恢复动作提前写进任务图",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 7,
+      "rank_score": 7.0,
+      "rankingScore": 7.0,
+      "summary": "AgentChord把恢复动作提前编入任务图，让机器人故障时可直接切换处理。",
+      "summary_zh": "AgentChord把恢复动作提前编入任务图，让机器人故障时可直接切换处理。",
+      "publishedAt": "2026-05-24T21:15:04Z",
+      "published_at": "2026-05-24T21:15:04Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -229,9 +260,9 @@
         "novelty": 2,
         "practitioner_value": 2,
         "signal_over_promo": 1,
-        "distribution_signal": 0,
+        "distribution_signal": 1,
         "confidence": 0,
-        "reason": "AI推理论文报道，但源信息较弱"
+        "reason": "RSS论文报道，具身智能恢复规划有研究价值"
       }
     },
     {
@@ -244,9 +275,9 @@
       "sourceName": "36氪",
       "sourceUrl": "https://36kr.com/newsflashes/3822775103607172?f=rss",
       "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
+      "score": 6,
+      "rank_score": 6.0,
+      "rankingScore": 6.0,
       "summary": "近期人工智能创投市场热度攀升。5月，月之暗面、阶跃星辰等国产大模型拿下超过300亿元融资。具身智能同样受到市场关注，一周内维他动力、鹿明机器人等接连斩获数亿元融资。有创投机构统计，一季度人工智能领域的融资有近600起，总额超1100亿元，同比激增185.4%。AI创业公司拿到融资后不少都投向三大方向。一是研发，头部大模型公司2025年研发投入普遍达到数十亿，远超当期营收。二是算力，GPU采购和云服务租赁占融资额的30%到50%。三是招揽全球顶尖人才和团队。研发投得多，技术迭代就快。2026年，中国大模型企业迭代周期已普遍缩短至3个月以内，人工智能推理成本也大幅下降，商业化进程不断深入。",
       "summary_zh": "近期人工智能创投市场热度攀升。5月，月之暗面、阶跃星辰等国产大模型拿下超过300亿元融资。具身智能同样受到市场关注，一周内维他动力、鹿明机器人等接连斩获数亿元融资。有创投机构统计，一季度人工智能领域的融资有近600起，总额超1100亿元，同比激增185.4%。AI创业公司拿到融资后不少都投向三大方向。一是研发，头部大模型公司2025年研发投入普遍达到数十亿，远超当期营收。二是算力，GPU采购和云服务租赁占融资额的30%到50%。三是招揽全球顶尖人才和团队。研发投得多，技术迭代就快。2026年，中国大模型企业迭代周期已普遍缩短至3个月以内，人工智能推理成本也大幅下降，商业化进程不断深入。",
       "publishedAt": "2026-05-24T05:00:48Z",
@@ -260,9 +291,9 @@
         "novelty": 1,
         "practitioner_value": 1,
         "signal_over_promo": 1,
-        "distribution_signal": 0,
+        "distribution_signal": 1,
         "confidence": 1,
-        "reason": "融资趋势有行业参考，实操价值有限"
+        "reason": "AI投融资行业动态，信号有但偏宏观"
       }
     },
     {
@@ -293,7 +324,7 @@
         "signal_over_promo": 1,
         "distribution_signal": 0,
         "confidence": 1,
-        "reason": "AI行业动态属实，但偏媒体解读"
+        "reason": "AI行业动态属实，但偏媒体转述，实操价值有限"
       }
     }
   ]
