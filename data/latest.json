@@ -1,122 +1,80 @@
 {
-  "generated_at": "2026-05-23T21:14:16Z",
-  "generatedAt": "2026-05-23T21:14:16Z",
+  "generated_at": "2026-05-24T10:19:40Z",
+  "generatedAt": "2026-05-24T10:19:40Z",
   "days": 7,
-  "total": 8,
-  "count": 8,
+  "total": 7,
+  "count": 7,
   "items": [
     {
-      "id": "99435f15",
-      "title": "Google发布Antigravity CLI",
-      "title_en": "Google Antigravity CLI",
-      "url": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "1e926c10",
+      "title": "Freu AI发布Mac自动化代理",
+      "title_en": "Freu AI",
+      "url": "https://www.producthunt.com/products/freu-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 9,
-      "rank_score": 10.0,
-      "rankingScore": 10.0,
-      "summary": "Google推出Antigravity CLI，让开发者在终端直接运行具备多步推理和多文件编辑能力的编码代理。",
-      "summary_zh": "Google推出Antigravity CLI，让开发者在终端直接运行具备多步推理和多文件编辑能力的编码代理。",
-      "publishedAt": "2026-05-23T07:01:00Z",
-      "published_at": "2026-05-23T07:01:00Z",
-      "votes_count": 195,
-      "featured": true,
-      "topics": [
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "352",
-          "name": "Tech",
-          "slug": "tech"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 3,
-        "signal_over_promo": 1,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "Google系终端Agent发布，开发者价值高"
-      }
-    },
-    {
-      "id": "ed070d18",
-      "title": "Vibedock一键管理MCP",
-      "title_en": "Vibedock",
-      "url": "https://www.producthunt.com/products/vibedock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/vibedock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 9,
-      "rank_score": 9.6,
-      "rankingScore": 9.6,
-      "summary": "Vibedock可在macOS菜单栏一键开关Claude Code的MCP服务器，并自动重启会话使配置生效。",
-      "summary_zh": "Vibedock可在macOS菜单栏一键开关Claude Code的MCP服务器，并自动重启会话使配置生效。",
-      "publishedAt": "2026-05-23T07:01:00Z",
-      "published_at": "2026-05-23T07:01:00Z",
-      "votes_count": 90,
-      "featured": true,
-      "topics": [
-        {
-          "id": "19",
-          "name": "Mac",
-          "slug": "mac"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 3,
-        "signal_over_promo": 2,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "面向Claude Code/MCP的实用新工具，PH信号强"
-      }
-    },
-    {
-      "id": "bcd5b852",
-      "title": "Memdex把AI对话变本地记忆",
-      "title_en": "Memdex",
-      "url": "https://www.producthunt.com/products/memdex?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/memdex?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/freu-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 8,
-      "rank_score": 9.0,
-      "rankingScore": 9.0,
-      "summary": "Memdex推出Chrome扩展，可自动保存多平台AI对话为本地加密记忆并一键复用。",
-      "summary_zh": "Memdex推出Chrome扩展，可自动保存多平台AI对话为本地加密记忆并一键复用。",
-      "publishedAt": "2026-05-23T07:01:00Z",
-      "published_at": "2026-05-23T07:01:00Z",
-      "votes_count": 176,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Freu AI推出可用自然语言编排Mac应用并本地零订阅成本运行的AI代理，并开源freu-cli。",
+      "summary_zh": "Freu AI推出可用自然语言编排Mac应用并本地零订阅成本运行的AI代理，并开源freu-cli。",
+      "publishedAt": "2026-05-24T07:01:00Z",
+      "published_at": "2026-05-24T07:01:00Z",
+      "votes_count": 0,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "774",
+          "name": "Business Intelligence",
+          "slug": "business-intelligence"
+        },
+        {
+          "id": "839",
+          "name": "Marketing automation",
+          "slug": "marketing-automation"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 1,
+        "confidence": 1,
+        "reason": "Mac端Agent自动化有新意，已Featured但热度弱"
+      }
+    },
+    {
+      "id": "45423436",
+      "title": "Edgee推出Claude故障切换",
+      "title_en": "Edgee Fallback Models",
+      "url": "https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Edgee发布故障切换方案，Claude不可用或过贵时可无缝改用其他模型继续编码。",
+      "summary_zh": "Edgee发布故障切换方案，Claude不可用或过贵时可无缝改用其他模型继续编码。",
+      "publishedAt": "2026-05-24T07:01:00Z",
+      "published_at": "2026-05-24T07:01:00Z",
+      "votes_count": 0,
       "featured": true,
       "topics": [
         {
@@ -125,89 +83,16 @@
           "slug": "productivity"
         },
         {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 2,
-        "signal_over_promo": 1,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "AI记忆插件首发，PH高票且场景清晰"
-      }
-    },
-    {
-      "id": "5b987b5a",
-      "title": "Cohere发布Command A+",
-      "title_en": "Command A+",
-      "url": "https://www.producthunt.com/products/cohere-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/cohere-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 8,
-      "rank_score": 8.6,
-      "rankingScore": 8.6,
-      "summary": "Cohere开源发布其迄今最快最强语言模型Command A+，面向高效运行企业级智能体。",
-      "summary_zh": "Cohere开源发布其迄今最快最强语言模型Command A+，面向高效运行企业级智能体。",
-      "publishedAt": "2026-05-23T07:01:00Z",
-      "published_at": "2026-05-23T07:01:00Z",
-      "votes_count": 103,
-      "featured": true,
-      "topics": [
-        {
-          "id": "89",
-          "name": "Open Source",
-          "slug": "open-source"
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
         },
         {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "589",
-          "name": "Development",
-          "slug": "development"
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
         }
       ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 3,
-        "signal_over_promo": 1,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "Cohere新模型发布，PH热度高，开发者相关性强"
-      }
-    },
-    {
-      "id": "fb2e3c4e",
-      "title": "OpenAI大神教你如何榨干Codex",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/05/423179.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/05/423179.html",
-      "category": "cn-media",
-      "score": 8,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "OpenAI大神教你如何榨干Codex  听雨 2026-05-23 17:50:51  来源：量子位   13k星开源库作者解锁Codex-maxxing！  闻乐 发自 凹非寺 量子位 | 公众号 QbitAI 新晋员工确实毫无保留。 Jason Liu，13k星开源库Instructor的作者，刚被OpenAI招进Codex团队没多久，不仅在社交平台大方发API额度；  还写了篇Codex-maxxing，把自己的Codex玩法全抖出来了。  而且是让Codex自动跟进亚马逊退款、定时扫Slack接需求、开着Heartbeats在你洗澡的时候帮你干活的那种。 Codex周活用户4月底已经破了400万，终于来了份“官方使用指南”。  正好，这两天Codex又更新了一波：Appshots截图直喂、Goal模式正式转正、锁屏后也能远程干活。  跟Jason的使用心法叠在一起看会发现，现在大家比拼的，是谁能持续工作更久，谁能真正上岗了…… 让它自己跑起来 Jason整套玩法的核心，是把Codex改造成了一个能长期运行、持续接管任务的工作系统。 多数人习惯单次问答结束就关闭会话，但Jaso",
-      "summary_zh": "OpenAI大神教你如何榨干Codex  听雨 2026-05-23 17:50:51  来源：量子位   13k星开源库作者解锁Codex-maxxing！  闻乐 发自 凹非寺 量子位 | 公众号 QbitAI 新晋员工确实毫无保留。 Jason Liu，13k星开源库Instructor的作者，刚被OpenAI招进Codex团队没多久，不仅在社交平台大方发API额度；  还写了篇Codex-maxxing，把自己的Codex玩法全抖出来了。  而且是让Codex自动跟进亚马逊退款、定时扫Slack接需求、开着Heartbeats在你洗澡的时候帮你干活的那种。 Codex周活用户4月底已经破了400万，终于来了份“官方使用指南”。  正好，这两天Codex又更新了一波：Appshots截图直喂、Goal模式正式转正、锁屏后也能远程干活。  跟Jason的使用心法叠在一起看会发现，现在大家比拼的，是谁能持续工作更久，谁能真正上岗了…… 让它自己跑起来 Jason整套玩法的核心，是把Codex改造成了一个能长期运行、持续接管任务的工作系统。 多数人习惯单次问答结束就关闭会话，但Jaso",
-      "publishedAt": "2026-05-23T09:50:51Z",
-      "published_at": "2026-05-23T09:50:51Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
       "score_details": {
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
@@ -216,12 +101,111 @@
         "signal_over_promo": 1,
         "distribution_signal": 1,
         "confidence": 1,
-        "reason": "Codex实战玩法+近期功能更新，实用性强"
+        "reason": "AI编程容灾工具，场景清晰但热度弱"
+      }
+    },
+    {
+      "id": "6f3fdff1",
+      "title": "谷歌发布Stitch 3.0",
+      "title_en": "Stitch 3.0 by Google",
+      "url": "https://www.producthunt.com/products/stitch-by-google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/stitch-by-google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 7.0,
+      "rankingScore": 7.0,
+      "summary": "谷歌推出Stitch 3.0，可用文本生成并实时迭代移动端和网页UI，还能一键导出到Figma等平台。",
+      "summary_zh": "谷歌推出Stitch 3.0，可用文本生成并实时迭代移动端和网页UI，还能一键导出到Figma等平台。",
+      "publishedAt": "2026-05-24T07:01:00Z",
+      "published_at": "2026-05-24T07:01:00Z",
+      "votes_count": 0,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "93",
+          "name": "User Experience",
+          "slug": "user-experience"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 1,
+        "confidence": 1,
+        "reason": "Google发布AI原型工具3.0版，面向设计开发协作"
+      }
+    },
+    {
+      "id": "ad759e72",
+      "title": "ModelHub发布Mac本地大模型管家",
+      "title_en": "ModelHub",
+      "url": "https://www.producthunt.com/products/modelhub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/modelhub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 7.0,
+      "rankingScore": 7.0,
+      "summary": "ModelHub推出Mac菜单栏应用，统一发现、下载和管理本地LLM，并打通Ollama等工具。",
+      "summary_zh": "ModelHub推出Mac菜单栏应用，统一发现、下载和管理本地LLM，并打通Ollama等工具。",
+      "publishedAt": "2026-05-24T07:01:00Z",
+      "published_at": "2026-05-24T07:01:00Z",
+      "votes_count": 0,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "303",
+          "name": "Menu Bar Apps",
+          "slug": "menu-bar-apps"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 1,
+        "confidence": 1,
+        "reason": "本地LLM开发工具，发布真实但热度弱"
       }
     },
     {
       "id": "70713350",
-      "title": "Bengio递归推理论文突破上限",
+      "title": "Bengio论文提升递归推理",
       "title_en": "Bengio新论文刷新递归推理上限，并行轨迹碾压串行推理",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
@@ -229,44 +213,13 @@
       "sourceName": "机器之心",
       "sourceUrl": "https://www.jiqizhixin.com/articles",
       "category": "cn-media",
-      "score": 8,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Bengio新论文提出并行递归推理轨迹，效果显著超过传统串行推理。",
-      "summary_zh": "Bengio新论文提出并行递归推理轨迹，效果显著超过传统串行推理。",
-      "publishedAt": "2026-05-23T21:11:12Z",
-      "published_at": "2026-05-23T21:11:12Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 3,
-        "practitioner_value": 2,
-        "signal_over_promo": 2,
-        "distribution_signal": 0,
-        "confidence": 0,
-        "reason": "顶级学者新论文，科研信号强但信息不全"
-      }
-    },
-    {
-      "id": "8fe53e2c",
-      "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/05/423159.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/05/423159.html",
-      "category": "cn-media",
-      "score": 7,
-      "rank_score": 7.0,
-      "rankingScore": 7.0,
-      "summary": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资  量子位的朋友们 2026-05-23 10:48:28  来源：量子位   不造人形机器人，死磕餐饮后厨  具身智能初创公司「元节智能（AtomBite.AI）」已于近期完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金及知名投资人个人跟投。 资金将主要用于餐饮场景具身世界模型研发及核心产品打磨落地。 同时，这家公司同步拿下了国内外多家头部公司的产品合作部署意向。 美团外卖前负责人创业成果 公司创始人王栋博士，是前美团外卖事业部技术负责人。他管过千人产研团队，主导构建了支撑日均数千万订单的外卖算法、数据与系统架构。 在美团期间，他就针对商家痛点研制了多款智能硬件产品并成功部署。 他的学术底子同样硬。师从清华大学张钹院士，博士期间主攻人工智能表示问题，AI与机器人领域顶会论文持续产出。 2011年，他搭出了全球首个商用视频人脸识别与跟踪系统；后来又做出业界领先的本地生活推荐系统和移动原生广告平台。 联合创始人李滔，也是美团老将，曾执掌美团外卖算法与数据体系。 另一位联合创始人李浩哲，是一名连续创业者，具备多年全球",
-      "summary_zh": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资  量子位的朋友们 2026-05-23 10:48:28  来源：量子位   不造人形机器人，死磕餐饮后厨  具身智能初创公司「元节智能（AtomBite.AI）」已于近期完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金及知名投资人个人跟投。 资金将主要用于餐饮场景具身世界模型研发及核心产品打磨落地。 同时，这家公司同步拿下了国内外多家头部公司的产品合作部署意向。 美团外卖前负责人创业成果 公司创始人王栋博士，是前美团外卖事业部技术负责人。他管过千人产研团队，主导构建了支撑日均数千万订单的外卖算法、数据与系统架构。 在美团期间，他就针对商家痛点研制了多款智能硬件产品并成功部署。 他的学术底子同样硬。师从清华大学张钹院士，博士期间主攻人工智能表示问题，AI与机器人领域顶会论文持续产出。 2011年，他搭出了全球首个商用视频人脸识别与跟踪系统；后来又做出业界领先的本地生活推荐系统和移动原生广告平台。 联合创始人李滔，也是美团老将，曾执掌美团外卖算法与数据体系。 另一位联合创始人李浩哲，是一名连续创业者，具备多年全球",
-      "publishedAt": "2026-05-23T02:48:28Z",
-      "published_at": "2026-05-23T02:48:28Z",
+      "score": 6,
+      "rank_score": 6.0,
+      "rankingScore": 6.0,
+      "summary": "Bengio新论文显示，并行递归推理轨迹的效果明显优于传统串行推理。",
+      "summary_zh": "Bengio新论文显示，并行递归推理轨迹的效果明显优于传统串行推理。",
+      "publishedAt": "2026-05-24T10:17:28Z",
+      "published_at": "2026-05-24T10:17:28Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -277,39 +230,70 @@
         "practitioner_value": 2,
         "signal_over_promo": 1,
         "distribution_signal": 0,
-        "confidence": 1,
-        "reason": "餐饮具身模型创业融资，垂直方向有信号"
+        "confidence": 0,
+        "reason": "AI推理论文报道，但源信息较弱"
       }
     },
     {
-      "id": "c474e5d6",
-      "title": "星巴克叫停AI库存自动盘点工具：上线9个月，错误频出",
+      "id": "d4e651cf",
+      "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3821221746266498?f=rss",
+      "url": "https://36kr.com/newsflashes/3822775103607172?f=rss",
       "source": "36氪",
       "source_type": null,
       "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/newsflashes/3821221746266498?f=rss",
+      "sourceUrl": "https://36kr.com/newsflashes/3822775103607172?f=rss",
       "category": "cn-media",
-      "score": 7,
-      "rank_score": 7.0,
-      "rankingScore": 7.0,
-      "summary": "星巴克本周正式终止了其在北美地区门店使用的AI库存自动盘点工具。该系统旨在通过平板电脑拍照自动统计牛奶、糖浆等物料库存，但在上线9个月后因频繁出错而被叫停。（新浪财经）",
-      "summary_zh": "星巴克本周正式终止了其在北美地区门店使用的AI库存自动盘点工具。该系统旨在通过平板电脑拍照自动统计牛奶、糖浆等物料库存，但在上线9个月后因频繁出错而被叫停。（新浪财经）",
-      "publishedAt": "2026-05-23T03:37:41Z",
-      "published_at": "2026-05-23T03:37:41Z",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "近期人工智能创投市场热度攀升。5月，月之暗面、阶跃星辰等国产大模型拿下超过300亿元融资。具身智能同样受到市场关注，一周内维他动力、鹿明机器人等接连斩获数亿元融资。有创投机构统计，一季度人工智能领域的融资有近600起，总额超1100亿元，同比激增185.4%。AI创业公司拿到融资后不少都投向三大方向。一是研发，头部大模型公司2025年研发投入普遍达到数十亿，远超当期营收。二是算力，GPU采购和云服务租赁占融资额的30%到50%。三是招揽全球顶尖人才和团队。研发投得多，技术迭代就快。2026年，中国大模型企业迭代周期已普遍缩短至3个月以内，人工智能推理成本也大幅下降，商业化进程不断深入。",
+      "summary_zh": "近期人工智能创投市场热度攀升。5月，月之暗面、阶跃星辰等国产大模型拿下超过300亿元融资。具身智能同样受到市场关注，一周内维他动力、鹿明机器人等接连斩获数亿元融资。有创投机构统计，一季度人工智能领域的融资有近600起，总额超1100亿元，同比激增185.4%。AI创业公司拿到融资后不少都投向三大方向。一是研发，头部大模型公司2025年研发投入普遍达到数十亿，远超当期营收。二是算力，GPU采购和云服务租赁占融资额的30%到50%。三是招揽全球顶尖人才和团队。研发投得多，技术迭代就快。2026年，中国大模型企业迭代周期已普遍缩短至3个月以内，人工智能推理成本也大幅下降，商业化进程不断深入。",
+      "publishedAt": "2026-05-24T05:00:48Z",
+      "published_at": "2026-05-24T05:00:48Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": {
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 2,
-        "signal_over_promo": 2,
+        "novelty": 1,
+        "practitioner_value": 1,
+        "signal_over_promo": 1,
         "distribution_signal": 0,
         "confidence": 1,
-        "reason": "AI零售落地失败案例，具反思价值"
+        "reason": "融资趋势有行业参考，实操价值有限"
+      }
+    },
+    {
+      "id": "9f669cec",
+      "title": "谷歌CEO承认Coding落后了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/05/423390.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/05/423390.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "谷歌CEO承认Coding落后了  梦瑶 2026-05-24 14:20:35  来源：量子位   搜索25年来最大改版，但谷歌还不敢一脚切到AI   梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  谷歌CEO皮查伊这次真没藏着掖着，直接一个真心话大放送了：  在Coding这事儿上，我们家Gemini确实有点了落后哈…..     （Gemini：怎么这话还从我自家老板嘴里说出来了呢！） 这不嘛，前脚Google I/O刚结束—— Gemini 3.5 Flash、Gemini Omini、Gemini Spark一整套AI新品刚端上来。 后脚在《纽约时报》科技播客最新采访里皮查伊针对几个最扎心的问题，可谓是一五一十地展开回应。    什么自家Gemini水平、什么AI焦虑，大聊特聊，把自家老底儿和心里话掏得那叫一个实在：  Coding Agent这波，谷歌确实没站到最前面。 掏心窝子地说，过去一两年的进展速度，让我感觉AGI可能比之前想象得更近了。 现在AI圈变化快到夸张！短短30到60天发生的变化，放在过去，可能得花5年才看得到。 大家怕AI，真不只是杞人忧天，因为工",
+      "summary_zh": "谷歌CEO承认Coding落后了  梦瑶 2026-05-24 14:20:35  来源：量子位   搜索25年来最大改版，但谷歌还不敢一脚切到AI   梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  谷歌CEO皮查伊这次真没藏着掖着，直接一个真心话大放送了：  在Coding这事儿上，我们家Gemini确实有点了落后哈…..     （Gemini：怎么这话还从我自家老板嘴里说出来了呢！） 这不嘛，前脚Google I/O刚结束—— Gemini 3.5 Flash、Gemini Omini、Gemini Spark一整套AI新品刚端上来。 后脚在《纽约时报》科技播客最新采访里皮查伊针对几个最扎心的问题，可谓是一五一十地展开回应。    什么自家Gemini水平、什么AI焦虑，大聊特聊，把自家老底儿和心里话掏得那叫一个实在：  Coding Agent这波，谷歌确实没站到最前面。 掏心窝子地说，过去一两年的进展速度，让我感觉AGI可能比之前想象得更近了。 现在AI圈变化快到夸张！短短30到60天发生的变化，放在过去，可能得花5年才看得到。 大家怕AI，真不只是杞人忧天，因为工",
+      "publishedAt": "2026-05-24T06:20:35Z",
+      "published_at": "2026-05-24T06:20:35Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 1,
+        "practitioner_value": 1,
+        "signal_over_promo": 1,
+        "distribution_signal": 0,
+        "confidence": 1,
+        "reason": "AI行业动态属实，但偏媒体解读"
       }
     }
   ]
