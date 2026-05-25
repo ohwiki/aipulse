@@ -1,9 +1,154 @@
 {
-  "generated_at": "2026-05-25T12:05:54Z",
-  "generatedAt": "2026-05-25T12:05:54Z",
-  "count": 13,
-  "total": 13,
+  "generated_at": "2026-05-25T21:41:17Z",
+  "generatedAt": "2026-05-25T21:41:17Z",
+  "count": 14,
+  "total": 14,
   "entries": [
+    {
+      "date": "2026-05-26",
+      "generated_at": "2026-05-25T21:41:17Z",
+      "generatedAt": "2026-05-25T21:41:17Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "667fa0dc",
+          "title": "Pi 开源可定制编程代理",
+          "title_en": "Pi Coding Agent",
+          "url": "https://www.producthunt.com/products/pi-coding-agent-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pi-coding-agent-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 9,
+          "rank_score": 10,
+          "rankingScore": 10,
+          "summary": "Pi 发布极简终端编程代理，支持用扩展、技能和包按工作流深度定制并分享。",
+          "summary_zh": "Pi 发布极简终端编程代理，支持用扩展、技能和包按工作流深度定制并分享。",
+          "publishedAt": "2026-05-25T07:01:00Z",
+          "published_at": "2026-05-25T07:01:00Z",
+          "votes_count": 139,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票精选，开源编码Agent工具链"
+          }
+        },
+        {
+          "id": "b8592a69",
+          "title": "Unabyss推出自更新AI上下文层",
+          "title_en": "Unabyss",
+          "url": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Unabyss发布支持MCP的自更新上下文层，可自动同步多应用信息并按权限供各类AI调用。",
+          "summary_zh": "Unabyss发布支持MCP的自更新上下文层，可自动同步多应用信息并按权限供各类AI调用。",
+          "publishedAt": "2026-05-25T07:01:00Z",
+          "published_at": "2026-05-25T07:01:00Z",
+          "votes_count": 432,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，MCP上下文层有实用性"
+          }
+        },
+        {
+          "id": "ea849992",
+          "title": "Yansu将工作流程变成软件",
+          "title_en": "Yansu",
+          "url": "https://www.producthunt.com/products/yansu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/yansu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Yansu可从文件、消息和流程中识别重复工作，并自动生成应用与自动化。",
+          "summary_zh": "Yansu可从文件、消息和流程中识别重复工作，并自动生成应用与自动化。",
+          "publishedAt": "2026-05-25T07:01:00Z",
+          "published_at": "2026-05-25T07:01:00Z",
+          "votes_count": 286,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "371",
+              "name": "Maker Tools",
+              "slug": "maker-tools"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票Featured，AI自动化工具首发"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-05-25",
       "generated_at": "2026-05-25T12:05:54Z",
