@@ -1,133 +1,34 @@
 {
-  "generated_at": "2026-05-24T21:17:10Z",
-  "generatedAt": "2026-05-24T21:17:10Z",
+  "generated_at": "2026-05-25T12:05:54Z",
+  "generatedAt": "2026-05-25T12:05:54Z",
   "count": 13,
   "total": 13,
   "entries": [
     {
       "date": "2026-05-25",
-      "generated_at": "2026-05-24T21:17:10Z",
-      "generatedAt": "2026-05-24T21:17:10Z",
+      "generated_at": "2026-05-25T12:05:54Z",
+      "generatedAt": "2026-05-25T12:05:54Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "1e926c10",
-          "title": "Freu AI发布Mac自动化代理",
-          "title_en": "Freu AI",
-          "url": "https://www.producthunt.com/products/freu-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "667fa0dc",
+          "title": "Pi可定制编程代理发布",
+          "title_en": "Pi Coding Agent",
+          "url": "https://www.producthunt.com/products/pi-coding-agent-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/freu-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 10,
-          "rank_score": 11,
-          "rankingScore": 11,
-          "summary": "Freu AI推出可用自然语言编排并本地执行任意Mac应用工作流的AI代理，并开源freu-cli。",
-          "summary_zh": "Freu AI推出可用自然语言编排并本地执行任意Mac应用工作流的AI代理，并开源freu-cli。",
-          "publishedAt": "2026-05-24T07:01:00Z",
-          "published_at": "2026-05-24T07:01:00Z",
-          "votes_count": 196,
-          "featured": true,
-          "topics": [
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "774",
-              "name": "Business Intelligence",
-              "slug": "business-intelligence"
-            },
-            {
-              "id": "839",
-              "name": "Marketing automation",
-              "slug": "marketing-automation"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 3,
-            "practitioner_value": 3,
-            "signal_over_promo": 2,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "AI桌面Agent首发，PH高票featured且开源CLI"
-          }
-        },
-        {
-          "id": "6f3fdff1",
-          "title": "谷歌发布Stitch 3.0",
-          "title_en": "Stitch 3.0 by Google",
-          "url": "https://www.producthunt.com/products/stitch-by-google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/stitch-by-google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/pi-coding-agent-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 9,
-          "rank_score": 10,
-          "rankingScore": 10,
-          "summary": "Google推出Stitch 3.0，可用文本生成并实时修改移动端和网页UI，还能一键导出到Figma等工具。",
-          "summary_zh": "Google推出Stitch 3.0，可用文本生成并实时修改移动端和网页UI，还能一键导出到Figma等工具。",
-          "publishedAt": "2026-05-24T07:01:00Z",
-          "published_at": "2026-05-24T07:01:00Z",
-          "votes_count": 354,
-          "featured": true,
-          "topics": [
-            {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
-            },
-            {
-              "id": "93",
-              "name": "User Experience",
-              "slug": "user-experience"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 3,
-            "signal_over_promo": 2,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "谷歌AI设计工具3.0发布，PH高票featured，实用性强"
-          }
-        },
-        {
-          "id": "ad759e72",
-          "title": "ModelHub发布Mac菜单栏应用",
-          "title_en": "ModelHub",
-          "url": "https://www.producthunt.com/products/modelhub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/modelhub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 9,
-          "rank_score": 10,
-          "rankingScore": 10,
-          "summary": "ModelHub推出原生macOS菜单栏工具，统一发现、下载和管理本地LLM模型。",
-          "summary_zh": "ModelHub推出原生macOS菜单栏工具，统一发现、下载和管理本地LLM模型。",
-          "publishedAt": "2026-05-24T07:01:00Z",
-          "published_at": "2026-05-24T07:01:00Z",
-          "votes_count": 220,
+          "rank_score": 9.6,
+          "rankingScore": 9.6,
+          "summary": "Pi发布可自定义终端编程代理，支持扩展、技能和模板打包并通过npm或git分享。",
+          "summary_zh": "Pi发布可自定义终端编程代理，支持扩展、技能和模板打包并通过npm或git分享。",
+          "publishedAt": "2026-05-25T07:01:00Z",
+          "published_at": "2026-05-25T07:01:00Z",
+          "votes_count": 105,
           "featured": true,
           "topics": [
             {
@@ -136,19 +37,14 @@
               "slug": "open-source"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             },
             {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "303",
-              "name": "Menu Bar Apps",
-              "slug": "menu-bar-apps"
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
             }
           ],
           "score_details": {
@@ -156,10 +52,99 @@
             "is_real_launch_or_update": true,
             "novelty": 2,
             "practitioner_value": 3,
+            "signal_over_promo": 2,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured，开源可定制编码Agent"
+          }
+        },
+        {
+          "id": "b8592a69",
+          "title": "Unabyss推出MCP原生上下文层",
+          "title_en": "Unabyss",
+          "url": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Unabyss发布可自动更新的AI上下文层，连接日常应用并通过MCP按权限共享给各类AI工具。",
+          "summary_zh": "Unabyss发布可自动更新的AI上下文层，连接日常应用并通过MCP按权限共享给各类AI工具。",
+          "publishedAt": "2026-05-25T07:01:00Z",
+          "published_at": "2026-05-25T07:01:00Z",
+          "votes_count": 238,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
             "signal_over_promo": 1,
             "distribution_signal": 2,
             "confidence": 1,
-            "reason": "本地LLM开发工具，PH高票featured首发"
+            "reason": "MCP上下文层新品，PH高票featured"
+          }
+        },
+        {
+          "id": "ea849992",
+          "title": "Yanshu将重复工作变成软件",
+          "title_en": "Yansu",
+          "url": "https://www.producthunt.com/products/yansu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/yansu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Yanshu从文件、消息和流程中识别重复工作，并自动生成应用和自动化工具。",
+          "summary_zh": "Yanshu从文件、消息和流程中识别重复工作，并自动生成应用和自动化工具。",
+          "publishedAt": "2026-05-25T07:01:00Z",
+          "published_at": "2026-05-25T07:01:00Z",
+          "votes_count": 170,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "371",
+              "name": "Maker Tools",
+              "slug": "maker-tools"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票Featured，AI自动化方向明确"
           }
         }
       ]

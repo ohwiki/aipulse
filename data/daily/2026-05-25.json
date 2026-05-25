@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "generated_at": "2026-05-24T21:17:10Z",
-  "generatedAt": "2026-05-24T21:17:10Z",
+  "generated_at": "2026-05-25T12:05:54Z",
+  "generatedAt": "2026-05-25T12:05:54Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -10,122 +10,23 @@
       "label": "产品发布/更新",
       "items": [
         {
-          "id": "1e926c10",
-          "title": "Freu AI发布Mac自动化代理",
-          "title_en": "Freu AI",
-          "url": "https://www.producthunt.com/products/freu-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "667fa0dc",
+          "title": "Pi可定制编程代理发布",
+          "title_en": "Pi Coding Agent",
+          "url": "https://www.producthunt.com/products/pi-coding-agent-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/freu-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 10,
-          "rank_score": 11.0,
-          "rankingScore": 11.0,
-          "summary": "Freu AI推出可用自然语言编排并本地执行任意Mac应用工作流的AI代理，并开源freu-cli。",
-          "summary_zh": "Freu AI推出可用自然语言编排并本地执行任意Mac应用工作流的AI代理，并开源freu-cli。",
-          "publishedAt": "2026-05-24T07:01:00Z",
-          "published_at": "2026-05-24T07:01:00Z",
-          "votes_count": 196,
-          "featured": true,
-          "topics": [
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "774",
-              "name": "Business Intelligence",
-              "slug": "business-intelligence"
-            },
-            {
-              "id": "839",
-              "name": "Marketing automation",
-              "slug": "marketing-automation"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 3,
-            "practitioner_value": 3,
-            "signal_over_promo": 2,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "AI桌面Agent首发，PH高票featured且开源CLI"
-          }
-        },
-        {
-          "id": "6f3fdff1",
-          "title": "谷歌发布Stitch 3.0",
-          "title_en": "Stitch 3.0 by Google",
-          "url": "https://www.producthunt.com/products/stitch-by-google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/stitch-by-google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/pi-coding-agent-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 9,
-          "rank_score": 10.0,
-          "rankingScore": 10.0,
-          "summary": "Google推出Stitch 3.0，可用文本生成并实时修改移动端和网页UI，还能一键导出到Figma等工具。",
-          "summary_zh": "Google推出Stitch 3.0，可用文本生成并实时修改移动端和网页UI，还能一键导出到Figma等工具。",
-          "publishedAt": "2026-05-24T07:01:00Z",
-          "published_at": "2026-05-24T07:01:00Z",
-          "votes_count": 354,
-          "featured": true,
-          "topics": [
-            {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
-            },
-            {
-              "id": "93",
-              "name": "User Experience",
-              "slug": "user-experience"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 3,
-            "signal_over_promo": 2,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "谷歌AI设计工具3.0发布，PH高票featured，实用性强"
-          }
-        },
-        {
-          "id": "ad759e72",
-          "title": "ModelHub发布Mac菜单栏应用",
-          "title_en": "ModelHub",
-          "url": "https://www.producthunt.com/products/modelhub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/modelhub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 9,
-          "rank_score": 10.0,
-          "rankingScore": 10.0,
-          "summary": "ModelHub推出原生macOS菜单栏工具，统一发现、下载和管理本地LLM模型。",
-          "summary_zh": "ModelHub推出原生macOS菜单栏工具，统一发现、下载和管理本地LLM模型。",
-          "publishedAt": "2026-05-24T07:01:00Z",
-          "published_at": "2026-05-24T07:01:00Z",
-          "votes_count": 220,
+          "rank_score": 9.6,
+          "rankingScore": 9.6,
+          "summary": "Pi发布可自定义终端编程代理，支持扩展、技能和模板打包并通过npm或git分享。",
+          "summary_zh": "Pi发布可自定义终端编程代理，支持扩展、技能和模板打包并通过npm或git分享。",
+          "publishedAt": "2026-05-25T07:01:00Z",
+          "published_at": "2026-05-25T07:01:00Z",
+          "votes_count": 105,
           "featured": true,
           "topics": [
             {
@@ -134,19 +35,14 @@
               "slug": "open-source"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             },
             {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "303",
-              "name": "Menu Bar Apps",
-              "slug": "menu-bar-apps"
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
             }
           ],
           "score_details": {
@@ -154,30 +50,30 @@
             "is_real_launch_or_update": true,
             "novelty": 2,
             "practitioner_value": 3,
-            "signal_over_promo": 1,
+            "signal_over_promo": 2,
             "distribution_signal": 2,
             "confidence": 1,
-            "reason": "本地LLM开发工具，PH高票featured首发"
+            "reason": "PH高票featured，开源可定制编码Agent"
           }
         },
         {
-          "id": "45423436",
-          "title": "Edgee推出Claude备用模型",
-          "title_en": "Edgee Fallback Models",
-          "url": "https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "b8592a69",
+          "title": "Unabyss推出MCP原生上下文层",
+          "title_en": "Unabyss",
+          "url": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
-          "score": 9,
-          "rank_score": 10.0,
-          "rankingScore": 10.0,
-          "summary": "Edgee为Claude Code提供故障切换，Claude不可用或超额时可自动切到Kimi、Gemma等模型继续运行。",
-          "summary_zh": "Edgee为Claude Code提供故障切换，Claude不可用或超额时可自动切到Kimi、Gemma等模型继续运行。",
-          "publishedAt": "2026-05-24T07:01:00Z",
-          "published_at": "2026-05-24T07:01:00Z",
-          "votes_count": 148,
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "Unabyss发布可自动更新的AI上下文层，连接日常应用并通过MCP按权限共享给各类AI工具。",
+          "summary_zh": "Unabyss发布可自动更新的AI上下文层，连接日常应用并通过MCP按权限共享给各类AI工具。",
+          "publishedAt": "2026-05-25T07:01:00Z",
+          "published_at": "2026-05-25T07:01:00Z",
+          "votes_count": 238,
           "featured": true,
           "topics": [
             {
@@ -186,25 +82,114 @@
               "slug": "productivity"
             },
             {
-              "id": "247",
-              "name": "Software Engineering",
-              "slug": "software-engineering"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": {
             "is_ai_relevant": true,
             "is_real_launch_or_update": true,
             "novelty": 2,
-            "practitioner_value": 3,
+            "practitioner_value": 2,
             "signal_over_promo": 1,
             "distribution_signal": 2,
             "confidence": 1,
-            "reason": "AI编码容灾工具，PH高票featured"
+            "reason": "MCP上下文层新品，PH高票featured"
+          }
+        },
+        {
+          "id": "ea849992",
+          "title": "Yanshu将重复工作变成软件",
+          "title_en": "Yansu",
+          "url": "https://www.producthunt.com/products/yansu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/yansu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "Yanshu从文件、消息和流程中识别重复工作，并自动生成应用和自动化工具。",
+          "summary_zh": "Yanshu从文件、消息和流程中识别重复工作，并自动生成应用和自动化工具。",
+          "publishedAt": "2026-05-25T07:01:00Z",
+          "published_at": "2026-05-25T07:01:00Z",
+          "votes_count": 170,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "371",
+              "name": "Maker Tools",
+              "slug": "maker-tools"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票Featured，AI自动化方向明确"
+          }
+        },
+        {
+          "id": "84b22f6f",
+          "title": "Supaboard 3.0发布",
+          "title_en": "Supaboard 3.0",
+          "url": "https://www.producthunt.com/products/supaboard-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/supaboard-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9.0,
+          "rankingScore": 9.0,
+          "summary": "Supaboard 3.0上线，团队可用自然语言分析业务数据并快速生成仪表盘，无需写SQL。",
+          "summary_zh": "Supaboard 3.0上线，团队可用自然语言分析业务数据并快速生成仪表盘，无需写SQL。",
+          "publishedAt": "2026-05-25T07:01:00Z",
+          "published_at": "2026-05-25T07:01:00Z",
+          "votes_count": 150,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
+            },
+            {
+              "id": "775",
+              "name": "Data Visualization",
+              "slug": "data-visualization"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票featured的AI数据分析产品3.0更新"
           }
         }
       ]
@@ -214,53 +199,115 @@
       "label": "中文媒体精选",
       "items": [
         {
-          "id": "5441346a",
-          "title": "CODA可自动生成CUDA内核",
-          "title_en": "还在手写CUDA内核？CODA来了！LLM和新手也能让Transformer跑出光速",
-          "url": "https://www.jiqizhixin.com/articles",
-          "source": "机器之心",
+          "id": "688ee71f",
+          "title": "机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局",
+          "title_en": null,
+          "url": "https://36kr.com/p/3824053061652616?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "机器之心",
-          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3824053061652616?f=rss",
           "category": "cn-media",
-          "score": 9,
-          "rank_score": 9.0,
-          "rankingScore": 9.0,
-          "summary": "CODA让大模型和新手也能自动生成Transformer高性能CUDA内核。",
-          "summary_zh": "CODA让大模型和新手也能自动生成Transformer高性能CUDA内核。",
-          "publishedAt": "2026-05-24T21:15:04Z",
-          "published_at": "2026-05-24T21:15:04Z",
+          "score": 7,
+          "rank_score": 7.0,
+          "rankingScore": 7.0,
+          "summary": "硬氪获悉，近日，六维力传感器企业蓝点触控宣布完成C++轮数亿元人民币融资，本轮由上汽金控、尚颀资本领投，由中芯聚源、正大机器人以及厚为资本跟投。本轮融资将主要用于新产品研发、生产数智化建设以及全球市场拓展。 蓝点触控半年完成了三轮亿元级融资，此次融资距上一轮C+轮融资仅一个月。股东阵容目前已囊括红杉中国、宁德时代旗下溥泉资本、智元机器人、银河通用、上汽系资本、中芯产业资本等多路力量。 本轮融资投资方在产业链方向的纵深值得关注。上汽系资本（上汽金控、尚颀资本）代表汽车制造场景，中芯聚源代表半导体高端制造，厚为资本则带来广泛的消费和媒体生态资源——三者与上一轮入股的宁德时代（动力电池）及智元机器人、银河通用（整机龙头）形成了从核心零部件到终端应用的全链条覆盖。 这意味着，蓝点触控的力控传感器将率先批量部署于汽车、新能源电池等工业生产场景。产业资本不仅带来资金，更带来确定性的量产订单与应用场景。 蓝点触控创始人刘吴月曾就职于航天科技集团，核心团队来自中科大、航天科技集团、中科院等科研院所，并由北航机器人所名誉所长王田苗教授担任董事。其核心产品为六维力传感器和关节力矩传感器，有着0.1%FS精",
+          "summary_zh": "硬氪获悉，近日，六维力传感器企业蓝点触控宣布完成C++轮数亿元人民币融资，本轮由上汽金控、尚颀资本领投，由中芯聚源、正大机器人以及厚为资本跟投。本轮融资将主要用于新产品研发、生产数智化建设以及全球市场拓展。 蓝点触控半年完成了三轮亿元级融资，此次融资距上一轮C+轮融资仅一个月。股东阵容目前已囊括红杉中国、宁德时代旗下溥泉资本、智元机器人、银河通用、上汽系资本、中芯产业资本等多路力量。 本轮融资投资方在产业链方向的纵深值得关注。上汽系资本（上汽金控、尚颀资本）代表汽车制造场景，中芯聚源代表半导体高端制造，厚为资本则带来广泛的消费和媒体生态资源——三者与上一轮入股的宁德时代（动力电池）及智元机器人、银河通用（整机龙头）形成了从核心零部件到终端应用的全链条覆盖。 这意味着，蓝点触控的力控传感器将率先批量部署于汽车、新能源电池等工业生产场景。产业资本不仅带来资金，更带来确定性的量产订单与应用场景。 蓝点触控创始人刘吴月曾就职于航天科技集团，核心团队来自中科大、航天科技集团、中科院等科研院所，并由北航机器人所名誉所长王田苗教授担任董事。其核心产品为六维力传感器和关节力矩传感器，有着0.1%FS精",
+          "publishedAt": "2026-05-25T01:50:58Z",
+          "published_at": "2026-05-25T01:50:58Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": {
             "is_ai_relevant": true,
             "is_real_launch_or_update": true,
-            "novelty": 3,
-            "practitioner_value": 3,
-            "signal_over_promo": 1,
-            "distribution_signal": 1,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 2,
+            "distribution_signal": 0,
             "confidence": 1,
-            "reason": "AI编译/内核生成新进展，工程价值高"
+            "reason": "具身智能上游融资，产业落地信号强"
           }
         },
         {
-          "id": "d6b096fd",
-          "title": "AgentChord预写机器人恢复动作",
-          "title_en": "RSS 2026｜机器人别等失败了才补救，AgentChord让恢复动作提前写进任务图",
+          "id": "28a8c8a8",
+          "title": "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据",
+          "title_en": null,
+          "url": "https://36kr.com/p/3824089662853513?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3824089662853513?f=rss",
+          "category": "cn-media",
+          "score": 6,
+          "rank_score": 6.0,
+          "rankingScore": 6.0,
+          "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，消费级空间相机公司竹马创新近日完成了数千万天使+轮融资，本轮由商汤国香资本领投，鼎晖VGC、峰瑞资本跟投，深渡资本担任后续独家财务顾问。资金将主要用于产品研发、量产准备及海外市场拓展。 竹马创新成立于2025年11月，是一家以Camera + AI为核心的空间智能公司。公司希望定义一种新的AI硬件品类——空间相机：既是消费级3D内容创作工具，更是面向具身智能与世界模型的真实世界三维数据入口。 团队方面，创始人张吉曾任群核科技副总裁，深度参与大规模空间数据处理与商业化；首席科学家过洁为南京大学长聘副教授、3DGS和空间仿真领域顶尖科学家；团队具备从三维数据采集到云端计算、从算法到硬件的全栈能力。 据张吉介绍，公司首款产品Pebble，将3D Gaussian Splatting、多传感器融合、端云协同与AI原生交互封装进一台消费级设备，让用户像拍视频一样捕获真实三维世界，实现“所见即所扫、所扫即所得”。目前，产品仍在研发阶段，尚未量产。 随着具身智能与VLA大模型的兴起，行业对真实世界三维数据的需求正在发生结构性变化。过去，机器人训练严重依赖遥操作数据",
+          "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，消费级空间相机公司竹马创新近日完成了数千万天使+轮融资，本轮由商汤国香资本领投，鼎晖VGC、峰瑞资本跟投，深渡资本担任后续独家财务顾问。资金将主要用于产品研发、量产准备及海外市场拓展。 竹马创新成立于2025年11月，是一家以Camera + AI为核心的空间智能公司。公司希望定义一种新的AI硬件品类——空间相机：既是消费级3D内容创作工具，更是面向具身智能与世界模型的真实世界三维数据入口。 团队方面，创始人张吉曾任群核科技副总裁，深度参与大规模空间数据处理与商业化；首席科学家过洁为南京大学长聘副教授、3DGS和空间仿真领域顶尖科学家；团队具备从三维数据采集到云端计算、从算法到硬件的全栈能力。 据张吉介绍，公司首款产品Pebble，将3D Gaussian Splatting、多传感器融合、端云协同与AI原生交互封装进一台消费级设备，让用户像拍视频一样捕获真实三维世界，实现“所见即所扫、所扫即所得”。目前，产品仍在研发阶段，尚未量产。 随着具身智能与VLA大模型的兴起，行业对真实世界三维数据的需求正在发生结构性变化。过去，机器人训练严重依赖遥操作数据",
+          "publishedAt": "2026-05-25T02:25:26Z",
+          "published_at": "2026-05-25T02:25:26Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 1,
+            "signal_over_promo": 1,
+            "distribution_signal": 0,
+            "confidence": 1,
+            "reason": "具身智能数据入口方向值得关注，但仍偏融资稿"
+          }
+        },
+        {
+          "id": "af2c9c97",
+          "title": "Windsurf核心工程师转投DeepMind",
+          "title_en": "并购激励金都不要了？全程踩中AI Coding，Windsurf核心工程师离开DeepMind",
           "url": "https://www.jiqizhixin.com/articles",
           "source": "机器之心",
           "source_type": null,
           "sourceName": "机器之心",
           "sourceUrl": "https://www.jiqizhixin.com/articles",
           "category": "cn-media",
-          "score": 7,
-          "rank_score": 7.0,
-          "rankingScore": 7.0,
-          "summary": "AgentChord把恢复动作提前编入任务图，让机器人故障时可直接切换处理。",
-          "summary_zh": "AgentChord把恢复动作提前编入任务图，让机器人故障时可直接切换处理。",
-          "publishedAt": "2026-05-24T21:15:04Z",
-          "published_at": "2026-05-24T21:15:04Z",
+          "score": 6,
+          "rank_score": 6.0,
+          "rankingScore": 6.0,
+          "summary": "Windsurf核心工程师放弃并购激励金，因押中AI编程赛道而离职加入DeepMind。",
+          "summary_zh": "Windsurf核心工程师放弃并购激励金，因押中AI编程赛道而离职加入DeepMind。",
+          "publishedAt": "2026-05-25T12:03:00Z",
+          "published_at": "2026-05-25T12:03:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 1,
+            "signal_over_promo": 2,
+            "distribution_signal": 0,
+            "confidence": 1,
+            "reason": "AI编程赛道人才流动，有行业观察价值"
+          }
+        },
+        {
+          "id": "74730f43",
+          "title": "EdgeRazor将端侧解码提速15倍",
+          "title_en": "解码加速15倍！EdgeRazor助推大模型在PC/移动端“狂飙”",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 6,
+          "rank_score": 6.0,
+          "rankingScore": 6.0,
+          "summary": "EdgeRazor把大模型在PC和移动端的解码速度提升至15倍，加速端侧部署与运行。",
+          "summary_zh": "EdgeRazor把大模型在PC和移动端的解码速度提升至15倍，加速端侧部署与运行。",
+          "publishedAt": "2026-05-25T12:03:00Z",
+          "published_at": "2026-05-25T12:03:00Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -270,71 +317,9 @@
             "novelty": 2,
             "practitioner_value": 2,
             "signal_over_promo": 1,
-            "distribution_signal": 1,
-            "confidence": 0,
-            "reason": "RSS论文报道，具身智能恢复规划有研究价值"
-          }
-        },
-        {
-          "id": "d4e651cf",
-          "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
-          "title_en": null,
-          "url": "https://36kr.com/newsflashes/3822775103607172?f=rss",
-          "source": "36氪",
-          "source_type": null,
-          "sourceName": "36氪",
-          "sourceUrl": "https://36kr.com/newsflashes/3822775103607172?f=rss",
-          "category": "cn-media",
-          "score": 6,
-          "rank_score": 6.0,
-          "rankingScore": 6.0,
-          "summary": "近期人工智能创投市场热度攀升。5月，月之暗面、阶跃星辰等国产大模型拿下超过300亿元融资。具身智能同样受到市场关注，一周内维他动力、鹿明机器人等接连斩获数亿元融资。有创投机构统计，一季度人工智能领域的融资有近600起，总额超1100亿元，同比激增185.4%。AI创业公司拿到融资后不少都投向三大方向。一是研发，头部大模型公司2025年研发投入普遍达到数十亿，远超当期营收。二是算力，GPU采购和云服务租赁占融资额的30%到50%。三是招揽全球顶尖人才和团队。研发投得多，技术迭代就快。2026年，中国大模型企业迭代周期已普遍缩短至3个月以内，人工智能推理成本也大幅下降，商业化进程不断深入。",
-          "summary_zh": "近期人工智能创投市场热度攀升。5月，月之暗面、阶跃星辰等国产大模型拿下超过300亿元融资。具身智能同样受到市场关注，一周内维他动力、鹿明机器人等接连斩获数亿元融资。有创投机构统计，一季度人工智能领域的融资有近600起，总额超1100亿元，同比激增185.4%。AI创业公司拿到融资后不少都投向三大方向。一是研发，头部大模型公司2025年研发投入普遍达到数十亿，远超当期营收。二是算力，GPU采购和云服务租赁占融资额的30%到50%。三是招揽全球顶尖人才和团队。研发投得多，技术迭代就快。2026年，中国大模型企业迭代周期已普遍缩短至3个月以内，人工智能推理成本也大幅下降，商业化进程不断深入。",
-          "publishedAt": "2026-05-24T05:00:48Z",
-          "published_at": "2026-05-24T05:00:48Z",
-          "votes_count": null,
-          "featured": null,
-          "topics": [],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 1,
-            "practitioner_value": 1,
-            "signal_over_promo": 1,
-            "distribution_signal": 1,
-            "confidence": 1,
-            "reason": "AI投融资行业动态，信号有但偏宏观"
-          }
-        },
-        {
-          "id": "9f669cec",
-          "title": "谷歌CEO承认Coding落后了",
-          "title_en": null,
-          "url": "https://www.qbitai.com/2026/05/423390.html",
-          "source": "量子位",
-          "source_type": null,
-          "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/05/423390.html",
-          "category": "cn-media",
-          "score": 5,
-          "rank_score": 5.0,
-          "rankingScore": 5.0,
-          "summary": "谷歌CEO承认Coding落后了  梦瑶 2026-05-24 14:20:35  来源：量子位   搜索25年来最大改版，但谷歌还不敢一脚切到AI   梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  谷歌CEO皮查伊这次真没藏着掖着，直接一个真心话大放送了：  在Coding这事儿上，我们家Gemini确实有点了落后哈…..     （Gemini：怎么这话还从我自家老板嘴里说出来了呢！） 这不嘛，前脚Google I/O刚结束—— Gemini 3.5 Flash、Gemini Omini、Gemini Spark一整套AI新品刚端上来。 后脚在《纽约时报》科技播客最新采访里皮查伊针对几个最扎心的问题，可谓是一五一十地展开回应。    什么自家Gemini水平、什么AI焦虑，大聊特聊，把自家老底儿和心里话掏得那叫一个实在：  Coding Agent这波，谷歌确实没站到最前面。 掏心窝子地说，过去一两年的进展速度，让我感觉AGI可能比之前想象得更近了。 现在AI圈变化快到夸张！短短30到60天发生的变化，放在过去，可能得花5年才看得到。 大家怕AI，真不只是杞人忧天，因为工",
-          "summary_zh": "谷歌CEO承认Coding落后了  梦瑶 2026-05-24 14:20:35  来源：量子位   搜索25年来最大改版，但谷歌还不敢一脚切到AI   梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  谷歌CEO皮查伊这次真没藏着掖着，直接一个真心话大放送了：  在Coding这事儿上，我们家Gemini确实有点了落后哈…..     （Gemini：怎么这话还从我自家老板嘴里说出来了呢！） 这不嘛，前脚Google I/O刚结束—— Gemini 3.5 Flash、Gemini Omini、Gemini Spark一整套AI新品刚端上来。 后脚在《纽约时报》科技播客最新采访里皮查伊针对几个最扎心的问题，可谓是一五一十地展开回应。    什么自家Gemini水平、什么AI焦虑，大聊特聊，把自家老底儿和心里话掏得那叫一个实在：  Coding Agent这波，谷歌确实没站到最前面。 掏心窝子地说，过去一两年的进展速度，让我感觉AGI可能比之前想象得更近了。 现在AI圈变化快到夸张！短短30到60天发生的变化，放在过去，可能得花5年才看得到。 大家怕AI，真不只是杞人忧天，因为工",
-          "publishedAt": "2026-05-24T06:20:35Z",
-          "published_at": "2026-05-24T06:20:35Z",
-          "votes_count": null,
-          "featured": null,
-          "topics": [],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 1,
-            "practitioner_value": 1,
-            "signal_over_promo": 1,
             "distribution_signal": 0,
-            "confidence": 1,
-            "reason": "AI行业动态属实，但偏媒体转述，实操价值有限"
+            "confidence": 0,
+            "reason": "像真实技术发布，但细节与外部信号不足"
           }
         }
       ]
@@ -342,122 +327,23 @@
   ],
   "items": [
     {
-      "id": "1e926c10",
-      "title": "Freu AI发布Mac自动化代理",
-      "title_en": "Freu AI",
-      "url": "https://www.producthunt.com/products/freu-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "667fa0dc",
+      "title": "Pi可定制编程代理发布",
+      "title_en": "Pi Coding Agent",
+      "url": "https://www.producthunt.com/products/pi-coding-agent-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/freu-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 10,
-      "rank_score": 11.0,
-      "rankingScore": 11.0,
-      "summary": "Freu AI推出可用自然语言编排并本地执行任意Mac应用工作流的AI代理，并开源freu-cli。",
-      "summary_zh": "Freu AI推出可用自然语言编排并本地执行任意Mac应用工作流的AI代理，并开源freu-cli。",
-      "publishedAt": "2026-05-24T07:01:00Z",
-      "published_at": "2026-05-24T07:01:00Z",
-      "votes_count": 196,
-      "featured": true,
-      "topics": [
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "272",
-          "name": "GitHub",
-          "slug": "github"
-        },
-        {
-          "id": "774",
-          "name": "Business Intelligence",
-          "slug": "business-intelligence"
-        },
-        {
-          "id": "839",
-          "name": "Marketing automation",
-          "slug": "marketing-automation"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 3,
-        "practitioner_value": 3,
-        "signal_over_promo": 2,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "AI桌面Agent首发，PH高票featured且开源CLI"
-      }
-    },
-    {
-      "id": "6f3fdff1",
-      "title": "谷歌发布Stitch 3.0",
-      "title_en": "Stitch 3.0 by Google",
-      "url": "https://www.producthunt.com/products/stitch-by-google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/stitch-by-google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/pi-coding-agent-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 9,
-      "rank_score": 10.0,
-      "rankingScore": 10.0,
-      "summary": "Google推出Stitch 3.0，可用文本生成并实时修改移动端和网页UI，还能一键导出到Figma等工具。",
-      "summary_zh": "Google推出Stitch 3.0，可用文本生成并实时修改移动端和网页UI，还能一键导出到Figma等工具。",
-      "publishedAt": "2026-05-24T07:01:00Z",
-      "published_at": "2026-05-24T07:01:00Z",
-      "votes_count": 354,
-      "featured": true,
-      "topics": [
-        {
-          "id": "44",
-          "name": "Design Tools",
-          "slug": "design-tools"
-        },
-        {
-          "id": "93",
-          "name": "User Experience",
-          "slug": "user-experience"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 2,
-        "practitioner_value": 3,
-        "signal_over_promo": 2,
-        "distribution_signal": 2,
-        "confidence": 1,
-        "reason": "谷歌AI设计工具3.0发布，PH高票featured，实用性强"
-      }
-    },
-    {
-      "id": "ad759e72",
-      "title": "ModelHub发布Mac菜单栏应用",
-      "title_en": "ModelHub",
-      "url": "https://www.producthunt.com/products/modelhub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/modelhub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 9,
-      "rank_score": 10.0,
-      "rankingScore": 10.0,
-      "summary": "ModelHub推出原生macOS菜单栏工具，统一发现、下载和管理本地LLM模型。",
-      "summary_zh": "ModelHub推出原生macOS菜单栏工具，统一发现、下载和管理本地LLM模型。",
-      "publishedAt": "2026-05-24T07:01:00Z",
-      "published_at": "2026-05-24T07:01:00Z",
-      "votes_count": 220,
+      "rank_score": 9.6,
+      "rankingScore": 9.6,
+      "summary": "Pi发布可自定义终端编程代理，支持扩展、技能和模板打包并通过npm或git分享。",
+      "summary_zh": "Pi发布可自定义终端编程代理，支持扩展、技能和模板打包并通过npm或git分享。",
+      "publishedAt": "2026-05-25T07:01:00Z",
+      "published_at": "2026-05-25T07:01:00Z",
+      "votes_count": 105,
       "featured": true,
       "topics": [
         {
@@ -466,19 +352,14 @@
           "slug": "open-source"
         },
         {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         },
         {
-          "id": "272",
-          "name": "GitHub",
-          "slug": "github"
-        },
-        {
-          "id": "303",
-          "name": "Menu Bar Apps",
-          "slug": "menu-bar-apps"
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
         }
       ],
       "score_details": {
@@ -486,30 +367,30 @@
         "is_real_launch_or_update": true,
         "novelty": 2,
         "practitioner_value": 3,
-        "signal_over_promo": 1,
+        "signal_over_promo": 2,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "本地LLM开发工具，PH高票featured首发"
+        "reason": "PH高票featured，开源可定制编码Agent"
       }
     },
     {
-      "id": "45423436",
-      "title": "Edgee推出Claude备用模型",
-      "title_en": "Edgee Fallback Models",
-      "url": "https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "b8592a69",
+      "title": "Unabyss推出MCP原生上下文层",
+      "title_en": "Unabyss",
+      "url": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
-      "score": 9,
-      "rank_score": 10.0,
-      "rankingScore": 10.0,
-      "summary": "Edgee为Claude Code提供故障切换，Claude不可用或超额时可自动切到Kimi、Gemma等模型继续运行。",
-      "summary_zh": "Edgee为Claude Code提供故障切换，Claude不可用或超额时可自动切到Kimi、Gemma等模型继续运行。",
-      "publishedAt": "2026-05-24T07:01:00Z",
-      "published_at": "2026-05-24T07:01:00Z",
-      "votes_count": 148,
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Unabyss发布可自动更新的AI上下文层，连接日常应用并通过MCP按权限共享给各类AI工具。",
+      "summary_zh": "Unabyss发布可自动更新的AI上下文层，连接日常应用并通过MCP按权限共享给各类AI工具。",
+      "publishedAt": "2026-05-25T07:01:00Z",
+      "published_at": "2026-05-25T07:01:00Z",
+      "votes_count": 238,
       "featured": true,
       "topics": [
         {
@@ -518,75 +399,226 @@
           "slug": "productivity"
         },
         {
-          "id": "247",
-          "name": "Software Engineering",
-          "slug": "software-engineering"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         }
       ],
       "score_details": {
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
         "novelty": 2,
-        "practitioner_value": 3,
+        "practitioner_value": 2,
         "signal_over_promo": 1,
         "distribution_signal": 2,
         "confidence": 1,
-        "reason": "AI编码容灾工具，PH高票featured"
+        "reason": "MCP上下文层新品，PH高票featured"
       }
     },
     {
-      "id": "5441346a",
-      "title": "CODA可自动生成CUDA内核",
-      "title_en": "还在手写CUDA内核？CODA来了！LLM和新手也能让Transformer跑出光速",
-      "url": "https://www.jiqizhixin.com/articles",
-      "source": "机器之心",
+      "id": "ea849992",
+      "title": "Yanshu将重复工作变成软件",
+      "title_en": "Yansu",
+      "url": "https://www.producthunt.com/products/yansu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "机器之心",
-      "sourceUrl": "https://www.jiqizhixin.com/articles",
-      "category": "cn-media",
-      "score": 9,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/yansu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
       "rank_score": 9.0,
       "rankingScore": 9.0,
-      "summary": "CODA让大模型和新手也能自动生成Transformer高性能CUDA内核。",
-      "summary_zh": "CODA让大模型和新手也能自动生成Transformer高性能CUDA内核。",
-      "publishedAt": "2026-05-24T21:15:04Z",
-      "published_at": "2026-05-24T21:15:04Z",
+      "summary": "Yanshu从文件、消息和流程中识别重复工作，并自动生成应用和自动化工具。",
+      "summary_zh": "Yanshu从文件、消息和流程中识别重复工作，并自动生成应用和自动化工具。",
+      "publishedAt": "2026-05-25T07:01:00Z",
+      "published_at": "2026-05-25T07:01:00Z",
+      "votes_count": 170,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "371",
+          "name": "Maker Tools",
+          "slug": "maker-tools"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票Featured，AI自动化方向明确"
+      }
+    },
+    {
+      "id": "84b22f6f",
+      "title": "Supaboard 3.0发布",
+      "title_en": "Supaboard 3.0",
+      "url": "https://www.producthunt.com/products/supaboard-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/supaboard-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 8,
+      "rank_score": 9.0,
+      "rankingScore": 9.0,
+      "summary": "Supaboard 3.0上线，团队可用自然语言分析业务数据并快速生成仪表盘，无需写SQL。",
+      "summary_zh": "Supaboard 3.0上线，团队可用自然语言分析业务数据并快速生成仪表盘，无需写SQL。",
+      "publishedAt": "2026-05-25T07:01:00Z",
+      "published_at": "2026-05-25T07:01:00Z",
+      "votes_count": 150,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "582",
+          "name": "Data & Analytics",
+          "slug": "data-analytics"
+        },
+        {
+          "id": "775",
+          "name": "Data Visualization",
+          "slug": "data-visualization"
+        }
+      ],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 1,
+        "distribution_signal": 2,
+        "confidence": 1,
+        "reason": "PH高票featured的AI数据分析产品3.0更新"
+      }
+    },
+    {
+      "id": "688ee71f",
+      "title": "机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局",
+      "title_en": null,
+      "url": "https://36kr.com/p/3824053061652616?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3824053061652616?f=rss",
+      "category": "cn-media",
+      "score": 7,
+      "rank_score": 7.0,
+      "rankingScore": 7.0,
+      "summary": "硬氪获悉，近日，六维力传感器企业蓝点触控宣布完成C++轮数亿元人民币融资，本轮由上汽金控、尚颀资本领投，由中芯聚源、正大机器人以及厚为资本跟投。本轮融资将主要用于新产品研发、生产数智化建设以及全球市场拓展。 蓝点触控半年完成了三轮亿元级融资，此次融资距上一轮C+轮融资仅一个月。股东阵容目前已囊括红杉中国、宁德时代旗下溥泉资本、智元机器人、银河通用、上汽系资本、中芯产业资本等多路力量。 本轮融资投资方在产业链方向的纵深值得关注。上汽系资本（上汽金控、尚颀资本）代表汽车制造场景，中芯聚源代表半导体高端制造，厚为资本则带来广泛的消费和媒体生态资源——三者与上一轮入股的宁德时代（动力电池）及智元机器人、银河通用（整机龙头）形成了从核心零部件到终端应用的全链条覆盖。 这意味着，蓝点触控的力控传感器将率先批量部署于汽车、新能源电池等工业生产场景。产业资本不仅带来资金，更带来确定性的量产订单与应用场景。 蓝点触控创始人刘吴月曾就职于航天科技集团，核心团队来自中科大、航天科技集团、中科院等科研院所，并由北航机器人所名誉所长王田苗教授担任董事。其核心产品为六维力传感器和关节力矩传感器，有着0.1%FS精",
+      "summary_zh": "硬氪获悉，近日，六维力传感器企业蓝点触控宣布完成C++轮数亿元人民币融资，本轮由上汽金控、尚颀资本领投，由中芯聚源、正大机器人以及厚为资本跟投。本轮融资将主要用于新产品研发、生产数智化建设以及全球市场拓展。 蓝点触控半年完成了三轮亿元级融资，此次融资距上一轮C+轮融资仅一个月。股东阵容目前已囊括红杉中国、宁德时代旗下溥泉资本、智元机器人、银河通用、上汽系资本、中芯产业资本等多路力量。 本轮融资投资方在产业链方向的纵深值得关注。上汽系资本（上汽金控、尚颀资本）代表汽车制造场景，中芯聚源代表半导体高端制造，厚为资本则带来广泛的消费和媒体生态资源——三者与上一轮入股的宁德时代（动力电池）及智元机器人、银河通用（整机龙头）形成了从核心零部件到终端应用的全链条覆盖。 这意味着，蓝点触控的力控传感器将率先批量部署于汽车、新能源电池等工业生产场景。产业资本不仅带来资金，更带来确定性的量产订单与应用场景。 蓝点触控创始人刘吴月曾就职于航天科技集团，核心团队来自中科大、航天科技集团、中科院等科研院所，并由北航机器人所名誉所长王田苗教授担任董事。其核心产品为六维力传感器和关节力矩传感器，有着0.1%FS精",
+      "publishedAt": "2026-05-25T01:50:58Z",
+      "published_at": "2026-05-25T01:50:58Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": {
         "is_ai_relevant": true,
         "is_real_launch_or_update": true,
-        "novelty": 3,
-        "practitioner_value": 3,
-        "signal_over_promo": 1,
-        "distribution_signal": 1,
+        "novelty": 2,
+        "practitioner_value": 2,
+        "signal_over_promo": 2,
+        "distribution_signal": 0,
         "confidence": 1,
-        "reason": "AI编译/内核生成新进展，工程价值高"
+        "reason": "具身智能上游融资，产业落地信号强"
       }
     },
     {
-      "id": "d6b096fd",
-      "title": "AgentChord预写机器人恢复动作",
-      "title_en": "RSS 2026｜机器人别等失败了才补救，AgentChord让恢复动作提前写进任务图",
+      "id": "28a8c8a8",
+      "title": "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据",
+      "title_en": null,
+      "url": "https://36kr.com/p/3824089662853513?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3824089662853513?f=rss",
+      "category": "cn-media",
+      "score": 6,
+      "rank_score": 6.0,
+      "rankingScore": 6.0,
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，消费级空间相机公司竹马创新近日完成了数千万天使+轮融资，本轮由商汤国香资本领投，鼎晖VGC、峰瑞资本跟投，深渡资本担任后续独家财务顾问。资金将主要用于产品研发、量产准备及海外市场拓展。 竹马创新成立于2025年11月，是一家以Camera + AI为核心的空间智能公司。公司希望定义一种新的AI硬件品类——空间相机：既是消费级3D内容创作工具，更是面向具身智能与世界模型的真实世界三维数据入口。 团队方面，创始人张吉曾任群核科技副总裁，深度参与大规模空间数据处理与商业化；首席科学家过洁为南京大学长聘副教授、3DGS和空间仿真领域顶尖科学家；团队具备从三维数据采集到云端计算、从算法到硬件的全栈能力。 据张吉介绍，公司首款产品Pebble，将3D Gaussian Splatting、多传感器融合、端云协同与AI原生交互封装进一台消费级设备，让用户像拍视频一样捕获真实三维世界，实现“所见即所扫、所扫即所得”。目前，产品仍在研发阶段，尚未量产。 随着具身智能与VLA大模型的兴起，行业对真实世界三维数据的需求正在发生结构性变化。过去，机器人训练严重依赖遥操作数据",
+      "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，消费级空间相机公司竹马创新近日完成了数千万天使+轮融资，本轮由商汤国香资本领投，鼎晖VGC、峰瑞资本跟投，深渡资本担任后续独家财务顾问。资金将主要用于产品研发、量产准备及海外市场拓展。 竹马创新成立于2025年11月，是一家以Camera + AI为核心的空间智能公司。公司希望定义一种新的AI硬件品类——空间相机：既是消费级3D内容创作工具，更是面向具身智能与世界模型的真实世界三维数据入口。 团队方面，创始人张吉曾任群核科技副总裁，深度参与大规模空间数据处理与商业化；首席科学家过洁为南京大学长聘副教授、3DGS和空间仿真领域顶尖科学家；团队具备从三维数据采集到云端计算、从算法到硬件的全栈能力。 据张吉介绍，公司首款产品Pebble，将3D Gaussian Splatting、多传感器融合、端云协同与AI原生交互封装进一台消费级设备，让用户像拍视频一样捕获真实三维世界，实现“所见即所扫、所扫即所得”。目前，产品仍在研发阶段，尚未量产。 随着具身智能与VLA大模型的兴起，行业对真实世界三维数据的需求正在发生结构性变化。过去，机器人训练严重依赖遥操作数据",
+      "publishedAt": "2026-05-25T02:25:26Z",
+      "published_at": "2026-05-25T02:25:26Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 1,
+        "signal_over_promo": 1,
+        "distribution_signal": 0,
+        "confidence": 1,
+        "reason": "具身智能数据入口方向值得关注，但仍偏融资稿"
+      }
+    },
+    {
+      "id": "af2c9c97",
+      "title": "Windsurf核心工程师转投DeepMind",
+      "title_en": "并购激励金都不要了？全程踩中AI Coding，Windsurf核心工程师离开DeepMind",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
       "sourceName": "机器之心",
       "sourceUrl": "https://www.jiqizhixin.com/articles",
       "category": "cn-media",
-      "score": 7,
-      "rank_score": 7.0,
-      "rankingScore": 7.0,
-      "summary": "AgentChord把恢复动作提前编入任务图，让机器人故障时可直接切换处理。",
-      "summary_zh": "AgentChord把恢复动作提前编入任务图，让机器人故障时可直接切换处理。",
-      "publishedAt": "2026-05-24T21:15:04Z",
-      "published_at": "2026-05-24T21:15:04Z",
+      "score": 6,
+      "rank_score": 6.0,
+      "rankingScore": 6.0,
+      "summary": "Windsurf核心工程师放弃并购激励金，因押中AI编程赛道而离职加入DeepMind。",
+      "summary_zh": "Windsurf核心工程师放弃并购激励金，因押中AI编程赛道而离职加入DeepMind。",
+      "publishedAt": "2026-05-25T12:03:00Z",
+      "published_at": "2026-05-25T12:03:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": {
+        "is_ai_relevant": true,
+        "is_real_launch_or_update": true,
+        "novelty": 2,
+        "practitioner_value": 1,
+        "signal_over_promo": 2,
+        "distribution_signal": 0,
+        "confidence": 1,
+        "reason": "AI编程赛道人才流动，有行业观察价值"
+      }
+    },
+    {
+      "id": "74730f43",
+      "title": "EdgeRazor将端侧解码提速15倍",
+      "title_en": "解码加速15倍！EdgeRazor助推大模型在PC/移动端“狂飙”",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 6,
+      "rank_score": 6.0,
+      "rankingScore": 6.0,
+      "summary": "EdgeRazor把大模型在PC和移动端的解码速度提升至15倍，加速端侧部署与运行。",
+      "summary_zh": "EdgeRazor把大模型在PC和移动端的解码速度提升至15倍，加速端侧部署与运行。",
+      "publishedAt": "2026-05-25T12:03:00Z",
+      "published_at": "2026-05-25T12:03:00Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -596,71 +628,9 @@
         "novelty": 2,
         "practitioner_value": 2,
         "signal_over_promo": 1,
-        "distribution_signal": 1,
-        "confidence": 0,
-        "reason": "RSS论文报道，具身智能恢复规划有研究价值"
-      }
-    },
-    {
-      "id": "d4e651cf",
-      "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
-      "title_en": null,
-      "url": "https://36kr.com/newsflashes/3822775103607172?f=rss",
-      "source": "36氪",
-      "source_type": null,
-      "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/newsflashes/3822775103607172?f=rss",
-      "category": "cn-media",
-      "score": 6,
-      "rank_score": 6.0,
-      "rankingScore": 6.0,
-      "summary": "近期人工智能创投市场热度攀升。5月，月之暗面、阶跃星辰等国产大模型拿下超过300亿元融资。具身智能同样受到市场关注，一周内维他动力、鹿明机器人等接连斩获数亿元融资。有创投机构统计，一季度人工智能领域的融资有近600起，总额超1100亿元，同比激增185.4%。AI创业公司拿到融资后不少都投向三大方向。一是研发，头部大模型公司2025年研发投入普遍达到数十亿，远超当期营收。二是算力，GPU采购和云服务租赁占融资额的30%到50%。三是招揽全球顶尖人才和团队。研发投得多，技术迭代就快。2026年，中国大模型企业迭代周期已普遍缩短至3个月以内，人工智能推理成本也大幅下降，商业化进程不断深入。",
-      "summary_zh": "近期人工智能创投市场热度攀升。5月，月之暗面、阶跃星辰等国产大模型拿下超过300亿元融资。具身智能同样受到市场关注，一周内维他动力、鹿明机器人等接连斩获数亿元融资。有创投机构统计，一季度人工智能领域的融资有近600起，总额超1100亿元，同比激增185.4%。AI创业公司拿到融资后不少都投向三大方向。一是研发，头部大模型公司2025年研发投入普遍达到数十亿，远超当期营收。二是算力，GPU采购和云服务租赁占融资额的30%到50%。三是招揽全球顶尖人才和团队。研发投得多，技术迭代就快。2026年，中国大模型企业迭代周期已普遍缩短至3个月以内，人工智能推理成本也大幅下降，商业化进程不断深入。",
-      "publishedAt": "2026-05-24T05:00:48Z",
-      "published_at": "2026-05-24T05:00:48Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 1,
-        "practitioner_value": 1,
-        "signal_over_promo": 1,
-        "distribution_signal": 1,
-        "confidence": 1,
-        "reason": "AI投融资行业动态，信号有但偏宏观"
-      }
-    },
-    {
-      "id": "9f669cec",
-      "title": "谷歌CEO承认Coding落后了",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/05/423390.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/05/423390.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "谷歌CEO承认Coding落后了  梦瑶 2026-05-24 14:20:35  来源：量子位   搜索25年来最大改版，但谷歌还不敢一脚切到AI   梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  谷歌CEO皮查伊这次真没藏着掖着，直接一个真心话大放送了：  在Coding这事儿上，我们家Gemini确实有点了落后哈…..     （Gemini：怎么这话还从我自家老板嘴里说出来了呢！） 这不嘛，前脚Google I/O刚结束—— Gemini 3.5 Flash、Gemini Omini、Gemini Spark一整套AI新品刚端上来。 后脚在《纽约时报》科技播客最新采访里皮查伊针对几个最扎心的问题，可谓是一五一十地展开回应。    什么自家Gemini水平、什么AI焦虑，大聊特聊，把自家老底儿和心里话掏得那叫一个实在：  Coding Agent这波，谷歌确实没站到最前面。 掏心窝子地说，过去一两年的进展速度，让我感觉AGI可能比之前想象得更近了。 现在AI圈变化快到夸张！短短30到60天发生的变化，放在过去，可能得花5年才看得到。 大家怕AI，真不只是杞人忧天，因为工",
-      "summary_zh": "谷歌CEO承认Coding落后了  梦瑶 2026-05-24 14:20:35  来源：量子位   搜索25年来最大改版，但谷歌还不敢一脚切到AI   梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  谷歌CEO皮查伊这次真没藏着掖着，直接一个真心话大放送了：  在Coding这事儿上，我们家Gemini确实有点了落后哈…..     （Gemini：怎么这话还从我自家老板嘴里说出来了呢！） 这不嘛，前脚Google I/O刚结束—— Gemini 3.5 Flash、Gemini Omini、Gemini Spark一整套AI新品刚端上来。 后脚在《纽约时报》科技播客最新采访里皮查伊针对几个最扎心的问题，可谓是一五一十地展开回应。    什么自家Gemini水平、什么AI焦虑，大聊特聊，把自家老底儿和心里话掏得那叫一个实在：  Coding Agent这波，谷歌确实没站到最前面。 掏心窝子地说，过去一两年的进展速度，让我感觉AGI可能比之前想象得更近了。 现在AI圈变化快到夸张！短短30到60天发生的变化，放在过去，可能得花5年才看得到。 大家怕AI，真不只是杞人忧天，因为工",
-      "publishedAt": "2026-05-24T06:20:35Z",
-      "published_at": "2026-05-24T06:20:35Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": {
-        "is_ai_relevant": true,
-        "is_real_launch_or_update": true,
-        "novelty": 1,
-        "practitioner_value": 1,
-        "signal_over_promo": 1,
         "distribution_signal": 0,
-        "confidence": 1,
-        "reason": "AI行业动态属实，但偏媒体转述，实操价值有限"
+        "confidence": 0,
+        "reason": "像真实技术发布，但细节与外部信号不足"
       }
     }
   ]
