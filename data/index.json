@@ -1,9 +1,159 @@
 {
-  "generated_at": "2026-05-25T21:41:17Z",
-  "generatedAt": "2026-05-25T21:41:17Z",
-  "count": 14,
-  "total": 14,
+  "generated_at": "2026-05-26T22:02:49Z",
+  "generatedAt": "2026-05-26T22:02:49Z",
+  "count": 15,
+  "total": 15,
   "entries": [
+    {
+      "date": "2026-05-27",
+      "generated_at": "2026-05-26T22:02:49Z",
+      "generatedAt": "2026-05-26T22:02:49Z",
+      "total": 7,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "55573981",
+          "title": "Rezonant产品协作平台",
+          "title_en": "Rezonant",
+          "url": "https://www.producthunt.com/products/portia-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/portia-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Rezonant将产品想法整理成可落地的规格、工单和工程任务，供团队与AI协同交付。",
+          "summary_zh": "Rezonant将产品想法整理成可落地的规格、工单和工程任务，供团队与AI协同交付。",
+          "publishedAt": "2026-05-26T07:01:00Z",
+          "published_at": "2026-05-26T07:01:00Z",
+          "votes_count": 217,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "PH高票Featured，AI协作开发流程工具"
+          }
+        },
+        {
+          "id": "24e74213",
+          "title": "Ringg发布Parrot语音转写API",
+          "title_en": "Parrot Speech-to-text API",
+          "url": "https://www.producthunt.com/products/parrot-speech-to-text-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/parrot-speech-to-text-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "Ringg推出Parrot语音转写API，主打低延迟、高准确识别印地语占比高的嘈杂通话。",
+          "summary_zh": "Ringg推出Parrot语音转写API，主打低延迟、高准确识别印地语占比高的嘈杂通话。",
+          "publishedAt": "2026-05-26T07:01:00Z",
+          "published_at": "2026-05-26T07:01:00Z",
+          "votes_count": 152,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 2,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "AI语音API真实首发，PH高票有信号"
+          }
+        },
+        {
+          "id": "1c12b233",
+          "title": "AVTR-1开源实时数字人模型",
+          "title_en": "AVTR-1 Real-Time Open Weights Model",
+          "url": "https://www.producthunt.com/products/avaturn-live-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/avaturn-live-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 8,
+          "rank_score": 9,
+          "rankingScore": 9,
+          "summary": "AVTR-1实时数字人模型开放权重并开源，可零成本部署全双工低延迟交互头像。",
+          "summary_zh": "AVTR-1实时数字人模型开放权重并开源，可零成本部署全双工低延迟交互头像。",
+          "publishedAt": "2026-05-26T07:01:00Z",
+          "published_at": "2026-05-26T07:01:00Z",
+          "votes_count": 147,
+          "featured": true,
+          "topics": [
+            {
+              "id": "68",
+              "name": "Video Streaming",
+              "slug": "video-streaming"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": {
+            "is_ai_relevant": true,
+            "is_real_launch_or_update": true,
+            "novelty": 2,
+            "practitioner_value": 3,
+            "signal_over_promo": 1,
+            "distribution_signal": 2,
+            "confidence": 1,
+            "reason": "开源实时数字人模型，PH高票featured"
+          }
+        }
+      ]
+    },
     {
       "date": "2026-05-26",
       "generated_at": "2026-05-25T21:41:17Z",
