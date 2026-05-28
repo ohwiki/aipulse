@@ -1,87 +1,40 @@
 {
-  "generated_at": "2026-05-27T22:17:55Z",
-  "generatedAt": "2026-05-27T22:17:55Z",
+  "generated_at": "2026-05-28T11:56:39Z",
+  "generatedAt": "2026-05-28T11:56:39Z",
   "count": 16,
   "total": 16,
   "entries": [
     {
       "date": "2026-05-28",
-      "generated_at": "2026-05-27T22:17:55Z",
-      "generatedAt": "2026-05-27T22:17:55Z",
-      "total": 10,
-      "sectionCount": 3,
+      "generated_at": "2026-05-28T11:56:39Z",
+      "generatedAt": "2026-05-28T11:56:39Z",
+      "total": 8,
+      "sectionCount": 2,
       "highlights": [
         {
-          "id": "ed80559e",
-          "title": "Bluedot 2.1接入Claude",
-          "title_en": "Bluedot 2.1",
-          "url": "https://www.producthunt.com/products/bluedot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "38953e0f",
+          "title": "AI资讯更新：Pancake",
+          "title_en": "Pancake",
+          "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/bluedot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
-          "score": 8,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "Bluedot 2.1支持用Apple Watch录音，并同步到Claude供总结、检索和处理。",
-          "summary_zh": "Bluedot 2.1支持用Apple Watch录音，并同步到Claude供总结、检索和处理。",
-          "publishedAt": "2026-05-27T07:01:00Z",
-          "published_at": "2026-05-27T07:01:00Z",
-          "votes_count": 326,
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "OpenClaw in Slack that makes your company auto",
+          "summary_zh": "OpenClaw in Slack that makes your company auto",
+          "publishedAt": "2026-05-28T07:01:00Z",
+          "published_at": "2026-05-28T07:01:00Z",
+          "votes_count": 182,
           "featured": true,
           "topics": [
             {
-              "id": "2",
-              "name": "Android",
-              "slug": "android"
-            },
-            {
-              "id": "12",
-              "name": "Apple Watch",
-              "slug": "apple-watch"
-            },
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            }
-          ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 2,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "Apple Watch录音接入Claude，PH高票精选"
-          }
-        },
-        {
-          "id": "89b2c266",
-          "title": "Powabase发布AI应用后端平台",
-          "title_en": "Powabase",
-          "url": "https://www.producthunt.com/products/powabase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/powabase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 8,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "Powabase推出一体化AI原生应用后端，整合Postgres、RAG、智能体等能力，帮助团队更快构建和接入AI自动化。",
-          "summary_zh": "Powabase推出一体化AI原生应用后端，整合Postgres、RAG、智能体等能力，帮助团队更快构建和接入AI自动化。",
-          "publishedAt": "2026-05-27T07:01:00Z",
-          "published_at": "2026-05-27T07:01:00Z",
-          "votes_count": 290,
-          "featured": true,
-          "topics": [
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "22",
+              "name": "Slack",
+              "slug": "slack"
             },
             {
               "id": "268",
@@ -89,51 +42,80 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "772",
-              "name": "Database",
-              "slug": "database"
+              "id": "371",
+              "name": "Maker Tools",
+              "slug": "maker-tools"
             }
           ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 3,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "AI原生后端首发，PH高票featured"
-          }
+          "score_details": null
         },
         {
-          "id": "5ab85d8e",
-          "title": "Zero为AI代理接入8000种工具",
-          "title_en": "zero.xyz",
-          "url": "https://www.producthunt.com/products/zero-xyz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "f95937d8",
+          "title": "产品更新：SpotsNow",
+          "title_en": "SpotsNow",
+          "url": "https://www.producthunt.com/products/spotsnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/zero-xyz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/spotsnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
-          "score": 8,
-          "rank_score": 9,
-          "rankingScore": 9,
-          "summary": "Zero发布免费工具平台，让AI代理无需配置即可调用约8000种工具、API和服务。",
-          "summary_zh": "Zero发布免费工具平台，让AI代理无需配置即可调用约8000种工具、API和服务。",
-          "publishedAt": "2026-05-27T07:01:00Z",
-          "published_at": "2026-05-27T07:01:00Z",
-          "votes_count": 229,
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Track who's advertising across podcasts w/ cam",
+          "summary_zh": "Track who's advertising across podcasts w/ cam",
+          "publishedAt": "2026-05-28T07:01:00Z",
+          "published_at": "2026-05-28T07:01:00Z",
+          "votes_count": 163,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
             },
             {
-              "id": "48",
-              "name": "Task Management",
-              "slug": "task-management"
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "744",
+              "name": "Radio",
+              "slug": "radio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "963fde7b",
+          "title": "AI资讯更新：Pitch Agent",
+          "title_en": "Pitch Agent",
+          "url": "https://www.producthunt.com/products/pitch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pitch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "On-brand presentations, generated in seconds M",
+          "summary_zh": "On-brand presentations, generated in seconds M",
+          "publishedAt": "2026-05-28T07:01:00Z",
+          "published_at": "2026-05-28T07:01:00Z",
+          "votes_count": 125,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
             },
             {
               "id": "268",
@@ -141,16 +123,7 @@
               "slug": "artificial-intelligence"
             }
           ],
-          "score_details": {
-            "is_ai_relevant": true,
-            "is_real_launch_or_update": true,
-            "novelty": 2,
-            "practitioner_value": 3,
-            "signal_over_promo": 1,
-            "distribution_signal": 2,
-            "confidence": 1,
-            "reason": "AI代理工具接入层，PH高票featured"
-          }
+          "score_details": null
         }
       ]
     },
