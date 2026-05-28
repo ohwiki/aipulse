@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-05-28T11:56:39Z",
-  "generatedAt": "2026-05-28T11:56:39Z",
-  "count": 16,
-  "total": 16,
+  "generated_at": "2026-05-28T22:16:39Z",
+  "generatedAt": "2026-05-28T22:16:39Z",
+  "count": 17,
+  "total": 17,
   "entries": [
+    {
+      "date": "2026-05-29",
+      "generated_at": "2026-05-28T22:16:39Z",
+      "generatedAt": "2026-05-28T22:16:39Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "38953e0f",
+          "title": "AI资讯更新：Pancake",
+          "title_en": "Pancake",
+          "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "OpenClaw in Slack that makes your company auto",
+          "summary_zh": "OpenClaw in Slack that makes your company auto",
+          "publishedAt": "2026-05-28T07:01:00Z",
+          "published_at": "2026-05-28T07:01:00Z",
+          "votes_count": 435,
+          "featured": true,
+          "topics": [
+            {
+              "id": "22",
+              "name": "Slack",
+              "slug": "slack"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "371",
+              "name": "Maker Tools",
+              "slug": "maker-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f95937d8",
+          "title": "产品更新：SpotsNow",
+          "title_en": "SpotsNow",
+          "url": "https://www.producthunt.com/products/spotsnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/spotsnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Track who's advertising across podcasts w/ cam",
+          "summary_zh": "Track who's advertising across podcasts w/ cam",
+          "publishedAt": "2026-05-28T07:01:00Z",
+          "published_at": "2026-05-28T07:01:00Z",
+          "votes_count": 356,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "744",
+              "name": "Radio",
+              "slug": "radio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "963fde7b",
+          "title": "AI资讯更新：Pitch Agent",
+          "title_en": "Pitch Agent",
+          "url": "https://www.producthunt.com/products/pitch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pitch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "On-brand presentations, generated in seconds M",
+          "summary_zh": "On-brand presentations, generated in seconds M",
+          "publishedAt": "2026-05-28T07:01:00Z",
+          "published_at": "2026-05-28T07:01:00Z",
+          "votes_count": 243,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-05-28",
       "generated_at": "2026-05-28T11:56:39Z",

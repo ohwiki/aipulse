@@ -1,0 +1,503 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-28T22:16:39Z",
+  "generatedAt": "2026-05-28T22:16:39Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "38953e0f",
+          "title": "AI资讯更新：Pancake",
+          "title_en": "Pancake",
+          "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "OpenClaw in Slack that makes your company auto",
+          "summary_zh": "OpenClaw in Slack that makes your company auto",
+          "publishedAt": "2026-05-28T07:01:00Z",
+          "published_at": "2026-05-28T07:01:00Z",
+          "votes_count": 435,
+          "featured": true,
+          "topics": [
+            {
+              "id": "22",
+              "name": "Slack",
+              "slug": "slack"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "371",
+              "name": "Maker Tools",
+              "slug": "maker-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f95937d8",
+          "title": "产品更新：SpotsNow",
+          "title_en": "SpotsNow",
+          "url": "https://www.producthunt.com/products/spotsnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/spotsnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Track who's advertising across podcasts w/ cam",
+          "summary_zh": "Track who's advertising across podcasts w/ cam",
+          "publishedAt": "2026-05-28T07:01:00Z",
+          "published_at": "2026-05-28T07:01:00Z",
+          "votes_count": 356,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "744",
+              "name": "Radio",
+              "slug": "radio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "963fde7b",
+          "title": "AI资讯更新：Pitch Agent",
+          "title_en": "Pitch Agent",
+          "url": "https://www.producthunt.com/products/pitch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pitch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "On-brand presentations, generated in seconds M",
+          "summary_zh": "On-brand presentations, generated in seconds M",
+          "publishedAt": "2026-05-28T07:01:00Z",
+          "published_at": "2026-05-28T07:01:00Z",
+          "votes_count": 243,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d11a1337",
+          "title": "产品更新：Revolte",
+          "title_en": "Revolte",
+          "url": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI for Software Engineering Revolte is for eng",
+          "summary_zh": "AI for Software Engineering Revolte is for eng",
+          "publishedAt": "2026-05-28T07:01:00Z",
+          "published_at": "2026-05-28T07:01:00Z",
+          "votes_count": 204,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "dd30dd29",
+          "title": "腾讯游戏的One More Thing，是AI",
+          "title_en": null,
+          "url": "https://36kr.com/p/3827658881323649?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3827658881323649?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "文丨贝果树 编辑丨刘士武 5月27日，2026年腾讯游戏发布会于晚上八点举办。在发布会上，腾讯从制作、发行、投资三个板块带来了42款游戏的新动态，其中包含15款新品，新品的数量相较于2025年发布会的24款有所减少。  来源：2026腾讯游戏发布会 与往届发布会不同的是，此次的发布会上，腾讯在AI游戏应用方面有了更多的输出。在游戏制作板块，腾讯介绍了如《和平精英》中的新AI队友小田、《王者荣耀》中的AI助手灵宝和电竞的AI解说等应用。 当然，这些AI在游戏中的应用案例绝大部分都已经在此前实现， 最引人瞩目的，是在发布会最后的“One More Thing”环节，腾讯带来了三款更为重磅的AI相关产品发布，包括AI渲染方案「MagicDawn」、由AI参与的模拟经营游戏《数字景德镇·瓷都小匠》以及AI游戏创作平台「代号Craft」。 当然，腾讯选择在今年的游戏发布会上放出“AI大招”，属于意料之中却又不乏惊喜的事。今年3月，腾讯就在GDC大会上带来了21场与AI相关的分享，此次发布会上，又介绍了多项游戏AI应用的进展。可以看见腾讯在AI应用探索方面的积累和决心。 MagicDawn基于神经",
+          "summary_zh": "文丨贝果树 编辑丨刘士武 5月27日，2026年腾讯游戏发布会于晚上八点举办。在发布会上，腾讯从制作、发行、投资三个板块带来了42款游戏的新动态，其中包含15款新品，新品的数量相较于2025年发布会的24款有所减少。  来源：2026腾讯游戏发布会 与往届发布会不同的是，此次的发布会上，腾讯在AI游戏应用方面有了更多的输出。在游戏制作板块，腾讯介绍了如《和平精英》中的新AI队友小田、《王者荣耀》中的AI助手灵宝和电竞的AI解说等应用。 当然，这些AI在游戏中的应用案例绝大部分都已经在此前实现， 最引人瞩目的，是在发布会最后的“One More Thing”环节，腾讯带来了三款更为重磅的AI相关产品发布，包括AI渲染方案「MagicDawn」、由AI参与的模拟经营游戏《数字景德镇·瓷都小匠》以及AI游戏创作平台「代号Craft」。 当然，腾讯选择在今年的游戏发布会上放出“AI大招”，属于意料之中却又不乏惊喜的事。今年3月，腾讯就在GDC大会上带来了21场与AI相关的分享，此次发布会上，又介绍了多项游戏AI应用的进展。可以看见腾讯在AI应用探索方面的积累和决心。 MagicDawn基于神经",
+          "publishedAt": "2026-05-27T23:00:49Z",
+          "published_at": "2026-05-27T23:00:49Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "af6b8403",
+          "title": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
+          "title_en": null,
+          "url": "https://36kr.com/p/3828191630348934?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3828191630348934?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览  阿里员工十三薪将并入年终奖 曝小红书获世界杯转播权，成为除央视、咪咕外唯一持权方 微信小游戏月活跃用户超过5亿 聚焦直播带货、外卖等，市场监管总局部署整治“内卷式”竞争 SpaceX上市消息引燃太空相关股票，特斯拉与SpaceX合并讨论升温 长鑫科技科创板IPO获上市委会议通过  TOP 3大新闻 “高考期间AI工具将禁用”？豆包、元宝等回应 日前，“高考期间AI工具将禁用”的话题引发关注，有不少网友讨论，高考期间AI工具是否将暂停拍题识图、试题解答、试卷解析等功能？5月27日，界面新闻求问豆包，其明确回答：“考试进行中，我不会配合解答高考试题、撰写考场作文、分析考题答案，但考试前备考、考试后复盘都可以正常使用。”元宝则表示，“如果你想在高考期间用我辅助学习或答疑，我可以帮你整理知识点、讲解题目思路，不过具体的考试规则和平台功能，建议以官方通知为准。” 此前，5月26日，据红星新闻记者联系了多家AI平台。腾讯一位工作人员表示，去年高考期间元宝就明确不答题。百度相关业务负责人则表示，暂未收到高考期间百度文心部分功能限制服务的通知。科大讯飞工作人员也表示，目前还没确切消息，",
+          "summary_zh": "今日热点导览  阿里员工十三薪将并入年终奖 曝小红书获世界杯转播权，成为除央视、咪咕外唯一持权方 微信小游戏月活跃用户超过5亿 聚焦直播带货、外卖等，市场监管总局部署整治“内卷式”竞争 SpaceX上市消息引燃太空相关股票，特斯拉与SpaceX合并讨论升温 长鑫科技科创板IPO获上市委会议通过  TOP 3大新闻 “高考期间AI工具将禁用”？豆包、元宝等回应 日前，“高考期间AI工具将禁用”的话题引发关注，有不少网友讨论，高考期间AI工具是否将暂停拍题识图、试题解答、试卷解析等功能？5月27日，界面新闻求问豆包，其明确回答：“考试进行中，我不会配合解答高考试题、撰写考场作文、分析考题答案，但考试前备考、考试后复盘都可以正常使用。”元宝则表示，“如果你想在高考期间用我辅助学习或答疑，我可以帮你整理知识点、讲解题目思路，不过具体的考试规则和平台功能，建议以官方通知为准。” 此前，5月26日，据红星新闻记者联系了多家AI平台。腾讯一位工作人员表示，去年高考期间元宝就明确不答题。百度相关业务负责人则表示，暂未收到高考期间百度文心部分功能限制服务的通知。科大讯飞工作人员也表示，目前还没确切消息，",
+          "publishedAt": "2026-05-28T00:00:20Z",
+          "published_at": "2026-05-28T00:00:20Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "20320ad6",
+          "title": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
+          "title_en": null,
+          "url": "https://36kr.com/p/3827585618154118?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3827585618154118?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "文丨刘士武 封面来源 | Funloom 官网 36氪获悉，AI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&连尚网络创始人陈大年。本轮融资后，公司估值已达到2亿元，资金将用于产品研发升级和团队扩张。  库兰织梦成立于2023年，创始人吴同曾任职Unity，拥有5年游戏行业创业经验，推出《12世纪的黎凡特》《活过今晚》《库兰精灵》等十余款游戏，运营游戏发行自媒体“咕咕同”获得数百万播放，作品曾获吉比特、CUSGA、电魂等多个游戏创作大赛最佳玩法奖，上榜25Under25 AI创业者榜单；CTO张吉豪在像素软件作为主程研发《勇者大冒险》《寻仙》等游戏，后出任阿里巴巴高级技术专家，主导从零搭建淘宝特价版搜索、推荐、广告引擎平台，参与1688、淘宝搜索推荐引擎建设；COO郑君凯曾任百度游戏总经理，曾创办上海快盘科技并完成数轮融资，拥有20年游戏行业从业经历。  目前团队正在持续吸引游戏、AI行业的顶级人才加入，另有3位核心成员曾担任大厂、独角兽企业高管",
+          "summary_zh": "文丨刘士武 封面来源 | Funloom 官网 36氪获悉，AI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&连尚网络创始人陈大年。本轮融资后，公司估值已达到2亿元，资金将用于产品研发升级和团队扩张。  库兰织梦成立于2023年，创始人吴同曾任职Unity，拥有5年游戏行业创业经验，推出《12世纪的黎凡特》《活过今晚》《库兰精灵》等十余款游戏，运营游戏发行自媒体“咕咕同”获得数百万播放，作品曾获吉比特、CUSGA、电魂等多个游戏创作大赛最佳玩法奖，上榜25Under25 AI创业者榜单；CTO张吉豪在像素软件作为主程研发《勇者大冒险》《寻仙》等游戏，后出任阿里巴巴高级技术专家，主导从零搭建淘宝特价版搜索、推荐、广告引擎平台，参与1688、淘宝搜索推荐引擎建设；COO郑君凯曾任百度游戏总经理，曾创办上海快盘科技并完成数轮融资，拥有20年游戏行业从业经历。  目前团队正在持续吸引游戏、AI行业的顶级人才加入，另有3位核心成员曾担任大厂、独角兽企业高管",
+          "publishedAt": "2026-05-28T00:35:00Z",
+          "published_at": "2026-05-28T00:35:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "1da4370e",
+          "title": "全球首发 | SLAI基于国产算力集",
+          "title_en": "全球首发 | SLAI基于国产算力集群完成DeepSeek-V4-Pro全参数后训练",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "全球首发 | SLAI基于国产算力集群完成DeepSeek-V4-Pro全参数后训练",
+          "summary_zh": "全球首发 | SLAI基于国产算力集群完成DeepSeek-V4-Pro全参数后训练",
+          "publishedAt": "2026-05-28T22:14:41Z",
+          "published_at": "2026-05-28T22:14:41Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "38953e0f",
+      "title": "AI资讯更新：Pancake",
+      "title_en": "Pancake",
+      "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "OpenClaw in Slack that makes your company auto",
+      "summary_zh": "OpenClaw in Slack that makes your company auto",
+      "publishedAt": "2026-05-28T07:01:00Z",
+      "published_at": "2026-05-28T07:01:00Z",
+      "votes_count": 435,
+      "featured": true,
+      "topics": [
+        {
+          "id": "22",
+          "name": "Slack",
+          "slug": "slack"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "371",
+          "name": "Maker Tools",
+          "slug": "maker-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "f95937d8",
+      "title": "产品更新：SpotsNow",
+      "title_en": "SpotsNow",
+      "url": "https://www.producthunt.com/products/spotsnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/spotsnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Track who's advertising across podcasts w/ cam",
+      "summary_zh": "Track who's advertising across podcasts w/ cam",
+      "publishedAt": "2026-05-28T07:01:00Z",
+      "published_at": "2026-05-28T07:01:00Z",
+      "votes_count": 356,
+      "featured": true,
+      "topics": [
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        },
+        {
+          "id": "744",
+          "name": "Radio",
+          "slug": "radio"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "963fde7b",
+      "title": "AI资讯更新：Pitch Agent",
+      "title_en": "Pitch Agent",
+      "url": "https://www.producthunt.com/products/pitch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/pitch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "On-brand presentations, generated in seconds M",
+      "summary_zh": "On-brand presentations, generated in seconds M",
+      "publishedAt": "2026-05-28T07:01:00Z",
+      "published_at": "2026-05-28T07:01:00Z",
+      "votes_count": 243,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d11a1337",
+      "title": "产品更新：Revolte",
+      "title_en": "Revolte",
+      "url": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI for Software Engineering Revolte is for eng",
+      "summary_zh": "AI for Software Engineering Revolte is for eng",
+      "publishedAt": "2026-05-28T07:01:00Z",
+      "published_at": "2026-05-28T07:01:00Z",
+      "votes_count": 204,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "dd30dd29",
+      "title": "腾讯游戏的One More Thing，是AI",
+      "title_en": null,
+      "url": "https://36kr.com/p/3827658881323649?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3827658881323649?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "文丨贝果树 编辑丨刘士武 5月27日，2026年腾讯游戏发布会于晚上八点举办。在发布会上，腾讯从制作、发行、投资三个板块带来了42款游戏的新动态，其中包含15款新品，新品的数量相较于2025年发布会的24款有所减少。  来源：2026腾讯游戏发布会 与往届发布会不同的是，此次的发布会上，腾讯在AI游戏应用方面有了更多的输出。在游戏制作板块，腾讯介绍了如《和平精英》中的新AI队友小田、《王者荣耀》中的AI助手灵宝和电竞的AI解说等应用。 当然，这些AI在游戏中的应用案例绝大部分都已经在此前实现， 最引人瞩目的，是在发布会最后的“One More Thing”环节，腾讯带来了三款更为重磅的AI相关产品发布，包括AI渲染方案「MagicDawn」、由AI参与的模拟经营游戏《数字景德镇·瓷都小匠》以及AI游戏创作平台「代号Craft」。 当然，腾讯选择在今年的游戏发布会上放出“AI大招”，属于意料之中却又不乏惊喜的事。今年3月，腾讯就在GDC大会上带来了21场与AI相关的分享，此次发布会上，又介绍了多项游戏AI应用的进展。可以看见腾讯在AI应用探索方面的积累和决心。 MagicDawn基于神经",
+      "summary_zh": "文丨贝果树 编辑丨刘士武 5月27日，2026年腾讯游戏发布会于晚上八点举办。在发布会上，腾讯从制作、发行、投资三个板块带来了42款游戏的新动态，其中包含15款新品，新品的数量相较于2025年发布会的24款有所减少。  来源：2026腾讯游戏发布会 与往届发布会不同的是，此次的发布会上，腾讯在AI游戏应用方面有了更多的输出。在游戏制作板块，腾讯介绍了如《和平精英》中的新AI队友小田、《王者荣耀》中的AI助手灵宝和电竞的AI解说等应用。 当然，这些AI在游戏中的应用案例绝大部分都已经在此前实现， 最引人瞩目的，是在发布会最后的“One More Thing”环节，腾讯带来了三款更为重磅的AI相关产品发布，包括AI渲染方案「MagicDawn」、由AI参与的模拟经营游戏《数字景德镇·瓷都小匠》以及AI游戏创作平台「代号Craft」。 当然，腾讯选择在今年的游戏发布会上放出“AI大招”，属于意料之中却又不乏惊喜的事。今年3月，腾讯就在GDC大会上带来了21场与AI相关的分享，此次发布会上，又介绍了多项游戏AI应用的进展。可以看见腾讯在AI应用探索方面的积累和决心。 MagicDawn基于神经",
+      "publishedAt": "2026-05-27T23:00:49Z",
+      "published_at": "2026-05-27T23:00:49Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "af6b8403",
+      "title": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
+      "title_en": null,
+      "url": "https://36kr.com/p/3828191630348934?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3828191630348934?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览  阿里员工十三薪将并入年终奖 曝小红书获世界杯转播权，成为除央视、咪咕外唯一持权方 微信小游戏月活跃用户超过5亿 聚焦直播带货、外卖等，市场监管总局部署整治“内卷式”竞争 SpaceX上市消息引燃太空相关股票，特斯拉与SpaceX合并讨论升温 长鑫科技科创板IPO获上市委会议通过  TOP 3大新闻 “高考期间AI工具将禁用”？豆包、元宝等回应 日前，“高考期间AI工具将禁用”的话题引发关注，有不少网友讨论，高考期间AI工具是否将暂停拍题识图、试题解答、试卷解析等功能？5月27日，界面新闻求问豆包，其明确回答：“考试进行中，我不会配合解答高考试题、撰写考场作文、分析考题答案，但考试前备考、考试后复盘都可以正常使用。”元宝则表示，“如果你想在高考期间用我辅助学习或答疑，我可以帮你整理知识点、讲解题目思路，不过具体的考试规则和平台功能，建议以官方通知为准。” 此前，5月26日，据红星新闻记者联系了多家AI平台。腾讯一位工作人员表示，去年高考期间元宝就明确不答题。百度相关业务负责人则表示，暂未收到高考期间百度文心部分功能限制服务的通知。科大讯飞工作人员也表示，目前还没确切消息，",
+      "summary_zh": "今日热点导览  阿里员工十三薪将并入年终奖 曝小红书获世界杯转播权，成为除央视、咪咕外唯一持权方 微信小游戏月活跃用户超过5亿 聚焦直播带货、外卖等，市场监管总局部署整治“内卷式”竞争 SpaceX上市消息引燃太空相关股票，特斯拉与SpaceX合并讨论升温 长鑫科技科创板IPO获上市委会议通过  TOP 3大新闻 “高考期间AI工具将禁用”？豆包、元宝等回应 日前，“高考期间AI工具将禁用”的话题引发关注，有不少网友讨论，高考期间AI工具是否将暂停拍题识图、试题解答、试卷解析等功能？5月27日，界面新闻求问豆包，其明确回答：“考试进行中，我不会配合解答高考试题、撰写考场作文、分析考题答案，但考试前备考、考试后复盘都可以正常使用。”元宝则表示，“如果你想在高考期间用我辅助学习或答疑，我可以帮你整理知识点、讲解题目思路，不过具体的考试规则和平台功能，建议以官方通知为准。” 此前，5月26日，据红星新闻记者联系了多家AI平台。腾讯一位工作人员表示，去年高考期间元宝就明确不答题。百度相关业务负责人则表示，暂未收到高考期间百度文心部分功能限制服务的通知。科大讯飞工作人员也表示，目前还没确切消息，",
+      "publishedAt": "2026-05-28T00:00:20Z",
+      "published_at": "2026-05-28T00:00:20Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "20320ad6",
+      "title": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3827585618154118?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3827585618154118?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "文丨刘士武 封面来源 | Funloom 官网 36氪获悉，AI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&连尚网络创始人陈大年。本轮融资后，公司估值已达到2亿元，资金将用于产品研发升级和团队扩张。  库兰织梦成立于2023年，创始人吴同曾任职Unity，拥有5年游戏行业创业经验，推出《12世纪的黎凡特》《活过今晚》《库兰精灵》等十余款游戏，运营游戏发行自媒体“咕咕同”获得数百万播放，作品曾获吉比特、CUSGA、电魂等多个游戏创作大赛最佳玩法奖，上榜25Under25 AI创业者榜单；CTO张吉豪在像素软件作为主程研发《勇者大冒险》《寻仙》等游戏，后出任阿里巴巴高级技术专家，主导从零搭建淘宝特价版搜索、推荐、广告引擎平台，参与1688、淘宝搜索推荐引擎建设；COO郑君凯曾任百度游戏总经理，曾创办上海快盘科技并完成数轮融资，拥有20年游戏行业从业经历。  目前团队正在持续吸引游戏、AI行业的顶级人才加入，另有3位核心成员曾担任大厂、独角兽企业高管",
+      "summary_zh": "文丨刘士武 封面来源 | Funloom 官网 36氪获悉，AI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&连尚网络创始人陈大年。本轮融资后，公司估值已达到2亿元，资金将用于产品研发升级和团队扩张。  库兰织梦成立于2023年，创始人吴同曾任职Unity，拥有5年游戏行业创业经验，推出《12世纪的黎凡特》《活过今晚》《库兰精灵》等十余款游戏，运营游戏发行自媒体“咕咕同”获得数百万播放，作品曾获吉比特、CUSGA、电魂等多个游戏创作大赛最佳玩法奖，上榜25Under25 AI创业者榜单；CTO张吉豪在像素软件作为主程研发《勇者大冒险》《寻仙》等游戏，后出任阿里巴巴高级技术专家，主导从零搭建淘宝特价版搜索、推荐、广告引擎平台，参与1688、淘宝搜索推荐引擎建设；COO郑君凯曾任百度游戏总经理，曾创办上海快盘科技并完成数轮融资，拥有20年游戏行业从业经历。  目前团队正在持续吸引游戏、AI行业的顶级人才加入，另有3位核心成员曾担任大厂、独角兽企业高管",
+      "publishedAt": "2026-05-28T00:35:00Z",
+      "published_at": "2026-05-28T00:35:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "1da4370e",
+      "title": "全球首发 | SLAI基于国产算力集",
+      "title_en": "全球首发 | SLAI基于国产算力集群完成DeepSeek-V4-Pro全参数后训练",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "全球首发 | SLAI基于国产算力集群完成DeepSeek-V4-Pro全参数后训练",
+      "summary_zh": "全球首发 | SLAI基于国产算力集群完成DeepSeek-V4-Pro全参数后训练",
+      "publishedAt": "2026-05-28T22:14:41Z",
+      "published_at": "2026-05-28T22:14:41Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
