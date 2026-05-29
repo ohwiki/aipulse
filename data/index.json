@@ -1,128 +1,91 @@
 {
-  "generated_at": "2026-05-28T22:16:39Z",
-  "generatedAt": "2026-05-28T22:16:39Z",
+  "generated_at": "2026-05-29T11:47:51Z",
+  "generatedAt": "2026-05-29T11:47:51Z",
   "count": 17,
   "total": 17,
   "entries": [
     {
       "date": "2026-05-29",
-      "generated_at": "2026-05-28T22:16:39Z",
-      "generatedAt": "2026-05-28T22:16:39Z",
-      "total": 8,
+      "generated_at": "2026-05-29T11:47:51Z",
+      "generatedAt": "2026-05-29T11:47:51Z",
+      "total": 5,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "38953e0f",
-          "title": "AI资讯更新：Pancake",
-          "title_en": "Pancake",
-          "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "c8261a33",
+          "title": "产品更新：Agent A by Ahre",
+          "title_en": "Agent A by Ahrefs",
+          "url": "https://www.producthunt.com/products/ahrefs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/ahrefs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "OpenClaw in Slack that makes your company auto",
-          "summary_zh": "OpenClaw in Slack that makes your company auto",
-          "publishedAt": "2026-05-28T07:01:00Z",
-          "published_at": "2026-05-28T07:01:00Z",
-          "votes_count": 435,
+          "summary": "The AI Marketing Agent Powered by Ahrefs Data",
+          "summary_zh": "The AI Marketing Agent Powered by Ahrefs Data",
+          "publishedAt": "2026-05-29T07:01:00Z",
+          "published_at": "2026-05-29T07:01:00Z",
+          "votes_count": 120,
           "featured": true,
           "topics": [
             {
-              "id": "22",
-              "name": "Slack",
-              "slug": "slack"
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
             },
             {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "371",
-              "name": "Maker Tools",
-              "slug": "maker-tools"
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
             }
           ],
           "score_details": null
         },
         {
-          "id": "f95937d8",
-          "title": "产品更新：SpotsNow",
-          "title_en": "SpotsNow",
-          "url": "https://www.producthunt.com/products/spotsnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "101a6019",
+          "title": "半年访谈600+用户、获千万元融资，这名清华毕业生想把脑机“戴”进运动场｜早期项目",
+          "title_en": null,
+          "url": "https://36kr.com/p/3827323136004992?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/spotsnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Track who's advertising across podcasts w/ cam",
-          "summary_zh": "Track who's advertising across podcasts w/ cam",
-          "publishedAt": "2026-05-28T07:01:00Z",
-          "published_at": "2026-05-28T07:01:00Z",
-          "votes_count": 356,
-          "featured": true,
-          "topics": [
-            {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
-            },
-            {
-              "id": "207",
-              "name": "Advertising",
-              "slug": "advertising"
-            },
-            {
-              "id": "744",
-              "name": "Radio",
-              "slug": "radio"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3827323136004992?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "文｜胡香赟 编辑｜海若镜 “运动场景中的脑状态监测，正在成为高水平训练和运动健康管理中的新需求。”创业两年，张昊天这样判断。 张昊天毕业于清华大学，研究生期间开始探索如何将脑机接口技术应用在C端场景。他坦言，自己最初也没想好具体的落地方向，研究过程中，团队陆续接触过一些运动类企业，发现“重视运动表现结果的场景，对大脑状态监测都存在一定需求”。 运动健康类可穿戴设备的需求其实早已得到验证，估值百亿美元、从极客圈火到大众市场的Whoop、Oura就是最好的说明。它们用心率、血氧等多项生理数据指标证明，监测身体状态能提升运动表现和恢复效率，也让大众逐步形成为科学运动数据付费的习惯。 但张昊天认为，目前，市面上的可穿戴设备主要通过四肢末梢数据反映身体侧状态，很难直接观察运动过程中的专注、压力、神经疲劳等脑状态变化，而脑状态是运动训练和比赛中“高度影响发挥、却长期看不见”的关键状态变量。 “运动不只是身体能力的竞争，也是一场关于大脑状态的竞争。对于水平接近的运动员来说，成绩差距不只来自体能、技巧本身，大脑状态也很关键。比如射击运动，最终胜负往往取决于扣动扳机时的瞬时专注力、抗压能力与情绪状态。”",
+          "summary_zh": "文｜胡香赟 编辑｜海若镜 “运动场景中的脑状态监测，正在成为高水平训练和运动健康管理中的新需求。”创业两年，张昊天这样判断。 张昊天毕业于清华大学，研究生期间开始探索如何将脑机接口技术应用在C端场景。他坦言，自己最初也没想好具体的落地方向，研究过程中，团队陆续接触过一些运动类企业，发现“重视运动表现结果的场景，对大脑状态监测都存在一定需求”。 运动健康类可穿戴设备的需求其实早已得到验证，估值百亿美元、从极客圈火到大众市场的Whoop、Oura就是最好的说明。它们用心率、血氧等多项生理数据指标证明，监测身体状态能提升运动表现和恢复效率，也让大众逐步形成为科学运动数据付费的习惯。 但张昊天认为，目前，市面上的可穿戴设备主要通过四肢末梢数据反映身体侧状态，很难直接观察运动过程中的专注、压力、神经疲劳等脑状态变化，而脑状态是运动训练和比赛中“高度影响发挥、却长期看不见”的关键状态变量。 “运动不只是身体能力的竞争，也是一场关于大脑状态的竞争。对于水平接近的运动员来说，成绩差距不只来自体能、技巧本身，大脑状态也很关键。比如射击运动，最终胜负往往取决于扣动扳机时的瞬时专注力、抗压能力与情绪状态。”",
+          "publishedAt": "2026-05-29T00:30:00Z",
+          "published_at": "2026-05-29T00:30:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "963fde7b",
-          "title": "AI资讯更新：Pitch Agent",
-          "title_en": "Pitch Agent",
-          "url": "https://www.producthunt.com/products/pitch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "c8aa96a0",
+          "title": "8点1氪丨Anthropic完成650亿融资，估值9650亿首次反超OpenAI；售卖不合格足银手镯，周六福被罚；黄仁勋加入清华大学，任经管学院顾问",
+          "title_en": null,
+          "url": "https://36kr.com/p/3829622140593288?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/pitch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "On-brand presentations, generated in seconds M",
-          "summary_zh": "On-brand presentations, generated in seconds M",
-          "publishedAt": "2026-05-28T07:01:00Z",
-          "published_at": "2026-05-28T07:01:00Z",
-          "votes_count": 243,
-          "featured": true,
-          "topics": [
-            {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
-            },
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3829622140593288?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "今日热点导览  盒马APP可下单租地种菜？客服：正在小范围试点 追觅回应“机构报价一天4980元，能与追觅核心高管面对面交流” 京东：未来5年培养10万名工程师 蔚来CEO李斌：原材料价格上涨，整车成本已涨了1万元左右 加密币集体下跌，加密币24小时超16万人爆仓  TOP 3大新闻 Anthropic新一轮融资后估值达9650亿美元，超越OpenAI，预计仍将按原定时间表推进IPO 人工智能公司Anthropic PBC在新一轮融资中募资650亿美元，投后估值达到9650亿美元，首次超过竞争对手OpenAl。这轮融资于5月28日宣布，由Altimeter Capital、Dragoneer、Greenoaks和红杉资本领投。知情人士称，每家领投方的出资额均超过20亿美元。红杉资本拒绝置评。其他三家公司未回应置评请求。（新浪财经） 售卖不合格足银手镯，周六福被罚 近日，深圳市市场监督管理局公布的一则行政处罚书显示，周六福珠宝股份有限公司（以下简称“周六福”）因生产经营抽检不合格足银手镯，被罚没近千元。相关处罚信息显示，2026年5月，周六福被深圳市市场监督管理局罗湖监管局处罚，处罚事由",
+          "summary_zh": "今日热点导览  盒马APP可下单租地种菜？客服：正在小范围试点 追觅回应“机构报价一天4980元，能与追觅核心高管面对面交流” 京东：未来5年培养10万名工程师 蔚来CEO李斌：原材料价格上涨，整车成本已涨了1万元左右 加密币集体下跌，加密币24小时超16万人爆仓  TOP 3大新闻 Anthropic新一轮融资后估值达9650亿美元，超越OpenAI，预计仍将按原定时间表推进IPO 人工智能公司Anthropic PBC在新一轮融资中募资650亿美元，投后估值达到9650亿美元，首次超过竞争对手OpenAl。这轮融资于5月28日宣布，由Altimeter Capital、Dragoneer、Greenoaks和红杉资本领投。知情人士称，每家领投方的出资额均超过20亿美元。红杉资本拒绝置评。其他三家公司未回应置评请求。（新浪财经） 售卖不合格足银手镯，周六福被罚 近日，深圳市市场监督管理局公布的一则行政处罚书显示，周六福珠宝股份有限公司（以下简称“周六福”）因生产经营抽检不合格足银手镯，被罚没近千元。相关处罚信息显示，2026年5月，周六福被深圳市市场监督管理局罗湖监管局处罚，处罚事由",
+          "publishedAt": "2026-05-29T00:15:27Z",
+          "published_at": "2026-05-29T00:15:27Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
