@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-05-29T11:47:51Z",
-  "generatedAt": "2026-05-29T11:47:51Z",
-  "count": 17,
-  "total": 17,
+  "generated_at": "2026-05-29T22:11:47Z",
+  "generatedAt": "2026-05-29T22:11:47Z",
+  "count": 18,
+  "total": 18,
   "entries": [
+    {
+      "date": "2026-05-30",
+      "generated_at": "2026-05-29T22:11:47Z",
+      "generatedAt": "2026-05-29T22:11:47Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "2ce701ab",
+          "title": "产品更新：Ava 2.0",
+          "title_en": "Ava 2.0",
+          "url": "https://www.producthunt.com/products/artisan-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/artisan-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your AI BDR that runs outbound sales autonomou",
+          "summary_zh": "Your AI BDR that runs outbound sales autonomou",
+          "publishedAt": "2026-05-29T07:01:00Z",
+          "published_at": "2026-05-29T07:01:00Z",
+          "votes_count": 302,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d072ab90",
+          "title": "产品更新：Ava Studio",
+          "title_en": "Ava Studio",
+          "url": "https://www.producthunt.com/products/ava-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ava-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your AI creative team for video ads Ava Studio",
+          "summary_zh": "Your AI creative team for video ads Ava Studio",
+          "publishedAt": "2026-05-29T07:01:00Z",
+          "published_at": "2026-05-29T07:01:00Z",
+          "votes_count": 214,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c8261a33",
+          "title": "产品更新：Agent A by Ahre",
+          "title_en": "Agent A by Ahrefs",
+          "url": "https://www.producthunt.com/products/ahrefs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ahrefs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The AI Marketing Agent Powered by Ahrefs Data",
+          "summary_zh": "The AI Marketing Agent Powered by Ahrefs Data",
+          "publishedAt": "2026-05-29T07:01:00Z",
+          "published_at": "2026-05-29T07:01:00Z",
+          "votes_count": 201,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-05-29",
       "generated_at": "2026-05-29T11:47:51Z",
