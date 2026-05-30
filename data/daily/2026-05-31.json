@@ -1,0 +1,513 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-30T21:30:56Z",
+  "generatedAt": "2026-05-30T21:30:56Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "b3656c6a",
+          "title": "产品更新：Wandesk",
+          "title_en": "Wandesk",
+          "url": "https://www.producthunt.com/products/wandesk-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wandesk-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Build Your Own AI Desktop Wandesk is an AI des",
+          "summary_zh": "Build Your Own AI Desktop Wandesk is an AI des",
+          "publishedAt": "2026-05-30T07:01:00Z",
+          "published_at": "2026-05-30T07:01:00Z",
+          "votes_count": 339,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "27f99f4e",
+          "title": "产品更新：Wingbits AI",
+          "title_en": "Wingbits AI",
+          "url": "https://www.producthunt.com/products/wingbits-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wingbits-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI agents for real-time aircraft monitoring an",
+          "summary_zh": "AI agents for real-time aircraft monitoring an",
+          "publishedAt": "2026-05-30T07:01:00Z",
+          "published_at": "2026-05-30T07:01:00Z",
+          "votes_count": 195,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "308",
+              "name": "Maps",
+              "slug": "maps"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3fdc8998",
+          "title": "产品更新：Exstats",
+          "title_en": "Exstats",
+          "url": "https://www.producthunt.com/products/exstats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/exstats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Track your browser extensions and competitors",
+          "summary_zh": "Track your browser extensions and competitors",
+          "publishedAt": "2026-05-30T07:01:00Z",
+          "published_at": "2026-05-30T07:01:00Z",
+          "votes_count": 178,
+          "featured": true,
+          "topics": [
+            {
+              "id": "16",
+              "name": "Browser Extensions",
+              "slug": "browser-extensions"
+            },
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "403212bb",
+          "title": "产品更新：Openstatus MCP",
+          "title_en": "Openstatus MCP Health Checker",
+          "url": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Test MCP servers like a real AI client, not ju",
+          "summary_zh": "Test MCP servers like a real AI client, not ju",
+          "publishedAt": "2026-05-30T07:01:00Z",
+          "published_at": "2026-05-30T07:01:00Z",
+          "votes_count": 169,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "234d3cf1",
+          "title": "最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策",
+          "title_en": null,
+          "url": "https://36kr.com/p/3831071878358659?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3831071878358659?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "“太空智驾时代将到来，卫星和星座会如同L4级自动驾驶汽车一样，在太空具备自主环境感知、任务规划和机动决策能力。” 5月28日，在上海举行的“好望角科学沙龙”上，中国科学院西安光学精密机械研究所（简称“西安光机所”）副所长邵晓鹏在演讲中提出了这一判断。  西安光机所副所长邵晓鹏在沙龙上演讲 “好望角科学沙龙”是由中科创星发起，中科创星、东壁科技数据、上海市研发公共服务平台管理中心、曲率引擎共同主办的科创融合与跨界交流平台。本期沙龙以“星际智控——太空智驾与遥感技术的产业共振”为主题，汇聚了航天领域专家，以及来自科创企业、投资机构与地方政府的近百位代表，共同探讨卫星和星座从被动响应向自主决策升级的技术路径与落地模式。 过去几年，全球商业航天进入加速阶段，卫星在轨数量持续攀升，空间碎片、轨道碰撞等风险也在增加。传统依赖地面站逐一管控的卫星在轨管理模式已难以为继，强调卫星自主感知、自主响应与自主决策能力的“太空智驾”概念应运而生。 在以《计算成像：重塑“太空智驾”》为题的演讲中，邵晓鹏表示，“AI+光学”的新范式，将推动航天光学载荷从传统的“精密机械”向“智能信息终端”转变，并进一步提升卫星系",
+          "summary_zh": "“太空智驾时代将到来，卫星和星座会如同L4级自动驾驶汽车一样，在太空具备自主环境感知、任务规划和机动决策能力。” 5月28日，在上海举行的“好望角科学沙龙”上，中国科学院西安光学精密机械研究所（简称“西安光机所”）副所长邵晓鹏在演讲中提出了这一判断。  西安光机所副所长邵晓鹏在沙龙上演讲 “好望角科学沙龙”是由中科创星发起，中科创星、东壁科技数据、上海市研发公共服务平台管理中心、曲率引擎共同主办的科创融合与跨界交流平台。本期沙龙以“星际智控——太空智驾与遥感技术的产业共振”为主题，汇聚了航天领域专家，以及来自科创企业、投资机构与地方政府的近百位代表，共同探讨卫星和星座从被动响应向自主决策升级的技术路径与落地模式。 过去几年，全球商业航天进入加速阶段，卫星在轨数量持续攀升，空间碎片、轨道碰撞等风险也在增加。传统依赖地面站逐一管控的卫星在轨管理模式已难以为继，强调卫星自主感知、自主响应与自主决策能力的“太空智驾”概念应运而生。 在以《计算成像：重塑“太空智驾”》为题的演讲中，邵晓鹏表示，“AI+光学”的新范式，将推动航天光学载荷从传统的“精密机械”向“智能信息终端”转变，并进一步提升卫星系",
+          "publishedAt": "2026-05-30T00:48:34Z",
+          "published_at": "2026-05-30T00:48:34Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "b4c240e5",
+          "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+          "title_en": null,
+          "url": "https://36kr.com/p/3831135917107075?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3831135917107075?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，乘物机器人（深圳）有限公司（以下简称“乘物机器人”）近日完成天使轮融资，由中国台湾工业自动化与智能机器人解决方案领域龙头企业和椿科技战略投资，华君资本担任独家财务顾问。 乘物机器人成立于2025年，总部位于深圳，专注工业具身智能技术研发与产品解决方案，具备从软硬件研发、数据采集、模型训练、场景部署与维护的一体化技术能力。 创始人黄金龙技术出身，拥有十余年机器人全栈研发与产业化经验，主导过多类工业机器人产品研发与落地；联合创始人单玉虎博士，曾先后在腾讯、小鹏、美团等企业负责机器人核心技术研发，深耕多模态大模型、3D感知、多传感器融合等领域，拥有丰富量产实战经验。 工业场景中，非标场景普遍存在，机器人落地应用往往需要定制化的解决方案。乘物机器人由此切入，成立之初便聚焦工业场景，通过本体整合成熟供应链方案，自研末端执行结构、电子硬件、软件算法、云端能力及核心大模型，快速沉淀出标准化的技术产品包，具备了覆盖工业场景全流程的交付能力。 目前，公司已完成十余个工业场景落地项目，2025年累计营收超两千万元，服务包括富士康在内的一系列代表性头部制造企业。",
+          "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，乘物机器人（深圳）有限公司（以下简称“乘物机器人”）近日完成天使轮融资，由中国台湾工业自动化与智能机器人解决方案领域龙头企业和椿科技战略投资，华君资本担任独家财务顾问。 乘物机器人成立于2025年，总部位于深圳，专注工业具身智能技术研发与产品解决方案，具备从软硬件研发、数据采集、模型训练、场景部署与维护的一体化技术能力。 创始人黄金龙技术出身，拥有十余年机器人全栈研发与产业化经验，主导过多类工业机器人产品研发与落地；联合创始人单玉虎博士，曾先后在腾讯、小鹏、美团等企业负责机器人核心技术研发，深耕多模态大模型、3D感知、多传感器融合等领域，拥有丰富量产实战经验。 工业场景中，非标场景普遍存在，机器人落地应用往往需要定制化的解决方案。乘物机器人由此切入，成立之初便聚焦工业场景，通过本体整合成熟供应链方案，自研末端执行结构、电子硬件、软件算法、云端能力及核心大模型，快速沉淀出标准化的技术产品包，具备了覆盖工业场景全流程的交付能力。 目前，公司已完成十余个工业场景落地项目，2025年累计营收超两千万元，服务包括富士康在内的一系列代表性头部制造企业。",
+          "publishedAt": "2026-05-30T01:53:46Z",
+          "published_at": "2026-05-30T01:53:46Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "9a600bec",
+          "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/05/426643.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/05/426643.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」  思邈 2026-05-30 11:17:17  来源：量子位   让世界模型迈向多智能体交互仿真   允中 发自 凹非寺 量子位 | 公众号 QbitAI  当前视频世界模型在单智能体设定下已经走得相对成熟。 但多智能体场景——多个玩家共享同一个演化世界，在架构层面一直缺乏系统性的解决方案。 问题不在于算力不够，而在于现有的位置编码和注意力机制，从设计上就没有为多个主体预留接口。 近日，NVIDIA联合清华大学、多伦多大学和Vector Institute发布Gamma-World（γ-World），从RoPE扩展和注意力拓扑两个底层组件入手，给出了一套系统性的答案。 论文标题：Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players  为什么多智能体世界建模是一个困难问题 现有视频世界模型几乎都建立在单智能体假设之上： 给定一个玩家的动作序列，预测该视角下的未来观测。 多智能体设定从根本上改变了这个问题的性质——模型不再只",
+          "summary_zh": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」  思邈 2026-05-30 11:17:17  来源：量子位   让世界模型迈向多智能体交互仿真   允中 发自 凹非寺 量子位 | 公众号 QbitAI  当前视频世界模型在单智能体设定下已经走得相对成熟。 但多智能体场景——多个玩家共享同一个演化世界，在架构层面一直缺乏系统性的解决方案。 问题不在于算力不够，而在于现有的位置编码和注意力机制，从设计上就没有为多个主体预留接口。 近日，NVIDIA联合清华大学、多伦多大学和Vector Institute发布Gamma-World（γ-World），从RoPE扩展和注意力拓扑两个底层组件入手，给出了一套系统性的答案。 论文标题：Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players  为什么多智能体世界建模是一个困难问题 现有视频世界模型几乎都建立在单智能体假设之上： 给定一个玩家的动作序列，预测该视角下的未来观测。 多智能体设定从根本上改变了这个问题的性质——模型不再只",
+          "publishedAt": "2026-05-30T03:17:17Z",
+          "published_at": "2026-05-30T03:17:17Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "708a95c1",
+          "title": "天津发布2025年度人工智能十大应用标杆场景，总投资超6亿元",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3831325232670338?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3831325232670338?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "36氪获悉，2026世界智能产业博览会期间，人工智能创新与太空数智设施发展交流会在天开园举行。会上，天津市2025年度人工智能十大应用标杆场景正式发布，涵盖科研、制造、医疗、康养、教育、农业、治理、交通、文旅9大领域，总投资额超6亿元。（天津日报）",
+          "summary_zh": "36氪获悉，2026世界智能产业博览会期间，人工智能创新与太空数智设施发展交流会在天开园举行。会上，天津市2025年度人工智能十大应用标杆场景正式发布，涵盖科研、制造、医疗、康养、教育、农业、治理、交通、文旅9大领域，总投资额超6亿元。（天津日报）",
+          "publishedAt": "2026-05-30T05:26:49Z",
+          "published_at": "2026-05-30T05:26:49Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "b3656c6a",
+      "title": "产品更新：Wandesk",
+      "title_en": "Wandesk",
+      "url": "https://www.producthunt.com/products/wandesk-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/wandesk-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build Your Own AI Desktop Wandesk is an AI des",
+      "summary_zh": "Build Your Own AI Desktop Wandesk is an AI des",
+      "publishedAt": "2026-05-30T07:01:00Z",
+      "published_at": "2026-05-30T07:01:00Z",
+      "votes_count": 339,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "27f99f4e",
+      "title": "产品更新：Wingbits AI",
+      "title_en": "Wingbits AI",
+      "url": "https://www.producthunt.com/products/wingbits-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/wingbits-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI agents for real-time aircraft monitoring an",
+      "summary_zh": "AI agents for real-time aircraft monitoring an",
+      "publishedAt": "2026-05-30T07:01:00Z",
+      "published_at": "2026-05-30T07:01:00Z",
+      "votes_count": 195,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "308",
+          "name": "Maps",
+          "slug": "maps"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3fdc8998",
+      "title": "产品更新：Exstats",
+      "title_en": "Exstats",
+      "url": "https://www.producthunt.com/products/exstats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/exstats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Track your browser extensions and competitors",
+      "summary_zh": "Track your browser extensions and competitors",
+      "publishedAt": "2026-05-30T07:01:00Z",
+      "published_at": "2026-05-30T07:01:00Z",
+      "votes_count": 178,
+      "featured": true,
+      "topics": [
+        {
+          "id": "16",
+          "name": "Browser Extensions",
+          "slug": "browser-extensions"
+        },
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "403212bb",
+      "title": "产品更新：Openstatus MCP",
+      "title_en": "Openstatus MCP Health Checker",
+      "url": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Test MCP servers like a real AI client, not ju",
+      "summary_zh": "Test MCP servers like a real AI client, not ju",
+      "publishedAt": "2026-05-30T07:01:00Z",
+      "published_at": "2026-05-30T07:01:00Z",
+      "votes_count": 169,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "234d3cf1",
+      "title": "最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策",
+      "title_en": null,
+      "url": "https://36kr.com/p/3831071878358659?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3831071878358659?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "“太空智驾时代将到来，卫星和星座会如同L4级自动驾驶汽车一样，在太空具备自主环境感知、任务规划和机动决策能力。” 5月28日，在上海举行的“好望角科学沙龙”上，中国科学院西安光学精密机械研究所（简称“西安光机所”）副所长邵晓鹏在演讲中提出了这一判断。  西安光机所副所长邵晓鹏在沙龙上演讲 “好望角科学沙龙”是由中科创星发起，中科创星、东壁科技数据、上海市研发公共服务平台管理中心、曲率引擎共同主办的科创融合与跨界交流平台。本期沙龙以“星际智控——太空智驾与遥感技术的产业共振”为主题，汇聚了航天领域专家，以及来自科创企业、投资机构与地方政府的近百位代表，共同探讨卫星和星座从被动响应向自主决策升级的技术路径与落地模式。 过去几年，全球商业航天进入加速阶段，卫星在轨数量持续攀升，空间碎片、轨道碰撞等风险也在增加。传统依赖地面站逐一管控的卫星在轨管理模式已难以为继，强调卫星自主感知、自主响应与自主决策能力的“太空智驾”概念应运而生。 在以《计算成像：重塑“太空智驾”》为题的演讲中，邵晓鹏表示，“AI+光学”的新范式，将推动航天光学载荷从传统的“精密机械”向“智能信息终端”转变，并进一步提升卫星系",
+      "summary_zh": "“太空智驾时代将到来，卫星和星座会如同L4级自动驾驶汽车一样，在太空具备自主环境感知、任务规划和机动决策能力。” 5月28日，在上海举行的“好望角科学沙龙”上，中国科学院西安光学精密机械研究所（简称“西安光机所”）副所长邵晓鹏在演讲中提出了这一判断。  西安光机所副所长邵晓鹏在沙龙上演讲 “好望角科学沙龙”是由中科创星发起，中科创星、东壁科技数据、上海市研发公共服务平台管理中心、曲率引擎共同主办的科创融合与跨界交流平台。本期沙龙以“星际智控——太空智驾与遥感技术的产业共振”为主题，汇聚了航天领域专家，以及来自科创企业、投资机构与地方政府的近百位代表，共同探讨卫星和星座从被动响应向自主决策升级的技术路径与落地模式。 过去几年，全球商业航天进入加速阶段，卫星在轨数量持续攀升，空间碎片、轨道碰撞等风险也在增加。传统依赖地面站逐一管控的卫星在轨管理模式已难以为继，强调卫星自主感知、自主响应与自主决策能力的“太空智驾”概念应运而生。 在以《计算成像：重塑“太空智驾”》为题的演讲中，邵晓鹏表示，“AI+光学”的新范式，将推动航天光学载荷从传统的“精密机械”向“智能信息终端”转变，并进一步提升卫星系",
+      "publishedAt": "2026-05-30T00:48:34Z",
+      "published_at": "2026-05-30T00:48:34Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "b4c240e5",
+      "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+      "title_en": null,
+      "url": "https://36kr.com/p/3831135917107075?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3831135917107075?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，乘物机器人（深圳）有限公司（以下简称“乘物机器人”）近日完成天使轮融资，由中国台湾工业自动化与智能机器人解决方案领域龙头企业和椿科技战略投资，华君资本担任独家财务顾问。 乘物机器人成立于2025年，总部位于深圳，专注工业具身智能技术研发与产品解决方案，具备从软硬件研发、数据采集、模型训练、场景部署与维护的一体化技术能力。 创始人黄金龙技术出身，拥有十余年机器人全栈研发与产业化经验，主导过多类工业机器人产品研发与落地；联合创始人单玉虎博士，曾先后在腾讯、小鹏、美团等企业负责机器人核心技术研发，深耕多模态大模型、3D感知、多传感器融合等领域，拥有丰富量产实战经验。 工业场景中，非标场景普遍存在，机器人落地应用往往需要定制化的解决方案。乘物机器人由此切入，成立之初便聚焦工业场景，通过本体整合成熟供应链方案，自研末端执行结构、电子硬件、软件算法、云端能力及核心大模型，快速沉淀出标准化的技术产品包，具备了覆盖工业场景全流程的交付能力。 目前，公司已完成十余个工业场景落地项目，2025年累计营收超两千万元，服务包括富士康在内的一系列代表性头部制造企业。",
+      "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，乘物机器人（深圳）有限公司（以下简称“乘物机器人”）近日完成天使轮融资，由中国台湾工业自动化与智能机器人解决方案领域龙头企业和椿科技战略投资，华君资本担任独家财务顾问。 乘物机器人成立于2025年，总部位于深圳，专注工业具身智能技术研发与产品解决方案，具备从软硬件研发、数据采集、模型训练、场景部署与维护的一体化技术能力。 创始人黄金龙技术出身，拥有十余年机器人全栈研发与产业化经验，主导过多类工业机器人产品研发与落地；联合创始人单玉虎博士，曾先后在腾讯、小鹏、美团等企业负责机器人核心技术研发，深耕多模态大模型、3D感知、多传感器融合等领域，拥有丰富量产实战经验。 工业场景中，非标场景普遍存在，机器人落地应用往往需要定制化的解决方案。乘物机器人由此切入，成立之初便聚焦工业场景，通过本体整合成熟供应链方案，自研末端执行结构、电子硬件、软件算法、云端能力及核心大模型，快速沉淀出标准化的技术产品包，具备了覆盖工业场景全流程的交付能力。 目前，公司已完成十余个工业场景落地项目，2025年累计营收超两千万元，服务包括富士康在内的一系列代表性头部制造企业。",
+      "publishedAt": "2026-05-30T01:53:46Z",
+      "published_at": "2026-05-30T01:53:46Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "9a600bec",
+      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/05/426643.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/05/426643.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」  思邈 2026-05-30 11:17:17  来源：量子位   让世界模型迈向多智能体交互仿真   允中 发自 凹非寺 量子位 | 公众号 QbitAI  当前视频世界模型在单智能体设定下已经走得相对成熟。 但多智能体场景——多个玩家共享同一个演化世界，在架构层面一直缺乏系统性的解决方案。 问题不在于算力不够，而在于现有的位置编码和注意力机制，从设计上就没有为多个主体预留接口。 近日，NVIDIA联合清华大学、多伦多大学和Vector Institute发布Gamma-World（γ-World），从RoPE扩展和注意力拓扑两个底层组件入手，给出了一套系统性的答案。 论文标题：Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players  为什么多智能体世界建模是一个困难问题 现有视频世界模型几乎都建立在单智能体假设之上： 给定一个玩家的动作序列，预测该视角下的未来观测。 多智能体设定从根本上改变了这个问题的性质——模型不再只",
+      "summary_zh": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」  思邈 2026-05-30 11:17:17  来源：量子位   让世界模型迈向多智能体交互仿真   允中 发自 凹非寺 量子位 | 公众号 QbitAI  当前视频世界模型在单智能体设定下已经走得相对成熟。 但多智能体场景——多个玩家共享同一个演化世界，在架构层面一直缺乏系统性的解决方案。 问题不在于算力不够，而在于现有的位置编码和注意力机制，从设计上就没有为多个主体预留接口。 近日，NVIDIA联合清华大学、多伦多大学和Vector Institute发布Gamma-World（γ-World），从RoPE扩展和注意力拓扑两个底层组件入手，给出了一套系统性的答案。 论文标题：Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players  为什么多智能体世界建模是一个困难问题 现有视频世界模型几乎都建立在单智能体假设之上： 给定一个玩家的动作序列，预测该视角下的未来观测。 多智能体设定从根本上改变了这个问题的性质——模型不再只",
+      "publishedAt": "2026-05-30T03:17:17Z",
+      "published_at": "2026-05-30T03:17:17Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "708a95c1",
+      "title": "天津发布2025年度人工智能十大应用标杆场景，总投资超6亿元",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3831325232670338?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3831325232670338?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "36氪获悉，2026世界智能产业博览会期间，人工智能创新与太空数智设施发展交流会在天开园举行。会上，天津市2025年度人工智能十大应用标杆场景正式发布，涵盖科研、制造、医疗、康养、教育、农业、治理、交通、文旅9大领域，总投资额超6亿元。（天津日报）",
+      "summary_zh": "36氪获悉，2026世界智能产业博览会期间，人工智能创新与太空数智设施发展交流会在天开园举行。会上，天津市2025年度人工智能十大应用标杆场景正式发布，涵盖科研、制造、医疗、康养、教育、农业、治理、交通、文旅9大领域，总投资额超6亿元。（天津日报）",
+      "publishedAt": "2026-05-30T05:26:49Z",
+      "published_at": "2026-05-30T05:26:49Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

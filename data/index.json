@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-05-30T10:24:00Z",
-  "generatedAt": "2026-05-30T10:24:00Z",
-  "count": 18,
-  "total": 18,
+  "generated_at": "2026-05-30T21:30:56Z",
+  "generatedAt": "2026-05-30T21:30:56Z",
+  "count": 19,
+  "total": 19,
   "entries": [
+    {
+      "date": "2026-05-31",
+      "generated_at": "2026-05-30T21:30:56Z",
+      "generatedAt": "2026-05-30T21:30:56Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "b3656c6a",
+          "title": "产品更新：Wandesk",
+          "title_en": "Wandesk",
+          "url": "https://www.producthunt.com/products/wandesk-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wandesk-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build Your Own AI Desktop Wandesk is an AI des",
+          "summary_zh": "Build Your Own AI Desktop Wandesk is an AI des",
+          "publishedAt": "2026-05-30T07:01:00Z",
+          "published_at": "2026-05-30T07:01:00Z",
+          "votes_count": 339,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "27f99f4e",
+          "title": "产品更新：Wingbits AI",
+          "title_en": "Wingbits AI",
+          "url": "https://www.producthunt.com/products/wingbits-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wingbits-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI agents for real-time aircraft monitoring an",
+          "summary_zh": "AI agents for real-time aircraft monitoring an",
+          "publishedAt": "2026-05-30T07:01:00Z",
+          "published_at": "2026-05-30T07:01:00Z",
+          "votes_count": 195,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "308",
+              "name": "Maps",
+              "slug": "maps"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3fdc8998",
+          "title": "产品更新：Exstats",
+          "title_en": "Exstats",
+          "url": "https://www.producthunt.com/products/exstats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/exstats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Track your browser extensions and competitors",
+          "summary_zh": "Track your browser extensions and competitors",
+          "publishedAt": "2026-05-30T07:01:00Z",
+          "published_at": "2026-05-30T07:01:00Z",
+          "votes_count": 178,
+          "featured": true,
+          "topics": [
+            {
+              "id": "16",
+              "name": "Browser Extensions",
+              "slug": "browser-extensions"
+            },
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-05-30",
       "generated_at": "2026-05-30T10:24:00Z",
