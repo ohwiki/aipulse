@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-05-30T21:30:56Z",
-  "generatedAt": "2026-05-30T21:30:56Z",
+  "generated_at": "2026-05-31T10:29:24Z",
+  "generatedAt": "2026-05-31T10:29:24Z",
   "count": 19,
   "total": 19,
   "entries": [
     {
       "date": "2026-05-31",
-      "generated_at": "2026-05-30T21:30:56Z",
-      "generatedAt": "2026-05-30T21:30:56Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-05-31T10:29:24Z",
+      "generatedAt": "2026-05-31T10:29:24Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "b3656c6a",
-          "title": "产品更新：Wandesk",
-          "title_en": "Wandesk",
-          "url": "https://www.producthunt.com/products/wandesk-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "d1e39c85",
+          "title": "申万宏源：短期结构分化走向极致，市场再突破仍需蓄力",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3832743456695943?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/wandesk-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Build Your Own AI Desktop Wandesk is an AI des",
-          "summary_zh": "Build Your Own AI Desktop Wandesk is an AI des",
-          "publishedAt": "2026-05-30T07:01:00Z",
-          "published_at": "2026-05-30T07:01:00Z",
-          "votes_count": 339,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3832743456695943?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "36氪获悉，申万宏源发布研究报告称，短期总体市场难有效突破，结构分化行情正走向极致，动量延续的AI算力通胀方向减少，已向PCB细分领域、电容等方向聚焦。中期，继续看好新能源、新能车和出口链的景气验证机会，同时，继续围绕着AI产业链和战略资源做配置。",
+          "summary_zh": "36氪获悉，申万宏源发布研究报告称，短期总体市场难有效突破，结构分化行情正走向极致，动量延续的AI算力通胀方向减少，已向PCB细分领域、电容等方向聚焦。中期，继续看好新能源、新能车和出口链的景气验证机会，同时，继续围绕着AI产业链和战略资源做配置。",
+          "publishedAt": "2026-05-31T07:28:09Z",
+          "published_at": "2026-05-31T07:28:09Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "27f99f4e",
-          "title": "产品更新：Wingbits AI",
-          "title_en": "Wingbits AI",
-          "url": "https://www.producthunt.com/products/wingbits-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "bbaeee88",
+          "title": "软银承诺斥资750亿欧元在法国建设人工智能设施",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3832585694193541?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/wingbits-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI agents for real-time aircraft monitoring an",
-          "summary_zh": "AI agents for real-time aircraft monitoring an",
-          "publishedAt": "2026-05-30T07:01:00Z",
-          "published_at": "2026-05-30T07:01:00Z",
-          "votes_count": 195,
-          "featured": true,
-          "topics": [
-            {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "308",
-              "name": "Maps",
-              "slug": "maps"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3832585694193541?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "软银承诺最高投入750亿欧元，在法国打造大型人工智能计算集群网络，该项目将成为欧洲规模最大的数据中心工程。这也是软银在美国以外完成的单笔最大规模人工智能投资。知情人士称，今年4月初法国总统马克龙与孙正义在东京共进晚餐后，双方迅速敲定了此项合作。软银首期将牵头投入450亿欧元，计划到2031年在上法兰西大区建成3.1吉瓦的算力规模，后续还规划新增2吉瓦算力。（新浪财经）",
+          "summary_zh": "软银承诺最高投入750亿欧元，在法国打造大型人工智能计算集群网络，该项目将成为欧洲规模最大的数据中心工程。这也是软银在美国以外完成的单笔最大规模人工智能投资。知情人士称，今年4月初法国总统马克龙与孙正义在东京共进晚餐后，双方迅速敲定了此项合作。软银首期将牵头投入450亿欧元，计划到2031年在上法兰西大区建成3.1吉瓦的算力规模，后续还规划新增2吉瓦算力。（新浪财经）",
+          "publishedAt": "2026-05-31T04:32:41Z",
+          "published_at": "2026-05-31T04:32:41Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "3fdc8998",
-          "title": "产品更新：Exstats",
-          "title_en": "Exstats",
-          "url": "https://www.producthunt.com/products/exstats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "5be2739c",
+          "title": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/05/426819.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/exstats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Track your browser extensions and competitors",
-          "summary_zh": "Track your browser extensions and competitors",
-          "publishedAt": "2026-05-30T07:01:00Z",
-          "published_at": "2026-05-30T07:01:00Z",
-          "votes_count": 178,
-          "featured": true,
-          "topics": [
-            {
-              "id": "16",
-              "name": "Browser Extensions",
-              "slug": "browser-extensions"
-            },
-            {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/05/426819.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026  衡宇 2026-05-31 11:54:27  来源：量子位   CLI更像是Agent的母语   编辑部 整理自 2026中国AIGC产业峰会 量子位 | 公众号 QbitAI  Agent时代，究竟需要什么样的基础设施？ 港大助理教授黄超给出的答案是：不是让Agent不停地适应人，而是为Agent重新设计数字世界。    在2026中国AIGC产业峰会上，黄超系统梳理了他过去两年多围绕AI Agent的思考与实践。 他的团队做的第一件事，是把Agent做“轻”做“薄”。 看到OpenClaw发布时有43万行代码（现在已经超过100万行），他们反其道而行之，用最轻量化的方式开源了通用Agent——nanobot。 结果关注度远超预期，连续100天日更迭代，下载量突破20万次，被DeepSeek推荐为全球15个Agent之一，也曾登上OpenRouter平台通用Agent榜单第四名。 但轻量只是起点。 接下来他们计划用nanobot挑战更复杂的长程任务，验证Agent在真实生产环境中的持续执行能力。",
+          "summary_zh": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026  衡宇 2026-05-31 11:54:27  来源：量子位   CLI更像是Agent的母语   编辑部 整理自 2026中国AIGC产业峰会 量子位 | 公众号 QbitAI  Agent时代，究竟需要什么样的基础设施？ 港大助理教授黄超给出的答案是：不是让Agent不停地适应人，而是为Agent重新设计数字世界。    在2026中国AIGC产业峰会上，黄超系统梳理了他过去两年多围绕AI Agent的思考与实践。 他的团队做的第一件事，是把Agent做“轻”做“薄”。 看到OpenClaw发布时有43万行代码（现在已经超过100万行），他们反其道而行之，用最轻量化的方式开源了通用Agent——nanobot。 结果关注度远超预期，连续100天日更迭代，下载量突破20万次，被DeepSeek推荐为全球15个Agent之一，也曾登上OpenRouter平台通用Agent榜单第四名。 但轻量只是起点。 接下来他们计划用nanobot挑战更复杂的长程任务，验证Agent在真实生产环境中的持续执行能力。",
+          "publishedAt": "2026-05-31T03:54:27Z",
+          "published_at": "2026-05-31T03:54:27Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
