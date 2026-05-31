@@ -1,9 +1,116 @@
 {
-  "generated_at": "2026-05-31T10:29:24Z",
-  "generatedAt": "2026-05-31T10:29:24Z",
-  "count": 19,
-  "total": 19,
+  "generated_at": "2026-05-31T21:29:53Z",
+  "generatedAt": "2026-05-31T21:29:53Z",
+  "count": 20,
+  "total": 20,
   "entries": [
+    {
+      "date": "2026-06-01",
+      "generated_at": "2026-05-31T21:29:53Z",
+      "generatedAt": "2026-05-31T21:29:53Z",
+      "total": 6,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "87a776cf",
+          "title": "产品更新：Second Brain fo",
+          "title_en": "Second Brain for AI",
+          "url": "https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Persistent memory for Claude, ChatGPT & Cursor",
+          "summary_zh": "Persistent memory for Claude, ChatGPT & Cursor",
+          "publishedAt": "2026-05-31T07:01:00Z",
+          "published_at": "2026-05-31T07:01:00Z",
+          "votes_count": 205,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "213f8389",
+          "title": "产品更新：Marqly 5.0",
+          "title_en": "Marqly 5.0",
+          "url": "https://www.producthunt.com/products/marqly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/marqly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your AI-powered bookmark manager Marqly is an",
+          "summary_zh": "Your AI-powered bookmark manager Marqly is an",
+          "publishedAt": "2026-05-31T07:01:00Z",
+          "published_at": "2026-05-31T07:01:00Z",
+          "votes_count": 158,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d1e39c85",
+          "title": "申万宏源：短期结构分化走向极致，市场再突破仍需蓄力",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3832743456695943?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3832743456695943?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "36氪获悉，申万宏源发布研究报告称，短期总体市场难有效突破，结构分化行情正走向极致，动量延续的AI算力通胀方向减少，已向PCB细分领域、电容等方向聚焦。中期，继续看好新能源、新能车和出口链的景气验证机会，同时，继续围绕着AI产业链和战略资源做配置。",
+          "summary_zh": "36氪获悉，申万宏源发布研究报告称，短期总体市场难有效突破，结构分化行情正走向极致，动量延续的AI算力通胀方向减少，已向PCB细分领域、电容等方向聚焦。中期，继续看好新能源、新能车和出口链的景气验证机会，同时，继续围绕着AI产业链和战略资源做配置。",
+          "publishedAt": "2026-05-31T07:28:09Z",
+          "published_at": "2026-05-31T07:28:09Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-05-31",
       "generated_at": "2026-05-31T10:29:24Z",
