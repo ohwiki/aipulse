@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-06-01T22:40:04Z",
-  "generatedAt": "2026-06-01T22:40:04Z",
+  "generated_at": "2026-06-02T12:25:22Z",
+  "generatedAt": "2026-06-02T12:25:22Z",
   "count": 21,
   "total": 21,
   "entries": [
     {
       "date": "2026-06-02",
-      "generated_at": "2026-06-01T22:40:04Z",
-      "generatedAt": "2026-06-01T22:40:04Z",
+      "generated_at": "2026-06-02T12:25:22Z",
+      "generatedAt": "2026-06-02T12:25:22Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "9b692184",
-          "title": "产品更新：Mina Meeting As",
-          "title_en": "Mina Meeting Assistant",
-          "url": "https://www.producthunt.com/products/mina-meeting-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "73be1432",
+          "title": "AI资讯更新：Fundraisly",
+          "title_en": "Fundraisly",
+          "url": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/mina-meeting-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Your AI Teammate now responds and executes dur",
-          "summary_zh": "Your AI Teammate now responds and executes dur",
-          "publishedAt": "2026-06-01T07:01:00Z",
-          "published_at": "2026-06-01T07:01:00Z",
-          "votes_count": 359,
+          "summary": "AI fundraising agent that finds investors and",
+          "summary_zh": "AI fundraising agent that finds investors and",
+          "publishedAt": "2026-06-02T07:01:00Z",
+          "published_at": "2026-06-02T07:01:00Z",
+          "votes_count": 442,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "208",
+              "name": "Venture Capital",
+              "slug": "venture-capital"
             },
             {
               "id": "268",
@@ -42,69 +42,31 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "470",
-              "name": "No-Code",
-              "slug": "no-code"
+              "id": "791",
+              "name": "Fundraising",
+              "slug": "fundraising"
             }
           ],
           "score_details": null
         },
         {
-          "id": "a08e8ccc",
-          "title": "产品更新：SocialEcho 2.0",
-          "title_en": "SocialEcho 2.0",
-          "url": "https://www.producthunt.com/products/socialecho?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "523279e0",
+          "title": "AI资讯更新：Vokal",
+          "title_en": "Vokal",
+          "url": "https://www.producthunt.com/products/vokal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/socialecho?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/vokal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "AI social media copilot for teams and agents S",
-          "summary_zh": "AI social media copilot for teams and agents S",
-          "publishedAt": "2026-06-01T07:01:00Z",
-          "published_at": "2026-06-01T07:01:00Z",
-          "votes_count": 295,
-          "featured": true,
-          "topics": [
-            {
-              "id": "104",
-              "name": "Social Media",
-              "slug": "social-media"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "adcc0e35",
-          "title": "产品更新：Databox MCP",
-          "title_en": "Databox MCP",
-          "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Chat with your business data inside Claude, Ch",
-          "summary_zh": "Chat with your business data inside Claude, Ch",
-          "publishedAt": "2026-06-01T07:01:00Z",
-          "published_at": "2026-06-01T07:01:00Z",
-          "votes_count": 266,
+          "summary": "A collaboration space for 10x teammates with t",
+          "summary_zh": "A collaboration space for 10x teammates with t",
+          "publishedAt": "2026-06-02T07:01:00Z",
+          "published_at": "2026-06-02T07:01:00Z",
+          "votes_count": 201,
           "featured": true,
           "topics": [
             {
@@ -113,9 +75,47 @@
               "slug": "productivity"
             },
             {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "65fc4c05",
+          "title": "产品更新：Gigacatalyst",
+          "title_en": "Gigacatalyst",
+          "url": "https://www.producthunt.com/products/gigacatalyst-ai-builder-for-b2b-saas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gigacatalyst-ai-builder-for-b2b-saas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Give your Sales and CS teams engineering super",
+          "summary_zh": "Give your Sales and CS teams engineering super",
+          "publishedAt": "2026-06-02T07:01:00Z",
+          "published_at": "2026-06-02T07:01:00Z",
+          "votes_count": 174,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
             },
             {
               "id": "268",
