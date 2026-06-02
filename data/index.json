@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-06-02T12:25:22Z",
-  "generatedAt": "2026-06-02T12:25:22Z",
-  "count": 21,
-  "total": 21,
+  "generated_at": "2026-06-02T22:32:33Z",
+  "generatedAt": "2026-06-02T22:32:33Z",
+  "count": 22,
+  "total": 22,
   "entries": [
+    {
+      "date": "2026-06-03",
+      "generated_at": "2026-06-02T22:32:33Z",
+      "generatedAt": "2026-06-02T22:32:33Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "73be1432",
+          "title": "AI资讯更新：Fundraisly",
+          "title_en": "Fundraisly",
+          "url": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI fundraising agent that finds investors and",
+          "summary_zh": "AI fundraising agent that finds investors and",
+          "publishedAt": "2026-06-02T07:01:00Z",
+          "published_at": "2026-06-02T07:01:00Z",
+          "votes_count": 834,
+          "featured": true,
+          "topics": [
+            {
+              "id": "208",
+              "name": "Venture Capital",
+              "slug": "venture-capital"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "791",
+              "name": "Fundraising",
+              "slug": "fundraising"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "523279e0",
+          "title": "AI资讯更新：Vokal",
+          "title_en": "Vokal",
+          "url": "https://www.producthunt.com/products/vokal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vokal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A collaboration space for 10x teammates with t",
+          "summary_zh": "A collaboration space for 10x teammates with t",
+          "publishedAt": "2026-06-02T07:01:00Z",
+          "published_at": "2026-06-02T07:01:00Z",
+          "votes_count": 355,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "65fc4c05",
+          "title": "产品更新：Gigacatalyst",
+          "title_en": "Gigacatalyst",
+          "url": "https://www.producthunt.com/products/gigacatalyst-ai-builder-for-b2b-saas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gigacatalyst-ai-builder-for-b2b-saas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Give your Sales and CS teams engineering super",
+          "summary_zh": "Give your Sales and CS teams engineering super",
+          "publishedAt": "2026-06-02T07:01:00Z",
+          "published_at": "2026-06-02T07:01:00Z",
+          "votes_count": 294,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-02",
       "generated_at": "2026-06-02T12:25:22Z",

@@ -1,0 +1,503 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-02T22:32:33Z",
+  "generatedAt": "2026-06-02T22:32:33Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "73be1432",
+          "title": "AI资讯更新：Fundraisly",
+          "title_en": "Fundraisly",
+          "url": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI fundraising agent that finds investors and",
+          "summary_zh": "AI fundraising agent that finds investors and",
+          "publishedAt": "2026-06-02T07:01:00Z",
+          "published_at": "2026-06-02T07:01:00Z",
+          "votes_count": 834,
+          "featured": true,
+          "topics": [
+            {
+              "id": "208",
+              "name": "Venture Capital",
+              "slug": "venture-capital"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "791",
+              "name": "Fundraising",
+              "slug": "fundraising"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "523279e0",
+          "title": "AI资讯更新：Vokal",
+          "title_en": "Vokal",
+          "url": "https://www.producthunt.com/products/vokal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vokal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A collaboration space for 10x teammates with t",
+          "summary_zh": "A collaboration space for 10x teammates with t",
+          "publishedAt": "2026-06-02T07:01:00Z",
+          "published_at": "2026-06-02T07:01:00Z",
+          "votes_count": 355,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "65fc4c05",
+          "title": "产品更新：Gigacatalyst",
+          "title_en": "Gigacatalyst",
+          "url": "https://www.producthunt.com/products/gigacatalyst-ai-builder-for-b2b-saas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gigacatalyst-ai-builder-for-b2b-saas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Give your Sales and CS teams engineering super",
+          "summary_zh": "Give your Sales and CS teams engineering super",
+          "publishedAt": "2026-06-02T07:01:00Z",
+          "published_at": "2026-06-02T07:01:00Z",
+          "votes_count": 294,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cada88a1",
+          "title": "AI资讯更新：Co-Invest",
+          "title_en": "Co-Invest",
+          "url": "https://www.producthunt.com/products/liquid-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/liquid-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Trade 500+ markets directly from ChatGPT & Cla",
+          "summary_zh": "Trade 500+ markets directly from ChatGPT & Cla",
+          "publishedAt": "2026-06-02T07:01:00Z",
+          "published_at": "2026-06-02T07:01:00Z",
+          "votes_count": 220,
+          "featured": true,
+          "topics": [
+            {
+              "id": "94",
+              "name": "Fintech",
+              "slug": "fintech"
+            },
+            {
+              "id": "203",
+              "name": "Investing",
+              "slug": "investing"
+            },
+            {
+              "id": "611",
+              "name": "Finance",
+              "slug": "finance"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "855da7c5",
+          "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
+          "title_en": null,
+          "url": "https://36kr.com/p/3834400181741440?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3834400181741440?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "36氪获悉，NADA AI团队开发的AI游戏社区「Aippy」，已于近日完成数千万美元首轮融资，本轮由歌未资本（Glowill Capital）投资，投后估值2.5亿美元。本轮资金将主要用于顶尖人才引进和欧美核心市场用户规模化增长。 Aippy成立于2025年，由港股上市公司赤子城科技孵化，其创始人、CEO Evan (叶椿建）是赤子城联合创始人，并长期担任赤子城CTO，在海外社交、游戏领域有十余年深耕经验。目前团队规模接近30人，核心成员来自清华大学、美国西北大学、慕尼黑工业大学等国内外顶尖高校，覆盖算法、产品、运营等关键岗位。  Aippy产品界面图 作为AI驱动的游戏创作与互动社区，Aippy定位于为年轻一代数字原住民打造“人人都能做游戏”的UGC平台，用户仅需用自然语言描述想法，AI即可在数分钟内生成可交互游戏。其他用户可以像刷短视频一样沉浸式体验平台内的UGC游戏，也能一键在原有作品基础上进行二创（Remix），融入个人创意后重新发布。 据了解，Aippy最初诞生于AI工具方向的探索。2025年初Vibe Coding概念兴起时，Evan 带领团队切入，但很快产品便做出关键战",
+          "summary_zh": "36氪获悉，NADA AI团队开发的AI游戏社区「Aippy」，已于近日完成数千万美元首轮融资，本轮由歌未资本（Glowill Capital）投资，投后估值2.5亿美元。本轮资金将主要用于顶尖人才引进和欧美核心市场用户规模化增长。 Aippy成立于2025年，由港股上市公司赤子城科技孵化，其创始人、CEO Evan (叶椿建）是赤子城联合创始人，并长期担任赤子城CTO，在海外社交、游戏领域有十余年深耕经验。目前团队规模接近30人，核心成员来自清华大学、美国西北大学、慕尼黑工业大学等国内外顶尖高校，覆盖算法、产品、运营等关键岗位。  Aippy产品界面图 作为AI驱动的游戏创作与互动社区，Aippy定位于为年轻一代数字原住民打造“人人都能做游戏”的UGC平台，用户仅需用自然语言描述想法，AI即可在数分钟内生成可交互游戏。其他用户可以像刷短视频一样沉浸式体验平台内的UGC游戏，也能一键在原有作品基础上进行二创（Remix），融入个人创意后重新发布。 据了解，Aippy最初诞生于AI工具方向的探索。2025年初Vibe Coding概念兴起时，Evan 带领团队切入，但很快产品便做出关键战",
+          "publishedAt": "2026-06-02T00:00:06Z",
+          "published_at": "2026-06-02T00:00:06Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "11f7ac5d",
+          "title": "8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿",
+          "title_en": null,
+          "url": "https://36kr.com/p/3835278829008257?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3835278829008257?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览  闲鱼回应读取用户手机内文物照片上架售卖 赛力斯字节合作新品牌细节曝光：将推纯电、增程双动力 英伟达推出NVIDIA DSX平台 OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人 4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车  TOP 3大新闻 豆包预计6月下旬正式付费，并加速打通抖音电商 5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。” 据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情人士透露，豆包预计将在6月下旬正式上线付费内容，并于同期举行的Force大会上更新相关功能。之所以选择这一时间节点，是因为PC端与移动端仍需约一个月时间，完成基础功能与收费体系的适配改造。 若进展顺利，豆包将于三季度进一步结合电商功能更新完善付费场景，并通过补贴为抖音商城进行引流，四季度进入运行期。 韩国SK海力士工厂发生火灾，造成对人体有害的氟气泄露 当地时间6月1日上午10时32分左右，位",
+          "summary_zh": "今日热点导览  闲鱼回应读取用户手机内文物照片上架售卖 赛力斯字节合作新品牌细节曝光：将推纯电、增程双动力 英伟达推出NVIDIA DSX平台 OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人 4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车  TOP 3大新闻 豆包预计6月下旬正式付费，并加速打通抖音电商 5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。” 据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情人士透露，豆包预计将在6月下旬正式上线付费内容，并于同期举行的Force大会上更新相关功能。之所以选择这一时间节点，是因为PC端与移动端仍需约一个月时间，完成基础功能与收费体系的适配改造。 若进展顺利，豆包将于三季度进一步结合电商功能更新完善付费场景，并通过补贴为抖音商城进行引流，四季度进入运行期。 韩国SK海力士工厂发生火灾，造成对人体有害的氟气泄露 当地时间6月1日上午10时32分左右，位",
+          "publishedAt": "2026-06-02T00:12:57Z",
+          "published_at": "2026-06-02T00:12:57Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "2e4c7780",
+          "title": "老黄的Token经济学翻车了！微软亚马逊通通跳车",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/427541.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/427541.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "老黄的Token经济学翻车了！微软亚马逊通通跳车  henry 2026-06-02 08:33:17  来源：量子位   token热潮开始降温   henry 发自 凹非寺 量子位 | 公众号 QbitAI  Token经济学，可能并不经济。 （除了AAAAA显卡黄总） 最近，Axios爆出一个挺逆天的事儿：一家企业，一个月就烧掉了5亿美元的Claude账单，合人民币34亿元。  原因嘛，就是老板给员工开通了Anthropic的企业授权之后，忘了设置用量上限，然后token就一直烧烧烧…… 烧了一个月，34个小目标就这么水灵灵地出去了。 咱先不说烧得值不值，如果按Anthropic目前约470亿美元的年化收入（ARR）计算，相当于这一家公司，一个月就贡献了Anthropic接近八分之一的月收入。 换句话说，Anthropic每赚8块钱，其中就有1块来自这家公司。 更夸张的是，这家公司至今没有公开身份。 但Axios在报道里提到，能够“无痛”吞下5亿美元AI账单的企业，全球其实也没多少家。 很快，X上开始出现各种猜测，其中被点名最多的是亚马逊。  巧的是，就在几乎同一时间，《金融时报",
+          "summary_zh": "老黄的Token经济学翻车了！微软亚马逊通通跳车  henry 2026-06-02 08:33:17  来源：量子位   token热潮开始降温   henry 发自 凹非寺 量子位 | 公众号 QbitAI  Token经济学，可能并不经济。 （除了AAAAA显卡黄总） 最近，Axios爆出一个挺逆天的事儿：一家企业，一个月就烧掉了5亿美元的Claude账单，合人民币34亿元。  原因嘛，就是老板给员工开通了Anthropic的企业授权之后，忘了设置用量上限，然后token就一直烧烧烧…… 烧了一个月，34个小目标就这么水灵灵地出去了。 咱先不说烧得值不值，如果按Anthropic目前约470亿美元的年化收入（ARR）计算，相当于这一家公司，一个月就贡献了Anthropic接近八分之一的月收入。 换句话说，Anthropic每赚8块钱，其中就有1块来自这家公司。 更夸张的是，这家公司至今没有公开身份。 但Axios在报道里提到，能够“无痛”吞下5亿美元AI账单的企业，全球其实也没多少家。 很快，X上开始出现各种猜测，其中被点名最多的是亚马逊。  巧的是，就在几乎同一时间，《金融时报",
+          "publishedAt": "2026-06-02T00:33:17Z",
+          "published_at": "2026-06-02T00:33:17Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "3fc9099a",
+          "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/427472.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/427472.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路  思邈 2026-06-02 09:33:13  来源：量子位   从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？   允中 发自 凹非寺 量子位 | 公众号 QbitAI  把一件皱成一团的衣服叠好，是家务，也是机器人操作里的“硬仗”。  叠衣服，何以成为具身智能圈的“试金石”？ 对人类而言，“叠衣服”是个无需思考的日常生活动作，但在机器人柔性操作领域，却是顶级难题之一。 衣物属于典型的无定型柔性物体，抓起一个角，整体结构都会随之改变。  宏观上，机器人要判断整件衣服的朝向、展开程度和折叠路径； 细节上，布料的摩擦、厚薄、弹性、静电吸附，甚至毛边、线头、标签、拉链、纽扣与夹爪或桌面的轻微挂连，都会改变一次抓取、拉平或翻折的结果。  因此，叠衣服已成为前沿具身操作模型的重要验证场景。 Physical Intelligence在π系列发布中，将laundry folding作为需要专门post-training的高灵巧任务；Dyna Robotics也把布料/衣物折叠作为真实商业场景中的第一步",
+          "summary_zh": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路  思邈 2026-06-02 09:33:13  来源：量子位   从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？   允中 发自 凹非寺 量子位 | 公众号 QbitAI  把一件皱成一团的衣服叠好，是家务，也是机器人操作里的“硬仗”。  叠衣服，何以成为具身智能圈的“试金石”？ 对人类而言，“叠衣服”是个无需思考的日常生活动作，但在机器人柔性操作领域，却是顶级难题之一。 衣物属于典型的无定型柔性物体，抓起一个角，整体结构都会随之改变。  宏观上，机器人要判断整件衣服的朝向、展开程度和折叠路径； 细节上，布料的摩擦、厚薄、弹性、静电吸附，甚至毛边、线头、标签、拉链、纽扣与夹爪或桌面的轻微挂连，都会改变一次抓取、拉平或翻折的结果。  因此，叠衣服已成为前沿具身操作模型的重要验证场景。 Physical Intelligence在π系列发布中，将laundry folding作为需要专门post-training的高灵巧任务；Dyna Robotics也把布料/衣物折叠作为真实商业场景中的第一步",
+          "publishedAt": "2026-06-02T01:33:13Z",
+          "published_at": "2026-06-02T01:33:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "73be1432",
+      "title": "AI资讯更新：Fundraisly",
+      "title_en": "Fundraisly",
+      "url": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI fundraising agent that finds investors and",
+      "summary_zh": "AI fundraising agent that finds investors and",
+      "publishedAt": "2026-06-02T07:01:00Z",
+      "published_at": "2026-06-02T07:01:00Z",
+      "votes_count": 834,
+      "featured": true,
+      "topics": [
+        {
+          "id": "208",
+          "name": "Venture Capital",
+          "slug": "venture-capital"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "791",
+          "name": "Fundraising",
+          "slug": "fundraising"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "523279e0",
+      "title": "AI资讯更新：Vokal",
+      "title_en": "Vokal",
+      "url": "https://www.producthunt.com/products/vokal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/vokal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A collaboration space for 10x teammates with t",
+      "summary_zh": "A collaboration space for 10x teammates with t",
+      "publishedAt": "2026-06-02T07:01:00Z",
+      "published_at": "2026-06-02T07:01:00Z",
+      "votes_count": 355,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "60",
+          "name": "Messaging",
+          "slug": "messaging"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "65fc4c05",
+      "title": "产品更新：Gigacatalyst",
+      "title_en": "Gigacatalyst",
+      "url": "https://www.producthunt.com/products/gigacatalyst-ai-builder-for-b2b-saas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/gigacatalyst-ai-builder-for-b2b-saas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Give your Sales and CS teams engineering super",
+      "summary_zh": "Give your Sales and CS teams engineering super",
+      "publishedAt": "2026-06-02T07:01:00Z",
+      "published_at": "2026-06-02T07:01:00Z",
+      "votes_count": 294,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "cada88a1",
+      "title": "AI资讯更新：Co-Invest",
+      "title_en": "Co-Invest",
+      "url": "https://www.producthunt.com/products/liquid-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/liquid-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Trade 500+ markets directly from ChatGPT & Cla",
+      "summary_zh": "Trade 500+ markets directly from ChatGPT & Cla",
+      "publishedAt": "2026-06-02T07:01:00Z",
+      "published_at": "2026-06-02T07:01:00Z",
+      "votes_count": 220,
+      "featured": true,
+      "topics": [
+        {
+          "id": "94",
+          "name": "Fintech",
+          "slug": "fintech"
+        },
+        {
+          "id": "203",
+          "name": "Investing",
+          "slug": "investing"
+        },
+        {
+          "id": "611",
+          "name": "Finance",
+          "slug": "finance"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "855da7c5",
+      "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3834400181741440?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3834400181741440?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "36氪获悉，NADA AI团队开发的AI游戏社区「Aippy」，已于近日完成数千万美元首轮融资，本轮由歌未资本（Glowill Capital）投资，投后估值2.5亿美元。本轮资金将主要用于顶尖人才引进和欧美核心市场用户规模化增长。 Aippy成立于2025年，由港股上市公司赤子城科技孵化，其创始人、CEO Evan (叶椿建）是赤子城联合创始人，并长期担任赤子城CTO，在海外社交、游戏领域有十余年深耕经验。目前团队规模接近30人，核心成员来自清华大学、美国西北大学、慕尼黑工业大学等国内外顶尖高校，覆盖算法、产品、运营等关键岗位。  Aippy产品界面图 作为AI驱动的游戏创作与互动社区，Aippy定位于为年轻一代数字原住民打造“人人都能做游戏”的UGC平台，用户仅需用自然语言描述想法，AI即可在数分钟内生成可交互游戏。其他用户可以像刷短视频一样沉浸式体验平台内的UGC游戏，也能一键在原有作品基础上进行二创（Remix），融入个人创意后重新发布。 据了解，Aippy最初诞生于AI工具方向的探索。2025年初Vibe Coding概念兴起时，Evan 带领团队切入，但很快产品便做出关键战",
+      "summary_zh": "36氪获悉，NADA AI团队开发的AI游戏社区「Aippy」，已于近日完成数千万美元首轮融资，本轮由歌未资本（Glowill Capital）投资，投后估值2.5亿美元。本轮资金将主要用于顶尖人才引进和欧美核心市场用户规模化增长。 Aippy成立于2025年，由港股上市公司赤子城科技孵化，其创始人、CEO Evan (叶椿建）是赤子城联合创始人，并长期担任赤子城CTO，在海外社交、游戏领域有十余年深耕经验。目前团队规模接近30人，核心成员来自清华大学、美国西北大学、慕尼黑工业大学等国内外顶尖高校，覆盖算法、产品、运营等关键岗位。  Aippy产品界面图 作为AI驱动的游戏创作与互动社区，Aippy定位于为年轻一代数字原住民打造“人人都能做游戏”的UGC平台，用户仅需用自然语言描述想法，AI即可在数分钟内生成可交互游戏。其他用户可以像刷短视频一样沉浸式体验平台内的UGC游戏，也能一键在原有作品基础上进行二创（Remix），融入个人创意后重新发布。 据了解，Aippy最初诞生于AI工具方向的探索。2025年初Vibe Coding概念兴起时，Evan 带领团队切入，但很快产品便做出关键战",
+      "publishedAt": "2026-06-02T00:00:06Z",
+      "published_at": "2026-06-02T00:00:06Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "11f7ac5d",
+      "title": "8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿",
+      "title_en": null,
+      "url": "https://36kr.com/p/3835278829008257?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3835278829008257?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览  闲鱼回应读取用户手机内文物照片上架售卖 赛力斯字节合作新品牌细节曝光：将推纯电、增程双动力 英伟达推出NVIDIA DSX平台 OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人 4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车  TOP 3大新闻 豆包预计6月下旬正式付费，并加速打通抖音电商 5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。” 据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情人士透露，豆包预计将在6月下旬正式上线付费内容，并于同期举行的Force大会上更新相关功能。之所以选择这一时间节点，是因为PC端与移动端仍需约一个月时间，完成基础功能与收费体系的适配改造。 若进展顺利，豆包将于三季度进一步结合电商功能更新完善付费场景，并通过补贴为抖音商城进行引流，四季度进入运行期。 韩国SK海力士工厂发生火灾，造成对人体有害的氟气泄露 当地时间6月1日上午10时32分左右，位",
+      "summary_zh": "今日热点导览  闲鱼回应读取用户手机内文物照片上架售卖 赛力斯字节合作新品牌细节曝光：将推纯电、增程双动力 英伟达推出NVIDIA DSX平台 OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人 4月中国产汽车在韩国注册登记进口榜排第三，史上首超日本车  TOP 3大新闻 豆包预计6月下旬正式付费，并加速打通抖音电商 5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。” 据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情人士透露，豆包预计将在6月下旬正式上线付费内容，并于同期举行的Force大会上更新相关功能。之所以选择这一时间节点，是因为PC端与移动端仍需约一个月时间，完成基础功能与收费体系的适配改造。 若进展顺利，豆包将于三季度进一步结合电商功能更新完善付费场景，并通过补贴为抖音商城进行引流，四季度进入运行期。 韩国SK海力士工厂发生火灾，造成对人体有害的氟气泄露 当地时间6月1日上午10时32分左右，位",
+      "publishedAt": "2026-06-02T00:12:57Z",
+      "published_at": "2026-06-02T00:12:57Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "2e4c7780",
+      "title": "老黄的Token经济学翻车了！微软亚马逊通通跳车",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/427541.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/427541.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "老黄的Token经济学翻车了！微软亚马逊通通跳车  henry 2026-06-02 08:33:17  来源：量子位   token热潮开始降温   henry 发自 凹非寺 量子位 | 公众号 QbitAI  Token经济学，可能并不经济。 （除了AAAAA显卡黄总） 最近，Axios爆出一个挺逆天的事儿：一家企业，一个月就烧掉了5亿美元的Claude账单，合人民币34亿元。  原因嘛，就是老板给员工开通了Anthropic的企业授权之后，忘了设置用量上限，然后token就一直烧烧烧…… 烧了一个月，34个小目标就这么水灵灵地出去了。 咱先不说烧得值不值，如果按Anthropic目前约470亿美元的年化收入（ARR）计算，相当于这一家公司，一个月就贡献了Anthropic接近八分之一的月收入。 换句话说，Anthropic每赚8块钱，其中就有1块来自这家公司。 更夸张的是，这家公司至今没有公开身份。 但Axios在报道里提到，能够“无痛”吞下5亿美元AI账单的企业，全球其实也没多少家。 很快，X上开始出现各种猜测，其中被点名最多的是亚马逊。  巧的是，就在几乎同一时间，《金融时报",
+      "summary_zh": "老黄的Token经济学翻车了！微软亚马逊通通跳车  henry 2026-06-02 08:33:17  来源：量子位   token热潮开始降温   henry 发自 凹非寺 量子位 | 公众号 QbitAI  Token经济学，可能并不经济。 （除了AAAAA显卡黄总） 最近，Axios爆出一个挺逆天的事儿：一家企业，一个月就烧掉了5亿美元的Claude账单，合人民币34亿元。  原因嘛，就是老板给员工开通了Anthropic的企业授权之后，忘了设置用量上限，然后token就一直烧烧烧…… 烧了一个月，34个小目标就这么水灵灵地出去了。 咱先不说烧得值不值，如果按Anthropic目前约470亿美元的年化收入（ARR）计算，相当于这一家公司，一个月就贡献了Anthropic接近八分之一的月收入。 换句话说，Anthropic每赚8块钱，其中就有1块来自这家公司。 更夸张的是，这家公司至今没有公开身份。 但Axios在报道里提到，能够“无痛”吞下5亿美元AI账单的企业，全球其实也没多少家。 很快，X上开始出现各种猜测，其中被点名最多的是亚马逊。  巧的是，就在几乎同一时间，《金融时报",
+      "publishedAt": "2026-06-02T00:33:17Z",
+      "published_at": "2026-06-02T00:33:17Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "3fc9099a",
+      "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/427472.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/427472.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路  思邈 2026-06-02 09:33:13  来源：量子位   从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？   允中 发自 凹非寺 量子位 | 公众号 QbitAI  把一件皱成一团的衣服叠好，是家务，也是机器人操作里的“硬仗”。  叠衣服，何以成为具身智能圈的“试金石”？ 对人类而言，“叠衣服”是个无需思考的日常生活动作，但在机器人柔性操作领域，却是顶级难题之一。 衣物属于典型的无定型柔性物体，抓起一个角，整体结构都会随之改变。  宏观上，机器人要判断整件衣服的朝向、展开程度和折叠路径； 细节上，布料的摩擦、厚薄、弹性、静电吸附，甚至毛边、线头、标签、拉链、纽扣与夹爪或桌面的轻微挂连，都会改变一次抓取、拉平或翻折的结果。  因此，叠衣服已成为前沿具身操作模型的重要验证场景。 Physical Intelligence在π系列发布中，将laundry folding作为需要专门post-training的高灵巧任务；Dyna Robotics也把布料/衣物折叠作为真实商业场景中的第一步",
+      "summary_zh": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路  思邈 2026-06-02 09:33:13  来源：量子位   从仿真到多形态真机，具身模型如何落地复杂家庭柔性物体操作？   允中 发自 凹非寺 量子位 | 公众号 QbitAI  把一件皱成一团的衣服叠好，是家务，也是机器人操作里的“硬仗”。  叠衣服，何以成为具身智能圈的“试金石”？ 对人类而言，“叠衣服”是个无需思考的日常生活动作，但在机器人柔性操作领域，却是顶级难题之一。 衣物属于典型的无定型柔性物体，抓起一个角，整体结构都会随之改变。  宏观上，机器人要判断整件衣服的朝向、展开程度和折叠路径； 细节上，布料的摩擦、厚薄、弹性、静电吸附，甚至毛边、线头、标签、拉链、纽扣与夹爪或桌面的轻微挂连，都会改变一次抓取、拉平或翻折的结果。  因此，叠衣服已成为前沿具身操作模型的重要验证场景。 Physical Intelligence在π系列发布中，将laundry folding作为需要专门post-training的高灵巧任务；Dyna Robotics也把布料/衣物折叠作为真实商业场景中的第一步",
+      "publishedAt": "2026-06-02T01:33:13Z",
+      "published_at": "2026-06-02T01:33:13Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
