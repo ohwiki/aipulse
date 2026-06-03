@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-06-03T12:55:38Z",
-  "generatedAt": "2026-06-03T12:55:38Z",
-  "count": 22,
-  "total": 22,
+  "generated_at": "2026-06-03T22:35:58Z",
+  "generatedAt": "2026-06-03T22:35:58Z",
+  "count": 23,
+  "total": 23,
   "entries": [
+    {
+      "date": "2026-06-04",
+      "generated_at": "2026-06-03T22:35:58Z",
+      "generatedAt": "2026-06-03T22:35:58Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "72b9df63",
+          "title": "产品更新：InsForge Backen",
+          "title_en": "InsForge Backend Branching",
+          "url": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Git style branching for your backend Git-style",
+          "summary_zh": "Git style branching for your backend Git-style",
+          "publishedAt": "2026-06-03T07:01:00Z",
+          "published_at": "2026-06-03T07:01:00Z",
+          "votes_count": 378,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "98a43bec",
+          "title": "AI资讯更新：superlog",
+          "title_en": "superlog",
+          "url": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Make your product bug-free Superlog is an open",
+          "summary_zh": "Make your product bug-free Superlog is an open",
+          "publishedAt": "2026-06-03T07:01:00Z",
+          "published_at": "2026-06-03T07:01:00Z",
+          "votes_count": 340,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e8c026fa",
+          "title": "产品更新：Elentaria",
+          "title_en": "Elentaria",
+          "url": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your GTM: from diagnosis to execution Elentari",
+          "summary_zh": "Your GTM: from diagnosis to execution Elentari",
+          "publishedAt": "2026-06-03T07:01:00Z",
+          "published_at": "2026-06-03T07:01:00Z",
+          "votes_count": 318,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-03",
       "generated_at": "2026-06-03T12:55:38Z",

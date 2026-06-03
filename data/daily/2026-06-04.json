@@ -1,0 +1,503 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-03T22:35:58Z",
+  "generatedAt": "2026-06-03T22:35:58Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "72b9df63",
+          "title": "产品更新：InsForge Backen",
+          "title_en": "InsForge Backend Branching",
+          "url": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Git style branching for your backend Git-style",
+          "summary_zh": "Git style branching for your backend Git-style",
+          "publishedAt": "2026-06-03T07:01:00Z",
+          "published_at": "2026-06-03T07:01:00Z",
+          "votes_count": 378,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "98a43bec",
+          "title": "AI资讯更新：superlog",
+          "title_en": "superlog",
+          "url": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Make your product bug-free Superlog is an open",
+          "summary_zh": "Make your product bug-free Superlog is an open",
+          "publishedAt": "2026-06-03T07:01:00Z",
+          "published_at": "2026-06-03T07:01:00Z",
+          "votes_count": 340,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e8c026fa",
+          "title": "产品更新：Elentaria",
+          "title_en": "Elentaria",
+          "url": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your GTM: from diagnosis to execution Elentari",
+          "summary_zh": "Your GTM: from diagnosis to execution Elentari",
+          "publishedAt": "2026-06-03T07:01:00Z",
+          "published_at": "2026-06-03T07:01:00Z",
+          "votes_count": 318,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6ad82dd9",
+          "title": "产品更新：Franz 6",
+          "title_en": "Franz 6",
+          "url": "https://www.producthunt.com/products/franz-messenger?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/franz-messenger?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "All your messaging apps in one window — with p",
+          "summary_zh": "All your messaging apps in one window — with p",
+          "publishedAt": "2026-06-03T07:01:00Z",
+          "published_at": "2026-06-03T07:01:00Z",
+          "votes_count": 192,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "3ee7cf27",
+          "title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合作推出统一技术栈",
+          "title_en": null,
+          "url": "https://36kr.com/p/3836703946257542?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3836703946257542?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览  豆包付费或专注复杂任务， 定价锚定ChatGPT 英伟达CEO黄仁勋：Vera CPU将比GPU更受欢迎，将成为公司新的主要增长动力 中国内地航线燃油附加费将下调 标签上存在拼写错误，瑞幸客服称遇到“HeeloKitty”可退款 马尔代夫将限制16岁以下青少年访问部分社媒平台  TOP 3大新闻 腾讯股价暴涨：创2021年1月以来单日最高涨幅纪录 6月2日午后，香港恒生科技指数一度涨超4%。恒生科技指数成分股中，美团、腾讯控股涨近9%，阿里巴巴涨近6%。腾讯控股股价午后持续震荡上行。截至13:12，腾讯控股股价报474.4港元/股，涨幅为8.81%，总市值为4.33万亿港元。腾讯控股（00700.HK）强势拉升，收盘大涨10.46%，报481.6港元，创下2021年1月以来单日最高涨幅纪录，市值飙升至4.39万亿港元。 值得注意的是，此轮大涨行情前，腾讯股价曾经历了长达8个月的低迷态势，自2025年10月触及677.7港元阶段高点后，公司股价震荡下行，历经多轮调整，在2026年5月28日下探至420.4港元年内低点，区间最大回撤幅度接近38%。进入5月份后，腾讯股价一直",
+          "summary_zh": "今日热点导览  豆包付费或专注复杂任务， 定价锚定ChatGPT 英伟达CEO黄仁勋：Vera CPU将比GPU更受欢迎，将成为公司新的主要增长动力 中国内地航线燃油附加费将下调 标签上存在拼写错误，瑞幸客服称遇到“HeeloKitty”可退款 马尔代夫将限制16岁以下青少年访问部分社媒平台  TOP 3大新闻 腾讯股价暴涨：创2021年1月以来单日最高涨幅纪录 6月2日午后，香港恒生科技指数一度涨超4%。恒生科技指数成分股中，美团、腾讯控股涨近9%，阿里巴巴涨近6%。腾讯控股股价午后持续震荡上行。截至13:12，腾讯控股股价报474.4港元/股，涨幅为8.81%，总市值为4.33万亿港元。腾讯控股（00700.HK）强势拉升，收盘大涨10.46%，报481.6港元，创下2021年1月以来单日最高涨幅纪录，市值飙升至4.39万亿港元。 值得注意的是，此轮大涨行情前，腾讯股价曾经历了长达8个月的低迷态势，自2025年10月触及677.7港元阶段高点后，公司股价震荡下行，历经多轮调整，在2026年5月28日下探至420.4港元年内低点，区间最大回撤幅度接近38%。进入5月份后，腾讯股价一直",
+          "publishedAt": "2026-06-03T00:21:18Z",
+          "published_at": "2026-06-03T00:21:18Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "04c832a0",
+          "title": "36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑",
+          "title_en": null,
+          "url": "https://36kr.com/p/3836744788014208?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3836744788014208?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。 旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建）提供“机器人+AI大脑”运维解决方案的具身智能公司。公司创始人舒江鹏为国家级高层次青年人才、浙江大学百人计划研究员、博导，团队自2011年起开展智慧城市AI与工程机器人技术研发，拥有超过15年的行业负样本标注数据积累与技术沉淀。 不同于市面上常见的巡检机器人，旷行科技的核心能力不光是机器人在复杂工程场景下的移动控制，更多在于赋予机器人在高危作业，尤其是针对基建部分的“识别+诊断+处置”能力的“工程师大脑”。 “现在的机器人大多停留在‘巡视’阶段，能看到问题，但看不懂、更不会处置。”舒江鹏告诉硬氪。旷行科技通过自研的工程多模态大模型，融合图像、点云、超声、电磁波、红外等多传感器数据，能实现对混凝土开裂、钢结构锈蚀、岩土失稳等表观及隐蔽病害的亚毫米级定量识别与",
+          "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。 旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建）提供“机器人+AI大脑”运维解决方案的具身智能公司。公司创始人舒江鹏为国家级高层次青年人才、浙江大学百人计划研究员、博导，团队自2011年起开展智慧城市AI与工程机器人技术研发，拥有超过15年的行业负样本标注数据积累与技术沉淀。 不同于市面上常见的巡检机器人，旷行科技的核心能力不光是机器人在复杂工程场景下的移动控制，更多在于赋予机器人在高危作业，尤其是针对基建部分的“识别+诊断+处置”能力的“工程师大脑”。 “现在的机器人大多停留在‘巡视’阶段，能看到问题，但看不懂、更不会处置。”舒江鹏告诉硬氪。旷行科技通过自研的工程多模态大模型，融合图像、点云、超声、电磁波、红外等多传感器数据，能实现对混凝土开裂、钢结构锈蚀、岩土失稳等表观及隐蔽病害的亚毫米级定量识别与",
+          "publishedAt": "2026-06-03T01:10:00Z",
+          "published_at": "2026-06-03T01:10:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "47e175fb",
+          "title": "刚刚，Meta Skill来了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/428335.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/428335.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "刚刚，Meta Skill来了  Jay 2026-06-03 09:29:35  来源：量子位   GitHub最新火爆仓库：OpenSquilla。   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  GitHub最新火爆仓库：OpenSquilla。 继龙虾、爱马仕后又一个开始飞速攀升的Agent，现在已经2000多star了。  快速看了下，最大卖点是其内置了一个「智能模型路由」，这样一来，同样的任务，Token成本能比龙虾省60-80%。 跑任务的时候长这样子，跟个「老虎机」一样。  很爽，任务做完会弹出一个动画，显示帮你节省了多少Token，还能溯源各环节Token消耗量。 经常怒省90%多，感觉钱包突然鼓了起来。 实在太夸张了，顶级「守财奴」（bushi）。  但今天想聊的不是这个。 他们刚发布了个新功能，叫Meta Skill。 不是那个Meta，就是直译——元Skill，Skill的Skill。 一个Meta Skill内嵌多个Skill，拼接到一块就是一本超级白皮书，能端到端打通一整套长程Workflow。  △图为AI生成 Meta Skill实测 也是",
+          "summary_zh": "刚刚，Meta Skill来了  Jay 2026-06-03 09:29:35  来源：量子位   GitHub最新火爆仓库：OpenSquilla。   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  GitHub最新火爆仓库：OpenSquilla。 继龙虾、爱马仕后又一个开始飞速攀升的Agent，现在已经2000多star了。  快速看了下，最大卖点是其内置了一个「智能模型路由」，这样一来，同样的任务，Token成本能比龙虾省60-80%。 跑任务的时候长这样子，跟个「老虎机」一样。  很爽，任务做完会弹出一个动画，显示帮你节省了多少Token，还能溯源各环节Token消耗量。 经常怒省90%多，感觉钱包突然鼓了起来。 实在太夸张了，顶级「守财奴」（bushi）。  但今天想聊的不是这个。 他们刚发布了个新功能，叫Meta Skill。 不是那个Meta，就是直译——元Skill，Skill的Skill。 一个Meta Skill内嵌多个Skill，拼接到一块就是一本超级白皮书，能端到端打通一整套长程Workflow。  △图为AI生成 Meta Skill实测 也是",
+          "publishedAt": "2026-06-03T01:29:35Z",
+          "published_at": "2026-06-03T01:29:35Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f26a10b2",
+          "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+          "title_en": null,
+          "url": "https://36kr.com/p/3836068296209537?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3836068296209537?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。 目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。 商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推进出海，与江都经开区共建亿元级应用创新中心落地文旅酒店场景等。 具身智能赛道竞争逻辑正发生根本性切换。行业告别侧重舞台预设演示的粗放比拼，转而直面真实物理环境下的复杂落地难题。技术路线尚未收敛，各家厂商基于对落地路径的不同理解，在传动方案、模型架构、数据策略等维度做出了差异化的探索与取舍。 星尘智能成立于2022年，创始人兼CEO来杰在AI与机器人领域拥有超过17年研发设计经验，主导研发过多款新型机器人，曾任腾讯机器人实验室1号员工与架构师、百度小度机器人”团队负责人。 创业初期，来杰就",
+          "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。 目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。 商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推进出海，与江都经开区共建亿元级应用创新中心落地文旅酒店场景等。 具身智能赛道竞争逻辑正发生根本性切换。行业告别侧重舞台预设演示的粗放比拼，转而直面真实物理环境下的复杂落地难题。技术路线尚未收敛，各家厂商基于对落地路径的不同理解，在传动方案、模型架构、数据策略等维度做出了差异化的探索与取舍。 星尘智能成立于2022年，创始人兼CEO来杰在AI与机器人领域拥有超过17年研发设计经验，主导研发过多款新型机器人，曾任腾讯机器人实验室1号员工与架构师、百度小度机器人”团队负责人。 创业初期，来杰就",
+          "publishedAt": "2026-06-03T01:30:00Z",
+          "published_at": "2026-06-03T01:30:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "72b9df63",
+      "title": "产品更新：InsForge Backen",
+      "title_en": "InsForge Backend Branching",
+      "url": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Git style branching for your backend Git-style",
+      "summary_zh": "Git style branching for your backend Git-style",
+      "publishedAt": "2026-06-03T07:01:00Z",
+      "published_at": "2026-06-03T07:01:00Z",
+      "votes_count": 378,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "98a43bec",
+      "title": "AI资讯更新：superlog",
+      "title_en": "superlog",
+      "url": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Make your product bug-free Superlog is an open",
+      "summary_zh": "Make your product bug-free Superlog is an open",
+      "publishedAt": "2026-06-03T07:01:00Z",
+      "published_at": "2026-06-03T07:01:00Z",
+      "votes_count": 340,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "e8c026fa",
+      "title": "产品更新：Elentaria",
+      "title_en": "Elentaria",
+      "url": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your GTM: from diagnosis to execution Elentari",
+      "summary_zh": "Your GTM: from diagnosis to execution Elentari",
+      "publishedAt": "2026-06-03T07:01:00Z",
+      "published_at": "2026-06-03T07:01:00Z",
+      "votes_count": 318,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6ad82dd9",
+      "title": "产品更新：Franz 6",
+      "title_en": "Franz 6",
+      "url": "https://www.producthunt.com/products/franz-messenger?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/franz-messenger?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "All your messaging apps in one window — with p",
+      "summary_zh": "All your messaging apps in one window — with p",
+      "publishedAt": "2026-06-03T07:01:00Z",
+      "published_at": "2026-06-03T07:01:00Z",
+      "votes_count": 192,
+      "featured": true,
+      "topics": [
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "60",
+          "name": "Messaging",
+          "slug": "messaging"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3ee7cf27",
+      "title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合作推出统一技术栈",
+      "title_en": null,
+      "url": "https://36kr.com/p/3836703946257542?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3836703946257542?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览  豆包付费或专注复杂任务， 定价锚定ChatGPT 英伟达CEO黄仁勋：Vera CPU将比GPU更受欢迎，将成为公司新的主要增长动力 中国内地航线燃油附加费将下调 标签上存在拼写错误，瑞幸客服称遇到“HeeloKitty”可退款 马尔代夫将限制16岁以下青少年访问部分社媒平台  TOP 3大新闻 腾讯股价暴涨：创2021年1月以来单日最高涨幅纪录 6月2日午后，香港恒生科技指数一度涨超4%。恒生科技指数成分股中，美团、腾讯控股涨近9%，阿里巴巴涨近6%。腾讯控股股价午后持续震荡上行。截至13:12，腾讯控股股价报474.4港元/股，涨幅为8.81%，总市值为4.33万亿港元。腾讯控股（00700.HK）强势拉升，收盘大涨10.46%，报481.6港元，创下2021年1月以来单日最高涨幅纪录，市值飙升至4.39万亿港元。 值得注意的是，此轮大涨行情前，腾讯股价曾经历了长达8个月的低迷态势，自2025年10月触及677.7港元阶段高点后，公司股价震荡下行，历经多轮调整，在2026年5月28日下探至420.4港元年内低点，区间最大回撤幅度接近38%。进入5月份后，腾讯股价一直",
+      "summary_zh": "今日热点导览  豆包付费或专注复杂任务， 定价锚定ChatGPT 英伟达CEO黄仁勋：Vera CPU将比GPU更受欢迎，将成为公司新的主要增长动力 中国内地航线燃油附加费将下调 标签上存在拼写错误，瑞幸客服称遇到“HeeloKitty”可退款 马尔代夫将限制16岁以下青少年访问部分社媒平台  TOP 3大新闻 腾讯股价暴涨：创2021年1月以来单日最高涨幅纪录 6月2日午后，香港恒生科技指数一度涨超4%。恒生科技指数成分股中，美团、腾讯控股涨近9%，阿里巴巴涨近6%。腾讯控股股价午后持续震荡上行。截至13:12，腾讯控股股价报474.4港元/股，涨幅为8.81%，总市值为4.33万亿港元。腾讯控股（00700.HK）强势拉升，收盘大涨10.46%，报481.6港元，创下2021年1月以来单日最高涨幅纪录，市值飙升至4.39万亿港元。 值得注意的是，此轮大涨行情前，腾讯股价曾经历了长达8个月的低迷态势，自2025年10月触及677.7港元阶段高点后，公司股价震荡下行，历经多轮调整，在2026年5月28日下探至420.4港元年内低点，区间最大回撤幅度接近38%。进入5月份后，腾讯股价一直",
+      "publishedAt": "2026-06-03T00:21:18Z",
+      "published_at": "2026-06-03T00:21:18Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "04c832a0",
+      "title": "36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑",
+      "title_en": null,
+      "url": "https://36kr.com/p/3836744788014208?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3836744788014208?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。 旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建）提供“机器人+AI大脑”运维解决方案的具身智能公司。公司创始人舒江鹏为国家级高层次青年人才、浙江大学百人计划研究员、博导，团队自2011年起开展智慧城市AI与工程机器人技术研发，拥有超过15年的行业负样本标注数据积累与技术沉淀。 不同于市面上常见的巡检机器人，旷行科技的核心能力不光是机器人在复杂工程场景下的移动控制，更多在于赋予机器人在高危作业，尤其是针对基建部分的“识别+诊断+处置”能力的“工程师大脑”。 “现在的机器人大多停留在‘巡视’阶段，能看到问题，但看不懂、更不会处置。”舒江鹏告诉硬氪。旷行科技通过自研的工程多模态大模型，融合图像、点云、超声、电磁波、红外等多传感器数据，能实现对混凝土开裂、钢结构锈蚀、岩土失稳等表观及隐蔽病害的亚毫米级定量识别与",
+      "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。 旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建）提供“机器人+AI大脑”运维解决方案的具身智能公司。公司创始人舒江鹏为国家级高层次青年人才、浙江大学百人计划研究员、博导，团队自2011年起开展智慧城市AI与工程机器人技术研发，拥有超过15年的行业负样本标注数据积累与技术沉淀。 不同于市面上常见的巡检机器人，旷行科技的核心能力不光是机器人在复杂工程场景下的移动控制，更多在于赋予机器人在高危作业，尤其是针对基建部分的“识别+诊断+处置”能力的“工程师大脑”。 “现在的机器人大多停留在‘巡视’阶段，能看到问题，但看不懂、更不会处置。”舒江鹏告诉硬氪。旷行科技通过自研的工程多模态大模型，融合图像、点云、超声、电磁波、红外等多传感器数据，能实现对混凝土开裂、钢结构锈蚀、岩土失稳等表观及隐蔽病害的亚毫米级定量识别与",
+      "publishedAt": "2026-06-03T01:10:00Z",
+      "published_at": "2026-06-03T01:10:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "47e175fb",
+      "title": "刚刚，Meta Skill来了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/428335.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/428335.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "刚刚，Meta Skill来了  Jay 2026-06-03 09:29:35  来源：量子位   GitHub最新火爆仓库：OpenSquilla。   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  GitHub最新火爆仓库：OpenSquilla。 继龙虾、爱马仕后又一个开始飞速攀升的Agent，现在已经2000多star了。  快速看了下，最大卖点是其内置了一个「智能模型路由」，这样一来，同样的任务，Token成本能比龙虾省60-80%。 跑任务的时候长这样子，跟个「老虎机」一样。  很爽，任务做完会弹出一个动画，显示帮你节省了多少Token，还能溯源各环节Token消耗量。 经常怒省90%多，感觉钱包突然鼓了起来。 实在太夸张了，顶级「守财奴」（bushi）。  但今天想聊的不是这个。 他们刚发布了个新功能，叫Meta Skill。 不是那个Meta，就是直译——元Skill，Skill的Skill。 一个Meta Skill内嵌多个Skill，拼接到一块就是一本超级白皮书，能端到端打通一整套长程Workflow。  △图为AI生成 Meta Skill实测 也是",
+      "summary_zh": "刚刚，Meta Skill来了  Jay 2026-06-03 09:29:35  来源：量子位   GitHub最新火爆仓库：OpenSquilla。   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  GitHub最新火爆仓库：OpenSquilla。 继龙虾、爱马仕后又一个开始飞速攀升的Agent，现在已经2000多star了。  快速看了下，最大卖点是其内置了一个「智能模型路由」，这样一来，同样的任务，Token成本能比龙虾省60-80%。 跑任务的时候长这样子，跟个「老虎机」一样。  很爽，任务做完会弹出一个动画，显示帮你节省了多少Token，还能溯源各环节Token消耗量。 经常怒省90%多，感觉钱包突然鼓了起来。 实在太夸张了，顶级「守财奴」（bushi）。  但今天想聊的不是这个。 他们刚发布了个新功能，叫Meta Skill。 不是那个Meta，就是直译——元Skill，Skill的Skill。 一个Meta Skill内嵌多个Skill，拼接到一块就是一本超级白皮书，能端到端打通一整套长程Workflow。  △图为AI生成 Meta Skill实测 也是",
+      "publishedAt": "2026-06-03T01:29:35Z",
+      "published_at": "2026-06-03T01:29:35Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f26a10b2",
+      "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3836068296209537?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3836068296209537?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。 目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。 商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推进出海，与江都经开区共建亿元级应用创新中心落地文旅酒店场景等。 具身智能赛道竞争逻辑正发生根本性切换。行业告别侧重舞台预设演示的粗放比拼，转而直面真实物理环境下的复杂落地难题。技术路线尚未收敛，各家厂商基于对落地路径的不同理解，在传动方案、模型架构、数据策略等维度做出了差异化的探索与取舍。 星尘智能成立于2022年，创始人兼CEO来杰在AI与机器人领域拥有超过17年研发设计经验，主导研发过多款新型机器人，曾任腾讯机器人实验室1号员工与架构师、百度小度机器人”团队负责人。 创业初期，来杰就",
+      "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。 目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。 商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推进出海，与江都经开区共建亿元级应用创新中心落地文旅酒店场景等。 具身智能赛道竞争逻辑正发生根本性切换。行业告别侧重舞台预设演示的粗放比拼，转而直面真实物理环境下的复杂落地难题。技术路线尚未收敛，各家厂商基于对落地路径的不同理解，在传动方案、模型架构、数据策略等维度做出了差异化的探索与取舍。 星尘智能成立于2022年，创始人兼CEO来杰在AI与机器人领域拥有超过17年研发设计经验，主导研发过多款新型机器人，曾任腾讯机器人实验室1号员工与架构师、百度小度机器人”团队负责人。 创业初期，来杰就",
+      "publishedAt": "2026-06-03T01:30:00Z",
+      "published_at": "2026-06-03T01:30:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
