@@ -1,110 +1,115 @@
 {
-  "generated_at": "2026-06-02T22:32:33Z",
-  "generatedAt": "2026-06-02T22:32:33Z",
+  "generated_at": "2026-06-03T12:55:38Z",
+  "generatedAt": "2026-06-03T12:55:38Z",
   "count": 22,
   "total": 22,
   "entries": [
     {
       "date": "2026-06-03",
-      "generated_at": "2026-06-02T22:32:33Z",
-      "generatedAt": "2026-06-02T22:32:33Z",
+      "generated_at": "2026-06-03T12:55:38Z",
+      "generatedAt": "2026-06-03T12:55:38Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "73be1432",
-          "title": "AI资讯更新：Fundraisly",
-          "title_en": "Fundraisly",
-          "url": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "72b9df63",
+          "title": "产品更新：InsForge Backen",
+          "title_en": "InsForge Backend Branching",
+          "url": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "AI fundraising agent that finds investors and",
-          "summary_zh": "AI fundraising agent that finds investors and",
-          "publishedAt": "2026-06-02T07:01:00Z",
-          "published_at": "2026-06-02T07:01:00Z",
-          "votes_count": 834,
+          "summary": "Git style branching for your backend Git-style",
+          "summary_zh": "Git style branching for your backend Git-style",
+          "publishedAt": "2026-06-03T07:01:00Z",
+          "published_at": "2026-06-03T07:01:00Z",
+          "votes_count": 225,
           "featured": true,
           "topics": [
             {
-              "id": "208",
-              "name": "Venture Capital",
-              "slug": "venture-capital"
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
             },
             {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
             {
-              "id": "791",
-              "name": "Fundraising",
-              "slug": "fundraising"
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
             }
           ],
           "score_details": null
         },
         {
-          "id": "523279e0",
-          "title": "AI资讯更新：Vokal",
-          "title_en": "Vokal",
-          "url": "https://www.producthunt.com/products/vokal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "98a43bec",
+          "title": "AI资讯更新：superlog",
+          "title_en": "superlog",
+          "url": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/vokal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "A collaboration space for 10x teammates with t",
-          "summary_zh": "A collaboration space for 10x teammates with t",
-          "publishedAt": "2026-06-02T07:01:00Z",
-          "published_at": "2026-06-02T07:01:00Z",
-          "votes_count": 355,
+          "summary": "Autonomous observability tool that finds & fix",
+          "summary_zh": "Autonomous observability tool that finds & fix",
+          "publishedAt": "2026-06-03T07:01:00Z",
+          "published_at": "2026-06-03T07:01:00Z",
+          "votes_count": 168,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
             },
             {
-              "id": "60",
-              "name": "Messaging",
-              "slug": "messaging"
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
             },
             {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
             }
           ],
           "score_details": null
         },
         {
-          "id": "65fc4c05",
-          "title": "产品更新：Gigacatalyst",
-          "title_en": "Gigacatalyst",
-          "url": "https://www.producthunt.com/products/gigacatalyst-ai-builder-for-b2b-saas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "e8c026fa",
+          "title": "产品更新：Elentaria",
+          "title_en": "Elentaria",
+          "url": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/gigacatalyst-ai-builder-for-b2b-saas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Give your Sales and CS teams engineering super",
-          "summary_zh": "Give your Sales and CS teams engineering super",
-          "publishedAt": "2026-06-02T07:01:00Z",
-          "published_at": "2026-06-02T07:01:00Z",
-          "votes_count": 294,
+          "summary": "Your GTM: from diagnosis to execution Elentari",
+          "summary_zh": "Your GTM: from diagnosis to execution Elentari",
+          "publishedAt": "2026-06-03T07:01:00Z",
+          "published_at": "2026-06-03T07:01:00Z",
+          "votes_count": 165,
           "featured": true,
           "topics": [
             {
@@ -113,14 +118,9 @@
               "slug": "sales"
             },
             {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
             }
           ],
           "score_details": null
