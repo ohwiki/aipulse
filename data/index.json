@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-06-04T11:31:11Z",
-  "generatedAt": "2026-06-04T11:31:11Z",
-  "count": 23,
-  "total": 23,
+  "generated_at": "2026-06-04T21:59:05Z",
+  "generatedAt": "2026-06-04T21:59:05Z",
+  "count": 24,
+  "total": 24,
   "entries": [
+    {
+      "date": "2026-06-05",
+      "generated_at": "2026-06-04T21:59:05Z",
+      "generatedAt": "2026-06-04T21:59:05Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "88ef72f4",
+          "title": "产品更新：Mailwarm 2.0",
+          "title_en": "Mailwarm 2.0",
+          "url": "https://www.producthunt.com/products/mailwarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/mailwarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The email warmup tool, upgraded for deliverabi",
+          "summary_zh": "The email warmup tool, upgraded for deliverabi",
+          "publishedAt": "2026-06-04T07:01:00Z",
+          "published_at": "2026-06-04T07:01:00Z",
+          "votes_count": 464,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "128",
+              "name": "Email Marketing",
+              "slug": "email-marketing"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "dd38cc0d",
+          "title": "AI资讯更新：Astra Autonom",
+          "title_en": "Astra Autonomous Pentest",
+          "url": "https://www.producthunt.com/products/astra-security?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/astra-security?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI agents that find, validate, and fix every v",
+          "summary_zh": "AI agents that find, validate, and fix every v",
+          "publishedAt": "2026-06-04T07:01:00Z",
+          "published_at": "2026-06-04T07:01:00Z",
+          "votes_count": 302,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e6700457",
+          "title": "AI资讯更新：Empromptu AI",
+          "title_en": "Empromptu AI",
+          "url": "https://www.producthunt.com/products/empromptu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/empromptu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Train Fine Tuned Models With AI Apps You're Al",
+          "summary_zh": "Train Fine Tuned Models With AI Apps You're Al",
+          "publishedAt": "2026-06-04T07:01:00Z",
+          "published_at": "2026-06-04T07:01:00Z",
+          "votes_count": 245,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-04",
       "generated_at": "2026-06-04T11:31:11Z",
