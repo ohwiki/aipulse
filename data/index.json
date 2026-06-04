@@ -1,40 +1,73 @@
 {
-  "generated_at": "2026-06-03T22:35:58Z",
-  "generatedAt": "2026-06-03T22:35:58Z",
+  "generated_at": "2026-06-04T11:31:11Z",
+  "generatedAt": "2026-06-04T11:31:11Z",
   "count": 23,
   "total": 23,
   "entries": [
     {
       "date": "2026-06-04",
-      "generated_at": "2026-06-03T22:35:58Z",
-      "generatedAt": "2026-06-03T22:35:58Z",
-      "total": 8,
+      "generated_at": "2026-06-04T11:31:11Z",
+      "generatedAt": "2026-06-04T11:31:11Z",
+      "total": 6,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "72b9df63",
-          "title": "产品更新：InsForge Backen",
-          "title_en": "InsForge Backend Branching",
-          "url": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "88ef72f4",
+          "title": "产品更新：Mailwarm 2.0 (Y",
+          "title_en": "Mailwarm 2.0 (YC S20)",
+          "url": "https://www.producthunt.com/products/mailwarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/mailwarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Git style branching for your backend Git-style",
-          "summary_zh": "Git style branching for your backend Git-style",
-          "publishedAt": "2026-06-03T07:01:00Z",
-          "published_at": "2026-06-03T07:01:00Z",
-          "votes_count": 378,
+          "summary": "The email warmup tool, upgraded for deliverabi",
+          "summary_zh": "The email warmup tool, upgraded for deliverabi",
+          "publishedAt": "2026-06-04T07:01:00Z",
+          "published_at": "2026-06-04T07:01:00Z",
+          "votes_count": 234,
           "featured": true,
           "topics": [
             {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "128",
+              "name": "Email Marketing",
+              "slug": "email-marketing"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "dd38cc0d",
+          "title": "AI资讯更新：Astra Autonom",
+          "title_en": "Astra Autonomous Pentest",
+          "url": "https://www.producthunt.com/products/astra-security?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/astra-security?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI agents that find, validate, and fix every v",
+          "summary_zh": "AI agents that find, validate, and fix every v",
+          "publishedAt": "2026-06-04T07:01:00Z",
+          "published_at": "2026-06-04T07:01:00Z",
+          "votes_count": 130,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
             },
             {
               "id": "267",
@@ -42,87 +75,33 @@
               "slug": "developer-tools"
             },
             {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
             }
           ],
           "score_details": null
         },
         {
-          "id": "98a43bec",
-          "title": "AI资讯更新：superlog",
-          "title_en": "superlog",
-          "url": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "d6cb5137",
+          "title": "刚刚，李飞飞亲自下场定义世界模型",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/428752.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Make your product bug-free Superlog is an open",
-          "summary_zh": "Make your product bug-free Superlog is an open",
-          "publishedAt": "2026-06-03T07:01:00Z",
-          "published_at": "2026-06-03T07:01:00Z",
-          "votes_count": 340,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "247",
-              "name": "Software Engineering",
-              "slug": "software-engineering"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "e8c026fa",
-          "title": "产品更新：Elentaria",
-          "title_en": "Elentaria",
-          "url": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Your GTM: from diagnosis to execution Elentari",
-          "summary_zh": "Your GTM: from diagnosis to execution Elentari",
-          "publishedAt": "2026-06-03T07:01:00Z",
-          "published_at": "2026-06-03T07:01:00Z",
-          "votes_count": 318,
-          "featured": true,
-          "topics": [
-            {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/428752.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "刚刚，李飞飞亲自下场定义世界模型  鱼羊 2026-06-04 08:44:04  来源：量子位   渲染、模拟、规划，三大功能的边界正在消融   鱼羊 发自 凹非寺 量子位 | 公众号 QbitAI  世界模型火，火到都有点乱了。 单单一个定义，就越来越众说纷纭：视频生成模型可以是世界模型，能生成游戏的语言模型也被叫世界模型，还有人把物理引擎也塞进这个筐里…… 乱，乱得李飞飞本人都有点看不下去了。刚刚，她亲自撰文，给世界模型来了个清晰的功能分类。    用词毫不客气：世界模型是当今人工智能领域最重要也最被滥用的术语之一。  古希腊人无法就世界的构成达成共识，因为“世界”从来不是一个单一的实体。人工智能也继承了同样的问题，而此时，这个领域恰恰最需要的就是精准性。  至少，要先分清三件事： 渲染、模拟、规划。 话不多说，赶紧一起来做笔记。 世界模型的三大功能 李飞飞首先拆析了世界模型的技术意义。 智能体（人、机器人或系统）会采取行动，这些行动会影响世界的状态。 所谓“状态”，是对某一特定时刻世界所发生的一切的完整描述，包括每一个物体、每一个位置、每一个速度和每一个属性。 观察是主体对这种",
+          "summary_zh": "刚刚，李飞飞亲自下场定义世界模型  鱼羊 2026-06-04 08:44:04  来源：量子位   渲染、模拟、规划，三大功能的边界正在消融   鱼羊 发自 凹非寺 量子位 | 公众号 QbitAI  世界模型火，火到都有点乱了。 单单一个定义，就越来越众说纷纭：视频生成模型可以是世界模型，能生成游戏的语言模型也被叫世界模型，还有人把物理引擎也塞进这个筐里…… 乱，乱得李飞飞本人都有点看不下去了。刚刚，她亲自撰文，给世界模型来了个清晰的功能分类。    用词毫不客气：世界模型是当今人工智能领域最重要也最被滥用的术语之一。  古希腊人无法就世界的构成达成共识，因为“世界”从来不是一个单一的实体。人工智能也继承了同样的问题，而此时，这个领域恰恰最需要的就是精准性。  至少，要先分清三件事： 渲染、模拟、规划。 话不多说，赶紧一起来做笔记。 世界模型的三大功能 李飞飞首先拆析了世界模型的技术意义。 智能体（人、机器人或系统）会采取行动，这些行动会影响世界的状态。 所谓“状态”，是对某一特定时刻世界所发生的一切的完整描述，包括每一个物体、每一个位置、每一个速度和每一个属性。 观察是主体对这种",
+          "publishedAt": "2026-06-04T00:44:04Z",
+          "published_at": "2026-06-04T00:44:04Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
