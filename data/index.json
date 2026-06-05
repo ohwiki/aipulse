@@ -1,111 +1,40 @@
 {
-  "generated_at": "2026-06-04T21:59:05Z",
-  "generatedAt": "2026-06-04T21:59:05Z",
+  "generated_at": "2026-06-05T11:41:49Z",
+  "generatedAt": "2026-06-05T11:41:49Z",
   "count": 24,
   "total": 24,
   "entries": [
     {
       "date": "2026-06-05",
-      "generated_at": "2026-06-04T21:59:05Z",
-      "generatedAt": "2026-06-04T21:59:05Z",
-      "total": 8,
+      "generated_at": "2026-06-05T11:41:49Z",
+      "generatedAt": "2026-06-05T11:41:49Z",
+      "total": 6,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "88ef72f4",
-          "title": "产品更新：Mailwarm 2.0",
-          "title_en": "Mailwarm 2.0",
-          "url": "https://www.producthunt.com/products/mailwarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "1a9bc6a0",
+          "title": "产品更新：Leni",
+          "title_en": "Leni",
+          "url": "https://www.producthunt.com/products/leni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/mailwarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/leni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "The email warmup tool, upgraded for deliverabi",
-          "summary_zh": "The email warmup tool, upgraded for deliverabi",
-          "publishedAt": "2026-06-04T07:01:00Z",
-          "published_at": "2026-06-04T07:01:00Z",
-          "votes_count": 464,
+          "summary": "The world’s most accurate AI for investors Len",
+          "summary_zh": "The world’s most accurate AI for investors Len",
+          "publishedAt": "2026-06-05T07:01:00Z",
+          "published_at": "2026-06-05T07:01:00Z",
+          "votes_count": 216,
           "featured": true,
           "topics": [
             {
-              "id": "39",
-              "name": "Email",
-              "slug": "email"
-            },
-            {
-              "id": "128",
-              "name": "Email Marketing",
-              "slug": "email-marketing"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "dd38cc0d",
-          "title": "AI资讯更新：Astra Autonom",
-          "title_en": "Astra Autonomous Pentest",
-          "url": "https://www.producthunt.com/products/astra-security?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/astra-security?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI agents that find, validate, and fix every v",
-          "summary_zh": "AI agents that find, validate, and fix every v",
-          "publishedAt": "2026-06-04T07:01:00Z",
-          "published_at": "2026-06-04T07:01:00Z",
-          "votes_count": 302,
-          "featured": true,
-          "topics": [
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "865",
-              "name": "Security",
-              "slug": "security"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "e6700457",
-          "title": "AI资讯更新：Empromptu AI",
-          "title_en": "Empromptu AI",
-          "url": "https://www.producthunt.com/products/empromptu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/empromptu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Train Fine Tuned Models With AI Apps You're Al",
-          "summary_zh": "Train Fine Tuned Models With AI Apps You're Al",
-          "publishedAt": "2026-06-04T07:01:00Z",
-          "published_at": "2026-06-04T07:01:00Z",
-          "votes_count": 245,
-          "featured": true,
-          "topics": [
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "203",
+              "name": "Investing",
+              "slug": "investing"
             },
             {
               "id": "268",
@@ -113,11 +42,71 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "470",
-              "name": "No-Code",
-              "slug": "no-code"
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
             }
           ],
+          "score_details": null
+        },
+        {
+          "id": "1c9c8b2c",
+          "title": "AI资讯更新：Minimi",
+          "title_en": "Minimi",
+          "url": "https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your ambient memory for Claude Every great Cla",
+          "summary_zh": "Your ambient memory for Claude Every great Cla",
+          "publishedAt": "2026-06-05T07:01:00Z",
+          "published_at": "2026-06-05T07:01:00Z",
+          "votes_count": 172,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "243abb07",
+          "title": "阶跃Step 3.7 Flash登顶AA榜：速度、性价比、端到端三项第一",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/429294.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/429294.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "阶跃Step 3.7 Flash登顶AA榜：速度、性价比、端到端三项第一  闻乐 2026-06-05 14:12:16  来源：量子位   不仅快，还省钱   听雨 闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  OpenRouter Trending榜单冷不丁窜出一匹国产黑马，热度暴涨稳居全球第二。 定睛一看，原来是阶跃星辰新发的Step 3.7 Flash。 再一看，不只OpenRouter，这个新模型在AA榜那边也顺手拿了几个第一； 在HuggingFace上开源之后的下载量和讨论也一直没降过温。 这我是真好奇，这新模型到底火在哪了。 于是咱去感受了一波，手把手教我用Blender这种专业3D软件就算了； 视频地址：https://mp.weixin.qq.com/s/zn_aAddIi3SsccMowCVjHg 它居然还直接带我开飞机，没错，是真的大飞机！！ 仪表盘、操纵杆、飞行参数…它一边看屏幕一边讲下一步该按哪个按钮。 视频地址：https://mp.weixin.qq.com/s/zn_aAddIi3SsccMowCVjHg 当然了，教我开飞机只是节目效果，重点",
+          "summary_zh": "阶跃Step 3.7 Flash登顶AA榜：速度、性价比、端到端三项第一  闻乐 2026-06-05 14:12:16  来源：量子位   不仅快，还省钱   听雨 闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  OpenRouter Trending榜单冷不丁窜出一匹国产黑马，热度暴涨稳居全球第二。 定睛一看，原来是阶跃星辰新发的Step 3.7 Flash。 再一看，不只OpenRouter，这个新模型在AA榜那边也顺手拿了几个第一； 在HuggingFace上开源之后的下载量和讨论也一直没降过温。 这我是真好奇，这新模型到底火在哪了。 于是咱去感受了一波，手把手教我用Blender这种专业3D软件就算了； 视频地址：https://mp.weixin.qq.com/s/zn_aAddIi3SsccMowCVjHg 它居然还直接带我开飞机，没错，是真的大飞机！！ 仪表盘、操纵杆、飞行参数…它一边看屏幕一边讲下一步该按哪个按钮。 视频地址：https://mp.weixin.qq.com/s/zn_aAddIi3SsccMowCVjHg 当然了，教我开飞机只是节目效果，重点",
+          "publishedAt": "2026-06-05T06:12:16Z",
+          "published_at": "2026-06-05T06:12:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
