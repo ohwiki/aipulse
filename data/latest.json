@@ -1,10 +1,48 @@
 {
-  "generated_at": "2026-06-05T11:41:49Z",
-  "generatedAt": "2026-06-05T11:41:49Z",
+  "generated_at": "2026-06-05T21:52:10Z",
+  "generatedAt": "2026-06-05T21:52:10Z",
   "days": 7,
-  "total": 6,
-  "count": 6,
+  "total": 8,
+  "count": 8,
   "items": [
+    {
+      "id": "1c9c8b2c",
+      "title": "AI资讯更新：Minimi",
+      "title_en": "Minimi",
+      "url": "https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your ambient memory for Claude Every great Cla",
+      "summary_zh": "Your ambient memory for Claude Every great Cla",
+      "publishedAt": "2026-06-05T07:01:00Z",
+      "published_at": "2026-06-05T07:01:00Z",
+      "votes_count": 347,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "1a9bc6a0",
       "title": "产品更新：Leni",
@@ -22,7 +60,7 @@
       "summary_zh": "The world’s most accurate AI for investors Len",
       "publishedAt": "2026-06-05T07:01:00Z",
       "published_at": "2026-06-05T07:01:00Z",
-      "votes_count": 216,
+      "votes_count": 336,
       "featured": true,
       "topics": [
         {
@@ -44,39 +82,82 @@
       "score_details": null
     },
     {
-      "id": "1c9c8b2c",
-      "title": "AI资讯更新：Minimi",
-      "title_en": "Minimi",
-      "url": "https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "c01eda7b",
+      "title": "产品更新：Veltrix AI",
+      "title_en": "Veltrix AI",
+      "url": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Your ambient memory for Claude Every great Cla",
-      "summary_zh": "Your ambient memory for Claude Every great Cla",
+      "summary": "AI finance copilot for cash flow, margins, and",
+      "summary_zh": "AI finance copilot for cash flow, margins, and",
       "publishedAt": "2026-06-05T07:01:00Z",
       "published_at": "2026-06-05T07:01:00Z",
-      "votes_count": 172,
+      "votes_count": 257,
       "featured": true,
       "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
         {
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
         },
         {
-          "id": "352",
-          "name": "Tech",
-          "slug": "tech"
+          "id": "582",
+          "name": "Data & Analytics",
+          "slug": "data-analytics"
+        },
+        {
+          "id": "771",
+          "name": "Data",
+          "slug": "data"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "0257e806",
+      "title": "产品更新：Ideogram 4.0",
+      "title_en": "Ideogram 4.0",
+      "url": "https://www.producthunt.com/products/ideogram-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ideogram-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Generate design-ready image with open weight,",
+      "summary_zh": "Generate design-ready image with open weight,",
+      "publishedAt": "2026-06-05T07:01:00Z",
+      "published_at": "2026-06-05T07:01:00Z",
+      "votes_count": 197,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
         }
       ],
       "score_details": null
@@ -116,8 +197,8 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新���下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代、独家数据收集平台建设以及加速产业化落地。 百曜科技是36氪持续追踪报道的企业（附链接），公司创始团队依托中国科学院动物研究所、北京干细胞与再生医学研究院的科研资源，自2023年起开始构建AI虚拟细胞基础大模型，以实现细胞行为和状态变化的精准分析及预测，并持续推进AIVC模型升级和产业化落地实践。 2026年来，AI制药赛道的融资热情持续高涨，且行业关注点正逐步从早期的分子筛选单点突破，逐步转向更深层的细胞级生命系统建模和动态模拟。与聚焦于分子构型优化的AI药物发现不同，AIVC的价值可覆盖药物开发全生命周期：从疾病机制解析、靶点发现、候选药物虚拟筛选、临床前药效与毒性预测，到临床患者分层，其核心突破在于将AI建模层级从“分子”提升至“细胞”，直接模拟生命系统对外界干预的动态响应。 AIVC基于海量单细胞多",
-      "summary_zh": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新���下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代、独家数据收集平台建设以及加速产业化落地。 百曜科技是36氪持续追踪报道的企业（附链接），公司创始团队依托中国科学院动物研究所、北京干细胞与再生医学研究院的科研资源，自2023年起开始构建AI虚拟细胞基础大模型，以实现细胞行为和状态变化的精准分析及预测，并持续推进AIVC模型升级和产业化落地实践。 2026年来，AI制药赛道的融资热情持续高涨，且行业关注点正逐步从早期的分子筛选单点突破，逐步转向更深层的细胞级生命系统建模和动态模拟。与聚焦于分子构型优化的AI药物发现不同，AIVC的价值可覆盖药物开发全生命周期：从疾病机制解析、靶点发现、候选药物虚拟筛选、临床前药效与毒性预测，到临床患者分层，其核心突破在于将AI建模层级从“分子”提升至“细胞”，直接模拟生命系统对外界干预的动态响应。 AIVC基于海量单细胞多",
+      "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新旗下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代、独家数据收集平台建设以及加速产业化落地。 百曜科技是36氪持续追踪报道的企业（附链接），公司创始团队依托中国科学院动物研究所、北京干细胞与再生医学研究院的科研资源，自2023年起开始构建AI虚拟细胞基础大模型，以实现细胞行为和状态变化的精准分析及预测，并持续推进AIVC模型升级和产业化落地实践。 2026年来，AI制药赛道的融资热情持续高涨，且行业关注点正逐步从早期的分子筛选单点突破，逐步转向更深层的细胞级生命系统建模和动态模拟。与聚焦于分子构型优化的AI药物发现不同，AIVC的价值可覆盖药物开发全生命周期：从疾病机制解析、靶点发现、候选药物虚拟筛选、临床前药效与毒性预测，到临床患者分层，其核心突破在于将AI建模层级从“分子”提升至“细胞”，直接模拟生命系统对外界干预的动态响应。 AIVC基于海量单细胞多组学",
+      "summary_zh": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新旗下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代、独家数据收集平台建设以及加速产业化落地。 百曜科技是36氪持续追踪报道的企业（附链接），公司创始团队依托中国科学院动物研究所、北京干细胞与再生医学研究院的科研资源，自2023年起开始构建AI虚拟细胞基础大模型，以实现细胞行为和状态变化的精准分析及预测，并持续推进AIVC模型升级和产业化落地实践。 2026年来，AI制药赛道的融资热情持续高涨，且行业关注点正逐步从早期的分子筛选单点突破，逐步转向更深层的细胞级生命系统建模和动态模拟。与聚焦于分子构型优化的AI药物发现不同，AIVC的价值可覆盖药物开发全生命周期：从疾病机制解析、靶点发现、候选药物虚拟筛选、临床前药效与毒性预测，到临床患者分层，其核心突破在于将AI建模层级从“分子”提升至“细胞”，直接模拟生命系统对外界干预的动态响应。 AIVC基于海量单细胞多组学",
       "publishedAt": "2026-06-05T00:30:00Z",
       "published_at": "2026-06-05T00:30:00Z",
       "votes_count": null,
@@ -148,22 +229,22 @@
       "score_details": null
     },
     {
-      "id": "243abb07",
-      "title": "阶跃Step 3.7 Flash登顶AA榜：速度、性价比、端到端三项第一",
+      "id": "1d44b194",
+      "title": "全球首个机器人训练楼盘开盘：30万套中国住宅，机器人拎包入住",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/06/429294.html",
+      "url": "https://www.qbitai.com/2026/06/429349.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/06/429294.html",
+      "sourceUrl": "https://www.qbitai.com/2026/06/429349.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "阶跃Step 3.7 Flash登顶AA榜：速度、性价比、端到端三项第一  闻乐 2026-06-05 14:12:16  来源：量子位   不仅快，还省钱   听雨 闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  OpenRouter Trending榜单冷不丁窜出一匹国产黑马，热度暴涨稳居全球第二。 定睛一看，原来是阶跃星辰新发的Step 3.7 Flash。 再一看，不只OpenRouter，这个新模型在AA榜那边也顺手拿了几个第一； 在HuggingFace上开源之后的下载量和讨论也一直没降过温。 这我是真好奇，这新模型到底火在哪了。 于是咱去感受了一波，手把手教我用Blender这种专业3D软件就算了； 视频地址：https://mp.weixin.qq.com/s/zn_aAddIi3SsccMowCVjHg 它居然还直接带我开飞机，没错，是真的大飞机！！ 仪表盘、操纵杆、飞行参数…它一边看屏幕一边讲下一步该按哪个按钮。 视频地址：https://mp.weixin.qq.com/s/zn_aAddIi3SsccMowCVjHg 当然了，教我开飞机只是节目效果，重点",
-      "summary_zh": "阶跃Step 3.7 Flash登顶AA榜：速度、性价比、端到端三项第一  闻乐 2026-06-05 14:12:16  来源：量子位   不仅快，还省钱   听雨 闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  OpenRouter Trending榜单冷不丁窜出一匹国产黑马，热度暴涨稳居全球第二。 定睛一看，原来是阶跃星辰新发的Step 3.7 Flash。 再一看，不只OpenRouter，这个新模型在AA榜那边也顺手拿了几个第一； 在HuggingFace上开源之后的下载量和讨论也一直没降过温。 这我是真好奇，这新模型到底火在哪了。 于是咱去感受了一波，手把手教我用Blender这种专业3D软件就算了； 视频地址：https://mp.weixin.qq.com/s/zn_aAddIi3SsccMowCVjHg 它居然还直接带我开飞机，没错，是真的大飞机！！ 仪表盘、操纵杆、飞行参数…它一边看屏幕一边讲下一步该按哪个按钮。 视频地址：https://mp.weixin.qq.com/s/zn_aAddIi3SsccMowCVjHg 当然了，教我开飞机只是节目效果，重点",
-      "publishedAt": "2026-06-05T06:12:16Z",
-      "published_at": "2026-06-05T06:12:16Z",
+      "summary": "全球首个机器人训练楼盘开盘：30万套中国住宅，机器人拎包入住  henry 2026-06-05 14:33:37  来源：量子位   具身智能的房地产开发商来了！   henry 发自 凹非寺 量子位 | 公众号 QbitAI  什么？ 一觉睡醒，具身智能公司竟然也开始搞房地产了？！ 刚刚，大晓机器人联合港中文MMLab发布了一个新项目—— Kairos-Homeworld，全球首个实现全屋三维生成与物体级全交互的统一框架。 它干了一件颇有点“房地产商”味道的事：第一次把30万套中国真实住宅户型，搬进了数字世界。  不过可千万别误会。 Kairos-Homeworld不是给「找房APP」看房的，而是给「具身智能机器人」训练的仿真环境。 从30平米一居室到200平米大平层，从南北通透到封闭式厨房，从干湿分离卫生间到独立生活阳台，统统变成了机器人用来训练的3D仿真环境。 更有意思的是，Kairos-Homeworld并不单纯是一个数据集，它还是一个能够自动“盖房子”的模拟器。 只消一句话，系统就能自动生成完整的中国家庭仿真环境，并支持机器人开展导航、多房间整理以及各类家务任务训练。 而且",
+      "summary_zh": "全球首个机器人训练楼盘开盘：30万套中国住宅，机器人拎包入住  henry 2026-06-05 14:33:37  来源：量子位   具身智能的房地产开发商来了！   henry 发自 凹非寺 量子位 | 公众号 QbitAI  什么？ 一觉睡醒，具身智能公司竟然也开始搞房地产了？！ 刚刚，大晓机器人联合港中文MMLab发布了一个新项目—— Kairos-Homeworld，全球首个实现全屋三维生成与物体级全交互的统一框架。 它干了一件颇有点“房地产商”味道的事：第一次把30万套中国真实住宅户型，搬进了数字世界。  不过可千万别误会。 Kairos-Homeworld不是给「找房APP」看房的，而是给「具身智能机器人」训练的仿真环境。 从30平米一居室到200平米大平层，从南北通透到封闭式厨房，从干湿分离卫生间到独立生活阳台，统统变成了机器人用来训练的3D仿真环境。 更有意思的是，Kairos-Homeworld并不单纯是一个数据集，它还是一个能够自动“盖房子”的模拟器。 只消一句话，系统就能自动生成完整的中国家庭仿真环境，并支持机器人开展导航、多房间整理以及各类家务任务训练。 而且",
+      "publishedAt": "2026-06-05T06:33:37Z",
+      "published_at": "2026-06-05T06:33:37Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

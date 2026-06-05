@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-06-05T11:41:49Z",
-  "generatedAt": "2026-06-05T11:41:49Z",
-  "count": 24,
-  "total": 24,
+  "generated_at": "2026-06-05T21:52:10Z",
+  "generatedAt": "2026-06-05T21:52:10Z",
+  "count": 25,
+  "total": 25,
   "entries": [
+    {
+      "date": "2026-06-06",
+      "generated_at": "2026-06-05T21:52:10Z",
+      "generatedAt": "2026-06-05T21:52:10Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "1c9c8b2c",
+          "title": "AI资讯更新：Minimi",
+          "title_en": "Minimi",
+          "url": "https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your ambient memory for Claude Every great Cla",
+          "summary_zh": "Your ambient memory for Claude Every great Cla",
+          "publishedAt": "2026-06-05T07:01:00Z",
+          "published_at": "2026-06-05T07:01:00Z",
+          "votes_count": 347,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1a9bc6a0",
+          "title": "产品更新：Leni",
+          "title_en": "Leni",
+          "url": "https://www.producthunt.com/products/leni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/leni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The world’s most accurate AI for investors Len",
+          "summary_zh": "The world’s most accurate AI for investors Len",
+          "publishedAt": "2026-06-05T07:01:00Z",
+          "published_at": "2026-06-05T07:01:00Z",
+          "votes_count": 336,
+          "featured": true,
+          "topics": [
+            {
+              "id": "203",
+              "name": "Investing",
+              "slug": "investing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c01eda7b",
+          "title": "产品更新：Veltrix AI",
+          "title_en": "Veltrix AI",
+          "url": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI finance copilot for cash flow, margins, and",
+          "summary_zh": "AI finance copilot for cash flow, margins, and",
+          "publishedAt": "2026-06-05T07:01:00Z",
+          "published_at": "2026-06-05T07:01:00Z",
+          "votes_count": 257,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
+            },
+            {
+              "id": "771",
+              "name": "Data",
+              "slug": "data"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-05",
       "generated_at": "2026-06-05T11:41:49Z",
