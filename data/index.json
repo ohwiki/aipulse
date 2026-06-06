@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-06-06T10:30:00Z",
-  "generatedAt": "2026-06-06T10:30:00Z",
-  "count": 25,
-  "total": 25,
+  "generated_at": "2026-06-06T21:35:04Z",
+  "generatedAt": "2026-06-06T21:35:04Z",
+  "count": 26,
+  "total": 26,
   "entries": [
+    {
+      "date": "2026-06-07",
+      "generated_at": "2026-06-06T21:35:04Z",
+      "generatedAt": "2026-06-06T21:35:04Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "7a45f7f7",
+          "title": "产品更新：Google Search P",
+          "title_en": "Google Search Profiles",
+          "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Profile for publishers/creators to highlight w",
+          "summary_zh": "Profile for publishers/creators to highlight w",
+          "publishedAt": "2026-06-06T07:01:00Z",
+          "published_at": "2026-06-06T07:01:00Z",
+          "votes_count": 279,
+          "featured": true,
+          "topics": [
+            {
+              "id": "50",
+              "name": "News",
+              "slug": "news"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            },
+            {
+              "id": "361",
+              "name": "Search",
+              "slug": "search"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c56976b8",
+          "title": "产品更新：Manus Shopify C",
+          "title_en": "Manus Shopify Connector",
+          "url": "https://www.producthunt.com/products/manus-shopify-connector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/manus-shopify-connector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build and manage Shopify stores from one chat",
+          "summary_zh": "Build and manage Shopify stores from one chat",
+          "publishedAt": "2026-06-06T07:01:00Z",
+          "published_at": "2026-06-06T07:01:00Z",
+          "votes_count": 187,
+          "featured": true,
+          "topics": [
+            {
+              "id": "93",
+              "name": "User Experience",
+              "slug": "user-experience"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "be2016e8",
+          "title": "产品更新：MAI-Image-2.5",
+          "title_en": "MAI-Image-2.5",
+          "url": "https://www.producthunt.com/products/mai-image-2-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/mai-image-2-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Generate and edit images with precise scene co",
+          "summary_zh": "Generate and edit images with precise scene co",
+          "publishedAt": "2026-06-06T07:01:00Z",
+          "published_at": "2026-06-06T07:01:00Z",
+          "votes_count": 170,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "251",
+              "name": "Photography",
+              "slug": "photography"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-06",
       "generated_at": "2026-06-06T10:30:00Z",

@@ -1,0 +1,503 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-06T21:35:04Z",
+  "generatedAt": "2026-06-06T21:35:04Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "7a45f7f7",
+          "title": "产品更新：Google Search P",
+          "title_en": "Google Search Profiles",
+          "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Profile for publishers/creators to highlight w",
+          "summary_zh": "Profile for publishers/creators to highlight w",
+          "publishedAt": "2026-06-06T07:01:00Z",
+          "published_at": "2026-06-06T07:01:00Z",
+          "votes_count": 279,
+          "featured": true,
+          "topics": [
+            {
+              "id": "50",
+              "name": "News",
+              "slug": "news"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            },
+            {
+              "id": "361",
+              "name": "Search",
+              "slug": "search"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c56976b8",
+          "title": "产品更新：Manus Shopify C",
+          "title_en": "Manus Shopify Connector",
+          "url": "https://www.producthunt.com/products/manus-shopify-connector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/manus-shopify-connector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Build and manage Shopify stores from one chat",
+          "summary_zh": "Build and manage Shopify stores from one chat",
+          "publishedAt": "2026-06-06T07:01:00Z",
+          "published_at": "2026-06-06T07:01:00Z",
+          "votes_count": 187,
+          "featured": true,
+          "topics": [
+            {
+              "id": "93",
+              "name": "User Experience",
+              "slug": "user-experience"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "be2016e8",
+          "title": "产品更新：MAI-Image-2.5",
+          "title_en": "MAI-Image-2.5",
+          "url": "https://www.producthunt.com/products/mai-image-2-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/mai-image-2-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Generate and edit images with precise scene co",
+          "summary_zh": "Generate and edit images with precise scene co",
+          "publishedAt": "2026-06-06T07:01:00Z",
+          "published_at": "2026-06-06T07:01:00Z",
+          "votes_count": 170,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "251",
+              "name": "Photography",
+              "slug": "photography"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ea2c76dc",
+          "title": "产品更新：QWERTYS",
+          "title_en": "QWERTYS",
+          "url": "https://www.producthunt.com/products/qwertys?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/qwertys?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "My keyboard fell apart. Now it's your problem.",
+          "summary_zh": "My keyboard fell apart. Now it's your problem.",
+          "publishedAt": "2026-06-06T07:01:00Z",
+          "published_at": "2026-06-06T07:01:00Z",
+          "votes_count": 129,
+          "featured": true,
+          "topics": [
+            {
+              "id": "54",
+              "name": "Custom Keyboards",
+              "slug": "custom-keyboards"
+            },
+            {
+              "id": "150",
+              "name": "Puzzle Games",
+              "slug": "puzzle-games"
+            },
+            {
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "6b0f289b",
+          "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+          "title_en": null,
+          "url": "https://36kr.com/p/3840996342073604?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3840996342073604?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览 SpaceX据悉将其IPO的日本融资目标提高至25亿美元 二手房挂牌量回落新房库存下降，楼市供需关系向好 B站宣布启动AI创造公开赛 TOP3大新闻 数据显示，豆包推出付费后月活减少610万  据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以来该应用罕见的下滑。Aicpb.com创始人李邦竹表示：“中国的免费人工智能服务时代还远未结束，所以豆包的商业化可能确实为时过早。”  有分析人士认为，字节跳动过早地将盈利模式商业化，可能会使其在中国竞争激烈的消费人工智能市场中失去领先地位。此前，其旗舰聊天机器人豆包在试水付费订阅模式后流失了数百万用户。（南华早报） Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险   据《华尔街日报》，AI创业公司Anthropic呼吁全球顶尖AI实验室考虑放缓研发步伐，理由是当前AI系统进步太快，可能很快就能在无需人类干预的情况下自我改进，从而带来重大的社会风险。 Anthropic周四在一篇博客文章中表示，如果能够放缓全",
+          "summary_zh": "今日热点导览 SpaceX据悉将其IPO的日本融资目标提高至25亿美元 二手房挂牌量回落新房库存下降，楼市供需关系向好 B站宣布启动AI创造公开赛 TOP3大新闻 数据显示，豆包推出付费后月活减少610万  据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以来该应用罕见的下滑。Aicpb.com创始人李邦竹表示：“中国的免费人工智能服务时代还远未结束，所以豆包的商业化可能确实为时过早。”  有分析人士认为，字节跳动过早地将盈利模式商业化，可能会使其在中国竞争激烈的消费人工智能市场中失去领先地位。此前，其旗舰聊天机器人豆包在试水付费订阅模式后流失了数百万用户。（南华早报） Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险   据《华尔街日报》，AI创业公司Anthropic呼吁全球顶尖AI实验室考虑放缓研发步伐，理由是当前AI系统进步太快，可能很快就能在无需人类干预的情况下自我改进，从而带来重大的社会风险。 Anthropic周四在一篇博客文章中表示，如果能够放缓全",
+          "publishedAt": "2026-06-06T01:07:19Z",
+          "published_at": "2026-06-06T01:07:19Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "6fb4e4ab",
+          "title": "港股鞋王千百度，一夜完成AI数据公司转型",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/431056.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/431056.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "港股鞋王千百度，一夜完成AI数据公司转型  思邈 2026-06-06 11:35:47  来源：量子位   形成「鞋履+人工智能数据」双主业   允中 发自 凹非寺 量子位 | 公众号 QbitAI  一家港股鞋履公司，买下了一家给大模型“喂数据”的公司。 千百度（1028.HK）6月5日宣布，将通过收购股权并认购新股，取得国内领先AI数据服务商本原智数的控股权益，并纳入合并报表，形成「鞋履+人工智能数据」双主业。 为什么是数据？ 当公开数据被大模型逐渐消化，AI的关键瓶颈正从“谁的模型更大”，转向“谁能持续提供更难、更真实的高质量数据”。 算力可以采购，算法可以复现，唯独这件事买不到、也快不了。 2025年Meta以约290亿美元估值入股Scale AI，正是市场对这一判断的重新定价。 本原智数的稀缺，在于它的位置和它的盈利。 其成立于2015年，处于AI产业链上游，是国内少数同时具备大模型、世界模型与具身智能完整数据服务能力的供应商之一； 此外，本原智数服务头部大模型厂商、一线互联网平台与领先具身智能企业，并在若干高价值数据品类上担任独家供应商。 数据显示，2025年本原智数收入",
+          "summary_zh": "港股鞋王千百度，一夜完成AI数据公司转型  思邈 2026-06-06 11:35:47  来源：量子位   形成「鞋履+人工智能数据」双主业   允中 发自 凹非寺 量子位 | 公众号 QbitAI  一家港股鞋履公司，买下了一家给大模型“喂数据”的公司。 千百度（1028.HK）6月5日宣布，将通过收购股权并认购新股，取得国内领先AI数据服务商本原智数的控股权益，并纳入合并报表，形成「鞋履+人工智能数据」双主业。 为什么是数据？ 当公开数据被大模型逐渐消化，AI的关键瓶颈正从“谁的模型更大”，转向“谁能持续提供更难、更真实的高质量数据”。 算力可以采购，算法可以复现，唯独这件事买不到、也快不了。 2025年Meta以约290亿美元估值入股Scale AI，正是市场对这一判断的重新定价。 本原智数的稀缺，在于它的位置和它的盈利。 其成立于2015年，处于AI产业链上游，是国内少数同时具备大模型、世界模型与具身智能完整数据服务能力的供应商之一； 此外，本原智数服务头部大模型厂商、一线互联网平台与领先具身智能企业，并在若干高价值数据品类上担任独家供应商。 数据显示，2025年本原智数收入",
+          "publishedAt": "2026-06-06T03:35:47Z",
+          "published_at": "2026-06-06T03:35:47Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "35b8f9c7",
+          "title": "字节跳动：没有造车或推出汽车品牌的计划",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3841237523859972?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3841237523859972?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "6月6日，字节跳动官微发布声明，我们注意到，近期有部分报道将“赛豆”解读为“豆包汽车品牌”或“字节跳动造车”：1.相关说法不准确，字节跳动没有造车或推出汽车品牌的计划。2.赛豆不是字节跳动或豆包推出的汽车品牌，字节和赛豆没有股权合作。3.豆包、火山引擎与汽车行业伙伴的合作，主要是给行业伙伴提供豆包大模型、智能座舱等技术服务，帮助合作伙伴提升车载智能交互体验。（每日经济新闻）",
+          "summary_zh": "6月6日，字节跳动官微发布声明，我们注意到，近期有部分报道将“赛豆”解读为“豆包汽车品牌”或“字节跳动造车”：1.相关说法不准确，字节跳动没有造车或推出汽车品牌的计划。2.赛豆不是字节跳动或豆包推出的汽车品牌，字节和赛豆没有股权合作。3.豆包、火山引擎与汽车行业伙伴的合作，主要是给行业伙伴提供豆包大模型、智能座舱等技术服务，帮助合作伙伴提升车载智能交互体验。（每日经济新闻）",
+          "publishedAt": "2026-06-06T05:08:52Z",
+          "published_at": "2026-06-06T05:08:52Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "8a5c2074",
+          "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3841255177079303?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3841255177079303?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "由中国科学院海洋研究所自主研发的全球海洋现象智能预报大模型——“琅琊”2.0今日发布。该海洋预报大模型将为海洋防灾减灾、航运安全保障等提供智能化科技支撑。“琅琊”2.0把多源观测、机理认知和人工智能推理连接起来，推动海洋预报向更快速、更精细、更可交互方向发展。它的发布标志着“琅琊”系列大模型在全球海洋状态变量预报基础上，进一步迈向复杂海洋现象智能预报新阶段，使海洋预报从专业变量走向可感知、可应用、可决策的关键场景，将为海洋防灾减灾、航运安全保障、极地航行安全、全球气候变化应对等提供智能化科技支撑。 (央视新闻)",
+          "summary_zh": "由中国科学院海洋研究所自主研发的全球海洋现象智能预报大模型——“琅琊”2.0今日发布。该海洋预报大模型将为海洋防灾减灾、航运安全保障等提供智能化科技支撑。“琅琊”2.0把多源观测、机理认知和人工智能推理连接起来，推动海洋预报向更快速、更精细、更可交互方向发展。它的发布标志着“琅琊”系列大模型在全球海洋状态变量预报基础上，进一步迈向复杂海洋现象智能预报新阶段，使海洋预报从专业变量走向可感知、可应用、可决策的关键场景，将为海洋防灾减灾、航运安全保障、极地航行安全、全球气候变化应对等提供智能化科技支撑。 (央视新闻)",
+          "publishedAt": "2026-06-06T05:26:49Z",
+          "published_at": "2026-06-06T05:26:49Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "7a45f7f7",
+      "title": "产品更新：Google Search P",
+      "title_en": "Google Search Profiles",
+      "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Profile for publishers/creators to highlight w",
+      "summary_zh": "Profile for publishers/creators to highlight w",
+      "publishedAt": "2026-06-06T07:01:00Z",
+      "published_at": "2026-06-06T07:01:00Z",
+      "votes_count": 279,
+      "featured": true,
+      "topics": [
+        {
+          "id": "50",
+          "name": "News",
+          "slug": "news"
+        },
+        {
+          "id": "231",
+          "name": "SEO",
+          "slug": "seo"
+        },
+        {
+          "id": "361",
+          "name": "Search",
+          "slug": "search"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "c56976b8",
+      "title": "产品更新：Manus Shopify C",
+      "title_en": "Manus Shopify Connector",
+      "url": "https://www.producthunt.com/products/manus-shopify-connector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/manus-shopify-connector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build and manage Shopify stores from one chat",
+      "summary_zh": "Build and manage Shopify stores from one chat",
+      "publishedAt": "2026-06-06T07:01:00Z",
+      "published_at": "2026-06-06T07:01:00Z",
+      "votes_count": 187,
+      "featured": true,
+      "topics": [
+        {
+          "id": "93",
+          "name": "User Experience",
+          "slug": "user-experience"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "278",
+          "name": "E-Commerce",
+          "slug": "e-commerce"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "be2016e8",
+      "title": "产品更新：MAI-Image-2.5",
+      "title_en": "MAI-Image-2.5",
+      "url": "https://www.producthunt.com/products/mai-image-2-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/mai-image-2-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Generate and edit images with precise scene co",
+      "summary_zh": "Generate and edit images with precise scene co",
+      "publishedAt": "2026-06-06T07:01:00Z",
+      "published_at": "2026-06-06T07:01:00Z",
+      "votes_count": 170,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "251",
+          "name": "Photography",
+          "slug": "photography"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ea2c76dc",
+      "title": "产品更新：QWERTYS",
+      "title_en": "QWERTYS",
+      "url": "https://www.producthunt.com/products/qwertys?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/qwertys?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "My keyboard fell apart. Now it's your problem.",
+      "summary_zh": "My keyboard fell apart. Now it's your problem.",
+      "publishedAt": "2026-06-06T07:01:00Z",
+      "published_at": "2026-06-06T07:01:00Z",
+      "votes_count": 129,
+      "featured": true,
+      "topics": [
+        {
+          "id": "54",
+          "name": "Custom Keyboards",
+          "slug": "custom-keyboards"
+        },
+        {
+          "id": "150",
+          "name": "Puzzle Games",
+          "slug": "puzzle-games"
+        },
+        {
+          "id": "353",
+          "name": "Games",
+          "slug": "games"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6b0f289b",
+      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+      "title_en": null,
+      "url": "https://36kr.com/p/3840996342073604?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3840996342073604?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览 SpaceX据悉将其IPO的日本融资目标提高至25亿美元 二手房挂牌量回落新房库存下降，楼市供需关系向好 B站宣布启动AI创造公开赛 TOP3大新闻 数据显示，豆包推出付费后月活减少610万  据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以来该应用罕见的下滑。Aicpb.com创始人李邦竹表示：“中国的免费人工智能服务时代还远未结束，所以豆包的商业化可能确实为时过早。”  有分析人士认为，字节跳动过早地将盈利模式商业化，可能会使其在中国竞争激烈的消费人工智能市场中失去领先地位。此前，其旗舰聊天机器人豆包在试水付费订阅模式后流失了数百万用户。（南华早报） Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险   据《华尔街日报》，AI创业公司Anthropic呼吁全球顶尖AI实验室考虑放缓研发步伐，理由是当前AI系统进步太快，可能很快就能在无需人类干预的情况下自我改进，从而带来重大的社会风险。 Anthropic周四在一篇博客文章中表示，如果能够放缓全",
+      "summary_zh": "今日热点导览 SpaceX据悉将其IPO的日本融资目标提高至25亿美元 二手房挂牌量回落新房库存下降，楼市供需关系向好 B站宣布启动AI创造公开赛 TOP3大新闻 数据显示，豆包推出付费后月活减少610万  据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用5月份的月活跃用户（MAU）减少了610万，这是自2023年推出以来该应用罕见的下滑。Aicpb.com创始人李邦竹表示：“中国的免费人工智能服务时代还远未结束，所以豆包的商业化可能确实为时过早。”  有分析人士认为，字节跳动过早地将盈利模式商业化，可能会使其在中国竞争激烈的消费人工智能市场中失去领先地位。此前，其旗舰聊天机器人豆包在试水付费订阅模式后流失了数百万用户。（南华早报） Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险   据《华尔街日报》，AI创业公司Anthropic呼吁全球顶尖AI实验室考虑放缓研发步伐，理由是当前AI系统进步太快，可能很快就能在无需人类干预的情况下自我改进，从而带来重大的社会风险。 Anthropic周四在一篇博客文章中表示，如果能够放缓全",
+      "publishedAt": "2026-06-06T01:07:19Z",
+      "published_at": "2026-06-06T01:07:19Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "6fb4e4ab",
+      "title": "港股鞋王千百度，一夜完成AI数据公司转型",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/431056.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/431056.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "港股鞋王千百度，一夜完成AI数据公司转型  思邈 2026-06-06 11:35:47  来源：量子位   形成「鞋履+人工智能数据」双主业   允中 发自 凹非寺 量子位 | 公众号 QbitAI  一家港股鞋履公司，买下了一家给大模型“喂数据”的公司。 千百度（1028.HK）6月5日宣布，将通过收购股权并认购新股，取得国内领先AI数据服务商本原智数的控股权益，并纳入合并报表，形成「鞋履+人工智能数据」双主业。 为什么是数据？ 当公开数据被大模型逐渐消化，AI的关键瓶颈正从“谁的模型更大”，转向“谁能持续提供更难、更真实的高质量数据”。 算力可以采购，算法可以复现，唯独这件事买不到、也快不了。 2025年Meta以约290亿美元估值入股Scale AI，正是市场对这一判断的重新定价。 本原智数的稀缺，在于它的位置和它的盈利。 其成立于2015年，处于AI产业链上游，是国内少数同时具备大模型、世界模型与具身智能完整数据服务能力的供应商之一； 此外，本原智数服务头部大模型厂商、一线互联网平台与领先具身智能企业，并在若干高价值数据品类上担任独家供应商。 数据显示，2025年本原智数收入",
+      "summary_zh": "港股鞋王千百度，一夜完成AI数据公司转型  思邈 2026-06-06 11:35:47  来源：量子位   形成「鞋履+人工智能数据」双主业   允中 发自 凹非寺 量子位 | 公众号 QbitAI  一家港股鞋履公司，买下了一家给大模型“喂数据”的公司。 千百度（1028.HK）6月5日宣布，将通过收购股权并认购新股，取得国内领先AI数据服务商本原智数的控股权益，并纳入合并报表，形成「鞋履+人工智能数据」双主业。 为什么是数据？ 当公开数据被大模型逐渐消化，AI的关键瓶颈正从“谁的模型更大”，转向“谁能持续提供更难、更真实的高质量数据”。 算力可以采购，算法可以复现，唯独这件事买不到、也快不了。 2025年Meta以约290亿美元估值入股Scale AI，正是市场对这一判断的重新定价。 本原智数的稀缺，在于它的位置和它的盈利。 其成立于2015年，处于AI产业链上游，是国内少数同时具备大模型、世界模型与具身智能完整数据服务能力的供应商之一； 此外，本原智数服务头部大模型厂商、一线互联网平台与领先具身智能企业，并在若干高价值数据品类上担任独家供应商。 数据显示，2025年本原智数收入",
+      "publishedAt": "2026-06-06T03:35:47Z",
+      "published_at": "2026-06-06T03:35:47Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "35b8f9c7",
+      "title": "字节跳动：没有造车或推出汽车品牌的计划",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3841237523859972?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3841237523859972?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "6月6日，字节跳动官微发布声明，我们注意到，近期有部分报道将“赛豆”解读为“豆包汽车品牌”或“字节跳动造车”：1.相关说法不准确，字节跳动没有造车或推出汽车品牌的计划。2.赛豆不是字节跳动或豆包推出的汽车品牌，字节和赛豆没有股权合作。3.豆包、火山引擎与汽车行业伙伴的合作，主要是给行业伙伴提供豆包大模型、智能座舱等技术服务，帮助合作伙伴提升车载智能交互体验。（每日经济新闻）",
+      "summary_zh": "6月6日，字节跳动官微发布声明，我们注意到，近期有部分报道将“赛豆”解读为“豆包汽车品牌”或“字节跳动造车”：1.相关说法不准确，字节跳动没有造车或推出汽车品牌的计划。2.赛豆不是字节跳动或豆包推出的汽车品牌，字节和赛豆没有股权合作。3.豆包、火山引擎与汽车行业伙伴的合作，主要是给行业伙伴提供豆包大模型、智能座舱等技术服务，帮助合作伙伴提升车载智能交互体验。（每日经济新闻）",
+      "publishedAt": "2026-06-06T05:08:52Z",
+      "published_at": "2026-06-06T05:08:52Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "8a5c2074",
+      "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3841255177079303?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3841255177079303?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "由中国科学院海洋研究所自主研发的全球海洋现象智能预报大模型——“琅琊”2.0今日发布。该海洋预报大模型将为海洋防灾减灾、航运安全保障等提供智能化科技支撑。“琅琊”2.0把多源观测、机理认知和人工智能推理连接起来，推动海洋预报向更快速、更精细、更可交互方向发展。它的发布标志着“琅琊”系列大模型在全球海洋状态变量预报基础上，进一步迈向复杂海洋现象智能预报新阶段，使海洋预报从专业变量走向可感知、可应用、可决策的关键场景，将为海洋防灾减灾、航运安全保障、极地航行安全、全球气候变化应对等提供智能化科技支撑。 (央视新闻)",
+      "summary_zh": "由中国科学院海洋研究所自主研发的全球海洋现象智能预报大模型——“琅琊”2.0今日发布。该海洋预报大模型将为海洋防灾减灾、航运安全保障等提供智能化科技支撑。“琅琊”2.0把多源观测、机理认知和人工智能推理连接起来，推动海洋预报向更快速、更精细、更可交互方向发展。它的发布标志着“琅琊”系列大模型在全球海洋状态变量预报基础上，进一步迈向复杂海洋现象智能预报新阶段，使海洋预报从专业变量走向可感知、可应用、可决策的关键场景，将为海洋防灾减灾、航运安全保障、极地航行安全、全球气候变化应对等提供智能化科技支撑。 (央视新闻)",
+      "publishedAt": "2026-06-06T05:26:49Z",
+      "published_at": "2026-06-06T05:26:49Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
