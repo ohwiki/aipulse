@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-06-05T21:52:10Z",
-  "generatedAt": "2026-06-05T21:52:10Z",
+  "generated_at": "2026-06-06T10:30:00Z",
+  "generatedAt": "2026-06-06T10:30:00Z",
   "count": 25,
   "total": 25,
   "entries": [
     {
       "date": "2026-06-06",
-      "generated_at": "2026-06-05T21:52:10Z",
-      "generatedAt": "2026-06-05T21:52:10Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-06-06T10:30:00Z",
+      "generatedAt": "2026-06-06T10:30:00Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "1c9c8b2c",
-          "title": "AI资讯更新：Minimi",
-          "title_en": "Minimi",
-          "url": "https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "5af2c458",
+          "title": "有人靠CPU把AI算力密度卷到了新高度",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/431045.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Your ambient memory for Claude Every great Cla",
-          "summary_zh": "Your ambient memory for Claude Every great Cla",
-          "publishedAt": "2026-06-05T07:01:00Z",
-          "published_at": "2026-06-05T07:01:00Z",
-          "votes_count": 347,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "352",
-              "name": "Tech",
-              "slug": "tech"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/431045.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "有人靠CPU把AI算力密度卷到了新高度  思邈 2026-06-05 21:16:53  来源：量子位   Agentic AI的算力焦虑，英特尔给来了一剂「猛药」    版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+          "summary_zh": "有人靠CPU把AI算力密度卷到了新高度  思邈 2026-06-05 21:16:53  来源：量子位   Agentic AI的算力焦虑，英特尔给来了一剂「猛药」    版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+          "publishedAt": "2026-06-05T13:16:53Z",
+          "published_at": "2026-06-05T13:16:53Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "1a9bc6a0",
-          "title": "产品更新：Leni",
-          "title_en": "Leni",
-          "url": "https://www.producthunt.com/products/leni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "7971729b",
+          "title": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
+          "title_en": null,
+          "url": "https://36kr.com/p/3840267945969929?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/leni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The world’s most accurate AI for investors Len",
-          "summary_zh": "The world’s most accurate AI for investors Len",
-          "publishedAt": "2026-06-05T07:01:00Z",
-          "published_at": "2026-06-05T07:01:00Z",
-          "votes_count": 336,
-          "featured": true,
-          "topics": [
-            {
-              "id": "203",
-              "name": "Investing",
-              "slug": "investing"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "582",
-              "name": "Data & Analytics",
-              "slug": "data-analytics"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3840267945969929?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "大公司： 首关15亿元，英诺科创三期基金持续聚焦早期科技投资 36氪获悉，6月5日，英诺基金宣布旗下英诺科创三期基金完成首轮关账，规模15亿元。该基金聚焦早期科技投资，重点布局前沿科技及人工智能领域。 比特币“金库”公司市值蒸发620亿美元 比特币本周下跌约14%，至四个月低点附近。随着加密货6月5日下午，追觅科技创始人俞浩在公司内部大群发文，表示未来将继续心无旁骛做实业，坚持技术创新，去啃全球最难的市场。（界面）币整体滑坡，数字资产“金库型”公司的股票也持续下挫，其中许多的跌幅远远超过它们所持有的加密货币本身。Artemis的数据显示，这些比特币金库公司的完全稀释股票总市值，已从去年10月初的近期顶点近1340亿美元，降至约720亿美元，也就是减少了620亿美元。Tokenize Capital管理合伙人Tokenize Capital表示：“随着价格回落，数字资产金库公司正面临一个严峻选择：是债务违约，还是出售资产。被迫抛售已经粉碎了对它们会持续扮演‘买入并持有’投资者角色的预期。”（财联社） 俞浩内部发文：未来将继续心无旁骛做实业 6月5日下午，追觅科技创始人俞浩在公司内部大群发",
+          "summary_zh": "大公司： 首关15亿元，英诺科创三期基金持续聚焦早期科技投资 36氪获悉，6月5日，英诺基金宣布旗下英诺科创三期基金完成首轮关账，规模15亿元。该基金聚焦早期科技投资，重点布局前沿科技及人工智能领域。 比特币“金库”公司市值蒸发620亿美元 比特币本周下跌约14%，至四个月低点附近。随着加密货6月5日下午，追觅科技创始人俞浩在公司内部大群发文，表示未来将继续心无旁骛做实业，坚持技术创新，去啃全球最难的市场。（界面）币整体滑坡，数字资产“金库型”公司的股票也持续下挫，其中许多的跌幅远远超过它们所持有的加密货币本身。Artemis的数据显示，这些比特币金库公司的完全稀释股票总市值，已从去年10月初的近期顶点近1340亿美元，降至约720亿美元，也就是减少了620亿美元。Tokenize Capital管理合伙人Tokenize Capital表示：“随着价格回落，数字资产金库公司正面临一个严峻选择：是债务违约，还是出售资产。被迫抛售已经粉碎了对它们会持续扮演‘买入并持有’投资者角色的预期。”（财联社） 俞浩内部发文：未来将继续心无旁骛做实业 6月5日下午，追觅科技创始人俞浩在公司内部大群发",
+          "publishedAt": "2026-06-05T12:50:46Z",
+          "published_at": "2026-06-05T12:50:46Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "c01eda7b",
-          "title": "产品更新：Veltrix AI",
-          "title_en": "Veltrix AI",
-          "url": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "24f18cb2",
+          "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/431033.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI finance copilot for cash flow, margins, and",
-          "summary_zh": "AI finance copilot for cash flow, margins, and",
-          "publishedAt": "2026-06-05T07:01:00Z",
-          "published_at": "2026-06-05T07:01:00Z",
-          "votes_count": 257,
-          "featured": true,
-          "topics": [
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "582",
-              "name": "Data & Analytics",
-              "slug": "data-analytics"
-            },
-            {
-              "id": "771",
-              "name": "Data",
-              "slug": "data"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/431033.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制  量子位的朋友们 2026-06-05 18:53:01  来源：量子位   研究表明，睡眠中的记忆重激活参与调控睡眠动态，为理解“记忆-睡眠”双向作用机制提供了新的实验证据。  睡眠与记忆的相互作用，是神经科学长期关注的重要问题。过去大量研究表明，睡眠能够促进记忆巩固；但反过来，作为睡眠中大脑活动的重要组分，记忆重放是否也会影响睡眠结构，尤其是记忆内容如何适应性参与睡眠稳态调控，仍有待进一步阐明。这一问题的关键，在于如何从睡眠活动、记忆活动等多模态、长时程数据中，捕捉记忆相关神经活动与睡眠状态变化之间的因果关系，并进一步验证其潜在调控作用。 2026年6月4日，北京智源人工智能研究院与清华大学联合开展的研究围绕这一问题取得新进展。相关成果“Memory Reactivation Underlies Experience-Dependent Adaptive Regulation of Sleep”在国际学术期刊《科学》（Science）发表。北京智源人工智能研究院悟界·Brai",
+          "summary_zh": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制  量子位的朋友们 2026-06-05 18:53:01  来源：量子位   研究表明，睡眠中的记忆重激活参与调控睡眠动态，为理解“记忆-睡眠”双向作用机制提供了新的实验证据。  睡眠与记忆的相互作用，是神经科学长期关注的重要问题。过去大量研究表明，睡眠能够促进记忆巩固；但反过来，作为睡眠中大脑活动的重要组分，记忆重放是否也会影响睡眠结构，尤其是记忆内容如何适应性参与睡眠稳态调控，仍有待进一步阐明。这一问题的关键，在于如何从睡眠活动、记忆活动等多模态、长时程数据中，捕捉记忆相关神经活动与睡眠状态变化之间的因果关系，并进一步验证其潜在调控作用。 2026年6月4日，北京智源人工智能研究院与清华大学联合开展的研究围绕这一问题取得新进展。相关成果“Memory Reactivation Underlies Experience-Dependent Adaptive Regulation of Sleep”在国际学术期刊《科学》（Science）发表。北京智源人工智能研究院悟界·Brai",
+          "publishedAt": "2026-06-05T10:53:01Z",
+          "published_at": "2026-06-05T10:53:01Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
