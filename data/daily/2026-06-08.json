@@ -1,0 +1,503 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-07T21:42:04Z",
+  "generatedAt": "2026-06-07T21:42:04Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "5afc6987",
+          "title": "产品更新：Dreambeans by G",
+          "title_en": "Dreambeans by Google Labs",
+          "url": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Daily AI stories personalised from your Google",
+          "summary_zh": "Daily AI stories personalised from your Google",
+          "publishedAt": "2026-06-07T07:01:00Z",
+          "published_at": "2026-06-07T07:01:00Z",
+          "votes_count": 243,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "abe6e5a4",
+          "title": "产品更新：Wave",
+          "title_en": "Wave",
+          "url": "https://www.producthunt.com/products/wave-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wave-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Turn your voice into text — local or cloud, yo",
+          "summary_zh": "Turn your voice into text — local or cloud, yo",
+          "publishedAt": "2026-06-07T07:01:00Z",
+          "published_at": "2026-06-07T07:01:00Z",
+          "votes_count": 215,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b9bceaa9",
+          "title": "产品更新：CabinLink",
+          "title_en": "CabinLink",
+          "url": "https://www.producthunt.com/products/cabinlink?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cabinlink?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Flight map from cabin Wi-Fi CabinLink reads su",
+          "summary_zh": "Flight map from cabin Wi-Fi CabinLink reads su",
+          "publishedAt": "2026-06-07T07:01:00Z",
+          "published_at": "2026-06-07T07:01:00Z",
+          "votes_count": 190,
+          "featured": true,
+          "topics": [
+            {
+              "id": "87",
+              "name": "Weather",
+              "slug": "weather"
+            },
+            {
+              "id": "93",
+              "name": "User Experience",
+              "slug": "user-experience"
+            },
+            {
+              "id": "250",
+              "name": "Travel",
+              "slug": "travel"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ff76ca2d",
+          "title": "产品更新：Smmall Cloud fo",
+          "title_en": "Smmall Cloud for iOS",
+          "url": "https://www.producthunt.com/products/smmall-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/smmall-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Simple file sharing on your iPad or iPhone Smm",
+          "summary_zh": "Simple file sharing on your iPad or iPhone Smm",
+          "publishedAt": "2026-06-07T07:01:00Z",
+          "published_at": "2026-06-07T07:01:00Z",
+          "votes_count": 153,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "d3415003",
+          "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/431401.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/431401.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队  梦瑶 2026-06-07 09:13:21  来源：量子位   高一致性、低延迟、实时超分全梭哈   梦瑶 闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  AIGC发展到今天，生成几秒钟的AI视频真的已经不算新鲜事儿了。 但！难的地方在于，让同一个角色在几分钟里始终保持一致（扎心.jpg）—— 多镜头切换，脸可能变了，换场景，衣服发型开始漂；人物开口，音色前后接不上！！ 问题不在模型「不会造梦」，而在于它很难「记住」这个梦……    △AI生成 也正因如此，长视频生成迟迟未能进入全行业的生产流程，更别说大规模商业化。 在长视频生成集体卡壳的当下，刚刚，有团队给出了一套新解法—— 开源长音视频生成框架JoyAI-Echo，并杀入全球长视频生成领域全球「第一梯队」。 把长视频创作里角色一致性、音色稳定性、生成速度和画面质量等生成痛点，一把梭哈～ 哪怕是几分钟的视频，多镜头、多场景、多段语音连续切换，人物形象和声音也能狠狠稳住。    不仅如此，支持对话式编辑的Agent能力也一起安排上了，以后我们做视频就像和导演聊天一样了！",
+          "summary_zh": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队  梦瑶 2026-06-07 09:13:21  来源：量子位   高一致性、低延迟、实时超分全梭哈   梦瑶 闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  AIGC发展到今天，生成几秒钟的AI视频真的已经不算新鲜事儿了。 但！难的地方在于，让同一个角色在几分钟里始终保持一致（扎心.jpg）—— 多镜头切换，脸可能变了，换场景，衣服发型开始漂；人物开口，音色前后接不上！！ 问题不在模型「不会造梦」，而在于它很难「记住」这个梦……    △AI生成 也正因如此，长视频生成迟迟未能进入全行业的生产流程，更别说大规模商业化。 在长视频生成集体卡壳的当下，刚刚，有团队给出了一套新解法—— 开源长音视频生成框架JoyAI-Echo，并杀入全球长视频生成领域全球「第一梯队」。 把长视频创作里角色一致性、音色稳定性、生成速度和画面质量等生成痛点，一把梭哈～ 哪怕是几分钟的视频，多镜头、多场景、多段语音连续切换，人物形象和声音也能狠狠稳住。    不仅如此，支持对话式编辑的Agent能力也一起安排上了，以后我们做视频就像和导演聊天一样了！",
+          "publishedAt": "2026-06-07T01:13:21Z",
+          "published_at": "2026-06-07T01:13:21Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "5a84cdde",
+          "title": "教你用AI一节课收17万，华尔街精英排着队付费",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/431487.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/431487.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "教你用AI一节课收17万，华尔街精英排着队付费  克雷西 2026-06-07 11:10:13  来源：量子位   花旗美银都是客户   克雷西 发自 凹非寺 量子位 | 公众号 QbitAI  两个三十岁出头的年轻人，正在靠AI向华尔街收每节课2.5万美元的学费，合人民币17万。 他们在纽约一家风险投资基金的办公室里支起台子，先演示了一套用AI分析创业公司创始人路演视频的方法。 接着是第二套，他们把财报电话会议的录音记录丢进AI，从几万字里抓出最可能撬动股价的那几句话，再把管理层含糊其辞的措辞拆解成可以填进财务模型的具体数字。    △图片由AI生成 两套演示做完，这2.5万美元就被他们收走了。 为这2.5万美元买单的，是花旗、美国银行、T. Rowe Price这样的顶级金融机构。 这些机构在AI上砸了几十亿，工具买了一堆，却发现员工根本不知道怎么用。 于是他们把这两个人请来，帮自己的人补上这一课。 一堂AI课，17万到手 这家开口就向华尔街要价2.5万美元的公司，叫Wall Street Prompt，创立它的两个年轻人是Felipe Sinisterra和Dave Wang。",
+          "summary_zh": "教你用AI一节课收17万，华尔街精英排着队付费  克雷西 2026-06-07 11:10:13  来源：量子位   花旗美银都是客户   克雷西 发自 凹非寺 量子位 | 公众号 QbitAI  两个三十岁出头的年轻人，正在靠AI向华尔街收每节课2.5万美元的学费，合人民币17万。 他们在纽约一家风险投资基金的办公室里支起台子，先演示了一套用AI分析创业公司创始人路演视频的方法。 接着是第二套，他们把财报电话会议的录音记录丢进AI，从几万字里抓出最可能撬动股价的那几句话，再把管理层含糊其辞的措辞拆解成可以填进财务模型的具体数字。    △图片由AI生成 两套演示做完，这2.5万美元就被他们收走了。 为这2.5万美元买单的，是花旗、美国银行、T. Rowe Price这样的顶级金融机构。 这些机构在AI上砸了几十亿，工具买了一堆，却发现员工根本不知道怎么用。 于是他们把这两个人请来，帮自己的人补上这一课。 一堂AI课，17万到手 这家开口就向华尔街要价2.5万美元的公司，叫Wall Street Prompt，创立它的两个年轻人是Felipe Sinisterra和Dave Wang。",
+          "publishedAt": "2026-06-07T03:10:13Z",
+          "published_at": "2026-06-07T03:10:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "285fabe2",
+          "title": "小米机器人或将亮相小米17T发布会",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3842624097569288?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3842624097569288?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "卢伟冰发布视频，探班小米17T发布会主讲人TJ的彩排，还送上保温杯和润喉糖。视频中出现了小米机器人的手臂，他们还一起碰拳加油，疑似小米机器人也将在发布会中亮相。（新浪财经）",
+          "summary_zh": "卢伟冰发布视频，探班小米17T发布会主讲人TJ的彩排，还送上保温杯和润喉糖。视频中出现了小米机器人的手臂，他们还一起碰拳加油，疑似小米机器人也将在发布会中亮相。（新浪财经）",
+          "publishedAt": "2026-06-07T05:44:14Z",
+          "published_at": "2026-06-07T05:44:14Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "ee73e230",
+          "title": "多家供给方下调算力价格 算力普惠再提速",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3842626008647945?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3842626008647945?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "随着全国算力基建规模化、标准化不断提速，多家算力价格也迎来持续普惠。让曾经昂贵的“高端稀缺资源”变身为各行各业可普惠使用的“数字水电”。前不久，多家模型厂商宣布永久下调算力价格，其中DeepSeek与小米MiMo降价尤为显著，最高降幅接近99%。极大降低了用户日常高频问答、网页设计、代码编程等多场景AI使用成本，让各类轻量化、常态化AI应用告别高门槛、高成本的制约。（央视新闻）",
+          "summary_zh": "随着全国算力基建规模化、标准化不断提速，多家算力价格也迎来持续普惠。让曾经昂贵的“高端稀缺资源”变身为各行各业可普惠使用的“数字水电”。前不久，多家模型厂商宣布永久下调算力价格，其中DeepSeek与小米MiMo降价尤为显著，最高降幅接近99%。极大降低了用户日常高频问答、网页设计、代码编程等多场景AI使用成本，让各类轻量化、常态化AI应用告别高门槛、高成本的制约。（央视新闻）",
+          "publishedAt": "2026-06-07T06:00:11Z",
+          "published_at": "2026-06-07T06:00:11Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "5afc6987",
+      "title": "产品更新：Dreambeans by G",
+      "title_en": "Dreambeans by Google Labs",
+      "url": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Daily AI stories personalised from your Google",
+      "summary_zh": "Daily AI stories personalised from your Google",
+      "publishedAt": "2026-06-07T07:01:00Z",
+      "published_at": "2026-06-07T07:01:00Z",
+      "votes_count": 243,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "abe6e5a4",
+      "title": "产品更新：Wave",
+      "title_en": "Wave",
+      "url": "https://www.producthunt.com/products/wave-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/wave-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn your voice into text — local or cloud, yo",
+      "summary_zh": "Turn your voice into text — local or cloud, yo",
+      "publishedAt": "2026-06-07T07:01:00Z",
+      "published_at": "2026-06-07T07:01:00Z",
+      "votes_count": 215,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b9bceaa9",
+      "title": "产品更新：CabinLink",
+      "title_en": "CabinLink",
+      "url": "https://www.producthunt.com/products/cabinlink?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cabinlink?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Flight map from cabin Wi-Fi CabinLink reads su",
+      "summary_zh": "Flight map from cabin Wi-Fi CabinLink reads su",
+      "publishedAt": "2026-06-07T07:01:00Z",
+      "published_at": "2026-06-07T07:01:00Z",
+      "votes_count": 190,
+      "featured": true,
+      "topics": [
+        {
+          "id": "87",
+          "name": "Weather",
+          "slug": "weather"
+        },
+        {
+          "id": "93",
+          "name": "User Experience",
+          "slug": "user-experience"
+        },
+        {
+          "id": "250",
+          "name": "Travel",
+          "slug": "travel"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ff76ca2d",
+      "title": "产品更新：Smmall Cloud fo",
+      "title_en": "Smmall Cloud for iOS",
+      "url": "https://www.producthunt.com/products/smmall-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/smmall-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Simple file sharing on your iPad or iPhone Smm",
+      "summary_zh": "Simple file sharing on your iPad or iPhone Smm",
+      "publishedAt": "2026-06-07T07:01:00Z",
+      "published_at": "2026-06-07T07:01:00Z",
+      "votes_count": 153,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d3415003",
+      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/431401.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/431401.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队  梦瑶 2026-06-07 09:13:21  来源：量子位   高一致性、低延迟、实时超分全梭哈   梦瑶 闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  AIGC发展到今天，生成几秒钟的AI视频真的已经不算新鲜事儿了。 但！难的地方在于，让同一个角色在几分钟里始终保持一致（扎心.jpg）—— 多镜头切换，脸可能变了，换场景，衣服发型开始漂；人物开口，音色前后接不上！！ 问题不在模型「不会造梦」，而在于它很难「记住」这个梦……    △AI生成 也正因如此，长视频生成迟迟未能进入全行业的生产流程，更别说大规模商业化。 在长视频生成集体卡壳的当下，刚刚，有团队给出了一套新解法—— 开源长音视频生成框架JoyAI-Echo，并杀入全球长视频生成领域全球「第一梯队」。 把长视频创作里角色一致性、音色稳定性、生成速度和画面质量等生成痛点，一把梭哈～ 哪怕是几分钟的视频，多镜头、多场景、多段语音连续切换，人物形象和声音也能狠狠稳住。    不仅如此，支持对话式编辑的Agent能力也一起安排上了，以后我们做视频就像和导演聊天一样了！",
+      "summary_zh": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队  梦瑶 2026-06-07 09:13:21  来源：量子位   高一致性、低延迟、实时超分全梭哈   梦瑶 闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  AIGC发展到今天，生成几秒钟的AI视频真的已经不算新鲜事儿了。 但！难的地方在于，让同一个角色在几分钟里始终保持一致（扎心.jpg）—— 多镜头切换，脸可能变了，换场景，衣服发型开始漂；人物开口，音色前后接不上！！ 问题不在模型「不会造梦」，而在于它很难「记住」这个梦……    △AI生成 也正因如此，长视频生成迟迟未能进入全行业的生产流程，更别说大规模商业化。 在长视频生成集体卡壳的当下，刚刚，有团队给出了一套新解法—— 开源长音视频生成框架JoyAI-Echo，并杀入全球长视频生成领域全球「第一梯队」。 把长视频创作里角色一致性、音色稳定性、生成速度和画面质量等生成痛点，一把梭哈～ 哪怕是几分钟的视频，多镜头、多场景、多段语音连续切换，人物形象和声音也能狠狠稳住。    不仅如此，支持对话式编辑的Agent能力也一起安排上了，以后我们做视频就像和导演聊天一样了！",
+      "publishedAt": "2026-06-07T01:13:21Z",
+      "published_at": "2026-06-07T01:13:21Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "5a84cdde",
+      "title": "教你用AI一节课收17万，华尔街精英排着队付费",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/431487.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/431487.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "教你用AI一节课收17万，华尔街精英排着队付费  克雷西 2026-06-07 11:10:13  来源：量子位   花旗美银都是客户   克雷西 发自 凹非寺 量子位 | 公众号 QbitAI  两个三十岁出头的年轻人，正在靠AI向华尔街收每节课2.5万美元的学费，合人民币17万。 他们在纽约一家风险投资基金的办公室里支起台子，先演示了一套用AI分析创业公司创始人路演视频的方法。 接着是第二套，他们把财报电话会议的录音记录丢进AI，从几万字里抓出最可能撬动股价的那几句话，再把管理层含糊其辞的措辞拆解成可以填进财务模型的具体数字。    △图片由AI生成 两套演示做完，这2.5万美元就被他们收走了。 为这2.5万美元买单的，是花旗、美国银行、T. Rowe Price这样的顶级金融机构。 这些机构在AI上砸了几十亿，工具买了一堆，却发现员工根本不知道怎么用。 于是他们把这两个人请来，帮自己的人补上这一课。 一堂AI课，17万到手 这家开口就向华尔街要价2.5万美元的公司，叫Wall Street Prompt，创立它的两个年轻人是Felipe Sinisterra和Dave Wang。",
+      "summary_zh": "教你用AI一节课收17万，华尔街精英排着队付费  克雷西 2026-06-07 11:10:13  来源：量子位   花旗美银都是客户   克雷西 发自 凹非寺 量子位 | 公众号 QbitAI  两个三十岁出头的年轻人，正在靠AI向华尔街收每节课2.5万美元的学费，合人民币17万。 他们在纽约一家风险投资基金的办公室里支起台子，先演示了一套用AI分析创业公司创始人路演视频的方法。 接着是第二套，他们把财报电话会议的录音记录丢进AI，从几万字里抓出最可能撬动股价的那几句话，再把管理层含糊其辞的措辞拆解成可以填进财务模型的具体数字。    △图片由AI生成 两套演示做完，这2.5万美元就被他们收走了。 为这2.5万美元买单的，是花旗、美国银行、T. Rowe Price这样的顶级金融机构。 这些机构在AI上砸了几十亿，工具买了一堆，却发现员工根本不知道怎么用。 于是他们把这两个人请来，帮自己的人补上这一课。 一堂AI课，17万到手 这家开口就向华尔街要价2.5万美元的公司，叫Wall Street Prompt，创立它的两个年轻人是Felipe Sinisterra和Dave Wang。",
+      "publishedAt": "2026-06-07T03:10:13Z",
+      "published_at": "2026-06-07T03:10:13Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "285fabe2",
+      "title": "小米机器人或将亮相小米17T发布会",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3842624097569288?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3842624097569288?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "卢伟冰发布视频，探班小米17T发布会主讲人TJ的彩排，还送上保温杯和润喉糖。视频中出现了小米机器人的手臂，他们还一起碰拳加油，疑似小米机器人也将在发布会中亮相。（新浪财经）",
+      "summary_zh": "卢伟冰发布视频，探班小米17T发布会主讲人TJ的彩排，还送上保温杯和润喉糖。视频中出现了小米机器人的手臂，他们还一起碰拳加油，疑似小米机器人也将在发布会中亮相。（新浪财经）",
+      "publishedAt": "2026-06-07T05:44:14Z",
+      "published_at": "2026-06-07T05:44:14Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ee73e230",
+      "title": "多家供给方下调算力价格 算力普惠再提速",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3842626008647945?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3842626008647945?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "随着全国算力基建规模化、标准化不断提速，多家算力价格也迎来持续普惠。让曾经昂贵的“高端稀缺资源”变身为各行各业可普惠使用的“数字水电”。前不久，多家模型厂商宣布永久下调算力价格，其中DeepSeek与小米MiMo降价尤为显著，最高降幅接近99%。极大降低了用户日常高频问答、网页设计、代码编程等多场景AI使用成本，让各类轻量化、常态化AI应用告别高门槛、高成本的制约。（央视新闻）",
+      "summary_zh": "随着全国算力基建规模化、标准化不断提速，多家算力价格也迎来持续普惠。让曾经昂贵的“高端稀缺资源”变身为各行各业可普惠使用的“数字水电”。前不久，多家模型厂商宣布永久下调算力价格，其中DeepSeek与小米MiMo降价尤为显著，最高降幅接近99%。极大降低了用户日常高频问答、网页设计、代码编程等多场景AI使用成本，让各类轻量化、常态化AI应用告别高门槛、高成本的制约。（央视新闻）",
+      "publishedAt": "2026-06-07T06:00:11Z",
+      "published_at": "2026-06-07T06:00:11Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

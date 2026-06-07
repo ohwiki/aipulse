@@ -1,10 +1,162 @@
 {
-  "generated_at": "2026-06-07T10:40:38Z",
-  "generatedAt": "2026-06-07T10:40:38Z",
+  "generated_at": "2026-06-07T21:42:04Z",
+  "generatedAt": "2026-06-07T21:42:04Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 8,
+  "count": 8,
   "items": [
+    {
+      "id": "5afc6987",
+      "title": "产品更新：Dreambeans by G",
+      "title_en": "Dreambeans by Google Labs",
+      "url": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Daily AI stories personalised from your Google",
+      "summary_zh": "Daily AI stories personalised from your Google",
+      "publishedAt": "2026-06-07T07:01:00Z",
+      "published_at": "2026-06-07T07:01:00Z",
+      "votes_count": 243,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "abe6e5a4",
+      "title": "产品更新：Wave",
+      "title_en": "Wave",
+      "url": "https://www.producthunt.com/products/wave-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/wave-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn your voice into text — local or cloud, yo",
+      "summary_zh": "Turn your voice into text — local or cloud, yo",
+      "publishedAt": "2026-06-07T07:01:00Z",
+      "published_at": "2026-06-07T07:01:00Z",
+      "votes_count": 215,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b9bceaa9",
+      "title": "产品更新：CabinLink",
+      "title_en": "CabinLink",
+      "url": "https://www.producthunt.com/products/cabinlink?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cabinlink?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Flight map from cabin Wi-Fi CabinLink reads su",
+      "summary_zh": "Flight map from cabin Wi-Fi CabinLink reads su",
+      "publishedAt": "2026-06-07T07:01:00Z",
+      "published_at": "2026-06-07T07:01:00Z",
+      "votes_count": 190,
+      "featured": true,
+      "topics": [
+        {
+          "id": "87",
+          "name": "Weather",
+          "slug": "weather"
+        },
+        {
+          "id": "93",
+          "name": "User Experience",
+          "slug": "user-experience"
+        },
+        {
+          "id": "250",
+          "name": "Travel",
+          "slug": "travel"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ff76ca2d",
+      "title": "产品更新：Smmall Cloud fo",
+      "title_en": "Smmall Cloud for iOS",
+      "url": "https://www.producthunt.com/products/smmall-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/smmall-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Simple file sharing on your iPad or iPhone Smm",
+      "summary_zh": "Simple file sharing on your iPad or iPhone Smm",
+      "publishedAt": "2026-06-07T07:01:00Z",
+      "published_at": "2026-06-07T07:01:00Z",
+      "votes_count": 153,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "d3415003",
       "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
