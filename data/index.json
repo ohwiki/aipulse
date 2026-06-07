@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-06-06T21:35:04Z",
-  "generatedAt": "2026-06-06T21:35:04Z",
+  "generated_at": "2026-06-07T10:40:38Z",
+  "generatedAt": "2026-06-07T10:40:38Z",
   "count": 26,
   "total": 26,
   "entries": [
     {
       "date": "2026-06-07",
-      "generated_at": "2026-06-06T21:35:04Z",
-      "generatedAt": "2026-06-06T21:35:04Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-06-07T10:40:38Z",
+      "generatedAt": "2026-06-07T10:40:38Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "7a45f7f7",
-          "title": "产品更新：Google Search P",
-          "title_en": "Google Search Profiles",
-          "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "ee73e230",
+          "title": "多家供给方下调算力价格 算力普惠再提速",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3842626008647945?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Profile for publishers/creators to highlight w",
-          "summary_zh": "Profile for publishers/creators to highlight w",
-          "publishedAt": "2026-06-06T07:01:00Z",
-          "published_at": "2026-06-06T07:01:00Z",
-          "votes_count": 279,
-          "featured": true,
-          "topics": [
-            {
-              "id": "50",
-              "name": "News",
-              "slug": "news"
-            },
-            {
-              "id": "231",
-              "name": "SEO",
-              "slug": "seo"
-            },
-            {
-              "id": "361",
-              "name": "Search",
-              "slug": "search"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3842626008647945?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "随着全国算力基建规模化、标准化不断提速，多家算力价格也迎来持续普惠。让曾经昂贵的“高端稀缺资源”变身为各行各业可普惠使用的“数字水电”。前不久，多家模型厂商宣布永久下调算力价格，其中DeepSeek与小米MiMo降价尤为显著，最高降幅接近99%。极大降低了用户日常高频问答、网页设计、代码编程等多场景AI使用成本，让各类轻量化、常态化AI应用告别高门槛、高成本的制约。（央视新闻）",
+          "summary_zh": "随着全国算力基建规模化、标准化不断提速，多家算力价格也迎来持续普惠。让曾经昂贵的“高端稀缺资源”变身为各行各业可普惠使用的“数字水电”。前不久，多家模型厂商宣布永久下调算力价格，其中DeepSeek与小米MiMo降价尤为显著，最高降幅接近99%。极大降低了用户日常高频问答、网页设计、代码编程等多场景AI使用成本，让各类轻量化、常态化AI应用告别高门槛、高成本的制约。（央视新闻）",
+          "publishedAt": "2026-06-07T06:00:11Z",
+          "published_at": "2026-06-07T06:00:11Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "c56976b8",
-          "title": "产品更新：Manus Shopify C",
-          "title_en": "Manus Shopify Connector",
-          "url": "https://www.producthunt.com/products/manus-shopify-connector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "285fabe2",
+          "title": "小米机器人或将亮相小米17T发布会",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3842624097569288?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/manus-shopify-connector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Build and manage Shopify stores from one chat",
-          "summary_zh": "Build and manage Shopify stores from one chat",
-          "publishedAt": "2026-06-06T07:01:00Z",
-          "published_at": "2026-06-06T07:01:00Z",
-          "votes_count": 187,
-          "featured": true,
-          "topics": [
-            {
-              "id": "93",
-              "name": "User Experience",
-              "slug": "user-experience"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "278",
-              "name": "E-Commerce",
-              "slug": "e-commerce"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3842624097569288?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "卢伟冰发布视频，探班小米17T发布会主讲人TJ的彩排，还送上保温杯和润喉糖。视频中出现了小米机器人的手臂，他们还一起碰拳加油，疑似小米机器人也将在发布会中亮相。（新浪财经）",
+          "summary_zh": "卢伟冰发布视频，探班小米17T发布会主讲人TJ的彩排，还送上保温杯和润喉糖。视频中出现了小米机器人的手臂，他们还一起碰拳加油，疑似小米机器人也将在发布会中亮相。（新浪财经）",
+          "publishedAt": "2026-06-07T05:44:14Z",
+          "published_at": "2026-06-07T05:44:14Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "be2016e8",
-          "title": "产品更新：MAI-Image-2.5",
-          "title_en": "MAI-Image-2.5",
-          "url": "https://www.producthunt.com/products/mai-image-2-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "5a84cdde",
+          "title": "教你用AI一节课收17万，华尔街精英排着队付费",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/431487.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/mai-image-2-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Generate and edit images with precise scene co",
-          "summary_zh": "Generate and edit images with precise scene co",
-          "publishedAt": "2026-06-06T07:01:00Z",
-          "published_at": "2026-06-06T07:01:00Z",
-          "votes_count": 170,
-          "featured": true,
-          "topics": [
-            {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
-            },
-            {
-              "id": "104",
-              "name": "Social Media",
-              "slug": "social-media"
-            },
-            {
-              "id": "251",
-              "name": "Photography",
-              "slug": "photography"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/431487.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "教你用AI一节课收17万，华尔街精英排着队付费  克雷西 2026-06-07 11:10:13  来源：量子位   花旗美银都是客户   克雷西 发自 凹非寺 量子位 | 公众号 QbitAI  两个三十岁出头的年轻人，正在靠AI向华尔街收每节课2.5万美元的学费，合人民币17万。 他们在纽约一家风险投资基金的办公室里支起台子，先演示了一套用AI分析创业公司创始人路演视频的方法。 接着是第二套，他们把财报电话会议的录音记录丢进AI，从几万字里抓出最可能撬动股价的那几句话，再把管理层含糊其辞的措辞拆解成可以填进财务模型的具体数字。    △图片由AI生成 两套演示做完，这2.5万美元就被他们收走了。 为这2.5万美元买单的，是花旗、美国银行、T. Rowe Price这样的顶级金融机构。 这些机构在AI上砸了几十亿，工具买了一堆，却发现员工根本不知道怎么用。 于是他们把这两个人请来，帮自己的人补上这一课。 一堂AI课，17万到手 这家开口就向华尔街要价2.5万美元的公司，叫Wall Street Prompt，创立它的两个年轻人是Felipe Sinisterra和Dave Wang。",
+          "summary_zh": "教你用AI一节课收17万，华尔街精英排着队付费  克雷西 2026-06-07 11:10:13  来源：量子位   花旗美银都是客户   克雷西 发自 凹非寺 量子位 | 公众号 QbitAI  两个三十岁出头的年轻人，正在靠AI向华尔街收每节课2.5万美元的学费，合人民币17万。 他们在纽约一家风险投资基金的办公室里支起台子，先演示了一套用AI分析创业公司创始人路演视频的方法。 接着是第二套，他们把财报电话会议的录音记录丢进AI，从几万字里抓出最可能撬动股价的那几句话，再把管理层含糊其辞的措辞拆解成可以填进财务模型的具体数字。    △图片由AI生成 两套演示做完，这2.5万美元就被他们收走了。 为这2.5万美元买单的，是花旗、美国银行、T. Rowe Price这样的顶级金融机构。 这些机构在AI上砸了几十亿，工具买了一堆，却发现员工根本不知道怎么用。 于是他们把这两个人请来，帮自己的人补上这一课。 一堂AI课，17万到手 这家开口就向华尔街要价2.5万美元的公司，叫Wall Street Prompt，创立它的两个年轻人是Felipe Sinisterra和Dave Wang。",
+          "publishedAt": "2026-06-07T03:10:13Z",
+          "published_at": "2026-06-07T03:10:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
