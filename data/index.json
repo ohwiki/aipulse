@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-06-07T21:42:04Z",
-  "generatedAt": "2026-06-07T21:42:04Z",
+  "generated_at": "2026-06-08T12:46:21Z",
+  "generatedAt": "2026-06-08T12:46:21Z",
   "count": 27,
   "total": 27,
   "entries": [
     {
       "date": "2026-06-08",
-      "generated_at": "2026-06-07T21:42:04Z",
-      "generatedAt": "2026-06-07T21:42:04Z",
+      "generated_at": "2026-06-08T12:46:21Z",
+      "generatedAt": "2026-06-08T12:46:21Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "5afc6987",
-          "title": "产品更新：Dreambeans by G",
-          "title_en": "Dreambeans by Google Labs",
-          "url": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "51f67056",
+          "title": "产品更新：Honen",
+          "title_en": "Honen",
+          "url": "https://www.producthunt.com/products/honen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/honen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Daily AI stories personalised from your Google",
-          "summary_zh": "Daily AI stories personalised from your Google",
-          "publishedAt": "2026-06-07T07:01:00Z",
-          "published_at": "2026-06-07T07:01:00Z",
-          "votes_count": 243,
+          "summary": "Automated teaching + learning infrastructure f",
+          "summary_zh": "Automated teaching + learning infrastructure f",
+          "publishedAt": "2026-06-08T07:01:00Z",
+          "published_at": "2026-06-08T07:01:00Z",
+          "votes_count": 191,
           "featured": true,
           "topics": [
             {
-              "id": "2",
-              "name": "Android",
-              "slug": "android"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
-              "id": "8",
-              "name": "iOS",
-              "slug": "ios"
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
             },
             {
               "id": "268",
@@ -50,23 +50,61 @@
           "score_details": null
         },
         {
-          "id": "abe6e5a4",
-          "title": "产品更新：Wave",
-          "title_en": "Wave",
-          "url": "https://www.producthunt.com/products/wave-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "ddcb159c",
+          "title": "产品更新：Browse.sh",
+          "title_en": "Browse.sh",
+          "url": "https://www.producthunt.com/products/browserbase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/wave-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/browserbase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Turn your voice into text — local or cloud, yo",
-          "summary_zh": "Turn your voice into text — local or cloud, yo",
-          "publishedAt": "2026-06-07T07:01:00Z",
-          "published_at": "2026-06-07T07:01:00Z",
-          "votes_count": 215,
+          "summary": "Give your agents muscle memory for automating",
+          "summary_zh": "Give your agents muscle memory for automating",
+          "publishedAt": "2026-06-08T07:01:00Z",
+          "published_at": "2026-06-08T07:01:00Z",
+          "votes_count": 175,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "842dc3e5",
+          "title": "产品更新：Vaani",
+          "title_en": "Vaani",
+          "url": "https://www.producthunt.com/products/vaani-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vaani-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Lip-synced AI dubbing for creators, brands and",
+          "summary_zh": "Lip-synced AI dubbing for creators, brands and",
+          "publishedAt": "2026-06-08T07:01:00Z",
+          "published_at": "2026-06-08T07:01:00Z",
+          "votes_count": 146,
           "featured": true,
           "topics": [
             {
@@ -75,52 +113,14 @@
               "slug": "productivity"
             },
             {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             },
             {
               "id": "471",
               "name": "Audio",
               "slug": "audio"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "b9bceaa9",
-          "title": "产品更新：CabinLink",
-          "title_en": "CabinLink",
-          "url": "https://www.producthunt.com/products/cabinlink?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/cabinlink?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Flight map from cabin Wi-Fi CabinLink reads su",
-          "summary_zh": "Flight map from cabin Wi-Fi CabinLink reads su",
-          "publishedAt": "2026-06-07T07:01:00Z",
-          "published_at": "2026-06-07T07:01:00Z",
-          "votes_count": 190,
-          "featured": true,
-          "topics": [
-            {
-              "id": "87",
-              "name": "Weather",
-              "slug": "weather"
-            },
-            {
-              "id": "93",
-              "name": "User Experience",
-              "slug": "user-experience"
-            },
-            {
-              "id": "250",
-              "name": "Travel",
-              "slug": "travel"
             }
           ],
           "score_details": null
