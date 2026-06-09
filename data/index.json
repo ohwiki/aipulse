@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-06-09T11:38:00Z",
-  "generatedAt": "2026-06-09T11:38:00Z",
-  "count": 28,
-  "total": 28,
+  "generated_at": "2026-06-09T22:02:16Z",
+  "generatedAt": "2026-06-09T22:02:16Z",
+  "count": 29,
+  "total": 29,
   "entries": [
+    {
+      "date": "2026-06-10",
+      "generated_at": "2026-06-09T22:02:16Z",
+      "generatedAt": "2026-06-09T22:02:16Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "8c503f42",
+          "title": "AI资讯更新：VC Boom",
+          "title_en": "VC Boom",
+          "url": "https://www.producthunt.com/products/vcboom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vcboom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Score your deck, meet investors who fit, raise",
+          "summary_zh": "Score your deck, meet investors who fit, raise",
+          "publishedAt": "2026-06-09T07:01:00Z",
+          "published_at": "2026-06-09T07:01:00Z",
+          "votes_count": 379,
+          "featured": true,
+          "topics": [
+            {
+              "id": "208",
+              "name": "Venture Capital",
+              "slug": "venture-capital"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "791",
+              "name": "Fundraising",
+              "slug": "fundraising"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f536f206",
+          "title": "产品更新：ZeroGPU",
+          "title_en": "ZeroGPU",
+          "url": "https://www.producthunt.com/products/zerogpu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/zerogpu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The compute efficient layer for AI inference T",
+          "summary_zh": "The compute efficient layer for AI inference T",
+          "publishedAt": "2026-06-09T07:01:00Z",
+          "published_at": "2026-06-09T07:01:00Z",
+          "votes_count": 273,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c1e051ae",
+          "title": "产品更新：prostir zvuku",
+          "title_en": "prostir zvuku",
+          "url": "https://www.producthunt.com/products/prostir-zvuku?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/prostir-zvuku?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A spatial nature sound mixer for Mac Build a q",
+          "summary_zh": "A spatial nature sound mixer for Mac Build a q",
+          "publishedAt": "2026-06-09T07:01:00Z",
+          "published_at": "2026-06-09T07:01:00Z",
+          "votes_count": 202,
+          "featured": true,
+          "topics": [
+            {
+              "id": "43",
+              "name": "Health & Fitness",
+              "slug": "health-fitness"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "846",
+              "name": "Nature",
+              "slug": "nature"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "generated_at": "2026-06-09T11:38:00Z",
