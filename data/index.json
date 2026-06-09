@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-06-08T22:08:18Z",
-  "generatedAt": "2026-06-08T22:08:18Z",
+  "generated_at": "2026-06-09T11:38:00Z",
+  "generatedAt": "2026-06-09T11:38:00Z",
   "count": 28,
   "total": 28,
   "entries": [
     {
       "date": "2026-06-09",
-      "generated_at": "2026-06-08T22:08:18Z",
-      "generatedAt": "2026-06-08T22:08:18Z",
-      "total": 8,
+      "generated_at": "2026-06-09T11:38:00Z",
+      "generatedAt": "2026-06-09T11:38:00Z",
+      "total": 6,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "51f67056",
-          "title": "产品更新：Honen",
-          "title_en": "Honen",
-          "url": "https://www.producthunt.com/products/honen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "8c503f42",
+          "title": "AI资讯更新：VC Boom",
+          "title_en": "VC Boom",
+          "url": "https://www.producthunt.com/products/vcboom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/honen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/vcboom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Automated teaching + learning infrastructure f",
-          "summary_zh": "Automated teaching + learning infrastructure f",
-          "publishedAt": "2026-06-08T07:01:00Z",
-          "published_at": "2026-06-08T07:01:00Z",
-          "votes_count": 327,
+          "summary": "Score your deck, meet investors who fit, raise",
+          "summary_zh": "Score your deck, meet investors who fit, raise",
+          "publishedAt": "2026-06-09T07:01:00Z",
+          "published_at": "2026-06-09T07:01:00Z",
+          "votes_count": 199,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "204",
-              "name": "Education",
-              "slug": "education"
+              "id": "208",
+              "name": "Venture Capital",
+              "slug": "venture-capital"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "791",
+              "name": "Fundraising",
+              "slug": "fundraising"
             }
           ],
           "score_details": null
         },
         {
-          "id": "ddcb159c",
-          "title": "产品更新：Browse.sh",
-          "title_en": "Browse.sh",
-          "url": "https://www.producthunt.com/products/browserbase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "f536f206",
+          "title": "产品更新：ZeroGPU",
+          "title_en": "ZeroGPU",
+          "url": "https://www.producthunt.com/products/zerogpu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/browserbase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/zerogpu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Give your agents muscle memory for automating",
-          "summary_zh": "Give your agents muscle memory for automating",
-          "publishedAt": "2026-06-08T07:01:00Z",
-          "published_at": "2026-06-08T07:01:00Z",
-          "votes_count": 321,
+          "summary": "The compute efficient layer for AI inference T",
+          "summary_zh": "The compute efficient layer for AI inference T",
+          "publishedAt": "2026-06-09T07:01:00Z",
+          "published_at": "2026-06-09T07:01:00Z",
+          "votes_count": 154,
           "featured": true,
           "topics": [
             {
@@ -88,41 +88,25 @@
           "score_details": null
         },
         {
-          "id": "842dc3e5",
-          "title": "产品更新：Vaani",
-          "title_en": "Vaani",
-          "url": "https://www.producthunt.com/products/vaani-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "39420d95",
+          "title": "腾讯想让企业打开AI的方式只剩一个",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/432631.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/vaani-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Lip-synced AI dubbing for creators, brands and",
-          "summary_zh": "Lip-synced AI dubbing for creators, brands and",
-          "publishedAt": "2026-06-08T07:01:00Z",
-          "published_at": "2026-06-08T07:01:00Z",
-          "votes_count": 252,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "471",
-              "name": "Audio",
-              "slug": "audio"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/432631.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "腾讯想让企业打开AI的方式只剩一个  思邈 2026-06-09 09:24:10  来源：量子位   一个入口串起全栈智能体   允中 发自 凹非寺 量子位 | 公众号 QbitAI  过去一年，AI在职场里快把打工人“卷”上天了。 从一键生成万字文档、光速写代码到会议纪要秒出，几乎每个人都在办公软件里接上了大模型，觉得自己套上了AI外挂，工作效率正在“起飞”。 然而，一个反直觉的现象正在悄然发生： 员工个人感觉自己变快了，但如果把视角拉高到企业全局，整个团队的交付周期、跨部门的协同效率，居然原地踏步。 在2026腾讯云AI产业应用大会上，腾讯云副总裁、CodeBuddy & WorkBuddy负责人刘毅用一句话，无情戳破了这种大模型落地的繁荣泡沫：  个人很爽，组织无感。  这正是当下企业AI实战中最尴尬的隐痛。  一方面是数据高歌猛进：WorkBuddy平台上的人均Token消耗在三个月内暴涨了10倍以上，使用场景一路狂飙。 但另一方面，这些暴涨的Token却沦为了个人的“单点摸鱼神器”，根本没有咬合进组织的协同齿轮里。  在这个企业Agent走向生产环境的残酷拐点上，腾讯选择不",
+          "summary_zh": "腾讯想让企业打开AI的方式只剩一个  思邈 2026-06-09 09:24:10  来源：量子位   一个入口串起全栈智能体   允中 发自 凹非寺 量子位 | 公众号 QbitAI  过去一年，AI在职场里快把打工人“卷”上天了。 从一键生成万字文档、光速写代码到会议纪要秒出，几乎每个人都在办公软件里接上了大模型，觉得自己套上了AI外挂，工作效率正在“起飞”。 然而，一个反直觉的现象正在悄然发生： 员工个人感觉自己变快了，但如果把视角拉高到企业全局，整个团队的交付周期、跨部门的协同效率，居然原地踏步。 在2026腾讯云AI产业应用大会上，腾讯云副总裁、CodeBuddy & WorkBuddy负责人刘毅用一句话，无情戳破了这种大模型落地的繁荣泡沫：  个人很爽，组织无感。  这正是当下企业AI实战中最尴尬的隐痛。  一方面是数据高歌猛进：WorkBuddy平台上的人均Token消耗在三个月内暴涨了10倍以上，使用场景一路狂飙。 但另一方面，这些暴涨的Token却沦为了个人的“单点摸鱼神器”，根本没有咬合进组织的协同齿轮里。  在这个企业Agent走向生产环境的残酷拐点上，腾讯选择不",
+          "publishedAt": "2026-06-09T01:24:10Z",
+          "published_at": "2026-06-09T01:24:10Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
