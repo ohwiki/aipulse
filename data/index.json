@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-06-10T11:52:50Z",
-  "generatedAt": "2026-06-10T11:52:50Z",
-  "count": 29,
-  "total": 29,
+  "generated_at": "2026-06-10T22:23:47Z",
+  "generatedAt": "2026-06-10T22:23:47Z",
+  "count": 30,
+  "total": 30,
   "entries": [
+    {
+      "date": "2026-06-11",
+      "generated_at": "2026-06-10T22:23:47Z",
+      "generatedAt": "2026-06-10T22:23:47Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "caed0416",
+          "title": "产品更新：Publora",
+          "title_en": "Publora",
+          "url": "https://www.producthunt.com/products/publora?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/publora?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The publishing API for the agent era Publora i",
+          "summary_zh": "The publishing API for the agent era Publora i",
+          "publishedAt": "2026-06-10T07:01:00Z",
+          "published_at": "2026-06-10T07:01:00Z",
+          "votes_count": 470,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "960647ce",
+          "title": "模型更新：TypingMind",
+          "title_en": "TypingMind",
+          "url": "https://www.producthunt.com/products/typing-mind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/typing-mind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Pay per use, no subscription, 18 model provide",
+          "summary_zh": "Pay per use, no subscription, 18 model provide",
+          "publishedAt": "2026-06-10T07:01:00Z",
+          "published_at": "2026-06-10T07:01:00Z",
+          "votes_count": 366,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3f765762",
+          "title": "产品更新：Spotlight by Ba",
+          "title_en": "Spotlight by Backplanes",
+          "url": "https://www.producthunt.com/products/backplanes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/backplanes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Session reports for Claude Code & Codex to imp",
+          "summary_zh": "Session reports for Claude Code & Codex to imp",
+          "publishedAt": "2026-06-10T07:01:00Z",
+          "published_at": "2026-06-10T07:01:00Z",
+          "votes_count": 318,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-10",
       "generated_at": "2026-06-10T11:52:50Z",

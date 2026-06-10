@@ -1,43 +1,10 @@
 {
-  "generated_at": "2026-06-10T11:52:50Z",
-  "generatedAt": "2026-06-10T11:52:50Z",
+  "generated_at": "2026-06-10T22:23:47Z",
+  "generatedAt": "2026-06-10T22:23:47Z",
   "days": 7,
   "total": 8,
   "count": 8,
   "items": [
-    {
-      "id": "960647ce",
-      "title": "模型更新：TypingMind",
-      "title_en": "TypingMind",
-      "url": "https://www.producthunt.com/products/typing-mind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/typing-mind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Pay per use, no subscription, 18 model provide",
-      "summary_zh": "Pay per use, no subscription, 18 model provide",
-      "publishedAt": "2026-06-10T07:01:00Z",
-      "published_at": "2026-06-10T07:01:00Z",
-      "votes_count": 194,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
     {
       "id": "caed0416",
       "title": "产品更新：Publora",
@@ -51,11 +18,11 @@
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "The Publishing API for the Agent Era. Publora",
-      "summary_zh": "The Publishing API for the Agent Era. Publora",
+      "summary": "The publishing API for the agent era Publora i",
+      "summary_zh": "The publishing API for the agent era Publora i",
       "publishedAt": "2026-06-10T07:01:00Z",
       "published_at": "2026-06-10T07:01:00Z",
-      "votes_count": 194,
+      "votes_count": 470,
       "featured": true,
       "topics": [
         {
@@ -77,6 +44,39 @@
       "score_details": null
     },
     {
+      "id": "960647ce",
+      "title": "模型更新：TypingMind",
+      "title_en": "TypingMind",
+      "url": "https://www.producthunt.com/products/typing-mind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/typing-mind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Pay per use, no subscription, 18 model provide",
+      "summary_zh": "Pay per use, no subscription, 18 model provide",
+      "publishedAt": "2026-06-10T07:01:00Z",
+      "published_at": "2026-06-10T07:01:00Z",
+      "votes_count": 366,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
       "id": "3f765762",
       "title": "产品更新：Spotlight by Ba",
       "title_en": "Spotlight by Backplanes",
@@ -93,7 +93,7 @@
       "summary_zh": "Session reports for Claude Code & Codex to imp",
       "publishedAt": "2026-06-10T07:01:00Z",
       "published_at": "2026-06-10T07:01:00Z",
-      "votes_count": 164,
+      "votes_count": 318,
       "featured": true,
       "topics": [
         {
@@ -115,85 +115,41 @@
       "score_details": null
     },
     {
-      "id": "eaa45ad4",
-      "title": "产品更新：iArt.ai",
-      "title_en": "iArt.ai",
-      "url": "https://www.producthunt.com/products/iart-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "a9f99bf6",
+      "title": "产品更新：Gemini 3.5 Live",
+      "title_en": "Gemini 3.5 Live Translate",
+      "url": "https://www.producthunt.com/products/gemini-3-5-live-translate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/iart-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/gemini-3-5-live-translate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Turn ideas & designs into stunning video/anima",
-      "summary_zh": "Turn ideas & designs into stunning video/anima",
+      "summary": "Latest audio model for live speech-to-speech t",
+      "summary_zh": "Latest audio model for live speech-to-speech t",
       "publishedAt": "2026-06-10T07:01:00Z",
       "published_at": "2026-06-10T07:01:00Z",
-      "votes_count": 123,
+      "votes_count": 205,
       "featured": true,
       "topics": [
         {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
         },
         {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
+          "id": "209",
+          "name": "Languages",
+          "slug": "languages"
         },
         {
-          "id": "857",
-          "name": "Video",
-          "slug": "video"
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
         }
       ],
-      "score_details": null
-    },
-    {
-      "id": "7c5fa069",
-      "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
-      "title_en": null,
-      "url": "https://36kr.com/p/3845899768760580?f=rss",
-      "source": "36氪",
-      "source_type": null,
-      "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3845899768760580?f=rss",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "大公司： 猫眼娱乐：作为首批内测开发者接入微信AI生态布局 36氪获悉，猫眼娱乐宣布作为微信AI生态首批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、一键支付等服务。 京东方A：控股子公司拟终止向不特定合格投资者公开发行股票并撤回申请文件 36氪获悉，京东方A公告，公司控股子公司京东方能源科技股份有限公司（简称“能源科技”）拟终止向不特定合格投资者公开发行股票并在北交所上市的申请并撤回申请文件。 歌尔股份：拟向歌尔光学增资5亿元，持股比例将增至39.6676% 36氪获悉，歌尔股份公告，公司及宁波舜宇奥来技术有限公司拟分别以现金方式向歌尔光学科技有限公司（简称“歌尔光学”）增资5亿元，认购歌尔光学新增注册资本1.1亿元（合计新增注册资本2.2亿元），歌尔光学其他股东均放弃本次增资优先认购权。本次增资完成后，歌尔光学注册资本将增加至19.3亿元，公司对歌尔光学的持股比例将增至39.6676%。 Tims天好中国宣布发行优先有担保可转债，进一步支持全国门店拓展 36氪获悉，Tims天好中国发布公告，宣布",
-      "summary_zh": "大公司： 猫眼娱乐：作为首批内测开发者接入微信AI生态布局 36氪获悉，猫眼娱乐宣布作为微信AI生态首批内测开发者之一，旗下小程序接入微信AI Agent生态，借助微信AI Agent能力，为用户提供影片演出推荐、附近影院筛选、智能选座、一键支付等服务。 京东方A：控股子公司拟终止向不特定合格投资者公开发行股票并撤回申请文件 36氪获悉，京东方A公告，公司控股子公司京东方能源科技股份有限公司（简称“能源科技”）拟终止向不特定合格投资者公开发行股票并在北交所上市的申请并撤回申请文件。 歌尔股份：拟向歌尔光学增资5亿元，持股比例将增至39.6676% 36氪获悉，歌尔股份公告，公司及宁波舜宇奥来技术有限公司拟分别以现金方式向歌尔光学科技有限公司（简称“歌尔光学”）增资5亿元，认购歌尔光学新增注册资本1.1亿元（合计新增注册资本2.2亿元），歌尔光学其他股东均放弃本次增资优先认购权。本次增资完成后，歌尔光学注册资本将增加至19.3亿元，公司对歌尔光学的持股比例将增至39.6676%。 Tims天好中国宣布发行优先有担保可转债，进一步支持全国门店拓展 36氪获悉，Tims天好中国发布公告，宣布",
-      "publishedAt": "2026-06-09T12:48:30Z",
-      "published_at": "2026-06-09T12:48:30Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": null
-    },
-    {
-      "id": "24a51855",
-      "title": "内蒙跑通AI逆袭新解法",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/06/433565.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/06/433565.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "内蒙跑通AI逆袭新解法  思邈 2026-06-09 21:40:54  来源：量子位   全行业的Token焦虑何解？   允中 发自 凹非寺 量子位 | 公众号 QbitAI  6月5日，北京国家会议中心，原本能容纳上千人的会场被挤得水泄不通。 这场爆满的对谈，主角是腾讯集团高级执行副总裁汤道生、腾讯首席AI科学家姚顺雨。 这是姚顺雨加入腾讯半年多以来的首次线下公开亮相，这位明星AI科学家在会上抛出了一个关键判断—— AI下半场最重要的问题，不再只是找到更好的方法，而是找到真正值得解决的问题。  腾讯也借此次对话释放明确信号：AI竞争早已跳出模型参数、算力规模的单一比拼，进入模型、产品、场景、组织协同并行的全新阶段。 而其中一个关键问题在于，当下Agent成为技术核心，Token效率则是所有玩家必须攻克的难关。 “我也听到很多客户甚至同事们，也在紧盯着积分消耗或者Token消耗”，汤道生坦言，Token成本的爆发式增长已经成为行业共同的焦虑。 但Token焦虑背后，还有一个更底层的物理问题：每一个Token的生成，最终都要转化为GPU的一次次运算，转化为数据中心的一度度电。 当行业",
-      "summary_zh": "内蒙跑通AI逆袭新解法  思邈 2026-06-09 21:40:54  来源：量子位   全行业的Token焦虑何解？   允中 发自 凹非寺 量子位 | 公众号 QbitAI  6月5日，北京国家会议中心，原本能容纳上千人的会场被挤得水泄不通。 这场爆满的对谈，主角是腾讯集团高级执行副总裁汤道生、腾讯首席AI科学家姚顺雨。 这是姚顺雨加入腾讯半年多以来的首次线下公开亮相，这位明星AI科学家在会上抛出了一个关键判断—— AI下半场最重要的问题，不再只是找到更好的方法，而是找到真正值得解决的问题。  腾讯也借此次对话释放明确信号：AI竞争早已跳出模型参数、算力规模的单一比拼，进入模型、产品、场景、组织协同并行的全新阶段。 而其中一个关键问题在于，当下Agent成为技术核心，Token效率则是所有玩家必须攻克的难关。 “我也听到很多客户甚至同事们，也在紧盯着积分消耗或者Token消耗”，汤道生坦言，Token成本的爆发式增长已经成为行业共同的焦虑。 但Token焦虑背后，还有一个更底层的物理问题：每一个Token的生成，最终都要转化为GPU的一次次运算，转化为数据中心的一度度电。 当行业",
-      "publishedAt": "2026-06-09T13:40:54Z",
-      "published_at": "2026-06-09T13:40:54Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
       "score_details": null
     },
     {
@@ -235,6 +191,50 @@
       "summary_zh": "今日热点导览 清仓美高梅国际持股，何超琼套现逾1.4亿美元 任天堂在法国遭2.7亿元重罚 王传福回应股价被低估：还没能反映比亚迪潜力 5月汽车销量公布：前十已无燃油车 TOP3大新闻 已致3人永久失明，膳魔师紧急召回百万件产品 因产品瓶塞存在弹出的风险，近段时间，德国知名真空保温品牌膳魔师（Thermos）在中美多国各召回百万件食物罐等产品，据美国消费品安全委员会披露的公告，有三名消费者因眼睛被击中而导致永久性视力丧失。 5月29日，国家市场监管总局官网发布公告称，日前，膳魔师（中国）家庭制品有限公司召回2011年-2023年期间制造的部分SK3000、SK3020型高真空不锈钢食物罐，涉及数量为3995415件。召回公告指出，如消费者长时间在保温食物罐中存放易腐食品或饮料，打开时密封塞可能会有弹出风险，对使用者造成撞击伤害。膳魔师中国将免费更换一件全新具有泄压阀的密封塞，以消除安全隐患。（南方都市报）  膳魔师 发布会后苹果股价下跌，市值蒸发超1.587万亿 北京时间6月9日凌晨1点，苹果WWDC（全球开发者大会）在美国加州库比提诺的Apple Park正式拉开帷幕。这也是蒂姆·库克",
       "publishedAt": "2026-06-10T00:08:16Z",
       "published_at": "2026-06-10T00:08:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "38534e97",
+      "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3844720012151040?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3844720012151040?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能世界模型公司「千诀科技」日前完成数亿元A轮融资，本轮由京铭资本领投，山东新动能、山东财金资本、元禾厚望、芯能创投、南创投、英诺天使基金、尚势资本、仁爱集团、玄素投资等机构共同投资，投资方阵容汇集了国家队、产业方、市场化基金及家族办公室。Maple Pledge枫承资本长期出任私募股权融资顾问。 资金将重点用于自研世界模型的架构搭建、算法迭代与场景落地，同步扩充核心研发与项目交付团队，完善商业化落地配套能力。 千诀科技创立于2023年6月，核心团队孵化自清华大学类脑研究中心，长期聚焦具身智能决策与规划大模型研发落地，突破传统设备任务局限，以帮助机器人实现环境动态自适应与全自主作业。 世界模型的热潮正迅速卷向具身智能领域，成为通用人工智能落地物理世界的核心突破口。卷积神经网络之父Yann LeCun（杨立昆）率先提出世界模型核心理论，其创办的AMI团队持续专注抽象表征空间建模、物理世界规律预测的技术方向研究，为行业奠定了核心理论基础。 从因果推理到空间智能，从物理仿真到生成式预测，基于不同技术范式、不同理论底座的研究在业内正同步展开。这是个尚未收",
+      "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能世界模型公司「千诀科技」日前完成数亿元A轮融资，本轮由京铭资本领投，山东新动能、山东财金资本、元禾厚望、芯能创投、南创投、英诺天使基金、尚势资本、仁爱集团、玄素投资等机构共同投资，投资方阵容汇集了国家队、产业方、市场化基金及家族办公室。Maple Pledge枫承资本长期出任私募股权融资顾问。 资金将重点用于自研世界模型的架构搭建、算法迭代与场景落地，同步扩充核心研发与项目交付团队，完善商业化落地配套能力。 千诀科技创立于2023年6月，核心团队孵化自清华大学类脑研究中心，长期聚焦具身智能决策与规划大模型研发落地，突破传统设备任务局限，以帮助机器人实现环境动态自适应与全自主作业。 世界模型的热潮正迅速卷向具身智能领域，成为通用人工智能落地物理世界的核心突破口。卷积神经网络之父Yann LeCun（杨立昆）率先提出世界模型核心理论，其创办的AMI团队持续专注抽象表征空间建模、物理世界规律预测的技术方向研究，为行业奠定了核心理论基础。 从因果推理到空间智能，从物理仿真到生成式预测，基于不同技术范式、不同理论底座的研究在业内正同步展开。这是个尚未收",
+      "publishedAt": "2026-06-10T01:30:00Z",
+      "published_at": "2026-06-10T01:30:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "de3bb10b",
+      "title": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
+      "title_en": null,
+      "url": "https://36kr.com/p/3846789531404549?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3846789531404549?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。 微面科技聚焦自研人类感知理解基座模型，打造新一代人机交互范式，创始团队主要来自清华大学，具备大模型、人机交互、软件工程与医学复合背景。 当前，AI交互存在一个隐形天花板：极度依赖用户显性输入，缺乏对隐性非语言信息的感知。研究表明，人类表达中非语言信息高达55%，但现有的机器视觉只看见动作，却无法穿透皮肤洞察情绪波动或生理疲劳。 无论是物理世界的具身机器人还是数字世界的语言大模型，由于缺乏高精度多模态人类状态数据的输入，都只能做机械的被动响应，缺乏主动共情的闭环能力，无法执行更加泛化的任务。 针对这些痛点，微面科技基于 rPPG（远程光电容积描记）核心技术，全栈自研面部基座模型 FacePhys，可实时输出超过120项指标，覆盖心率、心率变异性（HRV）、呼吸率、面部动作单元、眼动特征、情绪维度及语音特征等多个方向。配合HRV情绪生理晴雨表绑定心率与急剧情绪，模型可识别假笑和压抑情绪，获取无法伪装的客观生理真相，为大模型提供生理情绪数据入口。 此前，光照变化",
+      "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。 微面科技聚焦自研人类感知理解基座模型，打造新一代人机交互范式，创始团队主要来自清华大学，具备大模型、人机交互、软件工程与医学复合背景。 当前，AI交互存在一个隐形天花板：极度依赖用户显性输入，缺乏对隐性非语言信息的感知。研究表明，人类表达中非语言信息高达55%，但现有的机器视觉只看见动作，却无法穿透皮肤洞察情绪波动或生理疲劳。 无论是物理世界的具身机器人还是数字世界的语言大模型，由于缺乏高精度多模态人类状态数据的输入，都只能做机械的被动响应，缺乏主动共情的闭环能力，无法执行更加泛化的任务。 针对这些痛点，微面科技基于 rPPG（远程光电容积描记）核心技术，全栈自研面部基座模型 FacePhys，可实时输出超过120项指标，覆盖心率、心率变异性（HRV）、呼吸率、面部动作单元、眼动特征、情绪维度及语音特征等多个方向。配合HRV情绪生理晴雨表绑定心率与急剧情绪，模型可识别假笑和压抑情绪，获取无法伪装的客观生理真相，为大模型提供生理情绪数据入口。 此前，光照变化",
+      "publishedAt": "2026-06-10T03:18:51Z",
+      "published_at": "2026-06-10T03:18:51Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
