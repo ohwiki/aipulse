@@ -101,4 +101,4 @@ jobs:
             exit 0
           fi
 
-          curl -fsS -X POST "$NETLIFY_BUILD_HOOK_URL"
+          curl -fsS --connect-timeout 10 --max-time 30 -X POST "$NETLIFY_BUILD_HOOK_URL" || echo "Warning: Netlify hook failed, ignoring."
