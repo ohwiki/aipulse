@@ -1,10 +1,48 @@
 {
-  "generated_at": "2026-06-11T12:28:03Z",
-  "generatedAt": "2026-06-11T12:28:03Z",
+  "generated_at": "2026-06-11T22:21:22Z",
+  "generatedAt": "2026-06-11T22:21:22Z",
   "days": 7,
   "total": 8,
   "count": 8,
   "items": [
+    {
+      "id": "a4bcb631",
+      "title": "AI资讯更新：Slashspace AI",
+      "title_en": "Slashspace AI",
+      "url": "https://www.producthunt.com/products/slashspace-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/slashspace-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Canvas first AI experience for sustained, comp",
+      "summary_zh": "Canvas first AI experience for sustained, comp",
+      "publishedAt": "2026-06-11T07:00:01Z",
+      "published_at": "2026-06-11T07:00:01Z",
+      "votes_count": 220,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "ee3bf8f4",
       "title": "产品更新：Bond",
@@ -22,7 +60,7 @@
       "summary_zh": "The AI to-do list that does itself Bond is an",
       "publishedAt": "2026-06-11T07:01:00Z",
       "published_at": "2026-06-11T07:01:00Z",
-      "votes_count": 251,
+      "votes_count": 522,
       "featured": true,
       "topics": [
         {
@@ -60,7 +98,7 @@
       "summary_zh": "One AI gateway with built-in observability and",
       "publishedAt": "2026-06-11T07:01:00Z",
       "published_at": "2026-06-11T07:01:00Z",
-      "votes_count": 214,
+      "votes_count": 354,
       "featured": true,
       "topics": [
         {
@@ -82,23 +120,23 @@
       "score_details": null
     },
     {
-      "id": "2599bb67",
-      "title": "产品更新：Terminal Mode b",
-      "title_en": "Terminal Mode by Even Realities",
-      "url": "https://www.producthunt.com/products/terminal-mode-by-even-realities?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "1bec4b4a",
+      "title": "产品更新：Asmi AI",
+      "title_en": "Asmi AI",
+      "url": "https://www.producthunt.com/products/asmi-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/terminal-mode-by-even-realities?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/asmi-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Keep coding agents always in sight Terminal Mo",
-      "summary_zh": "Keep coding agents always in sight Terminal Mo",
+      "summary": "AI that handles your personal chores in the re",
+      "summary_zh": "AI that handles your personal chores in the re",
       "publishedAt": "2026-06-11T07:01:00Z",
       "published_at": "2026-06-11T07:01:00Z",
-      "votes_count": 200,
+      "votes_count": 311,
       "featured": true,
       "topics": [
         {
@@ -107,52 +145,14 @@
           "slug": "productivity"
         },
         {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
         },
         {
-          "id": "1194",
-          "name": "Vibe coding",
-          "slug": "vibe-coding"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "9e77e745",
-      "title": "产品更新：Journey Now",
-      "title_en": "Journey Now",
-      "url": "https://www.producthunt.com/products/journey-now?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/journey-now?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Learning copilot for human ambition via step-b",
-      "summary_zh": "Learning copilot for human ambition via step-b",
-      "publishedAt": "2026-06-11T07:01:00Z",
-      "published_at": "2026-06-11T07:01:00Z",
-      "votes_count": 177,
-      "featured": true,
-      "topics": [
-        {
-          "id": "8",
-          "name": "iOS",
-          "slug": "ios"
-        },
-        {
-          "id": "204",
-          "name": "Education",
-          "slug": "education"
-        },
-        {
-          "id": "665",
-          "name": "Lifestyle",
-          "slug": "lifestyle"
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         }
       ],
       "score_details": null

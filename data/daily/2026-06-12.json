@@ -1,0 +1,503 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-11T22:21:22Z",
+  "generatedAt": "2026-06-11T22:21:22Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "a4bcb631",
+          "title": "AI资讯更新：Slashspace AI",
+          "title_en": "Slashspace AI",
+          "url": "https://www.producthunt.com/products/slashspace-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/slashspace-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Canvas first AI experience for sustained, comp",
+          "summary_zh": "Canvas first AI experience for sustained, comp",
+          "publishedAt": "2026-06-11T07:00:01Z",
+          "published_at": "2026-06-11T07:00:01Z",
+          "votes_count": 220,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ee3bf8f4",
+          "title": "产品更新：Bond",
+          "title_en": "Bond",
+          "url": "https://www.producthunt.com/products/bond-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/bond-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The AI to-do list that does itself Bond is an",
+          "summary_zh": "The AI to-do list that does itself Bond is an",
+          "publishedAt": "2026-06-11T07:01:00Z",
+          "published_at": "2026-06-11T07:01:00Z",
+          "votes_count": 522,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "61e8ace9",
+          "title": "AI资讯更新：Respan Gatewa",
+          "title_en": "Respan Gateway",
+          "url": "https://www.producthunt.com/products/keywords-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/keywords-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "One AI gateway with built-in observability and",
+          "summary_zh": "One AI gateway with built-in observability and",
+          "publishedAt": "2026-06-11T07:01:00Z",
+          "published_at": "2026-06-11T07:01:00Z",
+          "votes_count": 354,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1bec4b4a",
+          "title": "产品更新：Asmi AI",
+          "title_en": "Asmi AI",
+          "url": "https://www.producthunt.com/products/asmi-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/asmi-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI that handles your personal chores in the re",
+          "summary_zh": "AI that handles your personal chores in the re",
+          "publishedAt": "2026-06-11T07:01:00Z",
+          "published_at": "2026-06-11T07:01:00Z",
+          "votes_count": 311,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "fa9b0f04",
+          "title": "8点1氪丨世界杯门票遇冷，近18万张门票待转售；台积电释放涨价信号；但斌回应“被段永平拉黑”",
+          "title_en": null,
+          "url": "https://36kr.com/p/3848000003953926?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3848000003953926?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览  花旗警告：金价或跌至3500美元 韩国股市再度熔断 何小鹏发内部信：本人亲自带队，最后200天冲刺机器人量产 伊朗宣布对所有船只关闭霍尔木兹海峡 SpaceX认购资金超2500亿美元  TOP 3 大新闻 2026世界杯门票遇冷，近18万张门票待转售 北京时间6月12日，2026年美加墨世界杯将举行揭幕战。目前，国际足联（FIFA）官方转售平台上挂牌出售的门票达17.6万张，主要集中在小组赛阶段。根据FIFA平台数据所做的价格与库存统计，不同球队之间的人气差异十分明显。例如，在伊朗队参加的3场小组赛中，仍有约1.6万张门票尚未售出，市场上最便宜的普通座位售价为138美元（约合934元人民币）。过去一个月，官方转售平台上的门票中位价已累计下跌20%。媒体测算显示，考虑到平台对转售交易收取26%的手续费，大多数转售卖家如今可能已处于亏损状态。对FIFA而言，若比赛出现大量空座将十分尴尬。先前，该机构将本届世界杯门票价格定得远高于往届，并表示此举符合当地市场环境。（财联社） 台积电释放涨价信号 台积电首席财务官（CFO）黄仁昭近日在接受媒体采访时表示，通货膨胀正在推高该公司的",
+          "summary_zh": "今日热点导览  花旗警告：金价或跌至3500美元 韩国股市再度熔断 何小鹏发内部信：本人亲自带队，最后200天冲刺机器人量产 伊朗宣布对所有船只关闭霍尔木兹海峡 SpaceX认购资金超2500亿美元  TOP 3 大新闻 2026世界杯门票遇冷，近18万张门票待转售 北京时间6月12日，2026年美加墨世界杯将举行揭幕战。目前，国际足联（FIFA）官方转售平台上挂牌出售的门票达17.6万张，主要集中在小组赛阶段。根据FIFA平台数据所做的价格与库存统计，不同球队之间的人气差异十分明显。例如，在伊朗队参加的3场小组赛中，仍有约1.6万张门票尚未售出，市场上最便宜的普通座位售价为138美元（约合934元人民币）。过去一个月，官方转售平台上的门票中位价已累计下跌20%。媒体测算显示，考虑到平台对转售交易收取26%的手续费，大多数转售卖家如今可能已处于亏损状态。对FIFA而言，若比赛出现大量空座将十分尴尬。先前，该机构将本届世界杯门票价格定得远高于往届，并表示此举符合当地市场环境。（财联社） 台积电释放涨价信号 台积电首席财务官（CFO）黄仁昭近日在接受媒体采访时表示，通货膨胀正在推高该公司的",
+          "publishedAt": "2026-06-10T23:48:20Z",
+          "published_at": "2026-06-10T23:48:20Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "a3f9041a",
+          "title": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/434225.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/434225.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付  克雷西 2026-06-11 09:18:16  来源：量子位   通用GPU就能实现  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 全球大模型的军备竞赛，正在“智商”之外开辟新的战场—— 推理速度。 把这个战场抬到新高度的，是小米。 小米发布了全新的MiMo-V2.5-Pro-UltraSpeed模型，也就是MiMo-V2.5-Pro的高速版本。 它拥有1T总参数，支持1M上下文，单API推理速度直接拉到1000+ TPS，刷新旗舰模型全球最快推理速度。 而且不像Groq那样依靠定制芯片，用通用GPU就能实现。  这也意味着，小米这次的新模型，打破了“快、强、通用GPU无法兼得”的行业不可能三角。小米秀出的是从模型层到引擎层的全链路推理优化能力，而背后的推理工程实力，毫无疑问是全球第一梯队水平。 这次，量子位也拿到了MiMo-V2.5-Pro-UltraSpeed的测试资格，到底有没有这么快，接下来一起看看。 实测小米“最快旗舰模型” 先看看MiMo-V2.5-Pro-Ultra",
+          "summary_zh": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付  克雷西 2026-06-11 09:18:16  来源：量子位   通用GPU就能实现  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 全球大模型的军备竞赛，正在“智商”之外开辟新的战场—— 推理速度。 把这个战场抬到新高度的，是小米。 小米发布了全新的MiMo-V2.5-Pro-UltraSpeed模型，也就是MiMo-V2.5-Pro的高速版本。 它拥有1T总参数，支持1M上下文，单API推理速度直接拉到1000+ TPS，刷新旗舰模型全球最快推理速度。 而且不像Groq那样依靠定制芯片，用通用GPU就能实现。  这也意味着，小米这次的新模型，打破了“快、强、通用GPU无法兼得”的行业不可能三角。小米秀出的是从模型层到引擎层的全链路推理优化能力，而背后的推理工程实力，毫无疑问是全球第一梯队水平。 这次，量子位也拿到了MiMo-V2.5-Pro-UltraSpeed的测试资格，到底有没有这么快，接下来一起看看。 实测小米“最快旗舰模型” 先看看MiMo-V2.5-Pro-Ultra",
+          "publishedAt": "2026-06-11T01:18:16Z",
+          "published_at": "2026-06-11T01:18:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "421941d9",
+          "title": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
+          "title_en": null,
+          "url": "https://36kr.com/p/3848094835217666?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3848094835217666?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业激光装备制造商——中微精仪科技（深圳）有限公司（下称“中微精仪”）近期已完成数千万元天使+轮融资，由创维投资独家投资。资金将主要用于市场拓展、产能提升及新产品开发。 中微精仪成立于2024年11月，专注于碳化硅晶锭激光剥离、金刚石激光剥离、水导激光精密加工等高端工业激光装备的研发与制造。公司创始人陈景煜为澳大利亚新南威尔士大学研究员，长期从事特种芯片集成开发；首席科学家孙洪波则为中国科学院院士、清华大学教授，是非线性激光超精密制造领域的先驱。 与市面上多数激光设备公司不同，中微精仪定位为激光精密加工技术平台，覆盖从机理研究、工艺开发到工程化落地的全链条。其设备已在碳化硅衬底切割、金刚石加工等领域进入头部客户量产验证阶段。 公司当前的核心业务聚焦两大方向： 一是碳化硅衬底激光分片设备。中微精仪自研的脉冲可编程与裂纹定向诱导生长技术，已能将分片损耗稳定控制在40微米以内，远低于行业常见的80-120微米水平。 当前，碳化硅行业正经历从6英寸向8英寸产线升级的关键窗口期。据陈景煜判断，近两年下游需求端正在快速扩张，数据中心电源对碳化硅器件的需求显著",
+          "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业激光装备制造商——中微精仪科技（深圳）有限公司（下称“中微精仪”）近期已完成数千万元天使+轮融资，由创维投资独家投资。资金将主要用于市场拓展、产能提升及新产品开发。 中微精仪成立于2024年11月，专注于碳化硅晶锭激光剥离、金刚石激光剥离、水导激光精密加工等高端工业激光装备的研发与制造。公司创始人陈景煜为澳大利亚新南威尔士大学研究员，长期从事特种芯片集成开发；首席科学家孙洪波则为中国科学院院士、清华大学教授，是非线性激光超精密制造领域的先驱。 与市面上多数激光设备公司不同，中微精仪定位为激光精密加工技术平台，覆盖从机理研究、工艺开发到工程化落地的全链条。其设备已在碳化硅衬底切割、金刚石加工等领域进入头部客户量产验证阶段。 公司当前的核心业务聚焦两大方向： 一是碳化硅衬底激光分片设备。中微精仪自研的脉冲可编程与裂纹定向诱导生长技术，已能将分片损耗稳定控制在40微米以内，远低于行业常见的80-120微米水平。 当前，碳化硅行业正经历从6英寸向8英寸产线升级的关键窗口期。据陈景煜判断，近两年下游需求端正在快速扩张，数据中心电源对碳化硅器件的需求显著",
+          "publishedAt": "2026-06-11T01:24:41Z",
+          "published_at": "2026-06-11T01:24:41Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "a8e631fe",
+          "title": "行业首创AI志愿填报+真人专家验真，百度全新升级高考服务",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/434268.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/434268.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "行业首创AI志愿填报+真人专家验真，百度全新升级高考服务  量子位的朋友们 2026-06-11 10:08:25  来源：量子位   全新的AI志愿报告   6月10日，百度在北京举办高考媒体沟通会，正式发布今年高考服务全面升级方案，推出全新的AI志愿报告，并引入业内首创的真人专家背书机制，向全体考生免费开放。 今年全国高考报名人数达1290万，然而与庞大考生规模形成对比的，是志愿填报领域长期存在的信息鸿沟。调研数据显示，即便在信息资源更为丰富的一二线城市，也仅有32.6%的家庭能做到科学合理的高考规划；而今年57.27%的考生来自县域高中，普遍面临严重的信息不对称。 针对这些痛点，百度今年首次引入了真人专家背书机制，由资深志愿咨询师对AI生成的志愿报告进行专业审核认证。AI算法负责精准测算，行业专家负责经验兜底，旨在填补AI工具在考生信任层面的缺口。 在产品能力上，AI志愿报告通过文心助手多轮对话采集考生个人信息，生成专属画像，结合历年投档分数线、高校及专业数据、专业就业前景等多维数据库，为每位考生输出个性化的志愿填报方案，并附上完整的填报逻辑说明。让志愿推荐不再是冰冷的名单堆砌，",
+          "summary_zh": "行业首创AI志愿填报+真人专家验真，百度全新升级高考服务  量子位的朋友们 2026-06-11 10:08:25  来源：量子位   全新的AI志愿报告   6月10日，百度在北京举办高考媒体沟通会，正式发布今年高考服务全面升级方案，推出全新的AI志愿报告，并引入业内首创的真人专家背书机制，向全体考生免费开放。 今年全国高考报名人数达1290万，然而与庞大考生规模形成对比的，是志愿填报领域长期存在的信息鸿沟。调研数据显示，即便在信息资源更为丰富的一二线城市，也仅有32.6%的家庭能做到科学合理的高考规划；而今年57.27%的考生来自县域高中，普遍面临严重的信息不对称。 针对这些痛点，百度今年首次引入了真人专家背书机制，由资深志愿咨询师对AI生成的志愿报告进行专业审核认证。AI算法负责精准测算，行业专家负责经验兜底，旨在填补AI工具在考生信任层面的缺口。 在产品能力上，AI志愿报告通过文心助手多轮对话采集考生个人信息，生成专属画像，结合历年投档分数线、高校及专业数据、专业就业前景等多维数据库，为每位考生输出个性化的志愿填报方案，并附上完整的填报逻辑说明。让志愿推荐不再是冰冷的名单堆砌，",
+          "publishedAt": "2026-06-11T02:08:25Z",
+          "published_at": "2026-06-11T02:08:25Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "a4bcb631",
+      "title": "AI资讯更新：Slashspace AI",
+      "title_en": "Slashspace AI",
+      "url": "https://www.producthunt.com/products/slashspace-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/slashspace-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Canvas first AI experience for sustained, comp",
+      "summary_zh": "Canvas first AI experience for sustained, comp",
+      "publishedAt": "2026-06-11T07:00:01Z",
+      "published_at": "2026-06-11T07:00:01Z",
+      "votes_count": 220,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ee3bf8f4",
+      "title": "产品更新：Bond",
+      "title_en": "Bond",
+      "url": "https://www.producthunt.com/products/bond-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/bond-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI to-do list that does itself Bond is an",
+      "summary_zh": "The AI to-do list that does itself Bond is an",
+      "publishedAt": "2026-06-11T07:01:00Z",
+      "published_at": "2026-06-11T07:01:00Z",
+      "votes_count": 522,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "282",
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "61e8ace9",
+      "title": "AI资讯更新：Respan Gatewa",
+      "title_en": "Respan Gateway",
+      "url": "https://www.producthunt.com/products/keywords-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/keywords-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "One AI gateway with built-in observability and",
+      "summary_zh": "One AI gateway with built-in observability and",
+      "publishedAt": "2026-06-11T07:01:00Z",
+      "published_at": "2026-06-11T07:01:00Z",
+      "votes_count": 354,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1bec4b4a",
+      "title": "产品更新：Asmi AI",
+      "title_en": "Asmi AI",
+      "url": "https://www.producthunt.com/products/asmi-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/asmi-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI that handles your personal chores in the re",
+      "summary_zh": "AI that handles your personal chores in the re",
+      "publishedAt": "2026-06-11T07:01:00Z",
+      "published_at": "2026-06-11T07:01:00Z",
+      "votes_count": 311,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "fa9b0f04",
+      "title": "8点1氪丨世界杯门票遇冷，近18万张门票待转售；台积电释放涨价信号；但斌回应“被段永平拉黑”",
+      "title_en": null,
+      "url": "https://36kr.com/p/3848000003953926?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3848000003953926?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览  花旗警告：金价或跌至3500美元 韩国股市再度熔断 何小鹏发内部信：本人亲自带队，最后200天冲刺机器人量产 伊朗宣布对所有船只关闭霍尔木兹海峡 SpaceX认购资金超2500亿美元  TOP 3 大新闻 2026世界杯门票遇冷，近18万张门票待转售 北京时间6月12日，2026年美加墨世界杯将举行揭幕战。目前，国际足联（FIFA）官方转售平台上挂牌出售的门票达17.6万张，主要集中在小组赛阶段。根据FIFA平台数据所做的价格与库存统计，不同球队之间的人气差异十分明显。例如，在伊朗队参加的3场小组赛中，仍有约1.6万张门票尚未售出，市场上最便宜的普通座位售价为138美元（约合934元人民币）。过去一个月，官方转售平台上的门票中位价已累计下跌20%。媒体测算显示，考虑到平台对转售交易收取26%的手续费，大多数转售卖家如今可能已处于亏损状态。对FIFA而言，若比赛出现大量空座将十分尴尬。先前，该机构将本届世界杯门票价格定得远高于往届，并表示此举符合当地市场环境。（财联社） 台积电释放涨价信号 台积电首席财务官（CFO）黄仁昭近日在接受媒体采访时表示，通货膨胀正在推高该公司的",
+      "summary_zh": "今日热点导览  花旗警告：金价或跌至3500美元 韩国股市再度熔断 何小鹏发内部信：本人亲自带队，最后200天冲刺机器人量产 伊朗宣布对所有船只关闭霍尔木兹海峡 SpaceX认购资金超2500亿美元  TOP 3 大新闻 2026世界杯门票遇冷，近18万张门票待转售 北京时间6月12日，2026年美加墨世界杯将举行揭幕战。目前，国际足联（FIFA）官方转售平台上挂牌出售的门票达17.6万张，主要集中在小组赛阶段。根据FIFA平台数据所做的价格与库存统计，不同球队之间的人气差异十分明显。例如，在伊朗队参加的3场小组赛中，仍有约1.6万张门票尚未售出，市场上最便宜的普通座位售价为138美元（约合934元人民币）。过去一个月，官方转售平台上的门票中位价已累计下跌20%。媒体测算显示，考虑到平台对转售交易收取26%的手续费，大多数转售卖家如今可能已处于亏损状态。对FIFA而言，若比赛出现大量空座将十分尴尬。先前，该机构将本届世界杯门票价格定得远高于往届，并表示此举符合当地市场环境。（财联社） 台积电释放涨价信号 台积电首席财务官（CFO）黄仁昭近日在接受媒体采访时表示，通货膨胀正在推高该公司的",
+      "publishedAt": "2026-06-10T23:48:20Z",
+      "published_at": "2026-06-10T23:48:20Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "a3f9041a",
+      "title": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/434225.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/434225.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付  克雷西 2026-06-11 09:18:16  来源：量子位   通用GPU就能实现  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 全球大模型的军备竞赛，正在“智商”之外开辟新的战场—— 推理速度。 把这个战场抬到新高度的，是小米。 小米发布了全新的MiMo-V2.5-Pro-UltraSpeed模型，也就是MiMo-V2.5-Pro的高速版本。 它拥有1T总参数，支持1M上下文，单API推理速度直接拉到1000+ TPS，刷新旗舰模型全球最快推理速度。 而且不像Groq那样依靠定制芯片，用通用GPU就能实现。  这也意味着，小米这次的新模型，打破了“快、强、通用GPU无法兼得”的行业不可能三角。小米秀出的是从模型层到引擎层的全链路推理优化能力，而背后的推理工程实力，毫无疑问是全球第一梯队水平。 这次，量子位也拿到了MiMo-V2.5-Pro-UltraSpeed的测试资格，到底有没有这么快，接下来一起看看。 实测小米“最快旗舰模型” 先看看MiMo-V2.5-Pro-Ultra",
+      "summary_zh": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付  克雷西 2026-06-11 09:18:16  来源：量子位   通用GPU就能实现  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 全球大模型的军备竞赛，正在“智商”之外开辟新的战场—— 推理速度。 把这个战场抬到新高度的，是小米。 小米发布了全新的MiMo-V2.5-Pro-UltraSpeed模型，也就是MiMo-V2.5-Pro的高速版本。 它拥有1T总参数，支持1M上下文，单API推理速度直接拉到1000+ TPS，刷新旗舰模型全球最快推理速度。 而且不像Groq那样依靠定制芯片，用通用GPU就能实现。  这也意味着，小米这次的新模型，打破了“快、强、通用GPU无法兼得”的行业不可能三角。小米秀出的是从模型层到引擎层的全链路推理优化能力，而背后的推理工程实力，毫无疑问是全球第一梯队水平。 这次，量子位也拿到了MiMo-V2.5-Pro-UltraSpeed的测试资格，到底有没有这么快，接下来一起看看。 实测小米“最快旗舰模型” 先看看MiMo-V2.5-Pro-Ultra",
+      "publishedAt": "2026-06-11T01:18:16Z",
+      "published_at": "2026-06-11T01:18:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "421941d9",
+      "title": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
+      "title_en": null,
+      "url": "https://36kr.com/p/3848094835217666?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3848094835217666?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业激光装备制造商——中微精仪科技（深圳）有限公司（下称“中微精仪”）近期已完成数千万元天使+轮融资，由创维投资独家投资。资金将主要用于市场拓展、产能提升及新产品开发。 中微精仪成立于2024年11月，专注于碳化硅晶锭激光剥离、金刚石激光剥离、水导激光精密加工等高端工业激光装备的研发与制造。公司创始人陈景煜为澳大利亚新南威尔士大学研究员，长期从事特种芯片集成开发；首席科学家孙洪波则为中国科学院院士、清华大学教授，是非线性激光超精密制造领域的先驱。 与市面上多数激光设备公司不同，中微精仪定位为激光精密加工技术平台，覆盖从机理研究、工艺开发到工程化落地的全链条。其设备已在碳化硅衬底切割、金刚石加工等领域进入头部客户量产验证阶段。 公司当前的核心业务聚焦两大方向： 一是碳化硅衬底激光分片设备。中微精仪自研的脉冲可编程与裂纹定向诱导生长技术，已能将分片损耗稳定控制在40微米以内，远低于行业常见的80-120微米水平。 当前，碳化硅行业正经历从6英寸向8英寸产线升级的关键窗口期。据陈景煜判断，近两年下游需求端正在快速扩张，数据中心电源对碳化硅器件的需求显著",
+      "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业激光装备制造商——中微精仪科技（深圳）有限公司（下称“中微精仪”）近期已完成数千万元天使+轮融资，由创维投资独家投资。资金将主要用于市场拓展、产能提升及新产品开发。 中微精仪成立于2024年11月，专注于碳化硅晶锭激光剥离、金刚石激光剥离、水导激光精密加工等高端工业激光装备的研发与制造。公司创始人陈景煜为澳大利亚新南威尔士大学研究员，长期从事特种芯片集成开发；首席科学家孙洪波则为中国科学院院士、清华大学教授，是非线性激光超精密制造领域的先驱。 与市面上多数激光设备公司不同，中微精仪定位为激光精密加工技术平台，覆盖从机理研究、工艺开发到工程化落地的全链条。其设备已在碳化硅衬底切割、金刚石加工等领域进入头部客户量产验证阶段。 公司当前的核心业务聚焦两大方向： 一是碳化硅衬底激光分片设备。中微精仪自研的脉冲可编程与裂纹定向诱导生长技术，已能将分片损耗稳定控制在40微米以内，远低于行业常见的80-120微米水平。 当前，碳化硅行业正经历从6英寸向8英寸产线升级的关键窗口期。据陈景煜判断，近两年下游需求端正在快速扩张，数据中心电源对碳化硅器件的需求显著",
+      "publishedAt": "2026-06-11T01:24:41Z",
+      "published_at": "2026-06-11T01:24:41Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "a8e631fe",
+      "title": "行业首创AI志愿填报+真人专家验真，百度全新升级高考服务",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/434268.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/434268.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "行业首创AI志愿填报+真人专家验真，百度全新升级高考服务  量子位的朋友们 2026-06-11 10:08:25  来源：量子位   全新的AI志愿报告   6月10日，百度在北京举办高考媒体沟通会，正式发布今年高考服务全面升级方案，推出全新的AI志愿报告，并引入业内首创的真人专家背书机制，向全体考生免费开放。 今年全国高考报名人数达1290万，然而与庞大考生规模形成对比的，是志愿填报领域长期存在的信息鸿沟。调研数据显示，即便在信息资源更为丰富的一二线城市，也仅有32.6%的家庭能做到科学合理的高考规划；而今年57.27%的考生来自县域高中，普遍面临严重的信息不对称。 针对这些痛点，百度今年首次引入了真人专家背书机制，由资深志愿咨询师对AI生成的志愿报告进行专业审核认证。AI算法负责精准测算，行业专家负责经验兜底，旨在填补AI工具在考生信任层面的缺口。 在产品能力上，AI志愿报告通过文心助手多轮对话采集考生个人信息，生成专属画像，结合历年投档分数线、高校及专业数据、专业就业前景等多维数据库，为每位考生输出个性化的志愿填报方案，并附上完整的填报逻辑说明。让志愿推荐不再是冰冷的名单堆砌，",
+      "summary_zh": "行业首创AI志愿填报+真人专家验真，百度全新升级高考服务  量子位的朋友们 2026-06-11 10:08:25  来源：量子位   全新的AI志愿报告   6月10日，百度在北京举办高考媒体沟通会，正式发布今年高考服务全面升级方案，推出全新的AI志愿报告，并引入业内首创的真人专家背书机制，向全体考生免费开放。 今年全国高考报名人数达1290万，然而与庞大考生规模形成对比的，是志愿填报领域长期存在的信息鸿沟。调研数据显示，即便在信息资源更为丰富的一二线城市，也仅有32.6%的家庭能做到科学合理的高考规划；而今年57.27%的考生来自县域高中，普遍面临严重的信息不对称。 针对这些痛点，百度今年首次引入了真人专家背书机制，由资深志愿咨询师对AI生成的志愿报告进行专业审核认证。AI算法负责精准测算，行业专家负责经验兜底，旨在填补AI工具在考生信任层面的缺口。 在产品能力上，AI志愿报告通过文心助手多轮对话采集考生个人信息，生成专属画像，结合历年投档分数线、高校及专业数据、专业就业前景等多维数据库，为每位考生输出个性化的志愿填报方案，并附上完整的填报逻辑说明。让志愿推荐不再是冰冷的名单堆砌，",
+      "publishedAt": "2026-06-11T02:08:25Z",
+      "published_at": "2026-06-11T02:08:25Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

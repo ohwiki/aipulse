@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-06-11T12:28:03Z",
-  "generatedAt": "2026-06-11T12:28:03Z",
-  "count": 30,
-  "total": 30,
+  "generated_at": "2026-06-11T22:21:22Z",
+  "generatedAt": "2026-06-11T22:21:22Z",
+  "count": 31,
+  "total": 31,
   "entries": [
+    {
+      "date": "2026-06-12",
+      "generated_at": "2026-06-11T22:21:22Z",
+      "generatedAt": "2026-06-11T22:21:22Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "ee3bf8f4",
+          "title": "产品更新：Bond",
+          "title_en": "Bond",
+          "url": "https://www.producthunt.com/products/bond-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/bond-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The AI to-do list that does itself Bond is an",
+          "summary_zh": "The AI to-do list that does itself Bond is an",
+          "publishedAt": "2026-06-11T07:01:00Z",
+          "published_at": "2026-06-11T07:01:00Z",
+          "votes_count": 522,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "61e8ace9",
+          "title": "AI资讯更新：Respan Gatewa",
+          "title_en": "Respan Gateway",
+          "url": "https://www.producthunt.com/products/keywords-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/keywords-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "One AI gateway with built-in observability and",
+          "summary_zh": "One AI gateway with built-in observability and",
+          "publishedAt": "2026-06-11T07:01:00Z",
+          "published_at": "2026-06-11T07:01:00Z",
+          "votes_count": 354,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1bec4b4a",
+          "title": "产品更新：Asmi AI",
+          "title_en": "Asmi AI",
+          "url": "https://www.producthunt.com/products/asmi-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/asmi-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI that handles your personal chores in the re",
+          "summary_zh": "AI that handles your personal chores in the re",
+          "publishedAt": "2026-06-11T07:01:00Z",
+          "published_at": "2026-06-11T07:01:00Z",
+          "votes_count": 311,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "generated_at": "2026-06-11T12:28:03Z",
