@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-06-12T12:01:20Z",
-  "generatedAt": "2026-06-12T12:01:20Z",
-  "count": 31,
-  "total": 31,
+  "generated_at": "2026-06-12T22:04:24Z",
+  "generatedAt": "2026-06-12T22:04:24Z",
+  "count": 32,
+  "total": 32,
   "entries": [
+    {
+      "date": "2026-06-13",
+      "generated_at": "2026-06-12T22:04:24Z",
+      "generatedAt": "2026-06-12T22:04:24Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "96c18d98",
+          "title": "AI资讯更新：Firma.dev",
+          "title_en": "Firma.dev",
+          "url": "https://www.producthunt.com/products/firma-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/firma-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "E-signatures API for your app averaging ~3¢ pe",
+          "summary_zh": "E-signatures API for your app averaging ~3¢ pe",
+          "publishedAt": "2026-06-12T07:01:00Z",
+          "published_at": "2026-06-12T07:01:00Z",
+          "votes_count": 278,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "19a822cd",
+          "title": "产品更新：Qursor",
+          "title_en": "Qursor",
+          "url": "https://www.producthunt.com/products/qursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/qursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Point at any UI to send exact context to your",
+          "summary_zh": "Point at any UI to send exact context to your",
+          "publishedAt": "2026-06-12T07:01:00Z",
+          "published_at": "2026-06-12T07:01:00Z",
+          "votes_count": 246,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8d552147",
+          "title": "AI资讯更新：Pond",
+          "title_en": "Pond",
+          "url": "https://www.producthunt.com/products/pond-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pond-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Fundraising, GTM, and bounties for startups Po",
+          "summary_zh": "Fundraising, GTM, and bounties for startups Po",
+          "publishedAt": "2026-06-12T07:01:00Z",
+          "published_at": "2026-06-12T07:01:00Z",
+          "votes_count": 201,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "791",
+              "name": "Fundraising",
+              "slug": "fundraising"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "generated_at": "2026-06-12T12:01:20Z",
