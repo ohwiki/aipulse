@@ -1,0 +1,483 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-13T21:42:54Z",
+  "generatedAt": "2026-06-13T21:42:54Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "ce66e408",
+          "title": "产品更新：Vercel Drop",
+          "title_en": "Vercel Drop",
+          "url": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Drop it. It's live. Vercel Drop lets you deplo",
+          "summary_zh": "Drop it. It's live. Vercel Drop lets you deplo",
+          "publishedAt": "2026-06-13T07:01:00Z",
+          "published_at": "2026-06-13T07:01:00Z",
+          "votes_count": 323,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "99cf7663",
+          "title": "模型更新：Kimi K2.7 Code",
+          "title_en": "Kimi K2.7 Code",
+          "url": "https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Kimi’s most capable coding model yet Kimi K2.7",
+          "summary_zh": "Kimi’s most capable coding model yet Kimi K2.7",
+          "publishedAt": "2026-06-13T07:01:00Z",
+          "published_at": "2026-06-13T07:01:00Z",
+          "votes_count": 242,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3b22fa31",
+          "title": "产品更新：Prometheus by F",
+          "title_en": "Prometheus by Firecrawl",
+          "url": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A Forward Deployed Agent for web data. An expe",
+          "summary_zh": "A Forward Deployed Agent for web data. An expe",
+          "publishedAt": "2026-06-13T07:01:00Z",
+          "published_at": "2026-06-13T07:01:00Z",
+          "votes_count": 177,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3deb007c",
+          "title": "产品更新：CakewordAI",
+          "title_en": "CakewordAI",
+          "url": "https://www.producthunt.com/products/cakewordai-snap-learn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cakewordai-snap-learn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Point at anything to learn its name in any lan",
+          "summary_zh": "Point at anything to learn its name in any lan",
+          "publishedAt": "2026-06-13T07:01:00Z",
+          "published_at": "2026-06-13T07:01:00Z",
+          "votes_count": 162,
+          "featured": true,
+          "topics": [
+            {
+              "id": "157",
+              "name": "Kids",
+              "slug": "kids"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "bba2eafb",
+          "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+          "title_en": null,
+          "url": "https://36kr.com/p/3850898430989577?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3850898430989577?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览 Kimi与一国有银行合作，全球首张AI原生信用卡开放预约 韩美半导体将使用500亿韩元投资于SpaceX SK海力士回应本月发生第二起火灾 杭州小龙虾降价超50% 金价连跌，批发商集中补货 TOP3大新闻 SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍 当地时间6月12日，万众瞩目的太空探索公司SpaceX于在纳斯达克交易所完成了上市。SpaceX是有史以来规模最大的IPO，发行价定为135美元，对应市值达1.77万亿美元。该股开盘价150美元，午盘涨幅一度突破30%触及176.53美元，随后股价震荡回落收盘报160.99美元，涨幅19.22%，跻身美国市值第六大企业，总市值达到2.1万亿美元。马斯克的个人财富随之升至约1.05万亿美元，成为全球首位净资产超过万亿美元的富翁。这相当于瑞士全年GDP，根据彭博富豪指数，这约等于全球第二到第五名富豪总和，是“股神”巴菲特1450亿美元的七倍。（第一财经） 胖东来：从未有任何降薪决定 6月12日，针对网络上出现大量关于“胖东来大幅降薪，将调整员工薪酬”、“员工不值这么多钱”“员工收入六千已经非常好了”等话题的讨论，胖东",
+          "summary_zh": "今日热点导览 Kimi与一国有银行合作，全球首张AI原生信用卡开放预约 韩美半导体将使用500亿韩元投资于SpaceX SK海力士回应本月发生第二起火灾 杭州小龙虾降价超50% 金价连跌，批发商集中补货 TOP3大新闻 SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍 当地时间6月12日，万众瞩目的太空探索公司SpaceX于在纳斯达克交易所完成了上市。SpaceX是有史以来规模最大的IPO，发行价定为135美元，对应市值达1.77万亿美元。该股开盘价150美元，午盘涨幅一度突破30%触及176.53美元，随后股价震荡回落收盘报160.99美元，涨幅19.22%，跻身美国市值第六大企业，总市值达到2.1万亿美元。马斯克的个人财富随之升至约1.05万亿美元，成为全球首位净资产超过万亿美元的富翁。这相当于瑞士全年GDP，根据彭博富豪指数，这约等于全球第二到第五名富豪总和，是“股神”巴菲特1450亿美元的七倍。（第一财经） 胖东来：从未有任何降薪决定 6月12日，针对网络上出现大量关于“胖东来大幅降薪，将调整员工薪酬”、“员工不值这么多钱”“员工收入六千已经非常好了”等话题的讨论，胖东",
+          "publishedAt": "2026-06-13T01:01:24Z",
+          "published_at": "2026-06-13T01:01:24Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "87c83f9d",
+          "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+          "title_en": null,
+          "url": "https://36kr.com/p/3850902095336449?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3850902095336449?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "6月12日晚，SpaceX以史上最大估值完成IPO，股价冲高至176美元，截至目前市值已经突破2万亿美元。 马斯克成为历史上第一位万亿美元身价的富豪。  马斯克在得克萨斯“星际基地”（Starbase）敲钟 其实在SpaceX敲钟之前，大洋彼岸的行业水温早已接近沸腾。 过去半年，商业航天成为国内一级市场最热的赛道之一。投资人排队约见创始人，地方政府争抢项目落地，一些过去很少关注航天的基金，也开始研究火箭、卫星和星座。“头部项目现在整个市场有几百家机构在跟，根本聊不上。”一位长期关注商业航天的投资人告诉硬氪。 资本涌入的速度和规模都在刷新纪录，头部公司融资金额动辄20亿元以上。最大的一笔是2026年2月星际荣耀的D++轮，金额超过50亿元。 热度并非毫无根基。从2014年政策破冰，到2025年IPO大门开启，中国商业航天恰好走完一个十年周期。 十年中，失望和寒冬几乎是常态，偶尔的回温也转瞬即逝。火箭太贵，周期太长，商业闭环迟迟没有出现。投进去的钱短期内看不到结果，“一级市场投不动了”。 但2026年，市场的情绪彻底扭转。SpaceX的IPO证明这个赛道的价值，中国上市通道打开，愿景有了兑",
+          "summary_zh": "6月12日晚，SpaceX以史上最大估值完成IPO，股价冲高至176美元，截至目前市值已经突破2万亿美元。 马斯克成为历史上第一位万亿美元身价的富豪。  马斯克在得克萨斯“星际基地”（Starbase）敲钟 其实在SpaceX敲钟之前，大洋彼岸的行业水温早已接近沸腾。 过去半年，商业航天成为国内一级市场最热的赛道之一。投资人排队约见创始人，地方政府争抢项目落地，一些过去很少关注航天的基金，也开始研究火箭、卫星和星座。“头部项目现在整个市场有几百家机构在跟，根本聊不上。”一位长期关注商业航天的投资人告诉硬氪。 资本涌入的速度和规模都在刷新纪录，头部公司融资金额动辄20亿元以上。最大的一笔是2026年2月星际荣耀的D++轮，金额超过50亿元。 热度并非毫无根基。从2014年政策破冰，到2025年IPO大门开启，中国商业航天恰好走完一个十年周期。 十年中，失望和寒冬几乎是常态，偶尔的回温也转瞬即逝。火箭太贵，周期太长，商业闭环迟迟没有出现。投进去的钱短期内看不到结果，“一级市场投不动了”。 但2026年，市场的情绪彻底扭转。SpaceX的IPO证明这个赛道的价值，中国上市通道打开，愿景有了兑",
+          "publishedAt": "2026-06-13T01:02:18Z",
+          "published_at": "2026-06-13T01:02:18Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "7951834d",
+          "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
+          "title_en": null,
+          "url": "https://36kr.com/p/3850904887268611?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3850904887268611?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "硬氪获悉，中科电墨近日完成数千万元Pre-A轮融资，由西安龙鼎投资独家投资。本轮融资将主要用于车规级电致变色产线建设、核心材料研发迭代以及汽车领域市场拓展。 伴随新能源汽车向智能化、舒适化方向升级，汽车玻璃正从传统结构件逐步演变为集隔热、防晒、隐私保护和交互体验于一体的功能件。尤其是全景天幕快速普及后，调光玻璃开始成为车企提升产品差异化的重要配置之一。 目前市场主流调光技术主要包括PDLC（液晶调光）、SPD（悬浮粒子调光）以及EC（电致变色）三种路线。PDLC和SPD主要依靠光散射实现遮蔽效果，普遍存在雾度较高、隔热能力有限、驱动电压较高等问题。而电致变色技术则通过材料发生氧化还原反应，实现玻璃透光率变化，不仅能够实现连续调光，同时具备低雾度、低能耗以及隔绝红外热辐射等优势，被认为是下一代智能玻璃的重要技术路线之一。 中科电墨成立于2023年，专注于电致变色核心材料及器件研发。公司首席科学家马明明博士长期从事导电高分子材料研究，于2017年成功研发出相关核心材料体系。通过引入自主设计的导电聚合物材料，中科电墨突破了长期由海外企业主导的关键材料环节，在性能提升的同时显著降低成本。 据张",
+          "summary_zh": "硬氪获悉，中科电墨近日完成数千万元Pre-A轮融资，由西安龙鼎投资独家投资。本轮融资将主要用于车规级电致变色产线建设、核心材料研发迭代以及汽车领域市场拓展。 伴随新能源汽车向智能化、舒适化方向升级，汽车玻璃正从传统结构件逐步演变为集隔热、防晒、隐私保护和交互体验于一体的功能件。尤其是全景天幕快速普及后，调光玻璃开始成为车企提升产品差异化的重要配置之一。 目前市场主流调光技术主要包括PDLC（液晶调光）、SPD（悬浮粒子调光）以及EC（电致变色）三种路线。PDLC和SPD主要依靠光散射实现遮蔽效果，普遍存在雾度较高、隔热能力有限、驱动电压较高等问题。而电致变色技术则通过材料发生氧化还原反应，实现玻璃透光率变化，不仅能够实现连续调光，同时具备低雾度、低能耗以及隔绝红外热辐射等优势，被认为是下一代智能玻璃的重要技术路线之一。 中科电墨成立于2023年，专注于电致变色核心材料及器件研发。公司首席科学家马明明博士长期从事导电高分子材料研究，于2017年成功研发出相关核心材料体系。通过引入自主设计的导电聚合物材料，中科电墨突破了长期由海外企业主导的关键材料环节，在性能提升的同时显著降低成本。 据张",
+          "publishedAt": "2026-06-13T01:04:10Z",
+          "published_at": "2026-06-13T01:04:10Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "06245aa8",
+          "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/435339.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/435339.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋  一水 2026-06-13 12:05:19  来源：量子位   马斯克成人类历史首位万亿美金富豪  SpaceX上市了，整个科技圈都在发祝贺。 高盛CEO、摩根大通CEO、a16z合伙人Katherine Boyle、特斯拉前AI总监&现Anthropic研究员卡帕西……纷纷下场发帖。 所有人的心情都和卡帕西一样，两个词：激动、震撼。    但比起这些庆祝和感叹，更让我印象深刻的，是敲钟前流出的两段视频。 一段来自马斯克本人，在德州Starbase穿着皮衣（注意后面要考）远程连线。 另一段来自SpaceX女总裁格温·肖特韦尔（Gwynne Shotwell），站在纽约纳斯达克敲钟台上。 两段发言放在一起看，恰好构成了一个完美的对照组。 马斯克谈的是火星、文明和人类未来。他说SpaceX存在的意义，是让人类成为跨行星物种。 格温谈的则是另一件事：24年里，他们发射了多少枚火箭、送上去了多少颗卫星、完成了多少次回收，以及有多少人参与了这场漫长的工程。 一个在讲终点，一个在讲路程。 某种程度上，这也是SpaceX过去24年的缩影",
+          "summary_zh": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋  一水 2026-06-13 12:05:19  来源：量子位   马斯克成人类历史首位万亿美金富豪  SpaceX上市了，整个科技圈都在发祝贺。 高盛CEO、摩根大通CEO、a16z合伙人Katherine Boyle、特斯拉前AI总监&现Anthropic研究员卡帕西……纷纷下场发帖。 所有人的心情都和卡帕西一样，两个词：激动、震撼。    但比起这些庆祝和感叹，更让我印象深刻的，是敲钟前流出的两段视频。 一段来自马斯克本人，在德州Starbase穿着皮衣（注意后面要考）远程连线。 另一段来自SpaceX女总裁格温·肖特韦尔（Gwynne Shotwell），站在纽约纳斯达克敲钟台上。 两段发言放在一起看，恰好构成了一个完美的对照组。 马斯克谈的是火星、文明和人类未来。他说SpaceX存在的意义，是让人类成为跨行星物种。 格温谈的则是另一件事：24年里，他们发射了多少枚火箭、送上去了多少颗卫星、完成了多少次回收，以及有多少人参与了这场漫长的工程。 一个在讲终点，一个在讲路程。 某种程度上，这也是SpaceX过去24年的缩影",
+          "publishedAt": "2026-06-13T04:05:19Z",
+          "published_at": "2026-06-13T04:05:19Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "ce66e408",
+      "title": "产品更新：Vercel Drop",
+      "title_en": "Vercel Drop",
+      "url": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Drop it. It's live. Vercel Drop lets you deplo",
+      "summary_zh": "Drop it. It's live. Vercel Drop lets you deplo",
+      "publishedAt": "2026-06-13T07:01:00Z",
+      "published_at": "2026-06-13T07:01:00Z",
+      "votes_count": 323,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "99cf7663",
+      "title": "模型更新：Kimi K2.7 Code",
+      "title_en": "Kimi K2.7 Code",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Kimi’s most capable coding model yet Kimi K2.7",
+      "summary_zh": "Kimi’s most capable coding model yet Kimi K2.7",
+      "publishedAt": "2026-06-13T07:01:00Z",
+      "published_at": "2026-06-13T07:01:00Z",
+      "votes_count": 242,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3b22fa31",
+      "title": "产品更新：Prometheus by F",
+      "title_en": "Prometheus by Firecrawl",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A Forward Deployed Agent for web data. An expe",
+      "summary_zh": "A Forward Deployed Agent for web data. An expe",
+      "publishedAt": "2026-06-13T07:01:00Z",
+      "published_at": "2026-06-13T07:01:00Z",
+      "votes_count": 177,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3deb007c",
+      "title": "产品更新：CakewordAI",
+      "title_en": "CakewordAI",
+      "url": "https://www.producthunt.com/products/cakewordai-snap-learn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cakewordai-snap-learn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Point at anything to learn its name in any lan",
+      "summary_zh": "Point at anything to learn its name in any lan",
+      "publishedAt": "2026-06-13T07:01:00Z",
+      "published_at": "2026-06-13T07:01:00Z",
+      "votes_count": 162,
+      "featured": true,
+      "topics": [
+        {
+          "id": "157",
+          "name": "Kids",
+          "slug": "kids"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "bba2eafb",
+      "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+      "title_en": null,
+      "url": "https://36kr.com/p/3850898430989577?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3850898430989577?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览 Kimi与一国有银行合作，全球首张AI原生信用卡开放预约 韩美半导体将使用500亿韩元投资于SpaceX SK海力士回应本月发生第二起火灾 杭州小龙虾降价超50% 金价连跌，批发商集中补货 TOP3大新闻 SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍 当地时间6月12日，万众瞩目的太空探索公司SpaceX于在纳斯达克交易所完成了上市。SpaceX是有史以来规模最大的IPO，发行价定为135美元，对应市值达1.77万亿美元。该股开盘价150美元，午盘涨幅一度突破30%触及176.53美元，随后股价震荡回落收盘报160.99美元，涨幅19.22%，跻身美国市值第六大企业，总市值达到2.1万亿美元。马斯克的个人财富随之升至约1.05万亿美元，成为全球首位净资产超过万亿美元的富翁。这相当于瑞士全年GDP，根据彭博富豪指数，这约等于全球第二到第五名富豪总和，是“股神”巴菲特1450亿美元的七倍。（第一财经） 胖东来：从未有任何降薪决定 6月12日，针对网络上出现大量关于“胖东来大幅降薪，将调整员工薪酬”、“员工不值这么多钱”“员工收入六千已经非常好了”等话题的讨论，胖东",
+      "summary_zh": "今日热点导览 Kimi与一国有银行合作，全球首张AI原生信用卡开放预约 韩美半导体将使用500亿韩元投资于SpaceX SK海力士回应本月发生第二起火灾 杭州小龙虾降价超50% 金价连跌，批发商集中补货 TOP3大新闻 SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍 当地时间6月12日，万众瞩目的太空探索公司SpaceX于在纳斯达克交易所完成了上市。SpaceX是有史以来规模最大的IPO，发行价定为135美元，对应市值达1.77万亿美元。该股开盘价150美元，午盘涨幅一度突破30%触及176.53美元，随后股价震荡回落收盘报160.99美元，涨幅19.22%，跻身美国市值第六大企业，总市值达到2.1万亿美元。马斯克的个人财富随之升至约1.05万亿美元，成为全球首位净资产超过万亿美元的富翁。这相当于瑞士全年GDP，根据彭博富豪指数，这约等于全球第二到第五名富豪总和，是“股神”巴菲特1450亿美元的七倍。（第一财经） 胖东来：从未有任何降薪决定 6月12日，针对网络上出现大量关于“胖东来大幅降薪，将调整员工薪酬”、“员工不值这么多钱”“员工收入六千已经非常好了”等话题的讨论，胖东",
+      "publishedAt": "2026-06-13T01:01:24Z",
+      "published_at": "2026-06-13T01:01:24Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "87c83f9d",
+      "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+      "title_en": null,
+      "url": "https://36kr.com/p/3850902095336449?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3850902095336449?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "6月12日晚，SpaceX以史上最大估值完成IPO，股价冲高至176美元，截至目前市值已经突破2万亿美元。 马斯克成为历史上第一位万亿美元身价的富豪。  马斯克在得克萨斯“星际基地”（Starbase）敲钟 其实在SpaceX敲钟之前，大洋彼岸的行业水温早已接近沸腾。 过去半年，商业航天成为国内一级市场最热的赛道之一。投资人排队约见创始人，地方政府争抢项目落地，一些过去很少关注航天的基金，也开始研究火箭、卫星和星座。“头部项目现在整个市场有几百家机构在跟，根本聊不上。”一位长期关注商业航天的投资人告诉硬氪。 资本涌入的速度和规模都在刷新纪录，头部公司融资金额动辄20亿元以上。最大的一笔是2026年2月星际荣耀的D++轮，金额超过50亿元。 热度并非毫无根基。从2014年政策破冰，到2025年IPO大门开启，中国商业航天恰好走完一个十年周期。 十年中，失望和寒冬几乎是常态，偶尔的回温也转瞬即逝。火箭太贵，周期太长，商业闭环迟迟没有出现。投进去的钱短期内看不到结果，“一级市场投不动了”。 但2026年，市场的情绪彻底扭转。SpaceX的IPO证明这个赛道的价值，中国上市通道打开，愿景有了兑",
+      "summary_zh": "6月12日晚，SpaceX以史上最大估值完成IPO，股价冲高至176美元，截至目前市值已经突破2万亿美元。 马斯克成为历史上第一位万亿美元身价的富豪。  马斯克在得克萨斯“星际基地”（Starbase）敲钟 其实在SpaceX敲钟之前，大洋彼岸的行业水温早已接近沸腾。 过去半年，商业航天成为国内一级市场最热的赛道之一。投资人排队约见创始人，地方政府争抢项目落地，一些过去很少关注航天的基金，也开始研究火箭、卫星和星座。“头部项目现在整个市场有几百家机构在跟，根本聊不上。”一位长期关注商业航天的投资人告诉硬氪。 资本涌入的速度和规模都在刷新纪录，头部公司融资金额动辄20亿元以上。最大的一笔是2026年2月星际荣耀的D++轮，金额超过50亿元。 热度并非毫无根基。从2014年政策破冰，到2025年IPO大门开启，中国商业航天恰好走完一个十年周期。 十年中，失望和寒冬几乎是常态，偶尔的回温也转瞬即逝。火箭太贵，周期太长，商业闭环迟迟没有出现。投进去的钱短期内看不到结果，“一级市场投不动了”。 但2026年，市场的情绪彻底扭转。SpaceX的IPO证明这个赛道的价值，中国上市通道打开，愿景有了兑",
+      "publishedAt": "2026-06-13T01:02:18Z",
+      "published_at": "2026-06-13T01:02:18Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "7951834d",
+      "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
+      "title_en": null,
+      "url": "https://36kr.com/p/3850904887268611?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3850904887268611?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "硬氪获悉，中科电墨近日完成数千万元Pre-A轮融资，由西安龙鼎投资独家投资。本轮融资将主要用于车规级电致变色产线建设、核心材料研发迭代以及汽车领域市场拓展。 伴随新能源汽车向智能化、舒适化方向升级，汽车玻璃正从传统结构件逐步演变为集隔热、防晒、隐私保护和交互体验于一体的功能件。尤其是全景天幕快速普及后，调光玻璃开始成为车企提升产品差异化的重要配置之一。 目前市场主流调光技术主要包括PDLC（液晶调光）、SPD（悬浮粒子调光）以及EC（电致变色）三种路线。PDLC和SPD主要依靠光散射实现遮蔽效果，普遍存在雾度较高、隔热能力有限、驱动电压较高等问题。而电致变色技术则通过材料发生氧化还原反应，实现玻璃透光率变化，不仅能够实现连续调光，同时具备低雾度、低能耗以及隔绝红外热辐射等优势，被认为是下一代智能玻璃的重要技术路线之一。 中科电墨成立于2023年，专注于电致变色核心材料及器件研发。公司首席科学家马明明博士长期从事导电高分子材料研究，于2017年成功研发出相关核心材料体系。通过引入自主设计的导电聚合物材料，中科电墨突破了长期由海外企业主导的关键材料环节，在性能提升的同时显著降低成本。 据张",
+      "summary_zh": "硬氪获悉，中科电墨近日完成数千万元Pre-A轮融资，由西安龙鼎投资独家投资。本轮融资将主要用于车规级电致变色产线建设、核心材料研发迭代以及汽车领域市场拓展。 伴随新能源汽车向智能化、舒适化方向升级，汽车玻璃正从传统结构件逐步演变为集隔热、防晒、隐私保护和交互体验于一体的功能件。尤其是全景天幕快速普及后，调光玻璃开始成为车企提升产品差异化的重要配置之一。 目前市场主流调光技术主要包括PDLC（液晶调光）、SPD（悬浮粒子调光）以及EC（电致变色）三种路线。PDLC和SPD主要依靠光散射实现遮蔽效果，普遍存在雾度较高、隔热能力有限、驱动电压较高等问题。而电致变色技术则通过材料发生氧化还原反应，实现玻璃透光率变化，不仅能够实现连续调光，同时具备低雾度、低能耗以及隔绝红外热辐射等优势，被认为是下一代智能玻璃的重要技术路线之一。 中科电墨成立于2023年，专注于电致变色核心材料及器件研发。公司首席科学家马明明博士长期从事导电高分子材料研究，于2017年成功研发出相关核心材料体系。通过引入自主设计的导电聚合物材料，中科电墨突破了长期由海外企业主导的关键材料环节，在性能提升的同时显著降低成本。 据张",
+      "publishedAt": "2026-06-13T01:04:10Z",
+      "published_at": "2026-06-13T01:04:10Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "06245aa8",
+      "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/435339.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/435339.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋  一水 2026-06-13 12:05:19  来源：量子位   马斯克成人类历史首位万亿美金富豪  SpaceX上市了，整个科技圈都在发祝贺。 高盛CEO、摩根大通CEO、a16z合伙人Katherine Boyle、特斯拉前AI总监&现Anthropic研究员卡帕西……纷纷下场发帖。 所有人的心情都和卡帕西一样，两个词：激动、震撼。    但比起这些庆祝和感叹，更让我印象深刻的，是敲钟前流出的两段视频。 一段来自马斯克本人，在德州Starbase穿着皮衣（注意后面要考）远程连线。 另一段来自SpaceX女总裁格温·肖特韦尔（Gwynne Shotwell），站在纽约纳斯达克敲钟台上。 两段发言放在一起看，恰好构成了一个完美的对照组。 马斯克谈的是火星、文明和人类未来。他说SpaceX存在的意义，是让人类成为跨行星物种。 格温谈的则是另一件事：24年里，他们发射了多少枚火箭、送上去了多少颗卫星、完成了多少次回收，以及有多少人参与了这场漫长的工程。 一个在讲终点，一个在讲路程。 某种程度上，这也是SpaceX过去24年的缩影",
+      "summary_zh": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋  一水 2026-06-13 12:05:19  来源：量子位   马斯克成人类历史首位万亿美金富豪  SpaceX上市了，整个科技圈都在发祝贺。 高盛CEO、摩根大通CEO、a16z合伙人Katherine Boyle、特斯拉前AI总监&现Anthropic研究员卡帕西……纷纷下场发帖。 所有人的心情都和卡帕西一样，两个词：激动、震撼。    但比起这些庆祝和感叹，更让我印象深刻的，是敲钟前流出的两段视频。 一段来自马斯克本人，在德州Starbase穿着皮衣（注意后面要考）远程连线。 另一段来自SpaceX女总裁格温·肖特韦尔（Gwynne Shotwell），站在纽约纳斯达克敲钟台上。 两段发言放在一起看，恰好构成了一个完美的对照组。 马斯克谈的是火星、文明和人类未来。他说SpaceX存在的意义，是让人类成为跨行星物种。 格温谈的则是另一件事：24年里，他们发射了多少枚火箭、送上去了多少颗卫星、完成了多少次回收，以及有多少人参与了这场漫长的工程。 一个在讲终点，一个在讲路程。 某种程度上，这也是SpaceX过去24年的缩影",
+      "publishedAt": "2026-06-13T04:05:19Z",
+      "published_at": "2026-06-13T04:05:19Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

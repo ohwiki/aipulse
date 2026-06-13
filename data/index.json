@@ -1,9 +1,122 @@
 {
-  "generated_at": "2026-06-13T10:57:08Z",
-  "generatedAt": "2026-06-13T10:57:08Z",
-  "count": 32,
-  "total": 32,
+  "generated_at": "2026-06-13T21:42:54Z",
+  "generatedAt": "2026-06-13T21:42:54Z",
+  "count": 33,
+  "total": 33,
   "entries": [
+    {
+      "date": "2026-06-14",
+      "generated_at": "2026-06-13T21:42:54Z",
+      "generatedAt": "2026-06-13T21:42:54Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "ce66e408",
+          "title": "产品更新：Vercel Drop",
+          "title_en": "Vercel Drop",
+          "url": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Drop it. It's live. Vercel Drop lets you deplo",
+          "summary_zh": "Drop it. It's live. Vercel Drop lets you deplo",
+          "publishedAt": "2026-06-13T07:01:00Z",
+          "published_at": "2026-06-13T07:01:00Z",
+          "votes_count": 323,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "99cf7663",
+          "title": "模型更新：Kimi K2.7 Code",
+          "title_en": "Kimi K2.7 Code",
+          "url": "https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Kimi’s most capable coding model yet Kimi K2.7",
+          "summary_zh": "Kimi’s most capable coding model yet Kimi K2.7",
+          "publishedAt": "2026-06-13T07:01:00Z",
+          "published_at": "2026-06-13T07:01:00Z",
+          "votes_count": 242,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3b22fa31",
+          "title": "产品更新：Prometheus by F",
+          "title_en": "Prometheus by Firecrawl",
+          "url": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A Forward Deployed Agent for web data. An expe",
+          "summary_zh": "A Forward Deployed Agent for web data. An expe",
+          "publishedAt": "2026-06-13T07:01:00Z",
+          "published_at": "2026-06-13T07:01:00Z",
+          "votes_count": 177,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-13",
       "generated_at": "2026-06-13T10:57:08Z",
