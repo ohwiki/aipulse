@@ -1,73 +1,40 @@
 {
-  "generated_at": "2026-06-13T21:42:54Z",
-  "generatedAt": "2026-06-13T21:42:54Z",
+  "generated_at": "2026-06-14T11:12:50Z",
+  "generatedAt": "2026-06-14T11:12:50Z",
   "count": 33,
   "total": 33,
   "entries": [
     {
       "date": "2026-06-14",
-      "generated_at": "2026-06-13T21:42:54Z",
-      "generatedAt": "2026-06-13T21:42:54Z",
-      "total": 8,
+      "generated_at": "2026-06-14T11:12:50Z",
+      "generatedAt": "2026-06-14T11:12:50Z",
+      "total": 5,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "ce66e408",
-          "title": "产品更新：Vercel Drop",
-          "title_en": "Vercel Drop",
-          "url": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "76b7f25a",
+          "title": "产品更新：Slashy",
+          "title_en": "Slashy",
+          "url": "https://www.producthunt.com/products/slashy-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/slashy-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Drop it. It's live. Vercel Drop lets you deplo",
-          "summary_zh": "Drop it. It's live. Vercel Drop lets you deplo",
-          "publishedAt": "2026-06-13T07:01:00Z",
-          "published_at": "2026-06-13T07:01:00Z",
-          "votes_count": 323,
+          "summary": "The AI assistant that does email for you Slash",
+          "summary_zh": "The AI assistant that does email for you Slash",
+          "publishedAt": "2026-06-14T07:01:00Z",
+          "published_at": "2026-06-14T07:01:00Z",
+          "votes_count": 123,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "99cf7663",
-          "title": "模型更新：Kimi K2.7 Code",
-          "title_en": "Kimi K2.7 Code",
-          "url": "https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Kimi’s most capable coding model yet Kimi K2.7",
-          "summary_zh": "Kimi’s most capable coding model yet Kimi K2.7",
-          "publishedAt": "2026-06-13T07:01:00Z",
-          "published_at": "2026-06-13T07:01:00Z",
-          "votes_count": 242,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
             },
             {
               "id": "268",
@@ -75,44 +42,55 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "589",
-              "name": "Development",
-              "slug": "development"
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
             }
           ],
           "score_details": null
         },
         {
-          "id": "3b22fa31",
-          "title": "产品更新：Prometheus by F",
-          "title_en": "Prometheus by Firecrawl",
-          "url": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "81a429cf",
+          "title": "增长停滞两年后，H&M重组全球架构，大中华区降级｜独家",
+          "title_en": null,
+          "url": "https://36kr.com/p/3850942780838912?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "A Forward Deployed Agent for web data. An expe",
-          "summary_zh": "A Forward Deployed Agent for web data. An expe",
-          "publishedAt": "2026-06-13T07:01:00Z",
-          "published_at": "2026-06-13T07:01:00Z",
-          "votes_count": 177,
-          "featured": true,
-          "topics": [
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3850942780838912?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "文｜贺哲馨 编辑｜乔芊 36氪独家获悉，瑞典快时尚巨头H&M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。 大中华区在这轮调整中降级为26个销售市场之一，归属新成立的亚太洲级事业部（Continent Asia Pacific）管理。原大中华区总裁司懿德（Saed El-Achkar）将出任该事业部董事总经理（Managing Director），任命预计在6月25日集团半年报发布前后正式对外公布，新架构于7月1日落地运转。 除大中华区外，亚太事业部还管辖东南亚（总部吉隆坡）、东北亚（东京）、印度（班加罗尔）、澳大利亚和新西兰（悉尼）四个销售市场，事业部总部仍设于上海。 伴随降级而来的是编制收缩。36氪了解到，大中华区本地团队此轮裁员40余人，约为原有规模的四分之一。 这场调整大约始于半年前，东南亚和东亚市场变动幅度最大。5月中旬，马来西亚媒体Malay Mail率先曝光H&M东南亚总部从新加坡迁往吉隆坡的消息：原东亚区域256人编制中78个岗位被裁撤，约占区域支持人员的30%",
+          "summary_zh": "文｜贺哲馨 编辑｜乔芊 36氪独家获悉，瑞典快时尚巨头H&M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。 大中华区在这轮调整中降级为26个销售市场之一，归属新成立的亚太洲级事业部（Continent Asia Pacific）管理。原大中华区总裁司懿德（Saed El-Achkar）将出任该事业部董事总经理（Managing Director），任命预计在6月25日集团半年报发布前后正式对外公布，新架构于7月1日落地运转。 除大中华区外，亚太事业部还管辖东南亚（总部吉隆坡）、东北亚（东京）、印度（班加罗尔）、澳大利亚和新西兰（悉尼）四个销售市场，事业部总部仍设于上海。 伴随降级而来的是编制收缩。36氪了解到，大中华区本地团队此轮裁员40余人，约为原有规模的四分之一。 这场调整大约始于半年前，东南亚和东亚市场变动幅度最大。5月中旬，马来西亚媒体Malay Mail率先曝光H&M东南亚总部从新加坡迁往吉隆坡的消息：原东亚区域256人编制中78个岗位被裁撤，约占区域支持人员的30%",
+          "publishedAt": "2026-06-14T05:38:42Z",
+          "published_at": "2026-06-14T05:38:42Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "cf7321cb",
+          "title": "加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3852506866865414?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3852506866865414?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "一名加拿大母亲于周四在美国法院起诉人工智能企业OpenAI及其首席执行官山姆・奥特曼，指控聊天机器人ChatGPT诱导其女儿走向自杀。近期已有多起诉讼指责该公司未能管控用户与聊天机器人之间的危险对话，本案是最新一例。这起诉讼提交至旧金山州法院。原告克里斯蒂・卡里尔表示，女儿艾丽斯离世前，曾十数次向ChatGPT倾诉自杀念头，但OpenAI的安全系统既未将相关对话标记并转交人工审核，也没有终止对话。OpenAI方面称，公司对模型进行过专项训练，当用户流露自残、自杀倾向时，模型会引导其寻求帮助，并对接现实中的救助资源。OpenAI发言人德鲁・普萨泰里表示：“这起悲剧令人痛心，我们向所有受此事影响的人致以慰问。目前我们正在审阅这份诉状，诉状中提及的相关对话发生在旧版本ChatGPT上，该版本现已停止使用。”",
+          "summary_zh": "一名加拿大母亲于周四在美国法院起诉人工智能企业OpenAI及其首席执行官山姆・奥特曼，指控聊天机器人ChatGPT诱导其女儿走向自杀。近期已有多起诉讼指责该公司未能管控用户与聊天机器人之间的危险对话，本案是最新一例。这起诉讼提交至旧金山州法院。原告克里斯蒂・卡里尔表示，女儿艾丽斯离世前，曾十数次向ChatGPT倾诉自杀念头，但OpenAI的安全系统既未将相关对话标记并转交人工审核，也没有终止对话。OpenAI方面称，公司对模型进行过专项训练，当用户流露自残、自杀倾向时，模型会引导其寻求帮助，并对接现实中的救助资源。OpenAI发言人德鲁・普萨泰里表示：“这起悲剧令人痛心，我们向所有受此事影响的人致以慰问。目前我们正在审阅这份诉状，诉状中提及的相关对话发生在旧版本ChatGPT上，该版本现已停止使用。”",
+          "publishedAt": "2026-06-14T05:00:31Z",
+          "published_at": "2026-06-14T05:00:31Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
