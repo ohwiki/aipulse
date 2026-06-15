@@ -1,40 +1,78 @@
 {
-  "generated_at": "2026-06-14T21:47:12Z",
-  "generatedAt": "2026-06-14T21:47:12Z",
+  "generated_at": "2026-06-15T14:42:54Z",
+  "generatedAt": "2026-06-15T14:42:54Z",
   "count": 34,
   "total": 34,
   "entries": [
     {
       "date": "2026-06-15",
-      "generated_at": "2026-06-14T21:47:12Z",
-      "generatedAt": "2026-06-14T21:47:12Z",
+      "generated_at": "2026-06-15T14:42:54Z",
+      "generatedAt": "2026-06-15T14:42:54Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "76b7f25a",
-          "title": "产品更新：Slashy",
-          "title_en": "Slashy",
-          "url": "https://www.producthunt.com/products/slashy-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "76a7a645",
+          "title": "产品更新：Novu Connect",
+          "title_en": "Novu Connect",
+          "url": "https://www.producthunt.com/products/novu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/slashy-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/novu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "The AI assistant that does email for you Slash",
-          "summary_zh": "The AI assistant that does email for you Slash",
-          "publishedAt": "2026-06-14T07:01:00Z",
-          "published_at": "2026-06-14T07:01:00Z",
-          "votes_count": 307,
+          "summary": "Ship agents where your users already work Novu",
+          "summary_zh": "Ship agents where your users already work Novu",
+          "publishedAt": "2026-06-15T07:01:00Z",
+          "published_at": "2026-06-15T07:01:00Z",
+          "votes_count": 223,
           "featured": true,
           "topics": [
             {
-              "id": "39",
-              "name": "Email",
-              "slug": "email"
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b3d00a9a",
+          "title": "产品更新：Wobo 2.0",
+          "title_en": "Wobo 2.0",
+          "url": "https://www.producthunt.com/products/wobo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wobo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Tinder for jobs: swipe right and AI applies fo",
+          "summary_zh": "Tinder for jobs: swipe right and AI applies fo",
+          "publishedAt": "2026-06-15T07:01:00Z",
+          "published_at": "2026-06-15T07:01:00Z",
+          "votes_count": 156,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
               "id": "268",
@@ -42,37 +80,37 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "282",
-              "name": "Virtual Assistants",
-              "slug": "virtual-assistants"
+              "id": "835",
+              "name": "Career",
+              "slug": "career"
             }
           ],
           "score_details": null
         },
         {
-          "id": "a31a6028",
-          "title": "产品更新：Taste Lab",
-          "title_en": "Taste Lab",
-          "url": "https://www.producthunt.com/products/taste-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "592b414b",
+          "title": "产品更新：Kickbacks.ai",
+          "title_en": "Kickbacks.ai",
+          "url": "https://www.producthunt.com/products/kickbacks-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/taste-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/kickbacks-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Extract any website's design DNA Point your AI",
-          "summary_zh": "Extract any website's design DNA Point your AI",
-          "publishedAt": "2026-06-14T07:01:00Z",
-          "published_at": "2026-06-14T07:01:00Z",
-          "votes_count": 261,
+          "summary": "Get paid to wait for Claude Code to finish Kic",
+          "summary_zh": "Get paid to wait for Claude Code to finish Kic",
+          "publishedAt": "2026-06-15T07:01:00Z",
+          "published_at": "2026-06-15T07:01:00Z",
+          "votes_count": 144,
           "featured": true,
           "topics": [
             {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
             },
             {
               "id": "268",
@@ -80,47 +118,9 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "1194",
-              "name": "Vibe coding",
-              "slug": "vibe-coding"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "cc8da6a8",
-          "title": "产品更新：Athenic 2.0",
-          "title_en": "Athenic 2.0",
-          "url": "https://www.producthunt.com/products/athenic-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/athenic-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "A faster, smarter Athenic. Analyze on autopilo",
-          "summary_zh": "A faster, smarter Athenic. Analyze on autopilo",
-          "publishedAt": "2026-06-14T07:01:00Z",
-          "published_at": "2026-06-14T07:01:00Z",
-          "votes_count": 145,
-          "featured": true,
-          "topics": [
-            {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
-            },
-            {
-              "id": "774",
-              "name": "Business Intelligence",
-              "slug": "business-intelligence"
-            },
-            {
-              "id": "775",
-              "name": "Data Visualization",
-              "slug": "data-visualization"
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
             }
           ],
           "score_details": null
