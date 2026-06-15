@@ -1,0 +1,503 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-15T22:32:24Z",
+  "generatedAt": "2026-06-15T22:32:24Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "76a7a645",
+          "title": "产品更新：Novu Connect",
+          "title_en": "Novu Connect",
+          "url": "https://www.producthunt.com/products/novu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/novu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Ship agents where your users already work Novu",
+          "summary_zh": "Ship agents where your users already work Novu",
+          "publishedAt": "2026-06-15T07:01:00Z",
+          "published_at": "2026-06-15T07:01:00Z",
+          "votes_count": 325,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b3d00a9a",
+          "title": "产品更新：Wobo 2.0",
+          "title_en": "Wobo 2.0",
+          "url": "https://www.producthunt.com/products/wobo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wobo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Tinder for jobs: swipe right and AI applies fo",
+          "summary_zh": "Tinder for jobs: swipe right and AI applies fo",
+          "publishedAt": "2026-06-15T07:01:00Z",
+          "published_at": "2026-06-15T07:01:00Z",
+          "votes_count": 243,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "835",
+              "name": "Career",
+              "slug": "career"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "592b414b",
+          "title": "产品更新：Kickbacks.ai",
+          "title_en": "Kickbacks.ai",
+          "url": "https://www.producthunt.com/products/kickbacks-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/kickbacks-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Get paid to wait for Claude Code to finish Kic",
+          "summary_zh": "Get paid to wait for Claude Code to finish Kic",
+          "publishedAt": "2026-06-15T07:01:00Z",
+          "published_at": "2026-06-15T07:01:00Z",
+          "votes_count": 222,
+          "featured": true,
+          "topics": [
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9ff7983b",
+          "title": "产品更新：AutoEdit",
+          "title_en": "AutoEdit",
+          "url": "https://www.producthunt.com/products/autoedit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/autoedit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your Claude AI Video Editor for Premiere Pro A",
+          "summary_zh": "Your Claude AI Video Editor for Premiere Pro A",
+          "publishedAt": "2026-06-15T07:01:00Z",
+          "published_at": "2026-06-15T07:01:00Z",
+          "votes_count": 221,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "692",
+              "name": "Photo & Video",
+              "slug": "photo-video"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "0c8cd320",
+          "title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
+          "title_en": null,
+          "url": "https://36kr.com/p/3853670570743040?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3853670570743040?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览  加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀 A股10家退市公司波及超25万股民 SK海力士去年新增员工超2000人 H&M重组全球架构，大中华区降级 世界杯期间英格兰队装备遭窃，大部分已被追回  TOP 3 大新闻 诺奖得主称马斯克是庞氏骗局，SpaceX上市让普通投资者被迫买单 据当地时间6月12日，诺贝尔经济学奖得主保罗·克鲁格曼发文“Elon Musk， Human Ponzi Scheme”，称世界首富埃隆·马斯克是庞氏骗局。 克鲁格曼认为，SpaceX的IPO完全建立在“庞氏骗局”之上，散户之所以会投资SpaceX，并不是因为他们认真评估了该公司的商业价值，而是一味地相信“马斯克是天才”。然而，这场资本游戏，可不是散户能玩到最后的。 克鲁格曼认为：“埃隆·马斯克这场庞大的真人版庞氏骗局，终将崩塌。传统庞氏骗局仅坑害自愿参与的投资者，但这一次，支撑马斯克骗局的资金，很大一部分将来自普通美国民众——他们实质上是被“强制入局”。 目前，约52%的共同基金资产投向指数基金或指数挂钩基金，超过50%的美国家庭持有共同基金。马斯克与华尔街的勾结，以",
+          "summary_zh": "今日热点导览  加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀 A股10家退市公司波及超25万股民 SK海力士去年新增员工超2000人 H&M重组全球架构，大中华区降级 世界杯期间英格兰队装备遭窃，大部分已被追回  TOP 3 大新闻 诺奖得主称马斯克是庞氏骗局，SpaceX上市让普通投资者被迫买单 据当地时间6月12日，诺贝尔经济学奖得主保罗·克鲁格曼发文“Elon Musk， Human Ponzi Scheme”，称世界首富埃隆·马斯克是庞氏骗局。 克鲁格曼认为，SpaceX的IPO完全建立在“庞氏骗局”之上，散户之所以会投资SpaceX，并不是因为他们认真评估了该公司的商业价值，而是一味地相信“马斯克是天才”。然而，这场资本游戏，可不是散户能玩到最后的。 克鲁格曼认为：“埃隆·马斯克这场庞大的真人版庞氏骗局，终将崩塌。传统庞氏骗局仅坑害自愿参与的投资者，但这一次，支撑马斯克骗局的资金，很大一部分将来自普通美国民众——他们实质上是被“强制入局”。 目前，约52%的共同基金资产投向指数基金或指数挂钩基金，超过50%的美国家庭持有共同基金。马斯克与华尔街的勾结，以",
+          "publishedAt": "2026-06-14T23:57:48Z",
+          "published_at": "2026-06-14T23:57:48Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "ca6ed582",
+          "title": "36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资",
+          "title_en": null,
+          "url": "https://36kr.com/p/3853252135654660?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3853252135654660?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能短出行核心零部件供应商洛梵狄智能科技（以下简称“洛梵狄”）已完成新一轮数千万元B+融资。本轮投资方包括国泰海通、达晨财智、以及广州黄埔科创母基金，老股东达晨财智在本轮中继续追加投资。 据悉，本轮融资资金将主要用于持续的研发投入、产能扩张、全球销售网络建设及日常运营流动资金。其中，研发重点将聚焦于下一代智能内变速器的深耕。 洛梵狄自2012年成立以来，专注内变速器的研发和生产，是中国第一家、全球第三家量产智能内变速器的厂商。目前公司已研发出电控内变速器、电机内置变速器（MEGS）、机械自动内变速器、智能车锁等产品。 变速器产品主要被用于出行产品中。智能电动出行厂商也是洛梵狄的主要用户。 以Ebike为例，过去三年，全球Ebike市场经历着漫长的去库存过程中。从全球市场数据来看，2024年Ebike全球市场规模已突破618.9亿美元，预计2030年将达1136.4亿美元，年复合增长率保持在10.3%。 洛梵狄CFO燕普认为，以欧洲市场为例，欧洲不少EBike存量用户是在2018年以后购买的车。按照一辆车8到10年的使用寿命计算，预计在两三年",
+          "summary_zh": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能短出行核心零部件供应商洛梵狄智能科技（以下简称“洛梵狄”）已完成新一轮数千万元B+融资。本轮投资方包括国泰海通、达晨财智、以及广州黄埔科创母基金，老股东达晨财智在本轮中继续追加投资。 据悉，本轮融资资金将主要用于持续的研发投入、产能扩张、全球销售网络建设及日常运营流动资金。其中，研发重点将聚焦于下一代智能内变速器的深耕。 洛梵狄自2012年成立以来，专注内变速器的研发和生产，是中国第一家、全球第三家量产智能内变速器的厂商。目前公司已研发出电控内变速器、电机内置变速器（MEGS）、机械自动内变速器、智能车锁等产品。 变速器产品主要被用于出行产品中。智能电动出行厂商也是洛梵狄的主要用户。 以Ebike为例，过去三年，全球Ebike市场经历着漫长的去库存过程中。从全球市场数据来看，2024年Ebike全球市场规模已突破618.9亿美元，预计2030年将达1136.4亿美元，年复合增长率保持在10.3%。 洛梵狄CFO燕普认为，以欧洲市场为例，欧洲不少EBike存量用户是在2018年以后购买的车。按照一辆车8到10年的使用寿命计算，预计在两三年",
+          "publishedAt": "2026-06-15T01:30:46Z",
+          "published_at": "2026-06-15T01:30:46Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "2c6dbd99",
+          "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+          "title_en": null,
+          "url": "https://36kr.com/p/3853016586359817?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3853016586359817?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者 | 邱晓芬 编辑 | 袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。 行业的目光转向背后是切实的焦虑。 一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，却无法预判“拧瓶盖需要多大的力”。世界模型正是试图补上这个短板，让机器人学会物理世界的规律、因果。 也就是说，世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。 另一面，大模型在经历了大语言、视觉模型、多模态的探索之后，需要从虚拟走向真实世界的下一阶段。 只是，当资本、技术专家、产业资源都倾注于此，世界模型到底如何上岸，人们没有答案。 在智源研究院院长王仲远看来，眼下全球围绕世界模型的探索，正被撕扯成四条截然不同的分岔路—— 第一类是以语言为中心的世界模型，包括VLM、VLA，模型在文本空间中预测下一个词，学到的是语言描述的世界，并不能理解背后的物理后果； 第二类是以像素为中心的世界模型，像Sora和Seedance等视频生成类模型，在视觉空间中学习视频或图像，学到的是像素描述的世",
+          "summary_zh": "作者 | 邱晓芬 编辑 | 袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。 行业的目光转向背后是切实的焦虑。 一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，却无法预判“拧瓶盖需要多大的力”。世界模型正是试图补上这个短板，让机器人学会物理世界的规律、因果。 也就是说，世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。 另一面，大模型在经历了大语言、视觉模型、多模态的探索之后，需要从虚拟走向真实世界的下一阶段。 只是，当资本、技术专家、产业资源都倾注于此，世界模型到底如何上岸，人们没有答案。 在智源研究院院长王仲远看来，眼下全球围绕世界模型的探索，正被撕扯成四条截然不同的分岔路—— 第一类是以语言为中心的世界模型，包括VLM、VLA，模型在文本空间中预测下一个词，学到的是语言描述的世界，并不能理解背后的物理后果； 第二类是以像素为中心的世界模型，像Sora和Seedance等视频生成类模型，在视觉空间中学习视频或图像，学到的是像素描述的世",
+          "publishedAt": "2026-06-15T01:50:00Z",
+          "published_at": "2026-06-15T01:50:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "826c2689",
+          "title": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/435520.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/435520.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破  量子位的朋友们 2026-06-15 11:24:30  来源：量子位   昆仑万维将持续深耕，步履不停  6月12日-13日，第8届智源大会在北京举行。本届大会吸引了2位图灵奖得主、8位院士、30位30岁以下青年科学家、40余位AI企业CEO及创始人等参会，围绕Agent、世界模型、具身智能、AI自进化与AI安全等前沿议题展开讨论。 其中世界模型成为本届大会最受关注的议题之一，来自具身智能、机器人控制、游戏引擎、物理AI基础设施等不同领域的研究者提出了各自的技术路线，共同探讨世界模型相关深度议题。  昆仑万维旗下Skywork首席科学家刘扬受邀出席6月13日的世界模型分论坛，发表演讲以及参与圆桌讨论。在演讲环节，他以《Matrix-Game：长时序记忆下的实时流式交互式世界模型》为主题，系统阐述了Matrix-Game的研发历程、最新进展，基于对世界模型的深度思考，他提出了“下一帧状态生成和动作生成应该进行联合训练”的全新框架。此外，他首次公布了 Matrix-Game 3.5 的核心技术突破",
+          "summary_zh": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破  量子位的朋友们 2026-06-15 11:24:30  来源：量子位   昆仑万维将持续深耕，步履不停  6月12日-13日，第8届智源大会在北京举行。本届大会吸引了2位图灵奖得主、8位院士、30位30岁以下青年科学家、40余位AI企业CEO及创始人等参会，围绕Agent、世界模型、具身智能、AI自进化与AI安全等前沿议题展开讨论。 其中世界模型成为本届大会最受关注的议题之一，来自具身智能、机器人控制、游戏引擎、物理AI基础设施等不同领域的研究者提出了各自的技术路线，共同探讨世界模型相关深度议题。  昆仑万维旗下Skywork首席科学家刘扬受邀出席6月13日的世界模型分论坛，发表演讲以及参与圆桌讨论。在演讲环节，他以《Matrix-Game：长时序记忆下的实时流式交互式世界模型》为主题，系统阐述了Matrix-Game的研发历程、最新进展，基于对世界模型的深度思考，他提出了“下一帧状态生成和动作生成应该进行联合训练”的全新框架。此外，他首次公布了 Matrix-Game 3.5 的核心技术突破",
+          "publishedAt": "2026-06-15T03:24:30Z",
+          "published_at": "2026-06-15T03:24:30Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "76a7a645",
+      "title": "产品更新：Novu Connect",
+      "title_en": "Novu Connect",
+      "url": "https://www.producthunt.com/products/novu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/novu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Ship agents where your users already work Novu",
+      "summary_zh": "Ship agents where your users already work Novu",
+      "publishedAt": "2026-06-15T07:01:00Z",
+      "published_at": "2026-06-15T07:01:00Z",
+      "votes_count": 325,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b3d00a9a",
+      "title": "产品更新：Wobo 2.0",
+      "title_en": "Wobo 2.0",
+      "url": "https://www.producthunt.com/products/wobo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/wobo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Tinder for jobs: swipe right and AI applies fo",
+      "summary_zh": "Tinder for jobs: swipe right and AI applies fo",
+      "publishedAt": "2026-06-15T07:01:00Z",
+      "published_at": "2026-06-15T07:01:00Z",
+      "votes_count": 243,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "835",
+          "name": "Career",
+          "slug": "career"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "592b414b",
+      "title": "产品更新：Kickbacks.ai",
+      "title_en": "Kickbacks.ai",
+      "url": "https://www.producthunt.com/products/kickbacks-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/kickbacks-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Get paid to wait for Claude Code to finish Kic",
+      "summary_zh": "Get paid to wait for Claude Code to finish Kic",
+      "publishedAt": "2026-06-15T07:01:00Z",
+      "published_at": "2026-06-15T07:01:00Z",
+      "votes_count": 222,
+      "featured": true,
+      "topics": [
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9ff7983b",
+      "title": "产品更新：AutoEdit",
+      "title_en": "AutoEdit",
+      "url": "https://www.producthunt.com/products/autoedit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/autoedit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your Claude AI Video Editor for Premiere Pro A",
+      "summary_zh": "Your Claude AI Video Editor for Premiere Pro A",
+      "publishedAt": "2026-06-15T07:01:00Z",
+      "published_at": "2026-06-15T07:01:00Z",
+      "votes_count": 221,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "692",
+          "name": "Photo & Video",
+          "slug": "photo-video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "0c8cd320",
+      "title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
+      "title_en": null,
+      "url": "https://36kr.com/p/3853670570743040?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3853670570743040?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览  加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀 A股10家退市公司波及超25万股民 SK海力士去年新增员工超2000人 H&M重组全球架构，大中华区降级 世界杯期间英格兰队装备遭窃，大部分已被追回  TOP 3 大新闻 诺奖得主称马斯克是庞氏骗局，SpaceX上市让普通投资者被迫买单 据当地时间6月12日，诺贝尔经济学奖得主保罗·克鲁格曼发文“Elon Musk， Human Ponzi Scheme”，称世界首富埃隆·马斯克是庞氏骗局。 克鲁格曼认为，SpaceX的IPO完全建立在“庞氏骗局”之上，散户之所以会投资SpaceX，并不是因为他们认真评估了该公司的商业价值，而是一味地相信“马斯克是天才”。然而，这场资本游戏，可不是散户能玩到最后的。 克鲁格曼认为：“埃隆·马斯克这场庞大的真人版庞氏骗局，终将崩塌。传统庞氏骗局仅坑害自愿参与的投资者，但这一次，支撑马斯克骗局的资金，很大一部分将来自普通美国民众——他们实质上是被“强制入局”。 目前，约52%的共同基金资产投向指数基金或指数挂钩基金，超过50%的美国家庭持有共同基金。马斯克与华尔街的勾结，以",
+      "summary_zh": "今日热点导览  加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀 A股10家退市公司波及超25万股民 SK海力士去年新增员工超2000人 H&M重组全球架构，大中华区降级 世界杯期间英格兰队装备遭窃，大部分已被追回  TOP 3 大新闻 诺奖得主称马斯克是庞氏骗局，SpaceX上市让普通投资者被迫买单 据当地时间6月12日，诺贝尔经济学奖得主保罗·克鲁格曼发文“Elon Musk， Human Ponzi Scheme”，称世界首富埃隆·马斯克是庞氏骗局。 克鲁格曼认为，SpaceX的IPO完全建立在“庞氏骗局”之上，散户之所以会投资SpaceX，并不是因为他们认真评估了该公司的商业价值，而是一味地相信“马斯克是天才”。然而，这场资本游戏，可不是散户能玩到最后的。 克鲁格曼认为：“埃隆·马斯克这场庞大的真人版庞氏骗局，终将崩塌。传统庞氏骗局仅坑害自愿参与的投资者，但这一次，支撑马斯克骗局的资金，很大一部分将来自普通美国民众——他们实质上是被“强制入局”。 目前，约52%的共同基金资产投向指数基金或指数挂钩基金，超过50%的美国家庭持有共同基金。马斯克与华尔街的勾结，以",
+      "publishedAt": "2026-06-14T23:57:48Z",
+      "published_at": "2026-06-14T23:57:48Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ca6ed582",
+      "title": "36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资",
+      "title_en": null,
+      "url": "https://36kr.com/p/3853252135654660?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3853252135654660?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能短出行核心零部件供应商洛梵狄智能科技（以下简称“洛梵狄”）已完成新一轮数千万元B+融资。本轮投资方包括国泰海通、达晨财智、以及广州黄埔科创母基金，老股东达晨财智在本轮中继续追加投资。 据悉，本轮融资资金将主要用于持续的研发投入、产能扩张、全球销售网络建设及日常运营流动资金。其中，研发重点将聚焦于下一代智能内变速器的深耕。 洛梵狄自2012年成立以来，专注内变速器的研发和生产，是中国第一家、全球第三家量产智能内变速器的厂商。目前公司已研发出电控内变速器、电机内置变速器（MEGS）、机械自动内变速器、智能车锁等产品。 变速器产品主要被用于出行产品中。智能电动出行厂商也是洛梵狄的主要用户。 以Ebike为例，过去三年，全球Ebike市场经历着漫长的去库存过程中。从全球市场数据来看，2024年Ebike全球市场规模已突破618.9亿美元，预计2030年将达1136.4亿美元，年复合增长率保持在10.3%。 洛梵狄CFO燕普认为，以欧洲市场为例，欧洲不少EBike存量用户是在2018年以后购买的车。按照一辆车8到10年的使用寿命计算，预计在两三年",
+      "summary_zh": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能短出行核心零部件供应商洛梵狄智能科技（以下简称“洛梵狄”）已完成新一轮数千万元B+融资。本轮投资方包括国泰海通、达晨财智、以及广州黄埔科创母基金，老股东达晨财智在本轮中继续追加投资。 据悉，本轮融资资金将主要用于持续的研发投入、产能扩张、全球销售网络建设及日常运营流动资金。其中，研发重点将聚焦于下一代智能内变速器的深耕。 洛梵狄自2012年成立以来，专注内变速器的研发和生产，是中国第一家、全球第三家量产智能内变速器的厂商。目前公司已研发出电控内变速器、电机内置变速器（MEGS）、机械自动内变速器、智能车锁等产品。 变速器产品主要被用于出行产品中。智能电动出行厂商也是洛梵狄的主要用户。 以Ebike为例，过去三年，全球Ebike市场经历着漫长的去库存过程中。从全球市场数据来看，2024年Ebike全球市场规模已突破618.9亿美元，预计2030年将达1136.4亿美元，年复合增长率保持在10.3%。 洛梵狄CFO燕普认为，以欧洲市场为例，欧洲不少EBike存量用户是在2018年以后购买的车。按照一辆车8到10年的使用寿命计算，预计在两三年",
+      "publishedAt": "2026-06-15T01:30:46Z",
+      "published_at": "2026-06-15T01:30:46Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "2c6dbd99",
+      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+      "title_en": null,
+      "url": "https://36kr.com/p/3853016586359817?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3853016586359817?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。 行业的目光转向背后是切实的焦虑。 一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，却无法预判“拧瓶盖需要多大的力”。世界模型正是试图补上这个短板，让机器人学会物理世界的规律、因果。 也就是说，世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。 另一面，大模型在经历了大语言、视觉模型、多模态的探索之后，需要从虚拟走向真实世界的下一阶段。 只是，当资本、技术专家、产业资源都倾注于此，世界模型到底如何上岸，人们没有答案。 在智源研究院院长王仲远看来，眼下全球围绕世界模型的探索，正被撕扯成四条截然不同的分岔路—— 第一类是以语言为中心的世界模型，包括VLM、VLA，模型在文本空间中预测下一个词，学到的是语言描述的世界，并不能理解背后的物理后果； 第二类是以像素为中心的世界模型，像Sora和Seedance等视频生成类模型，在视觉空间中学习视频或图像，学到的是像素描述的世",
+      "summary_zh": "作者 | 邱晓芬 编辑 | 袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。 行业的目光转向背后是切实的焦虑。 一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，却无法预判“拧瓶盖需要多大的力”。世界模型正是试图补上这个短板，让机器人学会物理世界的规律、因果。 也就是说，世界模型与具身智能的关系，本质上是“大脑”与“身体”的关系。 另一面，大模型在经历了大语言、视觉模型、多模态的探索之后，需要从虚拟走向真实世界的下一阶段。 只是，当资本、技术专家、产业资源都倾注于此，世界模型到底如何上岸，人们没有答案。 在智源研究院院长王仲远看来，眼下全球围绕世界模型的探索，正被撕扯成四条截然不同的分岔路—— 第一类是以语言为中心的世界模型，包括VLM、VLA，模型在文本空间中预测下一个词，学到的是语言描述的世界，并不能理解背后的物理后果； 第二类是以像素为中心的世界模型，像Sora和Seedance等视频生成类模型，在视觉空间中学习视频或图像，学到的是像素描述的世",
+      "publishedAt": "2026-06-15T01:50:00Z",
+      "published_at": "2026-06-15T01:50:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "826c2689",
+      "title": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/435520.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/435520.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破  量子位的朋友们 2026-06-15 11:24:30  来源：量子位   昆仑万维将持续深耕，步履不停  6月12日-13日，第8届智源大会在北京举行。本届大会吸引了2位图灵奖得主、8位院士、30位30岁以下青年科学家、40余位AI企业CEO及创始人等参会，围绕Agent、世界模型、具身智能、AI自进化与AI安全等前沿议题展开讨论。 其中世界模型成为本届大会最受关注的议题之一，来自具身智能、机器人控制、游戏引擎、物理AI基础设施等不同领域的研究者提出了各自的技术路线，共同探讨世界模型相关深度议题。  昆仑万维旗下Skywork首席科学家刘扬受邀出席6月13日的世界模型分论坛，发表演讲以及参与圆桌讨论。在演讲环节，他以《Matrix-Game：长时序记忆下的实时流式交互式世界模型》为主题，系统阐述了Matrix-Game的研发历程、最新进展，基于对世界模型的深度思考，他提出了“下一帧状态生成和动作生成应该进行联合训练”的全新框架。此外，他首次公布了 Matrix-Game 3.5 的核心技术突破",
+      "summary_zh": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破  量子位的朋友们 2026-06-15 11:24:30  来源：量子位   昆仑万维将持续深耕，步履不停  6月12日-13日，第8届智源大会在北京举行。本届大会吸引了2位图灵奖得主、8位院士、30位30岁以下青年科学家、40余位AI企业CEO及创始人等参会，围绕Agent、世界模型、具身智能、AI自进化与AI安全等前沿议题展开讨论。 其中世界模型成为本届大会最受关注的议题之一，来自具身智能、机器人控制、游戏引擎、物理AI基础设施等不同领域的研究者提出了各自的技术路线，共同探讨世界模型相关深度议题。  昆仑万维旗下Skywork首席科学家刘扬受邀出席6月13日的世界模型分论坛，发表演讲以及参与圆桌讨论。在演讲环节，他以《Matrix-Game：长时序记忆下的实时流式交互式世界模型》为主题，系统阐述了Matrix-Game的研发历程、最新进展，基于对世界模型的深度思考，他提出了“下一帧状态生成和动作生成应该进行联合训练”的全新框架。此外，他首次公布了 Matrix-Game 3.5 的核心技术突破",
+      "publishedAt": "2026-06-15T03:24:30Z",
+      "published_at": "2026-06-15T03:24:30Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
