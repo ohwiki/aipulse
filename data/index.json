@@ -1,9 +1,147 @@
 {
-  "generated_at": "2026-06-16T13:11:32Z",
-  "generatedAt": "2026-06-16T13:11:32Z",
-  "count": 35,
-  "total": 35,
+  "generated_at": "2026-06-16T22:26:13Z",
+  "generatedAt": "2026-06-16T22:26:13Z",
+  "count": 36,
+  "total": 36,
   "entries": [
+    {
+      "date": "2026-06-17",
+      "generated_at": "2026-06-16T22:26:13Z",
+      "generatedAt": "2026-06-16T22:26:13Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "eb6c6f29",
+          "title": "产品更新：Goldfish",
+          "title_en": "Goldfish",
+          "url": "https://www.producthunt.com/products/goldfish-early-access?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/goldfish-early-access?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Press Option. It knows your work and replies l",
+          "summary_zh": "Press Option. It knows your work and replies l",
+          "publishedAt": "2026-06-16T07:01:00Z",
+          "published_at": "2026-06-16T07:01:00Z",
+          "votes_count": 456,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cdaee0d7",
+          "title": "产品更新：Invoko",
+          "title_en": "Invoko",
+          "url": "https://www.producthunt.com/products/invoko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/invoko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A little hand on your Mac Invoko is an AI desk",
+          "summary_zh": "A little hand on your Mac Invoko is an AI desk",
+          "publishedAt": "2026-06-16T07:01:00Z",
+          "published_at": "2026-06-16T07:01:00Z",
+          "votes_count": 335,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "40779974",
+          "title": "产品更新：MakersClaw",
+          "title_en": "MakersClaw",
+          "url": "https://www.producthunt.com/products/makersclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/makersclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Hire AI employees that live in your Slack, Tea",
+          "summary_zh": "Hire AI employees that live in your Slack, Tea",
+          "publishedAt": "2026-06-16T07:01:00Z",
+          "published_at": "2026-06-16T07:01:00Z",
+          "votes_count": 297,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "342",
+              "name": "Bots",
+              "slug": "bots"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-16",
       "generated_at": "2026-06-16T13:11:32Z",
