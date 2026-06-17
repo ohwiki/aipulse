@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-06-17T12:36:12Z",
-  "generatedAt": "2026-06-17T12:36:12Z",
-  "count": 36,
-  "total": 36,
+  "generated_at": "2026-06-17T22:18:33Z",
+  "generatedAt": "2026-06-17T22:18:33Z",
+  "count": 37,
+  "total": 37,
   "entries": [
+    {
+      "date": "2026-06-18",
+      "generated_at": "2026-06-17T22:18:33Z",
+      "generatedAt": "2026-06-17T22:18:33Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "44388bf9",
+          "title": "产品更新：Framer 3.0",
+          "title_en": "Framer 3.0",
+          "url": "https://www.producthunt.com/products/framer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/framer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "With Agents, Branching, Community, and an all-",
+          "summary_zh": "With Agents, Branching, Community, and an all-",
+          "publishedAt": "2026-06-17T07:01:00Z",
+          "published_at": "2026-06-17T07:01:00Z",
+          "votes_count": 391,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3f54e1a6",
+          "title": "AI资讯更新：Swytchcode CL",
+          "title_en": "Swytchcode CLI",
+          "url": "https://www.producthunt.com/products/swytchcode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/swytchcode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Give agents reliable access to 2,000+ APIs w/",
+          "summary_zh": "Give agents reliable access to 2,000+ APIs w/",
+          "publishedAt": "2026-06-17T07:01:00Z",
+          "published_at": "2026-06-17T07:01:00Z",
+          "votes_count": 323,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4de69b35",
+          "title": "AI资讯更新：Daemons by Ch",
+          "title_en": "Daemons by Charlie Labs",
+          "url": "https://www.producthunt.com/products/daemons-by-charlie-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/daemons-by-charlie-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Keep PRs, issues, CI, and docs moving with AI",
+          "summary_zh": "Keep PRs, issues, CI, and docs moving with AI",
+          "publishedAt": "2026-06-17T07:01:00Z",
+          "published_at": "2026-06-17T07:01:00Z",
+          "votes_count": 200,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-17",
       "generated_at": "2026-06-17T12:36:12Z",
