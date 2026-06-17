@@ -1,141 +1,126 @@
 {
-  "generated_at": "2026-06-16T22:26:13Z",
-  "generatedAt": "2026-06-16T22:26:13Z",
+  "generated_at": "2026-06-17T12:36:12Z",
+  "generatedAt": "2026-06-17T12:36:12Z",
   "count": 36,
   "total": 36,
   "entries": [
     {
       "date": "2026-06-17",
-      "generated_at": "2026-06-16T22:26:13Z",
-      "generatedAt": "2026-06-16T22:26:13Z",
-      "total": 8,
+      "generated_at": "2026-06-17T12:36:12Z",
+      "generatedAt": "2026-06-17T12:36:12Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "eb6c6f29",
-          "title": "产品更新：Goldfish",
-          "title_en": "Goldfish",
-          "url": "https://www.producthunt.com/products/goldfish-early-access?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "44388bf9",
+          "title": "产品更新：Framer 3.0",
+          "title_en": "Framer 3.0",
+          "url": "https://www.producthunt.com/products/framer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/goldfish-early-access?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/framer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Press Option. It knows your work and replies l",
-          "summary_zh": "Press Option. It knows your work and replies l",
-          "publishedAt": "2026-06-16T07:01:00Z",
-          "published_at": "2026-06-16T07:01:00Z",
-          "votes_count": 456,
+          "summary": "With Agents, Branching, Community, and an all-",
+          "summary_zh": "With Agents, Branching, Community, and an all-",
+          "publishedAt": "2026-06-17T07:01:00Z",
+          "published_at": "2026-06-17T07:01:00Z",
+          "votes_count": 203,
           "featured": true,
           "topics": [
             {
-              "id": "19",
-              "name": "Mac",
-              "slug": "mac"
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
             },
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "1359",
-              "name": "Vercel Day",
-              "slug": "vercel-day"
             }
           ],
           "score_details": null
         },
         {
-          "id": "cdaee0d7",
-          "title": "产品更新：Invoko",
-          "title_en": "Invoko",
-          "url": "https://www.producthunt.com/products/invoko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "3f54e1a6",
+          "title": "AI资讯更新：Swytchcode CL",
+          "title_en": "Swytchcode CLI",
+          "url": "https://www.producthunt.com/products/swytchcode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/invoko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/swytchcode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "A little hand on your Mac Invoko is an AI desk",
-          "summary_zh": "A little hand on your Mac Invoko is an AI desk",
-          "publishedAt": "2026-06-16T07:01:00Z",
-          "published_at": "2026-06-16T07:01:00Z",
-          "votes_count": 335,
+          "summary": "Give agents reliable access to 2,000+ APIs w/",
+          "summary_zh": "Give agents reliable access to 2,000+ APIs w/",
+          "publishedAt": "2026-06-17T07:01:00Z",
+          "published_at": "2026-06-17T07:01:00Z",
+          "votes_count": 154,
           "featured": true,
           "topics": [
             {
-              "id": "19",
-              "name": "Mac",
-              "slug": "mac"
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
             },
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "1359",
-              "name": "Vercel Day",
-              "slug": "vercel-day"
             }
           ],
           "score_details": null
         },
         {
-          "id": "40779974",
-          "title": "产品更新：MakersClaw",
-          "title_en": "MakersClaw",
-          "url": "https://www.producthunt.com/products/makersclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "4de69b35",
+          "title": "AI资讯更新：Daemons by Ch",
+          "title_en": "Daemons by Charlie Labs",
+          "url": "https://www.producthunt.com/products/daemons-by-charlie-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/makersclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/daemons-by-charlie-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Hire AI employees that live in your Slack, Tea",
-          "summary_zh": "Hire AI employees that live in your Slack, Tea",
-          "publishedAt": "2026-06-16T07:01:00Z",
-          "published_at": "2026-06-16T07:01:00Z",
-          "votes_count": 297,
+          "summary": "Keep PRs, issues, CI, and docs moving with AI",
+          "summary_zh": "Keep PRs, issues, CI, and docs moving with AI",
+          "publishedAt": "2026-06-17T07:01:00Z",
+          "published_at": "2026-06-17T07:01:00Z",
+          "votes_count": 123,
           "featured": true,
           "topics": [
             {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "342",
-              "name": "Bots",
-              "slug": "bots"
-            },
-            {
-              "id": "1359",
-              "name": "Vercel Day",
-              "slug": "vercel-day"
             }
           ],
           "score_details": null
