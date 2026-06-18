@@ -1,45 +1,83 @@
 {
-  "generated_at": "2026-06-17T22:18:33Z",
-  "generatedAt": "2026-06-17T22:18:33Z",
+  "generated_at": "2026-06-18T12:06:11Z",
+  "generatedAt": "2026-06-18T12:06:11Z",
   "count": 37,
   "total": 37,
   "entries": [
     {
       "date": "2026-06-18",
-      "generated_at": "2026-06-17T22:18:33Z",
-      "generatedAt": "2026-06-17T22:18:33Z",
+      "generated_at": "2026-06-18T12:06:11Z",
+      "generatedAt": "2026-06-18T12:06:11Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "44388bf9",
-          "title": "产品更新：Framer 3.0",
-          "title_en": "Framer 3.0",
-          "url": "https://www.producthunt.com/products/framer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "5912bf3d",
+          "title": "产品更新：Honestly",
+          "title_en": "Honestly",
+          "url": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/framer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "With Agents, Branching, Community, and an all-",
-          "summary_zh": "With Agents, Branching, Community, and an all-",
-          "publishedAt": "2026-06-17T07:01:00Z",
-          "published_at": "2026-06-17T07:01:00Z",
-          "votes_count": 391,
+          "summary": "See what Reddit and TikTok honestly think abou",
+          "summary_zh": "See what Reddit and TikTok honestly think abou",
+          "publishedAt": "2026-06-18T07:01:00Z",
+          "published_at": "2026-06-18T07:01:00Z",
+          "votes_count": 198,
           "featured": true,
           "topics": [
             {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
             },
             {
-              "id": "243",
-              "name": "Website Builder",
-              "slug": "website-builder"
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8f00668e",
+          "title": "产品更新：Upstream",
+          "title_en": "Upstream",
+          "url": "https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The inbox designed for humans and agents Final",
+          "summary_zh": "The inbox designed for humans and agents Final",
+          "publishedAt": "2026-06-18T07:01:00Z",
+          "published_at": "2026-06-18T07:01:00Z",
+          "votes_count": 195,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
               "id": "268",
@@ -50,72 +88,34 @@
           "score_details": null
         },
         {
-          "id": "3f54e1a6",
-          "title": "AI资讯更新：Swytchcode CL",
-          "title_en": "Swytchcode CLI",
-          "url": "https://www.producthunt.com/products/swytchcode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "419f1e2f",
+          "title": "产品更新：Elvin",
+          "title_en": "Elvin",
+          "url": "https://www.producthunt.com/products/elvin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/swytchcode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/elvin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Give agents reliable access to 2,000+ APIs w/",
-          "summary_zh": "Give agents reliable access to 2,000+ APIs w/",
-          "publishedAt": "2026-06-17T07:01:00Z",
-          "published_at": "2026-06-17T07:01:00Z",
-          "votes_count": 323,
+          "summary": "Proactive AI that finds and finishes work befo",
+          "summary_zh": "Proactive AI that finds and finishes work befo",
+          "publishedAt": "2026-06-18T07:01:00Z",
+          "published_at": "2026-06-18T07:01:00Z",
+          "votes_count": 143,
           "featured": true,
           "topics": [
             {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "4de69b35",
-          "title": "AI资讯更新：Daemons by Ch",
-          "title_en": "Daemons by Charlie Labs",
-          "url": "https://www.producthunt.com/products/daemons-by-charlie-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/daemons-by-charlie-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Keep PRs, issues, CI, and docs moving with AI",
-          "summary_zh": "Keep PRs, issues, CI, and docs moving with AI",
-          "publishedAt": "2026-06-17T07:01:00Z",
-          "published_at": "2026-06-17T07:01:00Z",
-          "votes_count": 200,
-          "featured": true,
-          "topics": [
-            {
-              "id": "247",
-              "name": "Software Engineering",
-              "slug": "software-engineering"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
             },
             {
               "id": "268",
