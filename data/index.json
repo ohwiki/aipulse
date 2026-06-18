@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-06-18T12:06:11Z",
-  "generatedAt": "2026-06-18T12:06:11Z",
-  "count": 37,
-  "total": 37,
+  "generated_at": "2026-06-18T22:28:34Z",
+  "generatedAt": "2026-06-18T22:28:34Z",
+  "count": 38,
+  "total": 38,
   "entries": [
+    {
+      "date": "2026-06-19",
+      "generated_at": "2026-06-18T22:28:34Z",
+      "generatedAt": "2026-06-18T22:28:34Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "8f00668e",
+          "title": "产品更新：Upstream",
+          "title_en": "Upstream",
+          "url": "https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The inbox designed for humans and agents Final",
+          "summary_zh": "The inbox designed for humans and agents Final",
+          "publishedAt": "2026-06-18T07:01:00Z",
+          "published_at": "2026-06-18T07:01:00Z",
+          "votes_count": 523,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5912bf3d",
+          "title": "产品更新：Honestly",
+          "title_en": "Honestly",
+          "url": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "See what Reddit and TikTok honestly think abou",
+          "summary_zh": "See what Reddit and TikTok honestly think abou",
+          "publishedAt": "2026-06-18T07:01:00Z",
+          "published_at": "2026-06-18T07:01:00Z",
+          "votes_count": 403,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4ca4d6cd",
+          "title": "产品更新：Jesse",
+          "title_en": "Jesse",
+          "url": "https://www.producthunt.com/products/jesse-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/jesse-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Stop building Apollo/Clay lists. Search the li",
+          "summary_zh": "Stop building Apollo/Clay lists. Search the li",
+          "publishedAt": "2026-06-18T07:01:00Z",
+          "published_at": "2026-06-18T07:01:00Z",
+          "votes_count": 275,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-18",
       "generated_at": "2026-06-18T12:06:11Z",

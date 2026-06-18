@@ -1,0 +1,493 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-18T22:28:34Z",
+  "generatedAt": "2026-06-18T22:28:34Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "8f00668e",
+          "title": "产品更新：Upstream",
+          "title_en": "Upstream",
+          "url": "https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The inbox designed for humans and agents Final",
+          "summary_zh": "The inbox designed for humans and agents Final",
+          "publishedAt": "2026-06-18T07:01:00Z",
+          "published_at": "2026-06-18T07:01:00Z",
+          "votes_count": 523,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5912bf3d",
+          "title": "产品更新：Honestly",
+          "title_en": "Honestly",
+          "url": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "See what Reddit and TikTok honestly think abou",
+          "summary_zh": "See what Reddit and TikTok honestly think abou",
+          "publishedAt": "2026-06-18T07:01:00Z",
+          "published_at": "2026-06-18T07:01:00Z",
+          "votes_count": 403,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4ca4d6cd",
+          "title": "产品更新：Jesse",
+          "title_en": "Jesse",
+          "url": "https://www.producthunt.com/products/jesse-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/jesse-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Stop building Apollo/Clay lists. Search the li",
+          "summary_zh": "Stop building Apollo/Clay lists. Search the li",
+          "publishedAt": "2026-06-18T07:01:00Z",
+          "published_at": "2026-06-18T07:01:00Z",
+          "votes_count": 275,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "419f1e2f",
+          "title": "产品更新：Elvin",
+          "title_en": "Elvin",
+          "url": "https://www.producthunt.com/products/elvin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/elvin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Proactive AI that finds and finishes work befo",
+          "summary_zh": "Proactive AI that finds and finishes work befo",
+          "publishedAt": "2026-06-18T07:01:00Z",
+          "published_at": "2026-06-18T07:01:00Z",
+          "votes_count": 218,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "88b1810c",
+          "title": "中科院博士冲上市，市值超105亿港币",
+          "title_en": null,
+          "url": "https://36kr.com/p/3857959588418823?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3857959588418823?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "本文约1900字，建议阅读4分钟 作者 | 彭孝秋 6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。 上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2.2%。这是一家由中国科学院自动化研究所科学家创办的公司，过去三年累计亏掉约5.83亿元（净亏损口径）。  这是门什么生意 从业绩来看，中科闻歌2023—2025年收入分别为2.5亿、3.18亿、4.05亿元，三年复合增速约27.4%；毛利率从44.0%一路提到50.4%、51.2%；净亏损也从2023年的2.6亿元收窄到2025年的1.67亿元。 能明显发现，中科闻歌收入在涨、毛利率超50%、亏损也在收窄。但即使在净亏损中加回股份支付（2025年4451万元）和上市相关开支（2025年2116万元）后，经调整净亏损也分别有1.86亿、 1.15亿、1亿元，对应经调整亏损率 -74.3%、-36.3%、-24.8%。  (图源/硬氪整理",
+          "summary_zh": "本文约1900字，建议阅读4分钟 作者 | 彭孝秋 6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。 上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2.2%。这是一家由中国科学院自动化研究所科学家创办的公司，过去三年累计亏掉约5.83亿元（净亏损口径）。  这是门什么生意 从业绩来看，中科闻歌2023—2025年收入分别为2.5亿、3.18亿、4.05亿元，三年复合增速约27.4%；毛利率从44.0%一路提到50.4%、51.2%；净亏损也从2023年的2.6亿元收窄到2025年的1.67亿元。 能明显发现，中科闻歌收入在涨、毛利率超50%、亏损也在收窄。但即使在净亏损中加回股份支付（2025年4451万元）和上市相关开支（2025年2116万元）后，经调整净亏损也分别有1.86亿、 1.15亿、1亿元，对应经调整亏损率 -74.3%、-36.3%、-24.8%。  (图源/硬氪整理",
+          "publishedAt": "2026-06-18T01:00:00Z",
+          "published_at": "2026-06-18T01:00:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "619209ca",
+          "title": "36氪「2026最具价值成长企业100」正式发布",
+          "title_en": null,
+          "url": "https://36kr.com/p/3857980507919622?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3857980507919622?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "时代从不被旁观者定义，它只发生在那些正在成长的人身上。 今天，当人们讨论华为、字节跳动、大疆、Tesla或OpenAI时，很容易忽略这样一个事实：在成为行业领导者之前，它们都曾是一家成长中的创业公司。 在初期，没有天然的市场地位，没有成熟的商业体系，也未必被所有人看好。但通过持续的技术突破和产品迭代，它们一步步从“挑战者”变成了“定义者”。 商业史本质上是一部成长史。那些最终改变产业格局的公司，往往不是起点最高的公司，而是在漫长竞争中不断积累技术、组织和市场能力的公司。 当前，新一轮的技术浪潮正催生更多新赛道与新格局。基于此，今年4月，36氪重磅启动“2026最具价值成长企业100”评选，旨在寻找那些能顺应产业变革、构建长期核心竞争力、持续创造商业与产业价值的创新企业。 本次评选历时2个多月，累计收到数百份企业申报。我们从成长力、技术力、资本力、产业力和影响力五大维度出发，围绕营收及订单增长、研发投入与专利积累、机构认可度与融资节奏、全球化布局与产业链位置、团队完整度等核心指标，进行了多轮交叉验证与独立评审，最终遴选出100家定义未来的成长标杆企业。      如果给这100家入围企业",
+          "summary_zh": "时代从不被旁观者定义，它只发生在那些正在成长的人身上。 今天，当人们讨论华为、字节跳动、大疆、Tesla或OpenAI时，很容易忽略这样一个事实：在成为行业领导者之前，它们都曾是一家成长中的创业公司。 在初期，没有天然的市场地位，没有成熟的商业体系，也未必被所有人看好。但通过持续的技术突破和产品迭代，它们一步步从“挑战者”变成了“定义者”。 商业史本质上是一部成长史。那些最终改变产业格局的公司，往往不是起点最高的公司，而是在漫长竞争中不断积累技术、组织和市场能力的公司。 当前，新一轮的技术浪潮正催生更多新赛道与新格局。基于此，今年4月，36氪重磅启动“2026最具价值成长企业100”评选，旨在寻找那些能顺应产业变革、构建长期核心竞争力、持续创造商业与产业价值的创新企业。 本次评选历时2个多月，累计收到数百份企业申报。我们从成长力、技术力、资本力、产业力和影响力五大维度出发，围绕营收及订单增长、研发投入与专利积累、机构认可度与融资节奏、全球化布局与产业链位置、团队完整度等核心指标，进行了多轮交叉验证与独立评审，最终遴选出100家定义未来的成长标杆企业。      如果给这100家入围企业",
+          "publishedAt": "2026-06-18T01:09:18Z",
+          "published_at": "2026-06-18T01:09:18Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f0909c27",
+          "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+          "title_en": null,
+          "url": "https://36kr.com/p/3856708724315400?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3856708724315400?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。  这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。 穹彻智能是硬氪长期关注的企业。公司成立于2023年11月，长期专注具身智能基础模型与系统的自主研发，已发布有核心产品“穹彻具身大脑”（Noematrix Brain），并围绕其构建了覆盖数据采集、模型训练到部署验证、具身机器人应用全流程的软硬件产品体系。 具身智能的行业叙事正在经历一次静默的转向。过去两年，赛道内备受追捧的能力是“完成一个动作”，抓取、搬运、行走等任务在实验室或演示台上被反复验证。但自今年以来，一个新的衡量尺度正在浮现：机器人能否在真实物理环境中持续稳定地工作，而非在可控条件下完成一次性展示。 这一转向的实质，是从“动作能力”向“工程稳定性”的重心迁",
+          "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。  这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。 穹彻智能是硬氪长期关注的企业。公司成立于2023年11月，长期专注具身智能基础模型与系统的自主研发，已发布有核心产品“穹彻具身大脑”（Noematrix Brain），并围绕其构建了覆盖数据采集、模型训练到部署验证、具身机器人应用全流程的软硬件产品体系。 具身智能的行业叙事正在经历一次静默的转向。过去两年，赛道内备受追捧的能力是“完成一个动作”，抓取、搬运、行走等任务在实验室或演示台上被反复验证。但自今年以来，一个新的衡量尺度正在浮现：机器人能否在真实物理环境中持续稳定地工作，而非在可控条件下完成一次性展示。 这一转向的实质，是从“动作能力”向“工程稳定性”的重心迁",
+          "publishedAt": "2026-06-18T01:28:16Z",
+          "published_at": "2026-06-18T01:28:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "322ead24",
+          "title": "国产算力正在进入Token标准化时代",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/436468.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/436468.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "国产算力正在进入Token标准化时代  允中 2026-06-18 09:45:19  来源：量子位   当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。   允中 发自 凹非寺 量子位 | 公众号 QbitAI  AI时代，Token正成为新的“硬通货”。 而把分布式的国产算力系统化地转化为标准化的Token生产能力，这件事也终于有人认真在做了。 2026年6月17日，国家超级计算无锡中心创新发展大会期间，一场内部的论坛在无锡太湖边举行，学术界代表与国产AI芯片厂商、算力平台方、应用厂商聚到了同一张桌子上。    △2026国产异构算力创新发展论坛现场 攒局者是是石科技（Meta-Stone）。 在是石科技创始人兼董事长闫博文的观察中，当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。 而是石科技本身，也正在AI时代扮演Token产业链里承上启下的关键角色——不做芯片，不做大模型，专攻“从异构算力到国产Token优化工厂”的工程化转化。 一个被忽略的真问题 据统计，2025年，中国算力市场规模已达八千亿元人民币。2",
+          "summary_zh": "国产算力正在进入Token标准化时代  允中 2026-06-18 09:45:19  来源：量子位   当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。   允中 发自 凹非寺 量子位 | 公众号 QbitAI  AI时代，Token正成为新的“硬通货”。 而把分布式的国产算力系统化地转化为标准化的Token生产能力，这件事也终于有人认真在做了。 2026年6月17日，国家超级计算无锡中心创新发展大会期间，一场内部的论坛在无锡太湖边举行，学术界代表与国产AI芯片厂商、算力平台方、应用厂商聚到了同一张桌子上。    △2026国产异构算力创新发展论坛现场 攒局者是是石科技（Meta-Stone）。 在是石科技创始人兼董事长闫博文的观察中，当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。 而是石科技本身，也正在AI时代扮演Token产业链里承上启下的关键角色——不做芯片，不做大模型，专攻“从异构算力到国产Token优化工厂”的工程化转化。 一个被忽略的真问题 据统计，2025年，中国算力市场规模已达八千亿元人民币。2",
+          "publishedAt": "2026-06-18T01:45:19Z",
+          "published_at": "2026-06-18T01:45:19Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "8f00668e",
+      "title": "产品更新：Upstream",
+      "title_en": "Upstream",
+      "url": "https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The inbox designed for humans and agents Final",
+      "summary_zh": "The inbox designed for humans and agents Final",
+      "publishedAt": "2026-06-18T07:01:00Z",
+      "published_at": "2026-06-18T07:01:00Z",
+      "votes_count": 523,
+      "featured": true,
+      "topics": [
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5912bf3d",
+      "title": "产品更新：Honestly",
+      "title_en": "Honestly",
+      "url": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "See what Reddit and TikTok honestly think abou",
+      "summary_zh": "See what Reddit and TikTok honestly think abou",
+      "publishedAt": "2026-06-18T07:01:00Z",
+      "published_at": "2026-06-18T07:01:00Z",
+      "votes_count": 403,
+      "featured": true,
+      "topics": [
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "582",
+          "name": "Data & Analytics",
+          "slug": "data-analytics"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "4ca4d6cd",
+      "title": "产品更新：Jesse",
+      "title_en": "Jesse",
+      "url": "https://www.producthunt.com/products/jesse-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/jesse-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Stop building Apollo/Clay lists. Search the li",
+      "summary_zh": "Stop building Apollo/Clay lists. Search the li",
+      "publishedAt": "2026-06-18T07:01:00Z",
+      "published_at": "2026-06-18T07:01:00Z",
+      "votes_count": 275,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "419f1e2f",
+      "title": "产品更新：Elvin",
+      "title_en": "Elvin",
+      "url": "https://www.producthunt.com/products/elvin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/elvin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Proactive AI that finds and finishes work befo",
+      "summary_zh": "Proactive AI that finds and finishes work befo",
+      "publishedAt": "2026-06-18T07:01:00Z",
+      "published_at": "2026-06-18T07:01:00Z",
+      "votes_count": 218,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "88b1810c",
+      "title": "中科院博士冲上市，市值超105亿港币",
+      "title_en": null,
+      "url": "https://36kr.com/p/3857959588418823?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3857959588418823?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "本文约1900字，建议阅读4分钟 作者 | 彭孝秋 6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。 上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2.2%。这是一家由中国科学院自动化研究所科学家创办的公司，过去三年累计亏掉约5.83亿元（净亏损口径）。  这是门什么生意 从业绩来看，中科闻歌2023—2025年收入分别为2.5亿、3.18亿、4.05亿元，三年复合增速约27.4%；毛利率从44.0%一路提到50.4%、51.2%；净亏损也从2023年的2.6亿元收窄到2025年的1.67亿元。 能明显发现，中科闻歌收入在涨、毛利率超50%、亏损也在收窄。但即使在净亏损中加回股份支付（2025年4451万元）和上市相关开支（2025年2116万元）后，经调整净亏损也分别有1.86亿、 1.15亿、1亿元，对应经调整亏损率 -74.3%、-36.3%、-24.8%。  (图源/硬氪整理",
+      "summary_zh": "本文约1900字，建议阅读4分钟 作者 | 彭孝秋 6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。 上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2.2%。这是一家由中国科学院自动化研究所科学家创办的公司，过去三年累计亏掉约5.83亿元（净亏损口径）。  这是门什么生意 从业绩来看，中科闻歌2023—2025年收入分别为2.5亿、3.18亿、4.05亿元，三年复合增速约27.4%；毛利率从44.0%一路提到50.4%、51.2%；净亏损也从2023年的2.6亿元收窄到2025年的1.67亿元。 能明显发现，中科闻歌收入在涨、毛利率超50%、亏损也在收窄。但即使在净亏损中加回股份支付（2025年4451万元）和上市相关开支（2025年2116万元）后，经调整净亏损也分别有1.86亿、 1.15亿、1亿元，对应经调整亏损率 -74.3%、-36.3%、-24.8%。  (图源/硬氪整理",
+      "publishedAt": "2026-06-18T01:00:00Z",
+      "published_at": "2026-06-18T01:00:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "619209ca",
+      "title": "36氪「2026最具价值成长企业100」正式发布",
+      "title_en": null,
+      "url": "https://36kr.com/p/3857980507919622?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3857980507919622?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "时代从不被旁观者定义，它只发生在那些正在成长的人身上。 今天，当人们讨论华为、字节跳动、大疆、Tesla或OpenAI时，很容易忽略这样一个事实：在成为行业领导者之前，它们都曾是一家成长中的创业公司。 在初期，没有天然的市场地位，没有成熟的商业体系，也未必被所有人看好。但通过持续的技术突破和产品迭代，它们一步步从“挑战者”变成了“定义者”。 商业史本质上是一部成长史。那些最终改变产业格局的公司，往往不是起点最高的公司，而是在漫长竞争中不断积累技术、组织和市场能力的公司。 当前，新一轮的技术浪潮正催生更多新赛道与新格局。基于此，今年4月，36氪重磅启动“2026最具价值成长企业100”评选，旨在寻找那些能顺应产业变革、构建长期核心竞争力、持续创造商业与产业价值的创新企业。 本次评选历时2个多月，累计收到数百份企业申报。我们从成长力、技术力、资本力、产业力和影响力五大维度出发，围绕营收及订单增长、研发投入与专利积累、机构认可度与融资节奏、全球化布局与产业链位置、团队完整度等核心指标，进行了多轮交叉验证与独立评审，最终遴选出100家定义未来的成长标杆企业。      如果给这100家入围企业",
+      "summary_zh": "时代从不被旁观者定义，它只发生在那些正在成长的人身上。 今天，当人们讨论华为、字节跳动、大疆、Tesla或OpenAI时，很容易忽略这样一个事实：在成为行业领导者之前，它们都曾是一家成长中的创业公司。 在初期，没有天然的市场地位，没有成熟的商业体系，也未必被所有人看好。但通过持续的技术突破和产品迭代，它们一步步从“挑战者”变成了“定义者”。 商业史本质上是一部成长史。那些最终改变产业格局的公司，往往不是起点最高的公司，而是在漫长竞争中不断积累技术、组织和市场能力的公司。 当前，新一轮的技术浪潮正催生更多新赛道与新格局。基于此，今年4月，36氪重磅启动“2026最具价值成长企业100”评选，旨在寻找那些能顺应产业变革、构建长期核心竞争力、持续创造商业与产业价值的创新企业。 本次评选历时2个多月，累计收到数百份企业申报。我们从成长力、技术力、资本力、产业力和影响力五大维度出发，围绕营收及订单增长、研发投入与专利积累、机构认可度与融资节奏、全球化布局与产业链位置、团队完整度等核心指标，进行了多轮交叉验证与独立评审，最终遴选出100家定义未来的成长标杆企业。      如果给这100家入围企业",
+      "publishedAt": "2026-06-18T01:09:18Z",
+      "published_at": "2026-06-18T01:09:18Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f0909c27",
+      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3856708724315400?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3856708724315400?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。  这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。 穹彻智能是硬氪长期关注的企业。公司成立于2023年11月，长期专注具身智能基础模型与系统的自主研发，已发布有核心产品“穹彻具身大脑”（Noematrix Brain），并围绕其构建了覆盖数据采集、模型训练到部署验证、具身机器人应用全流程的软硬件产品体系。 具身智能的行业叙事正在经历一次静默的转向。过去两年，赛道内备受追捧的能力是“完成一个动作”，抓取、搬运、行走等任务在实验室或演示台上被反复验证。但自今年以来，一个新的衡量尺度正在浮现：机器人能否在真实物理环境中持续稳定地工作，而非在可控条件下完成一次性展示。 这一转向的实质，是从“动作能力”向“工程稳定性”的重心迁",
+      "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。  这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。 穹彻智能是硬氪长期关注的企业。公司成立于2023年11月，长期专注具身智能基础模型与系统的自主研发，已发布有核心产品“穹彻具身大脑”（Noematrix Brain），并围绕其构建了覆盖数据采集、模型训练到部署验证、具身机器人应用全流程的软硬件产品体系。 具身智能的行业叙事正在经历一次静默的转向。过去两年，赛道内备受追捧的能力是“完成一个动作”，抓取、搬运、行走等任务在实验室或演示台上被反复验证。但自今年以来，一个新的衡量尺度正在浮现：机器人能否在真实物理环境中持续稳定地工作，而非在可控条件下完成一次性展示。 这一转向的实质，是从“动作能力”向“工程稳定性”的重心迁",
+      "publishedAt": "2026-06-18T01:28:16Z",
+      "published_at": "2026-06-18T01:28:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "322ead24",
+      "title": "国产算力正在进入Token标准化时代",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/436468.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/436468.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "国产算力正在进入Token标准化时代  允中 2026-06-18 09:45:19  来源：量子位   当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。   允中 发自 凹非寺 量子位 | 公众号 QbitAI  AI时代，Token正成为新的“硬通货”。 而把分布式的国产算力系统化地转化为标准化的Token生产能力，这件事也终于有人认真在做了。 2026年6月17日，国家超级计算无锡中心创新发展大会期间，一场内部的论坛在无锡太湖边举行，学术界代表与国产AI芯片厂商、算力平台方、应用厂商聚到了同一张桌子上。    △2026国产异构算力创新发展论坛现场 攒局者是是石科技（Meta-Stone）。 在是石科技创始人兼董事长闫博文的观察中，当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。 而是石科技本身，也正在AI时代扮演Token产业链里承上启下的关键角色——不做芯片，不做大模型，专攻“从异构算力到国产Token优化工厂”的工程化转化。 一个被忽略的真问题 据统计，2025年，中国算力市场规模已达八千亿元人民币。2",
+      "summary_zh": "国产算力正在进入Token标准化时代  允中 2026-06-18 09:45:19  来源：量子位   当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。   允中 发自 凹非寺 量子位 | 公众号 QbitAI  AI时代，Token正成为新的“硬通货”。 而把分布式的国产算力系统化地转化为标准化的Token生产能力，这件事也终于有人认真在做了。 2026年6月17日，国家超级计算无锡中心创新发展大会期间，一场内部的论坛在无锡太湖边举行，学术界代表与国产AI芯片厂商、算力平台方、应用厂商聚到了同一张桌子上。    △2026国产异构算力创新发展论坛现场 攒局者是是石科技（Meta-Stone）。 在是石科技创始人兼董事长闫博文的观察中，当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。 而是石科技本身，也正在AI时代扮演Token产业链里承上启下的关键角色——不做芯片，不做大模型，专攻“从异构算力到国产Token优化工厂”的工程化转化。 一个被忽略的真问题 据统计，2025年，中国算力市场规模已达八千亿元人民币。2",
+      "publishedAt": "2026-06-18T01:45:19Z",
+      "published_at": "2026-06-18T01:45:19Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
