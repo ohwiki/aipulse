@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-06-18T22:28:34Z",
-  "generatedAt": "2026-06-18T22:28:34Z",
+  "generated_at": "2026-06-19T12:31:29Z",
+  "generatedAt": "2026-06-19T12:31:29Z",
   "count": 38,
   "total": 38,
   "entries": [
     {
       "date": "2026-06-19",
-      "generated_at": "2026-06-18T22:28:34Z",
-      "generatedAt": "2026-06-18T22:28:34Z",
-      "total": 8,
+      "generated_at": "2026-06-19T12:31:29Z",
+      "generatedAt": "2026-06-19T12:31:29Z",
+      "total": 6,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "8f00668e",
-          "title": "产品更新：Upstream",
-          "title_en": "Upstream",
-          "url": "https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "c5fde271",
+          "title": "产品更新：Claude Code Art",
+          "title_en": "Claude Code Artifacts",
+          "url": "https://www.producthunt.com/products/claude-redesigned?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/claude-redesigned?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "The inbox designed for humans and agents Final",
-          "summary_zh": "The inbox designed for humans and agents Final",
-          "publishedAt": "2026-06-18T07:01:00Z",
-          "published_at": "2026-06-18T07:01:00Z",
-          "votes_count": 523,
+          "summary": "Preview and share your coding work live as it",
+          "summary_zh": "Preview and share your coding work live as it",
+          "publishedAt": "2026-06-19T07:01:00Z",
+          "published_at": "2026-06-19T07:01:00Z",
+          "votes_count": 149,
           "featured": true,
           "topics": [
             {
-              "id": "39",
-              "name": "Email",
-              "slug": "email"
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
             },
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
             {
               "id": "268",
@@ -50,74 +50,63 @@
           "score_details": null
         },
         {
-          "id": "5912bf3d",
-          "title": "产品更新：Honestly",
-          "title_en": "Honestly",
-          "url": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "1d0ac689",
+          "title": "产品更新：Zernio WhatsApp",
+          "title_en": "Zernio WhatsApp API",
+          "url": "https://www.producthunt.com/products/zernio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/zernio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "See what Reddit and TikTok honestly think abou",
-          "summary_zh": "See what Reddit and TikTok honestly think abou",
-          "publishedAt": "2026-06-18T07:01:00Z",
-          "published_at": "2026-06-18T07:01:00Z",
-          "votes_count": 403,
+          "summary": "One API for WhatsApp: messaging, calling, and",
+          "summary_zh": "One API for WhatsApp: messaging, calling, and",
+          "publishedAt": "2026-06-19T07:01:00Z",
+          "published_at": "2026-06-19T07:01:00Z",
+          "votes_count": 147,
           "featured": true,
           "topics": [
             {
-              "id": "104",
-              "name": "Social Media",
-              "slug": "social-media"
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
             },
             {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
             },
             {
-              "id": "582",
-              "name": "Data & Analytics",
-              "slug": "data-analytics"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             }
           ],
           "score_details": null
         },
         {
-          "id": "4ca4d6cd",
-          "title": "产品更新：Jesse",
-          "title_en": "Jesse",
-          "url": "https://www.producthunt.com/products/jesse-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "11435dfc",
+          "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/436758.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/jesse-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Stop building Apollo/Clay lists. Search the li",
-          "summary_zh": "Stop building Apollo/Clay lists. Search the li",
-          "publishedAt": "2026-06-18T07:01:00Z",
-          "published_at": "2026-06-18T07:01:00Z",
-          "votes_count": 275,
-          "featured": true,
-          "topics": [
-            {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/436758.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关  Jay 2026-06-18 21:46:04  来源：量子位   M4是大脑，百小医是身体   衡宇 Jay 发自 凹非寺 量子位 | 公众号 QbitAI  应该不只是我家里的长辈天天抱着AI“看病”吧？ 这年头，大家是越来越习惯把症状、化验单、病历丢给AI了。 正所谓春江水暖鸭先知，身处一线的医生们就对这个事情深有体会。越来越多患者带着AI生成的“自我判断结果”去医院问诊，有些医生甚至反馈，门诊里不少人带着同一套AI结论来求证。 患者过度依赖大模型诊断，导致医患沟通成本增加。界面新闻采访的三甲医院医生就非常无奈：  “上午看了30个号，25个病人是带着AI结论来的。”   虽然许多官媒时不时也提醒公众，通用AI用于医疗场景存在明显的不可靠性，但随着AI技术精进、使用人群越来越广泛，AI确实正在进入医疗决策的前置环节。 于是一个分化开始变得明显起来。 一边是通用大模型正在成为健康信息的第一入口，另一边是医疗行业不断强调，通用模型不适合直接承担医疗判断。 所以我们讨论的话题应该再进一步，聚焦在“哪一种AI有资格靠近医",
+          "summary_zh": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关  Jay 2026-06-18 21:46:04  来源：量子位   M4是大脑，百小医是身体   衡宇 Jay 发自 凹非寺 量子位 | 公众号 QbitAI  应该不只是我家里的长辈天天抱着AI“看病”吧？ 这年头，大家是越来越习惯把症状、化验单、病历丢给AI了。 正所谓春江水暖鸭先知，身处一线的医生们就对这个事情深有体会。越来越多患者带着AI生成的“自我判断结果”去医院问诊，有些医生甚至反馈，门诊里不少人带着同一套AI结论来求证。 患者过度依赖大模型诊断，导致医患沟通成本增加。界面新闻采访的三甲医院医生就非常无奈：  “上午看了30个号，25个病人是带着AI结论来的。”   虽然许多官媒时不时也提醒公众，通用AI用于医疗场景存在明显的不可靠性，但随着AI技术精进、使用人群越来越广泛，AI确实正在进入医疗决策的前置环节。 于是一个分化开始变得明显起来。 一边是通用大模型正在成为健康信息的第一入口，另一边是医疗行业不断强调，通用模型不适合直接承担医疗判断。 所以我们讨论的话题应该再进一步，聚焦在“哪一种AI有资格靠近医",
+          "publishedAt": "2026-06-18T13:46:04Z",
+          "published_at": "2026-06-18T13:46:04Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
