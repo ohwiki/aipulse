@@ -1,0 +1,503 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-20T21:44:17Z",
+  "generatedAt": "2026-06-20T21:44:17Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "d89b278e",
+          "title": "产品更新：WorkClaw",
+          "title_en": "WorkClaw",
+          "url": "https://www.producthunt.com/products/workclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/workclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Collaborative, proactive AI coworkers who work",
+          "summary_zh": "Collaborative, proactive AI coworkers who work",
+          "publishedAt": "2026-06-20T07:01:00Z",
+          "published_at": "2026-06-20T07:01:00Z",
+          "votes_count": 267,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "570",
+              "name": "Business",
+              "slug": "business"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4ddd4ed7",
+          "title": "产品更新：Slackbot’s MCP",
+          "title_en": "Slackbot’s MCP Client",
+          "url": "https://www.producthunt.com/products/slack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/slack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Work across 20+ apps in Slack with multiplayer",
+          "summary_zh": "Work across 20+ apps in Slack with multiplayer",
+          "publishedAt": "2026-06-20T07:01:00Z",
+          "published_at": "2026-06-20T07:01:00Z",
+          "votes_count": 171,
+          "featured": true,
+          "topics": [
+            {
+              "id": "22",
+              "name": "Slack",
+              "slug": "slack"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "bd2d9b70",
+          "title": "模型更新：Mellum by JetBr",
+          "title_en": "Mellum by JetBrains",
+          "url": "https://www.producthunt.com/products/jetbrains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/jetbrains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Fast LLMs for low-latency and high-performance",
+          "summary_zh": "Fast LLMs for low-latency and high-performance",
+          "publishedAt": "2026-06-20T07:01:00Z",
+          "published_at": "2026-06-20T07:01:00Z",
+          "votes_count": 153,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6379f60c",
+          "title": "产品更新：pumaDB",
+          "title_en": "pumaDB",
+          "url": "https://www.producthunt.com/products/pumadb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pumadb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "a small hosted memory layer for AI agents Most",
+          "summary_zh": "a small hosted memory layer for AI agents Most",
+          "publishedAt": "2026-06-20T07:01:00Z",
+          "published_at": "2026-06-20T07:01:00Z",
+          "votes_count": 129,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "772",
+              "name": "Database",
+              "slug": "database"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "14ae8503",
+          "title": "大连坤达完成数千万元A轮融资",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3860909169366019?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3860909169366019?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "据大桉资本消息，大连坤达自动化有限公司已于2026年5月完成数千万元人民币A轮融资，本轮融资由泰州永鑫融堰创业投资合伙企业投资。大桉资本担任本轮融资独家财务顾问及政府落地顾问。（新浪财经）",
+          "summary_zh": "据大桉资本消息，大连坤达自动化有限公司已于2026年5月完成数千万元人民币A轮融资，本轮融资由泰州永鑫融堰创业投资合伙企业投资。大桉资本担任本轮融资独家财务顾问及政府落地顾问。（新浪财经）",
+          "publishedAt": "2026-06-20T04:10:01Z",
+          "published_at": "2026-06-20T04:10:01Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "4aef1414",
+          "title": "挪威将禁止小学生使用生成式人工智能",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3861257682129921?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3861257682129921?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的方案，6到13岁的小学生原则上不得使用人工智能工具；14到16岁的初中生可在教师的严密监管下谨慎使用此类工具。17到19岁的高中生应学习如何恰当地使用人工智能工具，以便为后续的高等教育和未来的职场环境做好准备。（央视新闻）",
+          "summary_zh": "挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的方案，6到13岁的小学生原则上不得使用人工智能工具；14到16岁的初中生可在教师的严密监管下谨慎使用此类工具。17到19岁的高中生应学习如何恰当地使用人工智能工具，以便为后续的高等教育和未来的职场环境做好准备。（央视新闻）",
+          "publishedAt": "2026-06-20T09:30:48Z",
+          "published_at": "2026-06-20T09:30:48Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "5e36d491",
+          "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/436966.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/436966.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶  听雨 2026-06-20 17:36:31  来源：量子位   抢人最猛的Meta，似乎先从内部裂开了  听雨 发自 凹非寺 量子位 | 公众号 QbitAI Meta内部士气快跌到历史谷底了。 说这话的，是Meta CTO Andrew Bosworth（人称“Boz”）——扎克伯格最信任的副手之一，在Meta干了20年的技术灵魂人物。  在内部会议“Tuesdays with Boz”上，他亲口承认了这一点，而且用了一个相当严重的词来形容公司这次AI部门重组—— atrocious（糟糕透顶）。 Boz承认，这场重组动摇了员工对公司的三重信任： 相信自己的专长会被看见、相信自己能在这里成长、相信自己的工作真的有影响力。  而把他逼到要写这封“认错信”的，是过去一周接连引爆的几件事。 其中最炸的一幕，发生在一场数千人围观的Meta内部直播上。 一名员工直接劫了麦克风，爆着粗口喊话，让在场所有人去转告某位Meta AI高管——“他就是个piece of sh*t”。  演示者当场用手捂住了脸，请大家赶紧静",
+          "summary_zh": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶  听雨 2026-06-20 17:36:31  来源：量子位   抢人最猛的Meta，似乎先从内部裂开了  听雨 发自 凹非寺 量子位 | 公众号 QbitAI Meta内部士气快跌到历史谷底了。 说这话的，是Meta CTO Andrew Bosworth（人称“Boz”）——扎克伯格最信任的副手之一，在Meta干了20年的技术灵魂人物。  在内部会议“Tuesdays with Boz”上，他亲口承认了这一点，而且用了一个相当严重的词来形容公司这次AI部门重组—— atrocious（糟糕透顶）。 Boz承认，这场重组动摇了员工对公司的三重信任： 相信自己的专长会被看见、相信自己能在这里成长、相信自己的工作真的有影响力。  而把他逼到要写这封“认错信”的，是过去一周接连引爆的几件事。 其中最炸的一幕，发生在一场数千人围观的Meta内部直播上。 一名员工直接劫了麦克风，爆着粗口喊话，让在场所有人去转告某位Meta AI高管——“他就是个piece of sh*t”。  演示者当场用手捂住了脸，请大家赶紧静",
+          "publishedAt": "2026-06-20T09:36:31Z",
+          "published_at": "2026-06-20T09:36:31Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "4dd2505c",
+          "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/436980.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/436980.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将  听雨 2026-06-20 17:42:18  来源：量子位   Gemini 3.5 Pro呢？  听雨 发自 凹非寺量子位 | 公众号 QbitAI Google DeepMind的诺奖得主、AlphaFold之父John Jumper，跳槽Anthropic了。  本人已亲自在X上官宣：将近九年后，他决定离开Google DeepMind，加入Anthropic——也就是DeepMind最直接的对手之一。 要知道，这可是AlphaFold的核心人物，他还曾与Demis Hassabis一起站上诺贝尔化学奖的领奖台。 Hassabis也几乎是第一时间回应。 这位诺奖搭档、DeepMind掌门人感谢了Jumper过去九年的「非凡合作」，称AlphaFold「改变了世界」，为AI在科学和医学上的可能性「照亮了道路」。  9年前，正是是Hassabis亲自给了他一个「冒险的机会」：让他一个PhD毕业才6个月的新人，领导AlphaFold团队。 但如今，连这份知遇之恩也留不住了… 就在两天前，Transfor",
+          "summary_zh": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将  听雨 2026-06-20 17:42:18  来源：量子位   Gemini 3.5 Pro呢？  听雨 发自 凹非寺量子位 | 公众号 QbitAI Google DeepMind的诺奖得主、AlphaFold之父John Jumper，跳槽Anthropic了。  本人已亲自在X上官宣：将近九年后，他决定离开Google DeepMind，加入Anthropic——也就是DeepMind最直接的对手之一。 要知道，这可是AlphaFold的核心人物，他还曾与Demis Hassabis一起站上诺贝尔化学奖的领奖台。 Hassabis也几乎是第一时间回应。 这位诺奖搭档、DeepMind掌门人感谢了Jumper过去九年的「非凡合作」，称AlphaFold「改变了世界」，为AI在科学和医学上的可能性「照亮了道路」。  9年前，正是是Hassabis亲自给了他一个「冒险的机会」：让他一个PhD毕业才6个月的新人，领导AlphaFold团队。 但如今，连这份知遇之恩也留不住了… 就在两天前，Transfor",
+          "publishedAt": "2026-06-20T09:42:18Z",
+          "published_at": "2026-06-20T09:42:18Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "d89b278e",
+      "title": "产品更新：WorkClaw",
+      "title_en": "WorkClaw",
+      "url": "https://www.producthunt.com/products/workclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/workclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Collaborative, proactive AI coworkers who work",
+      "summary_zh": "Collaborative, proactive AI coworkers who work",
+      "publishedAt": "2026-06-20T07:01:00Z",
+      "published_at": "2026-06-20T07:01:00Z",
+      "votes_count": 267,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "570",
+          "name": "Business",
+          "slug": "business"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "4ddd4ed7",
+      "title": "产品更新：Slackbot’s MCP",
+      "title_en": "Slackbot’s MCP Client",
+      "url": "https://www.producthunt.com/products/slack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/slack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Work across 20+ apps in Slack with multiplayer",
+      "summary_zh": "Work across 20+ apps in Slack with multiplayer",
+      "publishedAt": "2026-06-20T07:01:00Z",
+      "published_at": "2026-06-20T07:01:00Z",
+      "votes_count": 171,
+      "featured": true,
+      "topics": [
+        {
+          "id": "22",
+          "name": "Slack",
+          "slug": "slack"
+        },
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "bd2d9b70",
+      "title": "模型更新：Mellum by JetBr",
+      "title_en": "Mellum by JetBrains",
+      "url": "https://www.producthunt.com/products/jetbrains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/jetbrains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Fast LLMs for low-latency and high-performance",
+      "summary_zh": "Fast LLMs for low-latency and high-performance",
+      "publishedAt": "2026-06-20T07:01:00Z",
+      "published_at": "2026-06-20T07:01:00Z",
+      "votes_count": 153,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6379f60c",
+      "title": "产品更新：pumaDB",
+      "title_en": "pumaDB",
+      "url": "https://www.producthunt.com/products/pumadb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/pumadb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "a small hosted memory layer for AI agents Most",
+      "summary_zh": "a small hosted memory layer for AI agents Most",
+      "publishedAt": "2026-06-20T07:01:00Z",
+      "published_at": "2026-06-20T07:01:00Z",
+      "votes_count": 129,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "772",
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "14ae8503",
+      "title": "大连坤达完成数千万元A轮融资",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3860909169366019?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3860909169366019?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "据大桉资本消息，大连坤达自动化有限公司已于2026年5月完成数千万元人民币A轮融资，本轮融资由泰州永鑫融堰创业投资合伙企业投资。大桉资本担任本轮融资独家财务顾问及政府落地顾问。（新浪财经）",
+      "summary_zh": "据大桉资本消息，大连坤达自动化有限公司已于2026年5月完成数千万元人民币A轮融资，本轮融资由泰州永鑫融堰创业投资合伙企业投资。大桉资本担任本轮融资独家财务顾问及政府落地顾问。（新浪财经）",
+      "publishedAt": "2026-06-20T04:10:01Z",
+      "published_at": "2026-06-20T04:10:01Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4aef1414",
+      "title": "挪威将禁止小学生使用生成式人工智能",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3861257682129921?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3861257682129921?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的方案，6到13岁的小学生原则上不得使用人工智能工具；14到16岁的初中生可在教师的严密监管下谨慎使用此类工具。17到19岁的高中生应学习如何恰当地使用人工智能工具，以便为后续的高等教育和未来的职场环境做好准备。（央视新闻）",
+      "summary_zh": "挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的方案，6到13岁的小学生原则上不得使用人工智能工具；14到16岁的初中生可在教师的严密监管下谨慎使用此类工具。17到19岁的高中生应学习如何恰当地使用人工智能工具，以便为后续的高等教育和未来的职场环境做好准备。（央视新闻）",
+      "publishedAt": "2026-06-20T09:30:48Z",
+      "published_at": "2026-06-20T09:30:48Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "5e36d491",
+      "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/436966.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/436966.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶  听雨 2026-06-20 17:36:31  来源：量子位   抢人最猛的Meta，似乎先从内部裂开了  听雨 发自 凹非寺 量子位 | 公众号 QbitAI Meta内部士气快跌到历史谷底了。 说这话的，是Meta CTO Andrew Bosworth（人称“Boz”）——扎克伯格最信任的副手之一，在Meta干了20年的技术灵魂人物。  在内部会议“Tuesdays with Boz”上，他亲口承认了这一点，而且用了一个相当严重的词来形容公司这次AI部门重组—— atrocious（糟糕透顶）。 Boz承认，这场重组动摇了员工对公司的三重信任： 相信自己的专长会被看见、相信自己能在这里成长、相信自己的工作真的有影响力。  而把他逼到要写这封“认错信”的，是过去一周接连引爆的几件事。 其中最炸的一幕，发生在一场数千人围观的Meta内部直播上。 一名员工直接劫了麦克风，爆着粗口喊话，让在场所有人去转告某位Meta AI高管——“他就是个piece of sh*t”。  演示者当场用手捂住了脸，请大家赶紧静",
+      "summary_zh": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶  听雨 2026-06-20 17:36:31  来源：量子位   抢人最猛的Meta，似乎先从内部裂开了  听雨 发自 凹非寺 量子位 | 公众号 QbitAI Meta内部士气快跌到历史谷底了。 说这话的，是Meta CTO Andrew Bosworth（人称“Boz”）——扎克伯格最信任的副手之一，在Meta干了20年的技术灵魂人物。  在内部会议“Tuesdays with Boz”上，他亲口承认了这一点，而且用了一个相当严重的词来形容公司这次AI部门重组—— atrocious（糟糕透顶）。 Boz承认，这场重组动摇了员工对公司的三重信任： 相信自己的专长会被看见、相信自己能在这里成长、相信自己的工作真的有影响力。  而把他逼到要写这封“认错信”的，是过去一周接连引爆的几件事。 其中最炸的一幕，发生在一场数千人围观的Meta内部直播上。 一名员工直接劫了麦克风，爆着粗口喊话，让在场所有人去转告某位Meta AI高管——“他就是个piece of sh*t”。  演示者当场用手捂住了脸，请大家赶紧静",
+      "publishedAt": "2026-06-20T09:36:31Z",
+      "published_at": "2026-06-20T09:36:31Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4dd2505c",
+      "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/436980.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/436980.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将  听雨 2026-06-20 17:42:18  来源：量子位   Gemini 3.5 Pro呢？  听雨 发自 凹非寺量子位 | 公众号 QbitAI Google DeepMind的诺奖得主、AlphaFold之父John Jumper，跳槽Anthropic了。  本人已亲自在X上官宣：将近九年后，他决定离开Google DeepMind，加入Anthropic——也就是DeepMind最直接的对手之一。 要知道，这可是AlphaFold的核心人物，他还曾与Demis Hassabis一起站上诺贝尔化学奖的领奖台。 Hassabis也几乎是第一时间回应。 这位诺奖搭档、DeepMind掌门人感谢了Jumper过去九年的「非凡合作」，称AlphaFold「改变了世界」，为AI在科学和医学上的可能性「照亮了道路」。  9年前，正是是Hassabis亲自给了他一个「冒险的机会」：让他一个PhD毕业才6个月的新人，领导AlphaFold团队。 但如今，连这份知遇之恩也留不住了… 就在两天前，Transfor",
+      "summary_zh": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将  听雨 2026-06-20 17:42:18  来源：量子位   Gemini 3.5 Pro呢？  听雨 发自 凹非寺量子位 | 公众号 QbitAI Google DeepMind的诺奖得主、AlphaFold之父John Jumper，跳槽Anthropic了。  本人已亲自在X上官宣：将近九年后，他决定离开Google DeepMind，加入Anthropic——也就是DeepMind最直接的对手之一。 要知道，这可是AlphaFold的核心人物，他还曾与Demis Hassabis一起站上诺贝尔化学奖的领奖台。 Hassabis也几乎是第一时间回应。 这位诺奖搭档、DeepMind掌门人感谢了Jumper过去九年的「非凡合作」，称AlphaFold「改变了世界」，为AI在科学和医学上的可能性「照亮了道路」。  9年前，正是是Hassabis亲自给了他一个「冒险的机会」：让他一个PhD毕业才6个月的新人，领导AlphaFold团队。 但如今，连这份知遇之恩也留不住了… 就在两天前，Transfor",
+      "publishedAt": "2026-06-20T09:42:18Z",
+      "published_at": "2026-06-20T09:42:18Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
