@@ -1,117 +1,36 @@
 {
-  "generated_at": "2026-06-20T21:44:17Z",
-  "generatedAt": "2026-06-20T21:44:17Z",
+  "generated_at": "2026-06-21T11:29:25Z",
+  "generatedAt": "2026-06-21T11:29:25Z",
   "count": 40,
   "total": 40,
   "entries": [
     {
       "date": "2026-06-21",
-      "generated_at": "2026-06-20T21:44:17Z",
-      "generatedAt": "2026-06-20T21:44:17Z",
-      "total": 8,
+      "generated_at": "2026-06-21T11:29:25Z",
+      "generatedAt": "2026-06-21T11:29:25Z",
+      "total": 5,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "d89b278e",
-          "title": "产品更新：WorkClaw",
-          "title_en": "WorkClaw",
-          "url": "https://www.producthunt.com/products/workclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "1c40d841",
+          "title": "产品更新：Agent 37",
+          "title_en": "Agent 37",
+          "url": "https://www.producthunt.com/products/agent-37-38?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/workclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/agent-37-38?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Collaborative, proactive AI coworkers who work",
-          "summary_zh": "Collaborative, proactive AI coworkers who work",
-          "publishedAt": "2026-06-20T07:01:00Z",
-          "published_at": "2026-06-20T07:01:00Z",
-          "votes_count": 267,
+          "summary": "Give every customer their own Hermes or OpenCl",
+          "summary_zh": "Give every customer their own Hermes or OpenCl",
+          "publishedAt": "2026-06-21T07:01:00Z",
+          "published_at": "2026-06-21T07:01:00Z",
+          "votes_count": 215,
           "featured": true,
           "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "570",
-              "name": "Business",
-              "slug": "business"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "4ddd4ed7",
-          "title": "产品更新：Slackbot’s MCP",
-          "title_en": "Slackbot’s MCP Client",
-          "url": "https://www.producthunt.com/products/slack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/slack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Work across 20+ apps in Slack with multiplayer",
-          "summary_zh": "Work across 20+ apps in Slack with multiplayer",
-          "publishedAt": "2026-06-20T07:01:00Z",
-          "published_at": "2026-06-20T07:01:00Z",
-          "votes_count": 171,
-          "featured": true,
-          "topics": [
-            {
-              "id": "22",
-              "name": "Slack",
-              "slug": "slack"
-            },
-            {
-              "id": "48",
-              "name": "Task Management",
-              "slug": "task-management"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "bd2d9b70",
-          "title": "模型更新：Mellum by JetBr",
-          "title_en": "Mellum by JetBrains",
-          "url": "https://www.producthunt.com/products/jetbrains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/jetbrains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Fast LLMs for low-latency and high-performance",
-          "summary_zh": "Fast LLMs for low-latency and high-performance",
-          "publishedAt": "2026-06-20T07:01:00Z",
-          "published_at": "2026-06-20T07:01:00Z",
-          "votes_count": 153,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
             {
               "id": "267",
               "name": "Developer Tools",
@@ -121,8 +40,57 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "778",
+              "name": "SDK",
+              "slug": "sdk"
             }
           ],
+          "score_details": null
+        },
+        {
+          "id": "6cc9ad64",
+          "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/437141.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/437141.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯  henry 2026-06-21 12:46:07  来源：量子位   一个月只要340块   henry 发自 凹非寺 量子位 | 公众号 QbitAI  终于，也是等到了让AI来守护艾泽拉斯的这一天。 最近，一位Reddit老哥手搓了一个《魔兽世界》私服—— 里面活跃着1800个AI玩家，而且全都接入了DeepSeek API，能像真人一样聊天、组队、闲逛。 于是，暴风城的聊天频道突然变成了DeepSeek广场，画风大概是这样的：  猎人在怀念旧天赋，法师接话“奥杜尔是我最爱的副本”，旁边还有人在吐槽“奥核之眼简直是毒瘤”。 乍一看，跟正常的魔兽聊天频道没什么区别。更关键的是，这套东西还特别便宜。 由于DeepSeek API成本极低（得益于此前的Token永久折扣），老哥透露，之前运行450个AI玩家版本时，每天在线5~6小时，一个月API费用还不到10欧元（约85块）。  换算下来，1800个Bot跑满一个月，也就340块，一顿Omakase的钱。 该说不说，虽然这些年玩家总在吐槽《魔兽世界》里人机越来越多，但真到了",
+          "summary_zh": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯  henry 2026-06-21 12:46:07  来源：量子位   一个月只要340块   henry 发自 凹非寺 量子位 | 公众号 QbitAI  终于，也是等到了让AI来守护艾泽拉斯的这一天。 最近，一位Reddit老哥手搓了一个《魔兽世界》私服—— 里面活跃着1800个AI玩家，而且全都接入了DeepSeek API，能像真人一样聊天、组队、闲逛。 于是，暴风城的聊天频道突然变成了DeepSeek广场，画风大概是这样的：  猎人在怀念旧天赋，法师接话“奥杜尔是我最爱的副本”，旁边还有人在吐槽“奥核之眼简直是毒瘤”。 乍一看，跟正常的魔兽聊天频道没什么区别。更关键的是，这套东西还特别便宜。 由于DeepSeek API成本极低（得益于此前的Token永久折扣），老哥透露，之前运行450个AI玩家版本时，每天在线5~6小时，一个月API费用还不到10欧元（约85块）。  换算下来，1800个Bot跑满一个月，也就340块，一顿Omakase的钱。 该说不说，虽然这些年玩家总在吐槽《魔兽世界》里人机越来越多，但真到了",
+          "publishedAt": "2026-06-21T04:46:07Z",
+          "published_at": "2026-06-21T04:46:07Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "bf335fdb",
+          "title": "AI投资热潮向上游扩散，美股多家半导体设备龙头今年翻倍",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3862419587781894?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3862419587781894?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "回顾年初至今的美股市场，不仅半导体、光通信等AI硬件板块集体狂飙，产业链上游的半导体设备赛道亦同步走出亮眼升势。据统计，美股总市值超百亿美元的9家半导体设备公司，今年以来股价涨幅均已超过75%。其中，应用材料、拉姆研究、科磊、泰瑞达、MKS Inc、英特格、Onto Innovation Inc这7只个股年内股价实现翻倍。就产业逻辑而言，种种迹象表明，半导体设备正迎来机构所谓的“卖方市场”。（财联社）",
+          "summary_zh": "回顾年初至今的美股市场，不仅半导体、光通信等AI硬件板块集体狂飙，产业链上游的半导体设备赛道亦同步走出亮眼升势。据统计，美股总市值超百亿美元的9家半导体设备公司，今年以来股价涨幅均已超过75%。其中，应用材料、拉姆研究、科磊、泰瑞达、MKS Inc、英特格、Onto Innovation Inc这7只个股年内股价实现翻倍。就产业逻辑而言，种种迹象表明，半导体设备正迎来机构所谓的“卖方市场”。（财联社）",
+          "publishedAt": "2026-06-21T04:38:21Z",
+          "published_at": "2026-06-21T04:38:21Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
