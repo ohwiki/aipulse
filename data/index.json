@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-06-21T11:29:25Z",
-  "generatedAt": "2026-06-21T11:29:25Z",
-  "count": 40,
-  "total": 40,
+  "generated_at": "2026-06-21T21:49:18Z",
+  "generatedAt": "2026-06-21T21:49:18Z",
+  "count": 41,
+  "total": 41,
   "entries": [
+    {
+      "date": "2026-06-22",
+      "generated_at": "2026-06-21T21:49:18Z",
+      "generatedAt": "2026-06-21T21:49:18Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "1c40d841",
+          "title": "产品更新：Agent 37 Cloud",
+          "title_en": "Agent 37 Cloud",
+          "url": "https://www.producthunt.com/products/agent-37-38?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/agent-37-38?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Give every customer their own Hermes or OpenCl",
+          "summary_zh": "Give every customer their own Hermes or OpenCl",
+          "publishedAt": "2026-06-21T07:01:00Z",
+          "published_at": "2026-06-21T07:01:00Z",
+          "votes_count": 331,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "778",
+              "name": "SDK",
+              "slug": "sdk"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c748e4f5",
+          "title": "产品更新：Grok by SpaceXA",
+          "title_en": "Grok by SpaceXAI for Word",
+          "url": "https://www.producthunt.com/products/grok-by-spacexai-for-word?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/grok-by-spacexai-for-word?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Draft, restructure & tighten wording from pane",
+          "summary_zh": "Draft, restructure & tighten wording from pane",
+          "publishedAt": "2026-06-21T07:01:00Z",
+          "published_at": "2026-06-21T07:01:00Z",
+          "votes_count": 170,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "aa20ce36",
+          "title": "产品更新：Backgrind",
+          "title_en": "Backgrind",
+          "url": "https://www.producthunt.com/products/backgrind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/backgrind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Run your AI agents over any app, even games. Y",
+          "summary_zh": "Run your AI agents over any app, even games. Y",
+          "publishedAt": "2026-06-21T07:01:00Z",
+          "published_at": "2026-06-21T07:01:00Z",
+          "votes_count": 163,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-21",
       "generated_at": "2026-06-21T11:29:25Z",

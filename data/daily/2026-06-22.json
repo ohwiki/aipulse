@@ -1,0 +1,493 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-21T21:49:18Z",
+  "generatedAt": "2026-06-21T21:49:18Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "1c40d841",
+          "title": "产品更新：Agent 37 Cloud",
+          "title_en": "Agent 37 Cloud",
+          "url": "https://www.producthunt.com/products/agent-37-38?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/agent-37-38?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Give every customer their own Hermes or OpenCl",
+          "summary_zh": "Give every customer their own Hermes or OpenCl",
+          "publishedAt": "2026-06-21T07:01:00Z",
+          "published_at": "2026-06-21T07:01:00Z",
+          "votes_count": 331,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "778",
+              "name": "SDK",
+              "slug": "sdk"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c748e4f5",
+          "title": "产品更新：Grok by SpaceXA",
+          "title_en": "Grok by SpaceXAI for Word",
+          "url": "https://www.producthunt.com/products/grok-by-spacexai-for-word?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/grok-by-spacexai-for-word?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Draft, restructure & tighten wording from pane",
+          "summary_zh": "Draft, restructure & tighten wording from pane",
+          "publishedAt": "2026-06-21T07:01:00Z",
+          "published_at": "2026-06-21T07:01:00Z",
+          "votes_count": 170,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "aa20ce36",
+          "title": "产品更新：Backgrind",
+          "title_en": "Backgrind",
+          "url": "https://www.producthunt.com/products/backgrind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/backgrind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Run your AI agents over any app, even games. Y",
+          "summary_zh": "Run your AI agents over any app, even games. Y",
+          "publishedAt": "2026-06-21T07:01:00Z",
+          "published_at": "2026-06-21T07:01:00Z",
+          "votes_count": 163,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e5350dcd",
+          "title": "模型更新：Laguna by Pools",
+          "title_en": "Laguna by Poolside",
+          "url": "https://www.producthunt.com/products/poolside?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/poolside?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Foundation models for agentic coding and long-",
+          "summary_zh": "Foundation models for agentic coding and long-",
+          "publishedAt": "2026-06-21T07:01:00Z",
+          "published_at": "2026-06-21T07:01:00Z",
+          "votes_count": 136,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "bf335fdb",
+          "title": "AI投资热潮向上游扩散，美股多家半导体设备龙头今年翻倍",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3862419587781894?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3862419587781894?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "回顾年初至今的美股市场，不仅半导体、光通信等AI硬件板块集体狂飙，产业链上游的半导体设备赛道亦同步走出亮眼升势。据统计，美股总市值超百亿美元的9家半导体设备公司，今年以来股价涨幅均已超过75%。其中，应用材料、拉姆研究、科磊、泰瑞达、MKS Inc、英特格、Onto Innovation Inc这7只个股年内股价实现翻倍。就产业逻辑而言，种种迹象表明，半导体设备正迎来机构所谓的“卖方市场”。（财联社）",
+          "summary_zh": "回顾年初至今的美股市场，不仅半导体、光通信等AI硬件板块集体狂飙，产业链上游的半导体设备赛道亦同步走出亮眼升势。据统计，美股总市值超百亿美元的9家半导体设备公司，今年以来股价涨幅均已超过75%。其中，应用材料、拉姆研究、科磊、泰瑞达、MKS Inc、英特格、Onto Innovation Inc这7只个股年内股价实现翻倍。就产业逻辑而言，种种迹象表明，半导体设备正迎来机构所谓的“卖方市场”。（财联社）",
+          "publishedAt": "2026-06-21T04:38:21Z",
+          "published_at": "2026-06-21T04:38:21Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "6cc9ad64",
+          "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/437141.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/437141.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯  henry 2026-06-21 12:46:07  来源：量子位   一个月只要340块   henry 发自 凹非寺 量子位 | 公众号 QbitAI  终于，也是等到了让AI来守护艾泽拉斯的这一天。 最近，一位Reddit老哥手搓了一个《魔兽世界》私服—— 里面活跃着1800个AI玩家，而且全都接入了DeepSeek API，能像真人一样聊天、组队、闲逛。 于是，暴风城的聊天频道突然变成了DeepSeek广场，画风大概是这样的：  猎人在怀念旧天赋，法师接话“奥杜尔是我最爱的副本”，旁边还有人在吐槽“奥核之眼简直是毒瘤”。 乍一看，跟正常的魔兽聊天频道没什么区别。更关键的是，这套东西还特别便宜。 由于DeepSeek API成本极低（得益于此前的Token永久折扣），老哥透露，之前运行450个AI玩家版本时，每天在线5~6小时，一个月API费用还不到10欧元（约85块）。  换算下来，1800个Bot跑满一个月，也就340块，一顿Omakase的钱。 该说不说，虽然这些年玩家总在吐槽《魔兽世界》里人机越来越多，但真到了",
+          "summary_zh": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯  henry 2026-06-21 12:46:07  来源：量子位   一个月只要340块   henry 发自 凹非寺 量子位 | 公众号 QbitAI  终于，也是等到了让AI来守护艾泽拉斯的这一天。 最近，一位Reddit老哥手搓了一个《魔兽世界》私服—— 里面活跃着1800个AI玩家，而且全都接入了DeepSeek API，能像真人一样聊天、组队、闲逛。 于是，暴风城的聊天频道突然变成了DeepSeek广场，画风大概是这样的：  猎人在怀念旧天赋，法师接话“奥杜尔是我最爱的副本”，旁边还有人在吐槽“奥核之眼简直是毒瘤”。 乍一看，跟正常的魔兽聊天频道没什么区别。更关键的是，这套东西还特别便宜。 由于DeepSeek API成本极低（得益于此前的Token永久折扣），老哥透露，之前运行450个AI玩家版本时，每天在线5~6小时，一个月API费用还不到10欧元（约85块）。  换算下来，1800个Bot跑满一个月，也就340块，一顿Omakase的钱。 该说不说，虽然这些年玩家总在吐槽《魔兽世界》里人机越来越多，但真到了",
+          "publishedAt": "2026-06-21T04:46:07Z",
+          "published_at": "2026-06-21T04:46:07Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f314563a",
+          "title": "广西南宁：新能源智能船舶完成试航",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3862422164935689?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3862422164935689?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "6月20日，中技船舶首批9艘新能源船舶集中试航仪式在广西南宁港举行。9艘船舶包含无人驾驶智慧船、商用作业船、民用休闲船，适配执法巡逻、景区观光等各类场景，助力内河航运绿色转型。（新华社）",
+          "summary_zh": "6月20日，中技船舶首批9艘新能源船舶集中试航仪式在广西南宁港举行。9艘船舶包含无人驾驶智慧船、商用作业船、民用休闲船，适配执法巡逻、景区观光等各类场景，助力内河航运绿色转型。（新华社）",
+          "publishedAt": "2026-06-21T05:00:52Z",
+          "published_at": "2026-06-21T05:00:52Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "352516d6",
+          "title": "微信AI助手“小微”小范围灰度上线",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3862458180359424?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3862458180359424?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "微信AI已小范围灰度上线。部分网友微信主界面左上角已出现小眼睛式样图标，该图标即为AI助手“小微”测试版入口。据腾讯客服介绍，微信小微是微信团队在小范围内测的原生AI助手，小微支持通过文字或语音对话操作微信原生功能、调起小程序等，例如帮助好友发送消息、查询朋友圈、预约服务等。（财联社）",
+          "summary_zh": "微信AI已小范围灰度上线。部分网友微信主界面左上角已出现小眼睛式样图标，该图标即为AI助手“小微”测试版入口。据腾讯客服介绍，微信小微是微信团队在小范围内测的原生AI助手，小微支持通过文字或语音对话操作微信原生功能、调起小程序等，例如帮助好友发送消息、查询朋友圈、预约服务等。（财联社）",
+          "publishedAt": "2026-06-21T05:03:37Z",
+          "published_at": "2026-06-21T05:03:37Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "1c40d841",
+      "title": "产品更新：Agent 37 Cloud",
+      "title_en": "Agent 37 Cloud",
+      "url": "https://www.producthunt.com/products/agent-37-38?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/agent-37-38?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Give every customer their own Hermes or OpenCl",
+      "summary_zh": "Give every customer their own Hermes or OpenCl",
+      "publishedAt": "2026-06-21T07:01:00Z",
+      "published_at": "2026-06-21T07:01:00Z",
+      "votes_count": 331,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "778",
+          "name": "SDK",
+          "slug": "sdk"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "c748e4f5",
+      "title": "产品更新：Grok by SpaceXA",
+      "title_en": "Grok by SpaceXAI for Word",
+      "url": "https://www.producthunt.com/products/grok-by-spacexai-for-word?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/grok-by-spacexai-for-word?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Draft, restructure & tighten wording from pane",
+      "summary_zh": "Draft, restructure & tighten wording from pane",
+      "publishedAt": "2026-06-21T07:01:00Z",
+      "published_at": "2026-06-21T07:01:00Z",
+      "votes_count": 170,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "aa20ce36",
+      "title": "产品更新：Backgrind",
+      "title_en": "Backgrind",
+      "url": "https://www.producthunt.com/products/backgrind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/backgrind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Run your AI agents over any app, even games. Y",
+      "summary_zh": "Run your AI agents over any app, even games. Y",
+      "publishedAt": "2026-06-21T07:01:00Z",
+      "published_at": "2026-06-21T07:01:00Z",
+      "votes_count": 163,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "353",
+          "name": "Games",
+          "slug": "games"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "e5350dcd",
+      "title": "模型更新：Laguna by Pools",
+      "title_en": "Laguna by Poolside",
+      "url": "https://www.producthunt.com/products/poolside?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/poolside?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Foundation models for agentic coding and long-",
+      "summary_zh": "Foundation models for agentic coding and long-",
+      "publishedAt": "2026-06-21T07:01:00Z",
+      "published_at": "2026-06-21T07:01:00Z",
+      "votes_count": 136,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "bf335fdb",
+      "title": "AI投资热潮向上游扩散，美股多家半导体设备龙头今年翻倍",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3862419587781894?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3862419587781894?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "回顾年初至今的美股市场，不仅半导体、光通信等AI硬件板块集体狂飙，产业链上游的半导体设备赛道亦同步走出亮眼升势。据统计，美股总市值超百亿美元的9家半导体设备公司，今年以来股价涨幅均已超过75%。其中，应用材料、拉姆研究、科磊、泰瑞达、MKS Inc、英特格、Onto Innovation Inc这7只个股年内股价实现翻倍。就产业逻辑而言，种种迹象表明，半导体设备正迎来机构所谓的“卖方市场”。（财联社）",
+      "summary_zh": "回顾年初至今的美股市场，不仅半导体、光通信等AI硬件板块集体狂飙，产业链上游的半导体设备赛道亦同步走出亮眼升势。据统计，美股总市值超百亿美元的9家半导体设备公司，今年以来股价涨幅均已超过75%。其中，应用材料、拉姆研究、科磊、泰瑞达、MKS Inc、英特格、Onto Innovation Inc这7只个股年内股价实现翻倍。就产业逻辑而言，种种迹象表明，半导体设备正迎来机构所谓的“卖方市场”。（财联社）",
+      "publishedAt": "2026-06-21T04:38:21Z",
+      "published_at": "2026-06-21T04:38:21Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "6cc9ad64",
+      "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/437141.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/437141.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯  henry 2026-06-21 12:46:07  来源：量子位   一个月只要340块   henry 发自 凹非寺 量子位 | 公众号 QbitAI  终于，也是等到了让AI来守护艾泽拉斯的这一天。 最近，一位Reddit老哥手搓了一个《魔兽世界》私服—— 里面活跃着1800个AI玩家，而且全都接入了DeepSeek API，能像真人一样聊天、组队、闲逛。 于是，暴风城的聊天频道突然变成了DeepSeek广场，画风大概是这样的：  猎人在怀念旧天赋，法师接话“奥杜尔是我最爱的副本”，旁边还有人在吐槽“奥核之眼简直是毒瘤”。 乍一看，跟正常的魔兽聊天频道没什么区别。更关键的是，这套东西还特别便宜。 由于DeepSeek API成本极低（得益于此前的Token永久折扣），老哥透露，之前运行450个AI玩家版本时，每天在线5~6小时，一个月API费用还不到10欧元（约85块）。  换算下来，1800个Bot跑满一个月，也就340块，一顿Omakase的钱。 该说不说，虽然这些年玩家总在吐槽《魔兽世界》里人机越来越多，但真到了",
+      "summary_zh": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯  henry 2026-06-21 12:46:07  来源：量子位   一个月只要340块   henry 发自 凹非寺 量子位 | 公众号 QbitAI  终于，也是等到了让AI来守护艾泽拉斯的这一天。 最近，一位Reddit老哥手搓了一个《魔兽世界》私服—— 里面活跃着1800个AI玩家，而且全都接入了DeepSeek API，能像真人一样聊天、组队、闲逛。 于是，暴风城的聊天频道突然变成了DeepSeek广场，画风大概是这样的：  猎人在怀念旧天赋，法师接话“奥杜尔是我最爱的副本”，旁边还有人在吐槽“奥核之眼简直是毒瘤”。 乍一看，跟正常的魔兽聊天频道没什么区别。更关键的是，这套东西还特别便宜。 由于DeepSeek API成本极低（得益于此前的Token永久折扣），老哥透露，之前运行450个AI玩家版本时，每天在线5~6小时，一个月API费用还不到10欧元（约85块）。  换算下来，1800个Bot跑满一个月，也就340块，一顿Omakase的钱。 该说不说，虽然这些年玩家总在吐槽《魔兽世界》里人机越来越多，但真到了",
+      "publishedAt": "2026-06-21T04:46:07Z",
+      "published_at": "2026-06-21T04:46:07Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f314563a",
+      "title": "广西南宁：新能源智能船舶完成试航",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3862422164935689?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3862422164935689?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "6月20日，中技船舶首批9艘新能源船舶集中试航仪式在广西南宁港举行。9艘船舶包含无人驾驶智慧船、商用作业船、民用休闲船，适配执法巡逻、景区观光等各类场景，助力内河航运绿色转型。（新华社）",
+      "summary_zh": "6月20日，中技船舶首批9艘新能源船舶集中试航仪式在广西南宁港举行。9艘船舶包含无人驾驶智慧船、商用作业船、民用休闲船，适配执法巡逻、景区观光等各类场景，助力内河航运绿色转型。（新华社）",
+      "publishedAt": "2026-06-21T05:00:52Z",
+      "published_at": "2026-06-21T05:00:52Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "352516d6",
+      "title": "微信AI助手“小微”小范围灰度上线",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3862458180359424?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3862458180359424?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "微信AI已小范围灰度上线。部分网友微信主界面左上角已出现小眼睛式样图标，该图标即为AI助手“小微”测试版入口。据腾讯客服介绍，微信小微是微信团队在小范围内测的原生AI助手，小微支持通过文字或语音对话操作微信原生功能、调起小程序等，例如帮助好友发送消息、查询朋友圈、预约服务等。（财联社）",
+      "summary_zh": "微信AI已小范围灰度上线。部分网友微信主界面左上角已出现小眼睛式样图标，该图标即为AI助手“小微”测试版入口。据腾讯客服介绍，微信小微是微信团队在小范围内测的原生AI助手，小微支持通过文字或语音对话操作微信原生功能、调起小程序等，例如帮助好友发送消息、查询朋友圈、预约服务等。（财联社）",
+      "publishedAt": "2026-06-21T05:03:37Z",
+      "published_at": "2026-06-21T05:03:37Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
