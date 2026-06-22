@@ -1,36 +1,41 @@
 {
-  "generated_at": "2026-06-21T21:49:18Z",
-  "generatedAt": "2026-06-21T21:49:18Z",
+  "generated_at": "2026-06-22T14:12:38Z",
+  "generatedAt": "2026-06-22T14:12:38Z",
   "count": 41,
   "total": 41,
   "entries": [
     {
       "date": "2026-06-22",
-      "generated_at": "2026-06-21T21:49:18Z",
-      "generatedAt": "2026-06-21T21:49:18Z",
+      "generated_at": "2026-06-22T14:12:38Z",
+      "generatedAt": "2026-06-22T14:12:38Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "1c40d841",
-          "title": "产品更新：Agent 37 Cloud",
-          "title_en": "Agent 37 Cloud",
-          "url": "https://www.producthunt.com/products/agent-37-38?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "581591bc",
+          "title": "产品更新：Skybridge",
+          "title_en": "Skybridge",
+          "url": "https://www.producthunt.com/products/skybridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/agent-37-38?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/skybridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Give every customer their own Hermes or OpenCl",
-          "summary_zh": "Give every customer their own Hermes or OpenCl",
-          "publishedAt": "2026-06-21T07:01:00Z",
-          "published_at": "2026-06-21T07:01:00Z",
-          "votes_count": 331,
+          "summary": "The full-stack open source React framework for",
+          "summary_zh": "The full-stack open source React framework for",
+          "publishedAt": "2026-06-22T07:01:00Z",
+          "published_at": "2026-06-22T07:01:00Z",
+          "votes_count": 275,
           "featured": true,
           "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
             {
               "id": "267",
               "name": "Developer Tools",
@@ -40,35 +45,35 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "778",
-              "name": "SDK",
-              "slug": "sdk"
             }
           ],
           "score_details": null
         },
         {
-          "id": "c748e4f5",
-          "title": "产品更新：Grok by SpaceXA",
-          "title_en": "Grok by SpaceXAI for Word",
-          "url": "https://www.producthunt.com/products/grok-by-spacexai-for-word?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "f8f05946",
+          "title": "产品更新：Alai 2.0",
+          "title_en": "Alai 2.0",
+          "url": "https://www.producthunt.com/products/alai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/grok-by-spacexai-for-word?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/alai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Draft, restructure & tighten wording from pane",
-          "summary_zh": "Draft, restructure & tighten wording from pane",
-          "publishedAt": "2026-06-21T07:01:00Z",
-          "published_at": "2026-06-21T07:01:00Z",
-          "votes_count": 170,
+          "summary": "AI design partner for presentations, social po",
+          "summary_zh": "AI design partner for presentations, social po",
+          "publishedAt": "2026-06-22T07:01:00Z",
+          "published_at": "2026-06-22T07:01:00Z",
+          "votes_count": 183,
           "featured": true,
           "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
             {
               "id": "46",
               "name": "Productivity",
@@ -83,39 +88,34 @@
           "score_details": null
         },
         {
-          "id": "aa20ce36",
-          "title": "产品更新：Backgrind",
-          "title_en": "Backgrind",
-          "url": "https://www.producthunt.com/products/backgrind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "937e76b9",
+          "title": "产品更新：HAQQ Legal AI o",
+          "title_en": "HAQQ Legal AI on Mobile",
+          "url": "https://www.producthunt.com/products/haqq-mobile-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/backgrind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/haqq-mobile-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Run your AI agents over any app, even games. Y",
-          "summary_zh": "Run your AI agents over any app, even games. Y",
-          "publishedAt": "2026-06-21T07:01:00Z",
-          "published_at": "2026-06-21T07:01:00Z",
-          "votes_count": 163,
+          "summary": "Bringing legal understanding to anyone with a",
+          "summary_zh": "Bringing legal understanding to anyone with a",
+          "publishedAt": "2026-06-22T07:01:00Z",
+          "published_at": "2026-06-22T07:01:00Z",
+          "votes_count": 155,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "259",
+              "name": "Legal",
+              "slug": "legal"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "353",
-              "name": "Games",
-              "slug": "games"
             }
           ],
           "score_details": null
