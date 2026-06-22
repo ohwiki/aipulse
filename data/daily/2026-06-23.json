@@ -1,0 +1,493 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-22T22:20:00Z",
+  "generatedAt": "2026-06-22T22:20:00Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "581591bc",
+          "title": "产品更新：Skybridge",
+          "title_en": "Skybridge",
+          "url": "https://www.producthunt.com/products/skybridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/skybridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The full-stack open source React framework for",
+          "summary_zh": "The full-stack open source React framework for",
+          "publishedAt": "2026-06-22T07:01:00Z",
+          "published_at": "2026-06-22T07:01:00Z",
+          "votes_count": 423,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f8f05946",
+          "title": "产品更新：Alai 2.0",
+          "title_en": "Alai 2.0",
+          "url": "https://www.producthunt.com/products/alai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/alai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI design partner for presentations, social po",
+          "summary_zh": "AI design partner for presentations, social po",
+          "publishedAt": "2026-06-22T07:01:00Z",
+          "published_at": "2026-06-22T07:01:00Z",
+          "votes_count": 244,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d09bef2b",
+          "title": "产品更新：readywhen",
+          "title_en": "readywhen",
+          "url": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your 24/7 AI Chief of Staff for commitments an",
+          "summary_zh": "Your 24/7 AI Chief of Staff for commitments an",
+          "publishedAt": "2026-06-22T07:01:00Z",
+          "published_at": "2026-06-22T07:01:00Z",
+          "votes_count": 187,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "937e76b9",
+          "title": "产品更新：HAQQ Legal AI o",
+          "title_en": "HAQQ Legal AI on Mobile",
+          "url": "https://www.producthunt.com/products/haqq-mobile-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/haqq-mobile-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Bringing legal understanding to anyone with a",
+          "summary_zh": "Bringing legal understanding to anyone with a",
+          "publishedAt": "2026-06-22T07:01:00Z",
+          "published_at": "2026-06-22T07:01:00Z",
+          "votes_count": 182,
+          "featured": true,
+          "topics": [
+            {
+              "id": "259",
+              "name": "Legal",
+              "slug": "legal"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "94dc8366",
+          "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/437235.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/437235.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习  思邈 2026-06-22 11:48:38  来源：量子位   120分钟长视频一边看一边记   允中 发自 凹非寺 量子位 | 公众号 QbitAI  在机器人、自动驾驶、AR等真实场景中，空间理解从来都不是“看一眼图像”就能解决的问题。 相机持续移动、视角不断变化、目标时隐时现，空间信息从来不是明确且集中的，而是往往分散在长时间视频流里，模型不仅要“看得见”，更要“记得住、连得起来、还能持续更新”。 这使得流式空间智能成为多模态大模型迈向真实世界应用的一道关键门槛。 这篇文章的出发点是思考：多模态Agent如何在动态变化的世界中持续更新自己，而不是每次都像第一次看见世界。 真实世界不是一张静态图片，也不是一段固定长度的视频，而是一段持续展开的经验流。 正如人理解空间，也不是一次性看完整个房间，而是在移动、观察、遗忘、修正中，逐渐形成稳定的空间记忆。 近日，由清华大学博士生刘芳甫担任一作，联合多位研究者共同完成的Spatial-TTT，被计算机视觉顶级会议ECCV 2026正式接收。",
+          "summary_zh": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习  思邈 2026-06-22 11:48:38  来源：量子位   120分钟长视频一边看一边记   允中 发自 凹非寺 量子位 | 公众号 QbitAI  在机器人、自动驾驶、AR等真实场景中，空间理解从来都不是“看一眼图像”就能解决的问题。 相机持续移动、视角不断变化、目标时隐时现，空间信息从来不是明确且集中的，而是往往分散在长时间视频流里，模型不仅要“看得见”，更要“记得住、连得起来、还能持续更新”。 这使得流式空间智能成为多模态大模型迈向真实世界应用的一道关键门槛。 这篇文章的出发点是思考：多模态Agent如何在动态变化的世界中持续更新自己，而不是每次都像第一次看见世界。 真实世界不是一张静态图片，也不是一段固定长度的视频，而是一段持续展开的经验流。 正如人理解空间，也不是一次性看完整个房间，而是在移动、观察、遗忘、修正中，逐渐形成稳定的空间记忆。 近日，由清华大学博士生刘芳甫担任一作，联合多位研究者共同完成的Spatial-TTT，被计算机视觉顶级会议ECCV 2026正式接收。",
+          "publishedAt": "2026-06-22T03:48:38Z",
+          "published_at": "2026-06-22T03:48:38Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "51e00e4c",
+          "title": "36氪首发 | 核心团队曾攻关国家重点大飞机装配，航空航天智能装备商完成数千万元融资",
+          "title_en": null,
+          "url": "https://36kr.com/p/3863883390194692?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3863883390194692?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，大飞机智能装配装备企业大连坤达自动化有限公司（以下简称“大连坤达”）今日完成数千万元A轮融资，投资方为泰州永鑫融堰创业投资合伙企业（有限合伙）（以下简称“永鑫方舟”），大桉资本担任独家财务顾问。本轮资金将主要用于新一代智能装配系统研发、核心产品产能扩充及补充流动资金。 大连坤达成立于2016年，主要面向航空航天等重型制造场景提供智能装配装备和自动化解决方案。公司业务涵盖高精度移动对接平台、复合移动机器人、智能装配产线及相关软件系统，服务对象包括航空、航天、航发等领域的大型制造企业及科研院所。  （图源/企业） 产品布局上，大连坤达以自主研发的机器人控制器为底层平台，形成了重载移动平台（MRP-T）、复合移动机器人（FAMR）等系列产品，并进一步延伸至总装对接产线、智能装配单元以及数字孪生、调度管理软件等系统，能够提供从单机设备到整线集成的解决方案。 与汽车制造相比，航空航天领域需要搬运和装配的对象通常尺寸更大、重量更高，对定位精度和协同控制能力要求也更严格。 针对这类需求，大连坤达重点布局了重载移动、高精度调姿对接、多车协同控制等技术，并开",
+          "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，大飞机智能装配装备企业大连坤达自动化有限公司（以下简称“大连坤达”）今日完成数千万元A轮融资，投资方为泰州永鑫融堰创业投资合伙企业（有限合伙）（以下简称“永鑫方舟”），大桉资本担任独家财务顾问。本轮资金将主要用于新一代智能装配系统研发、核心产品产能扩充及补充流动资金。 大连坤达成立于2016年，主要面向航空航天等重型制造场景提供智能装配装备和自动化解决方案。公司业务涵盖高精度移动对接平台、复合移动机器人、智能装配产线及相关软件系统，服务对象包括航空、航天、航发等领域的大型制造企业及科研院所。  （图源/企业） 产品布局上，大连坤达以自主研发的机器人控制器为底层平台，形成了重载移动平台（MRP-T）、复合移动机器人（FAMR）等系列产品，并进一步延伸至总装对接产线、智能装配单元以及数字孪生、调度管理软件等系统，能够提供从单机设备到整线集成的解决方案。 与汽车制造相比，航空航天领域需要搬运和装配的对象通常尺寸更大、重量更高，对定位精度和协同控制能力要求也更严格。 针对这类需求，大连坤达重点布局了重载移动、高精度调姿对接、多车协同控制等技术，并开",
+          "publishedAt": "2026-06-22T05:06:22Z",
+          "published_at": "2026-06-22T05:06:22Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "737b13d8",
+          "title": "36氪首发 | 联想之星险峰联合领投，AI算力中心感知与效能管理方案商完成天使轮融资",
+          "title_en": null,
+          "url": "https://36kr.com/p/3863885024973832?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3863885024973832?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，芯感通科技有限公司（以下简称“芯感通”）日前完成数千万元天使轮融资，由联想之星与险峰联合领投。本轮融资将主要用于芯片研发迭代、产品验证及市场拓展。 随着大模型训练规模持续扩大和商业服务展开，AI算力基础设施的铺设在快速亟需高效能运营，同时，高性能GPU也将算力推入高能量密度、高功耗时代。 从单柜数十张GPU到万卡集群，数据中心内部的供电、散热和能耗管理正在成为新的技术瓶颈。与此同时，太空算力、轨道数据中心等新兴方向兴起，也对系统稳定性和精密感知能力提出了更高要求。这一背景下，芯感通选择从算力基础设施中一个日益关键的环节切入——电流与空间磁场感知。 电流与功率感知领域，传统的霍尔传感器存在噪声高、温漂大等问题，在高密度、大电流场景下难以兼顾量程与分辨率，无法满足AI服务器对精细化电源管理的需求；传统磁通门传感器则采用绕线结构，体积较大、集成度较低，同时难以满足高频应用需求。 公司联合创始人张乃川向硬氪介绍，目前行业普遍采用分层监测方案：板级使用分压电阻进行粗粒度检测，模块级采用霍尔传感器，总线级再使用传统磁通门传感器。由于三类传感器的量程、精",
+          "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，芯感通科技有限公司（以下简称“芯感通”）日前完成数千万元天使轮融资，由联想之星与险峰联合领投。本轮融资将主要用于芯片研发迭代、产品验证及市场拓展。 随着大模型训练规模持续扩大和商业服务展开，AI算力基础设施的铺设在快速亟需高效能运营，同时，高性能GPU也将算力推入高能量密度、高功耗时代。 从单柜数十张GPU到万卡集群，数据中心内部的供电、散热和能耗管理正在成为新的技术瓶颈。与此同时，太空算力、轨道数据中心等新兴方向兴起，也对系统稳定性和精密感知能力提出了更高要求。这一背景下，芯感通选择从算力基础设施中一个日益关键的环节切入——电流与空间磁场感知。 电流与功率感知领域，传统的霍尔传感器存在噪声高、温漂大等问题，在高密度、大电流场景下难以兼顾量程与分辨率，无法满足AI服务器对精细化电源管理的需求；传统磁通门传感器则采用绕线结构，体积较大、集成度较低，同时难以满足高频应用需求。 公司联合创始人张乃川向硬氪介绍，目前行业普遍采用分层监测方案：板级使用分压电阻进行粗粒度检测，模块级采用霍尔传感器，总线级再使用传统磁通门传感器。由于三类传感器的量程、精",
+          "publishedAt": "2026-06-22T05:07:50Z",
+          "published_at": "2026-06-22T05:07:50Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "5482914f",
+          "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/437249.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/437249.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告  Jay 2026-06-22 13:09:27  来源：量子位   DeepSeek正在全力押注   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  DeepSeek好缺Agent人才啊…… 刚刚，Harness部门负责人崔添翼再次在线直聘：Harness部门空缺较大，速来！ 这次一口气放出来的岗位有三个。  Harness研究员（实习全职均可） Harness工程师（全职实习均可） Harness产品经理（限全职）  缺人缺疯了，崔添翼说：自己每天都在面试，以及各种地方贴小广告。  执行力MAX的网友们，已经在评论区毛遂自荐了。  甚至有人表示，如果DeepSeek需要，可以割爱将自家大将送过来。  真·Boss直聘。 崔添翼Boss直聘 正式开始前，我们也再简单补充下Harness是什么。 打个比方，如果Agent是汽车，模型是发动机，那Harness就是方向盘、变速箱、刹车…… 也可以理解为驯马，想做一个Agent产品，模型之外的所有工作，都是在铸造Harness这块马鞍。 用公式表示就是：Model+Harn",
+          "summary_zh": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告  Jay 2026-06-22 13:09:27  来源：量子位   DeepSeek正在全力押注   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  DeepSeek好缺Agent人才啊…… 刚刚，Harness部门负责人崔添翼再次在线直聘：Harness部门空缺较大，速来！ 这次一口气放出来的岗位有三个。  Harness研究员（实习全职均可） Harness工程师（全职实习均可） Harness产品经理（限全职）  缺人缺疯了，崔添翼说：自己每天都在面试，以及各种地方贴小广告。  执行力MAX的网友们，已经在评论区毛遂自荐了。  甚至有人表示，如果DeepSeek需要，可以割爱将自家大将送过来。  真·Boss直聘。 崔添翼Boss直聘 正式开始前，我们也再简单补充下Harness是什么。 打个比方，如果Agent是汽车，模型是发动机，那Harness就是方向盘、变速箱、刹车…… 也可以理解为驯马，想做一个Agent产品，模型之外的所有工作，都是在铸造Harness这块马鞍。 用公式表示就是：Model+Harn",
+          "publishedAt": "2026-06-22T05:09:27Z",
+          "published_at": "2026-06-22T05:09:27Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "581591bc",
+      "title": "产品更新：Skybridge",
+      "title_en": "Skybridge",
+      "url": "https://www.producthunt.com/products/skybridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/skybridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The full-stack open source React framework for",
+      "summary_zh": "The full-stack open source React framework for",
+      "publishedAt": "2026-06-22T07:01:00Z",
+      "published_at": "2026-06-22T07:01:00Z",
+      "votes_count": 423,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "f8f05946",
+      "title": "产品更新：Alai 2.0",
+      "title_en": "Alai 2.0",
+      "url": "https://www.producthunt.com/products/alai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/alai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI design partner for presentations, social po",
+      "summary_zh": "AI design partner for presentations, social po",
+      "publishedAt": "2026-06-22T07:01:00Z",
+      "published_at": "2026-06-22T07:01:00Z",
+      "votes_count": 244,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d09bef2b",
+      "title": "产品更新：readywhen",
+      "title_en": "readywhen",
+      "url": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your 24/7 AI Chief of Staff for commitments an",
+      "summary_zh": "Your 24/7 AI Chief of Staff for commitments an",
+      "publishedAt": "2026-06-22T07:01:00Z",
+      "published_at": "2026-06-22T07:01:00Z",
+      "votes_count": 187,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "282",
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "937e76b9",
+      "title": "产品更新：HAQQ Legal AI o",
+      "title_en": "HAQQ Legal AI on Mobile",
+      "url": "https://www.producthunt.com/products/haqq-mobile-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/haqq-mobile-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Bringing legal understanding to anyone with a",
+      "summary_zh": "Bringing legal understanding to anyone with a",
+      "publishedAt": "2026-06-22T07:01:00Z",
+      "published_at": "2026-06-22T07:01:00Z",
+      "votes_count": 182,
+      "featured": true,
+      "topics": [
+        {
+          "id": "259",
+          "name": "Legal",
+          "slug": "legal"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "94dc8366",
+      "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/437235.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/437235.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习  思邈 2026-06-22 11:48:38  来源：量子位   120分钟长视频一边看一边记   允中 发自 凹非寺 量子位 | 公众号 QbitAI  在机器人、自动驾驶、AR等真实场景中，空间理解从来都不是“看一眼图像”就能解决的问题。 相机持续移动、视角不断变化、目标时隐时现，空间信息从来不是明确且集中的，而是往往分散在长时间视频流里，模型不仅要“看得见”，更要“记得住、连得起来、还能持续更新”。 这使得流式空间智能成为多模态大模型迈向真实世界应用的一道关键门槛。 这篇文章的出发点是思考：多模态Agent如何在动态变化的世界中持续更新自己，而不是每次都像第一次看见世界。 真实世界不是一张静态图片，也不是一段固定长度的视频，而是一段持续展开的经验流。 正如人理解空间，也不是一次性看完整个房间，而是在移动、观察、遗忘、修正中，逐渐形成稳定的空间记忆。 近日，由清华大学博士生刘芳甫担任一作，联合多位研究者共同完成的Spatial-TTT，被计算机视觉顶级会议ECCV 2026正式接收。",
+      "summary_zh": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习  思邈 2026-06-22 11:48:38  来源：量子位   120分钟长视频一边看一边记   允中 发自 凹非寺 量子位 | 公众号 QbitAI  在机器人、自动驾驶、AR等真实场景中，空间理解从来都不是“看一眼图像”就能解决的问题。 相机持续移动、视角不断变化、目标时隐时现，空间信息从来不是明确且集中的，而是往往分散在长时间视频流里，模型不仅要“看得见”，更要“记得住、连得起来、还能持续更新”。 这使得流式空间智能成为多模态大模型迈向真实世界应用的一道关键门槛。 这篇文章的出发点是思考：多模态Agent如何在动态变化的世界中持续更新自己，而不是每次都像第一次看见世界。 真实世界不是一张静态图片，也不是一段固定长度的视频，而是一段持续展开的经验流。 正如人理解空间，也不是一次性看完整个房间，而是在移动、观察、遗忘、修正中，逐渐形成稳定的空间记忆。 近日，由清华大学博士生刘芳甫担任一作，联合多位研究者共同完成的Spatial-TTT，被计算机视觉顶级会议ECCV 2026正式接收。",
+      "publishedAt": "2026-06-22T03:48:38Z",
+      "published_at": "2026-06-22T03:48:38Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "51e00e4c",
+      "title": "36氪首发 | 核心团队曾攻关国家重点大飞机装配，航空航天智能装备商完成数千万元融资",
+      "title_en": null,
+      "url": "https://36kr.com/p/3863883390194692?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3863883390194692?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，大飞机智能装配装备企业大连坤达自动化有限公司（以下简称“大连坤达”）今日完成数千万元A轮融资，投资方为泰州永鑫融堰创业投资合伙企业（有限合伙）（以下简称“永鑫方舟”），大桉资本担任独家财务顾问。本轮资金将主要用于新一代智能装配系统研发、核心产品产能扩充及补充流动资金。 大连坤达成立于2016年，主要面向航空航天等重型制造场景提供智能装配装备和自动化解决方案。公司业务涵盖高精度移动对接平台、复合移动机器人、智能装配产线及相关软件系统，服务对象包括航空、航天、航发等领域的大型制造企业及科研院所。  （图源/企业） 产品布局上，大连坤达以自主研发的机器人控制器为底层平台，形成了重载移动平台（MRP-T）、复合移动机器人（FAMR）等系列产品，并进一步延伸至总装对接产线、智能装配单元以及数字孪生、调度管理软件等系统，能够提供从单机设备到整线集成的解决方案。 与汽车制造相比，航空航天领域需要搬运和装配的对象通常尺寸更大、重量更高，对定位精度和协同控制能力要求也更严格。 针对这类需求，大连坤达重点布局了重载移动、高精度调姿对接、多车协同控制等技术，并开",
+      "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，大飞机智能装配装备企业大连坤达自动化有限公司（以下简称“大连坤达”）今日完成数千万元A轮融资，投资方为泰州永鑫融堰创业投资合伙企业（有限合伙）（以下简称“永鑫方舟”），大桉资本担任独家财务顾问。本轮资金将主要用于新一代智能装配系统研发、核心产品产能扩充及补充流动资金。 大连坤达成立于2016年，主要面向航空航天等重型制造场景提供智能装配装备和自动化解决方案。公司业务涵盖高精度移动对接平台、复合移动机器人、智能装配产线及相关软件系统，服务对象包括航空、航天、航发等领域的大型制造企业及科研院所。  （图源/企业） 产品布局上，大连坤达以自主研发的机器人控制器为底层平台，形成了重载移动平台（MRP-T）、复合移动机器人（FAMR）等系列产品，并进一步延伸至总装对接产线、智能装配单元以及数字孪生、调度管理软件等系统，能够提供从单机设备到整线集成的解决方案。 与汽车制造相比，航空航天领域需要搬运和装配的对象通常尺寸更大、重量更高，对定位精度和协同控制能力要求也更严格。 针对这类需求，大连坤达重点布局了重载移动、高精度调姿对接、多车协同控制等技术，并开",
+      "publishedAt": "2026-06-22T05:06:22Z",
+      "published_at": "2026-06-22T05:06:22Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "737b13d8",
+      "title": "36氪首发 | 联想之星险峰联合领投，AI算力中心感知与效能管理方案商完成天使轮融资",
+      "title_en": null,
+      "url": "https://36kr.com/p/3863885024973832?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3863885024973832?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，芯感通科技有限公司（以下简称“芯感通”）日前完成数千万元天使轮融资，由联想之星与险峰联合领投。本轮融资将主要用于芯片研发迭代、产品验证及市场拓展。 随着大模型训练规模持续扩大和商业服务展开，AI算力基础设施的铺设在快速亟需高效能运营，同时，高性能GPU也将算力推入高能量密度、高功耗时代。 从单柜数十张GPU到万卡集群，数据中心内部的供电、散热和能耗管理正在成为新的技术瓶颈。与此同时，太空算力、轨道数据中心等新兴方向兴起，也对系统稳定性和精密感知能力提出了更高要求。这一背景下，芯感通选择从算力基础设施中一个日益关键的环节切入——电流与空间磁场感知。 电流与功率感知领域，传统的霍尔传感器存在噪声高、温漂大等问题，在高密度、大电流场景下难以兼顾量程与分辨率，无法满足AI服务器对精细化电源管理的需求；传统磁通门传感器则采用绕线结构，体积较大、集成度较低，同时难以满足高频应用需求。 公司联合创始人张乃川向硬氪介绍，目前行业普遍采用分层监测方案：板级使用分压电阻进行粗粒度检测，模块级采用霍尔传感器，总线级再使用传统磁通门传感器。由于三类传感器的量程、精",
+      "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，芯感通科技有限公司（以下简称“芯感通”）日前完成数千万元天使轮融资，由联想之星与险峰联合领投。本轮融资将主要用于芯片研发迭代、产品验证及市场拓展。 随着大模型训练规模持续扩大和商业服务展开，AI算力基础设施的铺设在快速亟需高效能运营，同时，高性能GPU也将算力推入高能量密度、高功耗时代。 从单柜数十张GPU到万卡集群，数据中心内部的供电、散热和能耗管理正在成为新的技术瓶颈。与此同时，太空算力、轨道数据中心等新兴方向兴起，也对系统稳定性和精密感知能力提出了更高要求。这一背景下，芯感通选择从算力基础设施中一个日益关键的环节切入——电流与空间磁场感知。 电流与功率感知领域，传统的霍尔传感器存在噪声高、温漂大等问题，在高密度、大电流场景下难以兼顾量程与分辨率，无法满足AI服务器对精细化电源管理的需求；传统磁通门传感器则采用绕线结构，体积较大、集成度较低，同时难以满足高频应用需求。 公司联合创始人张乃川向硬氪介绍，目前行业普遍采用分层监测方案：板级使用分压电阻进行粗粒度检测，模块级采用霍尔传感器，总线级再使用传统磁通门传感器。由于三类传感器的量程、精",
+      "publishedAt": "2026-06-22T05:07:50Z",
+      "published_at": "2026-06-22T05:07:50Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "5482914f",
+      "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/437249.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/437249.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告  Jay 2026-06-22 13:09:27  来源：量子位   DeepSeek正在全力押注   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  DeepSeek好缺Agent人才啊…… 刚刚，Harness部门负责人崔添翼再次在线直聘：Harness部门空缺较大，速来！ 这次一口气放出来的岗位有三个。  Harness研究员（实习全职均可） Harness工程师（全职实习均可） Harness产品经理（限全职）  缺人缺疯了，崔添翼说：自己每天都在面试，以及各种地方贴小广告。  执行力MAX的网友们，已经在评论区毛遂自荐了。  甚至有人表示，如果DeepSeek需要，可以割爱将自家大将送过来。  真·Boss直聘。 崔添翼Boss直聘 正式开始前，我们也再简单补充下Harness是什么。 打个比方，如果Agent是汽车，模型是发动机，那Harness就是方向盘、变速箱、刹车…… 也可以理解为驯马，想做一个Agent产品，模型之外的所有工作，都是在铸造Harness这块马鞍。 用公式表示就是：Model+Harn",
+      "summary_zh": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告  Jay 2026-06-22 13:09:27  来源：量子位   DeepSeek正在全力押注   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  DeepSeek好缺Agent人才啊…… 刚刚，Harness部门负责人崔添翼再次在线直聘：Harness部门空缺较大，速来！ 这次一口气放出来的岗位有三个。  Harness研究员（实习全职均可） Harness工程师（全职实习均可） Harness产品经理（限全职）  缺人缺疯了，崔添翼说：自己每天都在面试，以及各种地方贴小广告。  执行力MAX的网友们，已经在评论区毛遂自荐了。  甚至有人表示，如果DeepSeek需要，可以割爱将自家大将送过来。  真·Boss直聘。 崔添翼Boss直聘 正式开始前，我们也再简单补充下Harness是什么。 打个比方，如果Agent是汽车，模型是发动机，那Harness就是方向盘、变速箱、刹车…… 也可以理解为驯马，想做一个Agent产品，模型之外的所有工作，都是在铸造Harness这块马鞍。 用公式表示就是：Model+Harn",
+      "publishedAt": "2026-06-22T05:09:27Z",
+      "published_at": "2026-06-22T05:09:27Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

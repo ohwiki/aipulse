@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T14:12:38Z",
-  "generatedAt": "2026-06-22T14:12:38Z",
+  "generated_at": "2026-06-22T22:20:00Z",
+  "generatedAt": "2026-06-22T22:20:00Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "The full-stack open source React framework for",
       "publishedAt": "2026-06-22T07:01:00Z",
       "published_at": "2026-06-22T07:01:00Z",
-      "votes_count": 275,
+      "votes_count": 423,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "AI design partner for presentations, social po",
       "publishedAt": "2026-06-22T07:01:00Z",
       "published_at": "2026-06-22T07:01:00Z",
-      "votes_count": 183,
+      "votes_count": 244,
       "featured": true,
       "topics": [
         {
@@ -72,39 +72,6 @@
           "id": "46",
           "name": "Productivity",
           "slug": "productivity"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "937e76b9",
-      "title": "产品更新：HAQQ Legal AI o",
-      "title_en": "HAQQ Legal AI on Mobile",
-      "url": "https://www.producthunt.com/products/haqq-mobile-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/haqq-mobile-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Bringing legal understanding to anyone with a",
-      "summary_zh": "Bringing legal understanding to anyone with a",
-      "publishedAt": "2026-06-22T07:01:00Z",
-      "published_at": "2026-06-22T07:01:00Z",
-      "votes_count": 155,
-      "featured": true,
-      "topics": [
-        {
-          "id": "259",
-          "name": "Legal",
-          "slug": "legal"
         },
         {
           "id": "268",
@@ -131,7 +98,7 @@
       "summary_zh": "Your 24/7 AI Chief of Staff for commitments an",
       "publishedAt": "2026-06-22T07:01:00Z",
       "published_at": "2026-06-22T07:01:00Z",
-      "votes_count": 146,
+      "votes_count": 187,
       "featured": true,
       "topics": [
         {
@@ -148,6 +115,39 @@
           "id": "282",
           "name": "Virtual Assistants",
           "slug": "virtual-assistants"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "937e76b9",
+      "title": "产品更新：HAQQ Legal AI o",
+      "title_en": "HAQQ Legal AI on Mobile",
+      "url": "https://www.producthunt.com/products/haqq-mobile-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/haqq-mobile-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Bringing legal understanding to anyone with a",
+      "summary_zh": "Bringing legal understanding to anyone with a",
+      "publishedAt": "2026-06-22T07:01:00Z",
+      "published_at": "2026-06-22T07:01:00Z",
+      "votes_count": 182,
+      "featured": true,
+      "topics": [
+        {
+          "id": "259",
+          "name": "Legal",
+          "slug": "legal"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         }
       ],
       "score_details": null
