@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T11:38:34Z",
-  "generatedAt": "2026-06-23T11:38:34Z",
+  "generated_at": "2026-06-23T21:54:36Z",
+  "generatedAt": "2026-06-23T21:54:36Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "The rails AI agents use to find and pay you Mo",
       "publishedAt": "2026-06-23T07:01:00Z",
       "published_at": "2026-06-23T07:01:00Z",
-      "votes_count": 215,
+      "votes_count": 461,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Local AI Autocomplete in your voice, anywhere",
       "publishedAt": "2026-06-23T07:01:00Z",
       "published_at": "2026-06-23T07:01:00Z",
-      "votes_count": 165,
+      "votes_count": 338,
       "featured": true,
       "topics": [
         {
@@ -82,6 +82,44 @@
       "score_details": null
     },
     {
+      "id": "4f9597e9",
+      "title": "产品更新：OpenArt Directo",
+      "title_en": "OpenArt Director",
+      "url": "https://www.producthunt.com/products/openart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Direct cinematic videos through chat OpenArt D",
+      "summary_zh": "Direct cinematic videos through chat OpenArt D",
+      "publishedAt": "2026-06-23T07:01:00Z",
+      "published_at": "2026-06-23T07:01:00Z",
+      "votes_count": 290,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
       "id": "cd23f03f",
       "title": "产品更新：Latitude",
       "title_en": "Latitude",
@@ -98,7 +136,7 @@
       "summary_zh": "Fix what's breaking in your AI agent Open-sour",
       "publishedAt": "2026-06-23T07:01:00Z",
       "published_at": "2026-06-23T07:01:00Z",
-      "votes_count": 152,
+      "votes_count": 289,
       "featured": true,
       "topics": [
         {
@@ -120,44 +158,6 @@
           "id": "582",
           "name": "Data & Analytics",
           "slug": "data-analytics"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "4f9597e9",
-      "title": "产品更新：OpenArt Directo",
-      "title_en": "OpenArt Director",
-      "url": "https://www.producthunt.com/products/openart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/openart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Direct cinematic videos through chat OpenArt D",
-      "summary_zh": "Direct cinematic videos through chat OpenArt D",
-      "publishedAt": "2026-06-23T07:01:00Z",
-      "published_at": "2026-06-23T07:01:00Z",
-      "votes_count": 139,
-      "featured": true,
-      "topics": [
-        {
-          "id": "44",
-          "name": "Design Tools",
-          "slug": "design-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "857",
-          "name": "Video",
-          "slug": "video"
         }
       ],
       "score_details": null
@@ -197,8 +197,8 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的��度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 曹光洋 | 瓷瓷乐玩创始人 以下为对话内容，经36氪整理编辑：  主持人：感谢朱越给我们带来这么精彩的分享，我相信大家听完之后也一定会有一定的启发，可以从中地去应对Agent时代的新挑战。 接下来的主题，我们稍微换新的主题，换到传统文化，传统文化沉淀千年韵味，是国人心中不变的情怀，而蓬勃兴起的新消费浪潮，为古老文化开辟了全新传播与发展路径。如何让传统美学走出岁月、贴近大众，用创新玩法激活文化价值，成为当下极具探索意义的话题。接下来，就让我们用热烈的掌声，有请深耕文",
-      "summary_zh": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的��度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 曹光洋 | 瓷瓷乐玩创始人 以下为对话内容，经36氪整理编辑：  主持人：感谢朱越给我们带来这么精彩的分享，我相信大家听完之后也一定会有一定的启发，可以从中地去应对Agent时代的新挑战。 接下来的主题，我们稍微换新的主题，换到传统文化，传统文化沉淀千年韵味，是国人心中不变的情怀，而蓬勃兴起的新消费浪潮，为古老文化开辟了全新传播与发展路径。如何让传统美学走出岁月、贴近大众，用创新玩法激活文化价值，成为当下极具探索意义的话题。接下来，就让我们用热烈的掌声，有请深耕文",
+      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 曹光洋 | 瓷瓷乐玩创始人 以下为对话内容，经36氪整理编辑：  主持人：感谢朱越给我们带来这么精彩的分享，我相信大家听完之后也一定会有一定的启发，可以从中地去应对Agent时代的新挑战。 接下来的主题，我们稍微换新的主题，换到传统文化，传统文化沉淀千年韵味，是国人心中不变的情怀，而蓬勃兴起的新消费浪潮，为古老文化开辟了全新传播与发展路径。如何让传统美学走出岁月、贴近大众，用创新玩法激活文化价值，成为当下极具探索意义的话题。接下来，就让我们用热烈的掌声，有请深耕文创",
+      "summary_zh": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 曹光洋 | 瓷瓷乐玩创始人 以下为对话内容，经36氪整理编辑：  主持人：感谢朱越给我们带来这么精彩的分享，我相信大家听完之后也一定会有一定的启发，可以从中地去应对Agent时代的新挑战。 接下来的主题，我们稍微换新的主题，换到传统文化，传统文化沉淀千年韵味，是国人心中不变的情怀，而蓬勃兴起的新消费浪潮，为古老文化开辟了全新传播与发展路径。如何让传统美学走出岁月、贴近大众，用创新玩法激活文化价值，成为当下极具探索意义的话题。接下来，就让我们用热烈的掌声，有请深耕文创",
       "publishedAt": "2026-06-23T03:35:03Z",
       "published_at": "2026-06-23T03:35:03Z",
       "votes_count": null,
