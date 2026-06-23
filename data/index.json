@@ -1,41 +1,112 @@
 {
-  "generated_at": "2026-06-22T22:20:00Z",
-  "generatedAt": "2026-06-22T22:20:00Z",
+  "generated_at": "2026-06-23T11:38:34Z",
+  "generatedAt": "2026-06-23T11:38:34Z",
   "count": 42,
   "total": 42,
   "entries": [
     {
       "date": "2026-06-23",
-      "generated_at": "2026-06-22T22:20:00Z",
-      "generatedAt": "2026-06-22T22:20:00Z",
+      "generated_at": "2026-06-23T11:38:34Z",
+      "generatedAt": "2026-06-23T11:38:34Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "581591bc",
-          "title": "产品更新：Skybridge",
-          "title_en": "Skybridge",
-          "url": "https://www.producthunt.com/products/skybridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "7b6173dc",
+          "title": "AI资讯更新：Bluerails Dis",
+          "title_en": "Bluerails Discovery",
+          "url": "https://www.producthunt.com/products/bluerails-discovery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/skybridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/bluerails-discovery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "The full-stack open source React framework for",
-          "summary_zh": "The full-stack open source React framework for",
-          "publishedAt": "2026-06-22T07:01:00Z",
-          "published_at": "2026-06-22T07:01:00Z",
-          "votes_count": 423,
+          "summary": "The rails AI agents use to find and pay you Mo",
+          "summary_zh": "The rails AI agents use to find and pay you Mo",
+          "publishedAt": "2026-06-23T07:01:00Z",
+          "published_at": "2026-06-23T07:01:00Z",
+          "votes_count": 215,
           "featured": true,
           "topics": [
             {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
+              "id": "94",
+              "name": "Fintech",
+              "slug": "fintech"
             },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5859bc65",
+          "title": "AI资讯更新：Cotypist",
+          "title_en": "Cotypist",
+          "url": "https://www.producthunt.com/products/cotypist?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cotypist?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Local AI Autocomplete in your voice, anywhere",
+          "summary_zh": "Local AI Autocomplete in your voice, anywhere",
+          "publishedAt": "2026-06-23T07:01:00Z",
+          "published_at": "2026-06-23T07:01:00Z",
+          "votes_count": 165,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "90",
+              "name": "Writing",
+              "slug": "writing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cd23f03f",
+          "title": "产品更新：Latitude",
+          "title_en": "Latitude",
+          "url": "https://www.producthunt.com/products/latitude-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/latitude-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Fix what's breaking in your AI agent Open-sour",
+          "summary_zh": "Fix what's breaking in your AI agent Open-sour",
+          "publishedAt": "2026-06-23T07:01:00Z",
+          "published_at": "2026-06-23T07:01:00Z",
+          "votes_count": 152,
+          "featured": true,
+          "topics": [
             {
               "id": "267",
               "name": "Developer Tools",
@@ -45,82 +116,16 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "f8f05946",
-          "title": "产品更新：Alai 2.0",
-          "title_en": "Alai 2.0",
-          "url": "https://www.producthunt.com/products/alai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/alai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI design partner for presentations, social po",
-          "summary_zh": "AI design partner for presentations, social po",
-          "publishedAt": "2026-06-22T07:01:00Z",
-          "published_at": "2026-06-22T07:01:00Z",
-          "votes_count": 244,
-          "featured": true,
-          "topics": [
-            {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
             },
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
             },
             {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "d09bef2b",
-          "title": "产品更新：readywhen",
-          "title_en": "readywhen",
-          "url": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Your 24/7 AI Chief of Staff for commitments an",
-          "summary_zh": "Your 24/7 AI Chief of Staff for commitments an",
-          "publishedAt": "2026-06-22T07:01:00Z",
-          "published_at": "2026-06-22T07:01:00Z",
-          "votes_count": 187,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "48",
-              "name": "Task Management",
-              "slug": "task-management"
-            },
-            {
-              "id": "282",
-              "name": "Virtual Assistants",
-              "slug": "virtual-assistants"
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
             }
           ],
           "score_details": null
