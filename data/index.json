@@ -1,72 +1,34 @@
 {
-  "generated_at": "2026-06-23T21:54:36Z",
-  "generatedAt": "2026-06-23T21:54:36Z",
+  "generated_at": "2026-06-24T11:23:00Z",
+  "generatedAt": "2026-06-24T11:23:00Z",
   "count": 43,
   "total": 43,
   "entries": [
     {
       "date": "2026-06-24",
-      "generated_at": "2026-06-23T21:54:36Z",
-      "generatedAt": "2026-06-23T21:54:36Z",
-      "total": 8,
+      "generated_at": "2026-06-24T11:23:00Z",
+      "generatedAt": "2026-06-24T11:23:00Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "7b6173dc",
-          "title": "AI资讯更新：Bluerails Dis",
-          "title_en": "Bluerails Discovery",
-          "url": "https://www.producthunt.com/products/bluerails-discovery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "0d496030",
+          "title": "产品更新：Propane",
+          "title_en": "Propane",
+          "url": "https://www.producthunt.com/products/propane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/bluerails-discovery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/propane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "The rails AI agents use to find and pay you Mo",
-          "summary_zh": "The rails AI agents use to find and pay you Mo",
-          "publishedAt": "2026-06-23T07:01:00Z",
-          "published_at": "2026-06-23T07:01:00Z",
-          "votes_count": 461,
-          "featured": true,
-          "topics": [
-            {
-              "id": "94",
-              "name": "Fintech",
-              "slug": "fintech"
-            },
-            {
-              "id": "231",
-              "name": "SEO",
-              "slug": "seo"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "5859bc65",
-          "title": "AI资讯更新：Cotypist",
-          "title_en": "Cotypist",
-          "url": "https://www.producthunt.com/products/cotypist?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/cotypist?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Local AI Autocomplete in your voice, anywhere",
-          "summary_zh": "Local AI Autocomplete in your voice, anywhere",
-          "publishedAt": "2026-06-23T07:01:00Z",
-          "published_at": "2026-06-23T07:01:00Z",
-          "votes_count": 338,
+          "summary": "Automatic customer context for product teams a",
+          "summary_zh": "Automatic customer context for product teams a",
+          "publishedAt": "2026-06-24T07:01:00Z",
+          "published_at": "2026-06-24T07:01:00Z",
+          "votes_count": 218,
           "featured": true,
           "topics": [
             {
@@ -75,9 +37,9 @@
               "slug": "productivity"
             },
             {
-              "id": "90",
-              "name": "Writing",
-              "slug": "writing"
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
             },
             {
               "id": "268",
@@ -88,29 +50,29 @@
           "score_details": null
         },
         {
-          "id": "4f9597e9",
-          "title": "产品更新：OpenArt Directo",
-          "title_en": "OpenArt Director",
-          "url": "https://www.producthunt.com/products/openart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "85892c93",
+          "title": "产品更新：Tencent EdgeOne",
+          "title_en": "Tencent EdgeOne Makers",
+          "url": "https://www.producthunt.com/products/tencent-edgeone-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/openart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/tencent-edgeone-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Direct cinematic videos through chat OpenArt D",
-          "summary_zh": "Direct cinematic videos through chat OpenArt D",
-          "publishedAt": "2026-06-23T07:01:00Z",
-          "published_at": "2026-06-23T07:01:00Z",
-          "votes_count": 290,
+          "summary": "Ship AI agents like web apps, in minutes. Tenc",
+          "summary_zh": "Ship AI agents like web apps, in minutes. Tenc",
+          "publishedAt": "2026-06-24T07:01:00Z",
+          "published_at": "2026-06-24T07:01:00Z",
+          "votes_count": 175,
           "featured": true,
           "topics": [
             {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
             },
             {
               "id": "268",
@@ -118,9 +80,47 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "857",
-              "name": "Video",
-              "slug": "video"
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ef09cd2b",
+          "title": "产品更新：Crewdle AI",
+          "title_en": "Crewdle AI",
+          "url": "https://www.producthunt.com/products/crewdle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/crewdle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Use every business AI tool without every subsc",
+          "summary_zh": "Use every business AI tool without every subsc",
+          "publishedAt": "2026-06-24T07:01:00Z",
+          "published_at": "2026-06-24T07:01:00Z",
+          "votes_count": 163,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
