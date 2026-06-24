@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-24T11:23:00Z",
-  "generatedAt": "2026-06-24T11:23:00Z",
+  "generated_at": "2026-06-24T21:51:57Z",
+  "generatedAt": "2026-06-24T21:51:57Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "0d496030",
@@ -22,7 +22,7 @@
       "summary_zh": "Automatic customer context for product teams a",
       "publishedAt": "2026-06-24T07:01:00Z",
       "published_at": "2026-06-24T07:01:00Z",
-      "votes_count": 218,
+      "votes_count": 431,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Ship AI agents like web apps, in minutes. Tenc",
       "publishedAt": "2026-06-24T07:01:00Z",
       "published_at": "2026-06-24T07:01:00Z",
-      "votes_count": 175,
+      "votes_count": 348,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "Use every business AI tool without every subsc",
       "publishedAt": "2026-06-24T07:01:00Z",
       "published_at": "2026-06-24T07:01:00Z",
-      "votes_count": 163,
+      "votes_count": 246,
       "featured": true,
       "topics": [
         {
@@ -120,25 +120,41 @@
       "score_details": null
     },
     {
-      "id": "7fcbd548",
-      "title": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/06/437694.html",
-      "source": "量子位",
+      "id": "bc72c549",
+      "title": "产品更新：Stripe.Director",
+      "title_en": "Stripe.Directory",
+      "url": "https://www.producthunt.com/products/stripe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/06/437694.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持  量子位的朋友们 2026-06-23 21:54:31  来源：量子位   以“数据—模型—基础设施”系统性协同通往物理智能  6月23日，面向物理智能的具身智能企业正行创新（Striding AI）已完成近亿美元天使轮系列融资。投资方包括正大集团、华勤技术、九安医疗等多家上市企业，多位国内外知名企业家，以及多家一线投资机构。资本的集中加持，反映出市场对其技术判断与商业路径的认可。 据悉，正行创新本轮募集的资金将主要投入三大方向：一是持续引进全球顶尖算法、工程与商业化人才，完善全链条人才梯队布局；二是加大世界动作模型、强化学习等核心技术的迭代与应用，夯实具身智能基础设施能力；三是加速零售、工业等场景的落地验证与产品化落地。 正行创新成立于2026年初，由连续创业者姚颂、著名跨国产业集团正大集团、清华知名青年学者于超联合发起，以“用物理智能给世界带来便利”为使命，致力于探索物理智能的技术边界，通过世界动作模型与强化学习技术，推动将人形机器人大规模部署至真实商业与工业场景，目标成为全球可信赖的机器人服务提供商。",
-      "summary_zh": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持  量子位的朋友们 2026-06-23 21:54:31  来源：量子位   以“数据—模型—基础设施”系统性协同通往物理智能  6月23日，面向物理智能的具身智能企业正行创新（Striding AI）已完成近亿美元天使轮系列融资。投资方包括正大集团、华勤技术、九安医疗等多家上市企业，多位国内外知名企业家，以及多家一线投资机构。资本的集中加持，反映出市场对其技术判断与商业路径的认可。 据悉，正行创新本轮募集的资金将主要投入三大方向：一是持续引进全球顶尖算法、工程与商业化人才，完善全链条人才梯队布局；二是加大世界动作模型、强化学习等核心技术的迭代与应用，夯实具身智能基础设施能力；三是加速零售、工业等场景的落地验证与产品化落地。 正行创新成立于2026年初，由连续创业者姚颂、著名跨国产业集团正大集团、清华知名青年学者于超联合发起，以“用物理智能给世界带来便利”为使命，致力于探索物理智能的技术边界，通过世界动作模型与强化学习技术，推动将人形机器人大规模部署至真实商业与工业场景，目标成为全球可信赖的机器人服务提供商。",
-      "publishedAt": "2026-06-23T13:54:31Z",
-      "published_at": "2026-06-23T13:54:31Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/stripe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "New way for you & agents to search for busines",
+      "summary_zh": "New way for you & agents to search for busines",
+      "publishedAt": "2026-06-24T07:01:00Z",
+      "published_at": "2026-06-24T07:01:00Z",
+      "votes_count": 221,
+      "featured": true,
+      "topics": [
+        {
+          "id": "119",
+          "name": "Payments",
+          "slug": "payments"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
       "score_details": null
     },
     {
@@ -202,6 +218,28 @@
       "summary_zh": "2026世界人工智能大会SAIL奖TOP30及青年优秀论文奖TOP20发布  量子位的朋友们 2026-06-24 11:14:41  来源：量子位   卓越人工智能引领者奖颁布   卓越人工智能引领者奖（SAIL） 卓越人工智能引领者奖（SAIL），是世界人工智能大会最高荣誉奖项，也是全球人工智能领域极具影响力的高规格国际化奖项。 奖项秉持“追求卓越、引领未来”理念，以超越、赋能、创新、引领为核心价值，面向全球发掘优质AI项目，聚焦技术突破、应用创新与治理探索，甄选兼具行业标杆价值、能够提升人类福祉的前沿成果，是洞察全球AI技术迭代与产业落地的核心风向标。 “SAIL”寓意扬帆远航，象征人工智能从上海启航，奔赴全球、驶向智能新未来。经过初评、复评层层遴选，2026 SAIL奖 TOP30 入围榜单正式发布。    世界人工智能大会青年优秀论文奖 世界人工智能大会青年优秀论文奖，由世界人工智能大会组委会主办，由中国科学技术协会作为指导单位，是业内聚焦青年科研力量的重要学术奖项。 奖项面向全球40岁以下青年科研学者征集优质学术论文，收录智能科学与技术及相关领域的基础理论研究、落地应用成果",
       "publishedAt": "2026-06-24T03:14:41Z",
       "published_at": "2026-06-24T03:14:41Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "8a1f4fb5",
+      "title": "主题演讲：全密态计算，破解AI时代的数据安全难题 | 36氪WAVES2026新浪潮",
+      "title_en": null,
+      "url": "https://36kr.com/p/3866604451845377?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3866604451845377?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑：  于功山丨辰宜科技 联合创始人 各位嘉宾、各位伙伴、各位同行，下午好！ 我来分享一个话题，就是全密态计算，破解AI时代的数据安全难题。 前一段时间，Anthropic发布了新一代大模型，这应该引起全球的警觉。所有上一代的计算机技术，在面对新一代全球顶尖大模型时，都可能被摧枯拉朽地攻破，原有的安全体系将形同虚设。大家需要反思一个问题：在人工智能与量子计算来临的时代，如何真正保证数据安全？如何守住底线？这已经成为相关从业者必须思考的重",
+      "summary_zh": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑：  于功山丨辰宜科技 联合创始人 各位嘉宾、各位伙伴、各位同行，下午好！ 我来分享一个话题，就是全密态计算，破解AI时代的数据安全难题。 前一段时间，Anthropic发布了新一代大模型，这应该引起全球的警觉。所有上一代的计算机技术，在面对新一代全球顶尖大模型时，都可能被摧枯拉朽地攻破，原有的安全体系将形同虚设。大家需要反思一个问题：在人工智能与量子计算来临的时代，如何真正保证数据安全？如何守住底线？这已经成为相关从业者必须思考的重",
+      "publishedAt": "2026-06-24T03:14:46Z",
+      "published_at": "2026-06-24T03:14:46Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
