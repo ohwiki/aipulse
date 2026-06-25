@@ -1,116 +1,40 @@
 {
-  "generated_at": "2026-06-24T21:51:57Z",
-  "generatedAt": "2026-06-24T21:51:57Z",
+  "generated_at": "2026-06-25T11:14:39Z",
+  "generatedAt": "2026-06-25T11:14:39Z",
   "count": 44,
   "total": 44,
   "entries": [
     {
       "date": "2026-06-25",
-      "generated_at": "2026-06-24T21:51:57Z",
-      "generatedAt": "2026-06-24T21:51:57Z",
-      "total": 8,
+      "generated_at": "2026-06-25T11:14:39Z",
+      "generatedAt": "2026-06-25T11:14:39Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "0d496030",
-          "title": "产品更新：Propane",
-          "title_en": "Propane",
-          "url": "https://www.producthunt.com/products/propane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "fdaf8036",
+          "title": "产品更新：Oxlo.ai",
+          "title_en": "Oxlo.ai",
+          "url": "https://www.producthunt.com/products/oxlo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/propane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/oxlo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Automatic customer context for product teams a",
-          "summary_zh": "Automatic customer context for product teams a",
-          "publishedAt": "2026-06-24T07:01:00Z",
-          "published_at": "2026-06-24T07:01:00Z",
-          "votes_count": 431,
+          "summary": "Scale across AI models without scaling your bi",
+          "summary_zh": "Scale across AI models without scaling your bi",
+          "publishedAt": "2026-06-25T07:01:00Z",
+          "published_at": "2026-06-25T07:01:00Z",
+          "votes_count": 265,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "85892c93",
-          "title": "产品更新：Tencent EdgeOne",
-          "title_en": "Tencent EdgeOne Makers",
-          "url": "https://www.producthunt.com/products/tencent-edgeone-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/tencent-edgeone-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Ship AI agents like web apps, in minutes. Tenc",
-          "summary_zh": "Ship AI agents like web apps, in minutes. Tenc",
-          "publishedAt": "2026-06-24T07:01:00Z",
-          "published_at": "2026-06-24T07:01:00Z",
-          "votes_count": 348,
-          "featured": true,
-          "topics": [
-            {
-              "id": "243",
-              "name": "Website Builder",
-              "slug": "website-builder"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "589",
-              "name": "Development",
-              "slug": "development"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "ef09cd2b",
-          "title": "产品更新：Crewdle AI",
-          "title_en": "Crewdle AI",
-          "url": "https://www.producthunt.com/products/crewdle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/crewdle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Use every business AI tool without every subsc",
-          "summary_zh": "Use every business AI tool without every subsc",
-          "publishedAt": "2026-06-24T07:01:00Z",
-          "published_at": "2026-06-24T07:01:00Z",
-          "votes_count": 246,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
             },
             {
               "id": "267",
@@ -121,6 +45,82 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "251f51fc",
+          "title": "产品更新：BrowserAct",
+          "title_en": "BrowserAct",
+          "url": "https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Web browser automation for AI agents BrowserAc",
+          "summary_zh": "Web browser automation for AI agents BrowserAc",
+          "publishedAt": "2026-06-25T07:01:00Z",
+          "published_at": "2026-06-25T07:01:00Z",
+          "votes_count": 155,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cb4a5a53",
+          "title": "AI资讯更新：Zaro",
+          "title_en": "Zaro",
+          "url": "https://www.producthunt.com/products/zaro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/zaro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build agents & apps on top of your context wit",
+          "summary_zh": "Build agents & apps on top of your context wit",
+          "publishedAt": "2026-06-25T07:01:00Z",
+          "published_at": "2026-06-25T07:01:00Z",
+          "votes_count": 127,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
             }
           ],
           "score_details": null
