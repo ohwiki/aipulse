@@ -1,0 +1,493 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-25T22:09:56Z",
+  "generatedAt": "2026-06-25T22:09:56Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "fdaf8036",
+          "title": "产品更新：Oxlo.ai",
+          "title_en": "Oxlo.ai",
+          "url": "https://www.producthunt.com/products/oxlo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/oxlo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Scale across AI models without scaling your bi",
+          "summary_zh": "Scale across AI models without scaling your bi",
+          "publishedAt": "2026-06-25T07:01:00Z",
+          "published_at": "2026-06-25T07:01:00Z",
+          "votes_count": 415,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "251f51fc",
+          "title": "产品更新：BrowserAct",
+          "title_en": "BrowserAct",
+          "url": "https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Web browser automation for AI agents BrowserAc",
+          "summary_zh": "Web browser automation for AI agents BrowserAc",
+          "publishedAt": "2026-06-25T07:01:00Z",
+          "published_at": "2026-06-25T07:01:00Z",
+          "votes_count": 318,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cb4a5a53",
+          "title": "AI资讯更新：Zaro",
+          "title_en": "Zaro",
+          "url": "https://www.producthunt.com/products/zaro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/zaro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Build agents & apps on top of your context wit",
+          "summary_zh": "Build agents & apps on top of your context wit",
+          "publishedAt": "2026-06-25T07:01:00Z",
+          "published_at": "2026-06-25T07:01:00Z",
+          "votes_count": 289,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b4e831d8",
+          "title": "产品更新：Brain² by Click",
+          "title_en": "Brain² by ClickUp",
+          "url": "https://www.producthunt.com/products/clickup?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/clickup?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "One AI that knows your entire company and acts",
+          "summary_zh": "One AI that knows your entire company and acts",
+          "publishedAt": "2026-06-25T07:01:00Z",
+          "published_at": "2026-06-25T07:01:00Z",
+          "votes_count": 178,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "b79b1d8a",
+          "title": "世界模型混战，Momenta率先冲刺IPO",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/438179.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/438179.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "世界模型混战，Momenta率先冲刺IPO  贾浩楠 2026-06-25 07:20:28  来源：量子位   AI司机收入3年涨42倍  港股物理AI第一股，来了！ 没想到如此之快，也没想到这“物理AI第一股”，不是出尽风头的具身智能创业公司，而是—— Momenta。    之前以自动驾驶知名：智能辅助驾驶市占率No.1、跨国巨头车企共同的选择、技术商业上有资格和华为“五五开”…… 现在，Momenta在IPO进程中曝光了更大的雄心——物理AI。 世界模型，尚未收敛的技术战争 在关注Momenta IPO进程之前，有必要先厘清一个更大的背景：世界模型（World Model）， 现阶段被公认为物理AI核心基座模型。 但它也是2025年以来AI领域最热也最混乱的概念。 OpenAI Sora出来的时候被称作“世界模拟器”；Google DeepMind Genie让你在生成的画面里走来走去，也叫世界模型；机器人公司在做世界模型；NVIDIA说Omniverse是世界模型的基础设施。    都在用同一个词，但各自说的可能不是同一件事。 这就使得世界模型的主流技术路线出现四类：  生成",
+          "summary_zh": "世界模型混战，Momenta率先冲刺IPO  贾浩楠 2026-06-25 07:20:28  来源：量子位   AI司机收入3年涨42倍  港股物理AI第一股，来了！ 没想到如此之快，也没想到这“物理AI第一股”，不是出尽风头的具身智能创业公司，而是—— Momenta。    之前以自动驾驶知名：智能辅助驾驶市占率No.1、跨国巨头车企共同的选择、技术商业上有资格和华为“五五开”…… 现在，Momenta在IPO进程中曝光了更大的雄心——物理AI。 世界模型，尚未收敛的技术战争 在关注Momenta IPO进程之前，有必要先厘清一个更大的背景：世界模型（World Model）， 现阶段被公认为物理AI核心基座模型。 但它也是2025年以来AI领域最热也最混乱的概念。 OpenAI Sora出来的时候被称作“世界模拟器”；Google DeepMind Genie让你在生成的画面里走来走去，也叫世界模型；机器人公司在做世界模型；NVIDIA说Omniverse是世界模型的基础设施。    都在用同一个词，但各自说的可能不是同一件事。 这就使得世界模型的主流技术路线出现四类：  生成",
+          "publishedAt": "2026-06-24T23:20:28Z",
+          "published_at": "2026-06-24T23:20:28Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "a6c2bfa2",
+          "title": "豆包收费版第一天，我：充值…又得充值？我要再充值！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/438204.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/438204.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "豆包收费版第一天，我：充值…又得充值？我要再充值！  听雨 2026-06-25 08:32:50  来源：量子位   专业版上线，首开付费模式  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 也是第一时间，我就给豆包专业版交钱了。 是的，豆包全免费时代终结，现在有了付费模式。  收费标准共有三档：标准版68元/月、加强版200元/月、高级版500元/月。 学生还有专属优惠，38元/月，这价格也是美滋滋了。 和免费版的区别在于，付费版正式接入豆包2.1系列大模型，同时免费用户日常使用不受影响，也可以在一定额度内体验接入2.1 Turbo的办公任务模式。 为了先大家之忧而忧，我们也是不惜花费重金，第一时间帮大家付费体验了。 深度实测后，我用最直白最不绕弯子的结论告诉你：  体验确实比想象中成熟（不要小瞧了豆包），尤其是办公任务模式的界面引导和自动操作，对普通用户很友好； 豆包容易思考过度，额度也是真不经烧，复杂任务跑起来消耗很快； 如果你想试试豆包帮你干活，几十块入股不亏。  还总结了一份不同人群适合的档位，拿走不谢：  一手实测豆包专业版 办公任务模式 豆包专业版最大的新变化，",
+          "summary_zh": "豆包收费版第一天，我：充值…又得充值？我要再充值！  听雨 2026-06-25 08:32:50  来源：量子位   专业版上线，首开付费模式  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 也是第一时间，我就给豆包专业版交钱了。 是的，豆包全免费时代终结，现在有了付费模式。  收费标准共有三档：标准版68元/月、加强版200元/月、高级版500元/月。 学生还有专属优惠，38元/月，这价格也是美滋滋了。 和免费版的区别在于，付费版正式接入豆包2.1系列大模型，同时免费用户日常使用不受影响，也可以在一定额度内体验接入2.1 Turbo的办公任务模式。 为了先大家之忧而忧，我们也是不惜花费重金，第一时间帮大家付费体验了。 深度实测后，我用最直白最不绕弯子的结论告诉你：  体验确实比想象中成熟（不要小瞧了豆包），尤其是办公任务模式的界面引导和自动操作，对普通用户很友好； 豆包容易思考过度，额度也是真不经烧，复杂任务跑起来消耗很快； 如果你想试试豆包帮你干活，几十块入股不亏。  还总结了一份不同人群适合的档位，拿走不谢：  一手实测豆包专业版 办公任务模式 豆包专业版最大的新变化，",
+          "publishedAt": "2026-06-25T00:32:50Z",
+          "published_at": "2026-06-25T00:32:50Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "2c583374",
+          "title": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/438297.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/438297.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳  量子位的朋友们 2026-06-25 10:22:43  来源：量子位   谁将定义下一代算力基础设施？谁又能在Token时代占据产业制高点？  进入2026年，人工智能产业正迈入新的发展阶段。行业关注的焦点已从“参数、训练和模型竞赛”，转向“推理、Token和生产力”。大模型、AI Agent和具身智能快速发展，推动Token消耗呈指数级增长，算力成为数字经济时代的核心生产资料。 算力需求的爆发正在重塑智算产业链。从芯片、服务器、数据中心，到供电、制冷、储能，再到云服务、算力运营和产业应用，一场围绕AI基础设施的价值重构正在展开。以PFlops和GPU数量衡量算力的时代，正在演变为以Token生产效率和交付能力为核心的新阶段。 谁将定义下一代算力基础设施？谁又能在Token时代占据产业制高点？芯片、液冷、HVDC与模块化如何支撑GW级Token产能？答案，即将在2026中国智算产业生态发展年会现场揭晓。 大会完整议程现已正式发布（点击参看详情），可扫描下方二维码申领免费观众票或选购嘉宾通票参会。  1、从算力革命到To",
+          "summary_zh": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳  量子位的朋友们 2026-06-25 10:22:43  来源：量子位   谁将定义下一代算力基础设施？谁又能在Token时代占据产业制高点？  进入2026年，人工智能产业正迈入新的发展阶段。行业关注的焦点已从“参数、训练和模型竞赛”，转向“推理、Token和生产力”。大模型、AI Agent和具身智能快速发展，推动Token消耗呈指数级增长，算力成为数字经济时代的核心生产资料。 算力需求的爆发正在重塑智算产业链。从芯片、服务器、数据中心，到供电、制冷、储能，再到云服务、算力运营和产业应用，一场围绕AI基础设施的价值重构正在展开。以PFlops和GPU数量衡量算力的时代，正在演变为以Token生产效率和交付能力为核心的新阶段。 谁将定义下一代算力基础设施？谁又能在Token时代占据产业制高点？芯片、液冷、HVDC与模块化如何支撑GW级Token产能？答案，即将在2026中国智算产业生态发展年会现场揭晓。 大会完整议程现已正式发布（点击参看详情），可扫描下方二维码申领免费观众票或选购嘉宾通票参会。  1、从算力革命到To",
+          "publishedAt": "2026-06-25T02:22:43Z",
+          "published_at": "2026-06-25T02:22:43Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "46382a85",
+          "title": "国产航电黑马8个月融三轮，要做中国版霍尼韦尔｜36氪首发",
+          "title_en": null,
+          "url": "https://36kr.com/p/3868030861645058?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3868030861645058?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "文 | 阿至 给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。 这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。 在这一核心环节，一家成立不到4年的创业公司，想通过全栈自研打破国际垄断，做自主可控的综合航电系统，沿着“先国家队后民营”的路径，推动一场自上而下的市场卡位。 我们了解到，云际航电已于近期连续完成pre-A和pre-A+两轮融资，规模为数千万元，投资方包括海河产业基金、亦庄新城实业、厚天资本、成都科创投和中丽基金，资金将主要投入于技术研发、核心产品的适航取证以及产能扩建。 去年底，我们曾报道过云际航电天使轮的融资进展，由北京经开区种子投资基金领投。 不到8个月的时间，这家国产航电黑马已完成三轮融资。 在商业航天热度一路走高的当下，如此节奏在一级市场并不罕见。但云际航电创始人李贝不太关注所谓的风口和热钱效应，他认为航电是一个需要以10年为周期做长期技术投入的领域，在业务早期的验证和爬坡阶段，",
+          "summary_zh": "文 | 阿至 给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。 这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。 在这一核心环节，一家成立不到4年的创业公司，想通过全栈自研打破国际垄断，做自主可控的综合航电系统，沿着“先国家队后民营”的路径，推动一场自上而下的市场卡位。 我们了解到，云际航电已于近期连续完成pre-A和pre-A+两轮融资，规模为数千万元，投资方包括海河产业基金、亦庄新城实业、厚天资本、成都科创投和中丽基金，资金将主要投入于技术研发、核心产品的适航取证以及产能扩建。 去年底，我们曾报道过云际航电天使轮的融资进展，由北京经开区种子投资基金领投。 不到8个月的时间，这家国产航电黑马已完成三轮融资。 在商业航天热度一路走高的当下，如此节奏在一级市场并不罕见。但云际航电创始人李贝不太关注所谓的风口和热钱效应，他认为航电是一个需要以10年为周期做长期技术投入的领域，在业务早期的验证和爬坡阶段，",
+          "publishedAt": "2026-06-25T03:25:46Z",
+          "published_at": "2026-06-25T03:25:46Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "fdaf8036",
+      "title": "产品更新：Oxlo.ai",
+      "title_en": "Oxlo.ai",
+      "url": "https://www.producthunt.com/products/oxlo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/oxlo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Scale across AI models without scaling your bi",
+      "summary_zh": "Scale across AI models without scaling your bi",
+      "publishedAt": "2026-06-25T07:01:00Z",
+      "published_at": "2026-06-25T07:01:00Z",
+      "votes_count": 415,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "251f51fc",
+      "title": "产品更新：BrowserAct",
+      "title_en": "BrowserAct",
+      "url": "https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Web browser automation for AI agents BrowserAc",
+      "summary_zh": "Web browser automation for AI agents BrowserAc",
+      "publishedAt": "2026-06-25T07:01:00Z",
+      "published_at": "2026-06-25T07:01:00Z",
+      "votes_count": 318,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "cb4a5a53",
+      "title": "AI资讯更新：Zaro",
+      "title_en": "Zaro",
+      "url": "https://www.producthunt.com/products/zaro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/zaro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build agents & apps on top of your context wit",
+      "summary_zh": "Build agents & apps on top of your context wit",
+      "publishedAt": "2026-06-25T07:01:00Z",
+      "published_at": "2026-06-25T07:01:00Z",
+      "votes_count": 289,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b4e831d8",
+      "title": "产品更新：Brain² by Click",
+      "title_en": "Brain² by ClickUp",
+      "url": "https://www.producthunt.com/products/clickup?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/clickup?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "One AI that knows your entire company and acts",
+      "summary_zh": "One AI that knows your entire company and acts",
+      "publishedAt": "2026-06-25T07:01:00Z",
+      "published_at": "2026-06-25T07:01:00Z",
+      "votes_count": 178,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b79b1d8a",
+      "title": "世界模型混战，Momenta率先冲刺IPO",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/438179.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/438179.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "世界模型混战，Momenta率先冲刺IPO  贾浩楠 2026-06-25 07:20:28  来源：量子位   AI司机收入3年涨42倍  港股物理AI第一股，来了！ 没想到如此之快，也没想到这“物理AI第一股”，不是出尽风头的具身智能创业公司，而是—— Momenta。    之前以自动驾驶知名：智能辅助驾驶市占率No.1、跨国巨头车企共同的选择、技术商业上有资格和华为“五五开”…… 现在，Momenta在IPO进程中曝光了更大的雄心——物理AI。 世界模型，尚未收敛的技术战争 在关注Momenta IPO进程之前，有必要先厘清一个更大的背景：世界模型（World Model）， 现阶段被公认为物理AI核心基座模型。 但它也是2025年以来AI领域最热也最混乱的概念。 OpenAI Sora出来的时候被称作“世界模拟器”；Google DeepMind Genie让你在生成的画面里走来走去，也叫世界模型；机器人公司在做世界模型；NVIDIA说Omniverse是世界模型的基础设施。    都在用同一个词，但各自说的可能不是同一件事。 这就使得世界模型的主流技术路线出现四类：  生成",
+      "summary_zh": "世界模型混战，Momenta率先冲刺IPO  贾浩楠 2026-06-25 07:20:28  来源：量子位   AI司机收入3年涨42倍  港股物理AI第一股，来了！ 没想到如此之快，也没想到这“物理AI第一股”，不是出尽风头的具身智能创业公司，而是—— Momenta。    之前以自动驾驶知名：智能辅助驾驶市占率No.1、跨国巨头车企共同的选择、技术商业上有资格和华为“五五开”…… 现在，Momenta在IPO进程中曝光了更大的雄心——物理AI。 世界模型，尚未收敛的技术战争 在关注Momenta IPO进程之前，有必要先厘清一个更大的背景：世界模型（World Model）， 现阶段被公认为物理AI核心基座模型。 但它也是2025年以来AI领域最热也最混乱的概念。 OpenAI Sora出来的时候被称作“世界模拟器”；Google DeepMind Genie让你在生成的画面里走来走去，也叫世界模型；机器人公司在做世界模型；NVIDIA说Omniverse是世界模型的基础设施。    都在用同一个词，但各自说的可能不是同一件事。 这就使得世界模型的主流技术路线出现四类：  生成",
+      "publishedAt": "2026-06-24T23:20:28Z",
+      "published_at": "2026-06-24T23:20:28Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "a6c2bfa2",
+      "title": "豆包收费版第一天，我：充值…又得充值？我要再充值！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/438204.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/438204.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "豆包收费版第一天，我：充值…又得充值？我要再充值！  听雨 2026-06-25 08:32:50  来源：量子位   专业版上线，首开付费模式  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 也是第一时间，我就给豆包专业版交钱了。 是的，豆包全免费时代终结，现在有了付费模式。  收费标准共有三档：标准版68元/月、加强版200元/月、高级版500元/月。 学生还有专属优惠，38元/月，这价格也是美滋滋了。 和免费版的区别在于，付费版正式接入豆包2.1系列大模型，同时免费用户日常使用不受影响，也可以在一定额度内体验接入2.1 Turbo的办公任务模式。 为了先大家之忧而忧，我们也是不惜花费重金，第一时间帮大家付费体验了。 深度实测后，我用最直白最不绕弯子的结论告诉你：  体验确实比想象中成熟（不要小瞧了豆包），尤其是办公任务模式的界面引导和自动操作，对普通用户很友好； 豆包容易思考过度，额度也是真不经烧，复杂任务跑起来消耗很快； 如果你想试试豆包帮你干活，几十块入股不亏。  还总结了一份不同人群适合的档位，拿走不谢：  一手实测豆包专业版 办公任务模式 豆包专业版最大的新变化，",
+      "summary_zh": "豆包收费版第一天，我：充值…又得充值？我要再充值！  听雨 2026-06-25 08:32:50  来源：量子位   专业版上线，首开付费模式  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 也是第一时间，我就给豆包专业版交钱了。 是的，豆包全免费时代终结，现在有了付费模式。  收费标准共有三档：标准版68元/月、加强版200元/月、高级版500元/月。 学生还有专属优惠，38元/月，这价格也是美滋滋了。 和免费版的区别在于，付费版正式接入豆包2.1系列大模型，同时免费用户日常使用不受影响，也可以在一定额度内体验接入2.1 Turbo的办公任务模式。 为了先大家之忧而忧，我们也是不惜花费重金，第一时间帮大家付费体验了。 深度实测后，我用最直白最不绕弯子的结论告诉你：  体验确实比想象中成熟（不要小瞧了豆包），尤其是办公任务模式的界面引导和自动操作，对普通用户很友好； 豆包容易思考过度，额度也是真不经烧，复杂任务跑起来消耗很快； 如果你想试试豆包帮你干活，几十块入股不亏。  还总结了一份不同人群适合的档位，拿走不谢：  一手实测豆包专业版 办公任务模式 豆包专业版最大的新变化，",
+      "publishedAt": "2026-06-25T00:32:50Z",
+      "published_at": "2026-06-25T00:32:50Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "2c583374",
+      "title": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/438297.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/438297.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳  量子位的朋友们 2026-06-25 10:22:43  来源：量子位   谁将定义下一代算力基础设施？谁又能在Token时代占据产业制高点？  进入2026年，人工智能产业正迈入新的发展阶段。行业关注的焦点已从“参数、训练和模型竞赛”，转向“推理、Token和生产力”。大模型、AI Agent和具身智能快速发展，推动Token消耗呈指数级增长，算力成为数字经济时代的核心生产资料。 算力需求的爆发正在重塑智算产业链。从芯片、服务器、数据中心，到供电、制冷、储能，再到云服务、算力运营和产业应用，一场围绕AI基础设施的价值重构正在展开。以PFlops和GPU数量衡量算力的时代，正在演变为以Token生产效率和交付能力为核心的新阶段。 谁将定义下一代算力基础设施？谁又能在Token时代占据产业制高点？芯片、液冷、HVDC与模块化如何支撑GW级Token产能？答案，即将在2026中国智算产业生态发展年会现场揭晓。 大会完整议程现已正式发布（点击参看详情），可扫描下方二维码申领免费观众票或选购嘉宾通票参会。  1、从算力革命到To",
+      "summary_zh": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳  量子位的朋友们 2026-06-25 10:22:43  来源：量子位   谁将定义下一代算力基础设施？谁又能在Token时代占据产业制高点？  进入2026年，人工智能产业正迈入新的发展阶段。行业关注的焦点已从“参数、训练和模型竞赛”，转向“推理、Token和生产力”。大模型、AI Agent和具身智能快速发展，推动Token消耗呈指数级增长，算力成为数字经济时代的核心生产资料。 算力需求的爆发正在重塑智算产业链。从芯片、服务器、数据中心，到供电、制冷、储能，再到云服务、算力运营和产业应用，一场围绕AI基础设施的价值重构正在展开。以PFlops和GPU数量衡量算力的时代，正在演变为以Token生产效率和交付能力为核心的新阶段。 谁将定义下一代算力基础设施？谁又能在Token时代占据产业制高点？芯片、液冷、HVDC与模块化如何支撑GW级Token产能？答案，即将在2026中国智算产业生态发展年会现场揭晓。 大会完整议程现已正式发布（点击参看详情），可扫描下方二维码申领免费观众票或选购嘉宾通票参会。  1、从算力革命到To",
+      "publishedAt": "2026-06-25T02:22:43Z",
+      "published_at": "2026-06-25T02:22:43Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "46382a85",
+      "title": "国产航电黑马8个月融三轮，要做中国版霍尼韦尔｜36氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3868030861645058?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3868030861645058?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "文 | 阿至 给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。 这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。 在这一核心环节，一家成立不到4年的创业公司，想通过全栈自研打破国际垄断，做自主可控的综合航电系统，沿着“先国家队后民营”的路径，推动一场自上而下的市场卡位。 我们了解到，云际航电已于近期连续完成pre-A和pre-A+两轮融资，规模为数千万元，投资方包括海河产业基金、亦庄新城实业、厚天资本、成都科创投和中丽基金，资金将主要投入于技术研发、核心产品的适航取证以及产能扩建。 去年底，我们曾报道过云际航电天使轮的融资进展，由北京经开区种子投资基金领投。 不到8个月的时间，这家国产航电黑马已完成三轮融资。 在商业航天热度一路走高的当下，如此节奏在一级市场并不罕见。但云际航电创始人李贝不太关注所谓的风口和热钱效应，他认为航电是一个需要以10年为周期做长期技术投入的领域，在业务早期的验证和爬坡阶段，",
+      "summary_zh": "文 | 阿至 给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。 这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。 在这一核心环节，一家成立不到4年的创业公司，想通过全栈自研打破国际垄断，做自主可控的综合航电系统，沿着“先国家队后民营”的路径，推动一场自上而下的市场卡位。 我们了解到，云际航电已于近期连续完成pre-A和pre-A+两轮融资，规模为数千万元，投资方包括海河产业基金、亦庄新城实业、厚天资本、成都科创投和中丽基金，资金将主要投入于技术研发、核心产品的适航取证以及产能扩建。 去年底，我们曾报道过云际航电天使轮的融资进展，由北京经开区种子投资基金领投。 不到8个月的时间，这家国产航电黑马已完成三轮融资。 在商业航天热度一路走高的当下，如此节奏在一级市场并不罕见。但云际航电创始人李贝不太关注所谓的风口和热钱效应，他认为航电是一个需要以10年为周期做长期技术投入的领域，在业务早期的验证和爬坡阶段，",
+      "publishedAt": "2026-06-25T03:25:46Z",
+      "published_at": "2026-06-25T03:25:46Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

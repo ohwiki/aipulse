@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-25T11:14:39Z",
-  "generatedAt": "2026-06-25T11:14:39Z",
+  "generated_at": "2026-06-25T22:09:56Z",
+  "generatedAt": "2026-06-25T22:09:56Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "fdaf8036",
@@ -22,7 +22,7 @@
       "summary_zh": "Scale across AI models without scaling your bi",
       "publishedAt": "2026-06-25T07:01:00Z",
       "published_at": "2026-06-25T07:01:00Z",
-      "votes_count": 265,
+      "votes_count": 415,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Web browser automation for AI agents BrowserAc",
       "publishedAt": "2026-06-25T07:01:00Z",
       "published_at": "2026-06-25T07:01:00Z",
-      "votes_count": 155,
+      "votes_count": 318,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "Build agents & apps on top of your context wit",
       "publishedAt": "2026-06-25T07:01:00Z",
       "published_at": "2026-06-25T07:01:00Z",
-      "votes_count": 127,
+      "votes_count": 289,
       "featured": true,
       "topics": [
         {
@@ -115,6 +115,39 @@
           "id": "470",
           "name": "No-Code",
           "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b4e831d8",
+      "title": "产品更新：Brain² by Click",
+      "title_en": "Brain² by ClickUp",
+      "url": "https://www.producthunt.com/products/clickup?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/clickup?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "One AI that knows your entire company and acts",
+      "summary_zh": "One AI that knows your entire company and acts",
+      "publishedAt": "2026-06-25T07:01:00Z",
+      "published_at": "2026-06-25T07:01:00Z",
+      "votes_count": 178,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         }
       ],
       "score_details": null
@@ -164,28 +197,6 @@
       "score_details": null
     },
     {
-      "id": "9e80df69",
-      "title": "光源资本创始人&CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
-      "title_en": null,
-      "url": "https://36kr.com/p/3866562600227847?f=rss",
-      "source": "36氪",
-      "source_type": null,
-      "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3866562600227847?f=rss",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’ 变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以‘今年盛夏’为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些‘少数人’ 的坚持，如何汇聚成改变行业的浪潮。” 活动现场，光源资本创始人&CEO郑烜乐做了“拥抱技术爆炸的黎明：AI与未来科技时代的早期投资范式”的主题演讲，他表示“未来，通用智能本身将不再稀缺，因为大模型公司会主导智能的供给，基于其生态做通用智能的路径价值有限。”此外，他也坦言光源资本成立的L2F光源创业者基金，源于其对大趋势的判断：先进生产要素一定要和产业快速融合，光源希望成为这个过程的推动者和布局者。所以这支基金的定位是中国第一个面向AI与未来科技产业的Multi Founders’ Fund。  以下为演",
-      "summary_zh": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’ 变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以‘今年盛夏’为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些‘少数人’ 的坚持，如何汇聚成改变行业的浪潮。” 活动现场，光源资本创始人&CEO郑烜乐做了“拥抱技术爆炸的黎明：AI与未来科技时代的早期投资范式”的主题演讲，他表示“未来，通用智能本身将不再稀缺，因为大模型公司会主导智能的供给，基于其生态做通用智能的路径价值有限。”此外，他也坦言光源资本成立的L2F光源创业者基金，源于其对大趋势的判断：先进生产要素一定要和产业快速融合，光源希望成为这个过程的推动者和布局者。所以这支基金的定位是中国第一个面向AI与未来科技产业的Multi Founders’ Fund。  以下为演",
-      "publishedAt": "2026-06-25T01:00:00Z",
-      "published_at": "2026-06-25T01:00:00Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": null
-    },
-    {
       "id": "2c583374",
       "title": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳",
       "title_en": null,
@@ -202,6 +213,28 @@
       "summary_zh": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳  量子位的朋友们 2026-06-25 10:22:43  来源：量子位   谁将定义下一代算力基础设施？谁又能在Token时代占据产业制高点？  进入2026年，人工智能产业正迈入新的发展阶段。行业关注的焦点已从“参数、训练和模型竞赛”，转向“推理、Token和生产力”。大模型、AI Agent和具身智能快速发展，推动Token消耗呈指数级增长，算力成为数字经济时代的核心生产资料。 算力需求的爆发正在重塑智算产业链。从芯片、服务器、数据中心，到供电、制冷、储能，再到云服务、算力运营和产业应用，一场围绕AI基础设施的价值重构正在展开。以PFlops和GPU数量衡量算力的时代，正在演变为以Token生产效率和交付能力为核心的新阶段。 谁将定义下一代算力基础设施？谁又能在Token时代占据产业制高点？芯片、液冷、HVDC与模块化如何支撑GW级Token产能？答案，即将在2026中国智算产业生态发展年会现场揭晓。 大会完整议程现已正式发布（点击参看详情），可扫描下方二维码申领免费观众票或选购嘉宾通票参会。  1、从算力革命到To",
       "publishedAt": "2026-06-25T02:22:43Z",
       "published_at": "2026-06-25T02:22:43Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "46382a85",
+      "title": "国产航电黑马8个月融三轮，要做中国版霍尼韦尔｜36氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3868030861645058?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3868030861645058?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "文 | 阿至 给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。 这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。 在这一核心环节，一家成立不到4年的创业公司，想通过全栈自研打破国际垄断，做自主可控的综合航电系统，沿着“先国家队后民营”的路径，推动一场自上而下的市场卡位。 我们了解到，云际航电已于近期连续完成pre-A和pre-A+两轮融资，规模为数千万元，投资方包括海河产业基金、亦庄新城实业、厚天资本、成都科创投和中丽基金，资金将主要投入于技术研发、核心产品的适航取证以及产能扩建。 去年底，我们曾报道过云际航电天使轮的融资进展，由北京经开区种子投资基金领投。 不到8个月的时间，这家国产航电黑马已完成三轮融资。 在商业航天热度一路走高的当下，如此节奏在一级市场并不罕见。但云际航电创始人李贝不太关注所谓的风口和热钱效应，他认为航电是一个需要以10年为周期做长期技术投入的领域，在业务早期的验证和爬坡阶段，",
+      "summary_zh": "文 | 阿至 给飞行器做“大脑”，从来不是一件容易事，在国内尤其如此。 这是一个长期被欧美巨头垄断的赛道，霍尼韦尔、柯林斯宇航、泰雷兹和GE四家吃下超过八成市场份额。从当下的产业背景来看，自主航电不仅关乎中国航空产业的供应链安全，也是国产民机、eVTOL等新机型实现成本可控和商业化闭环的重要前提之一。 在这一核心环节，一家成立不到4年的创业公司，想通过全栈自研打破国际垄断，做自主可控的综合航电系统，沿着“先国家队后民营”的路径，推动一场自上而下的市场卡位。 我们了解到，云际航电已于近期连续完成pre-A和pre-A+两轮融资，规模为数千万元，投资方包括海河产业基金、亦庄新城实业、厚天资本、成都科创投和中丽基金，资金将主要投入于技术研发、核心产品的适航取证以及产能扩建。 去年底，我们曾报道过云际航电天使轮的融资进展，由北京经开区种子投资基金领投。 不到8个月的时间，这家国产航电黑马已完成三轮融资。 在商业航天热度一路走高的当下，如此节奏在一级市场并不罕见。但云际航电创始人李贝不太关注所谓的风口和热钱效应，他认为航电是一个需要以10年为周期做长期技术投入的领域，在业务早期的验证和爬坡阶段，",
+      "publishedAt": "2026-06-25T03:25:46Z",
+      "published_at": "2026-06-25T03:25:46Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
