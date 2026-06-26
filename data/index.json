@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-06-26T11:23:01Z",
-  "generatedAt": "2026-06-26T11:23:01Z",
-  "count": 45,
-  "total": 45,
+  "generated_at": "2026-06-26T21:45:12Z",
+  "generatedAt": "2026-06-26T21:45:12Z",
+  "count": 46,
+  "total": 46,
   "entries": [
+    {
+      "date": "2026-06-27",
+      "generated_at": "2026-06-26T21:45:12Z",
+      "generatedAt": "2026-06-26T21:45:12Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "721e40f4",
+          "title": "产品更新：Agent Arena",
+          "title_en": "Agent Arena",
+          "url": "https://www.producthunt.com/products/agent-arena?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/agent-arena?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The first public arena for AI agents Agent Are",
+          "summary_zh": "The first public arena for AI agents Agent Are",
+          "publishedAt": "2026-06-26T07:01:00Z",
+          "published_at": "2026-06-26T07:01:00Z",
+          "votes_count": 292,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "870",
+              "name": "Community",
+              "slug": "community"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8be77a7a",
+          "title": "产品更新：Gemini Spark",
+          "title_en": "Gemini Spark",
+          "url": "https://www.producthunt.com/products/gemini-spark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gemini-spark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your 24/7 personal AI agent Gemini Spark helps",
+          "summary_zh": "Your 24/7 personal AI agent Gemini Spark helps",
+          "publishedAt": "2026-06-26T07:01:00Z",
+          "published_at": "2026-06-26T07:01:00Z",
+          "votes_count": 258,
+          "featured": true,
+          "topics": [
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c469525f",
+          "title": "产品更新：Atlas",
+          "title_en": "Atlas",
+          "url": "https://www.producthunt.com/products/nanonets?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/nanonets?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Every AI tool you use should know how your com",
+          "summary_zh": "Every AI tool you use should know how your com",
+          "publishedAt": "2026-06-26T07:01:00Z",
+          "published_at": "2026-06-26T07:01:00Z",
+          "votes_count": 178,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "371",
+              "name": "Maker Tools",
+              "slug": "maker-tools"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-26",
       "generated_at": "2026-06-26T11:23:01Z",

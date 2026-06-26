@@ -1,0 +1,493 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-26T21:45:12Z",
+  "generatedAt": "2026-06-26T21:45:12Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "721e40f4",
+          "title": "产品更新：Agent Arena",
+          "title_en": "Agent Arena",
+          "url": "https://www.producthunt.com/products/agent-arena?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/agent-arena?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The first public arena for AI agents Agent Are",
+          "summary_zh": "The first public arena for AI agents Agent Are",
+          "publishedAt": "2026-06-26T07:01:00Z",
+          "published_at": "2026-06-26T07:01:00Z",
+          "votes_count": 292,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "870",
+              "name": "Community",
+              "slug": "community"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8be77a7a",
+          "title": "产品更新：Gemini Spark",
+          "title_en": "Gemini Spark",
+          "url": "https://www.producthunt.com/products/gemini-spark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gemini-spark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your 24/7 personal AI agent Gemini Spark helps",
+          "summary_zh": "Your 24/7 personal AI agent Gemini Spark helps",
+          "publishedAt": "2026-06-26T07:01:00Z",
+          "published_at": "2026-06-26T07:01:00Z",
+          "votes_count": 258,
+          "featured": true,
+          "topics": [
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c469525f",
+          "title": "产品更新：Atlas",
+          "title_en": "Atlas",
+          "url": "https://www.producthunt.com/products/nanonets?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/nanonets?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Every AI tool you use should know how your com",
+          "summary_zh": "Every AI tool you use should know how your com",
+          "publishedAt": "2026-06-26T07:01:00Z",
+          "published_at": "2026-06-26T07:01:00Z",
+          "votes_count": 178,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "371",
+              "name": "Maker Tools",
+              "slug": "maker-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "05d726e3",
+          "title": "产品更新：ModuleX",
+          "title_en": "ModuleX",
+          "url": "https://www.producthunt.com/products/modulex?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/modulex?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI workspace that’s already connected to every",
+          "summary_zh": "AI workspace that’s already connected to every",
+          "publishedAt": "2026-06-26T07:01:00Z",
+          "published_at": "2026-06-26T07:01:00Z",
+          "votes_count": 137,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "371",
+              "name": "Maker Tools",
+              "slug": "maker-tools"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "1a523ce8",
+          "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
+          "title_en": null,
+          "url": "https://36kr.com/p/3869243269387269?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3869243269387269?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览  Anthropic成全球价值最高独角兽，DeepSeek跻身全球独角兽企业前15名 建设银行：将于7月24日日终清算时起关闭代理上海黄金交易所个人贵金属交易业务功能 马斯克曾直言混动车只是过渡阶段 韩国5200万人开了1.08亿股票账户，半年增超1000万 逾八成澳大利亚未成年人“绕过”了社媒禁令 IBM发布全球首款亚纳米芯片技术  TOP 3大新闻 苹果官宣涨价：iPad和Mac率先调价 6月25日，记者获悉，因内存和存储芯片成本持续飙升，苹果已正式宣布上调iPad及Mac系列产品价格。苹果在声明中表示：“消费电子行业正面临前所未有的挑战。AI数据中心的迅猛扩张导致存储需求激增，我们从未见过零部件价格以如此幅度和速度上涨。此前我们一直在内部消化成本压力，但目前已不得不开始上调多款产品售价，其中就包括今天公布的iPad和Mac。”（澎湃新闻） 黄仁勋计划把50%或更多现金流返还股东，还称物理AI是下一波增长浪潮 北京时间周四凌晨，全球市值最高上市公司英伟达举行年度股东大会。AI产业领军人物黄仁勋在股东大会上表示，关于AI投资回报率的问题“已有答案”。 在业务更新中，黄仁",
+          "summary_zh": "今日热点导览  Anthropic成全球价值最高独角兽，DeepSeek跻身全球独角兽企业前15名 建设银行：将于7月24日日终清算时起关闭代理上海黄金交易所个人贵金属交易业务功能 马斯克曾直言混动车只是过渡阶段 韩国5200万人开了1.08亿股票账户，半年增超1000万 逾八成澳大利亚未成年人“绕过”了社媒禁令 IBM发布全球首款亚纳米芯片技术  TOP 3大新闻 苹果官宣涨价：iPad和Mac率先调价 6月25日，记者获悉，因内存和存储芯片成本持续飙升，苹果已正式宣布上调iPad及Mac系列产品价格。苹果在声明中表示：“消费电子行业正面临前所未有的挑战。AI数据中心的迅猛扩张导致存储需求激增，我们从未见过零部件价格以如此幅度和速度上涨。此前我们一直在内部消化成本压力，但目前已不得不开始上调多款产品售价，其中就包括今天公布的iPad和Mac。”（澎湃新闻） 黄仁勋计划把50%或更多现金流返还股东，还称物理AI是下一波增长浪潮 北京时间周四凌晨，全球市值最高上市公司英伟达举行年度股东大会。AI产业领军人物黄仁勋在股东大会上表示，关于AI投资回报率的问题“已有答案”。 在业务更新中，黄仁",
+          "publishedAt": "2026-06-25T23:57:55Z",
+          "published_at": "2026-06-25T23:57:55Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "e6f86d64",
+          "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
+          "title_en": null,
+          "url": "https://36kr.com/p/3867943030395913?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3867943030395913?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。 念象科技成立于2025年底，首款产品Omniband是一款腕戴式表面肌电（surface electromyography，简称sEMG）神经接口设备。它不直接采集大脑皮层信号，而是通过手腕处的神经肌肉电信号，解析手部运动意图和连续动态手势，进而用于手机、电脑、智能眼镜、智能家居等终端的人机交互。 除泛交互场景外，念象科技也将高精度手部运动数据视为另一条长期价值线。团队希望围绕手部姿态、肌肉发力、物体交互等标签，建设面向本土手部操作场景的大规模sEMG数据集，为具身智能、物理AI和世界模型训练提供数据支持。 创始人王译博士期间在新西兰奥克兰大学从事脑机接口方向研究，现任国家脑机接口产业联盟副主席，并入选上海市白玉兰人才计划，曾任应脉医疗首席科学家、智元机器人研发总监，完整实践过侵入式/非侵入式/介入式脑机接口、sEMG神经接口等脑机接口与具身智能人机交互等相关技术研",
+          "summary_zh": "文｜胡香赟 编辑｜海若镜 36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。 念象科技成立于2025年底，首款产品Omniband是一款腕戴式表面肌电（surface electromyography，简称sEMG）神经接口设备。它不直接采集大脑皮层信号，而是通过手腕处的神经肌肉电信号，解析手部运动意图和连续动态手势，进而用于手机、电脑、智能眼镜、智能家居等终端的人机交互。 除泛交互场景外，念象科技也将高精度手部运动数据视为另一条长期价值线。团队希望围绕手部姿态、肌肉发力、物体交互等标签，建设面向本土手部操作场景的大规模sEMG数据集，为具身智能、物理AI和世界模型训练提供数据支持。 创始人王译博士期间在新西兰奥克兰大学从事脑机接口方向研究，现任国家脑机接口产业联盟副主席，并入选上海市白玉兰人才计划，曾任应脉医疗首席科学家、智元机器人研发总监，完整实践过侵入式/非侵入式/介入式脑机接口、sEMG神经接口等脑机接口与具身智能人机交互等相关技术研",
+          "publishedAt": "2026-06-26T00:00:00Z",
+          "published_at": "2026-06-26T00:00:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "20c349a9",
+          "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/438690.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/438690.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了  衡宇 2026-06-26 09:26:27  来源：量子位   Macbook涨了2500元   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  苹果电脑iPad等多款产品一夕之间大涨价，悬着的心终于死了。 Mac价格上涨约15%-20%，iPad涨幅约15%-25%。 昨天还在犹豫要不要买MacBook Air/iPad Air，今天打开官网，发现同一款机型的统一配置，突然贵了100-300美元。 更扎心的是，不是因为苹果换代，更不是因为功能更新…… 库克上周接受《华尔街日报》采访时表示，由于内存芯片（称为 DRAM）和存储芯片（称为 NAND）成本上涨，价格上涨已“不可避免”。 他这个人说话也太算话了。 还没过几天呢，Mac、iPad、HomePod、Apple TV、Vision Pro、Mac Studio等多个产品线就通通涨价。 价格更新以配置版本为单位展开，不同产品线之间的调整幅度并不一致。    不过你先别晕倒！iPhone暂时还没涨。 但外界已经开始猜测，iPhone 18的涨价可能也不远",
+          "summary_zh": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了  衡宇 2026-06-26 09:26:27  来源：量子位   Macbook涨了2500元   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  苹果电脑iPad等多款产品一夕之间大涨价，悬着的心终于死了。 Mac价格上涨约15%-20%，iPad涨幅约15%-25%。 昨天还在犹豫要不要买MacBook Air/iPad Air，今天打开官网，发现同一款机型的统一配置，突然贵了100-300美元。 更扎心的是，不是因为苹果换代，更不是因为功能更新…… 库克上周接受《华尔街日报》采访时表示，由于内存芯片（称为 DRAM）和存储芯片（称为 NAND）成本上涨，价格上涨已“不可避免”。 他这个人说话也太算话了。 还没过几天呢，Mac、iPad、HomePod、Apple TV、Vision Pro、Mac Studio等多个产品线就通通涨价。 价格更新以配置版本为单位展开，不同产品线之间的调整幅度并不一致。    不过你先别晕倒！iPhone暂时还没涨。 但外界已经开始猜测，iPhone 18的涨价可能也不远",
+          "publishedAt": "2026-06-26T01:26:27Z",
+          "published_at": "2026-06-26T01:26:27Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0d82646d",
+          "title": "主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮",
+          "title_en": null,
+          "url": "https://36kr.com/p/3869378164397313?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3869378164397313?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑：  陆海涛｜华义创投 业务合伙人（主持） 刘元｜真格基金 管理合伙人 徐诗｜山行资本 创始合伙人 林海卓｜卓源亚洲 创始合伙人 徐之浩｜明势创投 合伙人 陆海涛：大家好！很高兴能够受到36氪邀请担任本场圆桌的主持，也很高兴能跟在场各位大咖一起探讨一下比较好的话题，叫做我们永远赞美冒险，如何去投更早、更小、更水下。首先请各位嘉宾先简单介绍一下跟自己所在的机构。 刘元：大家好，我叫刘元，在真格基金。真格是一家总部在北京，成立于2011年",
+          "summary_zh": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑：  陆海涛｜华义创投 业务合伙人（主持） 刘元｜真格基金 管理合伙人 徐诗｜山行资本 创始合伙人 林海卓｜卓源亚洲 创始合伙人 徐之浩｜明势创投 合伙人 陆海涛：大家好！很高兴能够受到36氪邀请担任本场圆桌的主持，也很高兴能跟在场各位大咖一起探讨一下比较好的话题，叫做我们永远赞美冒险，如何去投更早、更小、更水下。首先请各位嘉宾先简单介绍一下跟自己所在的机构。 刘元：大家好，我叫刘元，在真格基金。真格是一家总部在北京，成立于2011年",
+          "publishedAt": "2026-06-26T02:17:40Z",
+          "published_at": "2026-06-26T02:17:40Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "721e40f4",
+      "title": "产品更新：Agent Arena",
+      "title_en": "Agent Arena",
+      "url": "https://www.producthunt.com/products/agent-arena?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/agent-arena?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The first public arena for AI agents Agent Are",
+      "summary_zh": "The first public arena for AI agents Agent Are",
+      "publishedAt": "2026-06-26T07:01:00Z",
+      "published_at": "2026-06-26T07:01:00Z",
+      "votes_count": 292,
+      "featured": true,
+      "topics": [
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "870",
+          "name": "Community",
+          "slug": "community"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8be77a7a",
+      "title": "产品更新：Gemini Spark",
+      "title_en": "Gemini Spark",
+      "url": "https://www.producthunt.com/products/gemini-spark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/gemini-spark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your 24/7 personal AI agent Gemini Spark helps",
+      "summary_zh": "Your 24/7 personal AI agent Gemini Spark helps",
+      "publishedAt": "2026-06-26T07:01:00Z",
+      "published_at": "2026-06-26T07:01:00Z",
+      "votes_count": 258,
+      "featured": true,
+      "topics": [
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "c469525f",
+      "title": "产品更新：Atlas",
+      "title_en": "Atlas",
+      "url": "https://www.producthunt.com/products/nanonets?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/nanonets?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Every AI tool you use should know how your com",
+      "summary_zh": "Every AI tool you use should know how your com",
+      "publishedAt": "2026-06-26T07:01:00Z",
+      "published_at": "2026-06-26T07:01:00Z",
+      "votes_count": 178,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "371",
+          "name": "Maker Tools",
+          "slug": "maker-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "05d726e3",
+      "title": "产品更新：ModuleX",
+      "title_en": "ModuleX",
+      "url": "https://www.producthunt.com/products/modulex?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/modulex?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI workspace that’s already connected to every",
+      "summary_zh": "AI workspace that’s already connected to every",
+      "publishedAt": "2026-06-26T07:01:00Z",
+      "published_at": "2026-06-26T07:01:00Z",
+      "votes_count": 137,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "371",
+          "name": "Maker Tools",
+          "slug": "maker-tools"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1a523ce8",
+      "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
+      "title_en": null,
+      "url": "https://36kr.com/p/3869243269387269?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3869243269387269?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览  Anthropic成全球价值最高独角兽，DeepSeek跻身全球独角兽企业前15名 建设银行：将于7月24日日终清算时起关闭代理上海黄金交易所个人贵金属交易业务功能 马斯克曾直言混动车只是过渡阶段 韩国5200万人开了1.08亿股票账户，半年增超1000万 逾八成澳大利亚未成年人“绕过”了社媒禁令 IBM发布全球首款亚纳米芯片技术  TOP 3大新闻 苹果官宣涨价：iPad和Mac率先调价 6月25日，记者获悉，因内存和存储芯片成本持续飙升，苹果已正式宣布上调iPad及Mac系列产品价格。苹果在声明中表示：“消费电子行业正面临前所未有的挑战。AI数据中心的迅猛扩张导致存储需求激增，我们从未见过零部件价格以如此幅度和速度上涨。此前我们一直在内部消化成本压力，但目前已不得不开始上调多款产品售价，其中就包括今天公布的iPad和Mac。”（澎湃新闻） 黄仁勋计划把50%或更多现金流返还股东，还称物理AI是下一波增长浪潮 北京时间周四凌晨，全球市值最高上市公司英伟达举行年度股东大会。AI产业领军人物黄仁勋在股东大会上表示，关于AI投资回报率的问题“已有答案”。 在业务更新中，黄仁",
+      "summary_zh": "今日热点导览  Anthropic成全球价值最高独角兽，DeepSeek跻身全球独角兽企业前15名 建设银行：将于7月24日日终清算时起关闭代理上海黄金交易所个人贵金属交易业务功能 马斯克曾直言混动车只是过渡阶段 韩国5200万人开了1.08亿股票账户，半年增超1000万 逾八成澳大利亚未成年人“绕过”了社媒禁令 IBM发布全球首款亚纳米芯片技术  TOP 3大新闻 苹果官宣涨价：iPad和Mac率先调价 6月25日，记者获悉，因内存和存储芯片成本持续飙升，苹果已正式宣布上调iPad及Mac系列产品价格。苹果在声明中表示：“消费电子行业正面临前所未有的挑战。AI数据中心的迅猛扩张导致存储需求激增，我们从未见过零部件价格以如此幅度和速度上涨。此前我们一直在内部消化成本压力，但目前已不得不开始上调多款产品售价，其中就包括今天公布的iPad和Mac。”（澎湃新闻） 黄仁勋计划把50%或更多现金流返还股东，还称物理AI是下一波增长浪潮 北京时间周四凌晨，全球市值最高上市公司英伟达举行年度股东大会。AI产业领军人物黄仁勋在股东大会上表示，关于AI投资回报率的问题“已有答案”。 在业务更新中，黄仁",
+      "publishedAt": "2026-06-25T23:57:55Z",
+      "published_at": "2026-06-25T23:57:55Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "e6f86d64",
+      "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3867943030395913?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3867943030395913?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。 念象科技成立于2025年底，首款产品Omniband是一款腕戴式表面肌电（surface electromyography，简称sEMG）神经接口设备。它不直接采集大脑皮层信号，而是通过手腕处的神经肌肉电信号，解析手部运动意图和连续动态手势，进而用于手机、电脑、智能眼镜、智能家居等终端的人机交互。 除泛交互场景外，念象科技也将高精度手部运动数据视为另一条长期价值线。团队希望围绕手部姿态、肌肉发力、物体交互等标签，建设面向本土手部操作场景的大规模sEMG数据集，为具身智能、物理AI和世界模型训练提供数据支持。 创始人王译博士期间在新西兰奥克兰大学从事脑机接口方向研究，现任国家脑机接口产业联盟副主席，并入选上海市白玉兰人才计划，曾任应脉医疗首席科学家、智元机器人研发总监，完整实践过侵入式/非侵入式/介入式脑机接口、sEMG神经接口等脑机接口与具身智能人机交互等相关技术研",
+      "summary_zh": "文｜胡香赟 编辑｜海若镜 36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。 念象科技成立于2025年底，首款产品Omniband是一款腕戴式表面肌电（surface electromyography，简称sEMG）神经接口设备。它不直接采集大脑皮层信号，而是通过手腕处的神经肌肉电信号，解析手部运动意图和连续动态手势，进而用于手机、电脑、智能眼镜、智能家居等终端的人机交互。 除泛交互场景外，念象科技也将高精度手部运动数据视为另一条长期价值线。团队希望围绕手部姿态、肌肉发力、物体交互等标签，建设面向本土手部操作场景的大规模sEMG数据集，为具身智能、物理AI和世界模型训练提供数据支持。 创始人王译博士期间在新西兰奥克兰大学从事脑机接口方向研究，现任国家脑机接口产业联盟副主席，并入选上海市白玉兰人才计划，曾任应脉医疗首席科学家、智元机器人研发总监，完整实践过侵入式/非侵入式/介入式脑机接口、sEMG神经接口等脑机接口与具身智能人机交互等相关技术研",
+      "publishedAt": "2026-06-26T00:00:00Z",
+      "published_at": "2026-06-26T00:00:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "20c349a9",
+      "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/438690.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/438690.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了  衡宇 2026-06-26 09:26:27  来源：量子位   Macbook涨了2500元   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  苹果电脑iPad等多款产品一夕之间大涨价，悬着的心终于死了。 Mac价格上涨约15%-20%，iPad涨幅约15%-25%。 昨天还在犹豫要不要买MacBook Air/iPad Air，今天打开官网，发现同一款机型的统一配置，突然贵了100-300美元。 更扎心的是，不是因为苹果换代，更不是因为功能更新…… 库克上周接受《华尔街日报》采访时表示，由于内存芯片（称为 DRAM）和存储芯片（称为 NAND）成本上涨，价格上涨已“不可避免”。 他这个人说话也太算话了。 还没过几天呢，Mac、iPad、HomePod、Apple TV、Vision Pro、Mac Studio等多个产品线就通通涨价。 价格更新以配置版本为单位展开，不同产品线之间的调整幅度并不一致。    不过你先别晕倒！iPhone暂时还没涨。 但外界已经开始猜测，iPhone 18的涨价可能也不远",
+      "summary_zh": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了  衡宇 2026-06-26 09:26:27  来源：量子位   Macbook涨了2500元   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  苹果电脑iPad等多款产品一夕之间大涨价，悬着的心终于死了。 Mac价格上涨约15%-20%，iPad涨幅约15%-25%。 昨天还在犹豫要不要买MacBook Air/iPad Air，今天打开官网，发现同一款机型的统一配置，突然贵了100-300美元。 更扎心的是，不是因为苹果换代，更不是因为功能更新…… 库克上周接受《华尔街日报》采访时表示，由于内存芯片（称为 DRAM）和存储芯片（称为 NAND）成本上涨，价格上涨已“不可避免”。 他这个人说话也太算话了。 还没过几天呢，Mac、iPad、HomePod、Apple TV、Vision Pro、Mac Studio等多个产品线就通通涨价。 价格更新以配置版本为单位展开，不同产品线之间的调整幅度并不一致。    不过你先别晕倒！iPhone暂时还没涨。 但外界已经开始猜测，iPhone 18的涨价可能也不远",
+      "publishedAt": "2026-06-26T01:26:27Z",
+      "published_at": "2026-06-26T01:26:27Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0d82646d",
+      "title": "主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮",
+      "title_en": null,
+      "url": "https://36kr.com/p/3869378164397313?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3869378164397313?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑：  陆海涛｜华义创投 业务合伙人（主持） 刘元｜真格基金 管理合伙人 徐诗｜山行资本 创始合伙人 林海卓｜卓源亚洲 创始合伙人 徐之浩｜明势创投 合伙人 陆海涛：大家好！很高兴能够受到36氪邀请担任本场圆桌的主持，也很高兴能跟在场各位大咖一起探讨一下比较好的话题，叫做我们永远赞美冒险，如何去投更早、更小、更水下。首先请各位嘉宾先简单介绍一下跟自己所在的机构。 刘元：大家好，我叫刘元，在真格基金。真格是一家总部在北京，成立于2011年",
+      "summary_zh": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑：  陆海涛｜华义创投 业务合伙人（主持） 刘元｜真格基金 管理合伙人 徐诗｜山行资本 创始合伙人 林海卓｜卓源亚洲 创始合伙人 徐之浩｜明势创投 合伙人 陆海涛：大家好！很高兴能够受到36氪邀请担任本场圆桌的主持，也很高兴能跟在场各位大咖一起探讨一下比较好的话题，叫做我们永远赞美冒险，如何去投更早、更小、更水下。首先请各位嘉宾先简单介绍一下跟自己所在的机构。 刘元：大家好，我叫刘元，在真格基金。真格是一家总部在北京，成立于2011年",
+      "publishedAt": "2026-06-26T02:17:40Z",
+      "published_at": "2026-06-26T02:17:40Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

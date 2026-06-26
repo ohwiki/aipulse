@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-26T11:23:01Z",
-  "generatedAt": "2026-06-26T11:23:01Z",
+  "generated_at": "2026-06-26T21:45:12Z",
+  "generatedAt": "2026-06-26T21:45:12Z",
   "days": 7,
-  "total": 5,
-  "count": 5,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "721e40f4",
@@ -22,7 +22,7 @@
       "summary_zh": "The first public arena for AI agents Agent Are",
       "publishedAt": "2026-06-26T07:01:00Z",
       "published_at": "2026-06-26T07:01:00Z",
-      "votes_count": 144,
+      "votes_count": 292,
       "featured": true,
       "topics": [
         {
@@ -44,25 +44,112 @@
       "score_details": null
     },
     {
-      "id": "225126dc",
-      "title": "抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重",
-      "title_en": null,
-      "url": "https://36kr.com/p/3868596994069509?f=rss",
-      "source": "36氪",
+      "id": "8be77a7a",
+      "title": "产品更新：Gemini Spark",
+      "title_en": "Gemini Spark",
+      "url": "https://www.producthunt.com/products/gemini-spark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3868596994069509?f=rss",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "减重1亿斤，是什么概念？  简单算一笔“热量账”。按医学建议的安全减重速度（每周1-2斤）计算，一个人单打独斗，全部减完大概要花100多万年。 但如果把它拆分到全国人民身上，再加上专业健康AI“带减”，这个几乎不可能完成的目标就变得触手可及。 在国家卫健委等16部门联合倡议的“体重管理年”行动背景下，6月25日，AI健康应用“阿福”宣布正式上线“科学减重1亿斤”健康行动，包含三项核心动作：1分钱便能领的体脂秤，升级阿福的AI解读功能、为用户定制饮食和运动方案，以及即将开启的减重挑战赛。  如果按照阿福现有的1亿用户体量来算，平均每人只需减重1斤，就能实现“1亿斤”的小目标。 减肥这件事，曾经是一个人的苦修：花钱买课心疼，没人指导“瞎练”，坚持两周就放弃。但现在，阿福把工具和陪伴送到每个普通人的身边，还直言“你不是一个人，全国网友一起冲”，网友参与的热情被全网同路人持续点燃。 第一批网友冲向阿福减重，先把体脂秤抢爆了。蚂蚁阿福旗舰店数据显示，这款AI体脂秤上线8小时，领取量已超10万台。迅速翻滚的数字背后，越来越多网友正在低门槛参与科学减重。 普通人减重，不用再焦虑了 普通人的减重之路，",
-      "summary_zh": "减重1亿斤，是什么概念？  简单算一笔“热量账”。按医学建议的安全减重速度（每周1-2斤）计算，一个人单打独斗，全部减完大概要花100多万年。 但如果把它拆分到全国人民身上，再加上专业健康AI“带减”，这个几乎不可能完成的目标就变得触手可及。 在国家卫健委等16部门联合倡议的“体重管理年”行动背景下，6月25日，AI健康应用“阿福”宣布正式上线“科学减重1亿斤”健康行动，包含三项核心动作：1分钱便能领的体脂秤，升级阿福的AI解读功能、为用户定制饮食和运动方案，以及即将开启的减重挑战赛。  如果按照阿福现有的1亿用户体量来算，平均每人只需减重1斤，就能实现“1亿斤”的小目标。 减肥这件事，曾经是一个人的苦修：花钱买课心疼，没人指导“瞎练”，坚持两周就放弃。但现在，阿福把工具和陪伴送到每个普通人的身边，还直言“你不是一个人，全国网友一起冲”，网友参与的热情被全网同路人持续点燃。 第一批网友冲向阿福减重，先把体脂秤抢爆了。蚂蚁阿福旗舰店数据显示，这款AI体脂秤上线8小时，领取量已超10万台。迅速翻滚的数字背后，越来越多网友正在低门槛参与科学减重。 普通人减重，不用再焦虑了 普通人的减重之路，",
-      "publishedAt": "2026-06-25T13:42:26Z",
-      "published_at": "2026-06-25T13:42:26Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/gemini-spark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your 24/7 personal AI agent Gemini Spark helps",
+      "summary_zh": "Your 24/7 personal AI agent Gemini Spark helps",
+      "publishedAt": "2026-06-26T07:01:00Z",
+      "published_at": "2026-06-26T07:01:00Z",
+      "votes_count": 258,
+      "featured": true,
+      "topics": [
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "c469525f",
+      "title": "产品更新：Atlas",
+      "title_en": "Atlas",
+      "url": "https://www.producthunt.com/products/nanonets?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/nanonets?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Every AI tool you use should know how your com",
+      "summary_zh": "Every AI tool you use should know how your com",
+      "publishedAt": "2026-06-26T07:01:00Z",
+      "published_at": "2026-06-26T07:01:00Z",
+      "votes_count": 178,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "371",
+          "name": "Maker Tools",
+          "slug": "maker-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "05d726e3",
+      "title": "产品更新：ModuleX",
+      "title_en": "ModuleX",
+      "url": "https://www.producthunt.com/products/modulex?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/modulex?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI workspace that’s already connected to every",
+      "summary_zh": "AI workspace that’s already connected to every",
+      "publishedAt": "2026-06-26T07:01:00Z",
+      "published_at": "2026-06-26T07:01:00Z",
+      "votes_count": 137,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "371",
+          "name": "Maker Tools",
+          "slug": "maker-tools"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
       "score_details": null
     },
     {
@@ -126,6 +213,28 @@
       "summary_zh": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了  衡宇 2026-06-26 09:26:27  来源：量子位   Macbook涨了2500元   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  苹果电脑iPad等多款产品一夕之间大涨价，悬着的心终于死了。 Mac价格上涨约15%-20%，iPad涨幅约15%-25%。 昨天还在犹豫要不要买MacBook Air/iPad Air，今天打开官网，发现同一款机型的统一配置，突然贵了100-300美元。 更扎心的是，不是因为苹果换代，更不是因为功能更新…… 库克上周接受《华尔街日报》采访时表示，由于内存芯片（称为 DRAM）和存储芯片（称为 NAND）成本上涨，价格上涨已“不可避免”。 他这个人说话也太算话了。 还没过几天呢，Mac、iPad、HomePod、Apple TV、Vision Pro、Mac Studio等多个产品线就通通涨价。 价格更新以配置版本为单位展开，不同产品线之间的调整幅度并不一致。    不过你先别晕倒！iPhone暂时还没涨。 但外界已经开始猜测，iPhone 18的涨价可能也不远",
       "publishedAt": "2026-06-26T01:26:27Z",
       "published_at": "2026-06-26T01:26:27Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0d82646d",
+      "title": "主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮",
+      "title_en": null,
+      "url": "https://36kr.com/p/3869378164397313?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3869378164397313?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑：  陆海涛｜华义创投 业务合伙人（主持） 刘元｜真格基金 管理合伙人 徐诗｜山行资本 创始合伙人 林海卓｜卓源亚洲 创始合伙人 徐之浩｜明势创投 合伙人 陆海涛：大家好！很高兴能够受到36氪邀请担任本场圆桌的主持，也很高兴能跟在场各位大咖一起探讨一下比较好的话题，叫做我们永远赞美冒险，如何去投更早、更小、更水下。首先请各位嘉宾先简单介绍一下跟自己所在的机构。 刘元：大家好，我叫刘元，在真格基金。真格是一家总部在北京，成立于2011年",
+      "summary_zh": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑：  陆海涛｜华义创投 业务合伙人（主持） 刘元｜真格基金 管理合伙人 徐诗｜山行资本 创始合伙人 林海卓｜卓源亚洲 创始合伙人 徐之浩｜明势创投 合伙人 陆海涛：大家好！很高兴能够受到36氪邀请担任本场圆桌的主持，也很高兴能跟在场各位大咖一起探讨一下比较好的话题，叫做我们永远赞美冒险，如何去投更早、更小、更水下。首先请各位嘉宾先简单介绍一下跟自己所在的机构。 刘元：大家好，我叫刘元，在真格基金。真格是一家总部在北京，成立于2011年",
+      "publishedAt": "2026-06-26T02:17:40Z",
+      "published_at": "2026-06-26T02:17:40Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
