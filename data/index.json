@@ -1,128 +1,96 @@
 {
-  "generated_at": "2026-06-25T22:09:56Z",
-  "generatedAt": "2026-06-25T22:09:56Z",
+  "generated_at": "2026-06-26T11:23:01Z",
+  "generatedAt": "2026-06-26T11:23:01Z",
   "count": 45,
   "total": 45,
   "entries": [
     {
       "date": "2026-06-26",
-      "generated_at": "2026-06-25T22:09:56Z",
-      "generatedAt": "2026-06-25T22:09:56Z",
-      "total": 8,
+      "generated_at": "2026-06-26T11:23:01Z",
+      "generatedAt": "2026-06-26T11:23:01Z",
+      "total": 5,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "fdaf8036",
-          "title": "产品更新：Oxlo.ai",
-          "title_en": "Oxlo.ai",
-          "url": "https://www.producthunt.com/products/oxlo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "721e40f4",
+          "title": "产品更新：Agent Arena",
+          "title_en": "Agent Arena",
+          "url": "https://www.producthunt.com/products/agent-arena?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/oxlo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/agent-arena?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Scale across AI models without scaling your bi",
-          "summary_zh": "Scale across AI models without scaling your bi",
-          "publishedAt": "2026-06-25T07:01:00Z",
-          "published_at": "2026-06-25T07:01:00Z",
-          "votes_count": 415,
+          "summary": "The first public arena for AI agents Agent Are",
+          "summary_zh": "The first public arena for AI agents Agent Are",
+          "publishedAt": "2026-06-26T07:01:00Z",
+          "published_at": "2026-06-26T07:01:00Z",
+          "votes_count": 144,
           "featured": true,
           "topics": [
             {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "870",
+              "name": "Community",
+              "slug": "community"
             }
           ],
           "score_details": null
         },
         {
-          "id": "251f51fc",
-          "title": "产品更新：BrowserAct",
-          "title_en": "BrowserAct",
-          "url": "https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "20c349a9",
+          "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/438690.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Web browser automation for AI agents BrowserAc",
-          "summary_zh": "Web browser automation for AI agents BrowserAc",
-          "publishedAt": "2026-06-25T07:01:00Z",
-          "published_at": "2026-06-25T07:01:00Z",
-          "votes_count": 318,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/438690.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了  衡宇 2026-06-26 09:26:27  来源：量子位   Macbook涨了2500元   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  苹果电脑iPad等多款产品一夕之间大涨价，悬着的心终于死了。 Mac价格上涨约15%-20%，iPad涨幅约15%-25%。 昨天还在犹豫要不要买MacBook Air/iPad Air，今天打开官网，发现同一款机型的统一配置，突然贵了100-300美元。 更扎心的是，不是因为苹果换代，更不是因为功能更新…… 库克上周接受《华尔街日报》采访时表示，由于内存芯片（称为 DRAM）和存储芯片（称为 NAND）成本上涨，价格上涨已“不可避免”。 他这个人说话也太算话了。 还没过几天呢，Mac、iPad、HomePod、Apple TV、Vision Pro、Mac Studio等多个产品线就通通涨价。 价格更新以配置版本为单位展开，不同产品线之间的调整幅度并不一致。    不过你先别晕倒！iPhone暂时还没涨。 但外界已经开始猜测，iPhone 18的涨价可能也不远",
+          "summary_zh": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了  衡宇 2026-06-26 09:26:27  来源：量子位   Macbook涨了2500元   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  苹果电脑iPad等多款产品一夕之间大涨价，悬着的心终于死了。 Mac价格上涨约15%-20%，iPad涨幅约15%-25%。 昨天还在犹豫要不要买MacBook Air/iPad Air，今天打开官网，发现同一款机型的统一配置，突然贵了100-300美元。 更扎心的是，不是因为苹果换代，更不是因为功能更新…… 库克上周接受《华尔街日报》采访时表示，由于内存芯片（称为 DRAM）和存储芯片（称为 NAND）成本上涨，价格上涨已“不可避免”。 他这个人说话也太算话了。 还没过几天呢，Mac、iPad、HomePod、Apple TV、Vision Pro、Mac Studio等多个产品线就通通涨价。 价格更新以配置版本为单位展开，不同产品线之间的调整幅度并不一致。    不过你先别晕倒！iPhone暂时还没涨。 但外界已经开始猜测，iPhone 18的涨价可能也不远",
+          "publishedAt": "2026-06-26T01:26:27Z",
+          "published_at": "2026-06-26T01:26:27Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "cb4a5a53",
-          "title": "AI资讯更新：Zaro",
-          "title_en": "Zaro",
-          "url": "https://www.producthunt.com/products/zaro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "e6f86d64",
+          "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
+          "title_en": null,
+          "url": "https://36kr.com/p/3867943030395913?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/zaro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Build agents & apps on top of your context wit",
-          "summary_zh": "Build agents & apps on top of your context wit",
-          "publishedAt": "2026-06-25T07:01:00Z",
-          "published_at": "2026-06-25T07:01:00Z",
-          "votes_count": 289,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "470",
-              "name": "No-Code",
-              "slug": "no-code"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3867943030395913?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。 念象科技成立于2025年底，首款产品Omniband是一款腕戴式表面肌电（surface electromyography，简称sEMG）神经接口设备。它不直接采集大脑皮层信号，而是通过手腕处的神经肌肉电信号，解析手部运动意图和连续动态手势，进而用于手机、电脑、智能眼镜、智能家居等终端的人机交互。 除泛交互场景外，念象科技也将高精度手部运动数据视为另一条长期价值线。团队希望围绕手部姿态、肌肉发力、物体交互等标签，建设面向本土手部操作场景的大规模sEMG数据集，为具身智能、物理AI和世界模型训练提供数据支持。 创始人王译博士期间在新西兰奥克兰大学从事脑机接口方向研究，现任国家脑机接口产业联盟副主席，并入选上海市白玉兰人才计划，曾任应脉医疗首席科学家、智元机器人研发总监，完整实践过侵入式/非侵入式/介入式脑机接口、sEMG神经接口等脑机接口与具身智能人机交互等相关技术研",
+          "summary_zh": "文｜胡香赟 编辑｜海若镜 36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。 念象科技成立于2025年底，首款产品Omniband是一款腕戴式表面肌电（surface electromyography，简称sEMG）神经接口设备。它不直接采集大脑皮层信号，而是通过手腕处的神经肌肉电信号，解析手部运动意图和连续动态手势，进而用于手机、电脑、智能眼镜、智能家居等终端的人机交互。 除泛交互场景外，念象科技也将高精度手部运动数据视为另一条长期价值线。团队希望围绕手部姿态、肌肉发力、物体交互等标签，建设面向本土手部操作场景的大规模sEMG数据集，为具身智能、物理AI和世界模型训练提供数据支持。 创始人王译博士期间在新西兰奥克兰大学从事脑机接口方向研究，现任国家脑机接口产业联盟副主席，并入选上海市白玉兰人才计划，曾任应脉医疗首席科学家、智元机器人研发总监，完整实践过侵入式/非侵入式/介入式脑机接口、sEMG神经接口等脑机接口与具身智能人机交互等相关技术研",
+          "publishedAt": "2026-06-26T00:00:00Z",
+          "published_at": "2026-06-26T00:00:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
