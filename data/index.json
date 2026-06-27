@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-06-27T10:32:29Z",
-  "generatedAt": "2026-06-27T10:32:29Z",
-  "count": 46,
-  "total": 46,
+  "generated_at": "2026-06-27T21:34:54Z",
+  "generatedAt": "2026-06-27T21:34:54Z",
+  "count": 47,
+  "total": 47,
   "entries": [
+    {
+      "date": "2026-06-28",
+      "generated_at": "2026-06-27T21:34:54Z",
+      "generatedAt": "2026-06-27T21:34:54Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "787b0172",
+          "title": "产品更新：QApilot's CoWor",
+          "title_en": "QApilot's CoWork",
+          "url": "https://www.producthunt.com/products/qapilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/qapilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "3x Mobile Automation. Same QE Team. CoWork tur",
+          "summary_zh": "3x Mobile Automation. Same QE Team. CoWork tur",
+          "publishedAt": "2026-06-27T07:01:00Z",
+          "published_at": "2026-06-27T07:01:00Z",
+          "votes_count": 238,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "741f76db",
+          "title": "产品更新：Folio AI",
+          "title_en": "Folio AI",
+          "url": "https://www.producthunt.com/products/folio-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/folio-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Claude for PowerPoint, on steroids Folio AI is",
+          "summary_zh": "Claude for PowerPoint, on steroids Folio AI is",
+          "publishedAt": "2026-06-27T07:01:00Z",
+          "published_at": "2026-06-27T07:01:00Z",
+          "votes_count": 230,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "a19b537a",
+          "title": "产品更新：Nada",
+          "title_en": "Nada",
+          "url": "https://www.producthunt.com/products/nada-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/nada-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Compose music with just your voice Nada is the",
+          "summary_zh": "Compose music with just your voice Nada is the",
+          "publishedAt": "2026-06-27T07:01:00Z",
+          "published_at": "2026-06-27T07:01:00Z",
+          "votes_count": 188,
+          "featured": true,
+          "topics": [
+            {
+              "id": "57",
+              "name": "Music",
+              "slug": "music"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            },
+            {
+              "id": "742",
+              "name": "Electronic Music",
+              "slug": "electronic-music"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-27",
       "generated_at": "2026-06-27T10:32:29Z",
