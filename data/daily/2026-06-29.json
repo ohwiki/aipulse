@@ -1,0 +1,503 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-28T21:34:59Z",
+  "generatedAt": "2026-06-28T21:34:59Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "e1fe0843",
+          "title": "AI资讯更新：discode.ai",
+          "title_en": "discode.ai",
+          "url": "https://www.producthunt.com/products/discode-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/discode-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "100+ AI models, one interface. ECO friendly. d",
+          "summary_zh": "100+ AI models, one interface. ECO friendly. d",
+          "publishedAt": "2026-06-28T07:01:00Z",
+          "published_at": "2026-06-28T07:01:00Z",
+          "votes_count": 290,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "89f9c012",
+          "title": "产品更新：GetCompress",
+          "title_en": "GetCompress",
+          "url": "https://www.producthunt.com/products/getcompress?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/getcompress?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Lossless media compression without context swi",
+          "summary_zh": "Lossless media compression without context swi",
+          "publishedAt": "2026-06-28T07:01:00Z",
+          "published_at": "2026-06-28T07:01:00Z",
+          "votes_count": 247,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "692",
+              "name": "Photo & Video",
+              "slug": "photo-video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "db0454e2",
+          "title": "产品更新：Persona.js",
+          "title_en": "Persona.js",
+          "url": "https://www.producthunt.com/products/persona-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/persona-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Add WebMCP-native AI chat to any Frontend Pers",
+          "summary_zh": "Add WebMCP-native AI chat to any Frontend Pers",
+          "publishedAt": "2026-06-28T07:01:00Z",
+          "published_at": "2026-06-28T07:01:00Z",
+          "votes_count": 217,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9da0df41",
+          "title": "产品更新：Lyto",
+          "title_en": "Lyto",
+          "url": "https://www.producthunt.com/products/lyto?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/lyto?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "\"One AI agent across your browser, tools, and",
+          "summary_zh": "\"One AI agent across your browser, tools, and",
+          "publishedAt": "2026-06-28T07:01:00Z",
+          "published_at": "2026-06-28T07:01:00Z",
+          "votes_count": 147,
+          "featured": true,
+          "topics": [
+            {
+              "id": "34",
+              "name": "Chrome Extensions",
+              "slug": "chrome-extensions"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "bd27b18e",
+          "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/439464.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/439464.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员  林樾 2026-06-28 14:04:17  来源：量子位    henry 发自 凹非寺 量子位 | 公众号 QbitAI  国产开源OCR又刷新SOTA！ 刚刚，百度开源了全新的OCR新模型—— Unlimited OCR。 它主打一口气读完几十页长文档，并在OmniDocBench上刷新SOTA，整体成绩超过此前的DeepSeek OCR。  与传统OCR处理长文档时“一页一页读，再把结果拼回去”的思路不同，Unlimited OCR这次模仿了一种酷似人类抄录员的工作方式： 不再死记硬背前面已经抄写过的内容，而是只保留当前工作需要的信息和进度。 基于此，它能够像人一样连续阅读整本书，而不是每读完一页就中断一次，再从下一页重新开始。  更关键的是，借助创新的参考滑动窗口注意力（Reference Sliding Window Attention，R-SWA）机制，即便文档越来越长，显存占用和注意力计算开销也几乎不会增长。 这是怎么做到的？ for-loop只是权宜之计 要理解Unlimited OCR，得先看看",
+          "summary_zh": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员  林樾 2026-06-28 14:04:17  来源：量子位    henry 发自 凹非寺 量子位 | 公众号 QbitAI  国产开源OCR又刷新SOTA！ 刚刚，百度开源了全新的OCR新模型—— Unlimited OCR。 它主打一口气读完几十页长文档，并在OmniDocBench上刷新SOTA，整体成绩超过此前的DeepSeek OCR。  与传统OCR处理长文档时“一页一页读，再把结果拼回去”的思路不同，Unlimited OCR这次模仿了一种酷似人类抄录员的工作方式： 不再死记硬背前面已经抄写过的内容，而是只保留当前工作需要的信息和进度。 基于此，它能够像人一样连续阅读整本书，而不是每读完一页就中断一次，再从下一页重新开始。  更关键的是，借助创新的参考滑动窗口注意力（Reference Sliding Window Attention，R-SWA）机制，即便文档越来越长，显存占用和注意力计算开销也几乎不会增长。 这是怎么做到的？ for-loop只是权宜之计 要理解Unlimited OCR，得先看看",
+          "publishedAt": "2026-06-28T06:04:17Z",
+          "published_at": "2026-06-28T06:04:17Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "75dd94e7",
+          "title": "智元第15000台通用具身机器人正式量产下线",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3872498969252864?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3872498969252864?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "6月28日，智元宣布第15000台通用具身机器人精灵G2正式量产下线。 智元机器人合伙人、高级副总裁、具身业务部总裁姚卯青表示，15000台量产下线印证了智元规模化量产到达新高度，也标志着中国人形机器人产业迈上了大规模真实场景应用。量产不是目的，只是一个过程，通过规模化量产让机器人在各行各业快速部署，在真实物理世界交互过程中去获取数据，通过数据飞轮让产品变得越来越智能、越来越稳定。（证券时报）",
+          "summary_zh": "6月28日，智元宣布第15000台通用具身机器人精灵G2正式量产下线。 智元机器人合伙人、高级副总裁、具身业务部总裁姚卯青表示，15000台量产下线印证了智元规模化量产到达新高度，也标志着中国人形机器人产业迈上了大规模真实场景应用。量产不是目的，只是一个过程，通过规模化量产让机器人在各行各业快速部署，在真实物理世界交互过程中去获取数据，通过数据飞轮让产品变得越来越智能、越来越稳定。（证券时报）",
+          "publishedAt": "2026-06-28T07:09:39Z",
+          "published_at": "2026-06-28T07:09:39Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "c3bf6375",
+          "title": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/439515.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/439515.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站  闻乐 2026-06-28 15:56:22  来源：量子位   GitHub 20k Star   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  看到一个网站设计得贼好看，想复刻一个同款？ 现在不用打开F12一行行抄CSS了！GitHub上有个2万Star的项目专门干这事儿—— ai-website-cloner-template，一行命令，像素级克隆任意网站。 视频地址：https://mp.weixin.qq.com/s/aY5GjbcafuVZZvWBizF73g 给它一个URL，它会自动完成全站逆向解析： 采集页面元素精确计算样式、遍历滚动/点击/悬停等全量交互逻辑、提取标准化设计Token； 再调度多Agent基于Git工作树并行完成组件分块重建，最终输出一套可直接本地运行的完整Next.js工程。 没错，出来的是一个完整的前端工程。 产物内置标准化路由、模块化组件、严格TypeScript类型定义，执行npm run dev即可启动开发服务。  而且Claude Code、Codex CLI、Curs",
+          "summary_zh": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站  闻乐 2026-06-28 15:56:22  来源：量子位   GitHub 20k Star   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  看到一个网站设计得贼好看，想复刻一个同款？ 现在不用打开F12一行行抄CSS了！GitHub上有个2万Star的项目专门干这事儿—— ai-website-cloner-template，一行命令，像素级克隆任意网站。 视频地址：https://mp.weixin.qq.com/s/aY5GjbcafuVZZvWBizF73g 给它一个URL，它会自动完成全站逆向解析： 采集页面元素精确计算样式、遍历滚动/点击/悬停等全量交互逻辑、提取标准化设计Token； 再调度多Agent基于Git工作树并行完成组件分块重建，最终输出一套可直接本地运行的完整Next.js工程。 没错，出来的是一个完整的前端工程。 产物内置标准化路由、模块化组件、严格TypeScript类型定义，执行npm run dev即可启动开发服务。  而且Claude Code、Codex CLI、Curs",
+          "publishedAt": "2026-06-28T07:56:22Z",
+          "published_at": "2026-06-28T07:56:22Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "2a05ae56",
+          "title": "悟空安全上线“弹必赔”，主打“0添加”安全软件",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3872623912571910?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3872623912571910?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日，悟空安全宣布上线“流氓弹窗”弹必赔，用户安装产品后，如弹出推广类弹窗，可参与举报并获得最高100元话费奖励。与此同时，悟空安全提出“0添加”的产品理念，默认使用场景下不主动新增广告、捆绑推荐等影响体验的信息，并通过AI识别与云规则库能力提升弹窗拦截效率，希望为用户提供更纯净、更少干扰的电脑使用体验。",
+          "summary_zh": "今日，悟空安全宣布上线“流氓弹窗”弹必赔，用户安装产品后，如弹出推广类弹窗，可参与举报并获得最高100元话费奖励。与此同时，悟空安全提出“0添加”的产品理念，默认使用场景下不主动新增广告、捆绑推荐等影响体验的信息，并通过AI识别与云规则库能力提升弹窗拦截效率，希望为用户提供更纯净、更少干扰的电脑使用体验。",
+          "publishedAt": "2026-06-28T09:16:45Z",
+          "published_at": "2026-06-28T09:16:45Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "e1fe0843",
+      "title": "AI资讯更新：discode.ai",
+      "title_en": "discode.ai",
+      "url": "https://www.producthunt.com/products/discode-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/discode-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "100+ AI models, one interface. ECO friendly. d",
+      "summary_zh": "100+ AI models, one interface. ECO friendly. d",
+      "publishedAt": "2026-06-28T07:01:00Z",
+      "published_at": "2026-06-28T07:01:00Z",
+      "votes_count": 290,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "89f9c012",
+      "title": "产品更新：GetCompress",
+      "title_en": "GetCompress",
+      "url": "https://www.producthunt.com/products/getcompress?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/getcompress?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Lossless media compression without context swi",
+      "summary_zh": "Lossless media compression without context swi",
+      "publishedAt": "2026-06-28T07:01:00Z",
+      "published_at": "2026-06-28T07:01:00Z",
+      "votes_count": 247,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "692",
+          "name": "Photo & Video",
+          "slug": "photo-video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "db0454e2",
+      "title": "产品更新：Persona.js",
+      "title_en": "Persona.js",
+      "url": "https://www.producthunt.com/products/persona-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/persona-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Add WebMCP-native AI chat to any Frontend Pers",
+      "summary_zh": "Add WebMCP-native AI chat to any Frontend Pers",
+      "publishedAt": "2026-06-28T07:01:00Z",
+      "published_at": "2026-06-28T07:01:00Z",
+      "votes_count": 217,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9da0df41",
+      "title": "产品更新：Lyto",
+      "title_en": "Lyto",
+      "url": "https://www.producthunt.com/products/lyto?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/lyto?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "\"One AI agent across your browser, tools, and",
+      "summary_zh": "\"One AI agent across your browser, tools, and",
+      "publishedAt": "2026-06-28T07:01:00Z",
+      "published_at": "2026-06-28T07:01:00Z",
+      "votes_count": 147,
+      "featured": true,
+      "topics": [
+        {
+          "id": "34",
+          "name": "Chrome Extensions",
+          "slug": "chrome-extensions"
+        },
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "bd27b18e",
+      "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/439464.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/439464.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员  林樾 2026-06-28 14:04:17  来源：量子位    henry 发自 凹非寺 量子位 | 公众号 QbitAI  国产开源OCR又刷新SOTA！ 刚刚，百度开源了全新的OCR新模型—— Unlimited OCR。 它主打一口气读完几十页长文档，并在OmniDocBench上刷新SOTA，整体成绩超过此前的DeepSeek OCR。  与传统OCR处理长文档时“一页一页读，再把结果拼回去”的思路不同，Unlimited OCR这次模仿了一种酷似人类抄录员的工作方式： 不再死记硬背前面已经抄写过的内容，而是只保留当前工作需要的信息和进度。 基于此，它能够像人一样连续阅读整本书，而不是每读完一页就中断一次，再从下一页重新开始。  更关键的是，借助创新的参考滑动窗口注意力（Reference Sliding Window Attention，R-SWA）机制，即便文档越来越长，显存占用和注意力计算开销也几乎不会增长。 这是怎么做到的？ for-loop只是权宜之计 要理解Unlimited OCR，得先看看",
+      "summary_zh": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员  林樾 2026-06-28 14:04:17  来源：量子位    henry 发自 凹非寺 量子位 | 公众号 QbitAI  国产开源OCR又刷新SOTA！ 刚刚，百度开源了全新的OCR新模型—— Unlimited OCR。 它主打一口气读完几十页长文档，并在OmniDocBench上刷新SOTA，整体成绩超过此前的DeepSeek OCR。  与传统OCR处理长文档时“一页一页读，再把结果拼回去”的思路不同，Unlimited OCR这次模仿了一种酷似人类抄录员的工作方式： 不再死记硬背前面已经抄写过的内容，而是只保留当前工作需要的信息和进度。 基于此，它能够像人一样连续阅读整本书，而不是每读完一页就中断一次，再从下一页重新开始。  更关键的是，借助创新的参考滑动窗口注意力（Reference Sliding Window Attention，R-SWA）机制，即便文档越来越长，显存占用和注意力计算开销也几乎不会增长。 这是怎么做到的？ for-loop只是权宜之计 要理解Unlimited OCR，得先看看",
+      "publishedAt": "2026-06-28T06:04:17Z",
+      "published_at": "2026-06-28T06:04:17Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "75dd94e7",
+      "title": "智元第15000台通用具身机器人正式量产下线",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3872498969252864?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3872498969252864?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "6月28日，智元宣布第15000台通用具身机器人精灵G2正式量产下线。 智元机器人合伙人、高级副总裁、具身业务部总裁姚卯青表示，15000台量产下线印证了智元规模化量产到达新高度，也标志着中国人形机器人产业迈上了大规模真实场景应用。量产不是目的，只是一个过程，通过规模化量产让机器人在各行各业快速部署，在真实物理世界交互过程中去获取数据，通过数据飞轮让产品变得越来越智能、越来越稳定。（证券时报）",
+      "summary_zh": "6月28日，智元宣布第15000台通用具身机器人精灵G2正式量产下线。 智元机器人合伙人、高级副总裁、具身业务部总裁姚卯青表示，15000台量产下线印证了智元规模化量产到达新高度，也标志着中国人形机器人产业迈上了大规模真实场景应用。量产不是目的，只是一个过程，通过规模化量产让机器人在各行各业快速部署，在真实物理世界交互过程中去获取数据，通过数据飞轮让产品变得越来越智能、越来越稳定。（证券时报）",
+      "publishedAt": "2026-06-28T07:09:39Z",
+      "published_at": "2026-06-28T07:09:39Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "c3bf6375",
+      "title": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/439515.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/439515.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站  闻乐 2026-06-28 15:56:22  来源：量子位   GitHub 20k Star   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  看到一个网站设计得贼好看，想复刻一个同款？ 现在不用打开F12一行行抄CSS了！GitHub上有个2万Star的项目专门干这事儿—— ai-website-cloner-template，一行命令，像素级克隆任意网站。 视频地址：https://mp.weixin.qq.com/s/aY5GjbcafuVZZvWBizF73g 给它一个URL，它会自动完成全站逆向解析： 采集页面元素精确计算样式、遍历滚动/点击/悬停等全量交互逻辑、提取标准化设计Token； 再调度多Agent基于Git工作树并行完成组件分块重建，最终输出一套可直接本地运行的完整Next.js工程。 没错，出来的是一个完整的前端工程。 产物内置标准化路由、模块化组件、严格TypeScript类型定义，执行npm run dev即可启动开发服务。  而且Claude Code、Codex CLI、Curs",
+      "summary_zh": "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站  闻乐 2026-06-28 15:56:22  来源：量子位   GitHub 20k Star   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  看到一个网站设计得贼好看，想复刻一个同款？ 现在不用打开F12一行行抄CSS了！GitHub上有个2万Star的项目专门干这事儿—— ai-website-cloner-template，一行命令，像素级克隆任意网站。 视频地址：https://mp.weixin.qq.com/s/aY5GjbcafuVZZvWBizF73g 给它一个URL，它会自动完成全站逆向解析： 采集页面元素精确计算样式、遍历滚动/点击/悬停等全量交互逻辑、提取标准化设计Token； 再调度多Agent基于Git工作树并行完成组件分块重建，最终输出一套可直接本地运行的完整Next.js工程。 没错，出来的是一个完整的前端工程。 产物内置标准化路由、模块化组件、严格TypeScript类型定义，执行npm run dev即可启动开发服务。  而且Claude Code、Codex CLI、Curs",
+      "publishedAt": "2026-06-28T07:56:22Z",
+      "published_at": "2026-06-28T07:56:22Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "2a05ae56",
+      "title": "悟空安全上线“弹必赔”，主打“0添加”安全软件",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3872623912571910?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3872623912571910?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日，悟空安全宣布上线“流氓弹窗”弹必赔，用户安装产品后，如弹出推广类弹窗，可参与举报并获得最高100元话费奖励。与此同时，悟空安全提出“0添加”的产品理念，默认使用场景下不主动新增广告、捆绑推荐等影响体验的信息，并通过AI识别与云规则库能力提升弹窗拦截效率，希望为用户提供更纯净、更少干扰的电脑使用体验。",
+      "summary_zh": "今日，悟空安全宣布上线“流氓弹窗”弹必赔，用户安装产品后，如弹出推广类弹窗，可参与举报并获得最高100元话费奖励。与此同时，悟空安全提出“0添加”的产品理念，默认使用场景下不主动新增广告、捆绑推荐等影响体验的信息，并通过AI识别与云规则库能力提升弹窗拦截效率，希望为用户提供更纯净、更少干扰的电脑使用体验。",
+      "publishedAt": "2026-06-28T09:16:45Z",
+      "published_at": "2026-06-28T09:16:45Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
