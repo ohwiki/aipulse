@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T12:45:43Z",
-  "generatedAt": "2026-06-29T12:45:43Z",
+  "generated_at": "2026-06-29T21:48:29Z",
+  "generatedAt": "2026-06-29T21:48:29Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "Social media growth agents that build your mom",
       "publishedAt": "2026-06-29T07:01:00Z",
       "published_at": "2026-06-29T07:01:00Z",
-      "votes_count": 226,
+      "votes_count": 339,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Bookkeeping assistant that runs receipt workfl",
       "publishedAt": "2026-06-29T07:01:00Z",
       "published_at": "2026-06-29T07:01:00Z",
-      "votes_count": 211,
+      "votes_count": 334,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "Run the best open-weights models in Cline Clin",
       "publishedAt": "2026-06-29T07:01:00Z",
       "published_at": "2026-06-29T07:01:00Z",
-      "votes_count": 177,
+      "votes_count": 266,
       "featured": true,
       "topics": [
         {
@@ -136,7 +136,7 @@
       "summary_zh": "Are you in AI answers? Find out and fix it in",
       "publishedAt": "2026-06-29T07:01:00Z",
       "published_at": "2026-06-29T07:01:00Z",
-      "votes_count": 141,
+      "votes_count": 205,
       "featured": true,
       "topics": [
         {
@@ -155,28 +155,6 @@
           "slug": "artificial-intelligence"
         }
       ],
-      "score_details": null
-    },
-    {
-      "id": "4a473c78",
-      "title": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/06/439603.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/06/439603.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "抱抱脸模型TOP榜，我现在只服yuxinlu1  听雨 2026-06-28 21:55:50  来源：量子位   杀进一众大厂中间  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 一位个人开发者，竟然在一众大厂中，杀进了抱抱脸Models Trending榜的前排？！ 这是普通的一天，我也普通地刷着抱抱脸的Trending榜。 第一是GLM-5.2，智谱最新开源模型，老熟人了，下载量6万多，不足为奇。 第二是百度的无限OCR，最近悄悄开源的，一口气能解析40多页文档，下载量也来到了7万。 再往下看，突然出现了一个个人账号：yuxinlu1。  嗯……嗯？！ 而且一占就是两个位置。 再一看下载量——最新数据已高达20.7万和53.6万。好家伙，这是什么神仙模型来了？ 甚至在此前一周，这位个人开发者的模型一度霸榜抱抱脸，力压GLM-5.2一头，连智谱负责人都在X上公开推荐：  也就是说，在智谱、百度、Qwen、NVIDIA…这些名字中间，一个个人开发者账号硬生生挤进了TOP，而且下载量还这么高。 不禁令人好奇：luyuxin究竟是谁？怎么能量这么大？ “素人模型”冲上抱抱脸热榜",
-      "summary_zh": "抱抱脸模型TOP榜，我现在只服yuxinlu1  听雨 2026-06-28 21:55:50  来源：量子位   杀进一众大厂中间  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 一位个人开发者，竟然在一众大厂中，杀进了抱抱脸Models Trending榜的前排？！ 这是普通的一天，我也普通地刷着抱抱脸的Trending榜。 第一是GLM-5.2，智谱最新开源模型，老熟人了，下载量6万多，不足为奇。 第二是百度的无限OCR，最近悄悄开源的，一口气能解析40多页文档，下载量也来到了7万。 再往下看，突然出现了一个个人账号：yuxinlu1。  嗯……嗯？！ 而且一占就是两个位置。 再一看下载量——最新数据已高达20.7万和53.6万。好家伙，这是什么神仙模型来了？ 甚至在此前一周，这位个人开发者的模型一度霸榜抱抱脸，力压GLM-5.2一头，连智谱负责人都在X上公开推荐：  也就是说，在智谱、百度、Qwen、NVIDIA…这些名字中间，一个个人开发者账号硬生生挤进了TOP，而且下载量还这么高。 不禁令人好奇：luyuxin究竟是谁？怎么能量这么大？ “素人模型”冲上抱抱脸热榜",
-      "publishedAt": "2026-06-28T13:55:50Z",
-      "published_at": "2026-06-28T13:55:50Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
       "score_details": null
     },
     {
@@ -240,6 +218,28 @@
       "summary_zh": "本文约2500字，建议阅读5分钟 作者 | 彭孝秋  编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第四期，海光芯正。  6月29日，北京海光芯正（01191.HK）正式在港交所敲钟上市，此次IPO招股价114港元，每手50股、入场费5757.48港元。按发售价计，公司市值约102.08亿港元，募资净额约14.15亿港元。 开盘涨74.56%，报199港元，市值178亿港元。  海光芯正是一家光电互连产品提供商，主要提供光模块、AOC（有源光缆）、AEC（有源电缆），产品广泛应用于AI数据中心，以支持高速、高密度和高能效的数据传输。在这轮AI算力军备竞赛里，光模块是卖铲子的好生意：A股的“易中天”（中际旭创、新易盛、天孚通信）两年涨出近2万亿市值，是这波行情的领头羊。 海光芯正的“硅光子”——把光器件和电子集成在一块硅芯片上，被业界视为下一代光互连方向。其招股书也称具",
       "publishedAt": "2026-06-29T03:13:49Z",
       "published_at": "2026-06-29T03:13:49Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "138fa11e",
+      "title": "36氪首发 | Ebike公司获Brizan Ventures、高秉强参与超数亿融资，要进军外骨骼市场",
+      "title_en": null,
+      "url": "https://36kr.com/p/3873706225751296?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3873706225751296?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，全球智能电助力自行车品牌「URTOPIA」近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光远和声等机构持续加注。 本轮融资完成后，URTOPIA将继续加大在核心技术研发、全球市场拓展、供应链建设和组织能力升级方面的投入，并推动公司从智能电助力自行车品牌，向以户外具身智能和人机耦合智能运动技术为核心的公司发展。 在URTOPIA的长期规划中，智能E-bike并不是其业务的终点，而是其拓展“户外具身智能”领域的切入点。 在URTOPIA创始人兼CEO张波看来，相较于传统的两轮出行工具，智能E-bike由于集成了电机、电池、传感器和微控制单元，天然具备与骑行者身体及外部环境进行实时交互的基础条件。而公司的核心技术并不止于单一的电机或电控系统，而是一套完整的人机耦合系统，也是户外具身智能在运动场景中的关键技术基础。 所谓“具身智能”，是指智能系统不仅存在于虚拟的云端或屏幕内，而是拥有物理实体，能够通过传感器感知物理世界的物理规律，并通过执行机构对外部环境",
+      "summary_zh": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，全球智能电助力自行车品牌「URTOPIA」近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光远和声等机构持续加注。 本轮融资完成后，URTOPIA将继续加大在核心技术研发、全球市场拓展、供应链建设和组织能力升级方面的投入，并推动公司从智能电助力自行车品牌，向以户外具身智能和人机耦合智能运动技术为核心的公司发展。 在URTOPIA的长期规划中，智能E-bike并不是其业务的终点，而是其拓展“户外具身智能”领域的切入点。 在URTOPIA创始人兼CEO张波看来，相较于传统的两轮出行工具，智能E-bike由于集成了电机、电池、传感器和微控制单元，天然具备与骑行者身体及外部环境进行实时交互的基础条件。而公司的核心技术并不止于单一的电机或电控系统，而是一套完整的人机耦合系统，也是户外具身智能在运动场景中的关键技术基础。 所谓“具身智能”，是指智能系统不仅存在于虚拟的云端或屏幕内，而是拥有物理实体，能够通过传感器感知物理世界的物理规律，并通过执行机构对外部环境",
+      "publishedAt": "2026-06-29T03:38:16Z",
+      "published_at": "2026-06-29T03:38:16Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

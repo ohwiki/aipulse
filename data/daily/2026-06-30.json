@@ -1,0 +1,503 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-29T21:48:29Z",
+  "generatedAt": "2026-06-29T21:48:29Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "dea6bfca",
+          "title": "产品更新：Spira for Produ",
+          "title_en": "Spira for Product Hunt Makers",
+          "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Social media growth agents that build your mom",
+          "summary_zh": "Social media growth agents that build your mom",
+          "publishedAt": "2026-06-29T07:01:00Z",
+          "published_at": "2026-06-29T07:01:00Z",
+          "votes_count": 339,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "28496375",
+          "title": "产品更新：Agent Mode by R",
+          "title_en": "Agent Mode by Receiptor AI",
+          "url": "https://www.producthunt.com/products/receiptor-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/receiptor-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Bookkeeping assistant that runs receipt workfl",
+          "summary_zh": "Bookkeeping assistant that runs receipt workfl",
+          "publishedAt": "2026-06-29T07:01:00Z",
+          "published_at": "2026-06-29T07:01:00Z",
+          "votes_count": 334,
+          "featured": true,
+          "topics": [
+            {
+              "id": "94",
+              "name": "Fintech",
+              "slug": "fintech"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "764",
+              "name": "Accounting",
+              "slug": "accounting"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d6e220d7",
+          "title": "模型更新：ClinePass",
+          "title_en": "ClinePass",
+          "url": "https://www.producthunt.com/products/cline-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cline-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Run the best open-weights models in Cline Clin",
+          "summary_zh": "Run the best open-weights models in Cline Clin",
+          "publishedAt": "2026-06-29T07:01:00Z",
+          "published_at": "2026-06-29T07:01:00Z",
+          "votes_count": 266,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "47433bf3",
+          "title": "产品更新：VisibAI",
+          "title_en": "VisibAI",
+          "url": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Are you in AI answers? Find out and fix it in",
+          "summary_zh": "Are you in AI answers? Find out and fix it in",
+          "publishedAt": "2026-06-29T07:01:00Z",
+          "published_at": "2026-06-29T07:01:00Z",
+          "votes_count": 205,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "b66c0413",
+          "title": "太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/439728.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/439728.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了  梦晨 2026-06-29 08:09:59  来源：量子位   把天基计算推进到可验证、可迭代的工程路线  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 太空算力的竞赛，已经变成了一场真实的军备竞赛。 马斯克判断，到2032年，太阳能驱动的太空AI卫星，将成为全球成本最优的算力方案。 英伟达CEO黄仁勋今年三月的判断，也从某种程度上给这场竞赛定了性——任何生成数据的地方，都必须有智能存在。 两大巨头出手之后，太空算力的战场被推到了前所未有的高度，但太空计算面临的工程挑战，依然比地面残酷得多。 没有空气对流，芯片散不了热；宇宙中存在高能粒子，随时可以让芯片出错…… 而在上海，一家专注AI光计算系统的公司——光本位科技——另辟蹊径，用光计算直接绕开了这些难题。 光本位科技目前已经与东方天算联合，启动了全球首颗天基光计算卫星全球首个天基光计算载荷研制，这也是光本位科技首次将光计算带入太空工程化应用场景。  国内外计算卫星（由AI辅助生成） 另一边的马斯克，也被曝出新动向——其手下的SpaceX公司正在考虑收购光模块公司Me",
+          "summary_zh": "太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了  梦晨 2026-06-29 08:09:59  来源：量子位   把天基计算推进到可验证、可迭代的工程路线  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 太空算力的竞赛，已经变成了一场真实的军备竞赛。 马斯克判断，到2032年，太阳能驱动的太空AI卫星，将成为全球成本最优的算力方案。 英伟达CEO黄仁勋今年三月的判断，也从某种程度上给这场竞赛定了性——任何生成数据的地方，都必须有智能存在。 两大巨头出手之后，太空算力的战场被推到了前所未有的高度，但太空计算面临的工程挑战，依然比地面残酷得多。 没有空气对流，芯片散不了热；宇宙中存在高能粒子，随时可以让芯片出错…… 而在上海，一家专注AI光计算系统的公司——光本位科技——另辟蹊径，用光计算直接绕开了这些难题。 光本位科技目前已经与东方天算联合，启动了全球首颗天基光计算卫星全球首个天基光计算载荷研制，这也是光本位科技首次将光计算带入太空工程化应用场景。  国内外计算卫星（由AI辅助生成） 另一边的马斯克，也被曝出新动向——其手下的SpaceX公司正在考虑收购光模块公司Me",
+          "publishedAt": "2026-06-29T00:09:59Z",
+          "published_at": "2026-06-29T00:09:59Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "2b50ba31",
+          "title": "“词元盗用”正在成为AI商业化面临的新风险",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/439746.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/439746.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "“词元盗用”正在成为AI商业化面临的新风险  量子位的朋友们 2026-06-29 10:42:54  来源：量子位   有人盯上的不是钱，而是 Token  过去一年，AI 智能体（AI Agent）已经从技术演示逐渐进入真实商业场景。随着各种“龙虾”的爆发，越来越多AI产品开始具备自主完成任务的能力：它们能够搜索信息、调用工具、连接服务，甚至可以代表用户完成复杂工作流。正如 Stripe 全球数据与 AI 负责人 Emily Glassberg Sands 所观察到的那样，AI 正在从工具演变为互联网中的一种新型经济参与者——智能体不再只是生成内容，而是开始承担买家甚至主导交易的角色。然而，这种新的模式也会滋生新的问题——词元（Token）盗用。Emily 强调，这可能是当下 AI 行业最被低估的问题之一。 AI 时代的新型盗窃：有人盯上的不是钱，而是 Token 传统互联网时代的黑灰产，其终极目标往往是窃取用户的信用卡信息以进行非法套现。但对于当今的许多 AI 企业而言，攻击者的目标已经发生了转变：他们垂涎的不再是账户里的资金余额，而是底层昂贵的推理资源、模型能力和 Token",
+          "summary_zh": "“词元盗用”正在成为AI商业化面临的新风险  量子位的朋友们 2026-06-29 10:42:54  来源：量子位   有人盯上的不是钱，而是 Token  过去一年，AI 智能体（AI Agent）已经从技术演示逐渐进入真实商业场景。随着各种“龙虾”的爆发，越来越多AI产品开始具备自主完成任务的能力：它们能够搜索信息、调用工具、连接服务，甚至可以代表用户完成复杂工作流。正如 Stripe 全球数据与 AI 负责人 Emily Glassberg Sands 所观察到的那样，AI 正在从工具演变为互联网中的一种新型经济参与者——智能体不再只是生成内容，而是开始承担买家甚至主导交易的角色。然而，这种新的模式也会滋生新的问题——词元（Token）盗用。Emily 强调，这可能是当下 AI 行业最被低估的问题之一。 AI 时代的新型盗窃：有人盯上的不是钱，而是 Token 传统互联网时代的黑灰产，其终极目标往往是窃取用户的信用卡信息以进行非法套现。但对于当今的许多 AI 企业而言，攻击者的目标已经发生了转变：他们垂涎的不再是账户里的资金余额，而是底层昂贵的推理资源、模型能力和 Token",
+          "publishedAt": "2026-06-29T02:42:54Z",
+          "published_at": "2026-06-29T02:42:54Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "3f476a8b",
+          "title": "秋声 | 海光芯正IPO背后，卖铲生意为何越做越亏？",
+          "title_en": null,
+          "url": "https://36kr.com/p/3873681978840071?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3873681978840071?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "本文约2500字，建议阅读5分钟 作者 | 彭孝秋  编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第四期，海光芯正。  6月29日，北京海光芯正（01191.HK）正式在港交所敲钟上市，此次IPO招股价114港元，每手50股、入场费5757.48港元。按发售价计，公司市值约102.08亿港元，募资净额约14.15亿港元。 开盘涨74.56%，报199港元，市值178亿港元。  海光芯正是一家光电互连产品提供商，主要提供光模块、AOC（有源光缆）、AEC（有源电缆），产品广泛应用于AI数据中心，以支持高速、高密度和高能效的数据传输。在这轮AI算力军备竞赛里，光模块是卖铲子的好生意：A股的“易中天”（中际旭创、新易盛、天孚通信）两年涨出近2万亿市值，是这波行情的领头羊。 海光芯正的“硅光子”——把光器件和电子集成在一块硅芯片上，被业界视为下一代光互连方向。其招股书也称具",
+          "summary_zh": "本文约2500字，建议阅读5分钟 作者 | 彭孝秋  编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第四期，海光芯正。  6月29日，北京海光芯正（01191.HK）正式在港交所敲钟上市，此次IPO招股价114港元，每手50股、入场费5757.48港元。按发售价计，公司市值约102.08亿港元，募资净额约14.15亿港元。 开盘涨74.56%，报199港元，市值178亿港元。  海光芯正是一家光电互连产品提供商，主要提供光模块、AOC（有源光缆）、AEC（有源电缆），产品广泛应用于AI数据中心，以支持高速、高密度和高能效的数据传输。在这轮AI算力军备竞赛里，光模块是卖铲子的好生意：A股的“易中天”（中际旭创、新易盛、天孚通信）两年涨出近2万亿市值，是这波行情的领头羊。 海光芯正的“硅光子”——把光器件和电子集成在一块硅芯片上，被业界视为下一代光互连方向。其招股书也称具",
+          "publishedAt": "2026-06-29T03:13:49Z",
+          "published_at": "2026-06-29T03:13:49Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "138fa11e",
+          "title": "36氪首发 | Ebike公司获Brizan Ventures、高秉强参与超数亿融资，要进军外骨骼市场",
+          "title_en": null,
+          "url": "https://36kr.com/p/3873706225751296?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3873706225751296?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，全球智能电助力自行车品牌「URTOPIA」近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光远和声等机构持续加注。 本轮融资完成后，URTOPIA将继续加大在核心技术研发、全球市场拓展、供应链建设和组织能力升级方面的投入，并推动公司从智能电助力自行车品牌，向以户外具身智能和人机耦合智能运动技术为核心的公司发展。 在URTOPIA的长期规划中，智能E-bike并不是其业务的终点，而是其拓展“户外具身智能”领域的切入点。 在URTOPIA创始人兼CEO张波看来，相较于传统的两轮出行工具，智能E-bike由于集成了电机、电池、传感器和微控制单元，天然具备与骑行者身体及外部环境进行实时交互的基础条件。而公司的核心技术并不止于单一的电机或电控系统，而是一套完整的人机耦合系统，也是户外具身智能在运动场景中的关键技术基础。 所谓“具身智能”，是指智能系统不仅存在于虚拟的云端或屏幕内，而是拥有物理实体，能够通过传感器感知物理世界的物理规律，并通过执行机构对外部环境",
+          "summary_zh": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，全球智能电助力自行车品牌「URTOPIA」近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光远和声等机构持续加注。 本轮融资完成后，URTOPIA将继续加大在核心技术研发、全球市场拓展、供应链建设和组织能力升级方面的投入，并推动公司从智能电助力自行车品牌，向以户外具身智能和人机耦合智能运动技术为核心的公司发展。 在URTOPIA的长期规划中，智能E-bike并不是其业务的终点，而是其拓展“户外具身智能”领域的切入点。 在URTOPIA创始人兼CEO张波看来，相较于传统的两轮出行工具，智能E-bike由于集成了电机、电池、传感器和微控制单元，天然具备与骑行者身体及外部环境进行实时交互的基础条件。而公司的核心技术并不止于单一的电机或电控系统，而是一套完整的人机耦合系统，也是户外具身智能在运动场景中的关键技术基础。 所谓“具身智能”，是指智能系统不仅存在于虚拟的云端或屏幕内，而是拥有物理实体，能够通过传感器感知物理世界的物理规律，并通过执行机构对外部环境",
+          "publishedAt": "2026-06-29T03:38:16Z",
+          "published_at": "2026-06-29T03:38:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "dea6bfca",
+      "title": "产品更新：Spira for Produ",
+      "title_en": "Spira for Product Hunt Makers",
+      "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Social media growth agents that build your mom",
+      "summary_zh": "Social media growth agents that build your mom",
+      "publishedAt": "2026-06-29T07:01:00Z",
+      "published_at": "2026-06-29T07:01:00Z",
+      "votes_count": 339,
+      "featured": true,
+      "topics": [
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "28496375",
+      "title": "产品更新：Agent Mode by R",
+      "title_en": "Agent Mode by Receiptor AI",
+      "url": "https://www.producthunt.com/products/receiptor-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/receiptor-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Bookkeeping assistant that runs receipt workfl",
+      "summary_zh": "Bookkeeping assistant that runs receipt workfl",
+      "publishedAt": "2026-06-29T07:01:00Z",
+      "published_at": "2026-06-29T07:01:00Z",
+      "votes_count": 334,
+      "featured": true,
+      "topics": [
+        {
+          "id": "94",
+          "name": "Fintech",
+          "slug": "fintech"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "764",
+          "name": "Accounting",
+          "slug": "accounting"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d6e220d7",
+      "title": "模型更新：ClinePass",
+      "title_en": "ClinePass",
+      "url": "https://www.producthunt.com/products/cline-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cline-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Run the best open-weights models in Cline Clin",
+      "summary_zh": "Run the best open-weights models in Cline Clin",
+      "publishedAt": "2026-06-29T07:01:00Z",
+      "published_at": "2026-06-29T07:01:00Z",
+      "votes_count": 266,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "47433bf3",
+      "title": "产品更新：VisibAI",
+      "title_en": "VisibAI",
+      "url": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Are you in AI answers? Find out and fix it in",
+      "summary_zh": "Are you in AI answers? Find out and fix it in",
+      "publishedAt": "2026-06-29T07:01:00Z",
+      "published_at": "2026-06-29T07:01:00Z",
+      "votes_count": 205,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "231",
+          "name": "SEO",
+          "slug": "seo"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b66c0413",
+      "title": "太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/439728.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/439728.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了  梦晨 2026-06-29 08:09:59  来源：量子位   把天基计算推进到可验证、可迭代的工程路线  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 太空算力的竞赛，已经变成了一场真实的军备竞赛。 马斯克判断，到2032年，太阳能驱动的太空AI卫星，将成为全球成本最优的算力方案。 英伟达CEO黄仁勋今年三月的判断，也从某种程度上给这场竞赛定了性——任何生成数据的地方，都必须有智能存在。 两大巨头出手之后，太空算力的战场被推到了前所未有的高度，但太空计算面临的工程挑战，依然比地面残酷得多。 没有空气对流，芯片散不了热；宇宙中存在高能粒子，随时可以让芯片出错…… 而在上海，一家专注AI光计算系统的公司——光本位科技——另辟蹊径，用光计算直接绕开了这些难题。 光本位科技目前已经与东方天算联合，启动了全球首颗天基光计算卫星全球首个天基光计算载荷研制，这也是光本位科技首次将光计算带入太空工程化应用场景。  国内外计算卫星（由AI辅助生成） 另一边的马斯克，也被曝出新动向——其手下的SpaceX公司正在考虑收购光模块公司Me",
+      "summary_zh": "太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了  梦晨 2026-06-29 08:09:59  来源：量子位   把天基计算推进到可验证、可迭代的工程路线  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 太空算力的竞赛，已经变成了一场真实的军备竞赛。 马斯克判断，到2032年，太阳能驱动的太空AI卫星，将成为全球成本最优的算力方案。 英伟达CEO黄仁勋今年三月的判断，也从某种程度上给这场竞赛定了性——任何生成数据的地方，都必须有智能存在。 两大巨头出手之后，太空算力的战场被推到了前所未有的高度，但太空计算面临的工程挑战，依然比地面残酷得多。 没有空气对流，芯片散不了热；宇宙中存在高能粒子，随时可以让芯片出错…… 而在上海，一家专注AI光计算系统的公司——光本位科技——另辟蹊径，用光计算直接绕开了这些难题。 光本位科技目前已经与东方天算联合，启动了全球首颗天基光计算卫星全球首个天基光计算载荷研制，这也是光本位科技首次将光计算带入太空工程化应用场景。  国内外计算卫星（由AI辅助生成） 另一边的马斯克，也被曝出新动向——其手下的SpaceX公司正在考虑收购光模块公司Me",
+      "publishedAt": "2026-06-29T00:09:59Z",
+      "published_at": "2026-06-29T00:09:59Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "2b50ba31",
+      "title": "“词元盗用”正在成为AI商业化面临的新风险",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/439746.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/439746.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "“词元盗用”正在成为AI商业化面临的新风险  量子位的朋友们 2026-06-29 10:42:54  来源：量子位   有人盯上的不是钱，而是 Token  过去一年，AI 智能体（AI Agent）已经从技术演示逐渐进入真实商业场景。随着各种“龙虾”的爆发，越来越多AI产品开始具备自主完成任务的能力：它们能够搜索信息、调用工具、连接服务，甚至可以代表用户完成复杂工作流。正如 Stripe 全球数据与 AI 负责人 Emily Glassberg Sands 所观察到的那样，AI 正在从工具演变为互联网中的一种新型经济参与者——智能体不再只是生成内容，而是开始承担买家甚至主导交易的角色。然而，这种新的模式也会滋生新的问题——词元（Token）盗用。Emily 强调，这可能是当下 AI 行业最被低估的问题之一。 AI 时代的新型盗窃：有人盯上的不是钱，而是 Token 传统互联网时代的黑灰产，其终极目标往往是窃取用户的信用卡信息以进行非法套现。但对于当今的许多 AI 企业而言，攻击者的目标已经发生了转变：他们垂涎的不再是账户里的资金余额，而是底层昂贵的推理资源、模型能力和 Token",
+      "summary_zh": "“词元盗用”正在成为AI商业化面临的新风险  量子位的朋友们 2026-06-29 10:42:54  来源：量子位   有人盯上的不是钱，而是 Token  过去一年，AI 智能体（AI Agent）已经从技术演示逐渐进入真实商业场景。随着各种“龙虾”的爆发，越来越多AI产品开始具备自主完成任务的能力：它们能够搜索信息、调用工具、连接服务，甚至可以代表用户完成复杂工作流。正如 Stripe 全球数据与 AI 负责人 Emily Glassberg Sands 所观察到的那样，AI 正在从工具演变为互联网中的一种新型经济参与者——智能体不再只是生成内容，而是开始承担买家甚至主导交易的角色。然而，这种新的模式也会滋生新的问题——词元（Token）盗用。Emily 强调，这可能是当下 AI 行业最被低估的问题之一。 AI 时代的新型盗窃：有人盯上的不是钱，而是 Token 传统互联网时代的黑灰产，其终极目标往往是窃取用户的信用卡信息以进行非法套现。但对于当今的许多 AI 企业而言，攻击者的目标已经发生了转变：他们垂涎的不再是账户里的资金余额，而是底层昂贵的推理资源、模型能力和 Token",
+      "publishedAt": "2026-06-29T02:42:54Z",
+      "published_at": "2026-06-29T02:42:54Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "3f476a8b",
+      "title": "秋声 | 海光芯正IPO背后，卖铲生意为何越做越亏？",
+      "title_en": null,
+      "url": "https://36kr.com/p/3873681978840071?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3873681978840071?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "本文约2500字，建议阅读5分钟 作者 | 彭孝秋  编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第四期，海光芯正。  6月29日，北京海光芯正（01191.HK）正式在港交所敲钟上市，此次IPO招股价114港元，每手50股、入场费5757.48港元。按发售价计，公司市值约102.08亿港元，募资净额约14.15亿港元。 开盘涨74.56%，报199港元，市值178亿港元。  海光芯正是一家光电互连产品提供商，主要提供光模块、AOC（有源光缆）、AEC（有源电缆），产品广泛应用于AI数据中心，以支持高速、高密度和高能效的数据传输。在这轮AI算力军备竞赛里，光模块是卖铲子的好生意：A股的“易中天”（中际旭创、新易盛、天孚通信）两年涨出近2万亿市值，是这波行情的领头羊。 海光芯正的“硅光子”——把光器件和电子集成在一块硅芯片上，被业界视为下一代光互连方向。其招股书也称具",
+      "summary_zh": "本文约2500字，建议阅读5分钟 作者 | 彭孝秋  编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第四期，海光芯正。  6月29日，北京海光芯正（01191.HK）正式在港交所敲钟上市，此次IPO招股价114港元，每手50股、入场费5757.48港元。按发售价计，公司市值约102.08亿港元，募资净额约14.15亿港元。 开盘涨74.56%，报199港元，市值178亿港元。  海光芯正是一家光电互连产品提供商，主要提供光模块、AOC（有源光缆）、AEC（有源电缆），产品广泛应用于AI数据中心，以支持高速、高密度和高能效的数据传输。在这轮AI算力军备竞赛里，光模块是卖铲子的好生意：A股的“易中天”（中际旭创、新易盛、天孚通信）两年涨出近2万亿市值，是这波行情的领头羊。 海光芯正的“硅光子”——把光器件和电子集成在一块硅芯片上，被业界视为下一代光互连方向。其招股书也称具",
+      "publishedAt": "2026-06-29T03:13:49Z",
+      "published_at": "2026-06-29T03:13:49Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "138fa11e",
+      "title": "36氪首发 | Ebike公司获Brizan Ventures、高秉强参与超数亿融资，要进军外骨骼市场",
+      "title_en": null,
+      "url": "https://36kr.com/p/3873706225751296?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3873706225751296?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，全球智能电助力自行车品牌「URTOPIA」近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光远和声等机构持续加注。 本轮融资完成后，URTOPIA将继续加大在核心技术研发、全球市场拓展、供应链建设和组织能力升级方面的投入，并推动公司从智能电助力自行车品牌，向以户外具身智能和人机耦合智能运动技术为核心的公司发展。 在URTOPIA的长期规划中，智能E-bike并不是其业务的终点，而是其拓展“户外具身智能”领域的切入点。 在URTOPIA创始人兼CEO张波看来，相较于传统的两轮出行工具，智能E-bike由于集成了电机、电池、传感器和微控制单元，天然具备与骑行者身体及外部环境进行实时交互的基础条件。而公司的核心技术并不止于单一的电机或电控系统，而是一套完整的人机耦合系统，也是户外具身智能在运动场景中的关键技术基础。 所谓“具身智能”，是指智能系统不仅存在于虚拟的云端或屏幕内，而是拥有物理实体，能够通过传感器感知物理世界的物理规律，并通过执行机构对外部环境",
+      "summary_zh": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，全球智能电助力自行车品牌「URTOPIA」近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光远和声等机构持续加注。 本轮融资完成后，URTOPIA将继续加大在核心技术研发、全球市场拓展、供应链建设和组织能力升级方面的投入，并推动公司从智能电助力自行车品牌，向以户外具身智能和人机耦合智能运动技术为核心的公司发展。 在URTOPIA的长期规划中，智能E-bike并不是其业务的终点，而是其拓展“户外具身智能”领域的切入点。 在URTOPIA创始人兼CEO张波看来，相较于传统的两轮出行工具，智能E-bike由于集成了电机、电池、传感器和微控制单元，天然具备与骑行者身体及外部环境进行实时交互的基础条件。而公司的核心技术并不止于单一的电机或电控系统，而是一套完整的人机耦合系统，也是户外具身智能在运动场景中的关键技术基础。 所谓“具身智能”，是指智能系统不仅存在于虚拟的云端或屏幕内，而是拥有物理实体，能够通过传感器感知物理世界的物理规律，并通过执行机构对外部环境",
+      "publishedAt": "2026-06-29T03:38:16Z",
+      "published_at": "2026-06-29T03:38:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

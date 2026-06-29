@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-06-29T12:45:43Z",
-  "generatedAt": "2026-06-29T12:45:43Z",
-  "count": 48,
-  "total": 48,
+  "generated_at": "2026-06-29T21:48:29Z",
+  "generatedAt": "2026-06-29T21:48:29Z",
+  "count": 49,
+  "total": 49,
   "entries": [
+    {
+      "date": "2026-06-30",
+      "generated_at": "2026-06-29T21:48:29Z",
+      "generatedAt": "2026-06-29T21:48:29Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "dea6bfca",
+          "title": "产品更新：Spira for Produ",
+          "title_en": "Spira for Product Hunt Makers",
+          "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Social media growth agents that build your mom",
+          "summary_zh": "Social media growth agents that build your mom",
+          "publishedAt": "2026-06-29T07:01:00Z",
+          "published_at": "2026-06-29T07:01:00Z",
+          "votes_count": 339,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "28496375",
+          "title": "产品更新：Agent Mode by R",
+          "title_en": "Agent Mode by Receiptor AI",
+          "url": "https://www.producthunt.com/products/receiptor-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/receiptor-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Bookkeeping assistant that runs receipt workfl",
+          "summary_zh": "Bookkeeping assistant that runs receipt workfl",
+          "publishedAt": "2026-06-29T07:01:00Z",
+          "published_at": "2026-06-29T07:01:00Z",
+          "votes_count": 334,
+          "featured": true,
+          "topics": [
+            {
+              "id": "94",
+              "name": "Fintech",
+              "slug": "fintech"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "764",
+              "name": "Accounting",
+              "slug": "accounting"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d6e220d7",
+          "title": "模型更新：ClinePass",
+          "title_en": "ClinePass",
+          "url": "https://www.producthunt.com/products/cline-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cline-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Run the best open-weights models in Cline Clin",
+          "summary_zh": "Run the best open-weights models in Cline Clin",
+          "publishedAt": "2026-06-29T07:01:00Z",
+          "published_at": "2026-06-29T07:01:00Z",
+          "votes_count": 266,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-29",
       "generated_at": "2026-06-29T12:45:43Z",
