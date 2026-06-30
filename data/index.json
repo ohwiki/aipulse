@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-06-30T11:26:01Z",
-  "generatedAt": "2026-06-30T11:26:01Z",
-  "count": 49,
-  "total": 49,
+  "generated_at": "2026-06-30T21:52:01Z",
+  "generatedAt": "2026-06-30T21:52:01Z",
+  "count": 50,
+  "total": 50,
   "entries": [
+    {
+      "date": "2026-07-01",
+      "generated_at": "2026-06-30T21:52:01Z",
+      "generatedAt": "2026-06-30T21:52:01Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "4110d1f5",
+          "title": "产品更新：Cursor for iOS",
+          "title_en": "Cursor for iOS",
+          "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build with coding agents from anywhere Cursor",
+          "summary_zh": "Build with coding agents from anywhere Cursor",
+          "publishedAt": "2026-06-30T07:01:00Z",
+          "published_at": "2026-06-30T07:01:00Z",
+          "votes_count": 445,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "adcc0e35",
+          "title": "产品更新：Skills Marketpl",
+          "title_en": "Skills Marketplace by Databox",
+          "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Ready-made AI analytics skills for your busine",
+          "summary_zh": "Ready-made AI analytics skills for your busine",
+          "publishedAt": "2026-06-30T07:01:00Z",
+          "published_at": "2026-06-30T07:01:00Z",
+          "votes_count": 310,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "12e90ef3",
+          "title": "模型更新：Foresight by Li",
+          "title_en": "Foresight by Lightning Rod",
+          "url": "https://www.producthunt.com/products/training-data-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/training-data-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Predict anything with AI Foresight by Lightnin",
+          "summary_zh": "Predict anything with AI Foresight by Lightnin",
+          "publishedAt": "2026-06-30T07:01:00Z",
+          "published_at": "2026-06-30T07:01:00Z",
+          "votes_count": 265,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-06-30",
       "generated_at": "2026-06-30T11:26:01Z",

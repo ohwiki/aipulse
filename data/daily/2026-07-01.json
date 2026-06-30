@@ -1,0 +1,503 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-06-30T21:52:01Z",
+  "generatedAt": "2026-06-30T21:52:01Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "4110d1f5",
+          "title": "产品更新：Cursor for iOS",
+          "title_en": "Cursor for iOS",
+          "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Build with coding agents from anywhere Cursor",
+          "summary_zh": "Build with coding agents from anywhere Cursor",
+          "publishedAt": "2026-06-30T07:01:00Z",
+          "published_at": "2026-06-30T07:01:00Z",
+          "votes_count": 445,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "adcc0e35",
+          "title": "产品更新：Skills Marketpl",
+          "title_en": "Skills Marketplace by Databox",
+          "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Ready-made AI analytics skills for your busine",
+          "summary_zh": "Ready-made AI analytics skills for your busine",
+          "publishedAt": "2026-06-30T07:01:00Z",
+          "published_at": "2026-06-30T07:01:00Z",
+          "votes_count": 310,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "12e90ef3",
+          "title": "模型更新：Foresight by Li",
+          "title_en": "Foresight by Lightning Rod",
+          "url": "https://www.producthunt.com/products/training-data-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/training-data-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Predict anything with AI Foresight by Lightnin",
+          "summary_zh": "Predict anything with AI Foresight by Lightnin",
+          "publishedAt": "2026-06-30T07:01:00Z",
+          "published_at": "2026-06-30T07:01:00Z",
+          "votes_count": 265,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "81b8cce0",
+          "title": "产品更新：Akiflow",
+          "title_en": "Akiflow",
+          "url": "https://www.producthunt.com/products/akiflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/akiflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Manage tasks and calendars from Claude, ChatGP",
+          "summary_zh": "Manage tasks and calendars from Claude, ChatGP",
+          "publishedAt": "2026-06-30T07:01:00Z",
+          "published_at": "2026-06-30T07:01:00Z",
+          "votes_count": 217,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "256",
+              "name": "Calendar",
+              "slug": "calendar"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "ff2fee7b",
+          "title": "8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模产业投资计划；哈啰出行回应骑79分钟需支付30元",
+          "title_en": null,
+          "url": "https://36kr.com/p/3874911939482880?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3874911939482880?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览  马斯克宣布Grok4.5开启SpaceX与特斯拉内部私测，性能或超越Claude Opus 美的回应空调产品在欧洲被疯抢 蔚来回应车漆洗车时被冲掉：高压水枪操作不规范 滚石唱片就屠颖去世追责万豪喜来登 百度昆仑芯拟赴港IPO  TOP 3大新闻 涉嫌操纵内存价格，三星、SK海力士、美光遭集体诉讼 随着全球内存短缺危机加剧，美国当地消费者和小型企业已采取法律行动。据悉，全球最大的三家内存供应商——三星、SK海力士和美光已因涉嫌操纵内存价格并限制全球供应而遭到集体诉讼。诉讼于6月25日在在美国加利福尼亚州联邦法院提起。诉状指出，这三家公司几乎控制着全球DRAM(动态随机存取存储器)市场的全部供应，却在价格大幅上涨期间限制传统DRAM产品供应，进一步加剧了当前的内存短缺危机。值得注意的是，就在几天前，苹果成为最新一家因存储芯片成本上涨而提高部分产品售价的科技公司。此外，多家手机厂商也已纷纷提价。（财联社） 韩国启动史上最大规模产业投资计划 6月29日，韩国政府宣布迄今规模最大的半导体与人工智能产业投资计划，总投资规模超过5760亿美元，将半导体、物理AI与AI数据中心定位为韩",
+          "summary_zh": "今日热点导览  马斯克宣布Grok4.5开启SpaceX与特斯拉内部私测，性能或超越Claude Opus 美的回应空调产品在欧洲被疯抢 蔚来回应车漆洗车时被冲掉：高压水枪操作不规范 滚石唱片就屠颖去世追责万豪喜来登 百度昆仑芯拟赴港IPO  TOP 3大新闻 涉嫌操纵内存价格，三星、SK海力士、美光遭集体诉讼 随着全球内存短缺危机加剧，美国当地消费者和小型企业已采取法律行动。据悉，全球最大的三家内存供应商——三星、SK海力士和美光已因涉嫌操纵内存价格并限制全球供应而遭到集体诉讼。诉讼于6月25日在在美国加利福尼亚州联邦法院提起。诉状指出，这三家公司几乎控制着全球DRAM(动态随机存取存储器)市场的全部供应，却在价格大幅上涨期间限制传统DRAM产品供应，进一步加剧了当前的内存短缺危机。值得注意的是，就在几天前，苹果成为最新一家因存储芯片成本上涨而提高部分产品售价的科技公司。此外，多家手机厂商也已纷纷提价。（财联社） 韩国启动史上最大规模产业投资计划 6月29日，韩国政府宣布迄今规模最大的半导体与人工智能产业投资计划，总投资规模超过5760亿美元，将半导体、物理AI与AI数据中心定位为韩",
+          "publishedAt": "2026-06-30T00:05:46Z",
+          "published_at": "2026-06-30T00:05:46Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "c084b393",
+          "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+          "title_en": null,
+          "url": "https://36kr.com/p/3875059110221064?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3875059110221064?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。 纽娲机器人（下称“纽娲”）成立于2026年2月，半年不到的时间已先后获得多家财务、产业基金投资。创始人杨睿刚博士，长期从事3D视觉、仿真技术和自动驾驶/机器人研究，曾任百度自动驾驶与机器人实验室主任，并曾任自动驾驶卡车企业嬴彻科技CTO，推动L3级自动驾驶重卡量产落地，具有丰富的产业与创业经验，目前为上海交通大学特聘教授。 随着具身智能赛道持续升温，“具身不存在大一统模型”正逐渐成为行业共识。 当前，头部玩家普遍认同“分层解耦”是必由之路，但解耦的维度不同。海外玩家多按推理时间尺度解耦：Figure 的 Helix（System 1 / System 2，后扩展至 System 0）与 NVIDIA 的 GR00T N1，都是分离“慢思考”的规划层与“快反应”的控制层。国内玩家多按能力类型拆分：智元“一体三智”拆分 Locomotion、Manipulation",
+          "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。 纽娲机器人（下称“纽娲”）成立于2026年2月，半年不到的时间已先后获得多家财务、产业基金投资。创始人杨睿刚博士，长期从事3D视觉、仿真技术和自动驾驶/机器人研究，曾任百度自动驾驶与机器人实验室主任，并曾任自动驾驶卡车企业嬴彻科技CTO，推动L3级自动驾驶重卡量产落地，具有丰富的产业与创业经验，目前为上海交通大学特聘教授。 随着具身智能赛道持续升温，“具身不存在大一统模型”正逐渐成为行业共识。 当前，头部玩家普遍认同“分层解耦”是必由之路，但解耦的维度不同。海外玩家多按推理时间尺度解耦：Figure 的 Helix（System 1 / System 2，后扩展至 System 0）与 NVIDIA 的 GR00T N1，都是分离“慢思考”的规划层与“快反应”的控制层。国内玩家多按能力类型拆分：智元“一体三智”拆分 Locomotion、Manipulation",
+          "publishedAt": "2026-06-30T02:35:33Z",
+          "published_at": "2026-06-30T02:35:33Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "c98f35a3",
+          "title": "万亿市场格局未定：「端侧原生」，一家中国AI公司给物理AI抛了个新解法",
+          "title_en": null,
+          "url": "https://36kr.com/p/3875047283659777?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3875047283659777?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "过去几年，AI的战场在屏幕里。GPT系列用参数堆出了惊人的语言能力，Sora用视频生成震撼了全世界……但2026年，产业界达成了一组共识：2026年，是物理AI的元年。  年初拉斯维加斯CES上，英伟达CEO黄仁勋用一场演讲，17遍提及物理AI，用以宣布“物理AI的ChatGPT时刻已经来了”。这也是他近两年一直推崇备至的关键词。而在过去的2年多时间里，物理AI在“大脑”（VLA模型）、“想象引擎”（世界模型）、训练场、本体及商业闭环五个维度取得关键进展，行业已初步具备走出演示环境、向真实场景探索的技术基础。 就在2026年上半年，全球物理AI领域的资本流动呈现出惊人的密度和规模。光一季度，全球物理AI融资就超过了64亿美元。其中不乏AMI Labs10.3亿美元种子轮、World Labs10亿美元融资，国内千寻智能三月完成四轮45亿元融资的案例。同时，物理AI的技术路线也呈现出清晰的产业分化。基础模型层呈现VLM、VLA与世界模型三条路径收敛之势。世界模型作为后台数据工厂合成训练数据，VLM承担长程规划的“慢思考”，VLA则把指令与感知直接转化为动作。 技术路线似乎已然固化，核心观",
+          "summary_zh": "过去几年，AI的战场在屏幕里。GPT系列用参数堆出了惊人的语言能力，Sora用视频生成震撼了全世界……但2026年，产业界达成了一组共识：2026年，是物理AI的元年。  年初拉斯维加斯CES上，英伟达CEO黄仁勋用一场演讲，17遍提及物理AI，用以宣布“物理AI的ChatGPT时刻已经来了”。这也是他近两年一直推崇备至的关键词。而在过去的2年多时间里，物理AI在“大脑”（VLA模型）、“想象引擎”（世界模型）、训练场、本体及商业闭环五个维度取得关键进展，行业已初步具备走出演示环境、向真实场景探索的技术基础。 就在2026年上半年，全球物理AI领域的资本流动呈现出惊人的密度和规模。光一季度，全球物理AI融资就超过了64亿美元。其中不乏AMI Labs10.3亿美元种子轮、World Labs10亿美元融资，国内千寻智能三月完成四轮45亿元融资的案例。同时，物理AI的技术路线也呈现出清晰的产业分化。基础模型层呈现VLM、VLA与世界模型三条路径收敛之势。世界模型作为后台数据工厂合成训练数据，VLM承担长程规划的“慢思考”，VLA则把指令与感知直接转化为动作。 技术路线似乎已然固化，核心观",
+          "publishedAt": "2026-06-30T03:24:49Z",
+          "published_at": "2026-06-30T03:24:49Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0fbdb240",
+          "title": "破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/06/440162.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/06/440162.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨  衡宇 2026-06-30 12:08:11  来源：量子位   好消息是V4正式版能力有升级   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  也是神奇，价格屠夫DeepSeek，破天荒要涨价了！ 这两天不少开发者收到了DeepSeek官方邮件，说DeepSeek V4正式版会在下个月（7月）上线。 但事情突然不对劲起来——高峰时段，API的输入token（缓存命中）、输入token（缓存未命中）、输出token，价格统统x2。    不过，价格屠夫的地位毕竟摆在那儿，哪怕是高峰时段涨价，大家也还是连连感叹，真便宜啊真便宜。 大多人都和0xSupergemma的创始人Jun Song一样：    真·反常，DeepSeek V4正式版高峰期价格x2 DeepSeek模型涨价，这还真是大姑娘上轿头一回。 它过去留给大家的印象太鲜明了：便宜。 甚至是会把同行价格体系打出一个坑的便宜。 从V3到R1再到预览版V4，不断破圈的DeepSeek每次让人眼前一亮又一亮，一方面是模型能力本身出色，与此同时，价格也是它最锋利",
+          "summary_zh": "破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨  衡宇 2026-06-30 12:08:11  来源：量子位   好消息是V4正式版能力有升级   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  也是神奇，价格屠夫DeepSeek，破天荒要涨价了！ 这两天不少开发者收到了DeepSeek官方邮件，说DeepSeek V4正式版会在下个月（7月）上线。 但事情突然不对劲起来——高峰时段，API的输入token（缓存命中）、输入token（缓存未命中）、输出token，价格统统x2。    不过，价格屠夫的地位毕竟摆在那儿，哪怕是高峰时段涨价，大家也还是连连感叹，真便宜啊真便宜。 大多人都和0xSupergemma的创始人Jun Song一样：    真·反常，DeepSeek V4正式版高峰期价格x2 DeepSeek模型涨价，这还真是大姑娘上轿头一回。 它过去留给大家的印象太鲜明了：便宜。 甚至是会把同行价格体系打出一个坑的便宜。 从V3到R1再到预览版V4，不断破圈的DeepSeek每次让人眼前一亮又一亮，一方面是模型能力本身出色，与此同时，价格也是它最锋利",
+          "publishedAt": "2026-06-30T04:08:11Z",
+          "published_at": "2026-06-30T04:08:11Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "4110d1f5",
+      "title": "产品更新：Cursor for iOS",
+      "title_en": "Cursor for iOS",
+      "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build with coding agents from anywhere Cursor",
+      "summary_zh": "Build with coding agents from anywhere Cursor",
+      "publishedAt": "2026-06-30T07:01:00Z",
+      "published_at": "2026-06-30T07:01:00Z",
+      "votes_count": 445,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        },
+        {
+          "id": "1194",
+          "name": "Vibe coding",
+          "slug": "vibe-coding"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "adcc0e35",
+      "title": "产品更新：Skills Marketpl",
+      "title_en": "Skills Marketplace by Databox",
+      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Ready-made AI analytics skills for your busine",
+      "summary_zh": "Ready-made AI analytics skills for your busine",
+      "publishedAt": "2026-06-30T07:01:00Z",
+      "published_at": "2026-06-30T07:01:00Z",
+      "votes_count": 310,
+      "featured": true,
+      "topics": [
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "12e90ef3",
+      "title": "模型更新：Foresight by Li",
+      "title_en": "Foresight by Lightning Rod",
+      "url": "https://www.producthunt.com/products/training-data-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/training-data-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Predict anything with AI Foresight by Lightnin",
+      "summary_zh": "Predict anything with AI Foresight by Lightnin",
+      "publishedAt": "2026-06-30T07:01:00Z",
+      "published_at": "2026-06-30T07:01:00Z",
+      "votes_count": 265,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "81b8cce0",
+      "title": "产品更新：Akiflow",
+      "title_en": "Akiflow",
+      "url": "https://www.producthunt.com/products/akiflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/akiflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Manage tasks and calendars from Claude, ChatGP",
+      "summary_zh": "Manage tasks and calendars from Claude, ChatGP",
+      "publishedAt": "2026-06-30T07:01:00Z",
+      "published_at": "2026-06-30T07:01:00Z",
+      "votes_count": 217,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "256",
+          "name": "Calendar",
+          "slug": "calendar"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ff2fee7b",
+      "title": "8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模产业投资计划；哈啰出行回应骑79分钟需支付30元",
+      "title_en": null,
+      "url": "https://36kr.com/p/3874911939482880?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3874911939482880?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览  马斯克宣布Grok4.5开启SpaceX与特斯拉内部私测，性能或超越Claude Opus 美的回应空调产品在欧洲被疯抢 蔚来回应车漆洗车时被冲掉：高压水枪操作不规范 滚石唱片就屠颖去世追责万豪喜来登 百度昆仑芯拟赴港IPO  TOP 3大新闻 涉嫌操纵内存价格，三星、SK海力士、美光遭集体诉讼 随着全球内存短缺危机加剧，美国当地消费者和小型企业已采取法律行动。据悉，全球最大的三家内存供应商——三星、SK海力士和美光已因涉嫌操纵内存价格并限制全球供应而遭到集体诉讼。诉讼于6月25日在在美国加利福尼亚州联邦法院提起。诉状指出，这三家公司几乎控制着全球DRAM(动态随机存取存储器)市场的全部供应，却在价格大幅上涨期间限制传统DRAM产品供应，进一步加剧了当前的内存短缺危机。值得注意的是，就在几天前，苹果成为最新一家因存储芯片成本上涨而提高部分产品售价的科技公司。此外，多家手机厂商也已纷纷提价。（财联社） 韩国启动史上最大规模产业投资计划 6月29日，韩国政府宣布迄今规模最大的半导体与人工智能产业投资计划，总投资规模超过5760亿美元，将半导体、物理AI与AI数据中心定位为韩",
+      "summary_zh": "今日热点导览  马斯克宣布Grok4.5开启SpaceX与特斯拉内部私测，性能或超越Claude Opus 美的回应空调产品在欧洲被疯抢 蔚来回应车漆洗车时被冲掉：高压水枪操作不规范 滚石唱片就屠颖去世追责万豪喜来登 百度昆仑芯拟赴港IPO  TOP 3大新闻 涉嫌操纵内存价格，三星、SK海力士、美光遭集体诉讼 随着全球内存短缺危机加剧，美国当地消费者和小型企业已采取法律行动。据悉，全球最大的三家内存供应商——三星、SK海力士和美光已因涉嫌操纵内存价格并限制全球供应而遭到集体诉讼。诉讼于6月25日在在美国加利福尼亚州联邦法院提起。诉状指出，这三家公司几乎控制着全球DRAM(动态随机存取存储器)市场的全部供应，却在价格大幅上涨期间限制传统DRAM产品供应，进一步加剧了当前的内存短缺危机。值得注意的是，就在几天前，苹果成为最新一家因存储芯片成本上涨而提高部分产品售价的科技公司。此外，多家手机厂商也已纷纷提价。（财联社） 韩国启动史上最大规模产业投资计划 6月29日，韩国政府宣布迄今规模最大的半导体与人工智能产业投资计划，总投资规模超过5760亿美元，将半导体、物理AI与AI数据中心定位为韩",
+      "publishedAt": "2026-06-30T00:05:46Z",
+      "published_at": "2026-06-30T00:05:46Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "c084b393",
+      "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+      "title_en": null,
+      "url": "https://36kr.com/p/3875059110221064?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3875059110221064?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。 纽娲机器人（下称“纽娲”）成立于2026年2月，半年不到的时间已先后获得多家财务、产业基金投资。创始人杨睿刚博士，长期从事3D视觉、仿真技术和自动驾驶/机器人研究，曾任百度自动驾驶与机器人实验室主任，并曾任自动驾驶卡车企业嬴彻科技CTO，推动L3级自动驾驶重卡量产落地，具有丰富的产业与创业经验，目前为上海交通大学特聘教授。 随着具身智能赛道持续升温，“具身不存在大一统模型”正逐渐成为行业共识。 当前，头部玩家普遍认同“分层解耦”是必由之路，但解耦的维度不同。海外玩家多按推理时间尺度解耦：Figure 的 Helix（System 1 / System 2，后扩展至 System 0）与 NVIDIA 的 GR00T N1，都是分离“慢思考”的规划层与“快反应”的控制层。国内玩家多按能力类型拆分：智元“一体三智”拆分 Locomotion、Manipulation",
+      "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。 纽娲机器人（下称“纽娲”）成立于2026年2月，半年不到的时间已先后获得多家财务、产业基金投资。创始人杨睿刚博士，长期从事3D视觉、仿真技术和自动驾驶/机器人研究，曾任百度自动驾驶与机器人实验室主任，并曾任自动驾驶卡车企业嬴彻科技CTO，推动L3级自动驾驶重卡量产落地，具有丰富的产业与创业经验，目前为上海交通大学特聘教授。 随着具身智能赛道持续升温，“具身不存在大一统模型”正逐渐成为行业共识。 当前，头部玩家普遍认同“分层解耦”是必由之路，但解耦的维度不同。海外玩家多按推理时间尺度解耦：Figure 的 Helix（System 1 / System 2，后扩展至 System 0）与 NVIDIA 的 GR00T N1，都是分离“慢思考”的规划层与“快反应”的控制层。国内玩家多按能力类型拆分：智元“一体三智”拆分 Locomotion、Manipulation",
+      "publishedAt": "2026-06-30T02:35:33Z",
+      "published_at": "2026-06-30T02:35:33Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "c98f35a3",
+      "title": "万亿市场格局未定：「端侧原生」，一家中国AI公司给物理AI抛了个新解法",
+      "title_en": null,
+      "url": "https://36kr.com/p/3875047283659777?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3875047283659777?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "过去几年，AI的战场在屏幕里。GPT系列用参数堆出了惊人的语言能力，Sora用视频生成震撼了全世界……但2026年，产业界达成了一组共识：2026年，是物理AI的元年。  年初拉斯维加斯CES上，英伟达CEO黄仁勋用一场演讲，17遍提及物理AI，用以宣布“物理AI的ChatGPT时刻已经来了”。这也是他近两年一直推崇备至的关键词。而在过去的2年多时间里，物理AI在“大脑”（VLA模型）、“想象引擎”（世界模型）、训练场、本体及商业闭环五个维度取得关键进展，行业已初步具备走出演示环境、向真实场景探索的技术基础。 就在2026年上半年，全球物理AI领域的资本流动呈现出惊人的密度和规模。光一季度，全球物理AI融资就超过了64亿美元。其中不乏AMI Labs10.3亿美元种子轮、World Labs10亿美元融资，国内千寻智能三月完成四轮45亿元融资的案例。同时，物理AI的技术路线也呈现出清晰的产业分化。基础模型层呈现VLM、VLA与世界模型三条路径收敛之势。世界模型作为后台数据工厂合成训练数据，VLM承担长程规划的“慢思考”，VLA则把指令与感知直接转化为动作。 技术路线似乎已然固化，核心观",
+      "summary_zh": "过去几年，AI的战场在屏幕里。GPT系列用参数堆出了惊人的语言能力，Sora用视频生成震撼了全世界……但2026年，产业界达成了一组共识：2026年，是物理AI的元年。  年初拉斯维加斯CES上，英伟达CEO黄仁勋用一场演讲，17遍提及物理AI，用以宣布“物理AI的ChatGPT时刻已经来了”。这也是他近两年一直推崇备至的关键词。而在过去的2年多时间里，物理AI在“大脑”（VLA模型）、“想象引擎”（世界模型）、训练场、本体及商业闭环五个维度取得关键进展，行业已初步具备走出演示环境、向真实场景探索的技术基础。 就在2026年上半年，全球物理AI领域的资本流动呈现出惊人的密度和规模。光一季度，全球物理AI融资就超过了64亿美元。其中不乏AMI Labs10.3亿美元种子轮、World Labs10亿美元融资，国内千寻智能三月完成四轮45亿元融资的案例。同时，物理AI的技术路线也呈现出清晰的产业分化。基础模型层呈现VLM、VLA与世界模型三条路径收敛之势。世界模型作为后台数据工厂合成训练数据，VLM承担长程规划的“慢思考”，VLA则把指令与感知直接转化为动作。 技术路线似乎已然固化，核心观",
+      "publishedAt": "2026-06-30T03:24:49Z",
+      "published_at": "2026-06-30T03:24:49Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0fbdb240",
+      "title": "破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/440162.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/06/440162.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨  衡宇 2026-06-30 12:08:11  来源：量子位   好消息是V4正式版能力有升级   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  也是神奇，价格屠夫DeepSeek，破天荒要涨价了！ 这两天不少开发者收到了DeepSeek官方邮件，说DeepSeek V4正式版会在下个月（7月）上线。 但事情突然不对劲起来——高峰时段，API的输入token（缓存命中）、输入token（缓存未命中）、输出token，价格统统x2。    不过，价格屠夫的地位毕竟摆在那儿，哪怕是高峰时段涨价，大家也还是连连感叹，真便宜啊真便宜。 大多人都和0xSupergemma的创始人Jun Song一样：    真·反常，DeepSeek V4正式版高峰期价格x2 DeepSeek模型涨价，这还真是大姑娘上轿头一回。 它过去留给大家的印象太鲜明了：便宜。 甚至是会把同行价格体系打出一个坑的便宜。 从V3到R1再到预览版V4，不断破圈的DeepSeek每次让人眼前一亮又一亮，一方面是模型能力本身出色，与此同时，价格也是它最锋利",
+      "summary_zh": "破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨  衡宇 2026-06-30 12:08:11  来源：量子位   好消息是V4正式版能力有升级   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  也是神奇，价格屠夫DeepSeek，破天荒要涨价了！ 这两天不少开发者收到了DeepSeek官方邮件，说DeepSeek V4正式版会在下个月（7月）上线。 但事情突然不对劲起来——高峰时段，API的输入token（缓存命中）、输入token（缓存未命中）、输出token，价格统统x2。    不过，价格屠夫的地位毕竟摆在那儿，哪怕是高峰时段涨价，大家也还是连连感叹，真便宜啊真便宜。 大多人都和0xSupergemma的创始人Jun Song一样：    真·反常，DeepSeek V4正式版高峰期价格x2 DeepSeek模型涨价，这还真是大姑娘上轿头一回。 它过去留给大家的印象太鲜明了：便宜。 甚至是会把同行价格体系打出一个坑的便宜。 从V3到R1再到预览版V4，不断破圈的DeepSeek每次让人眼前一亮又一亮，一方面是模型能力本身出色，与此同时，价格也是它最锋利",
+      "publishedAt": "2026-06-30T04:08:11Z",
+      "published_at": "2026-06-30T04:08:11Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

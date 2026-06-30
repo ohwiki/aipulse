@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-30T11:26:01Z",
-  "generatedAt": "2026-06-30T11:26:01Z",
+  "generated_at": "2026-06-30T21:52:01Z",
+  "generatedAt": "2026-06-30T21:52:01Z",
   "days": 7,
   "total": 8,
   "count": 8,
   "items": [
     {
-      "id": "f3bc095c",
+      "id": "4110d1f5",
       "title": "产品更新：Cursor for iOS",
       "title_en": "Cursor for iOS",
-      "url": "https://www.producthunt.com/products/cursor-for-ios?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/cursor-for-ios?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
@@ -22,7 +22,7 @@
       "summary_zh": "Build with coding agents from anywhere Cursor",
       "publishedAt": "2026-06-30T07:01:00Z",
       "published_at": "2026-06-30T07:01:00Z",
-      "votes_count": 160,
+      "votes_count": 445,
       "featured": true,
       "topics": [
         {
@@ -44,44 +44,6 @@
       "score_details": null
     },
     {
-      "id": "12e90ef3",
-      "title": "模型更新：Foresight by Li",
-      "title_en": "Foresight by Lightning Rod",
-      "url": "https://www.producthunt.com/products/training-data-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/training-data-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Predict anything with AI Foresight by Lightnin",
-      "summary_zh": "Predict anything with AI Foresight by Lightnin",
-      "publishedAt": "2026-06-30T07:01:00Z",
-      "published_at": "2026-06-30T07:01:00Z",
-      "votes_count": 137,
-      "featured": true,
-      "topics": [
-        {
-          "id": "88",
-          "name": "API",
-          "slug": "api-1"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "adcc0e35",
       "title": "产品更新：Skills Marketpl",
       "title_en": "Skills Marketplace by Databox",
@@ -98,14 +60,9 @@
       "summary_zh": "Ready-made AI analytics skills for your busine",
       "publishedAt": "2026-06-30T07:01:00Z",
       "published_at": "2026-06-30T07:01:00Z",
-      "votes_count": 135,
+      "votes_count": 310,
       "featured": true,
       "topics": [
-        {
-          "id": "2",
-          "name": "Android",
-          "slug": "android"
-        },
         {
           "id": "108",
           "name": "Analytics",
@@ -115,6 +72,44 @@
           "id": "164",
           "name": "Marketing",
           "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "12e90ef3",
+      "title": "模型更新：Foresight by Li",
+      "title_en": "Foresight by Lightning Rod",
+      "url": "https://www.producthunt.com/products/training-data-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/training-data-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Predict anything with AI Foresight by Lightnin",
+      "summary_zh": "Predict anything with AI Foresight by Lightnin",
+      "publishedAt": "2026-06-30T07:01:00Z",
+      "published_at": "2026-06-30T07:01:00Z",
+      "votes_count": 265,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
         },
         {
           "id": "268",
@@ -141,7 +136,7 @@
       "summary_zh": "Manage tasks and calendars from Claude, ChatGP",
       "publishedAt": "2026-06-30T07:01:00Z",
       "published_at": "2026-06-30T07:01:00Z",
-      "votes_count": 126,
+      "votes_count": 217,
       "featured": true,
       "topics": [
         {
@@ -219,8 +214,8 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "过去几年，AI的战场在屏幕里。GPT系列用参数堆出了惊人的语言能力，Sora用视频生成震撼了全世界……但2026年，产业界达成了一组共识：2026年，是物理AI的元年。  年初拉斯维加斯CES上，英伟达CEO黄仁勋用一场演讲，17遍提及物理AI，用以宣布“物理AI的ChatGPT时刻已经来了”。这也是他近两年一直推崇备至的关键词。而在过去的2年多时间里，物理AI在“大脑”（VLA模型）、“想象引擎”（世界模型）、训练场、本体及商业闭环五个维度取得关键进展，行业已初步具备走出演示环境、向真实场景探索的技术基础。 就在2026年上半年��全球物理AI领域的资本流动呈现出惊人的密度和规模。光一季度，全球物理AI融资就超过了64亿美元。其中不乏AMI Labs10.3亿美元种子轮、World Labs10亿美元融资，国内千寻智能三月完成四轮45亿元融资的案例。同时，物理AI的技术路线也呈现出清晰的产业分化。基础模型层呈现VLM、VLA与世界模型三条路径收敛之势。世界模型作为后台数据工厂合成训练数据，VLM承担长程规划的“慢思考”，VLA则把指令与感知直接转化为动作。 技术路线似乎已然固化，核心",
-      "summary_zh": "过去几年，AI的战场在屏幕里。GPT系列用参数堆出了惊人的语言能力，Sora用视频生成震撼了全世界……但2026年，产业界达成了一组共识：2026年，是物理AI的元年。  年初拉斯维加斯CES上，英伟达CEO黄仁勋用一场演讲，17遍提及物理AI，用以宣布“物理AI的ChatGPT时刻已经来了”。这也是他近两年一直推崇备至的关键词。而在过去的2年多时间里，物理AI在“大脑”（VLA模型）、“想象引擎”（世界模型）、训练场、本体及商业闭环五个维度取得关键进展，行业已初步具备走出演示环境、向真实场景探索的技术基础。 就在2026年上半年��全球物理AI领域的资本流动呈现出惊人的密度和规模。光一季度，全球物理AI融资就超过了64亿美元。其中不乏AMI Labs10.3亿美元种子轮、World Labs10亿美元融资，国内千寻智能三月完成四轮45亿元融资的案例。同时，物理AI的技术路线也呈现出清晰的产业分化。基础模型层呈现VLM、VLA与世界模型三条路径收敛之势。世界模型作为后台数据工厂合成训练数据，VLM承担长程规划的“慢思考”，VLA则把指令与感知直接转化为动作。 技术路线似乎已然固化，核心",
+      "summary": "过去几年，AI的战场在屏幕里。GPT系列用参数堆出了惊人的语言能力，Sora用视频生成震撼了全世界……但2026年，产业界达成了一组共识：2026年，是物理AI的元年。  年初拉斯维加斯CES上，英伟达CEO黄仁勋用一场演讲，17遍提及物理AI，用以宣布“物理AI的ChatGPT时刻已经来了”。这也是他近两年一直推崇备至的关键词。而在过去的2年多时间里，物理AI在“大脑”（VLA模型）、“想象引擎”（世界模型）、训练场、本体及商业闭环五个维度取得关键进展，行业已初步具备走出演示环境、向真实场景探索的技术基础。 就在2026年上半年，全球物理AI领域的资本流动呈现出惊人的密度和规模。光一季度，全球物理AI融资就超过了64亿美元。其中不乏AMI Labs10.3亿美元种子轮、World Labs10亿美元融资，国内千寻智能三月完成四轮45亿元融资的案例。同时，物理AI的技术路线也呈现出清晰的产业分化。基础模型层呈现VLM、VLA与世界模型三条路径收敛之势。世界模型作为后台数据工厂合成训练数据，VLM承担长程规划的“慢思考”，VLA则把指令与感知直接转化为动作。 技术路线似乎已然固化，核心观",
+      "summary_zh": "过去几年，AI的战场在屏幕里。GPT系列用参数堆出了惊人的语言能力，Sora用视频生成震撼了全世界……但2026年，产业界达成了一组共识：2026年，是物理AI的元年。  年初拉斯维加斯CES上，英伟达CEO黄仁勋用一场演讲，17遍提及物理AI，用以宣布“物理AI的ChatGPT时刻已经来了”。这也是他近两年一直推崇备至的关键词。而在过去的2年多时间里，物理AI在“大脑”（VLA模型）、“想象引擎”（世界模型）、训练场、本体及商业闭环五个维度取得关键进展，行业已初步具备走出演示环境、向真实场景探索的技术基础。 就在2026年上半年，全球物理AI领域的资本流动呈现出惊人的密度和规模。光一季度，全球物理AI融资就超过了64亿美元。其中不乏AMI Labs10.3亿美元种子轮、World Labs10亿美元融资，国内千寻智能三月完成四轮45亿元融资的案例。同时，物理AI的技术路线也呈现出清晰的产业分化。基础模型层呈现VLM、VLA与世界模型三条路径收敛之势。世界模型作为后台数据工厂合成训练数据，VLM承担长程规划的“慢思考”，VLA则把指令与感知直接转化为动作。 技术路线似乎已然固化，核心观",
       "publishedAt": "2026-06-30T03:24:49Z",
       "published_at": "2026-06-30T03:24:49Z",
       "votes_count": null,
