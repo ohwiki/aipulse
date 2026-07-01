@@ -1,83 +1,45 @@
 {
-  "generated_at": "2026-06-30T21:52:01Z",
-  "generatedAt": "2026-06-30T21:52:01Z",
+  "generated_at": "2026-07-01T11:37:57Z",
+  "generatedAt": "2026-07-01T11:37:57Z",
   "count": 50,
   "total": 50,
   "entries": [
     {
       "date": "2026-07-01",
-      "generated_at": "2026-06-30T21:52:01Z",
-      "generatedAt": "2026-06-30T21:52:01Z",
+      "generated_at": "2026-07-01T11:37:57Z",
+      "generatedAt": "2026-07-01T11:37:57Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "4110d1f5",
-          "title": "产品更新：Cursor for iOS",
-          "title_en": "Cursor for iOS",
-          "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "540e5d6c",
+          "title": "产品更新：Acti",
+          "title_en": "Acti",
+          "url": "https://www.producthunt.com/products/acti-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/acti-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Build with coding agents from anywhere Cursor",
-          "summary_zh": "Build with coding agents from anywhere Cursor",
-          "publishedAt": "2026-06-30T07:01:00Z",
-          "published_at": "2026-06-30T07:01:00Z",
-          "votes_count": 445,
+          "summary": "Agentic keyboard for mobile commands and searc",
+          "summary_zh": "Agentic keyboard for mobile commands and searc",
+          "publishedAt": "2026-07-01T07:01:00Z",
+          "published_at": "2026-07-01T07:01:00Z",
+          "votes_count": 209,
           "featured": true,
           "topics": [
             {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
-              "id": "589",
-              "name": "Development",
-              "slug": "development"
-            },
-            {
-              "id": "1194",
-              "name": "Vibe coding",
-              "slug": "vibe-coding"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "adcc0e35",
-          "title": "产品更新：Skills Marketpl",
-          "title_en": "Skills Marketplace by Databox",
-          "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Ready-made AI analytics skills for your busine",
-          "summary_zh": "Ready-made AI analytics skills for your busine",
-          "publishedAt": "2026-06-30T07:01:00Z",
-          "published_at": "2026-06-30T07:01:00Z",
-          "votes_count": 310,
-          "featured": true,
-          "topics": [
-            {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
+              "id": "54",
+              "name": "Custom Keyboards",
+              "slug": "custom-keyboards"
             },
             {
               "id": "268",
@@ -88,23 +50,23 @@
           "score_details": null
         },
         {
-          "id": "12e90ef3",
-          "title": "模型更新：Foresight by Li",
-          "title_en": "Foresight by Lightning Rod",
-          "url": "https://www.producthunt.com/products/training-data-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "1e8d923f",
+          "title": "产品更新：Humalike",
+          "title_en": "Humalike",
+          "url": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/training-data-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Predict anything with AI Foresight by Lightnin",
-          "summary_zh": "Predict anything with AI Foresight by Lightnin",
-          "publishedAt": "2026-06-30T07:01:00Z",
-          "published_at": "2026-06-30T07:01:00Z",
-          "votes_count": 265,
+          "summary": "Give your AI agents the social intelligence th",
+          "summary_zh": "Give your AI agents the social intelligence th",
+          "publishedAt": "2026-07-01T07:01:00Z",
+          "published_at": "2026-07-01T07:01:00Z",
+          "votes_count": 179,
           "featured": true,
           "topics": [
             {
@@ -116,6 +78,44 @@
               "id": "267",
               "name": "Developer Tools",
               "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5d3107f9",
+          "title": "AI资讯更新：Adam CAD Copi",
+          "title_en": "Adam CAD Copilot",
+          "url": "https://www.producthunt.com/products/adam-cad-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/adam-cad-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI CAD inside Onshape and Fusion Adam brings A",
+          "summary_zh": "AI CAD inside Onshape and Fusion Adam brings A",
+          "publishedAt": "2026-07-01T07:01:00Z",
+          "published_at": "2026-07-01T07:01:00Z",
+          "votes_count": 159,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
               "id": "268",
