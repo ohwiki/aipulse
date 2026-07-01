@@ -1,0 +1,503 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-01T21:55:56Z",
+  "generatedAt": "2026-07-01T21:55:56Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "540e5d6c",
+          "title": "产品更新：Acti",
+          "title_en": "Acti",
+          "url": "https://www.producthunt.com/products/acti-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/acti-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Agentic keyboard for mobile commands and searc",
+          "summary_zh": "Agentic keyboard for mobile commands and searc",
+          "publishedAt": "2026-07-01T07:01:00Z",
+          "published_at": "2026-07-01T07:01:00Z",
+          "votes_count": 377,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "54",
+              "name": "Custom Keyboards",
+              "slug": "custom-keyboards"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1e8d923f",
+          "title": "产品更新：Humalike",
+          "title_en": "Humalike",
+          "url": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Give your AI agents the social intelligence th",
+          "summary_zh": "Give your AI agents the social intelligence th",
+          "publishedAt": "2026-07-01T07:01:00Z",
+          "published_at": "2026-07-01T07:01:00Z",
+          "votes_count": 366,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "dd71eb86",
+          "title": "产品更新：Claude Sonnet 5",
+          "title_en": "Claude Sonnet 5",
+          "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI that plans, acts, and gets work done Our mo",
+          "summary_zh": "AI that plans, acts, and gets work done Our mo",
+          "publishedAt": "2026-07-01T07:01:00Z",
+          "published_at": "2026-07-01T07:01:00Z",
+          "votes_count": 295,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5d3107f9",
+          "title": "AI资讯更新：Adam CAD Copi",
+          "title_en": "Adam CAD Copilot",
+          "url": "https://www.producthunt.com/products/adam-cad-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/adam-cad-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI CAD inside Onshape and Fusion Adam brings A",
+          "summary_zh": "AI CAD inside Onshape and Fusion Adam brings A",
+          "publishedAt": "2026-07-01T07:01:00Z",
+          "published_at": "2026-07-01T07:01:00Z",
+          "votes_count": 274,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "95c93817",
+          "title": "Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/441124.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/441124.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型  量子位的朋友们 2026-07-01 11:46:20  来源：量子位   物理世界AI的下一步  当AI从屏幕走向真实的物理世界，多模态模型正迎来一次架构范式的革新。 Om AI联汇正式发布全球首个面向物理世界的端侧流式多模态模型系列——VLX，首次在业界提出“流式多模态”这一全新模型架构。区别于传统视频理解模型将整段视频切帧后一次性离线处理的方式，VLX系列面向物理世界中持续涌入的视频流，以流式编码与缓存增量推理实现毫秒级实时感知，并首次在端侧打通“持续感知→精准定位→行动决策”的完整闭环。  VLX系列由三款模型协同构成，围绕实时物理智能构建完整能力体系：VLX-Flow负责持续感知，通过增量编码与缓存推理机制，让模型像人一样持续观察环境而非被动等待提问，新画面随时吸收，提问瞬间响应。VLX-Seek负责精准定位，创新性地将坐标生成转化为区域检索——不是让模型“猜坐标”，而是从候选区域中“选区域”，为端侧设备提供可靠的空间感知能力。VLX-Go负责行动执行，将视觉理解直接转化为机器人可执行的短时航点与运动轨迹，",
+          "summary_zh": "Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型  量子位的朋友们 2026-07-01 11:46:20  来源：量子位   物理世界AI的下一步  当AI从屏幕走向真实的物理世界，多模态模型正迎来一次架构范式的革新。 Om AI联汇正式发布全球首个面向物理世界的端侧流式多模态模型系列——VLX，首次在业界提出“流式多模态”这一全新模型架构。区别于传统视频理解模型将整段视频切帧后一次性离线处理的方式，VLX系列面向物理世界中持续涌入的视频流，以流式编码与缓存增量推理实现毫秒级实时感知，并首次在端侧打通“持续感知→精准定位→行动决策”的完整闭环。  VLX系列由三款模型协同构成，围绕实时物理智能构建完整能力体系：VLX-Flow负责持续感知，通过增量编码与缓存推理机制，让模型像人一样持续观察环境而非被动等待提问，新画面随时吸收，提问瞬间响应。VLX-Seek负责精准定位，创新性地将坐标生成转化为区域检索——不是让模型“猜坐标”，而是从候选区域中“选区域”，为端侧设备提供可靠的空间感知能力。VLX-Go负责行动执行，将视觉理解直接转化为机器人可执行的短时航点与运动轨迹，",
+          "publishedAt": "2026-07-01T03:46:20Z",
+          "published_at": "2026-07-01T03:46:20Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "ee5a0be3",
+          "title": "卖Token也不是稳赚不赔！硅基流动招股书来了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/441127.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/441127.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "卖Token也不是稳赚不赔！硅基流动招股书来了  鱼羊 2026-07-01 13:52:09  来源：量子位   AI推理时代的Token工厂   鱼羊 发自 凹非寺 量子位 | 公众号 QbitAI  大模型公司在港股热度正酣，现在，卖Token的公司也开始冲刺了。 硅基流动已向港交所提交上市申请，剑指港股「AI Token工厂第一股」。    此前，硅基流动已完成7轮融资，估值77.4亿元。阿里、美团、商汤、蔚来、智谱等产业方和明星AI投资机构均有押注。 招股书：AI推理时代的Token工厂 简单回顾一下硅基流动的来时路： 班底就是张钹院士高徒袁进辉创办AI Infra公司OneFlow时的原班人马。OneFlow在2023年被王慧文光年之外收购，此后因王慧文病休之故并入美团。而袁进辉本人则选择了再次创业，携团队创立硅基流动。    从招股书来看，硅基流动的叙事核心很明确，不是「模型公司」，而是AI推理时代的「Token工厂」。 就是说，不做模型，也不做应用，重点是要把异构算力、多模型和企业调用需求，封装成可稳定交付、可计量、可收费的Token供应服务。    招股书披露，截至2",
+          "summary_zh": "卖Token也不是稳赚不赔！硅基流动招股书来了  鱼羊 2026-07-01 13:52:09  来源：量子位   AI推理时代的Token工厂   鱼羊 发自 凹非寺 量子位 | 公众号 QbitAI  大模型公司在港股热度正酣，现在，卖Token的公司也开始冲刺了。 硅基流动已向港交所提交上市申请，剑指港股「AI Token工厂第一股」。    此前，硅基流动已完成7轮融资，估值77.4亿元。阿里、美团、商汤、蔚来、智谱等产业方和明星AI投资机构均有押注。 招股书：AI推理时代的Token工厂 简单回顾一下硅基流动的来时路： 班底就是张钹院士高徒袁进辉创办AI Infra公司OneFlow时的原班人马。OneFlow在2023年被王慧文光年之外收购，此后因王慧文病休之故并入美团。而袁进辉本人则选择了再次创业，携团队创立硅基流动。    从招股书来看，硅基流动的叙事核心很明确，不是「模型公司」，而是AI推理时代的「Token工厂」。 就是说，不做模型，也不做应用，重点是要把异构算力、多模型和企业调用需求，封装成可稳定交付、可计量、可收费的Token供应服务。    招股书披露，截至2",
+          "publishedAt": "2026-07-01T05:52:09Z",
+          "published_at": "2026-07-01T05:52:09Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "034f569a",
+          "title": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/441140.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/441140.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割  henry 2026-07-01 14:26:06  来源：量子位   四大互联网分别领投  henry 发自 凹非寺 量子位 | 公众号 QbitAI 大湾区首个200亿具身大脑来了！ 刚刚，据可靠消息：自变量连续完成4轮融资，投后估值突破200亿元，并且完成资本交割、融资款全部到账。 这使得自变量，成为大湾区首家、也是唯一一家，估值超过200亿元的具身大脑公司。  自4月下旬发布会上宣布完成由小米战投领投的B轮融资后，仅仅两个多月，自变量又连续完成B+、B++和C轮融资。 客观来说，在具身智能赛道，宣布融资早已不算新闻；真正少见的是，内部人士称，钱这么快、这么确定地全部到账。 两个多月、四轮融资、全部交割，即便放在如今融资最活跃的具身行业，也称得上罕见。 更夸张的是投资方阵容。 已确认的投资机构超过30家，横跨互联网巨头、产业资本、国家队和顶级VC四大阵营。 中国移动、中保投资、红杉中国、IDG资本、源码资本、达晨财智、中金资本悉数在列，小米战投更是连续三轮加注。 30多家机构、上百亿元资本，集体押注、看好的其实都是",
+          "summary_zh": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割  henry 2026-07-01 14:26:06  来源：量子位   四大互联网分别领投  henry 发自 凹非寺 量子位 | 公众号 QbitAI 大湾区首个200亿具身大脑来了！ 刚刚，据可靠消息：自变量连续完成4轮融资，投后估值突破200亿元，并且完成资本交割、融资款全部到账。 这使得自变量，成为大湾区首家、也是唯一一家，估值超过200亿元的具身大脑公司。  自4月下旬发布会上宣布完成由小米战投领投的B轮融资后，仅仅两个多月，自变量又连续完成B+、B++和C轮融资。 客观来说，在具身智能赛道，宣布融资早已不算新闻；真正少见的是，内部人士称，钱这么快、这么确定地全部到账。 两个多月、四轮融资、全部交割，即便放在如今融资最活跃的具身行业，也称得上罕见。 更夸张的是投资方阵容。 已确认的投资机构超过30家，横跨互联网巨头、产业资本、国家队和顶级VC四大阵营。 中国移动、中保投资、红杉中国、IDG资本、源码资本、达晨财智、中金资本悉数在列，小米战投更是连续三轮加注。 30多家机构、上百亿元资本，集体押注、看好的其实都是",
+          "publishedAt": "2026-07-01T06:26:06Z",
+          "published_at": "2026-07-01T06:26:06Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "aa4b4af7",
+          "title": "雷赛智能：预计2026年半年度净利润同比增长55%-65%",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3876981710860553?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3876981710860553?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "36氪获悉，雷赛智能公告，预计2026年半年度归属于上市公司股东的净利润为1.84亿元-1.96亿元，同比增长55%-65%。业绩变动主要系下游自动化设备市场回暖，公司订单好转，同时积极落实“两提两降”经营策略，推动经营效益向好。",
+          "summary_zh": "36氪获悉，雷赛智能公告，预计2026年半年度归属于上市公司股东的净利润为1.84亿元-1.96亿元，同比增长55%-65%。业绩变动主要系下游自动化设备市场回暖，公司订单好转，同时积极落实“两提两降”经营策略，推动经营效益向好。",
+          "publishedAt": "2026-07-01T11:09:44Z",
+          "published_at": "2026-07-01T11:09:44Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "540e5d6c",
+      "title": "产品更新：Acti",
+      "title_en": "Acti",
+      "url": "https://www.producthunt.com/products/acti-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/acti-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Agentic keyboard for mobile commands and searc",
+      "summary_zh": "Agentic keyboard for mobile commands and searc",
+      "publishedAt": "2026-07-01T07:01:00Z",
+      "published_at": "2026-07-01T07:01:00Z",
+      "votes_count": 377,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "54",
+          "name": "Custom Keyboards",
+          "slug": "custom-keyboards"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1e8d923f",
+      "title": "产品更新：Humalike",
+      "title_en": "Humalike",
+      "url": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Give your AI agents the social intelligence th",
+      "summary_zh": "Give your AI agents the social intelligence th",
+      "publishedAt": "2026-07-01T07:01:00Z",
+      "published_at": "2026-07-01T07:01:00Z",
+      "votes_count": 366,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "dd71eb86",
+      "title": "产品更新：Claude Sonnet 5",
+      "title_en": "Claude Sonnet 5",
+      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI that plans, acts, and gets work done Our mo",
+      "summary_zh": "AI that plans, acts, and gets work done Our mo",
+      "publishedAt": "2026-07-01T07:01:00Z",
+      "published_at": "2026-07-01T07:01:00Z",
+      "votes_count": 295,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5d3107f9",
+      "title": "AI资讯更新：Adam CAD Copi",
+      "title_en": "Adam CAD Copilot",
+      "url": "https://www.producthunt.com/products/adam-cad-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/adam-cad-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI CAD inside Onshape and Fusion Adam brings A",
+      "summary_zh": "AI CAD inside Onshape and Fusion Adam brings A",
+      "publishedAt": "2026-07-01T07:01:00Z",
+      "published_at": "2026-07-01T07:01:00Z",
+      "votes_count": 274,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "95c93817",
+      "title": "Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/441124.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/441124.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型  量子位的朋友们 2026-07-01 11:46:20  来源：量子位   物理世界AI的下一步  当AI从屏幕走向真实的物理世界，多模态模型正迎来一次架构范式的革新。 Om AI联汇正式发布全球首个面向物理世界的端侧流式多模态模型系列——VLX，首次在业界提出“流式多模态”这一全新模型架构。区别于传统视频理解模型将整段视频切帧后一次性离线处理的方式，VLX系列面向物理世界中持续涌入的视频流，以流式编码与缓存增量推理实现毫秒级实时感知，并首次在端侧打通“持续感知→精准定位→行动决策”的完整闭环。  VLX系列由三款模型协同构成，围绕实时物理智能构建完整能力体系：VLX-Flow负责持续感知，通过增量编码与缓存推理机制，让模型像人一样持续观察环境而非被动等待提问，新画面随时吸收，提问瞬间响应。VLX-Seek负责精准定位，创新性地将坐标生成转化为区域检索——不是让模型“猜坐标”，而是从候选区域中“选区域”，为端侧设备提供可靠的空间感知能力。VLX-Go负责行动执行，将视觉理解直接转化为机器人可执行的短时航点与运动轨迹，",
+      "summary_zh": "Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型  量子位的朋友们 2026-07-01 11:46:20  来源：量子位   物理世界AI的下一步  当AI从屏幕走向真实的物理世界，多模态模型正迎来一次架构范式的革新。 Om AI联汇正式发布全球首个面向物理世界的端侧流式多模态模型系列——VLX，首次在业界提出“流式多模态”这一全新模型架构。区别于传统视频理解模型将整段视频切帧后一次性离线处理的方式，VLX系列面向物理世界中持续涌入的视频流，以流式编码与缓存增量推理实现毫秒级实时感知，并首次在端侧打通“持续感知→精准定位→行动决策”的完整闭环。  VLX系列由三款模型协同构成，围绕实时物理智能构建完整能力体系：VLX-Flow负责持续感知，通过增量编码与缓存推理机制，让模型像人一样持续观察环境而非被动等待提问，新画面随时吸收，提问瞬间响应。VLX-Seek负责精准定位，创新性地将坐标生成转化为区域检索——不是让模型“猜坐标”，而是从候选区域中“选区域”，为端侧设备提供可靠的空间感知能力。VLX-Go负责行动执行，将视觉理解直接转化为机器人可执行的短时航点与运动轨迹，",
+      "publishedAt": "2026-07-01T03:46:20Z",
+      "published_at": "2026-07-01T03:46:20Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ee5a0be3",
+      "title": "卖Token也不是稳赚不赔！硅基流动招股书来了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/441127.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/441127.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "卖Token也不是稳赚不赔！硅基流动招股书来了  鱼羊 2026-07-01 13:52:09  来源：量子位   AI推理时代的Token工厂   鱼羊 发自 凹非寺 量子位 | 公众号 QbitAI  大模型公司在港股热度正酣，现在，卖Token的公司也开始冲刺了。 硅基流动已向港交所提交上市申请，剑指港股「AI Token工厂第一股」。    此前，硅基流动已完成7轮融资，估值77.4亿元。阿里、美团、商汤、蔚来、智谱等产业方和明星AI投资机构均有押注。 招股书：AI推理时代的Token工厂 简单回顾一下硅基流动的来时路： 班底就是张钹院士高徒袁进辉创办AI Infra公司OneFlow时的原班人马。OneFlow在2023年被王慧文光年之外收购，此后因王慧文病休之故并入美团。而袁进辉本人则选择了再次创业，携团队创立硅基流动。    从招股书来看，硅基流动的叙事核心很明确，不是「模型公司」，而是AI推理时代的「Token工厂」。 就是说，不做模型，也不做应用，重点是要把异构算力、多模型和企业调用需求，封装成可稳定交付、可计量、可收费的Token供应服务。    招股书披露，截至2",
+      "summary_zh": "卖Token也不是稳赚不赔！硅基流动招股书来了  鱼羊 2026-07-01 13:52:09  来源：量子位   AI推理时代的Token工厂   鱼羊 发自 凹非寺 量子位 | 公众号 QbitAI  大模型公司在港股热度正酣，现在，卖Token的公司也开始冲刺了。 硅基流动已向港交所提交上市申请，剑指港股「AI Token工厂第一股」。    此前，硅基流动已完成7轮融资，估值77.4亿元。阿里、美团、商汤、蔚来、智谱等产业方和明星AI投资机构均有押注。 招股书：AI推理时代的Token工厂 简单回顾一下硅基流动的来时路： 班底就是张钹院士高徒袁进辉创办AI Infra公司OneFlow时的原班人马。OneFlow在2023年被王慧文光年之外收购，此后因王慧文病休之故并入美团。而袁进辉本人则选择了再次创业，携团队创立硅基流动。    从招股书来看，硅基流动的叙事核心很明确，不是「模型公司」，而是AI推理时代的「Token工厂」。 就是说，不做模型，也不做应用，重点是要把异构算力、多模型和企业调用需求，封装成可稳定交付、可计量、可收费的Token供应服务。    招股书披露，截至2",
+      "publishedAt": "2026-07-01T05:52:09Z",
+      "published_at": "2026-07-01T05:52:09Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "034f569a",
+      "title": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/441140.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/441140.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割  henry 2026-07-01 14:26:06  来源：量子位   四大互联网分别领投  henry 发自 凹非寺 量子位 | 公众号 QbitAI 大湾区首个200亿具身大脑来了！ 刚刚，据可靠消息：自变量连续完成4轮融资，投后估值突破200亿元，并且完成资本交割、融资款全部到账。 这使得自变量，成为大湾区首家、也是唯一一家，估值超过200亿元的具身大脑公司。  自4月下旬发布会上宣布完成由小米战投领投的B轮融资后，仅仅两个多月，自变量又连续完成B+、B++和C轮融资。 客观来说，在具身智能赛道，宣布融资早已不算新闻；真正少见的是，内部人士称，钱这么快、这么确定地全部到账。 两个多月、四轮融资、全部交割，即便放在如今融资最活跃的具身行业，也称得上罕见。 更夸张的是投资方阵容。 已确认的投资机构超过30家，横跨互联网巨头、产业资本、国家队和顶级VC四大阵营。 中国移动、中保投资、红杉中国、IDG资本、源码资本、达晨财智、中金资本悉数在列，小米战投更是连续三轮加注。 30多家机构、上百亿元资本，集体押注、看好的其实都是",
+      "summary_zh": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割  henry 2026-07-01 14:26:06  来源：量子位   四大互联网分别领投  henry 发自 凹非寺 量子位 | 公众号 QbitAI 大湾区首个200亿具身大脑来了！ 刚刚，据可靠消息：自变量连续完成4轮融资，投后估值突破200亿元，并且完成资本交割、融资款全部到账。 这使得自变量，成为大湾区首家、也是唯一一家，估值超过200亿元的具身大脑公司。  自4月下旬发布会上宣布完成由小米战投领投的B轮融资后，仅仅两个多月，自变量又连续完成B+、B++和C轮融资。 客观来说，在具身智能赛道，宣布融资早已不算新闻；真正少见的是，内部人士称，钱这么快、这么确定地全部到账。 两个多月、四轮融资、全部交割，即便放在如今融资最活跃的具身行业，也称得上罕见。 更夸张的是投资方阵容。 已确认的投资机构超过30家，横跨互联网巨头、产业资本、国家队和顶级VC四大阵营。 中国移动、中保投资、红杉中国、IDG资本、源码资本、达晨财智、中金资本悉数在列，小米战投更是连续三轮加注。 30多家机构、上百亿元资本，集体押注、看好的其实都是",
+      "publishedAt": "2026-07-01T06:26:06Z",
+      "published_at": "2026-07-01T06:26:06Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "aa4b4af7",
+      "title": "雷赛智能：预计2026年半年度净利润同比增长55%-65%",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3876981710860553?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3876981710860553?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "36氪获悉，雷赛智能公告，预计2026年半年度归属于上市公司股东的净利润为1.84亿元-1.96亿元，同比增长55%-65%。业绩变动主要系下游自动化设备市场回暖，公司订单好转，同时积极落实“两提两降”经营策略，推动经营效益向好。",
+      "summary_zh": "36氪获悉，雷赛智能公告，预计2026年半年度归属于上市公司股东的净利润为1.84亿元-1.96亿元，同比增长55%-65%。业绩变动主要系下游自动化设备市场回暖，公司订单好转，同时积极落实“两提两降”经营策略，推动经营效益向好。",
+      "publishedAt": "2026-07-01T11:09:44Z",
+      "published_at": "2026-07-01T11:09:44Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

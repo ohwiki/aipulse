@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T11:37:57Z",
-  "generatedAt": "2026-07-01T11:37:57Z",
+  "generated_at": "2026-07-01T21:55:56Z",
+  "generatedAt": "2026-07-01T21:55:56Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "Agentic keyboard for mobile commands and searc",
       "publishedAt": "2026-07-01T07:01:00Z",
       "published_at": "2026-07-01T07:01:00Z",
-      "votes_count": 209,
+      "votes_count": 377,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Give your AI agents the social intelligence th",
       "publishedAt": "2026-07-01T07:01:00Z",
       "published_at": "2026-07-01T07:01:00Z",
-      "votes_count": 179,
+      "votes_count": 366,
       "featured": true,
       "topics": [
         {
@@ -72,44 +72,6 @@
           "id": "267",
           "name": "Developer Tools",
           "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "5d3107f9",
-      "title": "AI资讯更新：Adam CAD Copi",
-      "title_en": "Adam CAD Copilot",
-      "url": "https://www.producthunt.com/products/adam-cad-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/adam-cad-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "AI CAD inside Onshape and Fusion Adam brings A",
-      "summary_zh": "AI CAD inside Onshape and Fusion Adam brings A",
-      "publishedAt": "2026-07-01T07:01:00Z",
-      "published_at": "2026-07-01T07:01:00Z",
-      "votes_count": 159,
-      "featured": true,
-      "topics": [
-        {
-          "id": "44",
-          "name": "Design Tools",
-          "slug": "design-tools"
-        },
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
         },
         {
           "id": "268",
@@ -136,7 +98,7 @@
       "summary_zh": "AI that plans, acts, and gets work done Our mo",
       "publishedAt": "2026-07-01T07:01:00Z",
       "published_at": "2026-07-01T07:01:00Z",
-      "votes_count": 141,
+      "votes_count": 295,
       "featured": true,
       "topics": [
         {
@@ -158,47 +120,41 @@
       "score_details": null
     },
     {
-      "id": "49c3fa13",
-      "title": "苏大教授创业做机器人触觉系统，获松禾资本千万级天使轮融资｜硬氪首发",
-      "title_en": null,
-      "url": "https://36kr.com/p/3874358072710407?f=rss",
-      "source": "36氪",
+      "id": "5d3107f9",
+      "title": "AI资讯更新：Adam CAD Copi",
+      "title_en": "Adam CAD Copilot",
+      "url": "https://www.producthunt.com/products/adam-cad-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3874358072710407?f=rss",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，感知纪元科技有限公司（以下简称“感知纪元”）近日完成千万级天使轮融资，本轮由松禾资本领衔投资。融资资金将主要用于中试产线搭建、核心产品迭代升级及团队扩充，加速推进多模态智能触觉电子皮肤从研发走向量产。 感知纪元成立于2025年12月，感知纪元定位于机器人触觉基础设施提供商，通过自研多模态电子皮肤、触觉感知硬件及AI算法，为机器人提供完整的触觉系统。 创始人兼CTO刘瑞远为��州大学特聘教授，师从纳米能源领域奠基人王中林院士及柔性电子先驱Takao Someya教授，长期从事柔性电子与智能传感研究，构建了从多模态材料到器件的完整研发体系。 具身智能赛道正走到落地转化的关键节点。各类实验室演示不断涌现，但想要机器人稳定落地工业、医疗等真实产业场景，适配复杂物理环境完成精细作业，触觉感知能力的短板，已经成为难以绕开的核心阻碍。 机器人拥有视觉之后，下一个决定智能上限的，将是触觉。目前，行业主流触觉方案仍停留在单点式传感器阶段，依靠压阻、电容或六维力器件完成基础的力与位置检测。这些器件仅能提供单一压力数值，无法实现多维力感知、动静态同步识别等关键能力，难以支",
-      "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，感知纪元科技有限公司（以下简称“感知纪元”）近日完成千万级天使轮融资，本轮由松禾资本领衔投资。融资资金将主要用于中试产线搭建、核心产品迭代升级及团队扩充，加速推进多模态智能触觉电子皮肤从研发走向量产。 感知纪元成立于2025年12月，感知纪元定位于机器人触觉基础设施提供商，通过自研多模态电子皮肤、触觉感知硬件及AI算法，为机器人提供完整的触觉系统。 创始人兼CTO刘瑞远为��州大学特聘教授，师从纳米能源领域奠基人王中林院士及柔性电子先驱Takao Someya教授，长期从事柔性电子与智能传感研究，构建了从多模态材料到器件的完整研发体系。 具身智能赛道正走到落地转化的关键节点。各类实验室演示不断涌现，但想要机器人稳定落地工业、医疗等真实产业场景，适配复杂物理环境完成精细作业，触觉感知能力的短板，已经成为难以绕开的核心阻碍。 机器人拥有视觉之后，下一个决定智能上限的，将是触觉。目前，行业主流触觉方案仍停留在单点式传感器阶段，依靠压阻、电容或六维力器件完成基础的力与位置检测。这些器件仅能提供单一压力数值，无法实现多维力感知、动静态同步识别等关键能力，难以支",
-      "publishedAt": "2026-07-01T01:20:00Z",
-      "published_at": "2026-07-01T01:20:00Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": null
-    },
-    {
-      "id": "9d386dff",
-      "title": "告别硬件出海上一个十年，前安克CMO做了款AI时代的Memory产品｜硬氪专访",
-      "title_en": null,
-      "url": "https://36kr.com/p/3867992509125636?f=rss",
-      "source": "36氪",
-      "source_type": null,
-      "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3867992509125636?f=rss",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "作者｜黄楠 编辑｜袁斯来 2024年，当王时远从工作了9年的安克辞职时，他发现自己面对的是一个全新的世界。 王时远亲历了硬件出海的黄金十年，是国内最早搭建海外营销体系、建立规则的那批人。他2015年加入安克，先做海外，后做国内，从安克CMO到转任中国区总裁，最多的时候带了四五百人的团队。 2025年，从安克离开创业时，出海硬件创业已经有一套成熟的流程：打样、上众筹、以众筹成绩去融资，最后量产。可王时远看到，这条路的ROI越来越低。众筹项目越来越多，却大部分是赔本赚吆喝。海外的营销渠道，已经从过去Meta、Google大一统，到现在散落在播客、社媒KOL各处。“ 十年前Meta能做到的事，今天做不到，Kickstarter也做不到。”王时远告诉硬氪。 粗放式的产品思路，显然已经不适合这个时代。AI硬件正在成为一个明确的浪潮，但在王时远看来，什么是AI原生产品、AI原生硬件应该长什么样，尚没有人真正定义清楚。 这正是创业公司最珍贵的时间窗口，跑得够快的人就有机会写下答案。因此王时远选择进入了一个细分赛道，做AI Memory硬件。 近日，穗升科技首款产品Memoket在海外正式开启预售。这",
-      "summary_zh": "作者｜黄楠 编辑｜袁斯来 2024年，当王时远从工作了9年的安克辞职时，他发现自己面对的是一个全新的世界。 王时远亲历了硬件出海的黄金十年，是国内最早搭建海外营销体系、建立规则的那批人。他2015年加入安克，先做海外，后做国内，从安克CMO到转任中国区总裁，最多的时候带了四五百人的团队。 2025年，从安克离开创业时，出海硬件创业已经有一套成熟的流程：打样、上众筹、以众筹成绩去融资，最后量产。可王时远看到，这条路的ROI越来越低。众筹项目越来越多，却大部分是赔本赚吆喝。海外的营销渠道，已经从过去Meta、Google大一统，到现在散落在播客、社媒KOL各处。“ 十年前Meta能做到的事，今天做不到，Kickstarter也做不到。”王时远告诉硬氪。 粗放式的产品思路，显然已经不适合这个时代。AI硬件正在成为一个明确的浪潮，但在王时远看来，什么是AI原生产品、AI原生硬件应该长什么样，尚没有人真正定义清楚。 这正是创业公司最珍贵的时间窗口，跑得够快的人就有机会写下答案。因此王时远选择进入了一个细分赛道，做AI Memory硬件。 近日，穗升科技首款产品Memoket在海外正式开启预售。这",
-      "publishedAt": "2026-07-01T02:00:00Z",
-      "published_at": "2026-07-01T02:00:00Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/adam-cad-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI CAD inside Onshape and Fusion Adam brings A",
+      "summary_zh": "AI CAD inside Onshape and Fusion Adam brings A",
+      "publishedAt": "2026-07-01T07:01:00Z",
+      "published_at": "2026-07-01T07:01:00Z",
+      "votes_count": 274,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
       "score_details": null
     },
     {
@@ -240,6 +196,50 @@
       "summary_zh": "卖Token也不是稳赚不赔！硅基流动招股书来了  鱼羊 2026-07-01 13:52:09  来源：量子位   AI推理时代的Token工厂   鱼羊 发自 凹非寺 量子位 | 公众号 QbitAI  大模型公司在港股热度正酣，现在，卖Token的公司也开始冲刺了。 硅基流动已向港交所提交上市申请，剑指港股「AI Token工厂第一股」。    此前，硅基流动已完成7轮融资，估值77.4亿元。阿里、美团、商汤、蔚来、智谱等产业方和明星AI投资机构均有押注。 招股书：AI推理时代的Token工厂 简单回顾一下硅基流动的来时路： 班底就是张钹院士高徒袁进辉创办AI Infra公司OneFlow时的原班人马。OneFlow在2023年被王慧文光年之外收购，此后因王慧文病休之故并入美团。而袁进辉本人则选择了再次创业，携团队创立硅基流动。    从招股书来看，硅基流动的叙事核心很明确，不是「模型公司」，而是AI推理时代的「Token工厂」。 就是说，不做模型，也不做应用，重点是要把异构算力、多模型和企业调用需求，封装成可稳定交付、可计量、可收费的Token供应服务。    招股书披露，截至2",
       "publishedAt": "2026-07-01T05:52:09Z",
       "published_at": "2026-07-01T05:52:09Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "034f569a",
+      "title": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/441140.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/441140.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割  henry 2026-07-01 14:26:06  来源：量子位   四大互联网分别领投  henry 发自 凹非寺 量子位 | 公众号 QbitAI 大湾区首个200亿具身大脑来了！ 刚刚，据可靠消息：自变量连续完成4轮融资，投后估值突破200亿元，并且完成资本交割、融资款全部到账。 这使得自变量，成为大湾区首家、也是唯一一家，估值超过200亿元的具身大脑公司。  自4月下旬发布会上宣布完成由小米战投领投的B轮融资后，仅仅两个多月，自变量又连续完成B+、B++和C轮融资。 客观来说，在具身智能赛道，宣布融资早已不算新闻；真正少见的是，内部人士称，钱这么快、这么确定地全部到账。 两个多月、四轮融资、全部交割，即便放在如今融资最活跃的具身行业，也称得上罕见。 更夸张的是投资方阵容。 已确认的投资机构超过30家，横跨互联网巨头、产业资本、国家队和顶级VC四大阵营。 中国移动、中保投资、红杉中国、IDG资本、源码资本、达晨财智、中金资本悉数在列，小米战投更是连续三轮加注。 30多家机构、上百亿元资本，集体押注、看好的其实都是",
+      "summary_zh": "大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割  henry 2026-07-01 14:26:06  来源：量子位   四大互联网分别领投  henry 发自 凹非寺 量子位 | 公众号 QbitAI 大湾区首个200亿具身大脑来了！ 刚刚，据可靠消息：自变量连续完成4轮融资，投后估值突破200亿元，并且完成资本交割、融资款全部到账。 这使得自变量，成为大湾区首家、也是唯一一家，估值超过200亿元的具身大脑公司。  自4月下旬发布会上宣布完成由小米战投领投的B轮融资后，仅仅两个多月，自变量又连续完成B+、B++和C轮融资。 客观来说，在具身智能赛道，宣布融资早已不算新闻；真正少见的是，内部人士称，钱这么快、这么确定地全部到账。 两个多月、四轮融资、全部交割，即便放在如今融资最活跃的具身行业，也称得上罕见。 更夸张的是投资方阵容。 已确认的投资机构超过30家，横跨互联网巨头、产业资本、国家队和顶级VC四大阵营。 中国移动、中保投资、红杉中国、IDG资本、源码资本、达晨财智、中金资本悉数在列，小米战投更是连续三轮加注。 30多家机构、上百亿元资本，集体押注、看好的其实都是",
+      "publishedAt": "2026-07-01T06:26:06Z",
+      "published_at": "2026-07-01T06:26:06Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "aa4b4af7",
+      "title": "雷赛智能：预计2026年半年度净利润同比增长55%-65%",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3876981710860553?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3876981710860553?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "36氪获悉，雷赛智能公告，预计2026年半年度归属于上市公司股东的净利润为1.84亿元-1.96亿元，同比增长55%-65%。业绩变动主要系下游自动化设备市场回暖，公司订单好转，同时积极落实“两提两降”经营策略，推动经营效益向好。",
+      "summary_zh": "36氪获悉，雷赛智能公告，预计2026年半年度归属于上市公司股东的净利润为1.84亿元-1.96亿元，同比增长55%-65%。业绩变动主要系下游自动化设备市场回暖，公司订单好转，同时积极落实“两提两降”经营策略，推动经营效益向好。",
+      "publishedAt": "2026-07-01T11:09:44Z",
+      "published_at": "2026-07-01T11:09:44Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
