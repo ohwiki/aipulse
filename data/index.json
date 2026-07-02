@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-02T11:06:02Z",
-  "generatedAt": "2026-07-02T11:06:02Z",
-  "count": 51,
-  "total": 51,
+  "generated_at": "2026-07-02T21:39:25Z",
+  "generatedAt": "2026-07-02T21:39:25Z",
+  "count": 52,
+  "total": 52,
   "entries": [
+    {
+      "date": "2026-07-03",
+      "generated_at": "2026-07-02T21:39:25Z",
+      "generatedAt": "2026-07-02T21:39:25Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "639d3591",
+          "title": "产品更新：Fypro",
+          "title_en": "Fypro",
+          "url": "https://www.producthunt.com/products/fypro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fypro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Convert your TikTok followers into paying cust",
+          "summary_zh": "Convert your TikTok followers into paying cust",
+          "publishedAt": "2026-07-02T07:01:00Z",
+          "published_at": "2026-07-02T07:01:00Z",
+          "votes_count": 498,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            },
+            {
+              "id": "713",
+              "name": "Shopping",
+              "slug": "shopping"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "49482a80",
+          "title": "AI资讯更新：Context.dev",
+          "title_en": "Context.dev",
+          "url": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "One API to scrape, enrich, and extract the int",
+          "summary_zh": "One API to scrape, enrich, and extract the int",
+          "publishedAt": "2026-07-02T07:01:00Z",
+          "published_at": "2026-07-02T07:01:00Z",
+          "votes_count": 487,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "771",
+              "name": "Data",
+              "slug": "data"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "85e3509a",
+          "title": "产品更新：Needle",
+          "title_en": "Needle",
+          "url": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The proactive GTM agent in Slack and Teams Mos",
+          "summary_zh": "The proactive GTM agent in Slack and Teams Mos",
+          "publishedAt": "2026-07-02T07:01:00Z",
+          "published_at": "2026-07-02T07:01:00Z",
+          "votes_count": 239,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-02",
       "generated_at": "2026-07-02T11:06:02Z",

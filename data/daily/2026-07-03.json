@@ -1,0 +1,503 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-02T21:39:25Z",
+  "generatedAt": "2026-07-02T21:39:25Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "639d3591",
+          "title": "产品更新：Fypro",
+          "title_en": "Fypro",
+          "url": "https://www.producthunt.com/products/fypro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fypro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Convert your TikTok followers into paying cust",
+          "summary_zh": "Convert your TikTok followers into paying cust",
+          "publishedAt": "2026-07-02T07:01:00Z",
+          "published_at": "2026-07-02T07:01:00Z",
+          "votes_count": 498,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            },
+            {
+              "id": "713",
+              "name": "Shopping",
+              "slug": "shopping"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "49482a80",
+          "title": "AI资讯更新：Context.dev",
+          "title_en": "Context.dev",
+          "url": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "One API to scrape, enrich, and extract the int",
+          "summary_zh": "One API to scrape, enrich, and extract the int",
+          "publishedAt": "2026-07-02T07:01:00Z",
+          "published_at": "2026-07-02T07:01:00Z",
+          "votes_count": 487,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "771",
+              "name": "Data",
+              "slug": "data"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "85e3509a",
+          "title": "产品更新：Needle",
+          "title_en": "Needle",
+          "url": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The proactive GTM agent in Slack and Teams Mos",
+          "summary_zh": "The proactive GTM agent in Slack and Teams Mos",
+          "publishedAt": "2026-07-02T07:01:00Z",
+          "published_at": "2026-07-02T07:01:00Z",
+          "votes_count": 239,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d33182aa",
+          "title": "产品更新：Macro",
+          "title_en": "Macro",
+          "url": "https://www.producthunt.com/products/macro-workspace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/macro-workspace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Unifies your work into one app with shared mem",
+          "summary_zh": "Unifies your work into one app with shared mem",
+          "publishedAt": "2026-07-02T07:01:00Z",
+          "published_at": "2026-07-02T07:01:00Z",
+          "votes_count": 165,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "c69a9fee",
+          "title": "8点1氪丨宾利低至27万，二手豪华燃油车价格大跳水；Anthropic回应暗藏代码检测中国用户；寒武纪市值一日蒸发700亿",
+          "title_en": null,
+          "url": "https://36kr.com/p/3877746956611847?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3877746956611847?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览 OpenAI据悉迎来重大技术突破：系统优化使模型推理成本减半 苹果首次上架iPhone16e官翻机，仅有黑色与白色可选 国内航线燃油附加费7月5日起大幅下调 巴菲特“断供”盖茨基金会 董明珠喊话股东：家电不换成格力，凭什么要分红 詹姆斯发文告别湖人 TOP3大新闻 二手豪华燃油车价格大跳水：宾利近27万、保时捷15万 7月1日，在青岛市的陆海汽车交易市场，二手车商在售8年以上车龄的宾利飞驰挂牌价仅26.8万元，入门保时捷Macan则低至15万元，新车近90万元的大众途锐二手成交价6.8万元。此外，奔驰、路虎多款中大型豪华SUV同步出现大幅跳水，昔日百万级豪车如今跌至家用车价位区间。报道提及，青岛宝驰名车负责人刘青松表示，过去二手豪华燃油车全年折旧幅度普遍不超过30%，但今年5月单月折旧幅度就达到30%。 汽车之家最新信息则显示，宾利飞驰2012款6.0T限量版价格为35.8万，该车原价高达562万；奔驰G级2004款G 500报价33.8万，新车含税价则要150.34万。而像奥迪2013款A8L 50 TFSI quattro尊贵型报价跌至8.88万，新车含税价为148.",
+          "summary_zh": "今日热点导览 OpenAI据悉迎来重大技术突破：系统优化使模型推理成本减半 苹果首次上架iPhone16e官翻机，仅有黑色与白色可选 国内航线燃油附加费7月5日起大幅下调 巴菲特“断供”盖茨基金会 董明珠喊话股东：家电不换成格力，凭什么要分红 詹姆斯发文告别湖人 TOP3大新闻 二手豪华燃油车价格大跳水：宾利近27万、保时捷15万 7月1日，在青岛市的陆海汽车交易市场，二手车商在售8年以上车龄的宾利飞驰挂牌价仅26.8万元，入门保时捷Macan则低至15万元，新车近90万元的大众途锐二手成交价6.8万元。此外，奔驰、路虎多款中大型豪华SUV同步出现大幅跳水，昔日百万级豪车如今跌至家用车价位区间。报道提及，青岛宝驰名车负责人刘青松表示，过去二手豪华燃油车全年折旧幅度普遍不超过30%，但今年5月单月折旧幅度就达到30%。 汽车之家最新信息则显示，宾利飞驰2012款6.0T限量版价格为35.8万，该车原价高达562万；奔驰G级2004款G 500报价33.8万，新车含税价则要150.34万。而像奥迪2013款A8L 50 TFSI quattro尊贵型报价跌至8.88万，新车含税价为148.",
+          "publishedAt": "2026-07-02T00:10:58Z",
+          "published_at": "2026-07-02T00:10:58Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "4de9e9f0",
+          "title": "专访美图 CEO 吴欣鸿：做 AI 产品，是一场难以提前策划的游戏",
+          "title_en": null,
+          "url": "https://36kr.com/p/3877112973733895?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3877112973733895?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "访谈｜周鑫雨 兰杰 文｜周鑫雨 编辑｜张雨忻 截至 6 月中旬，吴欣鸿 2026 年的飞行距离已经超过了 230000 km，飞行时长近 300 个小时。他的轨迹横跨亚洲、北美、欧洲、南美，到达最远的地方是巴西和阿根廷。 航线所经之地，是美图近三年来靠 AI 产品扩展的市场版图。 美图 2025 年财报显示，海外 MAU 时隔多年重新回到 1 亿，其中，AI 视频编辑工具 Wink 和影像创作 Agent RoboNeo 在东南亚、墨西哥、巴西等地增长迅速，频频登上 iOS 下载榜第一。 随全球拓展水涨船高的还有利润。2025 年，美图的收入达到 38.58 亿元，净利润达 9.65 亿元，同比增长 64.7%。其中，经过 AI 重构的影像与设计产品，已经成为造血主力，收入占比从一年前的 35%，提升至 76.6%。 几年前，美图尚在盈亏线上挣扎。面对 AI 汹涌的浪潮，吴欣鸿和《智能涌现》聊的是被冲击的“危机感”，直言自己“如履薄冰”。 两年来，美图也做了不少应对 AI 时代的组织革新。吴欣鸿在 2000 多人的公司中，设立了一批小型 AI 创新工作室，为单个团队提供最高 1000",
+          "summary_zh": "访谈｜周鑫雨 兰杰 文｜周鑫雨 编辑｜张雨忻 截至 6 月中旬，吴欣鸿 2026 年的飞行距离已经超过了 230000 km，飞行时长近 300 个小时。他的轨迹横跨亚洲、北美、欧洲、南美，到达最远的地方是巴西和阿根廷。 航线所经之地，是美图近三年来靠 AI 产品扩展的市场版图。 美图 2025 年财报显示，海外 MAU 时隔多年重新回到 1 亿，其中，AI 视频编辑工具 Wink 和影像创作 Agent RoboNeo 在东南亚、墨西哥、巴西等地增长迅速，频频登上 iOS 下载榜第一。 随全球拓展水涨船高的还有利润。2025 年，美图的收入达到 38.58 亿元，净利润达 9.65 亿元，同比增长 64.7%。其中，经过 AI 重构的影像与设计产品，已经成为造血主力，收入占比从一年前的 35%，提升至 76.6%。 几年前，美图尚在盈亏线上挣扎。面对 AI 汹涌的浪潮，吴欣鸿和《智能涌现》聊的是被冲击的“危机感”，直言自己“如履薄冰”。 两年来，美图也做了不少应对 AI 时代的组织革新。吴欣鸿在 2000 多人的公司中，设立了一批小型 AI 创新工作室，为单个团队提供最高 1000",
+          "publishedAt": "2026-07-02T00:30:23Z",
+          "published_at": "2026-07-02T00:30:23Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "dea24cb6",
+          "title": "36氪首发丨北大博士量子团队获高瓴创投领投，国内唯一实现纳开温区量子计算机工程化",
+          "title_en": null,
+          "url": "https://36kr.com/p/3877814169530630?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3877814169530630?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，国内首家nK级中性原子量子计算机公司——纳开启元（北京）量子科技有限公司（下称“「纳开量子」”）近期已完成首轮数千万元融资，由高瓴创投（GL Ventures）领投，英诺、长石、飞图三家机构跟投。所募资金将重点用于新一代中性原子量子计算机的研发、超冷原子量子模拟计算机的生态建设及标杆客户交付。 「纳开量子」成立于2026年4月，是国内首家聚焦超冷原子量子模拟计算与中性原子通用量子计算路线的公司，已形成覆盖量子计算整机、冷/超冷原子实验系统、关键子系统及高精度模块化控制电路的全栈式产品矩阵。公司已斩获千万级市场订单，预计2026年全年营收达数千万元。  纳开量子超冷原子量子模拟计算机（图源/企业） 「纳开量子」的核心团队源自北京大学量子电子所冷原子与精密测量课题组（CAP组）。公司创始人兼CEO樊耀塬出生于1998年，本科毕业于北京大学物理学院，博士毕业于北京大学电子学院，从事冷原子研究超过8年，兼具物理前沿探索与工程实现能力。博士期间，他主导搭建了国内首台超冷原子干涉陀螺仪，并联合搭建了国内首台超冷原子布洛赫振荡型重力仪。 量子计算被广泛认为是下一代",
+          "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，国内首家nK级中性原子量子计算机公司——纳开启元（北京）量子科技有限公司（下称“「纳开量子」”）近期已完成首轮数千万元融资，由高瓴创投（GL Ventures）领投，英诺、长石、飞图三家机构跟投。所募资金将重点用于新一代中性原子量子计算机的研发、超冷原子量子模拟计算机的生态建设及标杆客户交付。 「纳开量子」成立于2026年4月，是国内首家聚焦超冷原子量子模拟计算与中性原子通用量子计算路线的公司，已形成覆盖量子计算整机、冷/超冷原子实验系统、关键子系统及高精度模块化控制电路的全栈式产品矩阵。公司已斩获千万级市场订单，预计2026年全年营收达数千万元。  纳开量子超冷原子量子模拟计算机（图源/企业） 「纳开量子」的核心团队源自北京大学量子电子所冷原子与精密测量课题组（CAP组）。公司创始人兼CEO樊耀塬出生于1998年，本科毕业于北京大学物理学院，博士毕业于北京大学电子学院，从事冷原子研究超过8年，兼具物理前沿探索与工程实现能力。博士期间，他主导搭建了国内首台超冷原子干涉陀螺仪，并联合搭建了国内首台超冷原子布洛赫振荡型重力仪。 量子计算被广泛认为是下一代",
+          "publishedAt": "2026-07-02T01:16:49Z",
+          "published_at": "2026-07-02T01:16:49Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "65f0cecf",
+          "title": "2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/441586.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/441586.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！  量子位的朋友们 2026-07-02 13:33:37  来源：量子位   AI入场景，Token大时代。  6月30日，由中国智算产业大会组委会主办，中国IDC圈、数字开物、算力海洋、宁夏东数西算产融研究院联合承办的2026中国智算产业生态发展年会在深圳中洲万豪酒店正式召开。 大会以“AI入场景，Token大时代”为主题，上午聚焦算力互联、Token经济与产业生态协同，下午围绕智算芯片产业链与GW级算力集群建设展开，来自算力服务商、互联网企业、设备厂商、IDC运营商、科研院所、投资机构、大模型企业等2000+产业代表齐聚一堂，共塑智算产业生态。大会期间，数十家媒体同步直播。  2026中国智算产业生态发展年会现场 01 主题演讲：聚焦算力底座、Token经济与产业落地 主题演讲环节，多位行业领军人物围绕算力互联网架构、混合算力底座重构、AI基础设施价值升级、Token效率与组织变革、世界模型与物理智能体等方向进行了深度分享。  中国信通院云计算与数字化研究所主任 马飞 中国信通院云计算与数字化研究所主任马",
+          "summary_zh": "2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！  量子位的朋友们 2026-07-02 13:33:37  来源：量子位   AI入场景，Token大时代。  6月30日，由中国智算产业大会组委会主办，中国IDC圈、数字开物、算力海洋、宁夏东数西算产融研究院联合承办的2026中国智算产业生态发展年会在深圳中洲万豪酒店正式召开。 大会以“AI入场景，Token大时代”为主题，上午聚焦算力互联、Token经济与产业生态协同，下午围绕智算芯片产业链与GW级算力集群建设展开，来自算力服务商、互联网企业、设备厂商、IDC运营商、科研院所、投资机构、大模型企业等2000+产业代表齐聚一堂，共塑智算产业生态。大会期间，数十家媒体同步直播。  2026中国智算产业生态发展年会现场 01 主题演讲：聚焦算力底座、Token经济与产业落地 主题演讲环节，多位行业领军人物围绕算力互联网架构、混合算力底座重构、AI基础设施价值升级、Token效率与组织变革、世界模型与物理智能体等方向进行了深度分享。  中国信通院云计算与数字化研究所主任 马飞 中国信通院云计算与数字化研究所主任马",
+          "publishedAt": "2026-07-02T05:33:37Z",
+          "published_at": "2026-07-02T05:33:37Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "639d3591",
+      "title": "产品更新：Fypro",
+      "title_en": "Fypro",
+      "url": "https://www.producthunt.com/products/fypro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/fypro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Convert your TikTok followers into paying cust",
+      "summary_zh": "Convert your TikTok followers into paying cust",
+      "publishedAt": "2026-07-02T07:01:00Z",
+      "published_at": "2026-07-02T07:01:00Z",
+      "votes_count": 498,
+      "featured": true,
+      "topics": [
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "278",
+          "name": "E-Commerce",
+          "slug": "e-commerce"
+        },
+        {
+          "id": "713",
+          "name": "Shopping",
+          "slug": "shopping"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "49482a80",
+      "title": "AI资讯更新：Context.dev",
+      "title_en": "Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "One API to scrape, enrich, and extract the int",
+      "summary_zh": "One API to scrape, enrich, and extract the int",
+      "publishedAt": "2026-07-02T07:01:00Z",
+      "published_at": "2026-07-02T07:01:00Z",
+      "votes_count": 487,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "771",
+          "name": "Data",
+          "slug": "data"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "85e3509a",
+      "title": "产品更新：Needle",
+      "title_en": "Needle",
+      "url": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The proactive GTM agent in Slack and Teams Mos",
+      "summary_zh": "The proactive GTM agent in Slack and Teams Mos",
+      "publishedAt": "2026-07-02T07:01:00Z",
+      "published_at": "2026-07-02T07:01:00Z",
+      "votes_count": 239,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d33182aa",
+      "title": "产品更新：Macro",
+      "title_en": "Macro",
+      "url": "https://www.producthunt.com/products/macro-workspace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/macro-workspace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Unifies your work into one app with shared mem",
+      "summary_zh": "Unifies your work into one app with shared mem",
+      "publishedAt": "2026-07-02T07:01:00Z",
+      "published_at": "2026-07-02T07:01:00Z",
+      "votes_count": 165,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "c69a9fee",
+      "title": "8点1氪丨宾利低至27万，二手豪华燃油车价格大跳水；Anthropic回应暗藏代码检测中国用户；寒武纪市值一日蒸发700亿",
+      "title_en": null,
+      "url": "https://36kr.com/p/3877746956611847?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3877746956611847?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览 OpenAI据悉迎来重大技术突破：系统优化使模型推理成本减半 苹果首次上架iPhone16e官翻机，仅有黑色与白色可选 国内航线燃油附加费7月5日起大幅下调 巴菲特“断供”盖茨基金会 董明珠喊话股东：家电不换成格力，凭什么要分红 詹姆斯发文告别湖人 TOP3大新闻 二手豪华燃油车价格大跳水：宾利近27万、保时捷15万 7月1日，在青岛市的陆海汽车交易市场，二手车商在售8年以上车龄的宾利飞驰挂牌价仅26.8万元，入门保时捷Macan则低至15万元，新车近90万元的大众途锐二手成交价6.8万元。此外，奔驰、路虎多款中大型豪华SUV同步出现大幅跳水，昔日百万级豪车如今跌至家用车价位区间。报道提及，青岛宝驰名车负责人刘青松表示，过去二手豪华燃油车全年折旧幅度普遍不超过30%，但今年5月单月折旧幅度就达到30%。 汽车之家最新信息则显示，宾利飞驰2012款6.0T限量版价格为35.8万，该车原价高达562万；奔驰G级2004款G 500报价33.8万，新车含税价则要150.34万。而像奥迪2013款A8L 50 TFSI quattro尊贵型报价跌至8.88万，新车含税价为148.",
+      "summary_zh": "今日热点导览 OpenAI据悉迎来重大技术突破：系统优化使模型推理成本减半 苹果首次上架iPhone16e官翻机，仅有黑色与白色可选 国内航线燃油附加费7月5日起大幅下调 巴菲特“断供”盖茨基金会 董明珠喊话股东：家电不换成格力，凭什么要分红 詹姆斯发文告别湖人 TOP3大新闻 二手豪华燃油车价格大跳水：宾利近27万、保时捷15万 7月1日，在青岛市的陆海汽车交易市场，二手车商在售8年以上车龄的宾利飞驰挂牌价仅26.8万元，入门保时捷Macan则低至15万元，新车近90万元的大众途锐二手成交价6.8万元。此外，奔驰、路虎多款中大型豪华SUV同步出现大幅跳水，昔日百万级豪车如今跌至家用车价位区间。报道提及，青岛宝驰名车负责人刘青松表示，过去二手豪华燃油车全年折旧幅度普遍不超过30%，但今年5月单月折旧幅度就达到30%。 汽车之家最新信息则显示，宾利飞驰2012款6.0T限量版价格为35.8万，该车原价高达562万；奔驰G级2004款G 500报价33.8万，新车含税价则要150.34万。而像奥迪2013款A8L 50 TFSI quattro尊贵型报价跌至8.88万，新车含税价为148.",
+      "publishedAt": "2026-07-02T00:10:58Z",
+      "published_at": "2026-07-02T00:10:58Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4de9e9f0",
+      "title": "专访美图 CEO 吴欣鸿：做 AI 产品，是一场难以提前策划的游戏",
+      "title_en": null,
+      "url": "https://36kr.com/p/3877112973733895?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3877112973733895?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "访谈｜周鑫雨 兰杰 文｜周鑫雨 编辑｜张雨忻 截至 6 月中旬，吴欣鸿 2026 年的飞行距离已经超过了 230000 km，飞行时长近 300 个小时。他的轨迹横跨亚洲、北美、欧洲、南美，到达最远的地方是巴西和阿根廷。 航线所经之地，是美图近三年来靠 AI 产品扩展的市场版图。 美图 2025 年财报显示，海外 MAU 时隔多年重新回到 1 亿，其中，AI 视频编辑工具 Wink 和影像创作 Agent RoboNeo 在东南亚、墨西哥、巴西等地增长迅速，频频登上 iOS 下载榜第一。 随全球拓展水涨船高的还有利润。2025 年，美图的收入达到 38.58 亿元，净利润达 9.65 亿元，同比增长 64.7%。其中，经过 AI 重构的影像与设计产品，已经成为造血主力，收入占比从一年前的 35%，提升至 76.6%。 几年前，美图尚在盈亏线上挣扎。面对 AI 汹涌的浪潮，吴欣鸿和《智能涌现》聊的是被冲击的“危机感”，直言自己“如履薄冰”。 两年来，美图也做了不少应对 AI 时代的组织革新。吴欣鸿在 2000 多人的公司中，设立了一批小型 AI 创新工作室，为单个团队提供最高 1000",
+      "summary_zh": "访谈｜周鑫雨 兰杰 文｜周鑫雨 编辑｜张雨忻 截至 6 月中旬，吴欣鸿 2026 年的飞行距离已经超过了 230000 km，飞行时长近 300 个小时。他的轨迹横跨亚洲、北美、欧洲、南美，到达最远的地方是巴西和阿根廷。 航线所经之地，是美图近三年来靠 AI 产品扩展的市场版图。 美图 2025 年财报显示，海外 MAU 时隔多年重新回到 1 亿，其中，AI 视频编辑工具 Wink 和影像创作 Agent RoboNeo 在东南亚、墨西哥、巴西等地增长迅速，频频登上 iOS 下载榜第一。 随全球拓展水涨船高的还有利润。2025 年，美图的收入达到 38.58 亿元，净利润达 9.65 亿元，同比增长 64.7%。其中，经过 AI 重构的影像与设计产品，已经成为造血主力，收入占比从一年前的 35%，提升至 76.6%。 几年前，美图尚在盈亏线上挣扎。面对 AI 汹涌的浪潮，吴欣鸿和《智能涌现》聊的是被冲击的“危机感”，直言自己“如履薄冰”。 两年来，美图也做了不少应对 AI 时代的组织革新。吴欣鸿在 2000 多人的公司中，设立了一批小型 AI 创新工作室，为单个团队提供最高 1000",
+      "publishedAt": "2026-07-02T00:30:23Z",
+      "published_at": "2026-07-02T00:30:23Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "dea24cb6",
+      "title": "36氪首发丨北大博士量子团队获高瓴创投领投，国内唯一实现纳开温区量子计算机工程化",
+      "title_en": null,
+      "url": "https://36kr.com/p/3877814169530630?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3877814169530630?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，国内首家nK级中性原子量子计算机公司——纳开启元（北京）量子科技有限公司（下称“「纳开量子」”）近期已完成首轮数千万元融资，由高瓴创投（GL Ventures）领投，英诺、长石、飞图三家机构跟投。所募资金将重点用于新一代中性原子量子计算机的研发、超冷原子量子模拟计算机的生态建设及标杆客户交付。 「纳开量子」成立于2026年4月，是国内首家聚焦超冷原子量子模拟计算与中性原子通用量子计算路线的公司，已形成覆盖量子计算整机、冷/超冷原子实验系统、关键子系统及高精度模块化控制电路的全栈式产品矩阵。公司已斩获千万级市场订单，预计2026年全年营收达数千万元。  纳开量子超冷原子量子模拟计算机（图源/企业） 「纳开量子」的核心团队源自北京大学量子电子所冷原子与精密测量课题组（CAP组）。公司创始人兼CEO樊耀塬出生于1998年，本科毕业于北京大学物理学院，博士毕业于北京大学电子学院，从事冷原子研究超过8年，兼具物理前沿探索与工程实现能力。博士期间，他主导搭建了国内首台超冷原子干涉陀螺仪，并联合搭建了国内首台超冷原子布洛赫振荡型重力仪。 量子计算被广泛认为是下一代",
+      "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，国内首家nK级中性原子量子计算机公司——纳开启元（北京）量子科技有限公司（下称“「纳开量子」”）近期已完成首轮数千万元融资，由高瓴创投（GL Ventures）领投，英诺、长石、飞图三家机构跟投。所募资金将重点用于新一代中性原子量子计算机的研发、超冷原子量子模拟计算机的生态建设及标杆客户交付。 「纳开量子」成立于2026年4月，是国内首家聚焦超冷原子量子模拟计算与中性原子通用量子计算路线的公司，已形成覆盖量子计算整机、冷/超冷原子实验系统、关键子系统及高精度模块化控制电路的全栈式产品矩阵。公司已斩获千万级市场订单，预计2026年全年营收达数千万元。  纳开量子超冷原子量子模拟计算机（图源/企业） 「纳开量子」的核心团队源自北京大学量子电子所冷原子与精密测量课题组（CAP组）。公司创始人兼CEO樊耀塬出生于1998年，本科毕业于北京大学物理学院，博士毕业于北京大学电子学院，从事冷原子研究超过8年，兼具物理前沿探索与工程实现能力。博士期间，他主导搭建了国内首台超冷原子干涉陀螺仪，并联合搭建了国内首台超冷原子布洛赫振荡型重力仪。 量子计算被广泛认为是下一代",
+      "publishedAt": "2026-07-02T01:16:49Z",
+      "published_at": "2026-07-02T01:16:49Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "65f0cecf",
+      "title": "2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/441586.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/441586.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！  量子位的朋友们 2026-07-02 13:33:37  来源：量子位   AI入场景，Token大时代。  6月30日，由中国智算产业大会组委会主办，中国IDC圈、数字开物、算力海洋、宁夏东数西算产融研究院联合承办的2026中国智算产业生态发展年会在深圳中洲万豪酒店正式召开。 大会以“AI入场景，Token大时代”为主题，上午聚焦算力互联、Token经济与产业生态协同，下午围绕智算芯片产业链与GW级算力集群建设展开，来自算力服务商、互联网企业、设备厂商、IDC运营商、科研院所、投资机构、大模型企业等2000+产业代表齐聚一堂，共塑智算产业生态。大会期间，数十家媒体同步直播。  2026中国智算产业生态发展年会现场 01 主题演讲：聚焦算力底座、Token经济与产业落地 主题演讲环节，多位行业领军人物围绕算力互联网架构、混合算力底座重构、AI基础设施价值升级、Token效率与组织变革、世界模型与物理智能体等方向进行了深度分享。  中国信通院云计算与数字化研究所主任 马飞 中国信通院云计算与数字化研究所主任马",
+      "summary_zh": "2000+智算产业代表齐聚深圳，2026 中国智算产业生态发展年会成功举办！  量子位的朋友们 2026-07-02 13:33:37  来源：量子位   AI入场景，Token大时代。  6月30日，由中国智算产业大会组委会主办，中国IDC圈、数字开物、算力海洋、宁夏东数西算产融研究院联合承办的2026中国智算产业生态发展年会在深圳中洲万豪酒店正式召开。 大会以“AI入场景，Token大时代”为主题，上午聚焦算力互联、Token经济与产业生态协同，下午围绕智算芯片产业链与GW级算力集群建设展开，来自算力服务商、互联网企业、设备厂商、IDC运营商、科研院所、投资机构、大模型企业等2000+产业代表齐聚一堂，共塑智算产业生态。大会期间，数十家媒体同步直播。  2026中国智算产业生态发展年会现场 01 主题演讲：聚焦算力底座、Token经济与产业落地 主题演讲环节，多位行业领军人物围绕算力互联网架构、混合算力底座重构、AI基础设施价值升级、Token效率与组织变革、世界模型与物理智能体等方向进行了深度分享。  中国信通院云计算与数字化研究所主任 马飞 中国信通院云计算与数字化研究所主任马",
+      "publishedAt": "2026-07-02T05:33:37Z",
+      "published_at": "2026-07-02T05:33:37Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
