@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-07-01T21:55:56Z",
-  "generatedAt": "2026-07-01T21:55:56Z",
+  "generated_at": "2026-07-02T11:06:02Z",
+  "generatedAt": "2026-07-02T11:06:02Z",
   "count": 51,
   "total": 51,
   "entries": [
     {
       "date": "2026-07-02",
-      "generated_at": "2026-07-01T21:55:56Z",
-      "generatedAt": "2026-07-01T21:55:56Z",
-      "total": 8,
+      "generated_at": "2026-07-02T11:06:02Z",
+      "generatedAt": "2026-07-02T11:06:02Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "540e5d6c",
-          "title": "产品更新：Acti",
-          "title_en": "Acti",
-          "url": "https://www.producthunt.com/products/acti-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "639d3591",
+          "title": "产品更新：Fypro",
+          "title_en": "Fypro",
+          "url": "https://www.producthunt.com/products/fypro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/acti-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/fypro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Agentic keyboard for mobile commands and searc",
-          "summary_zh": "Agentic keyboard for mobile commands and searc",
-          "publishedAt": "2026-07-01T07:01:00Z",
-          "published_at": "2026-07-01T07:01:00Z",
-          "votes_count": 377,
+          "summary": "Convert your TikTok followers into paying cust",
+          "summary_zh": "Convert your TikTok followers into paying cust",
+          "publishedAt": "2026-07-02T07:01:00Z",
+          "published_at": "2026-07-02T07:01:00Z",
+          "votes_count": 283,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
             },
             {
-              "id": "54",
-              "name": "Custom Keyboards",
-              "slug": "custom-keyboards"
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
             },
             {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
+              "id": "713",
+              "name": "Shopping",
+              "slug": "shopping"
             }
           ],
           "score_details": null
         },
         {
-          "id": "1e8d923f",
-          "title": "产品更新：Humalike",
-          "title_en": "Humalike",
-          "url": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "49482a80",
+          "title": "AI资讯更新：Context.dev",
+          "title_en": "Context.dev",
+          "url": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Give your AI agents the social intelligence th",
-          "summary_zh": "Give your AI agents the social intelligence th",
-          "publishedAt": "2026-07-01T07:01:00Z",
-          "published_at": "2026-07-01T07:01:00Z",
-          "votes_count": 366,
+          "summary": "One API to scrape, enrich, and extract the int",
+          "summary_zh": "One API to scrape, enrich, and extract the int",
+          "publishedAt": "2026-07-02T07:01:00Z",
+          "published_at": "2026-07-02T07:01:00Z",
+          "votes_count": 215,
           "featured": true,
           "topics": [
             {
@@ -75,52 +75,52 @@
               "slug": "api-1"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "771",
+              "name": "Data",
+              "slug": "data"
             }
           ],
           "score_details": null
         },
         {
-          "id": "dd71eb86",
-          "title": "产品更新：Claude Sonnet 5",
-          "title_en": "Claude Sonnet 5",
-          "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "85e3509a",
+          "title": "产品更新：Needle",
+          "title_en": "Needle",
+          "url": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "AI that plans, acts, and gets work done Our mo",
-          "summary_zh": "AI that plans, acts, and gets work done Our mo",
-          "publishedAt": "2026-07-01T07:01:00Z",
-          "published_at": "2026-07-01T07:01:00Z",
-          "votes_count": 295,
+          "summary": "The proactive GTM agent in Slack and Teams Mos",
+          "summary_zh": "The proactive GTM agent in Slack and Teams Mos",
+          "publishedAt": "2026-07-02T07:01:00Z",
+          "published_at": "2026-07-02T07:01:00Z",
+          "votes_count": 120,
           "featured": true,
           "topics": [
             {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "589",
-              "name": "Development",
-              "slug": "development"
             }
           ],
           "score_details": null
