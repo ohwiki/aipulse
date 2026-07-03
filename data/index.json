@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-03T11:08:07Z",
-  "generatedAt": "2026-07-03T11:08:07Z",
-  "count": 52,
-  "total": 52,
+  "generated_at": "2026-07-03T21:36:41Z",
+  "generatedAt": "2026-07-03T21:36:41Z",
+  "count": 53,
+  "total": 53,
   "entries": [
+    {
+      "date": "2026-07-04",
+      "generated_at": "2026-07-03T21:36:41Z",
+      "generatedAt": "2026-07-03T21:36:41Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "fdecf587",
+          "title": "产品更新：Glaze by Raycas",
+          "title_en": "Glaze by Raycast",
+          "url": "https://www.producthunt.com/products/glaze-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/glaze-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Create your own Mac apps by chatting with AI G",
+          "summary_zh": "Create your own Mac apps by chatting with AI G",
+          "publishedAt": "2026-07-03T07:01:00Z",
+          "published_at": "2026-07-03T07:01:00Z",
+          "votes_count": 451,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "be1cda3e",
+          "title": "产品更新：Tamamon",
+          "title_en": "Tamamon",
+          "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A desktop pet that grows as you code with Clau",
+          "summary_zh": "A desktop pet that grows as you code with Clau",
+          "publishedAt": "2026-07-03T07:01:00Z",
+          "published_at": "2026-07-03T07:01:00Z",
+          "votes_count": 239,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "fe3f4f31",
+          "title": "产品更新：Osloq",
+          "title_en": "Osloq",
+          "url": "https://www.producthunt.com/products/osloq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/osloq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "An AI agent that reproduces GitHub issues for",
+          "summary_zh": "An AI agent that reproduces GitHub issues for",
+          "publishedAt": "2026-07-03T07:01:00Z",
+          "published_at": "2026-07-03T07:01:00Z",
+          "votes_count": 189,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-03",
       "generated_at": "2026-07-03T11:08:07Z",
