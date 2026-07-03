@@ -1,126 +1,126 @@
 {
-  "generated_at": "2026-07-02T21:39:25Z",
-  "generatedAt": "2026-07-02T21:39:25Z",
+  "generated_at": "2026-07-03T11:08:07Z",
+  "generatedAt": "2026-07-03T11:08:07Z",
   "count": 52,
   "total": 52,
   "entries": [
     {
       "date": "2026-07-03",
-      "generated_at": "2026-07-02T21:39:25Z",
-      "generatedAt": "2026-07-02T21:39:25Z",
-      "total": 8,
+      "generated_at": "2026-07-03T11:08:07Z",
+      "generatedAt": "2026-07-03T11:08:07Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "639d3591",
-          "title": "产品更新：Fypro",
-          "title_en": "Fypro",
-          "url": "https://www.producthunt.com/products/fypro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "fdecf587",
+          "title": "产品更新：Glaze by Raycas",
+          "title_en": "Glaze by Raycast",
+          "url": "https://www.producthunt.com/products/glaze-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/fypro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/glaze-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Convert your TikTok followers into paying cust",
-          "summary_zh": "Convert your TikTok followers into paying cust",
-          "publishedAt": "2026-07-02T07:01:00Z",
-          "published_at": "2026-07-02T07:01:00Z",
-          "votes_count": 498,
+          "summary": "Create your own Mac apps by chatting with AI G",
+          "summary_zh": "Create your own Mac apps by chatting with AI G",
+          "publishedAt": "2026-07-03T07:01:00Z",
+          "published_at": "2026-07-03T07:01:00Z",
+          "votes_count": 196,
           "featured": true,
           "topics": [
             {
-              "id": "104",
-              "name": "Social Media",
-              "slug": "social-media"
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
             },
-            {
-              "id": "278",
-              "name": "E-Commerce",
-              "slug": "e-commerce"
-            },
-            {
-              "id": "713",
-              "name": "Shopping",
-              "slug": "shopping"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "49482a80",
-          "title": "AI资讯更新：Context.dev",
-          "title_en": "Context.dev",
-          "url": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "One API to scrape, enrich, and extract the int",
-          "summary_zh": "One API to scrape, enrich, and extract the int",
-          "publishedAt": "2026-07-02T07:01:00Z",
-          "published_at": "2026-07-02T07:01:00Z",
-          "votes_count": 487,
-          "featured": true,
-          "topics": [
-            {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "771",
-              "name": "Data",
-              "slug": "data"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "85e3509a",
-          "title": "产品更新：Needle",
-          "title_en": "Needle",
-          "url": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The proactive GTM agent in Slack and Teams Mos",
-          "summary_zh": "The proactive GTM agent in Slack and Teams Mos",
-          "publishedAt": "2026-07-02T07:01:00Z",
-          "published_at": "2026-07-02T07:01:00Z",
-          "votes_count": 239,
-          "featured": true,
-          "topics": [
             {
               "id": "46",
               "name": "Productivity",
               "slug": "productivity"
             },
             {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "be1cda3e",
+          "title": "产品更新：Tamamon",
+          "title_en": "Tamamon",
+          "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A desktop pet that grows as you code with Clau",
+          "summary_zh": "A desktop pet that grows as you code with Clau",
+          "publishedAt": "2026-07-03T07:01:00Z",
+          "published_at": "2026-07-03T07:01:00Z",
+          "votes_count": 142,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "fe3f4f31",
+          "title": "产品更新：Osloq",
+          "title_en": "Osloq",
+          "url": "https://www.producthunt.com/products/osloq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/osloq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "An AI agent that reproduces GitHub issues for",
+          "summary_zh": "An AI agent that reproduces GitHub issues for",
+          "publishedAt": "2026-07-03T07:01:00Z",
+          "published_at": "2026-07-03T07:01:00Z",
+          "votes_count": 138,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
             }
           ],
           "score_details": null
