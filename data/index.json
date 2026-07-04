@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-07-04T10:36:09Z",
-  "generatedAt": "2026-07-04T10:36:09Z",
-  "count": 53,
-  "total": 53,
+  "generated_at": "2026-07-04T21:24:18Z",
+  "generatedAt": "2026-07-04T21:24:18Z",
+  "count": 54,
+  "total": 54,
   "entries": [
+    {
+      "date": "2026-07-05",
+      "generated_at": "2026-07-04T21:24:18Z",
+      "generatedAt": "2026-07-04T21:24:18Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "7720d203",
+          "title": "AI资讯更新：Vida",
+          "title_en": "Vida",
+          "url": "https://www.producthunt.com/products/vida-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vida-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Clone yourself. Let AI do the work before you",
+          "summary_zh": "Clone yourself. Let AI do the work before you",
+          "publishedAt": "2026-07-04T07:01:00Z",
+          "published_at": "2026-07-04T07:01:00Z",
+          "votes_count": 319,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "648917b2",
+          "title": "AI资讯更新：ChecklistFox",
+          "title_en": "ChecklistFox",
+          "url": "https://www.producthunt.com/products/checklistfox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/checklistfox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI checklist maker for beautiful pdfs, free &",
+          "summary_zh": "AI checklist maker for beautiful pdfs, free &",
+          "publishedAt": "2026-07-04T07:01:00Z",
+          "published_at": "2026-07-04T07:01:00Z",
+          "votes_count": 204,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "aadd1240",
+          "title": "产品更新：PhoneDeck",
+          "title_en": "PhoneDeck",
+          "url": "https://www.producthunt.com/products/phonedeck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/phonedeck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turn your iPhone into a free Mac controller Yo",
+          "summary_zh": "Turn your iPhone into a free Mac controller Yo",
+          "publishedAt": "2026-07-04T07:01:00Z",
+          "published_at": "2026-07-04T07:01:00Z",
+          "votes_count": 201,
+          "featured": true,
+          "topics": [
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-04",
       "generated_at": "2026-07-04T10:36:09Z",

@@ -1,0 +1,493 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-04T21:24:18Z",
+  "generatedAt": "2026-07-04T21:24:18Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "7720d203",
+          "title": "AI资讯更新：Vida",
+          "title_en": "Vida",
+          "url": "https://www.producthunt.com/products/vida-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vida-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Clone yourself. Let AI do the work before you",
+          "summary_zh": "Clone yourself. Let AI do the work before you",
+          "publishedAt": "2026-07-04T07:01:00Z",
+          "published_at": "2026-07-04T07:01:00Z",
+          "votes_count": 319,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "648917b2",
+          "title": "AI资讯更新：ChecklistFox",
+          "title_en": "ChecklistFox",
+          "url": "https://www.producthunt.com/products/checklistfox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/checklistfox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI checklist maker for beautiful pdfs, free &",
+          "summary_zh": "AI checklist maker for beautiful pdfs, free &",
+          "publishedAt": "2026-07-04T07:01:00Z",
+          "published_at": "2026-07-04T07:01:00Z",
+          "votes_count": 204,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "aadd1240",
+          "title": "产品更新：PhoneDeck",
+          "title_en": "PhoneDeck",
+          "url": "https://www.producthunt.com/products/phonedeck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/phonedeck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Turn your iPhone into a free Mac controller Yo",
+          "summary_zh": "Turn your iPhone into a free Mac controller Yo",
+          "publishedAt": "2026-07-04T07:01:00Z",
+          "published_at": "2026-07-04T07:01:00Z",
+          "votes_count": 201,
+          "featured": true,
+          "topics": [
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "77552193",
+          "title": "产品更新：CentryAI",
+          "title_en": "CentryAI",
+          "url": "https://www.producthunt.com/products/centryai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/centryai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Subscription tracker built by someone who forg",
+          "summary_zh": "Subscription tracker built by someone who forg",
+          "publishedAt": "2026-07-04T07:01:00Z",
+          "published_at": "2026-07-04T07:01:00Z",
+          "votes_count": 176,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "792",
+              "name": "Personal Finance",
+              "slug": "personal-finance"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "ae987491",
+          "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+          "title_en": null,
+          "url": "https://36kr.com/p/3879991356157952?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3879991356157952?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "图源/企业 作者丨欧雪 编辑丨袁斯来 硬氪获悉，硅基光电子集成芯片研发商光引科技近期已完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星、西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。 光引科技2021年成立于徐州，核心团队孵化自英国剑桥大学研发团队。创始人程祺翔为剑桥大学博士、剑桥大学副教授，在光子集成领域深耕超16年，曾就职于华为海思光电团队。公司核心技术团队多名成员来自剑桥大学，硕士/博士占比达66%。 据QYResearch数据，2024年全球微型和mini光谱仪市场规模约为4.6亿美元，预计2031年将达8.22亿美元，年复合增长率8.8%，其中芯片型光谱仪占据最大市场份额，主要用于可穿戴设备、相机、智能手机等领域。 另据The Business Research Company报告，微型光谱仪市场预计将从2025年的11.8亿美元增长至2030年的21.5亿美元，复合年增长率达12.8%，可穿戴光谱仪应用是主要增长驱动因素之一。 光引科技专注于硅基光电子芯片设计及光谱传感解决方案，产品形态为微型化光谱传感模组，可应用于",
+          "summary_zh": "图源/企业 作者丨欧雪 编辑丨袁斯来 硬氪获悉，硅基光电子集成芯片研发商光引科技近期已完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星、西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。 光引科技2021年成立于徐州，核心团队孵化自英国剑桥大学研发团队。创始人程祺翔为剑桥大学博士、剑桥大学副教授，在光子集成领域深耕超16年，曾就职于华为海思光电团队。公司核心技术团队多名成员来自剑桥大学，硕士/博士占比达66%。 据QYResearch数据，2024年全球微型和mini光谱仪市场规模约为4.6亿美元，预计2031年将达8.22亿美元，年复合增长率8.8%，其中芯片型光谱仪占据最大市场份额，主要用于可穿戴设备、相机、智能手机等领域。 另据The Business Research Company报告，微型光谱仪市场预计将从2025年的11.8亿美元增长至2030年的21.5亿美元，复合年增长率达12.8%，可穿戴光谱仪应用是主要增长驱动因素之一。 光引科技专注于硅基光电子芯片设计及光谱传感解决方案，产品形态为微型化光谱传感模组，可应用于",
+          "publishedAt": "2026-07-04T01:00:00Z",
+          "published_at": "2026-07-04T01:00:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "98caa9d9",
+          "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+          "title_en": null,
+          "url": "https://36kr.com/p/3880629882679301?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3880629882679301?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览  三部门：调整节能汽车、新能源汽车车船税优惠政策 三星传获Meta超10万亿韩元AI芯片代工订单 茉莉奶白小程序更换彩色Logo Meta打算出售富余算力引发科技股回落 英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗  TOP3大新闻 因存在植入后门风险，阿里内部全面禁用Claude Code 36氪从阿里内部人士处获悉，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险软件名单。自7月10日起，阿里将全面禁止内部员工在办公环境下使用Claude Code，并推荐使用Qoder作为替代方案。 FF洛杉矶总部人去楼空？公司回应：不实 7月3日，法拉第未来发布声明称，公司日前关注到近部分网络平台流传所谓“FF洛杉矶总部人去楼空”等不实信息。FF位于汉福德的工厂并未关闭，此次系全球总部正常搬迁至洛杉矶硅滩（El Segundo）。网传视频所拍摄地点为FF曾经位于Gardena市的旧总部，今年3月底开始不再由FF使用。所谓“FF洛杉矶总部人去楼空”的说法具有严重误导性，属于对公司正常办公地点搬迁事实的恶意歪曲。（界面新闻）",
+          "summary_zh": "今日热点导览  三部门：调整节能汽车、新能源汽车车船税优惠政策 三星传获Meta超10万亿韩元AI芯片代工订单 茉莉奶白小程序更换彩色Logo Meta打算出售富余算力引发科技股回落 英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗  TOP3大新闻 因存在植入后门风险，阿里内部全面禁用Claude Code 36氪从阿里内部人士处获悉，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险软件名单。自7月10日起，阿里将全面禁止内部员工在办公环境下使用Claude Code，并推荐使用Qoder作为替代方案。 FF洛杉矶总部人去楼空？公司回应：不实 7月3日，法拉第未来发布声明称，公司日前关注到近部分网络平台流传所谓“FF洛杉矶总部人去楼空”等不实信息。FF位于汉福德的工厂并未关闭，此次系全球总部正常搬迁至洛杉矶硅滩（El Segundo）。网传视频所拍摄地点为FF曾经位于Gardena市的旧总部，今年3月底开始不再由FF使用。所谓“FF洛杉矶总部人去楼空”的说法具有严重误导性，属于对公司正常办公地点搬迁事实的恶意歪曲。（界面新闻）",
+          "publishedAt": "2026-07-04T01:03:44Z",
+          "published_at": "2026-07-04T01:03:44Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "ede666c5",
+          "title": "4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3880717381382148?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3880717381382148?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "据报道，业内人士称，随着AI半导体需求升温、全球大型科技公司订单增加，三星电子晶圆代工部门已针对部分制程启动配额机制（allocation），将有限产能集中分配给较重要的客户和制程，将产能优先分配给现有客户，新客户订单则选择性承接。（新浪财经）",
+          "summary_zh": "据报道，业内人士称，随着AI半导体需求升温、全球大型科技公司订单增加，三星电子晶圆代工部门已针对部分制程启动配额机制（allocation），将有限产能集中分配给较重要的客户和制程，将产能优先分配给现有客户，新客户订单则选择性承接。（新浪财经）",
+          "publishedAt": "2026-07-04T03:16:30Z",
+          "published_at": "2026-07-04T03:16:30Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "a0ba9185",
+          "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/442958.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/442958.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型  量子位的朋友们 2026-07-04 13:52:21  来源：量子位   近日，光象科技宣布完成累计数亿元天使轮融资，最新一轮融资由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、See Fund、亿宸资本、上市公司行云科技等头部财投与头部产投深度参与，老股东零一创投、L2F光源创业者基金等持续加注。据悉，本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人产品的商业化交付。 锚定物理原生智能，确立差异化技术路线 当前，主流技术路线要实现物理交互的通用性，尚需突破根本性局限。 VLA路线在视觉语言模型的基础上嫁接动作专家实现任务推理与动作生成，但语义通用性并不等同于物理交互能力，模型本质上是感知与动作的映射器，针对特定任务微调后虽能完成固定动作，却难以在物理交互中生长出通用的操作能力。视频预测式世界模型聚焦于环境观测序列的像素级预测，但预测表象并不等于理解物理因果，图像也不足以刻画质量、惯量、摩擦、形变与接触等物理属性，难以支撑通用泛化的动作生成。 光象科技创始人兼CEO张涛表示，真正的物理原生智能，是",
+          "summary_zh": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型  量子位的朋友们 2026-07-04 13:52:21  来源：量子位   近日，光象科技宣布完成累计数亿元天使轮融资，最新一轮融资由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、See Fund、亿宸资本、上市公司行云科技等头部财投与头部产投深度参与，老股东零一创投、L2F光源创业者基金等持续加注。据悉，本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人产品的商业化交付。 锚定物理原生智能，确立差异化技术路线 当前，主流技术路线要实现物理交互的通用性，尚需突破根本性局限。 VLA路线在视觉语言模型的基础上嫁接动作专家实现任务推理与动作生成，但语义通用性并不等同于物理交互能力，模型本质上是感知与动作的映射器，针对特定任务微调后虽能完成固定动作，却难以在物理交互中生长出通用的操作能力。视频预测式世界模型聚焦于环境观测序列的像素级预测，但预测表象并不等于理解物理因果，图像也不足以刻画质量、惯量、摩擦、形变与接触等物理属性，难以支撑通用泛化的动作生成。 光象科技创始人兼CEO张涛表示，真正的物理原生智能，是",
+          "publishedAt": "2026-07-04T05:52:21Z",
+          "published_at": "2026-07-04T05:52:21Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "7720d203",
+      "title": "AI资讯更新：Vida",
+      "title_en": "Vida",
+      "url": "https://www.producthunt.com/products/vida-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/vida-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Clone yourself. Let AI do the work before you",
+      "summary_zh": "Clone yourself. Let AI do the work before you",
+      "publishedAt": "2026-07-04T07:01:00Z",
+      "published_at": "2026-07-04T07:01:00Z",
+      "votes_count": 319,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "648917b2",
+      "title": "AI资讯更新：ChecklistFox",
+      "title_en": "ChecklistFox",
+      "url": "https://www.producthunt.com/products/checklistfox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/checklistfox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI checklist maker for beautiful pdfs, free &",
+      "summary_zh": "AI checklist maker for beautiful pdfs, free &",
+      "publishedAt": "2026-07-04T07:01:00Z",
+      "published_at": "2026-07-04T07:01:00Z",
+      "votes_count": 204,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "aadd1240",
+      "title": "产品更新：PhoneDeck",
+      "title_en": "PhoneDeck",
+      "url": "https://www.producthunt.com/products/phonedeck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/phonedeck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn your iPhone into a free Mac controller Yo",
+      "summary_zh": "Turn your iPhone into a free Mac controller Yo",
+      "publishedAt": "2026-07-04T07:01:00Z",
+      "published_at": "2026-07-04T07:01:00Z",
+      "votes_count": 201,
+      "featured": true,
+      "topics": [
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "77552193",
+      "title": "产品更新：CentryAI",
+      "title_en": "CentryAI",
+      "url": "https://www.producthunt.com/products/centryai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/centryai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Subscription tracker built by someone who forg",
+      "summary_zh": "Subscription tracker built by someone who forg",
+      "publishedAt": "2026-07-04T07:01:00Z",
+      "published_at": "2026-07-04T07:01:00Z",
+      "votes_count": 176,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "792",
+          "name": "Personal Finance",
+          "slug": "personal-finance"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ae987491",
+      "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+      "title_en": null,
+      "url": "https://36kr.com/p/3879991356157952?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3879991356157952?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "图源/企业 作者丨欧雪 编辑丨袁斯来 硬氪获悉，硅基光电子集成芯片研发商光引科技近期已完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星、西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。 光引科技2021年成立于徐州，核心团队孵化自英国剑桥大学研发团队。创始人程祺翔为剑桥大学博士、剑桥大学副教授，在光子集成领域深耕超16年，曾就职于华为海思光电团队。公司核心技术团队多名成员来自剑桥大学，硕士/博士占比达66%。 据QYResearch数据，2024年全球微型和mini光谱仪市场规模约为4.6亿美元，预计2031年将达8.22亿美元，年复合增长率8.8%，其中芯片型光谱仪占据最大市场份额，主要用于可穿戴设备、相机、智能手机等领域。 另据The Business Research Company报告，微型光谱仪市场预计将从2025年的11.8亿美元增长至2030年的21.5亿美元，复合年增长率达12.8%，可穿戴光谱仪应用是主要增长驱动因素之一。 光引科技专注于硅基光电子芯片设计及光谱传感解决方案，产品形态为微型化光谱传感模组，可应用于",
+      "summary_zh": "图源/企业 作者丨欧雪 编辑丨袁斯来 硬氪获悉，硅基光电子集成芯片研发商光引科技近期已完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星、西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。 光引科技2021年成立于徐州，核心团队孵化自英国剑桥大学研发团队。创始人程祺翔为剑桥大学博士、剑桥大学副教授，在光子集成领域深耕超16年，曾就职于华为海思光电团队。公司核心技术团队多名成员来自剑桥大学，硕士/博士占比达66%。 据QYResearch数据，2024年全球微型和mini光谱仪市场规模约为4.6亿美元，预计2031年将达8.22亿美元，年复合增长率8.8%，其中芯片型光谱仪占据最大市场份额，主要用于可穿戴设备、相机、智能手机等领域。 另据The Business Research Company报告，微型光谱仪市场预计将从2025年的11.8亿美元增长至2030年的21.5亿美元，复合年增长率达12.8%，可穿戴光谱仪应用是主要增长驱动因素之一。 光引科技专注于硅基光电子芯片设计及光谱传感解决方案，产品形态为微型化光谱传感模组，可应用于",
+      "publishedAt": "2026-07-04T01:00:00Z",
+      "published_at": "2026-07-04T01:00:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "98caa9d9",
+      "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+      "title_en": null,
+      "url": "https://36kr.com/p/3880629882679301?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3880629882679301?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览  三部门：调整节能汽车、新能源汽车车船税优惠政策 三星传获Meta超10万亿韩元AI芯片代工订单 茉莉奶白小程序更换彩色Logo Meta打算出售富余算力引发科技股回落 英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗  TOP3大新闻 因存在植入后门风险，阿里内部全面禁用Claude Code 36氪从阿里内部人士处获悉，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险软件名单。自7月10日起，阿里将全面禁止内部员工在办公环境下使用Claude Code，并推荐使用Qoder作为替代方案。 FF洛杉矶总部人去楼空？公司回应：不实 7月3日，法拉第未来发布声明称，公司日前关注到近部分网络平台流传所谓“FF洛杉矶总部人去楼空”等不实信息。FF位于汉福德的工厂并未关闭，此次系全球总部正常搬迁至洛杉矶硅滩（El Segundo）。网传视频所拍摄地点为FF曾经位于Gardena市的旧总部，今年3月底开始不再由FF使用。所谓“FF洛杉矶总部人去楼空”的说法具有严重误导性，属于对公司正常办公地点搬迁事实的恶意歪曲。（界面新闻）",
+      "summary_zh": "今日热点导览  三部门：调整节能汽车、新能源汽车车船税优惠政策 三星传获Meta超10万亿韩元AI芯片代工订单 茉莉奶白小程序更换彩色Logo Meta打算出售富余算力引发科技股回落 英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗  TOP3大新闻 因存在植入后门风险，阿里内部全面禁用Claude Code 36氪从阿里内部人士处获悉，因近期Claude Code被曝存在植入后门的安全风险，阿里经综合评估后已将其列入高风险软件名单。自7月10日起，阿里将全面禁止内部员工在办公环境下使用Claude Code，并推荐使用Qoder作为替代方案。 FF洛杉矶总部人去楼空？公司回应：不实 7月3日，法拉第未来发布声明称，公司日前关注到近部分网络平台流传所谓“FF洛杉矶总部人去楼空”等不实信息。FF位于汉福德的工厂并未关闭，此次系全球总部正常搬迁至洛杉矶硅滩（El Segundo）。网传视频所拍摄地点为FF曾经位于Gardena市的旧总部，今年3月底开始不再由FF使用。所谓“FF洛杉矶总部人去楼空”的说法具有严重误导性，属于对公司正常办公地点搬迁事实的恶意歪曲。（界面新闻）",
+      "publishedAt": "2026-07-04T01:03:44Z",
+      "published_at": "2026-07-04T01:03:44Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ede666c5",
+      "title": "4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3880717381382148?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3880717381382148?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "据报道，业内人士称，随着AI半导体需求升温、全球大型科技公司订单增加，三星电子晶圆代工部门已针对部分制程启动配额机制（allocation），将有限产能集中分配给较重要的客户和制程，将产能优先分配给现有客户，新客户订单则选择性承接。（新浪财经）",
+      "summary_zh": "据报道，业内人士称，随着AI半导体需求升温、全球大型科技公司订单增加，三星电子晶圆代工部门已针对部分制程启动配额机制（allocation），将有限产能集中分配给较重要的客户和制程，将产能优先分配给现有客户，新客户订单则选择性承接。（新浪财经）",
+      "publishedAt": "2026-07-04T03:16:30Z",
+      "published_at": "2026-07-04T03:16:30Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "a0ba9185",
+      "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/442958.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/442958.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型  量子位的朋友们 2026-07-04 13:52:21  来源：量子位   近日，光象科技宣布完成累计数亿元天使轮融资，最新一轮融资由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、See Fund、亿宸资本、上市公司行云科技等头部财投与头部产投深度参与，老股东零一创投、L2F光源创业者基金等持续加注。据悉，本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人产品的商业化交付。 锚定物理原生智能，确立差异化技术路线 当前，主流技术路线要实现物理交互的通用性，尚需突破根本性局限。 VLA路线在视觉语言模型的基础上嫁接动作专家实现任务推理与动作生成，但语义通用性并不等同于物理交互能力，模型本质上是感知与动作的映射器，针对特定任务微调后虽能完成固定动作，却难以在物理交互中生长出通用的操作能力。视频预测式世界模型聚焦于环境观测序列的像素级预测，但预测表象并不等于理解物理因果，图像也不足以刻画质量、惯量、摩擦、形变与接触等物理属性，难以支撑通用泛化的动作生成。 光象科技创始人兼CEO张涛表示，真正的物理原生智能，是",
+      "summary_zh": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型  量子位的朋友们 2026-07-04 13:52:21  来源：量子位   近日，光象科技宣布完成累计数亿元天使轮融资，最新一轮融资由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、See Fund、亿宸资本、上市公司行云科技等头部财投与头部产投深度参与，老股东零一创投、L2F光源创业者基金等持续加注。据悉，本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人产品的商业化交付。 锚定物理原生智能，确立差异化技术路线 当前，主流技术路线要实现物理交互的通用性，尚需突破根本性局限。 VLA路线在视觉语言模型的基础上嫁接动作专家实现任务推理与动作生成，但语义通用性并不等同于物理交互能力，模型本质上是感知与动作的映射器，针对特定任务微调后虽能完成固定动作，却难以在物理交互中生长出通用的操作能力。视频预测式世界模型聚焦于环境观测序列的像素级预测，但预测表象并不等于理解物理因果，图像也不足以刻画质量、惯量、摩擦、形变与接触等物理属性，难以支撑通用泛化的动作生成。 光象科技创始人兼CEO张涛表示，真正的物理原生智能，是",
+      "publishedAt": "2026-07-04T05:52:21Z",
+      "published_at": "2026-07-04T05:52:21Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
