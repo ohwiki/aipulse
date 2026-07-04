@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-07-03T21:36:41Z",
-  "generatedAt": "2026-07-03T21:36:41Z",
+  "generated_at": "2026-07-04T10:36:09Z",
+  "generatedAt": "2026-07-04T10:36:09Z",
   "count": 53,
   "total": 53,
   "entries": [
     {
       "date": "2026-07-04",
-      "generated_at": "2026-07-03T21:36:41Z",
-      "generatedAt": "2026-07-03T21:36:41Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-07-04T10:36:09Z",
+      "generatedAt": "2026-07-04T10:36:09Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "fdecf587",
-          "title": "产品更新：Glaze by Raycas",
-          "title_en": "Glaze by Raycast",
-          "url": "https://www.producthunt.com/products/glaze-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "e726efa7",
+          "title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
+          "title_en": null,
+          "url": "https://36kr.com/p/3879814941437956?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/glaze-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Create your own Mac apps by chatting with AI G",
-          "summary_zh": "Create your own Mac apps by chatting with AI G",
-          "publishedAt": "2026-07-03T07:01:00Z",
-          "published_at": "2026-07-03T07:01:00Z",
-          "votes_count": 451,
-          "featured": true,
-          "topics": [
-            {
-              "id": "19",
-              "name": "Mac",
-              "slug": "mac"
-            },
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3879814941437956?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "本文约2700字，建议阅读6分钟 作者 | 彭孝秋  编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第七期，硅基流动。  Q2的最后一天，硅基流动向港交所递交了上市申请，此次IPO是以18C未商业化公司身份申报。联席保荐人为华泰与海通国际。 如果你在AI开发者圈子，硅基流动（SiliconFlow）这个名字不会陌生。它就是那个在DeepSeek爆火时，第一个把R1/V3部署到国产芯片上跑token服务的平台。它的招股书数据也确实炸裂：注册用户两年多冲破1000万、2024年12月至2026年4月的日均token吞吐量增长12倍、付费客户一年涨292倍，估值两年半更是飙到77亿。 但硬氪翻遍347页招股书后，会发现一个华丽增长曲线背后的冷峻事实：硅基流动在亏本卖token，2025年毛利率是−24%。 硅基流动于2023年8月成立，至今未满三年，招股书称是中国领先的开放",
+          "summary_zh": "本文约2700字，建议阅读6分钟 作者 | 彭孝秋  编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第七期，硅基流动。  Q2的最后一天，硅基流动向港交所递交了上市申请，此次IPO是以18C未商业化公司身份申报。联席保荐人为华泰与海通国际。 如果你在AI开发者圈子，硅基流动（SiliconFlow）这个名字不会陌生。它就是那个在DeepSeek爆火时，第一个把R1/V3部署到国产芯片上跑token服务的平台。它的招股书数据也确实炸裂：注册用户两年多冲破1000万、2024年12月至2026年4月的日均token吞吐量增长12倍、付费客户一年涨292倍，估值两年半更是飙到77亿。 但硬氪翻遍347页招股书后，会发现一个华丽增长曲线背后的冷峻事实：硅基流动在亏本卖token，2025年毛利率是−24%。 硅基流动于2023年8月成立，至今未满三年，招股书称是中国领先的开放",
+          "publishedAt": "2026-07-03T11:12:32Z",
+          "published_at": "2026-07-03T11:12:32Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "be1cda3e",
-          "title": "产品更新：Tamamon",
-          "title_en": "Tamamon",
-          "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "65b10e1e",
+          "title": "氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实",
+          "title_en": null,
+          "url": "https://36kr.com/p/3879796756754694?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "A desktop pet that grows as you code with Clau",
-          "summary_zh": "A desktop pet that grows as you code with Clau",
-          "publishedAt": "2026-07-03T07:01:00Z",
-          "published_at": "2026-07-03T07:01:00Z",
-          "votes_count": 239,
-          "featured": true,
-          "topics": [
-            {
-              "id": "19",
-              "name": "Mac",
-              "slug": "mac"
-            },
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3879796756754694?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "大公司： 德银：Meta云业务或打开千亿美元级AI投入变现通道，2027年收入最高增300亿美元 针对Meta拟向外部客户出售AI算力及模型访问权限的消息，德意志银行认为，这并不意味着Meta削弱前沿模型或“超级智能”布局，而更可能是将较旧、非核心或阶段性闲置的算力对外变现，同时保留最新一代芯片用于内部训练。此举有望把市场对Meta“高资本开支、收入回报有限”的担忧，转向对其新增高利润收入选择权的重估。按德银测算，Meta到2027年底AI相关算力可能达到8至11.5GW，其中可对外出售容量约1.2至2.7GW；假设75%实现销售、每GW年化收入100亿至150亿美元，Meta 2027年可新增收入90亿至300亿美元，较市场预期收入高3%至10%，基准情景约175亿美元。（财联社） 东岳硅材：上半年净利润同比预增904.88%—952.28% 36氪获悉，东岳硅材发布2026年半年度业绩预告，预计2026年上半年归属于上市公司股 东的净利润为4.24亿元—4.44亿元，比上年同期增长904.88%—952.28%。 圣诺生物：控股股东拟4000万—5000万元增持公司股份 36氪获悉",
+          "summary_zh": "大公司： 德银：Meta云业务或打开千亿美元级AI投入变现通道，2027年收入最高增300亿美元 针对Meta拟向外部客户出售AI算力及模型访问权限的消息，德意志银行认为，这并不意味着Meta削弱前沿模型或“超级智能”布局，而更可能是将较旧、非核心或阶段性闲置的算力对外变现，同时保留最新一代芯片用于内部训练。此举有望把市场对Meta“高资本开支、收入回报有限”的担忧，转向对其新增高利润收入选择权的重估。按德银测算，Meta到2027年底AI相关算力可能达到8至11.5GW，其中可对外出售容量约1.2至2.7GW；假设75%实现销售、每GW年化收入100亿至150亿美元，Meta 2027年可新增收入90亿至300亿美元，较市场预期收入高3%至10%，基准情景约175亿美元。（财联社） 东岳硅材：上半年净利润同比预增904.88%—952.28% 36氪获悉，东岳硅材发布2026年半年度业绩预告，预计2026年上半年归属于上市公司股 东的净利润为4.24亿元—4.44亿元，比上年同期增长904.88%—952.28%。 圣诺生物：控股股东拟4000万—5000万元增持公司股份 36氪获悉",
+          "publishedAt": "2026-07-03T10:55:45Z",
+          "published_at": "2026-07-03T10:55:45Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "fe3f4f31",
-          "title": "产品更新：Osloq",
-          "title_en": "Osloq",
-          "url": "https://www.producthunt.com/products/osloq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "eb3fba08",
+          "title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/442531.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/osloq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "An AI agent that reproduces GitHub issues for",
-          "summary_zh": "An AI agent that reproduces GitHub issues for",
-          "publishedAt": "2026-07-03T07:01:00Z",
-          "published_at": "2026-07-03T07:01:00Z",
-          "votes_count": 189,
-          "featured": true,
-          "topics": [
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/442531.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”  量子位的朋友们 2026-07-03 18:46:18  来源：量子位   7月2日，在央视新闻《超凡一步》栏目直播中，对奕境汽车董事长汪俊君和华为公司高级副总裁、引望公司CEO靳玉志进行了深度访谈，现场解读东风汽车与华为乾崑合作打造的高端新能源品牌“奕境”，并对奕境X9进行极限场景实测，展现华为乾崑智驾ADS 5等“黑科技”，全方位见证中国汽车在产业模式、智能化技术和用户习惯领域的“三大跨越”。  中国汽车产业进入下半场，“产业跨越”推动全面智能化 中国汽车流通协会乘用车市场信息联席分会发布的数据显示，中国新能源乘用车市场零售渗透率历史首次突破60%，销量连续11年位居全球第一，在“电动化”上半场一骑绝尘。产业步入“智能化”下半场，对技术和产品提出了更高要求。 在央视新闻的镜头下，奕境X9车身安全、电池安全、高阶智驾、智能座舱等“黑科技”得到展现。奕境X9凝聚了东风与华为乾崑最新、最全、最顶的技术。例如，通过整车高强钢引用，结合合理的车身结构，实现极致的被动安全；对电池软硬结合防碰撞、防剐蹭、防起火，实现充分保护；",
+          "summary_zh": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”  量子位的朋友们 2026-07-03 18:46:18  来源：量子位   7月2日，在央视新闻《超凡一步》栏目直播中，对奕境汽车董事长汪俊君和华为公司高级副总裁、引望公司CEO靳玉志进行了深度访谈，现场解读东风汽车与华为乾崑合作打造的高端新能源品牌“奕境”，并对奕境X9进行极限场景实测，展现华为乾崑智驾ADS 5等“黑科技”，全方位见证中国汽车在产业模式、智能化技术和用户习惯领域的“三大跨越”。  中国汽车产业进入下半场，“产业跨越”推动全面智能化 中国汽车流通协会乘用车市场信息联席分会发布的数据显示，中国新能源乘用车市场零售渗透率历史首次突破60%，销量连续11年位居全球第一，在“电动化”上半场一骑绝尘。产业步入“智能化”下半场，对技术和产品提出了更高要求。 在央视新闻的镜头下，奕境X9车身安全、电池安全、高阶智驾、智能座舱等“黑科技”得到展现。奕境X9凝聚了东风与华为乾崑最新、最全、最顶的技术。例如，通过整车高强钢引用，结合合理的车身结构，实现极致的被动安全；对电池软硬结合防碰撞、防剐蹭、防起火，实现充分保护；",
+          "publishedAt": "2026-07-03T10:46:18Z",
+          "published_at": "2026-07-03T10:46:18Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
