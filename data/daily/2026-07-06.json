@@ -1,0 +1,513 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-05T21:31:14Z",
+  "generatedAt": "2026-07-05T21:31:14Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "b2546055",
+          "title": "AI资讯更新：WorkBuddy",
+          "title_en": "WorkBuddy",
+          "url": "https://www.producthunt.com/products/workbuddy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/workbuddy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Produce sharpened results faster with a team o",
+          "summary_zh": "Produce sharpened results faster with a team o",
+          "publishedAt": "2026-07-05T07:01:00Z",
+          "published_at": "2026-07-05T07:01:00Z",
+          "votes_count": 291,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "29b88e87",
+          "title": "产品更新：TryCase",
+          "title_en": "TryCase",
+          "url": "https://www.producthunt.com/products/trycase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/trycase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Disposable test environments for AI coding age",
+          "summary_zh": "Disposable test environments for AI coding age",
+          "publishedAt": "2026-07-05T07:01:00Z",
+          "published_at": "2026-07-05T07:01:00Z",
+          "votes_count": 155,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6c59836e",
+          "title": "产品更新：MentionDrop MCP",
+          "title_en": "MentionDrop MCP",
+          "url": "https://www.producthunt.com/products/mentiondrop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/mentiondrop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Give your AI agent live market signals Mention",
+          "summary_zh": "Give your AI agent live market signals Mention",
+          "publishedAt": "2026-07-05T07:01:00Z",
+          "published_at": "2026-07-05T07:01:00Z",
+          "votes_count": 147,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1c70d199",
+          "title": "模型更新：CircleChat",
+          "title_en": "CircleChat",
+          "url": "https://www.producthunt.com/products/circlechat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/circlechat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Give your AI agents a slack, a task board, and",
+          "summary_zh": "Give your AI agents a slack, a task board, and",
+          "publishedAt": "2026-07-05T07:01:00Z",
+          "published_at": "2026-07-05T07:01:00Z",
+          "votes_count": 121,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "bbab5a65",
+          "title": "别争了！香农老婆，才是世界上第一个大语言模型",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/443241.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/443241.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "别争了！香农老婆，才是世界上第一个大语言模型  henry 2026-07-05 11:51:37  来源：量子位   70年前，香农就拥有了端侧私人定制大语言模型  henry 发自 凹非寺 量子位 | 公众号 QbitAI 别争了！ 世界上第一个明牌自己是大语言模型的人，可能是香农的老婆。 1950年前后的某一天晚上，咱们的信息论鼻祖香农跟老婆贝蒂在客厅做了一个小实验。 实验里，香农扮演着一个拿着书本考试的教官，Betty则扮演一个做做词语接龙的学生，根据香农的提示，猜下一个字母。  具体的，香农会从书中某一段开始，一个字母一个字母往后走。 每到一个位置，他先不报答案，而是先问贝蒂，下一个字母是什么？ 就这样，贝蒂猜，香农记。 猜错了，香农写下正确字母。猜对了，他画一个短横。  这样一来，就像上面图里展示的那样，一段完整的英文被拆成了两部分： 贝蒂已经能预测的地方，用短横带过；贝蒂预测不了的地方，才需要把原字母写下来。 乍一看，这画面有点像什么高知伉俪玩的饭后游戏。 但在3Blue1Brown最新的视频里，这个实验被放回了一条更大的线索里—— 它可能是人类历史上最早的一场真人版ne",
+          "summary_zh": "别争了！香农老婆，才是世界上第一个大语言模型  henry 2026-07-05 11:51:37  来源：量子位   70年前，香农就拥有了端侧私人定制大语言模型  henry 发自 凹非寺 量子位 | 公众号 QbitAI 别争了！ 世界上第一个明牌自己是大语言模型的人，可能是香农的老婆。 1950年前后的某一天晚上，咱们的信息论鼻祖香农跟老婆贝蒂在客厅做了一个小实验。 实验里，香农扮演着一个拿着书本考试的教官，Betty则扮演一个做做词语接龙的学生，根据香农的提示，猜下一个字母。  具体的，香农会从书中某一段开始，一个字母一个字母往后走。 每到一个位置，他先不报答案，而是先问贝蒂，下一个字母是什么？ 就这样，贝蒂猜，香农记。 猜错了，香农写下正确字母。猜对了，他画一个短横。  这样一来，就像上面图里展示的那样，一段完整的英文被拆成了两部分： 贝蒂已经能预测的地方，用短横带过；贝蒂预测不了的地方，才需要把原字母写下来。 乍一看，这画面有点像什么高知伉俪玩的饭后游戏。 但在3Blue1Brown最新的视频里，这个实验被放回了一条更大的线索里—— 它可能是人类历史上最早的一场真人版ne",
+          "publishedAt": "2026-07-05T03:51:37Z",
+          "published_at": "2026-07-05T03:51:37Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "c07adb32",
+          "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
+          "title_en": null,
+          "url": "https://36kr.com/p/3882361033322755?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3882361033322755?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，通用餐饮具身机器人公司「影智XBOT」连续完成数亿元两轮融资——其中，A轮的2亿元融资由香港简坤资本GPTX出资，B轮融资为3-5亿元人民币，由多支政府基金、美元基金和产业投资方共同参与出资。 这是目前餐饮垂直机器人领域规模最大的一笔融资之一。 在此之前，「影智XBOT」还完成了一轮天使融资，出资人阵容豪华——包括腾讯高级副总裁张小龙、小米联合创始人黎万强、黄江吉、林斌、洪锋、以及港科大首席副校长郭毅可等。 「影智XBOT」成立于2022年，其创始人唐沐称得上机器人圈的“异类”——是机器人圈CEO中罕见的产品经理出身。  （图源/企业）  在此之前，他历任金山软件、腾讯CDC总经理，负责QQ、QZone等产品的体验设计；后又担任小米生态链副总裁，先后主导推出小米路由器、小爱音箱等千万出货量的标杆爆品，做产品的经验累计达25年。 只是，当整个具身智能赛道都在为人形进家庭和工厂的叙事而疯狂时，「影智XBOT」却选择了一条看起来不那么“酷”，却能快速产品化和商业化落地的路径——让机器人在商场角落做咖啡。 与多数主流人形机器人公司不同，「影智XBO",
+          "summary_zh": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，通用餐饮具身机器人公司「影智XBOT」连续完成数亿元两轮融资——其中，A轮的2亿元融资由香港简坤资本GPTX出资，B轮融资为3-5亿元人民币，由多支政府基金、美元基金和产业投资方共同参与出资。 这是目前餐饮垂直机器人领域规模最大的一笔融资之一。 在此之前，「影智XBOT」还完成了一轮天使融资，出资人阵容豪华——包括腾讯高级副总裁张小龙、小米联合创始人黎万强、黄江吉、林斌、洪锋、以及港科大首席副校长郭毅可等。 「影智XBOT」成立于2022年，其创始人唐沐称得上机器人圈的“异类”——是机器人圈CEO中罕见的产品经理出身。  （图源/企业）  在此之前，他历任金山软件、腾讯CDC总经理，负责QQ、QZone等产品的体验设计；后又担任小米生态链副总裁，先后主导推出小米路由器、小爱音箱等千万出货量的标杆爆品，做产品的经验累计达25年。 只是，当整个具身智能赛道都在为人形进家庭和工厂的叙事而疯狂时，「影智XBOT」却选择了一条看起来不那么“酷”，却能快速产品化和商业化落地的路径——让机器人在商场角落做咖啡。 与多数主流人形机器人公司不同，「影智XBO",
+          "publishedAt": "2026-07-05T06:23:00Z",
+          "published_at": "2026-07-05T06:23:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "acab110e",
+          "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业",
+          "title_en": null,
+          "url": "https://36kr.com/p/3882364132077577?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3882364132077577?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，具身智能公司「光象科技」宣布完成累计数亿元天使轮融资。 最新一轮由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本、上市公司行云科技等头部财投与产投深度参与，老股东零一创投、L2F光源创业者基金持续加注。 本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人在工业场景的商业化交付。 「光象科技」成立于2025年4月，是清华大学车辆与运载学院与人工智能学院联合孵化的具身智能公司。 在团队配置上，「光象科技」呈现出“产业+学术”的基因。公司创始人兼CEO张涛曾任高德空间感知引擎负责人，主导的技术此前已量产落地至数百万车载终端； 联合创始人李升波教授是强化学习与自动驾驶领域国际知名专家，发表论文250余篇，引用超30000次，连续5年入选爱思唯尔中国高被引学者。 公司团队其他成员主要来自阿里巴巴、腾讯、华为、库卡、极智嘉等科技与机器人企业，具备丰富的机器人全栈技术与商业化落地经验。 技术路线的选择上，「光象科技」选择了一条区别于主流VLA（视觉-语言-动作）和视频预测式世界模型的路径。 张涛向硬氪表",
+          "summary_zh": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，具身智能公司「光象科技」宣布完成累计数亿元天使轮融资。 最新一轮由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本、上市公司行云科技等头部财投与产投深度参与，老股东零一创投、L2F光源创业者基金持续加注。 本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人在工业场景的商业化交付。 「光象科技」成立于2025年4月，是清华大学车辆与运载学院与人工智能学院联合孵化的具身智能公司。 在团队配置上，「光象科技」呈现出“产业+学术”的基因。公司创始人兼CEO张涛曾任高德空间感知引擎负责人，主导的技术此前已量产落地至数百万车载终端； 联合创始人李升波教授是强化学习与自动驾驶领域国际知名专家，发表论文250余篇，引用超30000次，连续5年入选爱思唯尔中国高被引学者。 公司团队其他成员主要来自阿里巴巴、腾讯、华为、库卡、极智嘉等科技与机器人企业，具备丰富的机器人全栈技术与商业化落地经验。 技术路线的选择上，「光象科技」选择了一条区别于主流VLA（视觉-语言-动作）和视频预测式世界模型的路径。 张涛向硬氪表",
+          "publishedAt": "2026-07-05T06:25:53Z",
+          "published_at": "2026-07-05T06:25:53Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "26f7c416",
+          "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
+          "title_en": null,
+          "url": "https://36kr.com/p/3882365879005186?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3882365879005186?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，「忆生科技」（TranscEngram）完成数亿元天使轮融资，本轮投资方阵容横跨产业资本与国资平台，包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等。 「忆生科技」致力于从科学第一性原理出发，用\"感知—预测—交互\"闭环构建机器人\"大脑+小脑\"统一系统，探索下一代可解释自主智能（Autonomous Intelligence）。 本轮融资资金将主要用于可解释具身控制大模型与物理世界模型的研发、多模态全人形动作交互数据和算法训练管线的建设、顶尖人才团队的扩充，以及深圳前海和上海张江研发中心与产业化基地的建设，加速推动可自我纠错、持续进化的具身智能大脑与小脑系统走向商业化应用。 「忆生科技」（TranscEngram）由全球顶级人工智能专家、香港大学计算与数据科学学院创始院长马毅教授与高盛华教授和杨言超教授一起于2023年9月创立。马毅是计算机视觉领域最高荣誉「马尔奖（David Marr Prize）」得主，也是IEEE、ACM、SIAM三料Fellow，拥有二十余年视觉感知与智能系统的理论积淀。并与",
+          "summary_zh": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，「忆生科技」（TranscEngram）完成数亿元天使轮融资，本轮投资方阵容横跨产业资本与国资平台，包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等。 「忆生科技」致力于从科学第一性原理出发，用\"感知—预测—交互\"闭环构建机器人\"大脑+小脑\"统一系统，探索下一代可解释自主智能（Autonomous Intelligence）。 本轮融资资金将主要用于可解释具身控制大模型与物理世界模型的研发、多模态全人形动作交互数据和算法训练管线的建设、顶尖人才团队的扩充，以及深圳前海和上海张江研发中心与产业化基地的建设，加速推动可自我纠错、持续进化的具身智能大脑与小脑系统走向商业化应用。 「忆生科技」（TranscEngram）由全球顶级人工智能专家、香港大学计算与数据科学学院创始院长马毅教授与高盛华教授和杨言超教授一起于2023年9月创立。马毅是计算机视觉领域最高荣誉「马尔奖（David Marr Prize）」得主，也是IEEE、ACM、SIAM三料Fellow，拥有二十余年视觉感知与智能系统的理论积淀。并与",
+          "publishedAt": "2026-07-05T06:27:30Z",
+          "published_at": "2026-07-05T06:27:30Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "b2546055",
+      "title": "AI资讯更新：WorkBuddy",
+      "title_en": "WorkBuddy",
+      "url": "https://www.producthunt.com/products/workbuddy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/workbuddy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Produce sharpened results faster with a team o",
+      "summary_zh": "Produce sharpened results faster with a team o",
+      "publishedAt": "2026-07-05T07:01:00Z",
+      "published_at": "2026-07-05T07:01:00Z",
+      "votes_count": 291,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "29b88e87",
+      "title": "产品更新：TryCase",
+      "title_en": "TryCase",
+      "url": "https://www.producthunt.com/products/trycase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/trycase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Disposable test environments for AI coding age",
+      "summary_zh": "Disposable test environments for AI coding age",
+      "publishedAt": "2026-07-05T07:01:00Z",
+      "published_at": "2026-07-05T07:01:00Z",
+      "votes_count": 155,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6c59836e",
+      "title": "产品更新：MentionDrop MCP",
+      "title_en": "MentionDrop MCP",
+      "url": "https://www.producthunt.com/products/mentiondrop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/mentiondrop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Give your AI agent live market signals Mention",
+      "summary_zh": "Give your AI agent live market signals Mention",
+      "publishedAt": "2026-07-05T07:01:00Z",
+      "published_at": "2026-07-05T07:01:00Z",
+      "votes_count": 147,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1c70d199",
+      "title": "模型更新：CircleChat",
+      "title_en": "CircleChat",
+      "url": "https://www.producthunt.com/products/circlechat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/circlechat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Give your AI agents a slack, a task board, and",
+      "summary_zh": "Give your AI agents a slack, a task board, and",
+      "publishedAt": "2026-07-05T07:01:00Z",
+      "published_at": "2026-07-05T07:01:00Z",
+      "votes_count": 121,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "bbab5a65",
+      "title": "别争了！香农老婆，才是世界上第一个大语言模型",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/443241.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/443241.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "别争了！香农老婆，才是世界上第一个大语言模型  henry 2026-07-05 11:51:37  来源：量子位   70年前，香农就拥有了端侧私人定制大语言模型  henry 发自 凹非寺 量子位 | 公众号 QbitAI 别争了！ 世界上第一个明牌自己是大语言模型的人，可能是香农的老婆。 1950年前后的某一天晚上，咱们的信息论鼻祖香农跟老婆贝蒂在客厅做了一个小实验。 实验里，香农扮演着一个拿着书本考试的教官，Betty则扮演一个做做词语接龙的学生，根据香农的提示，猜下一个字母。  具体的，香农会从书中某一段开始，一个字母一个字母往后走。 每到一个位置，他先不报答案，而是先问贝蒂，下一个字母是什么？ 就这样，贝蒂猜，香农记。 猜错了，香农写下正确字母。猜对了，他画一个短横。  这样一来，就像上面图里展示的那样，一段完整的英文被拆成了两部分： 贝蒂已经能预测的地方，用短横带过；贝蒂预测不了的地方，才需要把原字母写下来。 乍一看，这画面有点像什么高知伉俪玩的饭后游戏。 但在3Blue1Brown最新的视频里，这个实验被放回了一条更大的线索里—— 它可能是人类历史上最早的一场真人版ne",
+      "summary_zh": "别争了！香农老婆，才是世界上第一个大语言模型  henry 2026-07-05 11:51:37  来源：量子位   70年前，香农就拥有了端侧私人定制大语言模型  henry 发自 凹非寺 量子位 | 公众号 QbitAI 别争了！ 世界上第一个明牌自己是大语言模型的人，可能是香农的老婆。 1950年前后的某一天晚上，咱们的信息论鼻祖香农跟老婆贝蒂在客厅做了一个小实验。 实验里，香农扮演着一个拿着书本考试的教官，Betty则扮演一个做做词语接龙的学生，根据香农的提示，猜下一个字母。  具体的，香农会从书中某一段开始，一个字母一个字母往后走。 每到一个位置，他先不报答案，而是先问贝蒂，下一个字母是什么？ 就这样，贝蒂猜，香农记。 猜错了，香农写下正确字母。猜对了，他画一个短横。  这样一来，就像上面图里展示的那样，一段完整的英文被拆成了两部分： 贝蒂已经能预测的地方，用短横带过；贝蒂预测不了的地方，才需要把原字母写下来。 乍一看，这画面有点像什么高知伉俪玩的饭后游戏。 但在3Blue1Brown最新的视频里，这个实验被放回了一条更大的线索里—— 它可能是人类历史上最早的一场真人版ne",
+      "publishedAt": "2026-07-05T03:51:37Z",
+      "published_at": "2026-07-05T03:51:37Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "c07adb32",
+      "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
+      "title_en": null,
+      "url": "https://36kr.com/p/3882361033322755?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3882361033322755?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，通用餐饮具身机器人公司「影智XBOT」连续完成数亿元两轮融资——其中，A轮的2亿元融资由香港简坤资本GPTX出资，B轮融资为3-5亿元人民币，由多支政府基金、美元基金和产业投资方共同参与出资。 这是目前餐饮垂直机器人领域规模最大的一笔融资之一。 在此之前，「影智XBOT」还完成了一轮天使融资，出资人阵容豪华——包括腾讯高级副总裁张小龙、小米联合创始人黎万强、黄江吉、林斌、洪锋、以及港科大首席副校长郭毅可等。 「影智XBOT」成立于2022年，其创始人唐沐称得上机器人圈的“异类”——是机器人圈CEO中罕见的产品经理出身。  （图源/企业）  在此之前，他历任金山软件、腾讯CDC总经理，负责QQ、QZone等产品的体验设计；后又担任小米生态链副总裁，先后主导推出小米路由器、小爱音箱等千万出货量的标杆爆品，做产品的经验累计达25年。 只是，当整个具身智能赛道都在为人形进家庭和工厂的叙事而疯狂时，「影智XBOT」却选择了一条看起来不那么“酷”，却能快速产品化和商业化落地的路径——让机器人在商场角落做咖啡。 与多数主流人形机器人公司不同，「影智XBO",
+      "summary_zh": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，通用餐饮具身机器人公司「影智XBOT」连续完成数亿元两轮融资——其中，A轮的2亿元融资由香港简坤资本GPTX出资，B轮融资为3-5亿元人民币，由多支政府基金、美元基金和产业投资方共同参与出资。 这是目前餐饮垂直机器人领域规模最大的一笔融资之一。 在此之前，「影智XBOT」还完成了一轮天使融资，出资人阵容豪华——包括腾讯高级副总裁张小龙、小米联合创始人黎万强、黄江吉、林斌、洪锋、以及港科大首席副校长郭毅可等。 「影智XBOT」成立于2022年，其创始人唐沐称得上机器人圈的“异类”——是机器人圈CEO中罕见的产品经理出身。  （图源/企业）  在此之前，他历任金山软件、腾讯CDC总经理，负责QQ、QZone等产品的体验设计；后又担任小米生态链副总裁，先后主导推出小米路由器、小爱音箱等千万出货量的标杆爆品，做产品的经验累计达25年。 只是，当整个具身智能赛道都在为人形进家庭和工厂的叙事而疯狂时，「影智XBOT」却选择了一条看起来不那么“酷”，却能快速产品化和商业化落地的路径——让机器人在商场角落做咖啡。 与多数主流人形机器人公司不同，「影智XBO",
+      "publishedAt": "2026-07-05T06:23:00Z",
+      "published_at": "2026-07-05T06:23:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "acab110e",
+      "title": "硬氪首发 | 清华车辆学院师兄弟创业具身智能，已完成数亿元天使融资，将落地汽车产业",
+      "title_en": null,
+      "url": "https://36kr.com/p/3882364132077577?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3882364132077577?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，具身智能公司「光象科技」宣布完成累计数亿元天使轮融资。 最新一轮由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本、上市公司行云科技等头部财投与产投深度参与，老股东零一创投、L2F光源创业者基金持续加注。 本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人在工业场景的商业化交付。 「光象科技」成立于2025年4月，是清华大学车辆与运载学院与人工智能学院联合孵化的具身智能公司。 在团队配置上，「光象科技」呈现出“产业+学术”的基因。公司创始人兼CEO张涛曾任高德空间感知引擎负责人，主导的技术此前已量产落地至数百万车载终端； 联合创始人李升波教授是强化学习与自动驾驶领域国际知名专家，发表论文250余篇，引用超30000次，连续5年入选爱思唯尔中国高被引学者。 公司团队其他成员主要来自阿里巴巴、腾讯、华为、库卡、极智嘉等科技与机器人企业，具备丰富的机器人全栈技术与商业化落地经验。 技术路线的选择上，「光象科技」选择了一条区别于主流VLA（视觉-语言-动作）和视频预测式世界模型的路径。 张涛向硬氪表",
+      "summary_zh": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，具身智能公司「光象科技」宣布完成累计数亿元天使轮融资。 最新一轮由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本、上市公司行云科技等头部财投与产投深度参与，老股东零一创投、L2F光源创业者基金持续加注。 本轮资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人在工业场景的商业化交付。 「光象科技」成立于2025年4月，是清华大学车辆与运载学院与人工智能学院联合孵化的具身智能公司。 在团队配置上，「光象科技」呈现出“产业+学术”的基因。公司创始人兼CEO张涛曾任高德空间感知引擎负责人，主导的技术此前已量产落地至数百万车载终端； 联合创始人李升波教授是强化学习与自动驾驶领域国际知名专家，发表论文250余篇，引用超30000次，连续5年入选爱思唯尔中国高被引学者。 公司团队其他成员主要来自阿里巴巴、腾讯、华为、库卡、极智嘉等科技与机器人企业，具备丰富的机器人全栈技术与商业化落地经验。 技术路线的选择上，「光象科技」选择了一条区别于主流VLA（视觉-语言-动作）和视频预测式世界模型的路径。 张涛向硬氪表",
+      "publishedAt": "2026-07-05T06:25:53Z",
+      "published_at": "2026-07-05T06:25:53Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "26f7c416",
+      "title": "硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统",
+      "title_en": null,
+      "url": "https://36kr.com/p/3882365879005186?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3882365879005186?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，「忆生科技」（TranscEngram）完成数亿元天使轮融资，本轮投资方阵容横跨产业资本与国资平台，包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等。 「忆生科技」致力于从科学第一性原理出发，用\"感知—预测—交互\"闭环构建机器人\"大脑+小脑\"统一系统，探索下一代可解释自主智能（Autonomous Intelligence）。 本轮融资资金将主要用于可解释具身控制大模型与物理世界模型的研发、多模态全人形动作交互数据和算法训练管线的建设、顶尖人才团队的扩充，以及深圳前海和上海张江研发中心与产业化基地的建设，加速推动可自我纠错、持续进化的具身智能大脑与小脑系统走向商业化应用。 「忆生科技」（TranscEngram）由全球顶级人工智能专家、香港大学计算与数据科学学院创始院长马毅教授与高盛华教授和杨言超教授一起于2023年9月创立。马毅是计算机视觉领域最高荣誉「马尔奖（David Marr Prize）」得主，也是IEEE、ACM、SIAM三料Fellow，拥有二十余年视觉感知与智能系统的理论积淀。并与",
+      "summary_zh": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，「忆生科技」（TranscEngram）完成数亿元天使轮融资，本轮投资方阵容横跨产业资本与国资平台，包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等。 「忆生科技」致力于从科学第一性原理出发，用\"感知—预测—交互\"闭环构建机器人\"大脑+小脑\"统一系统，探索下一代可解释自主智能（Autonomous Intelligence）。 本轮融资资金将主要用于可解释具身控制大模型与物理世界模型的研发、多模态全人形动作交互数据和算法训练管线的建设、顶尖人才团队的扩充，以及深圳前海和上海张江研发中心与产业化基地的建设，加速推动可自我纠错、持续进化的具身智能大脑与小脑系统走向商业化应用。 「忆生科技」（TranscEngram）由全球顶级人工智能专家、香港大学计算与数据科学学院创始院长马毅教授与高盛华教授和杨言超教授一起于2023年9月创立。马毅是计算机视觉领域最高荣誉「马尔奖（David Marr Prize）」得主，也是IEEE、ACM、SIAM三料Fellow，拥有二十余年视觉感知与智能系统的理论积淀。并与",
+      "publishedAt": "2026-07-05T06:27:30Z",
+      "published_at": "2026-07-05T06:27:30Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
