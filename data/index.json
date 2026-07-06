@@ -1,79 +1,36 @@
 {
-  "generated_at": "2026-07-05T21:31:14Z",
-  "generatedAt": "2026-07-05T21:31:14Z",
+  "generated_at": "2026-07-06T12:23:28Z",
+  "generatedAt": "2026-07-06T12:23:28Z",
   "count": 55,
   "total": 55,
   "entries": [
     {
       "date": "2026-07-06",
-      "generated_at": "2026-07-05T21:31:14Z",
-      "generatedAt": "2026-07-05T21:31:14Z",
-      "total": 8,
+      "generated_at": "2026-07-06T12:23:28Z",
+      "generatedAt": "2026-07-06T12:23:28Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "b2546055",
-          "title": "AI资讯更新：WorkBuddy",
-          "title_en": "WorkBuddy",
-          "url": "https://www.producthunt.com/products/workbuddy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "0f92c6f3",
+          "title": "产品更新：AnySearch",
+          "title_en": "AnySearch",
+          "url": "https://www.producthunt.com/products/anysearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/workbuddy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/anysearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Produce sharpened results faster with a team o",
-          "summary_zh": "Produce sharpened results faster with a team o",
-          "publishedAt": "2026-07-05T07:01:00Z",
-          "published_at": "2026-07-05T07:01:00Z",
-          "votes_count": 291,
+          "summary": "Real-time structured search trusted by agents",
+          "summary_zh": "Real-time structured search trusted by agents",
+          "publishedAt": "2026-07-06T07:01:00Z",
+          "published_at": "2026-07-06T07:01:00Z",
+          "votes_count": 237,
           "featured": true,
           "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "352",
-              "name": "Tech",
-              "slug": "tech"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "29b88e87",
-          "title": "产品更新：TryCase",
-          "title_en": "TryCase",
-          "url": "https://www.producthunt.com/products/trycase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/trycase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Disposable test environments for AI coding age",
-          "summary_zh": "Disposable test environments for AI coding age",
-          "publishedAt": "2026-07-05T07:01:00Z",
-          "published_at": "2026-07-05T07:01:00Z",
-          "votes_count": 155,
-          "featured": true,
-          "topics": [
-            {
-              "id": "247",
-              "name": "Software Engineering",
-              "slug": "software-engineering"
-            },
             {
               "id": "267",
               "name": "Developer Tools",
@@ -83,28 +40,33 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "361",
+              "name": "Search",
+              "slug": "search"
             }
           ],
           "score_details": null
         },
         {
-          "id": "6c59836e",
-          "title": "产品更新：MentionDrop MCP",
-          "title_en": "MentionDrop MCP",
-          "url": "https://www.producthunt.com/products/mentiondrop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "1dccb9d5",
+          "title": "产品更新：Octolens",
+          "title_en": "Octolens",
+          "url": "https://www.producthunt.com/products/octolens-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/mentiondrop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/octolens-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Give your AI agent live market signals Mention",
-          "summary_zh": "Give your AI agent live market signals Mention",
-          "publishedAt": "2026-07-05T07:01:00Z",
-          "published_at": "2026-07-05T07:01:00Z",
-          "votes_count": 147,
+          "summary": "Social listening for the agent era Your AI age",
+          "summary_zh": "Social listening for the agent era Your AI age",
+          "publishedAt": "2026-07-06T07:01:00Z",
+          "published_at": "2026-07-06T07:01:00Z",
+          "votes_count": 182,
           "featured": true,
           "topics": [
             {
@@ -116,6 +78,44 @@
               "id": "267",
               "name": "Developer Tools",
               "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6728ca1e",
+          "title": "产品更新：Typeahead 2.0",
+          "title_en": "Typeahead 2.0",
+          "url": "https://www.producthunt.com/products/typeahead?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/typeahead?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Private AI autocomplete for every app on your",
+          "summary_zh": "Private AI autocomplete for every app on your",
+          "publishedAt": "2026-07-06T07:01:00Z",
+          "published_at": "2026-07-06T07:01:00Z",
+          "votes_count": 162,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "90",
+              "name": "Writing",
+              "slug": "writing"
             },
             {
               "id": "268",
