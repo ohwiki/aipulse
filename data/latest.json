@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-06T12:23:28Z",
-  "generatedAt": "2026-07-06T12:23:28Z",
+  "generated_at": "2026-07-06T21:51:57Z",
+  "generatedAt": "2026-07-06T21:51:57Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "0f92c6f3",
@@ -22,7 +22,7 @@
       "summary_zh": "Real-time structured search trusted by agents",
       "publishedAt": "2026-07-06T07:01:00Z",
       "published_at": "2026-07-06T07:01:00Z",
-      "votes_count": 237,
+      "votes_count": 423,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Social listening for the agent era Your AI age",
       "publishedAt": "2026-07-06T07:01:00Z",
       "published_at": "2026-07-06T07:01:00Z",
-      "votes_count": 182,
+      "votes_count": 310,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "Private AI autocomplete for every app on your",
       "publishedAt": "2026-07-06T07:01:00Z",
       "published_at": "2026-07-06T07:01:00Z",
-      "votes_count": 162,
+      "votes_count": 304,
       "featured": true,
       "topics": [
         {
@@ -110,6 +110,44 @@
           "id": "90",
           "name": "Writing",
           "slug": "writing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "e347600f",
+      "title": "AI资讯更新：AirKaren",
+      "title_en": "AirKaren",
+      "url": "https://www.producthunt.com/products/airkaren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/airkaren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI that fights customer service for you AirKar",
+      "summary_zh": "AI that fights customer service for you AirKar",
+      "publishedAt": "2026-07-06T07:01:00Z",
+      "published_at": "2026-07-06T07:01:00Z",
+      "votes_count": 180,
+      "featured": true,
+      "topics": [
+        {
+          "id": "55",
+          "name": "Customer Success",
+          "slug": "customer-success"
+        },
+        {
+          "id": "250",
+          "name": "Travel",
+          "slug": "travel"
         },
         {
           "id": "268",
@@ -132,8 +170,8 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "36氪获悉，生物基皮革公司「贻如科技」完成超亿元A轮融资，本轮融资由鄂尔多斯集团与和达金服共同领投，巢生资本跟投，易凯资本担任独家财务顾问。本轮资金将主要用于推动公司商业化开拓与产能建设，并依托AI技术加速生物基皮革的技术革新与产品迭代。 贻如科技成立于2021年，以合成生物学为底层技术，创造以生物基皮革为代表的新一代创新生物基材料——通过微生物发酵直接生产生物基树脂原料，经加工后制成皮革成品，实现碳排放降低80%以上、部分产品生产成本甚至低于传统油性PU产品、物理性能（耐磨、透气、柔韧）对标真皮水准，由此让大众消费品所需的高性能材料从石油基走向生物基。 2024年，贻如科技曾完成由星空资本领投的数千万元Pre-A轮，彼时创始人苏睿对36氪判断，商业化拐点“或许明年到来”。如今，这家长期待在“水面下”、鲜少露面的公司，在全球范围内的商业落地已经突进——截至2026年第一季度，其皮革产线年产能突破1600万平方米，今年以来的海外订单近亿元，全球化布局序幕也就此正式拉开。  贻如 × ANTA ZERO × Kris Van Assche 设计师系列 · 纯素皮革系列 01  走出“实验室",
-      "summary_zh": "36氪获悉，生物基皮革公司「贻如科技」完成超亿元A轮融资，本轮融资由鄂尔多斯集团与和达金服共同领投，巢生资本跟投，易凯资本担任独家财务顾问。本轮资金将主要用于推动公司商业化开拓与产能建设，并依托AI技术加速生物基皮革的技术革新与产品迭代。 贻如科技成立于2021年，以合成生物学为底层技术，创造以生物基皮革为代表的新一代创新生物基材料——通过微生物发酵直接生产生物基树脂原料，经加工后制成皮革成品，实现碳排放降低80%以上、部分产品生产成本甚至低于传统油性PU产品、物理性能（耐磨、透气、柔韧）对标真皮水准，由此让大众消费品所需的高性能材料从石油基走向生物基。 2024年，贻如科技曾完成由星空资本领投的数千万元Pre-A轮，彼时创始人苏睿对36氪判断，商业化拐点“或许明年到来”。如今，这家长期待在“水面下”、鲜少露面的公司，在全球范围内的商业落地已经突进——截至2026年第一季度，其皮革产线年产能突破1600万平方米，今年以来的海外订单近亿元，全球化布局序幕也就此正式拉开。  贻如 × ANTA ZERO × Kris Van Assche 设计师系列 · 纯素皮革系列 01  走出“实验室",
+      "summary": "36氪获悉，生物基皮革公司「贻如科技」完成超亿元A轮融资，本轮融资由鄂尔多斯集团与和达金服共同领投，巢生资本跟投，易凯资���担任独家财务顾问。本轮资金将主要用于推动公司商业化开拓与产能建设，并依托AI技术加速生物基皮革的技术革新与产品迭代。 贻如科技成立于2021年，以合成生物学为底层技术，创造以生物基皮革为代表的新一代创新生物基材料——通过微生物发酵直接生产生物基树脂原料，经加工后制成皮革成品，实现碳排放降低80%以上、部分产品生产成本甚至低于传统油性PU产品、物理性能（耐磨、透气、柔韧）对标真皮水准，由此让大众消费品所需的高性能材料从石油基走向生物基。 2024年，贻如科技曾完成由星空资本领投的数千万元Pre-A轮，彼时创始人苏睿对36氪判断，商业化拐点“或许明年到来”。如今，这家长期待在“水面下”、鲜少露面的公司，在全球范围内的商业落地已经突进——截至2026年第一季度，其皮革产线年产能突破1600万平方米，今年以来的海外订单近亿元，全球化布局序幕也就此正式拉开。  贻如 × ANTA ZERO × Kris Van Assche 设计师系列 · 纯素皮革系列 01  走出“实",
+      "summary_zh": "36氪获悉，生物基皮革公司「贻如科技」完成超亿元A轮融资，本轮融资由鄂尔多斯集团与和达金服共同领投，巢生资本跟投，易凯资���担任独家财务顾问。本轮资金将主要用于推动公司商业化开拓与产能建设，并依托AI技术加速生物基皮革的技术革新与产品迭代。 贻如科技成立于2021年，以合成生物学为底层技术，创造以生物基皮革为代表的新一代创新生物基材料——通过微生物发酵直接生产生物基树脂原料，经加工后制成皮革成品，实现碳排放降低80%以上、部分产品生产成本甚至低于传统油性PU产品、物理性能（耐磨、透气、柔韧）对标真皮水准，由此让大众消费品所需的高性能材料从石油基走向生物基。 2024年，贻如科技曾完成由星空资本领投的数千万元Pre-A轮，彼时创始人苏睿对36氪判断，商业化拐点“或许明年到来”。如今，这家长期待在“水面下”、鲜少露面的公司，在全球范围内的商业落地已经突进——截至2026年第一季度，其皮革产线年产能突破1600万平方米，今年以来的海外订单近亿元，全球化布局序幕也就此正式拉开。  贻如 × ANTA ZERO × Kris Van Assche 设计师系列 · 纯素皮革系列 01  走出“实",
       "publishedAt": "2026-07-05T23:50:00Z",
       "published_at": "2026-07-05T23:50:00Z",
       "votes_count": null,

@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-06T12:23:28Z",
-  "generatedAt": "2026-07-06T12:23:28Z",
-  "count": 55,
-  "total": 55,
+  "generated_at": "2026-07-06T21:51:57Z",
+  "generatedAt": "2026-07-06T21:51:57Z",
+  "count": 56,
+  "total": 56,
   "entries": [
+    {
+      "date": "2026-07-07",
+      "generated_at": "2026-07-06T21:51:57Z",
+      "generatedAt": "2026-07-06T21:51:57Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "0f92c6f3",
+          "title": "产品更新：AnySearch",
+          "title_en": "AnySearch",
+          "url": "https://www.producthunt.com/products/anysearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/anysearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Real-time structured search trusted by agents",
+          "summary_zh": "Real-time structured search trusted by agents",
+          "publishedAt": "2026-07-06T07:01:00Z",
+          "published_at": "2026-07-06T07:01:00Z",
+          "votes_count": 423,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "361",
+              "name": "Search",
+              "slug": "search"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1dccb9d5",
+          "title": "产品更新：Octolens",
+          "title_en": "Octolens",
+          "url": "https://www.producthunt.com/products/octolens-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/octolens-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Social listening for the agent era Your AI age",
+          "summary_zh": "Social listening for the agent era Your AI age",
+          "publishedAt": "2026-07-06T07:01:00Z",
+          "published_at": "2026-07-06T07:01:00Z",
+          "votes_count": 310,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6728ca1e",
+          "title": "产品更新：Typeahead 2.0",
+          "title_en": "Typeahead 2.0",
+          "url": "https://www.producthunt.com/products/typeahead?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/typeahead?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Private AI autocomplete for every app on your",
+          "summary_zh": "Private AI autocomplete for every app on your",
+          "publishedAt": "2026-07-06T07:01:00Z",
+          "published_at": "2026-07-06T07:01:00Z",
+          "votes_count": 304,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "90",
+              "name": "Writing",
+              "slug": "writing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-06",
       "generated_at": "2026-07-06T12:23:28Z",
