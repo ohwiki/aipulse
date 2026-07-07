@@ -1,0 +1,503 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-07T21:48:40Z",
+  "generatedAt": "2026-07-07T21:48:40Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "a3cd9b54",
+          "title": "产品更新：Badge",
+          "title_en": "Badge",
+          "url": "https://www.producthunt.com/products/badge-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/badge-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI agents collect peer reviews to generate pro",
+          "summary_zh": "AI agents collect peer reviews to generate pro",
+          "publishedAt": "2026-07-07T07:01:00Z",
+          "published_at": "2026-07-07T07:01:00Z",
+          "votes_count": 399,
+          "featured": true,
+          "topics": [
+            {
+              "id": "41",
+              "name": "Hiring",
+              "slug": "hiring"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cb22ff74",
+          "title": "产品更新：Scribble Networ",
+          "title_en": "Scribble Network",
+          "url": "https://www.producthunt.com/products/scribble-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/scribble-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The product that makes AI recommend your brand",
+          "summary_zh": "The product that makes AI recommend your brand",
+          "publishedAt": "2026-07-07T07:01:00Z",
+          "published_at": "2026-07-07T07:01:00Z",
+          "votes_count": 330,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ba3a346c",
+          "title": "AI资讯更新：Katalyst",
+          "title_en": "Katalyst",
+          "url": "https://www.producthunt.com/products/katalyst?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/katalyst?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The AI agent that works your Salesforce Pipeli",
+          "summary_zh": "The AI agent that works your Salesforce Pipeli",
+          "publishedAt": "2026-07-07T07:01:00Z",
+          "published_at": "2026-07-07T07:01:00Z",
+          "votes_count": 275,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "769",
+              "name": "CRM",
+              "slug": "crm"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "103ded58",
+          "title": "产品更新：Dupely",
+          "title_en": "Dupely",
+          "url": "https://www.producthunt.com/products/dupely?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/dupely?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The trust layer for online shopping Most shopp",
+          "summary_zh": "The trust layer for online shopping Most shopp",
+          "publishedAt": "2026-07-07T07:01:00Z",
+          "published_at": "2026-07-07T07:01:00Z",
+          "votes_count": 216,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "1e4e6cc0",
+          "title": "用AI“复刻”人类细胞、预判药效，「华源智因」获千万级人民币种子轮融资｜36氪首发",
+          "title_en": null,
+          "url": "https://36kr.com/p/3883943959621634?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3883943959621634?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）企业华源智因近期已完成千万级人民币种子轮融资。本轮融资由水木创投领投，募集资金将主要用于多模态测序底层技术迭代，进一步拓展与头部三甲医院的合作，以及团队扩充等。此外，华源智因团队已计划启动新一轮融资。 华源智因创始团队由资深医药产业从业者、计算生物学研发人员组成，并邀请到深圳国家基因库��单位专家组成科学顾问委员会，形成科研与产业协同的团队架构。公司CEO杜润诗就读于加州大学洛杉矶分校，是AI领域连续创业者；CTO王艺璇为香港中文大学计算机科学与工程专业博士生，曾在百图生科牵头搭建基因扰动转录效应的预测模型xTrimoSC Perturb。此外，香港中文大学算机科学与工程系助理教授李煜任华源智因首席AI科学家。 在新药研发领域，“10年、10亿美金”是公认困境。其中，九成资源流向人体临床试验阶段，但最终仅有10%左右的候选药物能够顺利通过全部临床、成功上市。造成超高失败率的核心原因之一，是动物实验与人体真实生理环境的巨大差异。 那么，能否在投入高昂成本进入人体临床试验环节前，先在计算机里模拟出药物进入人体后的真实反应，以降低",
+          "summary_zh": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）企业华源智因近期已完成千万级人民币种子轮融资。本轮融资由水木创投领投，募集资金将主要用于多模态测序底层技术迭代，进一步拓展与头部三甲医院的合作，以及团队扩充等。此外，华源智因团队已计划启动新一轮融资。 华源智因创始团队由资深医药产业从业者、计算生物学研发人员组成，并邀请到深圳国家基因库��单位专家组成科学顾问委员会，形成科研与产业协同的团队架构。公司CEO杜润诗就读于加州大学洛杉矶分校，是AI领域连续创业者；CTO王艺璇为香港中文大学计算机科学与工程专业博士生，曾在百图生科牵头搭建基因扰动转录效应的预测模型xTrimoSC Perturb。此外，香港中文大学算机科学与工程系助理教授李煜任华源智因首席AI科学家。 在新药研发领域，“10年、10亿美金”是公认困境。其中，九成资源流向人体临床试验阶段，但最终仅有10%左右的候选药物能够顺利通过全部临床、成功上市。造成超高失败率的核心原因之一，是动物实验与人体真实生理环境的巨大差异。 那么，能否在投入高昂成本进入人体临床试验环节前，先在计算机里模拟出药物进入人体后的真实反应，以降低",
+          "publishedAt": "2026-07-07T01:05:00Z",
+          "published_at": "2026-07-07T01:05:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "aa5f50f6",
+          "title": "Claude的脑子里，也长出了一块「意识」",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/444741.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/444741.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Claude的脑子里，也长出了一块「意识」  克雷西 2026-07-07 09:38:18  来源：量子位   内部发现「类脑空间」，删掉就变傻  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 在Claude模型里，还真的发现了类似人脑的结构？！ Anthropic最新发表了一篇超长论文，研究了Claude的潜意识与意识。 结果显示，Claude内部确实存在类似的功能分层。  具体来说，人脑里有一部分思维你能说出来，还有一大部分你根本不知道自己在想。 A社这篇论文，说这套区分在Claude身上也长出来了。 他们在Claude内部揪出一小撮神经表征，占的运算量不到十分之一，却像人类「意识可及的思维“一样运作。 Anthropic把这撮东西叫J-space。 有意思的是，删掉它，Claude照样能说话、能查资料、能答选择题，唯独多步推理和总结这类动脑子的活儿，直接掉到一个小得多的模型的水平。 网友评价说，这太疯狂了，他们就像是在制造数字生命。  J-space是什么，怎么被验证出来的 人类的神经科学当中，有一个流传很广的理论叫「全局工作空间理论」。 它把大脑比作一堆各自忙自己的",
+          "summary_zh": "Claude的脑子里，也长出了一块「意识」  克雷西 2026-07-07 09:38:18  来源：量子位   内部发现「类脑空间」，删掉就变傻  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 在Claude模型里，还真的发现了类似人脑的结构？！ Anthropic最新发表了一篇超长论文，研究了Claude的潜意识与意识。 结果显示，Claude内部确实存在类似的功能分层。  具体来说，人脑里有一部分思维你能说出来，还有一大部分你根本不知道自己在想。 A社这篇论文，说这套区分在Claude身上也长出来了。 他们在Claude内部揪出一小撮神经表征，占的运算量不到十分之一，却像人类「意识可及的思维“一样运作。 Anthropic把这撮东西叫J-space。 有意思的是，删掉它，Claude照样能说话、能查资料、能答选择题，唯独多步推理和总结这类动脑子的活儿，直接掉到一个小得多的模型的水平。 网友评价说，这太疯狂了，他们就像是在制造数字生命。  J-space是什么，怎么被验证出来的 人类的神经科学当中，有一个流传很广的理论叫「全局工作空间理论」。 它把大脑比作一堆各自忙自己的",
+          "publishedAt": "2026-07-07T01:38:18Z",
+          "published_at": "2026-07-07T01:38:18Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "4e53685b",
+          "title": "前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
+          "title_en": null,
+          "url": "https://36kr.com/p/3876837605585160?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3876837605585160?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者｜黄楠 编辑｜袁斯来 浪爪智能（CLAWLAB）创始人胡文鑫，是当下硬件赛道一个不太按常理出牌的人。 工程师背景出身，曾就职于大疆、美团等头部大厂，拿过顶级机构的钱，履历足以支撑他选择任何一个被市场验证过的热门赛道，在最短时间内做出产品、讲故事、滚动融资。 但胡文鑫扎进了一个过去三十年几乎无人问津的品类：家用纺织机。 很少有人知道胡文鑫具体在做什么。浪爪智能成立于2022年12月，近几年里，团队刻意保持水下状态——BP从不外发，没有主动路演或公司传播，有投资人对产品方向感兴趣就直接到办公室看Demo。 硬氪独家获悉，过去几年，浪爪智能已连续完成数轮超亿元融资，Pre-A2轮由元璟资本领投、老股东顺为资本超额加注，Pre-A3轮由米哈游领投、老股���元璟及顺为大幅超额加注。此前投资方包括红杉等。 选择纺织方向，基于一个极为朴素的认知。“纺织天然切中‘衣食住行’的首位，是一件足够大且真实存在的需求。而定制化DIY，是在刚性需求被满足之后，用户向内探索自我表达、向外输出个性化的自然延伸。”创业初期胡文鑫就判断，这个赛道的天花板足够高，值得用很长的时间去探索。 纺织DIY赛道在全球拥有上",
+          "summary_zh": "作者｜黄楠 编辑｜袁斯来 浪爪智能（CLAWLAB）创始人胡文鑫，是当下硬件赛道一个不太按常理出牌的人。 工程师背景出身，曾就职于大疆、美团等头部大厂，拿过顶级机构的钱，履历足以支撑他选择任何一个被市场验证过的热门赛道，在最短时间内做出产品、讲故事、滚动融资。 但胡文鑫扎进了一个过去三十年几乎无人问津的品类：家用纺织机。 很少有人知道胡文鑫具体在做什么。浪爪智能成立于2022年12月，近几年里，团队刻意保持水下状态——BP从不外发，没有主动路演或公司传播，有投资人对产品方向感兴趣就直接到办公室看Demo。 硬氪独家获悉，过去几年，浪爪智能已连续完成数轮超亿元融资，Pre-A2轮由元璟资本领投、老股东顺为资本超额加注，Pre-A3轮由米哈游领投、老股���元璟及顺为大幅超额加注。此前投资方包括红杉等。 选择纺织方向，基于一个极为朴素的认知。“纺织天然切中‘衣食住行’的首位，是一件足够大且真实存在的需求。而定制化DIY，是在刚性需求被满足之后，用户向内探索自我表达、向外输出个性化的自然延伸。”创业初期胡文鑫就判断，这个赛道的天花板足够高，值得用很长的时间去探索。 纺织DIY赛道在全球拥有上",
+          "publishedAt": "2026-07-07T02:29:47Z",
+          "published_at": "2026-07-07T02:29:47Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "934eb597",
+          "title": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/444859.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/444859.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程  量子位的朋友们 2026-07-07 11:14:41  来源：量子位    在WAIC 2022上，菲尔兹奖首位华人得主丘成桐便提出极具前瞻性的核心论断：“数学是人工智能技术发展的基石，反过来，人工智能的发展也能为数学研究提供重要助力。”这一数智双向赋能的底层逻辑，已被AAAI、ACM（国际计算机学会）等国际顶会，以及《Nature》等国际顶刊长期验证。 当前AI产业粗放式发展弊端凸显。单纯依靠参数堆叠、算力透支的迭代模式已触达理论天花板。大模型可解释性弱、涌现机理不明、鲁棒性不足等行业痛点，本质是AI底层数理体系缺失、基础理论迭代滞后所致。 目前，数智双向融合已产出大量可落地、可溯源成果。凸优化、概率统计、泛函分析等数学理论，有效解决大模型过拟合、泛化性差、算力冗余等工程难题。DeepMind AlphaGeometry、FunSearch、AlphaProof等智能系统，在几何推理、组合数学、形式化证明领域突破传统人工研究上限。数学家王虹深耕调和分析与几何测度论，通过证明三维挂谷猜想、优化傅里叶分",
+          "summary_zh": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程  量子位的朋友们 2026-07-07 11:14:41  来源：量子位    在WAIC 2022上，菲尔兹奖首位华人得主丘成桐便提出极具前瞻性的核心论断：“数学是人工智能技术发展的基石，反过来，人工智能的发展也能为数学研究提供重要助力。”这一数智双向赋能的底层逻辑，已被AAAI、ACM（国际计算机学会）等国际顶会，以及《Nature》等国际顶刊长期验证。 当前AI产业粗放式发展弊端凸显。单纯依靠参数堆叠、算力透支的迭代模式已触达理论天花板。大模型可解释性弱、涌现机理不明、鲁棒性不足等行业痛点，本质是AI底层数理体系缺失、基础理论迭代滞后所致。 目前，数智双向融合已产出大量可落地、可溯源成果。凸优化、概率统计、泛函分析等数学理论，有效解决大模型过拟合、泛化性差、算力冗余等工程难题。DeepMind AlphaGeometry、FunSearch、AlphaProof等智能系统，在几何推理、组合数学、形式化证明领域突破传统人工研究上限。数学家王虹深耕调和分析与几何测度论，通过证明三维挂谷猜想、优化傅里叶分",
+          "publishedAt": "2026-07-07T03:14:41Z",
+          "published_at": "2026-07-07T03:14:41Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "a3cd9b54",
+      "title": "产品更新：Badge",
+      "title_en": "Badge",
+      "url": "https://www.producthunt.com/products/badge-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/badge-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI agents collect peer reviews to generate pro",
+      "summary_zh": "AI agents collect peer reviews to generate pro",
+      "publishedAt": "2026-07-07T07:01:00Z",
+      "published_at": "2026-07-07T07:01:00Z",
+      "votes_count": 399,
+      "featured": true,
+      "topics": [
+        {
+          "id": "41",
+          "name": "Hiring",
+          "slug": "hiring"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "cb22ff74",
+      "title": "产品更新：Scribble Networ",
+      "title_en": "Scribble Network",
+      "url": "https://www.producthunt.com/products/scribble-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/scribble-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The product that makes AI recommend your brand",
+      "summary_zh": "The product that makes AI recommend your brand",
+      "publishedAt": "2026-07-07T07:01:00Z",
+      "published_at": "2026-07-07T07:01:00Z",
+      "votes_count": 330,
+      "featured": true,
+      "topics": [
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ba3a346c",
+      "title": "AI资讯更新：Katalyst",
+      "title_en": "Katalyst",
+      "url": "https://www.producthunt.com/products/katalyst?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/katalyst?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI agent that works your Salesforce Pipeli",
+      "summary_zh": "The AI agent that works your Salesforce Pipeli",
+      "publishedAt": "2026-07-07T07:01:00Z",
+      "published_at": "2026-07-07T07:01:00Z",
+      "votes_count": 275,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "769",
+          "name": "CRM",
+          "slug": "crm"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "103ded58",
+      "title": "产品更新：Dupely",
+      "title_en": "Dupely",
+      "url": "https://www.producthunt.com/products/dupely?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/dupely?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The trust layer for online shopping Most shopp",
+      "summary_zh": "The trust layer for online shopping Most shopp",
+      "publishedAt": "2026-07-07T07:01:00Z",
+      "published_at": "2026-07-07T07:01:00Z",
+      "votes_count": 216,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "id": "278",
+          "name": "E-Commerce",
+          "slug": "e-commerce"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1e4e6cc0",
+      "title": "用AI“复刻”人类细胞、预判药效，「华源智因」获千万级人民币种子轮融资｜36氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3883943959621634?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3883943959621634?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）企业华源智因近期已完成千万级人民币种子轮融资。本轮融资由水木创投领投，募集资金将主要用于多模态测序底层技术迭代，进一步拓展与头部三甲医院的合作，以及团队扩充等。此外，华源智因团队已计划启动新一轮融资。 华源智因创始团队由资深医药产业从业者、计算生物学研发人员组成，并邀请到深圳国家基因库��单位专家组成科学顾问委员会，形成科研与产业协同的团队架构。公司CEO杜润诗就读于加州大学洛杉矶分校，是AI领域连续创业者；CTO王艺璇为香港中文大学计算机科学与工程专业博士生，曾在百图生科牵头搭建基因扰动转录效应的预测模型xTrimoSC Perturb。此外，香港中文大学算机科学与工程系助理教授李煜任华源智因首席AI科学家。 在新药研发领域，“10年、10亿美金”是公认困境。其中，九成资源流向人体临床试验阶段，但最终仅有10%左右的候选药物能够顺利通过全部临床、成功上市。造成超高失败率的核心原因之一，是动物实验与人体真实生理环境的巨大差异。 那么，能否在投入高昂成本进入人体临床试验环节前，先在计算机里模拟出药物进入人体后的真实反应，以降低",
+      "summary_zh": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）企业华源智因近期已完成千万级人民币种子轮融资。本轮融资由水木创投领投，募集资金将主要用于多模态测序底层技术迭代，进一步拓展与头部三甲医院的合作，以及团队扩充等。此外，华源智因团队已计划启动新一轮融资。 华源智因创始团队由资深医药产业从业者、计算生物学研发人员组成，并邀请到深圳国家基因库��单位专家组成科学顾问委员会，形成科研与产业协同的团队架构。公司CEO杜润诗就读于加州大学洛杉矶分校，是AI领域连续创业者；CTO王艺璇为香港中文大学计算机科学与工程专业博士生，曾在百图生科牵头搭建基因扰动转录效应的预测模型xTrimoSC Perturb。此外，香港中文大学算机科学与工程系助理教授李煜任华源智因首席AI科学家。 在新药研发领域，“10年、10亿美金”是公认困境。其中，九成资源流向人体临床试验阶段，但最终仅有10%左右的候选药物能够顺利通过全部临床、成功上市。造成超高失败率的核心原因之一，是动物实验与人体真实生理环境的巨大差异。 那么，能否在投入高昂成本进入人体临床试验环节前，先在计算机里模拟出药物进入人体后的真实反应，以降低",
+      "publishedAt": "2026-07-07T01:05:00Z",
+      "published_at": "2026-07-07T01:05:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "aa5f50f6",
+      "title": "Claude的脑子里，也长出了一块「意识」",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/444741.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/444741.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Claude的脑子里，也长出了一块「意识」  克雷西 2026-07-07 09:38:18  来源：量子位   内部发现「类脑空间」，删掉就变傻  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 在Claude模型里，还真的发现了类似人脑的结构？！ Anthropic最新发表了一篇超长论文，研究了Claude的潜意识与意识。 结果显示，Claude内部确实存在类似的功能分层。  具体来说，人脑里有一部分思维你能说出来，还有一大部分你根本不知道自己在想。 A社这篇论文，说这套区分在Claude身上也长出来了。 他们在Claude内部揪出一小撮神经表征，占的运算量不到十分之一，却像人类「意识可及的思维“一样运作。 Anthropic把这撮东西叫J-space。 有意思的是，删掉它，Claude照样能说话、能查资料、能答选择题，唯独多步推理和总结这类动脑子的活儿，直接掉到一个小得多的模型的水平。 网友评价说，这太疯狂了，他们就像是在制造数字生命。  J-space是什么，怎么被验证出来的 人类的神经科学当中，有一个流传很广的理论叫「全局工作空间理论」。 它把大脑比作一堆各自忙自己的",
+      "summary_zh": "Claude的脑子里，也长出了一块「意识」  克雷西 2026-07-07 09:38:18  来源：量子位   内部发现「类脑空间」，删掉就变傻  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 在Claude模型里，还真的发现了类似人脑的结构？！ Anthropic最新发表了一篇超长论文，研究了Claude的潜意识与意识。 结果显示，Claude内部确实存在类似的功能分层。  具体来说，人脑里有一部分思维你能说出来，还有一大部分你根本不知道自己在想。 A社这篇论文，说这套区分在Claude身上也长出来了。 他们在Claude内部揪出一小撮神经表征，占的运算量不到十分之一，却像人类「意识可及的思维“一样运作。 Anthropic把这撮东西叫J-space。 有意思的是，删掉它，Claude照样能说话、能查资料、能答选择题，唯独多步推理和总结这类动脑子的活儿，直接掉到一个小得多的模型的水平。 网友评价说，这太疯狂了，他们就像是在制造数字生命。  J-space是什么，怎么被验证出来的 人类的神经科学当中，有一个流传很广的理论叫「全局工作空间理论」。 它把大脑比作一堆各自忙自己的",
+      "publishedAt": "2026-07-07T01:38:18Z",
+      "published_at": "2026-07-07T01:38:18Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4e53685b",
+      "title": "前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
+      "title_en": null,
+      "url": "https://36kr.com/p/3876837605585160?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3876837605585160?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者｜黄楠 编辑｜袁斯来 浪爪智能（CLAWLAB）创始人胡文鑫，是当下硬件赛道一个不太按常理出牌的人。 工程师背景出身，曾就职于大疆、美团等头部大厂，拿过顶级机构的钱，履历足以支撑他选择任何一个被市场验证过的热门赛道，在最短时间内做出产品、讲故事、滚动融资。 但胡文鑫扎进了一个过去三十年几乎无人问津的品类：家用纺织机。 很少有人知道胡文鑫具体在做什么。浪爪智能成立于2022年12月，近几年里，团队刻意保持水下状态——BP从不外发，没有主动路演或公司传播，有投资人对产品方向感兴趣就直接到办公室看Demo。 硬氪独家获悉，过去几年，浪爪智能已连续完成数轮超亿元融资，Pre-A2轮由元璟资本领投、老股东顺为资本超额加注，Pre-A3轮由米哈游领投、老股���元璟及顺为大幅超额加注。此前投资方包括红杉等。 选择纺织方向，基于一个极为朴素的认知。“纺织天然切中‘衣食住行’的首位，是一件足够大且真实存在的需求。而定制化DIY，是在刚性需求被满足之后，用户向内探索自我表达、向外输出个性化的自然延伸。”创业初期胡文鑫就判断，这个赛道的天花板足够高，值得用很长的时间去探索。 纺织DIY赛道在全球拥有上",
+      "summary_zh": "作者｜黄楠 编辑｜袁斯来 浪爪智能（CLAWLAB）创始人胡文鑫，是当下硬件赛道一个不太按常理出牌的人。 工程师背景出身，曾就职于大疆、美团等头部大厂，拿过顶级机构的钱，履历足以支撑他选择任何一个被市场验证过的热门赛道，在最短时间内做出产品、讲故事、滚动融资。 但胡文鑫扎进了一个过去三十年几乎无人问津的品类：家用纺织机。 很少有人知道胡文鑫具体在做什么。浪爪智能成立于2022年12月，近几年里，团队刻意保持水下状态——BP从不外发，没有主动路演或公司传播，有投资人对产品方向感兴趣就直接到办公室看Demo。 硬氪独家获悉，过去几年，浪爪智能已连续完成数轮超亿元融资，Pre-A2轮由元璟资本领投、老股东顺为资本超额加注，Pre-A3轮由米哈游领投、老股���元璟及顺为大幅超额加注。此前投资方包括红杉等。 选择纺织方向，基于一个极为朴素的认知。“纺织天然切中‘衣食住行’的首位，是一件足够大且真实存在的需求。而定制化DIY，是在刚性需求被满足之后，用户向内探索自我表达、向外输出个性化的自然延伸。”创业初期胡文鑫就判断，这个赛道的天花板足够高，值得用很长的时间去探索。 纺织DIY赛道在全球拥有上",
+      "publishedAt": "2026-07-07T02:29:47Z",
+      "published_at": "2026-07-07T02:29:47Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "934eb597",
+      "title": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/444859.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/444859.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程  量子位的朋友们 2026-07-07 11:14:41  来源：量子位    在WAIC 2022上，菲尔兹奖首位华人得主丘成桐便提出极具前瞻性的核心论断：“数学是人工智能技术发展的基石，反过来，人工智能的发展也能为数学研究提供重要助力。”这一数智双向赋能的底层逻辑，已被AAAI、ACM（国际计算机学会）等国际顶会，以及《Nature》等国际顶刊长期验证。 当前AI产业粗放式发展弊端凸显。单纯依靠参数堆叠、算力透支的迭代模式已触达理论天花板。大模型可解释性弱、涌现机理不明、鲁棒性不足等行业痛点，本质是AI底层数理体系缺失、基础理论迭代滞后所致。 目前，数智双向融合已产出大量可落地、可溯源成果。凸优化、概率统计、泛函分析等数学理论，有效解决大模型过拟合、泛化性差、算力冗余等工程难题。DeepMind AlphaGeometry、FunSearch、AlphaProof等智能系统，在几何推理、组合数学、形式化证明领域突破传统人工研究上限。数学家王虹深耕调和分析与几何测度论，通过证明三维挂谷猜想、优化傅里叶分",
+      "summary_zh": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程  量子位的朋友们 2026-07-07 11:14:41  来源：量子位    在WAIC 2022上，菲尔兹奖首位华人得主丘成桐便提出极具前瞻性的核心论断：“数学是人工智能技术发展的基石，反过来，人工智能的发展也能为数学研究提供重要助力。”这一数智双向赋能的底层逻辑，已被AAAI、ACM（国际计算机学会）等国际顶会，以及《Nature》等国际顶刊长期验证。 当前AI产业粗放式发展弊端凸显。单纯依靠参数堆叠、算力透支的迭代模式已触达理论天花板。大模型可解释性弱、涌现机理不明、鲁棒性不足等行业痛点，本质是AI底层数理体系缺失、基础理论迭代滞后所致。 目前，数智双向融合已产出大量可落地、可溯源成果。凸优化、概率统计、泛函分析等数学理论，有效解决大模型过拟合、泛化性差、算力冗余等工程难题。DeepMind AlphaGeometry、FunSearch、AlphaProof等智能系统，在几何推理、组合数学、形式化证明领域突破传统人工研究上限。数学家王虹深耕调和分析与几何测度论，通过证明三维挂谷猜想、优化傅里叶分",
+      "publishedAt": "2026-07-07T03:14:41Z",
+      "published_at": "2026-07-07T03:14:41Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

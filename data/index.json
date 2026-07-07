@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-07T11:23:33Z",
-  "generatedAt": "2026-07-07T11:23:33Z",
-  "count": 56,
-  "total": 56,
+  "generated_at": "2026-07-07T21:48:40Z",
+  "generatedAt": "2026-07-07T21:48:40Z",
+  "count": 57,
+  "total": 57,
   "entries": [
+    {
+      "date": "2026-07-08",
+      "generated_at": "2026-07-07T21:48:40Z",
+      "generatedAt": "2026-07-07T21:48:40Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "a3cd9b54",
+          "title": "产品更新：Badge",
+          "title_en": "Badge",
+          "url": "https://www.producthunt.com/products/badge-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/badge-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI agents collect peer reviews to generate pro",
+          "summary_zh": "AI agents collect peer reviews to generate pro",
+          "publishedAt": "2026-07-07T07:01:00Z",
+          "published_at": "2026-07-07T07:01:00Z",
+          "votes_count": 399,
+          "featured": true,
+          "topics": [
+            {
+              "id": "41",
+              "name": "Hiring",
+              "slug": "hiring"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cb22ff74",
+          "title": "产品更新：Scribble Networ",
+          "title_en": "Scribble Network",
+          "url": "https://www.producthunt.com/products/scribble-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/scribble-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The product that makes AI recommend your brand",
+          "summary_zh": "The product that makes AI recommend your brand",
+          "publishedAt": "2026-07-07T07:01:00Z",
+          "published_at": "2026-07-07T07:01:00Z",
+          "votes_count": 330,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ba3a346c",
+          "title": "AI资讯更新：Katalyst",
+          "title_en": "Katalyst",
+          "url": "https://www.producthunt.com/products/katalyst?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/katalyst?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The AI agent that works your Salesforce Pipeli",
+          "summary_zh": "The AI agent that works your Salesforce Pipeli",
+          "publishedAt": "2026-07-07T07:01:00Z",
+          "published_at": "2026-07-07T07:01:00Z",
+          "votes_count": 275,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "769",
+              "name": "CRM",
+              "slug": "crm"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-07",
       "generated_at": "2026-07-07T11:23:33Z",
