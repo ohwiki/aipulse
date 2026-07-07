@@ -1,126 +1,126 @@
 {
-  "generated_at": "2026-07-06T21:51:57Z",
-  "generatedAt": "2026-07-06T21:51:57Z",
+  "generated_at": "2026-07-07T11:23:33Z",
+  "generatedAt": "2026-07-07T11:23:33Z",
   "count": 56,
   "total": 56,
   "entries": [
     {
       "date": "2026-07-07",
-      "generated_at": "2026-07-06T21:51:57Z",
-      "generatedAt": "2026-07-06T21:51:57Z",
+      "generated_at": "2026-07-07T11:23:33Z",
+      "generatedAt": "2026-07-07T11:23:33Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "0f92c6f3",
-          "title": "产品更新：AnySearch",
-          "title_en": "AnySearch",
-          "url": "https://www.producthunt.com/products/anysearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "a3cd9b54",
+          "title": "产品更新：Badge",
+          "title_en": "Badge",
+          "url": "https://www.producthunt.com/products/badge-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/anysearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/badge-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Real-time structured search trusted by agents",
-          "summary_zh": "Real-time structured search trusted by agents",
-          "publishedAt": "2026-07-06T07:01:00Z",
-          "published_at": "2026-07-06T07:01:00Z",
-          "votes_count": 423,
+          "summary": "AI agents collect peer reviews to generate pro",
+          "summary_zh": "AI agents collect peer reviews to generate pro",
+          "publishedAt": "2026-07-07T07:01:00Z",
+          "published_at": "2026-07-07T07:01:00Z",
+          "votes_count": 234,
           "featured": true,
           "topics": [
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "41",
+              "name": "Hiring",
+              "slug": "hiring"
             },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "361",
-              "name": "Search",
-              "slug": "search"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "1dccb9d5",
-          "title": "产品更新：Octolens",
-          "title_en": "Octolens",
-          "url": "https://www.producthunt.com/products/octolens-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/octolens-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Social listening for the agent era Your AI age",
-          "summary_zh": "Social listening for the agent era Your AI age",
-          "publishedAt": "2026-07-06T07:01:00Z",
-          "published_at": "2026-07-06T07:01:00Z",
-          "votes_count": 310,
-          "featured": true,
-          "topics": [
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "6728ca1e",
-          "title": "产品更新：Typeahead 2.0",
-          "title_en": "Typeahead 2.0",
-          "url": "https://www.producthunt.com/products/typeahead?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/typeahead?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Private AI autocomplete for every app on your",
-          "summary_zh": "Private AI autocomplete for every app on your",
-          "publishedAt": "2026-07-06T07:01:00Z",
-          "published_at": "2026-07-06T07:01:00Z",
-          "votes_count": 304,
-          "featured": true,
-          "topics": [
             {
               "id": "46",
               "name": "Productivity",
               "slug": "productivity"
             },
             {
-              "id": "90",
-              "name": "Writing",
-              "slug": "writing"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cb22ff74",
+          "title": "产品更新：Scribble Networ",
+          "title_en": "Scribble Network",
+          "url": "https://www.producthunt.com/products/scribble-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/scribble-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The product that makes AI recommend your brand",
+          "summary_zh": "The product that makes AI recommend your brand",
+          "publishedAt": "2026-07-07T07:01:00Z",
+          "published_at": "2026-07-07T07:01:00Z",
+          "votes_count": 161,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ba3a346c",
+          "title": "AI资讯更新：Katalyst",
+          "title_en": "Katalyst",
+          "url": "https://www.producthunt.com/products/katalyst?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/katalyst?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The AI agent that works your Salesforce Pipeli",
+          "summary_zh": "The AI agent that works your Salesforce Pipeli",
+          "publishedAt": "2026-07-07T07:01:00Z",
+          "published_at": "2026-07-07T07:01:00Z",
+          "votes_count": 144,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "769",
+              "name": "CRM",
+              "slug": "crm"
             }
           ],
           "score_details": null
