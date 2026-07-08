@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-07-08T10:35:06Z",
-  "generatedAt": "2026-07-08T10:35:06Z",
-  "count": 57,
-  "total": 57,
+  "generated_at": "2026-07-08T21:36:29Z",
+  "generatedAt": "2026-07-08T21:36:29Z",
+  "count": 58,
+  "total": 58,
   "entries": [
+    {
+      "date": "2026-07-09",
+      "generated_at": "2026-07-08T21:36:29Z",
+      "generatedAt": "2026-07-08T21:36:29Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "f2d58ad5",
+          "title": "AI资讯更新：ExploreYC",
+          "title_en": "ExploreYC",
+          "url": "https://www.producthunt.com/products/yc-company-explorer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/yc-company-explorer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Open-source API for Y Combinator & a16z compan",
+          "summary_zh": "Open-source API for Y Combinator & a16z compan",
+          "publishedAt": "2026-07-08T07:01:00Z",
+          "published_at": "2026-07-08T07:01:00Z",
+          "votes_count": 330,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8640a351",
+          "title": "产品更新：IvyForms",
+          "title_en": "IvyForms",
+          "url": "https://www.producthunt.com/products/ivyforms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ivyforms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A WordPress form builder for real workflows Iv",
+          "summary_zh": "A WordPress form builder for real workflows Iv",
+          "publishedAt": "2026-07-08T07:01:00Z",
+          "published_at": "2026-07-08T07:01:00Z",
+          "votes_count": 269,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "242",
+              "name": "WordPress",
+              "slug": "wordpress"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1142bd24",
+          "title": "产品更新：Willow Frontier",
+          "title_en": "Willow Frontier Pro",
+          "url": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The fastest, most accurate dictation model in",
+          "summary_zh": "The fastest, most accurate dictation model in",
+          "publishedAt": "2026-07-08T07:01:00Z",
+          "published_at": "2026-07-08T07:01:00Z",
+          "votes_count": 224,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "90",
+              "name": "Writing",
+              "slug": "writing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-08",
       "generated_at": "2026-07-08T10:35:06Z",

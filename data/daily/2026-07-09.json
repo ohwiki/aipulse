@@ -1,0 +1,513 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-08T21:36:29Z",
+  "generatedAt": "2026-07-08T21:36:29Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "f2d58ad5",
+          "title": "AI资讯更新：ExploreYC",
+          "title_en": "ExploreYC",
+          "url": "https://www.producthunt.com/products/yc-company-explorer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/yc-company-explorer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Open-source API for Y Combinator & a16z compan",
+          "summary_zh": "Open-source API for Y Combinator & a16z compan",
+          "publishedAt": "2026-07-08T07:01:00Z",
+          "published_at": "2026-07-08T07:01:00Z",
+          "votes_count": 330,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8640a351",
+          "title": "产品更新：IvyForms",
+          "title_en": "IvyForms",
+          "url": "https://www.producthunt.com/products/ivyforms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ivyforms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A WordPress form builder for real workflows Iv",
+          "summary_zh": "A WordPress form builder for real workflows Iv",
+          "publishedAt": "2026-07-08T07:01:00Z",
+          "published_at": "2026-07-08T07:01:00Z",
+          "votes_count": 269,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "242",
+              "name": "WordPress",
+              "slug": "wordpress"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1142bd24",
+          "title": "产品更新：Willow Frontier",
+          "title_en": "Willow Frontier Pro",
+          "url": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The fastest, most accurate dictation model in",
+          "summary_zh": "The fastest, most accurate dictation model in",
+          "publishedAt": "2026-07-08T07:01:00Z",
+          "published_at": "2026-07-08T07:01:00Z",
+          "votes_count": 224,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "90",
+              "name": "Writing",
+              "slug": "writing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "7e8879f0",
+          "title": "AI资讯更新：Bono AI",
+          "title_en": "Bono AI",
+          "url": "https://www.producthunt.com/products/bono-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/bono-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Talk Once. Publish Everywhere. Meet Bono, your",
+          "summary_zh": "Talk Once. Publish Everywhere. Meet Bono, your",
+          "publishedAt": "2026-07-08T07:01:00Z",
+          "published_at": "2026-07-08T07:01:00Z",
+          "votes_count": 210,
+          "featured": true,
+          "topics": [
+            {
+              "id": "85",
+              "name": "Newsletters",
+              "slug": "newsletters"
+            },
+            {
+              "id": "90",
+              "name": "Writing",
+              "slug": "writing"
+            },
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "f7300762",
+          "title": "「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发",
+          "title_en": null,
+          "url": "https://36kr.com/p/3885479689465858?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3885479689465858?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "文｜胡香赟 编辑｜海若镜 36 氪获悉，德睿智药近期已完成 5200 万美元B轮融资，投资方包括头部人民币和美元基金，凯乘资本为独家财务顾问。募集资金将用于AI制药引擎Molecule Arts Platform（MAP）升级迭代，完善其多智能体（Multi-Agent）协同体系与临床数据闭环（Clinical Data-in-the-Loop），以及推进自研口服GLP-1小分子MDR-001的III期临床和商业化、拓展其他差异化创新药管线。 德睿智药的愿景是成为AI Native生物制药公司，创始人兼CEO牛张明拥有多年德国AI医疗上市公司CTO经验。他认为，传统新药研发高度依赖资深专家经验，需要合成数百上千个分子反复试错。但如今，AI技术的突破正有望不断颠覆这一传统路径，将大海捞针般的“试错式”新药研发模式，转变为由数据驱动的可计算、可迭代的“标准化创造”。 这也是德睿智药搭建MAP的初衷。  德睿智药Molecule Arts Platform（MAP）技术平台示意（图源：德睿智药） 据介绍，Molecule Arts Platform（下称“MAP”）平台共分为3层架构：第一层",
+          "summary_zh": "文｜胡香赟 编辑｜海若镜 36 氪获悉，德睿智药近期已完成 5200 万美元B轮融资，投资方包括头部人民币和美元基金，凯乘资本为独家财务顾问。募集资金将用于AI制药引擎Molecule Arts Platform（MAP）升级迭代，完善其多智能体（Multi-Agent）协同体系与临床数据闭环（Clinical Data-in-the-Loop），以及推进自研口服GLP-1小分子MDR-001的III期临床和商业化、拓展其他差异化创新药管线。 德睿智药的愿景是成为AI Native生物制药公司，创始人兼CEO牛张明拥有多年德国AI医疗上市公司CTO经验。他认为，传统新药研发高度依赖资深专家经验，需要合成数百上千个分子反复试错。但如今，AI技术的突破正有望不断颠覆这一传统路径，将大海捞针般的“试错式”新药研发模式，转变为由数据驱动的可计算、可迭代的“标准化创造”。 这也是德睿智药搭建MAP的初衷。  德睿智药Molecule Arts Platform（MAP）技术平台示意（图源：德睿智药） 据介绍，Molecule Arts Platform（下称“MAP”）平台共分为3层架构：第一层",
+          "publishedAt": "2026-07-08T00:00:00Z",
+          "published_at": "2026-07-08T00:00:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "5f8a03c5",
+          "title": "8点1氪丨前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭；苹果折叠屏已在量产；特朗普呼吁购买戴尔电脑，引发戴尔暴涨百亿美元",
+          "title_en": null,
+          "url": "https://36kr.com/p/3886238403129353?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3886238403129353?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览 网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言 商业银行不良处置仍在加速，上半年全行业转让核销合计至少5000亿 国家外汇管理局：截至2026年6月末，中国外汇储备规模为34163亿美元 汇丰暂停向风险较高的私募信贷客户提供贷款 SpaceX公布AI数据中心计划，同步推进星链卫星脱轨 TOP3大新闻 前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭 7月6日，前华为“天才少年”李博杰在社交平台公开吐槽DeepSeek的面试流程，提及流程较慢且繁琐，面试官存在态度问题，质疑他抄袭，他感到“被严重冒犯”。面试过程并不愉快，他还被面试官质疑抄袭。“因为在代码面试中有两个屏幕，面试官说我不断在瞟左边的屏幕，说我在抄代码，让我停止抄代码，并说如果我不能证明我没有在抄代码，面试就无法继续下去了。”李博杰选择了终止面试，并认为面试官的表现，与他想象中的DeepSeek不同。 李博杰是中国科学技术大学计算机科学博士、华为首批“天才少年”计划入选者，其个人网站介绍显示，他曾在SIGCOMM SOSP、NSDI、ATC、PLDI等顶级会议上发表多篇论文，曾获ACM中国",
+          "summary_zh": "今日热点导览 网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言 商业银行不良处置仍在加速，上半年全行业转让核销合计至少5000亿 国家外汇管理局：截至2026年6月末，中国外汇储备规模为34163亿美元 汇丰暂停向风险较高的私募信贷客户提供贷款 SpaceX公布AI数据中心计划，同步推进星链卫星脱轨 TOP3大新闻 前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭 7月6日，前华为“天才少年”李博杰在社交平台公开吐槽DeepSeek的面试流程，提及流程较慢且繁琐，面试官存在态度问题，质疑他抄袭，他感到“被严重冒犯”。面试过程并不愉快，他还被面试官质疑抄袭。“因为在代码面试中有两个屏幕，面试官说我不断在瞟左边的屏幕，说我在抄代码，让我停止抄代码，并说如果我不能证明我没有在抄代码，面试就无法继续下去了。”李博杰选择了终止面试，并认为面试官的表现，与他想象中的DeepSeek不同。 李博杰是中国科学技术大学计算机科学博士、华为首批“天才少年”计划入选者，其个人网站介绍显示，他曾在SIGCOMM SOSP、NSDI、ATC、PLDI等顶级会议上发表多篇论文，曾获ACM中国",
+          "publishedAt": "2026-07-08T00:09:01Z",
+          "published_at": "2026-07-08T00:09:01Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "39bd01a8",
+          "title": "36氪独家 | 快造科技完成10亿元融资，为一级市场消费级3D打印最大单笔融资",
+          "title_en": null,
+          "url": "https://36kr.com/p/3885728813691145?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3885728813691145?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪独家获悉，消费级3D打印企业快造科技（Snapmaker）于近期完成10亿元新一轮融资。本轮融资由凯辉基金领投，好未来战投跟投，美团战投、美团龙珠、高瓴创投、顺为资本等现有股东大比例超额追投，高鹄资本担任独家财务顾问。 这是2025年以来消费硬件赛道规模最大的单笔融资之一，也是近两年一级市场消费级3D打印最大规模的单笔融资。  （图源/企业） 此外，硬氪独家了解到，得益于U1这代产品，快造科技营收同比增长10倍。 过去十年，消费级3D打印经历了从概念到落地的完整周期。不过长期以来，单色、单材料的产品体验将其局限在工程师、极客群体和部分消费者中——用户能打印的东西\"不够好看、不够好用\"，是制约市场破圈的核心瓶颈。 \"多色多材\"打印技术的成熟，正在打破这一瓶颈，也是U1破局市场的关键。当一台桌面设备能够同时实现多色外观与多材内里的结合，3D打印的输出物将具备接近消费品的品质——不再是\"打印一个单色零件再进行组装\"，而是\"直接创造出一个可即刻使用的彩色成品\"。 这一变化的意义在于技术体验能够跨过\"够用\"门槛，迎接更大的消费级市场。 多色多材料已成为消费",
+          "summary_zh": "作者 | 张子怡 编辑 | 袁斯来 硬氪独家获悉，消费级3D打印企业快造科技（Snapmaker）于近期完成10亿元新一轮融资。本轮融资由凯辉基金领投，好未来战投跟投，美团战投、美团龙珠、高瓴创投、顺为资本等现有股东大比例超额追投，高鹄资本担任独家财务顾问。 这是2025年以来消费硬件赛道规模最大的单笔融资之一，也是近两年一级市场消费级3D打印最大规模的单笔融资。  （图源/企业） 此外，硬氪独家了解到，得益于U1这代产品，快造科技营收同比增长10倍。 过去十年，消费级3D打印经历了从概念到落地的完整周期。不过长期以来，单色、单材料的产品体验将其局限在工程师、极客群体和部分消费者中——用户能打印的东西\"不够好看、不够好用\"，是制约市场破圈的核心瓶颈。 \"多色多材\"打印技术的成熟，正在打破这一瓶颈，也是U1破局市场的关键。当一台桌面设备能够同时实现多色外观与多材内里的结合，3D打印的输出物将具备接近消费品的品质——不再是\"打印一个单色零件再进行组装\"，而是\"直接创造出一个可即刻使用的彩色成品\"。 这一变化的意义在于技术体验能够跨过\"够用\"门槛，迎接更大的消费级市场。 多色多材料已成为消费",
+          "publishedAt": "2026-07-08T00:50:00Z",
+          "published_at": "2026-07-08T00:50:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "463c8250",
+          "title": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/445883.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/445883.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开  梦晨 2026-07-08 12:47:04  来源：量子位   已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽   梦晨 发自 凹非寺量子位 | 公众号 QbitAI  DeepSeek自己造芯片了！ 目标：降低对英伟达的依赖。 路透社消息，这家凭借模型算法震动硅谷的中国AI公司，正在秘密开发一款自研AI芯片。    芯片定位是推理而非训练，项目大概在一年前已经启动。 当前，该项目还处于早期阶段。消息透露，DeepSeek已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽。 从算法公司到硬件玩家 DeepSeek一直以来的标签是对算法的极致优化。 从2025年1月引爆全球的R1推理模型，到后来适配华为昇腾的V4系列，这家公司展示的始终是用更少的算力做更多的事。 但现在，它要亲自下场做硬件了。 知情人士透露，DeepSeek近几个月一直在招聘芯片设计工程师，但招聘方式极为低调，没有在任何公开招聘平台发布职位信息。    模型公司自研芯片并非孤例。 放眼全球，AI模型公司自研芯片已成趋势。OpenAI上个月刚刚公布了",
+          "summary_zh": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开  梦晨 2026-07-08 12:47:04  来源：量子位   已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽   梦晨 发自 凹非寺量子位 | 公众号 QbitAI  DeepSeek自己造芯片了！ 目标：降低对英伟达的依赖。 路透社消息，这家凭借模型算法震动硅谷的中国AI公司，正在秘密开发一款自研AI芯片。    芯片定位是推理而非训练，项目大概在一年前已经启动。 当前，该项目还处于早期阶段。消息透露，DeepSeek已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽。 从算法公司到硬件玩家 DeepSeek一直以来的标签是对算法的极致优化。 从2025年1月引爆全球的R1推理模型，到后来适配华为昇腾的V4系列，这家公司展示的始终是用更少的算力做更多的事。 但现在，它要亲自下场做硬件了。 知情人士透露，DeepSeek近几个月一直在招聘芯片设计工程师，但招聘方式极为低调，没有在任何公开招聘平台发布职位信息。    模型公司自研芯片并非孤例。 放眼全球，AI模型公司自研芯片已成趋势。OpenAI上个月刚刚公布了",
+          "publishedAt": "2026-07-08T04:47:04Z",
+          "published_at": "2026-07-08T04:47:04Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "f2d58ad5",
+      "title": "AI资讯更新：ExploreYC",
+      "title_en": "ExploreYC",
+      "url": "https://www.producthunt.com/products/yc-company-explorer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/yc-company-explorer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Open-source API for Y Combinator & a16z compan",
+      "summary_zh": "Open-source API for Y Combinator & a16z compan",
+      "publishedAt": "2026-07-08T07:01:00Z",
+      "published_at": "2026-07-08T07:01:00Z",
+      "votes_count": 330,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8640a351",
+      "title": "产品更新：IvyForms",
+      "title_en": "IvyForms",
+      "url": "https://www.producthunt.com/products/ivyforms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ivyforms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A WordPress form builder for real workflows Iv",
+      "summary_zh": "A WordPress form builder for real workflows Iv",
+      "publishedAt": "2026-07-08T07:01:00Z",
+      "published_at": "2026-07-08T07:01:00Z",
+      "votes_count": 269,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "242",
+          "name": "WordPress",
+          "slug": "wordpress"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1142bd24",
+      "title": "产品更新：Willow Frontier",
+      "title_en": "Willow Frontier Pro",
+      "url": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The fastest, most accurate dictation model in",
+      "summary_zh": "The fastest, most accurate dictation model in",
+      "publishedAt": "2026-07-08T07:01:00Z",
+      "published_at": "2026-07-08T07:01:00Z",
+      "votes_count": 224,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "90",
+          "name": "Writing",
+          "slug": "writing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "7e8879f0",
+      "title": "AI资讯更新：Bono AI",
+      "title_en": "Bono AI",
+      "url": "https://www.producthunt.com/products/bono-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/bono-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Talk Once. Publish Everywhere. Meet Bono, your",
+      "summary_zh": "Talk Once. Publish Everywhere. Meet Bono, your",
+      "publishedAt": "2026-07-08T07:01:00Z",
+      "published_at": "2026-07-08T07:01:00Z",
+      "votes_count": 210,
+      "featured": true,
+      "topics": [
+        {
+          "id": "85",
+          "name": "Newsletters",
+          "slug": "newsletters"
+        },
+        {
+          "id": "90",
+          "name": "Writing",
+          "slug": "writing"
+        },
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "f7300762",
+      "title": "「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3885479689465858?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3885479689465858?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "文｜胡香赟 编辑｜海若镜 36 氪获悉，德睿智药近期已完成 5200 万美元B轮融资，投资方包括头部人民币和美元基金，凯乘资本为独家财务顾问。募集资金将用于AI制药引擎Molecule Arts Platform（MAP）升级迭代，完善其多智能体（Multi-Agent）协同体系与临床数据闭环（Clinical Data-in-the-Loop），以及推进自研口服GLP-1小分子MDR-001的III期临床和商业化、拓展其他差异化创新药管线。 德睿智药的愿景是成为AI Native生物制药公司，创始人兼CEO牛张明拥有多年德国AI医疗上市公司CTO经验。他认为，传统新药研发高度依赖资深专家经验，需要合成数百上千个分子反复试错。但如今，AI技术的突破正有望不断颠覆这一传统路径，将大海捞针般的“试错式”新药研发模式，转变为由数据驱动的可计算、可迭代的“标准化创造”。 这也是德睿智药搭建MAP的初衷。  德睿智药Molecule Arts Platform（MAP）技术平台示意（图源：德睿智药） 据介绍，Molecule Arts Platform（下称“MAP”）平台共分为3层架构：第一层",
+      "summary_zh": "文｜胡香赟 编辑｜海若镜 36 氪获悉，德睿智药近期已完成 5200 万美元B轮融资，投资方包括头部人民币和美元基金，凯乘资本为独家财务顾问。募集资金将用于AI制药引擎Molecule Arts Platform（MAP）升级迭代，完善其多智能体（Multi-Agent）协同体系与临床数据闭环（Clinical Data-in-the-Loop），以及推进自研口服GLP-1小分子MDR-001的III期临床和商业化、拓展其他差异化创新药管线。 德睿智药的愿景是成为AI Native生物制药公司，创始人兼CEO牛张明拥有多年德国AI医疗上市公司CTO经验。他认为，传统新药研发高度依赖资深专家经验，需要合成数百上千个分子反复试错。但如今，AI技术的突破正有望不断颠覆这一传统路径，将大海捞针般的“试错式”新药研发模式，转变为由数据驱动的可计算、可迭代的“标准化创造”。 这也是德睿智药搭建MAP的初衷。  德睿智药Molecule Arts Platform（MAP）技术平台示意（图源：德睿智药） 据介绍，Molecule Arts Platform（下称“MAP”）平台共分为3层架构：第一层",
+      "publishedAt": "2026-07-08T00:00:00Z",
+      "published_at": "2026-07-08T00:00:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "5f8a03c5",
+      "title": "8点1氪丨前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭；苹果折叠屏已在量产；特朗普呼吁购买戴尔电脑，引发戴尔暴涨百亿美元",
+      "title_en": null,
+      "url": "https://36kr.com/p/3886238403129353?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3886238403129353?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览 网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言 商业银行不良处置仍在加速，上半年全行业转让核销合计至少5000亿 国家外汇管理局：截至2026年6月末，中国外汇储备规模为34163亿美元 汇丰暂停向风险较高的私募信贷客户提供贷款 SpaceX公布AI数据中心计划，同步推进星链卫星脱轨 TOP3大新闻 前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭 7月6日，前华为“天才少年”李博杰在社交平台公开吐槽DeepSeek的面试流程，提及流程较慢且繁琐，面试官存在态度问题，质疑他抄袭，他感到“被严重冒犯”。面试过程并不愉快，他还被面试官质疑抄袭。“因为在代码面试中有两个屏幕，面试官说我不断在瞟左边的屏幕，说我在抄代码，让我停止抄代码，并说如果我不能证明我没有在抄代码，面试就无法继续下去了。”李博杰选择了终止面试，并认为面试官的表现，与他想象中的DeepSeek不同。 李博杰是中国科学技术大学计算机科学博士、华为首批“天才少年”计划入选者，其个人网站介绍显示，他曾在SIGCOMM SOSP、NSDI、ATC、PLDI等顶级会议上发表多篇论文，曾获ACM中国",
+      "summary_zh": "今日热点导览 网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言 商业银行不良处置仍在加速，上半年全行业转让核销合计至少5000亿 国家外汇管理局：截至2026年6月末，中国外汇储备规模为34163亿美元 汇丰暂停向风险较高的私募信贷客户提供贷款 SpaceX公布AI数据中心计划，同步推进星链卫星脱轨 TOP3大新闻 前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭 7月6日，前华为“天才少年”李博杰在社交平台公开吐槽DeepSeek的面试流程，提及流程较慢且繁琐，面试官存在态度问题，质疑他抄袭，他感到“被严重冒犯”。面试过程并不愉快，他还被面试官质疑抄袭。“因为在代码面试中有两个屏幕，面试官说我不断在瞟左边的屏幕，说我在抄代码，让我停止抄代码，并说如果我不能证明我没有在抄代码，面试就无法继续下去了。”李博杰选择了终止面试，并认为面试官的表现，与他想象中的DeepSeek不同。 李博杰是中国科学技术大学计算机科学博士、华为首批“天才少年”计划入选者，其个人网站介绍显示，他曾在SIGCOMM SOSP、NSDI、ATC、PLDI等顶级会议上发表多篇论文，曾获ACM中国",
+      "publishedAt": "2026-07-08T00:09:01Z",
+      "published_at": "2026-07-08T00:09:01Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "39bd01a8",
+      "title": "36氪独家 | 快造科技完成10亿元融资，为一级市场消费级3D打印最大单笔融资",
+      "title_en": null,
+      "url": "https://36kr.com/p/3885728813691145?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3885728813691145?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪独家获悉，消费级3D打印企业快造科技（Snapmaker）于近期完成10亿元新一轮融资。本轮融资由凯辉基金领投，好未来战投跟投，美团战投、美团龙珠、高瓴创投、顺为资本等现有股东大比例超额追投，高鹄资本担任独家财务顾问。 这是2025年以来消费硬件赛道规模最大的单笔融资之一，也是近两年一级市场消费级3D打印最大规模的单笔融资。  （图源/企业） 此外，硬氪独家了解到，得益于U1这代产品，快造科技营收同比增长10倍。 过去十年，消费级3D打印经历了从概念到落地的完整周期。不过长期以来，单色、单材料的产品体验将其局限在工程师、极客群体和部分消费者中——用户能打印的东西\"不够好看、不够好用\"，是制约市场破圈的核心瓶颈。 \"多色多材\"打印技术的成熟，正在打破这一瓶颈，也是U1破局市场的关键。当一台桌面设备能够同时实现多色外观与多材内里的结合，3D打印的输出物将具备接近消费品的品质——不再是\"打印一个单色零件再进行组装\"，而是\"直接创造出一个可即刻使用的彩色成品\"。 这一变化的意义在于技术体验能够跨过\"够用\"门槛，迎接更大的消费级市场。 多色多材料已成为消费",
+      "summary_zh": "作者 | 张子怡 编辑 | 袁斯来 硬氪独家获悉，消费级3D打印企业快造科技（Snapmaker）于近期完成10亿元新一轮融资。本轮融资由凯辉基金领投，好未来战投跟投，美团战投、美团龙珠、高瓴创投、顺为资本等现有股东大比例超额追投，高鹄资本担任独家财务顾问。 这是2025年以来消费硬件赛道规模最大的单笔融资之一，也是近两年一级市场消费级3D打印最大规模的单笔融资。  （图源/企业） 此外，硬氪独家了解到，得益于U1这代产品，快造科技营收同比增长10倍。 过去十年，消费级3D打印经历了从概念到落地的完整周期。不过长期以来，单色、单材料的产品体验将其局限在工程师、极客群体和部分消费者中——用户能打印的东西\"不够好看、不够好用\"，是制约市场破圈的核心瓶颈。 \"多色多材\"打印技术的成熟，正在打破这一瓶颈，也是U1破局市场的关键。当一台桌面设备能够同时实现多色外观与多材内里的结合，3D打印的输出物将具备接近消费品的品质——不再是\"打印一个单色零件再进行组装\"，而是\"直接创造出一个可即刻使用的彩色成品\"。 这一变化的意义在于技术体验能够跨过\"够用\"门槛，迎接更大的消费级市场。 多色多材料已成为消费",
+      "publishedAt": "2026-07-08T00:50:00Z",
+      "published_at": "2026-07-08T00:50:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "463c8250",
+      "title": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/445883.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/445883.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开  梦晨 2026-07-08 12:47:04  来源：量子位   已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽   梦晨 发自 凹非寺量子位 | 公众号 QbitAI  DeepSeek自己造芯片了！ 目标：降低对英伟达的依赖。 路透社消息，这家凭借模型算法震动硅谷的中国AI公司，正在秘密开发一款自研AI芯片。    芯片定位是推理而非训练，项目大概在一年前已经启动。 当前，该项目还处于早期阶段。消息透露，DeepSeek已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽。 从算法公司到硬件玩家 DeepSeek一直以来的标签是对算法的极致优化。 从2025年1月引爆全球的R1推理模型，到后来适配华为昇腾的V4系列，这家公司展示的始终是用更少的算力做更多的事。 但现在，它要亲自下场做硬件了。 知情人士透露，DeepSeek近几个月一直在招聘芯片设计工程师，但招聘方式极为低调，没有在任何公开招聘平台发布职位信息。    模型公司自研芯片并非孤例。 放眼全球，AI模型公司自研芯片已成趋势。OpenAI上个月刚刚公布了",
+      "summary_zh": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开  梦晨 2026-07-08 12:47:04  来源：量子位   已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽   梦晨 发自 凹非寺量子位 | 公众号 QbitAI  DeepSeek自己造芯片了！ 目标：降低对英伟达的依赖。 路透社消息，这家凭借模型算法震动硅谷的中国AI公司，正在秘密开发一款自研AI芯片。    芯片定位是推理而非训练，项目大概在一年前已经启动。 当前，该项目还处于早期阶段。消息透露，DeepSeek已与芯片设计公司、晶圆代工厂和存储器供应商展开接洽。 从算法公司到硬件玩家 DeepSeek一直以来的标签是对算法的极致优化。 从2025年1月引爆全球的R1推理模型，到后来适配华为昇腾的V4系列，这家公司展示的始终是用更少的算力做更多的事。 但现在，它要亲自下场做硬件了。 知情人士透露，DeepSeek近几个月一直在招聘芯片设计工程师，但招聘方式极为低调，没有在任何公开招聘平台发布职位信息。    模型公司自研芯片并非孤例。 放眼全球，AI模型公司自研芯片已成趋势。OpenAI上个月刚刚公布了",
+      "publishedAt": "2026-07-08T04:47:04Z",
+      "published_at": "2026-07-08T04:47:04Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
