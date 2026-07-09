@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-09T11:25:04Z",
-  "generatedAt": "2026-07-09T11:25:04Z",
-  "count": 58,
-  "total": 58,
+  "generated_at": "2026-07-09T21:53:33Z",
+  "generatedAt": "2026-07-09T21:53:33Z",
+  "count": 59,
+  "total": 59,
   "entries": [
+    {
+      "date": "2026-07-10",
+      "generated_at": "2026-07-09T21:53:33Z",
+      "generatedAt": "2026-07-09T21:53:33Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "79d077b0",
+          "title": "产品更新：Timbal AI",
+          "title_en": "Timbal AI",
+          "url": "https://www.producthunt.com/products/timbal-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/timbal-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build AI agents, workflows, and apps in one st",
+          "summary_zh": "Build AI agents, workflows, and apps in one st",
+          "publishedAt": "2026-07-09T07:01:00Z",
+          "published_at": "2026-07-09T07:01:00Z",
+          "votes_count": 394,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1d3c6be6",
+          "title": "AI资讯更新：Perfai Securi",
+          "title_en": "Perfai Security",
+          "url": "https://www.producthunt.com/products/perfai-security-for-vibe-coded-apps?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/perfai-security-for-vibe-coded-apps?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Find & fix live vulnerabilities in Vibe Apps w",
+          "summary_zh": "Find & fix live vulnerabilities in Vibe Apps w",
+          "publishedAt": "2026-07-09T07:01:00Z",
+          "published_at": "2026-07-09T07:01:00Z",
+          "votes_count": 240,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "101e8120",
+          "title": "产品更新：Toyo",
+          "title_en": "Toyo",
+          "url": "https://www.producthunt.com/products/toyo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/toyo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Exec assistant who lives in iMessage and calls",
+          "summary_zh": "Exec assistant who lives in iMessage and calls",
+          "publishedAt": "2026-07-09T07:01:00Z",
+          "published_at": "2026-07-09T07:01:00Z",
+          "votes_count": 231,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-09",
       "generated_at": "2026-07-09T11:25:04Z",

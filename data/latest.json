@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T11:25:04Z",
-  "generatedAt": "2026-07-09T11:25:04Z",
+  "generated_at": "2026-07-09T21:53:33Z",
+  "generatedAt": "2026-07-09T21:53:33Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "Build AI agents, workflows, and apps in one st",
       "publishedAt": "2026-07-09T07:01:00Z",
       "published_at": "2026-07-09T07:01:00Z",
-      "votes_count": 150,
+      "votes_count": 394,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Find & fix live vulnerabilities in Vibe Apps w",
       "publishedAt": "2026-07-09T07:01:00Z",
       "published_at": "2026-07-09T07:01:00Z",
-      "votes_count": 142,
+      "votes_count": 240,
       "featured": true,
       "topics": [
         {
@@ -82,44 +82,6 @@
       "score_details": null
     },
     {
-      "id": "3d7ce9c4",
-      "title": "AI资讯更新：Opper AI",
-      "title_en": "Opper AI",
-      "url": "https://www.producthunt.com/products/opper-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/opper-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "The european AI gateway for agents One API key",
-      "summary_zh": "The european AI gateway for agents One API key",
-      "publishedAt": "2026-07-09T07:01:00Z",
-      "published_at": "2026-07-09T07:01:00Z",
-      "votes_count": 132,
-      "featured": true,
-      "topics": [
-        {
-          "id": "88",
-          "name": "API",
-          "slug": "api-1"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "101e8120",
       "title": "产品更新：Toyo",
       "title_en": "Toyo",
@@ -136,7 +98,7 @@
       "summary_zh": "Exec assistant who lives in iMessage and calls",
       "publishedAt": "2026-07-09T07:01:00Z",
       "published_at": "2026-07-09T07:01:00Z",
-      "votes_count": 125,
+      "votes_count": 231,
       "featured": true,
       "topics": [
         {
@@ -158,25 +120,41 @@
       "score_details": null
     },
     {
-      "id": "eef0ce22",
-      "title": "8点1氪｜小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席",
-      "title_en": null,
-      "url": "https://36kr.com/p/3887648675133960?f=rss",
-      "source": "36氪",
+      "id": "3d7ce9c4",
+      "title": "AI资讯更新：Opper AI",
+      "title_en": "Opper AI",
+      "url": "https://www.producthunt.com/products/opper-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3887648675133960?f=rss",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "今日热点导览  工信部：AI编程工具Claude Code存在安全后门隐患，危害严重 字节绩效规则调整：加大半年激励，加强字节范与领导力考核 沙特阿美大降价吸引亚洲买家，国际机构看空下半年油价 欧盟法院驳回苹果上诉，维持App Store和iOS“看门人”认定 摩根大通：投资者低估了特斯拉与SpaceX合并的潜在障碍  TOP3大新闻 小米汽车新产品系列命名为SKYNOMAD，雷军回复上市时间 7月8日，小米汽车官方微博发布主题为“SKYNOMAD”的海报，“SKY”指天空，“NOMAD”指游牧者，海报上带有小米品牌LOGO。据媒体报道，小米汽车首款增程式SUV将归属全新独立子品牌“SKYNOMAD”，计划于2026年下半年正式发布。SKYNOMAD并非此前网传的“红米汽车”，而是小米汽车继SU7、YU7后的新产品新型号。据悉，该车型内部代号为昆仑N3，此前网传的“YU9”命名已被取消。同日，小米创办人，董事长兼CEO雷军在个人账号官宣小米汽车新系列SkyNomad。其评论区下有网友询问车辆发布时间，雷军回复表示“快了”。（界面新闻、36氪） OpenAI首席未来学家宣布离职 北京时间",
-      "summary_zh": "今日热点导览  工信部：AI编程工具Claude Code存在安全后门隐患，危害严重 字节绩效规则调整：加大半年激励，加强字节范与领导力考核 沙特阿美大降价吸引亚洲买家，国际机构看空下半年油价 欧盟法院驳回苹果上诉，维持App Store和iOS“看门人”认定 摩根大通：投资者低估了特斯拉与SpaceX合并的潜在障碍  TOP3大新闻 小米汽车新产品系列命名为SKYNOMAD，雷军回复上市时间 7月8日，小米汽车官方微博发布主题为“SKYNOMAD”的海报，“SKY”指天空，“NOMAD”指游牧者，海报上带有小米品牌LOGO。据媒体报道，小米汽车首款增程式SUV将归属全新独立子品牌“SKYNOMAD”，计划于2026年下半年正式发布。SKYNOMAD并非此前网传的“红米汽车”，而是小米汽车继SU7、YU7后的新产品新型号。据悉，该车型内部代号为昆仑N3，此前网传的“YU9”命名已被取消。同日，小米创办人，董事长兼CEO雷军在个人账号官宣小米汽车新系列SkyNomad。其评论区下有网友询问车辆发布时间，雷军回复表示“快了”。（界面新闻、36氪） OpenAI首席未来学家宣布离职 北京时间",
-      "publishedAt": "2026-07-09T00:03:11Z",
-      "published_at": "2026-07-09T00:03:11Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/opper-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The european AI gateway for agents One API key",
+      "summary_zh": "The european AI gateway for agents One API key",
+      "publishedAt": "2026-07-09T07:01:00Z",
+      "published_at": "2026-07-09T07:01:00Z",
+      "votes_count": 219,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
       "score_details": null
     },
     {
@@ -192,8 +170,8 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "本文约3300字，建议阅读7分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第四期——极豪科技。  近日，极豪科技（JIIOV Technology）正式向港交所递交招股书。这家公司做的不是手机、不是模组，而是藏在手机指纹解锁背后的那颗感知大脑。 按沙利文口径，按2025年收入计，极豪在中国智能手机生物识别解决方案市场排名第二，份额14.5%；它的指纹传感器已经装进了中国十大手机品牌里的八家。听上去是个闷声赚钱的卖铲子故事，但硬氪翻完364页的招股书后发现，这门生意的账本、股东名册和人脉网，远比中国第二要曲折。  光学指纹传感器贡献大头收入，亏损收窄 极豪2023—2025年收入分别为2.08亿、3.68亿、4.69亿元，三年复合增速50.1%；毛利率从26.3%一路爬到37.6%。最亮眼的是盈利拐点：经调整净利润（非国际财务报告准则）从2023年亏6681.4万，收窄到2024年亏1371.2万，到2025年转正为盈利2046.4万元。  （图源/硬氪整理） 看着，是熬出头了。  但经调整口",
-      "summary_zh": "本文约3300字，建议阅读7分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第四期——极豪科技。  近日，极豪科技（JIIOV Technology）正式向港交所递交招股书。这家公司做的不是手机、不是模组，而是藏在手机指纹解锁背后的那颗感知大脑。 按沙利文口径，按2025年收入计，极豪在中国智能手机生物识别解决方案市场排名第二，份额14.5%；它的指纹传感器已经装进了中国十大手机品牌里的八家。听上去是个闷声赚钱的卖铲子故事，但硬氪翻完364页的招股书后发现，这门生意的账本、股东名册和人脉网，远比中国第二要曲折。  光学指纹传感器贡献大头收入，亏损收窄 极豪2023—2025年收入分别为2.08亿、3.68亿、4.69亿元，三年复合增速50.1%；毛利率从26.3%一路爬到37.6%。最亮眼的是盈利拐点：经调整净利润（非国际财务报告准则）从2023年亏6681.4万，收窄到2024年亏1371.2万，到2025年转正为盈利2046.4万元。  （图源/硬氪整理） 看着，是熬出头了。  但经调整口",
+      "summary": "本文约3300字，建议阅读7分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第四期——极豪科技。  近日，极豪科技（JIIOV Technology）正式向港交所递交招股书。这家公司做的不是手机、不是模组，而是藏在手机指纹解锁背后的那颗感知大脑。 按沙利文口径，按2025年收入计，极豪在中国智能手机生物识别解决方案市场排名第二，份额14.5%；���的指纹传感器已经装进了中国十大手机品牌里的八家。听上去是个闷声赚钱的卖铲子故事，但硬氪翻完364页的招股书后发现，这门生意的账本、股东名册和人脉网，远比中国第二要曲折。  光学指纹传感器贡献大头收入，亏损收窄 极豪2023—2025年收入分别为2.08亿、3.68亿、4.69亿元，三年复合增速50.1%；毛利率从26.3%一路爬到37.6%。最亮眼的是盈利拐点：经调整净利润（非国际财务报告准则）从2023年亏6681.4万，收窄到2024年亏1371.2万，到2025年转正为盈利2046.4万元。  （图源/硬氪整理） 看着，是熬出头了。  但经调",
+      "summary_zh": "本文约3300字，建议阅读7分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第四期——极豪科技。  近日，极豪科技（JIIOV Technology）正式向港交所递交招股书。这家公司做的不是手机、不是模组，而是藏在手机指纹解锁背后的那颗感知大脑。 按沙利文口径，按2025年收入计，极豪在中国智能手机生物识别解决方案市场排名第二，份额14.5%；���的指纹传感器已经装进了中国十大手机品牌里的八家。听上去是个闷声赚钱的卖铲子故事，但硬氪翻完364页的招股书后发现，这门生意的账本、股东名册和人脉网，远比中国第二要曲折。  光学指纹传感器贡献大头收入，亏损收窄 极豪2023—2025年收入分别为2.08亿、3.68亿、4.69亿元，三年复合增速50.1%；毛利率从26.3%一路爬到37.6%。最亮眼的是盈利拐点：经调整净利润（非国际财务报告准则）从2023年亏6681.4万，收窄到2024年亏1371.2万，到2025年转正为盈利2046.4万元。  （图源/硬氪整理） 看着，是熬出头了。  但经调",
       "publishedAt": "2026-07-09T00:12:43Z",
       "published_at": "2026-07-09T00:12:43Z",
       "votes_count": null,
@@ -224,22 +202,44 @@
       "score_details": null
     },
     {
-      "id": "3dc266c5",
-      "title": "同声传译一夜失业！GPT-Live瞬间翻译，老太太现场抬杠AI看傻全网",
+      "id": "9304365d",
+      "title": "从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/07/446425.html",
+      "url": "https://www.qbitai.com/2026/07/446435.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/07/446425.html",
+      "sourceUrl": "https://www.qbitai.com/2026/07/446435.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "同声传译一夜失业！GPT-Live瞬间翻译，老太太现场抬杠AI看傻全网  Jay 2026-07-09 09:54:44  来源：量子位   变成你最常用的入口   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  同声传译，这下可能是真寄了啊…… 刚刚，OpenAI发布了GPT-Live，语音交互迎来了一次质的飞跃。 真·一句话说完，瞬间翻译。 俩老太太也是角色扮演上了。 这效果，说实话，比去年AirPods Pro 3宣传片里画的饼强太多了。 Apple Intelligence你慢慢上线吧，我等OpenAI自己出硬件了（doge）。 更重要的是推理+搜索能力的提升。 老太太把GPT当Google使，一会儿问天气，一会儿考历史，你来我往跟抬杠大赛似的。 而且全是有效信息，AI终于不再用一堆车轱辘话敷衍你了。 除此之外，官方还一次性放出了一堆demo。 厨房场景：不用再对着空气大喊Siri了。GPT可以边一步步指导你烹饪，边帮你计时，真正解放双手。 面试复盘：智能水平大幅提升，AI帮你复盘面试表现，甚至现场教你如何谈薪资。 甚至，OpenAI昨晚还开了一场直播进行现场演示，也",
-      "summary_zh": "同声传译一夜失业！GPT-Live瞬间翻译，老太太现场抬杠AI看傻全网  Jay 2026-07-09 09:54:44  来源：量子位   变成你最常用的入口   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  同声传译，这下可能是真寄了啊…… 刚刚，OpenAI发布了GPT-Live，语音交互迎来了一次质的飞跃。 真·一句话说完，瞬间翻译。 俩老太太也是角色扮演上了。 这效果，说实话，比去年AirPods Pro 3宣传片里画的饼强太多了。 Apple Intelligence你慢慢上线吧，我等OpenAI自己出硬件了（doge）。 更重要的是推理+搜索能力的提升。 老太太把GPT当Google使，一会儿问天气，一会儿考历史，你来我往跟抬杠大赛似的。 而且全是有效信息，AI终于不再用一堆车轱辘话敷衍你了。 除此之外，官方还一次性放出了一堆demo。 厨房场景：不用再对着空气大喊Siri了。GPT可以边一步步指导你烹饪，边帮你计时，真正解放双手。 面试复盘：智能水平大幅提升，AI帮你复盘面试表现，甚至现场教你如何谈薪资。 甚至，OpenAI昨晚还开了一场直播进行现场演示，也",
-      "publishedAt": "2026-07-09T01:54:44Z",
-      "published_at": "2026-07-09T01:54:44Z",
+      "summary": "从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路  量子位的朋友们 2026-07-09 10:32:01  来源：量子位   具身智能行业正在经历一场定位分化。 有人卖机器人本体，有人卖整套解决方案，量化派卖的是物理世界基础模型。这个选择的商业逻辑很直接：硬件会迭代，场景会变化，真正能跨场景复用、持续产生收益的，是让机器人理解物理世界的底层AI能力。 眼下，一场把机器人从展厅逼进真实场景的产业变革正在发生，也让一个商业判断浮出水面：谁掌握了让机器人快速适应新场景的能力，谁就拿到了规模化的入场券。 先看眼下这场变革有多具体。6月，工业和信息化部办公厅与国务院国资委办公厅联合发出《关于联合开展2026年度人形机器人与具身智能实景实训专项行动的通知》，10个省市加全部央企进场，场景横跨工业、服务、特种三大领域，涵盖生产制造、检测分析、仓储物流，餐饮零售、医疗康养，安全生产、应急救援等真实场景，每个省市要报不少于20个重点场景，每家央企不少于10个，11月底前交付验证报告。政策给的八字要求是”最小干预、利旧复用”，不许改造环境来迁就机器人，机器人必须证明自己能在现有条件下干活",
+      "summary_zh": "从餐饮后厨到物理世界基础模型：量化派的物理AI，走的是卖能力的路  量子位的朋友们 2026-07-09 10:32:01  来源：量子位   具身智能行业正在经历一场定位分化。 有人卖机器人本体，有人卖整套解决方案，量化派卖的是物理世界基础模型。这个选择的商业逻辑很直接：硬件会迭代，场景会变化，真正能跨场景复用、持续产生收益的，是让机器人理解物理世界的底层AI能力。 眼下，一场把机器人从展厅逼进真实场景的产业变革正在发生，也让一个商业判断浮出水面：谁掌握了让机器人快速适应新场景的能力，谁就拿到了规模化的入场券。 先看眼下这场变革有多具体。6月，工业和信息化部办公厅与国务院国资委办公厅联合发出《关于联合开展2026年度人形机器人与具身智能实景实训专项行动的通知》，10个省市加全部央企进场，场景横跨工业、服务、特种三大领域，涵盖生产制造、检测分析、仓储物流，餐饮零售、医疗康养，安全生产、应急救援等真实场景，每个省市要报不少于20个重点场景，每家央企不少于10个，11月底前交付验证报告。政策给的八字要求是”最小干预、利旧复用”，不许改造环境来迁就机器人，机器人必须证明自己能在现有条件下干活",
+      "publishedAt": "2026-07-09T02:32:01Z",
+      "published_at": "2026-07-09T02:32:01Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "caa658e0",
+      "title": "蚂蚁灵波开源LingBot-Video，全球首个面向具身的视频基模来了！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/446458.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/446458.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "蚂蚁灵波开源LingBot-Video，全球首个面向具身的视频基模来了！  量子位的朋友们 2026-07-09 11:19:15  来源：量子位   7月9日，蚂蚁灵波开源LingBot-Video，这是全球首个基于Mixture-of-Experts（MoE）架构、面向具身智能的开源视频生成基础模型。该模型围绕机器人和具身智能的核心需求重新设计视频预训练范式，在推理效率、物理合理性、动作理解和任务完成度等方面取得系统性提升，为视频基础模型从数字内容创作走向具身智能提供了新的开源底座。 在北京大学联合字节跳动发布的基准RBench上，LingBot-Video的总分是0.620，超越了Wan2.6（0.607）、Seedance1.5 Pro（0.584）、Cosmos3 Super（0.581）。RBench作为面向机器人操作视频的综合评测基准，重点考察模型能否生成符合真实物理规律的机器人行为。这一结果表明，LingBot-Video在生成机器人相关视频时，更能保持动作过程的合理性和任务执行的完整性。  （图说：LingBot-Video在RBench上性能最优） 为进一步验证Li",
+      "summary_zh": "蚂蚁灵波开源LingBot-Video，全球首个面向具身的视频基模来了！  量子位的朋友们 2026-07-09 11:19:15  来源：量子位   7月9日，蚂蚁灵波开源LingBot-Video，这是全球首个基于Mixture-of-Experts（MoE）架构、面向具身智能的开源视频生成基础模型。该模型围绕机器人和具身智能的核心需求重新设计视频预训练范式，在推理效率、物理合理性、动作理解和任务完成度等方面取得系统性提升，为视频基础模型从数字内容创作走向具身智能提供了新的开源底座。 在北京大学联合字节跳动发布的基准RBench上，LingBot-Video的总分是0.620，超越了Wan2.6（0.607）、Seedance1.5 Pro（0.584）、Cosmos3 Super（0.581）。RBench作为面向机器人操作视频的综合评测基准，重点考察模型能否生成符合真实物理规律的机器人行为。这一结果表明，LingBot-Video在生成机器人相关视频时，更能保持动作过程的合理性和任务执行的完整性。  （图说：LingBot-Video在RBench上性能最优） 为进一步验证Li",
+      "publishedAt": "2026-07-09T03:19:15Z",
+      "published_at": "2026-07-09T03:19:15Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
