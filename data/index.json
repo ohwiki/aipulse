@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-10T11:23:37Z",
-  "generatedAt": "2026-07-10T11:23:37Z",
-  "count": 59,
-  "total": 59,
+  "generated_at": "2026-07-10T21:31:39Z",
+  "generatedAt": "2026-07-10T21:31:39Z",
+  "count": 60,
+  "total": 60,
   "entries": [
+    {
+      "date": "2026-07-11",
+      "generated_at": "2026-07-10T21:31:39Z",
+      "generatedAt": "2026-07-10T21:31:39Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "5d6cb98b",
+          "title": "产品更新：PlugThis",
+          "title_en": "PlugThis",
+          "url": "https://www.producthunt.com/products/plugthis-chrome-extension-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/plugthis-chrome-extension-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Create your own Chrome Extensions by chatting",
+          "summary_zh": "Create your own Chrome Extensions by chatting",
+          "publishedAt": "2026-07-10T07:01:00Z",
+          "published_at": "2026-07-10T07:01:00Z",
+          "votes_count": 450,
+          "featured": true,
+          "topics": [
+            {
+              "id": "34",
+              "name": "Chrome Extensions",
+              "slug": "chrome-extensions"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "503582ac",
+          "title": "产品更新：Scarlett.",
+          "title_en": "Scarlett.",
+          "url": "https://www.producthunt.com/products/tryscarlett?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/tryscarlett?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your AI Co-Worker in Slack & iMessage Not anot",
+          "summary_zh": "Your AI Co-Worker in Slack & iMessage Not anot",
+          "publishedAt": "2026-07-10T07:01:00Z",
+          "published_at": "2026-07-10T07:01:00Z",
+          "votes_count": 352,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "769",
+              "name": "CRM",
+              "slug": "crm"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "636b03b1",
+          "title": "产品更新：ConnectMachine",
+          "title_en": "ConnectMachine 2.0",
+          "url": "https://www.producthunt.com/products/connectmachine-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/connectmachine-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI digital business card that remembers everyo",
+          "summary_zh": "AI digital business card that remembers everyo",
+          "publishedAt": "2026-07-10T07:01:00Z",
+          "published_at": "2026-07-10T07:01:00Z",
+          "votes_count": 334,
+          "featured": true,
+          "topics": [
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-10",
       "generated_at": "2026-07-10T11:23:37Z",
