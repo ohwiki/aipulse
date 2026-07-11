@@ -1,0 +1,473 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-11T21:11:28Z",
+  "generatedAt": "2026-07-11T21:11:28Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "acb6c4d7",
+          "title": "产品更新：Effects SDK",
+          "title_en": "Effects SDK",
+          "url": "https://www.producthunt.com/products/effects-sdk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/effects-sdk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI video & audio effects SDK for real-time app",
+          "summary_zh": "AI video & audio effects SDK for real-time app",
+          "publishedAt": "2026-07-11T07:01:00Z",
+          "published_at": "2026-07-11T07:01:00Z",
+          "votes_count": 396,
+          "featured": true,
+          "topics": [
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "778",
+              "name": "SDK",
+              "slug": "sdk"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d1601eb7",
+          "title": "产品更新：Cloudflare Drop",
+          "title_en": "Cloudflare Drop",
+          "url": "https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Drop your folder in browser & deploy instantly",
+          "summary_zh": "Drop your folder in browser & deploy instantly",
+          "publishedAt": "2026-07-11T07:01:00Z",
+          "published_at": "2026-07-11T07:01:00Z",
+          "votes_count": 268,
+          "featured": true,
+          "topics": [
+            {
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b5bf06bd",
+          "title": "产品更新：ChatGPT Work",
+          "title_en": "ChatGPT Work",
+          "url": "https://www.producthunt.com/products/chatgpt-work?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/chatgpt-work?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Partner for your most ambitious work ChatGPT W",
+          "summary_zh": "Partner for your most ambitious work ChatGPT W",
+          "publishedAt": "2026-07-11T07:01:00Z",
+          "published_at": "2026-07-11T07:01:00Z",
+          "votes_count": 185,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9422e5ed",
+          "title": "产品更新：Kickbacks CLI",
+          "title_en": "Kickbacks CLI",
+          "url": "https://www.producthunt.com/products/kickbacks-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/kickbacks-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The terminal and Mac menu bar companion for Ki",
+          "summary_zh": "The terminal and Mac menu bar companion for Ki",
+          "publishedAt": "2026-07-11T07:01:00Z",
+          "published_at": "2026-07-11T07:01:00Z",
+          "votes_count": 154,
+          "featured": true,
+          "topics": [
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "303",
+              "name": "Menu Bar Apps",
+              "slug": "menu-bar-apps"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "38fd3683",
+          "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+          "title_en": null,
+          "url": "https://36kr.com/p/3889516712065799?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3889516712065799?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "图源/企业  本文约2400字，建议阅读6分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，具身智能仿生扑翼飞行机器人公司「鹰瞰智翼」已于近期完成数千万元A轮融资。本轮融资是公司在三个月内完成的第三轮融资，由元禾璞华领投，孚腾资本、厚雪资本跟投。资金将主要用于首款消费级产品的量产备货、市场拓展，团队扩充以及下一代具身智能扑翼机器人与流体仿真引擎的研发。 「鹰瞰智翼」2025年3月成立于深圳，是全球较早专注于具身智能扑翼机器人的公司之一。创始人陈昊为上海交通大学机械工程直博生，团队研发人员占比超75%。当前核心成员来自上海交通大学、大疆、华为、字节等高校及科技企业，兼具前沿科研、全球化市场和互联网运营经验，持续推动流体智能技术产业化。 硬氪了解到，扑翼飞行与旋翼无人机的本质差异在于对流体的处理方式。旋翼通过高速旋转与流体对抗，而扑翼则是利用流体飞行。 目前，「鹰瞰智翼」的产品分为两条路线演进。首款消费级产品“Eagle X”（原代号“丹丹”）的核心逻辑是“借助流体飞行”——通过扑翼结构实现滑翔与拍打的混合模态，在气流中借势飞行。该产品已完成累计超3000小时飞行测试，目前进入量产阶段，今年Q3",
+          "summary_zh": "图源/企业  本文约2400字，建议阅读6分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，具身智能仿生扑翼飞行机器人公司「鹰瞰智翼」已于近期完成数千万元A轮融资。本轮融资是公司在三个月内完成的第三轮融资，由元禾璞华领投，孚腾资本、厚雪资本跟投。资金将主要用于首款消费级产品的量产备货、市场拓展，团队扩充以及下一代具身智能扑翼机器人与流体仿真引擎的研发。 「鹰瞰智翼」2025年3月成立于深圳，是全球较早专注于具身智能扑翼机器人的公司之一。创始人陈昊为上海交通大学机械工程直博生，团队研发人员占比超75%。当前核心成员来自上海交通大学、大疆、华为、字节等高校及科技企业，兼具前沿科研、全球化市场和互联网运营经验，持续推动流体智能技术产业化。 硬氪了解到，扑翼飞行与旋翼无人机的本质差异在于对流体的处理方式。旋翼通过高速旋转与流体对抗，而扑翼则是利用流体飞行。 目前，「鹰瞰智翼」的产品分为两条路线演进。首款消费级产品“Eagle X”（原代号“丹丹”）的核心逻辑是“借助流体飞行”——通过扑翼结构实现滑翔与拍打的混合模态，在气流中借势飞行。该产品已完成累计超3000小时飞行测试，目前进入量产阶段，今年Q3",
+          "publishedAt": "2026-07-11T01:00:00Z",
+          "published_at": "2026-07-11T01:00:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "35719a03",
+          "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+          "title_en": null,
+          "url": "https://36kr.com/p/3890553690192384?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3890553690192384?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录 三星李在镕拟于7月底赴美会晤英伟达黄仁勋 德国大众拟大裁员，最高或裁减12万个岗位 OpenAI高管层再现变动，首席运营官因病离职 TOP3大新闻 长鑫科技，承销团阵容公布  长鑫科技IPO进入发行倒计时，这家“国产存储第一股”背后的承销团阵容也随之浮出水面。最新披露的招股意向书显示，长鑫科技预计7月16日发行。本次IPO中，中金公司、中信建投担任联席保荐机构及主承销商，国泰海通、国元证券、华泰联合、招商证券担任联席主承销商，合计6家券商组成承销团。 这是一支少见的“豪华承销团”。一边是中金、中信建投、国泰海通、华泰联合、招商证券等头部投行密集出现，另一边是安徽本土券商国元证券进入主承销名单。更有意思的是，多家主承销商同时也是长鑫科技股东，投行收入之外，股权投资收益才是这单IPO更大的想象空间。（财联社） SK海力士登陆美股，上市首日大涨近13%  韩国芯片巨头SK海力士美东时间7月10日登陆科技股云集的纳斯达克交易所，此举将为其打通一条强力全新融资渠道，方便全球投资者布",
+          "summary_zh": "今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录 三星李在镕拟于7月底赴美会晤英伟达黄仁勋 德国大众拟大裁员，最高或裁减12万个岗位 OpenAI高管层再现变动，首席运营官因病离职 TOP3大新闻 长鑫科技，承销团阵容公布  长鑫科技IPO进入发行倒计时，这家“国产存储第一股”背后的承销团阵容也随之浮出水面。最新披露的招股意向书显示，长鑫科技预计7月16日发行。本次IPO中，中金公司、中信建投担任联席保荐机构及主承销商，国泰海通、国元证券、华泰联合、招商证券担任联席主承销商，合计6家券商组成承销团。 这是一支少见的“豪华承销团”。一边是中金、中信建投、国泰海通、华泰联合、招商证券等头部投行密集出现，另一边是安徽本土券商国元证券进入主承销名单。更有意思的是，多家主承销商同时也是长鑫科技股东，投行收入之外，股权投资收益才是这单IPO更大的想象空间。（财联社） SK海力士登陆美股，上市首日大涨近13%  韩国芯片巨头SK海力士美东时间7月10日登陆科技股云集的纳斯达克交易所，此举将为其打通一条强力全新融资渠道，方便全球投资者布",
+          "publishedAt": "2026-07-11T01:24:06Z",
+          "published_at": "2026-07-11T01:24:06Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0279a8a0",
+          "title": "FansAI收购OPC公司新映科技",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3890728911354376?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3890728911354376?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "7月11日消息，AI内容和互动影视公司垚城智能（FansAI）宣布全资收购AI音乐应用新映科技，这是OPC领域目前少见的探索性并购案例。（新浪财经）",
+          "summary_zh": "7月11日消息，AI内容和互动影视公司垚城智能（FansAI）宣布全资收购AI音乐应用新映科技，这是OPC领域目前少见的探索性并购案例。（新浪财经）",
+          "publishedAt": "2026-07-11T04:14:07Z",
+          "published_at": "2026-07-11T04:14:07Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "4ba08b91",
+          "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/447873.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/447873.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent  henry 2026-07-11 13:30:11  来源：量子位   神话级大模型驾驭宝典   henry 发自 凹非寺 量子位 | 公众号 QbitAI  我看呐，只要以后笔记本半开着，就没有人的事儿了。 刚刚，OpenAI研究院Ethan Knight宣布： 昨儿刚出的GPT-5.6，用不到一小时，就完成了一道存在了半个世纪的图论猜想证明。  而这道题呢，来头也还真不小，就是大名鼎鼎的循环双覆盖猜想（Cycle Double Cover Conjecture）。 为解决这道题，研究员把现在最顶的GPT-5.6 Sol蹬到Ultra；GPT呢，又自己蹬了64个子agent。 最后，硬是写出了一份三页的pdf，证明完毕，Over。 发布后，还在韩国开ICML的Noam Brown（o1核心贡献者）也隔着太平洋第一时间赶来捧场。 他表示，这次和此前的Erdős单位距离问题不同，不靠什么内部特供模型，靠公开能用的GPT-5.6 Sol Ultra就把活儿干了。  而且，GPT-5.6 Sol Ultra",
+          "summary_zh": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent  henry 2026-07-11 13:30:11  来源：量子位   神话级大模型驾驭宝典   henry 发自 凹非寺 量子位 | 公众号 QbitAI  我看呐，只要以后笔记本半开着，就没有人的事儿了。 刚刚，OpenAI研究院Ethan Knight宣布： 昨儿刚出的GPT-5.6，用不到一小时，就完成了一道存在了半个世纪的图论猜想证明。  而这道题呢，来头也还真不小，就是大名鼎鼎的循环双覆盖猜想（Cycle Double Cover Conjecture）。 为解决这道题，研究员把现在最顶的GPT-5.6 Sol蹬到Ultra；GPT呢，又自己蹬了64个子agent。 最后，硬是写出了一份三页的pdf，证明完毕，Over。 发布后，还在韩国开ICML的Noam Brown（o1核心贡献者）也隔着太平洋第一时间赶来捧场。 他表示，这次和此前的Erdős单位距离问题不同，不靠什么内部特供模型，靠公开能用的GPT-5.6 Sol Ultra就把活儿干了。  而且，GPT-5.6 Sol Ultra",
+          "publishedAt": "2026-07-11T05:30:11Z",
+          "published_at": "2026-07-11T05:30:11Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "acb6c4d7",
+      "title": "产品更新：Effects SDK",
+      "title_en": "Effects SDK",
+      "url": "https://www.producthunt.com/products/effects-sdk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/effects-sdk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI video & audio effects SDK for real-time app",
+      "summary_zh": "AI video & audio effects SDK for real-time app",
+      "publishedAt": "2026-07-11T07:01:00Z",
+      "published_at": "2026-07-11T07:01:00Z",
+      "votes_count": 396,
+      "featured": true,
+      "topics": [
+        {
+          "id": "252",
+          "name": "Meetings",
+          "slug": "meetings"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "778",
+          "name": "SDK",
+          "slug": "sdk"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d1601eb7",
+      "title": "产品更新：Cloudflare Drop",
+      "title_en": "Cloudflare Drop",
+      "url": "https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Drop your folder in browser & deploy instantly",
+      "summary_zh": "Drop your folder in browser & deploy instantly",
+      "publishedAt": "2026-07-11T07:01:00Z",
+      "published_at": "2026-07-11T07:01:00Z",
+      "votes_count": 268,
+      "featured": true,
+      "topics": [
+        {
+          "id": "243",
+          "name": "Website Builder",
+          "slug": "website-builder"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b5bf06bd",
+      "title": "产品更新：ChatGPT Work",
+      "title_en": "ChatGPT Work",
+      "url": "https://www.producthunt.com/products/chatgpt-work?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/chatgpt-work?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Partner for your most ambitious work ChatGPT W",
+      "summary_zh": "Partner for your most ambitious work ChatGPT W",
+      "publishedAt": "2026-07-11T07:01:00Z",
+      "published_at": "2026-07-11T07:01:00Z",
+      "votes_count": 185,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9422e5ed",
+      "title": "产品更新：Kickbacks CLI",
+      "title_en": "Kickbacks CLI",
+      "url": "https://www.producthunt.com/products/kickbacks-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/kickbacks-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The terminal and Mac menu bar companion for Ki",
+      "summary_zh": "The terminal and Mac menu bar companion for Ki",
+      "publishedAt": "2026-07-11T07:01:00Z",
+      "published_at": "2026-07-11T07:01:00Z",
+      "votes_count": 154,
+      "featured": true,
+      "topics": [
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "303",
+          "name": "Menu Bar Apps",
+          "slug": "menu-bar-apps"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "38fd3683",
+      "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+      "title_en": null,
+      "url": "https://36kr.com/p/3889516712065799?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3889516712065799?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "图源/企业  本文约2400字，建议阅读6分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，具身智能仿生扑翼飞行机器人公司「鹰瞰智翼」已于近期完成数千万元A轮融资。本轮融资是公司在三个月内完成的第三轮融资，由元禾璞华领投，孚腾资本、厚雪资本跟投。资金将主要用于首款消费级产品的量产备货、市场拓展，团队扩充以及下一代具身智能扑翼机器人与流体仿真引擎的研发。 「鹰瞰智翼」2025年3月成立于深圳，是全球较早专注于具身智能扑翼机器人的公司之一。创始人陈昊为上海交通大学机械工程直博生，团队研发人员占比超75%。当前核心成员来自上海交通大学、大疆、华为、字节等高校及科技企业，兼具前沿科研、全球化市场和互联网运营经验，持续推动流体智能技术产业化。 硬氪了解到，扑翼飞行与旋翼无人机的本质差异在于对流体的处理方式。旋翼通过高速旋转与流体对抗，而扑翼则是利用流体飞行。 目前，「鹰瞰智翼」的产品分为两条路线演进。首款消费级产品“Eagle X”（原代号“丹丹”）的核心逻辑是“借助流体飞行”——通过扑翼结构实现滑翔与拍打的混合模态，在气流中借势飞行。该产品已完成累计超3000小时飞行测试，目前进入量产阶段，今年Q3",
+      "summary_zh": "图源/企业  本文约2400字，建议阅读6分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，具身智能仿生扑翼飞行机器人公司「鹰瞰智翼」已于近期完成数千万元A轮融资。本轮融资是公司在三个月内完成的第三轮融资，由元禾璞华领投，孚腾资本、厚雪资本跟投。资金将主要用于首款消费级产品的量产备货、市场拓展，团队扩充以及下一代具身智能扑翼机器人与流体仿真引擎的研发。 「鹰瞰智翼」2025年3月成立于深圳，是全球较早专注于具身智能扑翼机器人的公司之一。创始人陈昊为上海交通大学机械工程直博生，团队研发人员占比超75%。当前核心成员来自上海交通大学、大疆、华为、字节等高校及科技企业，兼具前沿科研、全球化市场和互联网运营经验，持续推动流体智能技术产业化。 硬氪了解到，扑翼飞行与旋翼无人机的本质差异在于对流体的处理方式。旋翼通过高速旋转与流体对抗，而扑翼则是利用流体飞行。 目前，「鹰瞰智翼」的产品分为两条路线演进。首款消费级产品“Eagle X”（原代号“丹丹”）的核心逻辑是“借助流体飞行”——通过扑翼结构实现滑翔与拍打的混合模态，在气流中借势飞行。该产品已完成累计超3000小时飞行测试，目前进入量产阶段，今年Q3",
+      "publishedAt": "2026-07-11T01:00:00Z",
+      "published_at": "2026-07-11T01:00:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "35719a03",
+      "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+      "title_en": null,
+      "url": "https://36kr.com/p/3890553690192384?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3890553690192384?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录 三星李在镕拟于7月底赴美会晤英伟达黄仁勋 德国大众拟大裁员，最高或裁减12万个岗位 OpenAI高管层再现变动，首席运营官因病离职 TOP3大新闻 长鑫科技，承销团阵容公布  长鑫科技IPO进入发行倒计时，这家“国产存储第一股”背后的承销团阵容也随之浮出水面。最新披露的招股意向书显示，长鑫科技预计7月16日发行。本次IPO中，中金公司、中信建投担任联席保荐机构及主承销商，国泰海通、国元证券、华泰联合、招商证券担任联席主承销商，合计6家券商组成承销团。 这是一支少见的“豪华承销团”。一边是中金、中信建投、国泰海通、华泰联合、招商证券等头部投行密集出现，另一边是安徽本土券商国元证券进入主承销名单。更有意思的是，多家主承销商同时也是长鑫科技股东，投行收入之外，股权投资收益才是这单IPO更大的想象空间。（财联社） SK海力士登陆美股，上市首日大涨近13%  韩国芯片巨头SK海力士美东时间7月10日登陆科技股云集的纳斯达克交易所，此举将为其打通一条强力全新融资渠道，方便全球投资者布",
+      "summary_zh": "今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录 三星李在镕拟于7月底赴美会晤英伟达黄仁勋 德国大众拟大裁员，最高或裁减12万个岗位 OpenAI高管层再现变动，首席运营官因病离职 TOP3大新闻 长鑫科技，承销团阵容公布  长鑫科技IPO进入发行倒计时，这家“国产存储第一股”背后的承销团阵容也随之浮出水面。最新披露的招股意向书显示，长鑫科技预计7月16日发行。本次IPO中，中金公司、中信建投担任联席保荐机构及主承销商，国泰海通、国元证券、华泰联合、招商证券担任联席主承销商，合计6家券商组成承销团。 这是一支少见的“豪华承销团”。一边是中金、中信建投、国泰海通、华泰联合、招商证券等头部投行密集出现，另一边是安徽本土券商国元证券进入主承销名单。更有意思的是，多家主承销商同时也是长鑫科技股东，投行收入之外，股权投资收益才是这单IPO更大的想象空间。（财联社） SK海力士登陆美股，上市首日大涨近13%  韩国芯片巨头SK海力士美东时间7月10日登陆科技股云集的纳斯达克交易所，此举将为其打通一条强力全新融资渠道，方便全球投资者布",
+      "publishedAt": "2026-07-11T01:24:06Z",
+      "published_at": "2026-07-11T01:24:06Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0279a8a0",
+      "title": "FansAI收购OPC公司新映科技",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3890728911354376?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3890728911354376?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "7月11日消息，AI内容和互动影视公司垚城智能（FansAI）宣布全资收购AI音乐应用新映科技，这是OPC领域目前少见的探索性并购案例。（新浪财经）",
+      "summary_zh": "7月11日消息，AI内容和互动影视公司垚城智能（FansAI）宣布全资收购AI音乐应用新映科技，这是OPC领域目前少见的探索性并购案例。（新浪财经）",
+      "publishedAt": "2026-07-11T04:14:07Z",
+      "published_at": "2026-07-11T04:14:07Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4ba08b91",
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/447873.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/447873.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent  henry 2026-07-11 13:30:11  来源：量子位   神话级大模型驾驭宝典   henry 发自 凹非寺 量子位 | 公众号 QbitAI  我看呐，只要以后笔记本半开着，就没有人的事儿了。 刚刚，OpenAI研究院Ethan Knight宣布： 昨儿刚出的GPT-5.6，用不到一小时，就完成了一道存在了半个世纪的图论猜想证明。  而这道题呢，来头也还真不小，就是大名鼎鼎的循环双覆盖猜想（Cycle Double Cover Conjecture）。 为解决这道题，研究员把现在最顶的GPT-5.6 Sol蹬到Ultra；GPT呢，又自己蹬了64个子agent。 最后，硬是写出了一份三页的pdf，证明完毕，Over。 发布后，还在韩国开ICML的Noam Brown（o1核心贡献者）也隔着太平洋第一时间赶来捧场。 他表示，这次和此前的Erdős单位距离问题不同，不靠什么内部特供模型，靠公开能用的GPT-5.6 Sol Ultra就把活儿干了。  而且，GPT-5.6 Sol Ultra",
+      "summary_zh": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent  henry 2026-07-11 13:30:11  来源：量子位   神话级大模型驾驭宝典   henry 发自 凹非寺 量子位 | 公众号 QbitAI  我看呐，只要以后笔记本半开着，就没有人的事儿了。 刚刚，OpenAI研究院Ethan Knight宣布： 昨儿刚出的GPT-5.6，用不到一小时，就完成了一道存在了半个世纪的图论猜想证明。  而这道题呢，来头也还真不小，就是大名鼎鼎的循环双覆盖猜想（Cycle Double Cover Conjecture）。 为解决这道题，研究员把现在最顶的GPT-5.6 Sol蹬到Ultra；GPT呢，又自己蹬了64个子agent。 最后，硬是写出了一份三页的pdf，证明完毕，Over。 发布后，还在韩国开ICML的Noam Brown（o1核心贡献者）也隔着太平洋第一时间赶来捧场。 他表示，这次和此前的Erdős单位距离问题不同，不靠什么内部特供模型，靠公开能用的GPT-5.6 Sol Ultra就把活儿干了。  而且，GPT-5.6 Sol Ultra",
+      "publishedAt": "2026-07-11T05:30:11Z",
+      "published_at": "2026-07-11T05:30:11Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

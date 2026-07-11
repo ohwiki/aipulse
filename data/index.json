@@ -1,9 +1,112 @@
 {
-  "generated_at": "2026-07-11T09:56:48Z",
-  "generatedAt": "2026-07-11T09:56:48Z",
-  "count": 60,
-  "total": 60,
+  "generated_at": "2026-07-11T21:11:28Z",
+  "generatedAt": "2026-07-11T21:11:28Z",
+  "count": 61,
+  "total": 61,
   "entries": [
+    {
+      "date": "2026-07-12",
+      "generated_at": "2026-07-11T21:11:28Z",
+      "generatedAt": "2026-07-11T21:11:28Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "acb6c4d7",
+          "title": "产品更新：Effects SDK",
+          "title_en": "Effects SDK",
+          "url": "https://www.producthunt.com/products/effects-sdk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/effects-sdk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI video & audio effects SDK for real-time app",
+          "summary_zh": "AI video & audio effects SDK for real-time app",
+          "publishedAt": "2026-07-11T07:01:00Z",
+          "published_at": "2026-07-11T07:01:00Z",
+          "votes_count": 396,
+          "featured": true,
+          "topics": [
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "778",
+              "name": "SDK",
+              "slug": "sdk"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d1601eb7",
+          "title": "产品更新：Cloudflare Drop",
+          "title_en": "Cloudflare Drop",
+          "url": "https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Drop your folder in browser & deploy instantly",
+          "summary_zh": "Drop your folder in browser & deploy instantly",
+          "publishedAt": "2026-07-11T07:01:00Z",
+          "published_at": "2026-07-11T07:01:00Z",
+          "votes_count": 268,
+          "featured": true,
+          "topics": [
+            {
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b5bf06bd",
+          "title": "产品更新：ChatGPT Work",
+          "title_en": "ChatGPT Work",
+          "url": "https://www.producthunt.com/products/chatgpt-work?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/chatgpt-work?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Partner for your most ambitious work ChatGPT W",
+          "summary_zh": "Partner for your most ambitious work ChatGPT W",
+          "publishedAt": "2026-07-11T07:01:00Z",
+          "published_at": "2026-07-11T07:01:00Z",
+          "votes_count": 185,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-11",
       "generated_at": "2026-07-11T09:56:48Z",
