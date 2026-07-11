@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-07-10T21:31:39Z",
-  "generatedAt": "2026-07-10T21:31:39Z",
+  "generated_at": "2026-07-11T09:56:48Z",
+  "generatedAt": "2026-07-11T09:56:48Z",
   "count": 60,
   "total": 60,
   "entries": [
     {
       "date": "2026-07-11",
-      "generated_at": "2026-07-10T21:31:39Z",
-      "generatedAt": "2026-07-10T21:31:39Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-07-11T09:56:48Z",
+      "generatedAt": "2026-07-11T09:56:48Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "5d6cb98b",
-          "title": "产品更新：PlugThis",
-          "title_en": "PlugThis",
-          "url": "https://www.producthunt.com/products/plugthis-chrome-extension-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "38fd3683",
+          "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+          "title_en": null,
+          "url": "https://36kr.com/p/3889516712065799?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/plugthis-chrome-extension-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Create your own Chrome Extensions by chatting",
-          "summary_zh": "Create your own Chrome Extensions by chatting",
-          "publishedAt": "2026-07-10T07:01:00Z",
-          "published_at": "2026-07-10T07:01:00Z",
-          "votes_count": 450,
-          "featured": true,
-          "topics": [
-            {
-              "id": "34",
-              "name": "Chrome Extensions",
-              "slug": "chrome-extensions"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "470",
-              "name": "No-Code",
-              "slug": "no-code"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3889516712065799?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "图源/企业  本文约2400字，建议阅读6分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，具身智能仿生扑翼飞行机器人公司「鹰瞰智翼」已于近期完成数千万元A轮融资。本轮融资是公司在三个月内完成的第三轮融资，由元禾璞华领投，孚腾资本、厚雪资本跟投。资金将主要用于首款消费级产品的量产备货、市场拓展，团队扩充以及下一代具身智能扑翼机器人与流体仿真引擎的研发。 「鹰瞰智翼」2025年3月成立于深圳，是全球较早专注于具身智能扑翼机器人的公司之一。创始人陈昊为上海交通大学机械工程直博生，团队研发人员占比超75%。当前核心成员来自上海交通大学、大疆、华为、字节等高校及科技企业，兼具前沿科研、全球化市场和互联网运营经验，持续推动流体智能技术产业化。 硬氪了解到，扑翼飞行与旋翼无人机的本质差异在于对流体的处理方式。旋翼通过高速旋转与流体对抗，而扑翼则是利用流体飞行。 目前，「鹰瞰智翼」的产品分为两条路线演进。首款消费级产品“Eagle X”（原代号“丹丹”）的核心逻辑是“借助流体飞行”——通过扑翼结构实现滑翔与拍打的混合模态，在气流中借势飞行。该产品已完成累计超3000小时飞行测试，目前进入量产阶段，今年Q3",
+          "summary_zh": "图源/企业  本文约2400字，建议阅读6分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，具身智能仿生扑翼飞行机器人公司「鹰瞰智翼」已于近期完成数千万元A轮融资。本轮融资是公司在三个月内完成的第三轮融资，由元禾璞华领投，孚腾资本、厚雪资本跟投。资金将主要用于首款消费级产品的量产备货、市场拓展，团队扩充以及下一代具身智能扑翼机器人与流体仿真引擎的研发。 「鹰瞰智翼」2025年3月成立于深圳，是全球较早专注于具身智能扑翼机器人的公司之一。创始人陈昊为上海交通大学机械工程直博生，团队研发人员占比超75%。当前核心成员来自上海交通大学、大疆、华为、字节等高校及科技企业，兼具前沿科研、全球化市场和互联网运营经验，持续推动流体智能技术产业化。 硬氪了解到，扑翼飞行与旋翼无人机的本质差异在于对流体的处理方式。旋翼通过高速旋转与流体对抗，而扑翼则是利用流体飞行。 目前，「鹰瞰智翼」的产品分为两条路线演进。首款消费级产品“Eagle X”（原代号“丹丹”）的核心逻辑是“借助流体飞行”——通过扑翼结构实现滑翔与拍打的混合模态，在气流中借势飞行。该产品已完成累计超3000小时飞行测试，目前进入量产阶段，今年Q3",
+          "publishedAt": "2026-07-11T01:00:00Z",
+          "published_at": "2026-07-11T01:00:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "503582ac",
-          "title": "产品更新：Scarlett.",
-          "title_en": "Scarlett.",
-          "url": "https://www.producthunt.com/products/tryscarlett?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "49081523",
+          "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/447846.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/tryscarlett?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Your AI Co-Worker in Slack & iMessage Not anot",
-          "summary_zh": "Your AI Co-Worker in Slack & iMessage Not anot",
-          "publishedAt": "2026-07-10T07:01:00Z",
-          "published_at": "2026-07-10T07:01:00Z",
-          "votes_count": 352,
-          "featured": true,
-          "topics": [
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "769",
-              "name": "CRM",
-              "slug": "crm"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/447846.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审  鹭羽 2026-07-11 01:18:11  来源：量子位   四大方向，奖金直给   鹭羽 发自 凹非寺 量子位 | 公众号 QbitAI  这可能是我今年见过最「实诚」的科研奖项了！ 不设赛题，也不用刷分，这一次蚂蚁真金白银纯发福利： AI时代大浪淘沙，那个一直在科研深水区里啃着硬骨头的你，将有机会收获蚂蚁关注，以及一笔实打实的资金支持。 只要你是做AGI、具身智能、数字医学、数据处理与安全隐私这四个方向的青年学者或在读博士生，都能来试一试。 要求只有一点，你现在正在做的工作够硬、够新、够深。咱们一切拿作品说话，是金子就能发光。 奖项名为「2026蚂蚁InTech奖」，目前已经开放提名与申报，倒计时还剩最后一周！    这也是蚂蚁举办的第三届，过去两届先后吸引上百位学界泰斗参与推荐，部分成果如今也已跑进产业最前沿。 比如首届获奖者王鹤将三维视觉技术落地通用机器人赛道；上届获奖者顾煜贤深耕大模型高效推理，其轻量化大模型框架已在多家AI厂商落地应用。 且看本届含金量更是拉满，坐在评委席上的，清一色业界顶尖学者，两院",
+          "summary_zh": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审  鹭羽 2026-07-11 01:18:11  来源：量子位   四大方向，奖金直给   鹭羽 发自 凹非寺 量子位 | 公众号 QbitAI  这可能是我今年见过最「实诚」的科研奖项了！ 不设赛题，也不用刷分，这一次蚂蚁真金白银纯发福利： AI时代大浪淘沙，那个一直在科研深水区里啃着硬骨头的你，将有机会收获蚂蚁关注，以及一笔实打实的资金支持。 只要你是做AGI、具身智能、数字医学、数据处理与安全隐私这四个方向的青年学者或在读博士生，都能来试一试。 要求只有一点，你现在正在做的工作够硬、够新、够深。咱们一切拿作品说话，是金子就能发光。 奖项名为「2026蚂蚁InTech奖」，目前已经开放提名与申报，倒计时还剩最后一周！    这也是蚂蚁举办的第三届，过去两届先后吸引上百位学界泰斗参与推荐，部分成果如今也已跑进产业最前沿。 比如首届获奖者王鹤将三维视觉技术落地通用机器人赛道；上届获奖者顾煜贤深耕大模型高效推理，其轻量化大模型框架已在多家AI厂商落地应用。 且看本届含金量更是拉满，坐在评委席上的，清一色业界顶尖学者，两院",
+          "publishedAt": "2026-07-10T17:18:11Z",
+          "published_at": "2026-07-10T17:18:11Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "636b03b1",
-          "title": "产品更新：ConnectMachine",
-          "title_en": "ConnectMachine 2.0",
-          "url": "https://www.producthunt.com/products/connectmachine-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "18037215",
+          "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/447832.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/connectmachine-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI digital business card that remembers everyo",
-          "summary_zh": "AI digital business card that remembers everyo",
-          "publishedAt": "2026-07-10T07:01:00Z",
-          "published_at": "2026-07-10T07:01:00Z",
-          "votes_count": 334,
-          "featured": true,
-          "topics": [
-            {
-              "id": "252",
-              "name": "Meetings",
-              "slug": "meetings"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "282",
-              "name": "Virtual Assistants",
-              "slug": "virtual-assistants"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/447832.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放  思邈 2026-07-10 22:13:37  来源：量子位   AI变为研发流程的“组织者”   允中 发自 凹非寺 量子位 | 公众号 QbitAI  AI生物研发，正在迎来它的“Windows时刻”。 过去，AI是帮科学家做结构预测、抗体设计的“单点工具”；而现在，它正演变为统领全局的“操作系统”。 7月2日，在2026上海国投前沿论坛上，分子之心创始人许锦波教授正式面向产业界开放其自研的AI原生生物经济操作系统——MoleculeOS（MOS）。 这不仅是一个系统的发布，更释放出一个明确的信号：  生物领域的研发基础设施，正在被重新定义。  在这里，AI的角色从生物规律的“预测者”，蜕变为研发流程的“组织者”。 传统的“筛选试错”式的分子发现正步入历史，一个更具确定性的“分子创造”时代，正由这款AI原生操作系统正式开启。  试用入口：https://mos.moleculemind.com/login 从工具智能到系统智能：重构AI制药与生物制造的研发模式 过去几年，AI在蛋白质结构预测、抗体设计、分子",
+          "summary_zh": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放  思邈 2026-07-10 22:13:37  来源：量子位   AI变为研发流程的“组织者”   允中 发自 凹非寺 量子位 | 公众号 QbitAI  AI生物研发，正在迎来它的“Windows时刻”。 过去，AI是帮科学家做结构预测、抗体设计的“单点工具”；而现在，它正演变为统领全局的“操作系统”。 7月2日，在2026上海国投前沿论坛上，分子之心创始人许锦波教授正式面向产业界开放其自研的AI原生生物经济操作系统——MoleculeOS（MOS）。 这不仅是一个系统的发布，更释放出一个明确的信号：  生物领域的研发基础设施，正在被重新定义。  在这里，AI的角色从生物规律的“预测者”，蜕变为研发流程的“组织者”。 传统的“筛选试错”式的分子发现正步入历史，一个更具确定性的“分子创造”时代，正由这款AI原生操作系统正式开启。  试用入口：https://mos.moleculemind.com/login 从工具智能到系统智能：重构AI制药与生物制造的研发模式 过去几年，AI在蛋白质结构预测、抗体设计、分子",
+          "publishedAt": "2026-07-10T14:13:37Z",
+          "published_at": "2026-07-10T14:13:37Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
