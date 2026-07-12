@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-12T10:06:35Z",
-  "generatedAt": "2026-07-12T10:06:35Z",
-  "count": 61,
-  "total": 61,
+  "generated_at": "2026-07-12T21:11:26Z",
+  "generatedAt": "2026-07-12T21:11:26Z",
+  "count": 62,
+  "total": 62,
   "entries": [
+    {
+      "date": "2026-07-13",
+      "generated_at": "2026-07-12T21:11:26Z",
+      "generatedAt": "2026-07-12T21:11:26Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "53e09cc2",
+          "title": "产品更新：JustVibe",
+          "title_en": "JustVibe",
+          "url": "https://www.producthunt.com/products/justvibe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/justvibe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The search engine for doing, with apps built f",
+          "summary_zh": "The search engine for doing, with apps built f",
+          "publishedAt": "2026-07-12T07:01:00Z",
+          "published_at": "2026-07-12T07:01:00Z",
+          "votes_count": 422,
+          "featured": true,
+          "topics": [
+            {
+              "id": "21",
+              "name": "Web App",
+              "slug": "web-app"
+            },
+            {
+              "id": "361",
+              "name": "Search",
+              "slug": "search"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d223b246",
+          "title": "产品更新：FetchSandbox",
+          "title_en": "FetchSandbox",
+          "url": "https://www.producthunt.com/products/fetchsandbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fetchsandbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "API integration testing that remembers what br",
+          "summary_zh": "API integration testing that remembers what br",
+          "publishedAt": "2026-07-12T07:01:00Z",
+          "published_at": "2026-07-12T07:01:00Z",
+          "votes_count": 328,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "598709aa",
+          "title": "产品更新：Miora",
+          "title_en": "Miora",
+          "url": "https://www.producthunt.com/products/miora-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/miora-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Scale your creativity on editable canvas with",
+          "summary_zh": "Scale your creativity on editable canvas with",
+          "publishedAt": "2026-07-12T07:01:00Z",
+          "published_at": "2026-07-12T07:01:00Z",
+          "votes_count": 323,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-12",
       "generated_at": "2026-07-12T10:06:35Z",
