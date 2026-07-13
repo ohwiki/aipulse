@@ -1,48 +1,10 @@
 {
-  "generated_at": "2026-07-13T11:37:58Z",
-  "generatedAt": "2026-07-13T11:37:58Z",
+  "generated_at": "2026-07-13T21:26:30Z",
+  "generatedAt": "2026-07-13T21:26:30Z",
   "days": 7,
   "total": 8,
   "count": 8,
   "items": [
-    {
-      "id": "43a2d600",
-      "title": "产品更新：AI Media Buyer",
-      "title_en": "AI Media Buyer By Creatify",
-      "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Your ads, managed by AI that gets smarter dail",
-      "summary_zh": "Your ads, managed by AI that gets smarter dail",
-      "publishedAt": "2026-07-13T07:01:00Z",
-      "published_at": "2026-07-13T07:01:00Z",
-      "votes_count": 179,
-      "featured": true,
-      "topics": [
-        {
-          "id": "104",
-          "name": "Social Media",
-          "slug": "social-media"
-        },
-        {
-          "id": "164",
-          "name": "Marketing",
-          "slug": "marketing"
-        },
-        {
-          "id": "207",
-          "name": "Advertising",
-          "slug": "advertising"
-        }
-      ],
-      "score_details": null
-    },
     {
       "id": "c9b720c2",
       "title": "产品更新：AgentKey",
@@ -60,7 +22,7 @@
       "summary_zh": "One-stop live data marketplace for your agent",
       "publishedAt": "2026-07-13T07:01:00Z",
       "published_at": "2026-07-13T07:01:00Z",
-      "votes_count": 166,
+      "votes_count": 454,
       "featured": true,
       "topics": [
         {
@@ -98,7 +60,7 @@
       "summary_zh": "Open source agents that run 100% locally on yo",
       "publishedAt": "2026-07-13T07:01:00Z",
       "published_at": "2026-07-13T07:01:00Z",
-      "votes_count": 155,
+      "votes_count": 438,
       "featured": true,
       "topics": [
         {
@@ -125,68 +87,79 @@
       "score_details": null
     },
     {
-      "id": "1f6ce1be",
-      "title": "AI资讯更新：Playground",
-      "title_en": "Playground",
-      "url": "https://www.producthunt.com/products/nyx-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "43a2d600",
+      "title": "产品更新：AI Media Buyer",
+      "title_en": "AI Media Buyer By Creatify",
+      "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/nyx-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Earn $100K+ in weekly rewards for hacking AI a",
-      "summary_zh": "Earn $100K+ in weekly rewards for hacking AI a",
+      "summary": "Your ads, managed by AI that gets smarter dail",
+      "summary_zh": "Your ads, managed by AI that gets smarter dail",
       "publishedAt": "2026-07-13T07:01:00Z",
       "published_at": "2026-07-13T07:01:00Z",
-      "votes_count": 153,
+      "votes_count": 305,
       "featured": true,
       "topics": [
         {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
         },
         {
-          "id": "272",
-          "name": "GitHub",
-          "slug": "github"
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
         },
         {
-          "id": "353",
-          "name": "Games",
-          "slug": "games"
-        },
-        {
-          "id": "865",
-          "name": "Security",
-          "slug": "security"
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
         }
       ],
       "score_details": null
     },
     {
-      "id": "4aa9a653",
-      "title": "年入4亿、服务600+品牌，膳食补充剂原料商「纽邦生物」获近2亿元C+轮融资｜36氪首发",
-      "title_en": null,
-      "url": "https://36kr.com/p/3890940898867712?f=rss",
-      "source": "36氪",
+      "id": "a3a7dcf8",
+      "title": "产品更新：Loomal",
+      "title_en": "Loomal",
+      "url": "https://www.producthunt.com/products/loomal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3890940898867712?f=rss",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，南京纽邦生物（NNB Nutrition）近期已完成近2亿元人民币融资。本轮融资由国寿股权领投、老股东明熙资本跟投，募集资金主要用于产品研发、新工厂建设等。这也是纽邦生物半年内完成的第二笔超亿元人民币融资。 纽邦生物专注于膳食补充剂原料研发，累计推出40余款原创原料，在研产品管线超100项，覆盖运动营养、体重管理、认知健康、抗衰等领域，服务雀巢、联合利华、百事等600余个终端品牌；公司自建制剂工厂、生物合成工厂，并规划建设占地超200亩、年产万吨级的综合工厂。2025年，纽邦生物全年营收突破4亿元人民币。  纽邦生物产品矩阵示意 纽邦生物创始人廖琪林深耕膳食补充剂行业十余年，据他观察，近年来，健康消费市场有两大转变，一是需求端从基础营养转向精准调理；另一方面，便捷性成为重要消费诉求，消费者期待通过日常饮食、饮品直接获取营养与调理功效。这也使得过往倾向于做片剂、粉剂、软糖等传统形态产品的终端品牌，如今在大力布局适配日常场景的功能饮料、特色功能食品。 “这类新型产品形态已成为主流。而下游需求端与产品形态的革新，也改变了终端品牌对我们这类原料供应商的选择",
-      "summary_zh": "文｜胡香赟 编辑｜海若镜 36氪获悉，南京纽邦生物（NNB Nutrition）近期已完成近2亿元人民币融资。本轮融资由国寿股权领投、老股东明熙资本跟投，募集资金主要用于产品研发、新工厂建设等。这也是纽邦生物半年内完成的第二笔超亿元人民币融资。 纽邦生物专注于膳食补充剂原料研发，累计推出40余款原创原料，在研产品管线超100项，覆盖运动营养、体重管理、认知健康、抗衰等领域，服务雀巢、联合利华、百事等600余个终端品牌；公司自建制剂工厂、生物合成工厂，并规划建设占地超200亩、年产万吨级的综合工厂。2025年，纽邦生物全年营收突破4亿元人民币。  纽邦生物产品矩阵示意 纽邦生物创始人廖琪林深耕膳食补充剂行业十余年，据他观察，近年来，健康消费市场有两大转变，一是需求端从基础营养转向精准调理；另一方面，便捷性成为重要消费诉求，消费者期待通过日常饮食、饮品直接获取营养与调理功效。这也使得过往倾向于做片剂、粉剂、软糖等传统形态产品的终端品牌，如今在大力布局适配日常场景的功能饮料、特色功能食品。 “这类新型产品形态已成为主流。而下游需求端与产品形态的革新，也改变了终端品牌对我们这类原料供应商的选择",
-      "publishedAt": "2026-07-13T00:00:00Z",
-      "published_at": "2026-07-13T00:00:00Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/loomal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Monetize any MCP server in 5 minutes with no %",
+      "summary_zh": "Monetize any MCP server in 5 minutes with no %",
+      "publishedAt": "2026-07-13T07:01:00Z",
+      "published_at": "2026-07-13T07:01:00Z",
+      "votes_count": 262,
+      "featured": true,
+      "topics": [
+        {
+          "id": "119",
+          "name": "Payments",
+          "slug": "payments"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
       "score_details": null
     },
     {
@@ -234,22 +207,44 @@
       "score_details": null
     },
     {
-      "id": "5eefbbe8",
-      "title": "机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题",
+      "id": "835be077",
+      "title": "36氪首发 | 港中大博士、前大疆工程师创业消费级四足机器人，天使轮获正轩领投数千万元",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/07/448239.html",
-      "source": "量子位",
+      "url": "https://36kr.com/p/3893473722514181?f=rss",
+      "source": "36氪",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/07/448239.html",
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3893473722514181?f=rss",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题  思邈 2026-07-13 12:14:27  来源：量子位   从人类认知范式，构建Physical AGI   允中 发自 凹非寺 量子位 | 公众号 QbitAI  黑板上随手画一笔，机器狗就能看懂，然后走出身后的三维迷宫。 这一幕，就发生在清华大学的一场现场演示中。 几十位观众围观，任务随机，环境开放，没有预设脚本。 搭载了一念Unisonmind端侧大脑的机器狗“哮天”，不仅能看图走迷宫：  还能指挥人类用天平称重：  甚至现场估算观众递来的矿泉水瓶的剩余水量……  这个认知底座，还可以无缝迁移到人形机器人和电动轮椅上。 同一个大脑，不同的身体，正在真实世界里完成实时、持续的“感知—行动—反馈”闭环。 过去，行业对于Physical AGI的讨论往往陷入路线之争，或沉迷于虚拟Benchmark的刷榜。 而这场演示真正的价值在于，它以人类智能为天然标尺，提供了一套可逐项验证的物理通用智能标准。 人类智能，定义Physical AGI的天然标尺 回到人类智能，我们可以称之为Physical GI，它究竟是以",
-      "summary_zh": "机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题  思邈 2026-07-13 12:14:27  来源：量子位   从人类认知范式，构建Physical AGI   允中 发自 凹非寺 量子位 | 公众号 QbitAI  黑板上随手画一笔，机器狗就能看懂，然后走出身后的三维迷宫。 这一幕，就发生在清华大学的一场现场演示中。 几十位观众围观，任务随机，环境开放，没有预设脚本。 搭载了一念Unisonmind端侧大脑的机器狗“哮天”，不仅能看图走迷宫：  还能指挥人类用天平称重：  甚至现场估算观众递来的矿泉水瓶的剩余水量……  这个认知底座，还可以无缝迁移到人形机器人和电动轮椅上。 同一个大脑，不同的身体，正在真实世界里完成实时、持续的“感知—行动—反馈”闭环。 过去，行业对于Physical AGI的讨论往往陷入路线之争，或沉迷于虚拟Benchmark的刷榜。 而这场演示真正的价值在于，它以人类智能为天然标尺，提供了一套可逐项验证的物理通用智能标准。 人类智能，定义Physical AGI的天然标尺 回到人类智能，我们可以称之为Physical GI，它究竟是以",
-      "publishedAt": "2026-07-13T04:14:27Z",
-      "published_at": "2026-07-13T04:14:27Z",
+      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳光之跃迁科技有限公司（Lumisition Robotics）（以下简称“光之跃迁”）近日完成近五千万元天使轮融资，由正轩领投，光点资本、力合资本、松禾资本、恒信未来等机构跟投。本轮资金将主要用于产品研发、算法迭代及量产准备。 光之跃迁成立于2026年2月，聚焦消费级四足机器人市场，希望以“全地形移动底盘”切入户外场景，解决搬运、辅助行动等体力劳动需求。公司瞄准拥有独栋住宅的欧美家庭、户外运动爱好者以及银发群体，希望让四足机器人从展示型产品转向具备实际生产力的消费级工具。  （图源/企业） 公司创始人兼CEO乐林株毕业于香港中文大学机器人专业，拥有机器人博士及博士后背景，是香港中文大学LRL Lab联合创立人，曾任大疆创新研发骨干，并曾联合创办B端四足机器人企业光年创新科技。 CTO与硬件VP均毕业于香港中文大学机器人专业。CTO本科为浙大竺可桢学院，专注强化学习与运动控制算法。硬件VP为华中科技大学本硕（师从高亮教授），曾任石头科技工程师，发表IEEE/ASME TMECH、IROS、ICRA论文5篇，持发明专利7项，主导5+款关节电",
+      "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳光之跃迁科技有限公司（Lumisition Robotics）（以下简称“光之跃迁”）近日完成近五千万元天使轮融资，由正轩领投，光点资本、力合资本、松禾资本、恒信未来等机构跟投。本轮资金将主要用于产品研发、算法迭代及量产准备。 光之跃迁成立于2026年2月，聚焦消费级四足机器人市场，希望以“全地形移动底盘”切入户外场景，解决搬运、辅助行动等体力劳动需求。公司瞄准拥有独栋住宅的欧美家庭、户外运动爱好者以及银发群体，希望让四足机器人从展示型产品转向具备实际生产力的消费级工具。  （图源/企业） 公司创始人兼CEO乐林株毕业于香港中文大学机器人专业，拥有机器人博士及博士后背景，是香港中文大学LRL Lab联合创立人，曾任大疆创新研发骨干，并曾联合创办B端四足机器人企业光年创新科技。 CTO与硬件VP均毕业于香港中文大学机器人专业。CTO本科为浙大竺可桢学院，专注强化学习与运动控制算法。硬件VP为华中科技大学本硕（师从高亮教授），曾任石头科技工程师，发表IEEE/ASME TMECH、IROS、ICRA论文5篇，持发明专利7项，主导5+款关节电",
+      "publishedAt": "2026-07-13T02:47:38Z",
+      "published_at": "2026-07-13T02:47:38Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "5b3dd672",
+      "title": "趋境科技完成A轮融资，半年内募资10亿",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/448820.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/448820.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "趋境科技完成A轮融资，半年内募资10亿  量子位的朋友们 2026-07-13 13:24:54  来源：量子位   高品质AI Token生产服务能力获产业和资本的双重认可  7月13日，全球领先的高效能 AI Token 生产服务商趋境科技（Approaching.AI）正式宣布完成 A 轮融资。半年内，公司累计融资金额超过 10 亿元。 本轮融资由河南投资集团汇融基金重磅领投，真知资本、尚势资本、星连资本、上海国方创新、弘晖基金、华控基金、杭州福成等老股东持续超额跟投。资金将主要用于扩大高品质 AI Token 产能储备、升级自研高效能 AI Token 生产服务平台 ATaaS（Approaching.AI Token as a Service），推动国产异构算力在核心生产场景中的规模化投产，并进一步建设面向头部模型、互联网平台和区域产业生态的高品质 AI Token 工厂。 本轮领投方的重磅加注，看重的不仅仅是普通财务回报，而是双方可以携手共创的产业前景。目前双方正联合推进日均产能数万亿级的高品质 AI Token 工厂的筹建工作。 对趋境科技而言，此次融资标志着其高品质 A",
+      "summary_zh": "趋境科技完成A轮融资，半年内募资10亿  量子位的朋友们 2026-07-13 13:24:54  来源：量子位   高品质AI Token生产服务能力获产业和资本的双重认可  7月13日，全球领先的高效能 AI Token 生产服务商趋境科技（Approaching.AI）正式宣布完成 A 轮融资。半年内，公司累计融资金额超过 10 亿元。 本轮融资由河南投资集团汇融基金重磅领投，真知资本、尚势资本、星连资本、上海国方创新、弘晖基金、华控基金、杭州福成等老股东持续超额跟投。资金将主要用于扩大高品质 AI Token 产能储备、升级自研高效能 AI Token 生产服务平台 ATaaS（Approaching.AI Token as a Service），推动国产异构算力在核心生产场景中的规模化投产，并进一步建设面向头部模型、互联网平台和区域产业生态的高品质 AI Token 工厂。 本轮领投方的重磅加注，看重的不仅仅是普通财务回报，而是双方可以携手共创的产业前景。目前双方正联合推进日均产能数万亿级的高品质 AI Token 工厂的筹建工作。 对趋境科技而言，此次融资标志着其高品质 A",
+      "publishedAt": "2026-07-13T05:24:54Z",
+      "published_at": "2026-07-13T05:24:54Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

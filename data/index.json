@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-07-13T11:37:58Z",
-  "generatedAt": "2026-07-13T11:37:58Z",
-  "count": 62,
-  "total": 62,
+  "generated_at": "2026-07-13T21:26:30Z",
+  "generatedAt": "2026-07-13T21:26:30Z",
+  "count": 63,
+  "total": 63,
   "entries": [
+    {
+      "date": "2026-07-14",
+      "generated_at": "2026-07-13T21:26:30Z",
+      "generatedAt": "2026-07-13T21:26:30Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "c9b720c2",
+          "title": "产品更新：AgentKey",
+          "title_en": "AgentKey",
+          "url": "https://www.producthunt.com/products/agentkey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/agentkey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "One-stop live data marketplace for your agent",
+          "summary_zh": "One-stop live data marketplace for your agent",
+          "publishedAt": "2026-07-13T07:01:00Z",
+          "published_at": "2026-07-13T07:01:00Z",
+          "votes_count": 454,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "771",
+              "name": "Data",
+              "slug": "data"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d90f9f35",
+          "title": "产品更新：Osaurus",
+          "title_en": "Osaurus",
+          "url": "https://www.producthunt.com/products/osaurus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/osaurus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Open source agents that run 100% locally on yo",
+          "summary_zh": "Open source agents that run 100% locally on yo",
+          "publishedAt": "2026-07-13T07:01:00Z",
+          "published_at": "2026-07-13T07:01:00Z",
+          "votes_count": 438,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "248",
+              "name": "Privacy",
+              "slug": "privacy"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "43a2d600",
+          "title": "产品更新：AI Media Buyer",
+          "title_en": "AI Media Buyer By Creatify",
+          "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your ads, managed by AI that gets smarter dail",
+          "summary_zh": "Your ads, managed by AI that gets smarter dail",
+          "publishedAt": "2026-07-13T07:01:00Z",
+          "published_at": "2026-07-13T07:01:00Z",
+          "votes_count": 305,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-13",
       "generated_at": "2026-07-13T11:37:58Z",
