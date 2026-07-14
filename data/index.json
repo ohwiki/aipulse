@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-14T10:16:08Z",
-  "generatedAt": "2026-07-14T10:16:08Z",
-  "count": 63,
-  "total": 63,
+  "generated_at": "2026-07-14T21:27:46Z",
+  "generatedAt": "2026-07-14T21:27:46Z",
+  "count": 64,
+  "total": 64,
   "entries": [
+    {
+      "date": "2026-07-15",
+      "generated_at": "2026-07-14T21:27:46Z",
+      "generatedAt": "2026-07-14T21:27:46Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "4fb57e80",
+          "title": "产品更新：Pazi",
+          "title_en": "Pazi",
+          "url": "https://www.producthunt.com/products/pazi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pazi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Vibe code business operations Pazi is an AI te",
+          "summary_zh": "Vibe code business operations Pazi is an AI te",
+          "publishedAt": "2026-07-14T07:01:00Z",
+          "published_at": "2026-07-14T07:01:00Z",
+          "votes_count": 530,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8a3d5353",
+          "title": "产品更新：ClawTeams",
+          "title_en": "ClawTeams",
+          "url": "https://www.producthunt.com/products/clawteams?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/clawteams?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The first goal-driven, proactive AI team for e",
+          "summary_zh": "The first goal-driven, proactive AI team for e",
+          "publishedAt": "2026-07-14T07:01:00Z",
+          "published_at": "2026-07-14T07:01:00Z",
+          "votes_count": 489,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "458ec6c5",
+          "title": "产品更新：PgDog",
+          "title_en": "PgDog",
+          "url": "https://www.producthunt.com/products/pgdog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pgdog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Scale PostgreSQL without changing your app PgD",
+          "summary_zh": "Scale PostgreSQL without changing your app PgD",
+          "publishedAt": "2026-07-14T07:01:00Z",
+          "published_at": "2026-07-14T07:01:00Z",
+          "votes_count": 191,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "772",
+              "name": "Database",
+              "slug": "database"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-14",
       "generated_at": "2026-07-14T10:16:08Z",

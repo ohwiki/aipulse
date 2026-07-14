@@ -1,0 +1,503 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-14T21:27:46Z",
+  "generatedAt": "2026-07-14T21:27:46Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "4fb57e80",
+          "title": "产品更新：Pazi",
+          "title_en": "Pazi",
+          "url": "https://www.producthunt.com/products/pazi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pazi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Vibe code business operations Pazi is an AI te",
+          "summary_zh": "Vibe code business operations Pazi is an AI te",
+          "publishedAt": "2026-07-14T07:01:00Z",
+          "published_at": "2026-07-14T07:01:00Z",
+          "votes_count": 530,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8a3d5353",
+          "title": "产品更新：ClawTeams",
+          "title_en": "ClawTeams",
+          "url": "https://www.producthunt.com/products/clawteams?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/clawteams?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The first goal-driven, proactive AI team for e",
+          "summary_zh": "The first goal-driven, proactive AI team for e",
+          "publishedAt": "2026-07-14T07:01:00Z",
+          "published_at": "2026-07-14T07:01:00Z",
+          "votes_count": 489,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "458ec6c5",
+          "title": "产品更新：PgDog",
+          "title_en": "PgDog",
+          "url": "https://www.producthunt.com/products/pgdog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pgdog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Scale PostgreSQL without changing your app PgD",
+          "summary_zh": "Scale PostgreSQL without changing your app PgD",
+          "publishedAt": "2026-07-14T07:01:00Z",
+          "published_at": "2026-07-14T07:01:00Z",
+          "votes_count": 191,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "772",
+              "name": "Database",
+              "slug": "database"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "95441e7a",
+          "title": "产品更新：Agentcard for c",
+          "title_en": "Agentcard for companies",
+          "url": "https://www.producthunt.com/products/agent-card?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/agent-card?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Give your agent a debit card Give your AI agen",
+          "summary_zh": "Give your agent a debit card Give your AI agen",
+          "publishedAt": "2026-07-14T07:01:00Z",
+          "published_at": "2026-07-14T07:01:00Z",
+          "votes_count": 168,
+          "featured": true,
+          "topics": [
+            {
+              "id": "94",
+              "name": "Fintech",
+              "slug": "fintech"
+            },
+            {
+              "id": "119",
+              "name": "Payments",
+              "slug": "payments"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "9d1fdb60",
+          "title": "8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%",
+          "title_en": null,
+          "url": "https://36kr.com/p/3894729787767810?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3894729787767810?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览  韩国法院禁止两名前三星员工就职于SK海力士 字节探索自动驾驶，Seed世界模型团队负责 巨力索具深夜澄清商业航天业务不实传闻，提醒投资风险 科技记者古尔曼：苹果将跳过M6 Pro/Max芯片全力押注AI导向的M7系列 美众议院本周将表决永久实行夏令时法案  TOP 3大新闻 海南将成中国首个禁售燃油车省份，届时车桩比保持2.5:1以下 近日，海南省人民政府对外发布《“十五五”海南国家生态文明试验区规划（美丽海南建设“十五五”规划）》提出，平稳推进2030年禁售燃油车，预计届时海南新能源汽车保有量占比从2025年的23.75%提升至45%。这意味着海南将成为中国第一个不再卖燃油车的省份。 “十四五”时期，海南清洁能源岛建设深化升级，新能源成为海南第一大电源，新能源汽车市场渗透率、保有量占比分别居全国省级地区第一、第二位。在交通运输领域，到2030年，海南全省公共服务和社会运营领域新增和更换车辆（特殊用途除外）清洁能源占比、私人用车领域新增和更换车辆新能源占比达到100%，车桩比保持2.5:1以下。（中国新闻网） 长鑫科技披露员工持股方案：部分员工入股成本低至1毛 国内存储",
+          "summary_zh": "今日热点导览  韩国法院禁止两名前三星员工就职于SK海力士 字节探索自动驾驶，Seed世界模型团队负责 巨力索具深夜澄清商业航天业务不实传闻，提醒投资风险 科技记者古尔曼：苹果将跳过M6 Pro/Max芯片全力押注AI导向的M7系列 美众议院本周将表决永久实行夏令时法案  TOP 3大新闻 海南将成中国首个禁售燃油车省份，届时车桩比保持2.5:1以下 近日，海南省人民政府对外发布《“十五五”海南国家生态文明试验区规划（美丽海南建设“十五五”规划）》提出，平稳推进2030年禁售燃油车，预计届时海南新能源汽车保有量占比从2025年的23.75%提升至45%。这意味着海南将成为中国第一个不再卖燃油车的省份。 “十四五”时期，海南清洁能源岛建设深化升级，新能源成为海南第一大电源，新能源汽车市场渗透率、保有量占比分别居全国省级地区第一、第二位。在交通运输领域，到2030年，海南全省公共服务和社会运营领域新增和更换车辆（特殊用途除外）清洁能源占比、私人用车领域新增和更换车辆新能源占比达到100%，车桩比保持2.5:1以下。（中国新闻网） 长鑫科技披露员工持股方案：部分员工入股成本低至1毛 国内存储",
+          "publishedAt": "2026-07-14T00:04:11Z",
+          "published_at": "2026-07-14T00:04:11Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "5713485d",
+          "title": "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线",
+          "title_en": null,
+          "url": "https://36kr.com/p/3893976502287618?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3893976502287618?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，通用人形机器人公司逐际动力LimX Dynamics宣布完成Pre-IPO轮融资，融资金额近2亿美元，投资方包括IDG资本、蓝思科技、GGG Group与Redstone VC、华山资本、合肥滨湖产发集团等。此外，阿联酋磊石资本（Stone Venture）连续多轮追投，绿洲资本、基石资本、南山战新投、尚颀资本、蔚来资本等多家老股东超额加注。 融资资金将重点用于大小脑融合技术的突破和产品化，推动数千台全自主人形机器人的规模化部署，加强全球市场拓展。公司将进一步完善全球制造与交付能力，加快中东、欧洲及亚洲其他国家地区等重点市场的布局，并持续建设面向全球开发者的开放生态。 本轮融资完成后，公司投后估值达150亿元，过去半年累计融资额已达4亿美元。此前逐际动力于2026年3月完成了股改。据知情人士处透露，公司已在2026年初稍早些时候开启IPO进程。 近年来，随着具身智能进入规模化发展的关键阶段，逐际动力基于全栈技术路线，围绕机器人本体、AI基础设施及具身智能体OS系统持续投入研发，构建了覆盖运动生成、模型训练、认知决策到真实世界部署的完整技术体系。 目前",
+          "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，通用人形机器人公司逐际动力LimX Dynamics宣布完成Pre-IPO轮融资，融资金额近2亿美元，投资方包括IDG资本、蓝思科技、GGG Group与Redstone VC、华山资本、合肥滨湖产发集团等。此外，阿联酋磊石资本（Stone Venture）连续多轮追投，绿洲资本、基石资本、南山战新投、尚颀资本、蔚来资本等多家老股东超额加注。 融资资金将重点用于大小脑融合技术的突破和产品化，推动数千台全自主人形机器人的规模化部署，加强全球市场拓展。公司将进一步完善全球制造与交付能力，加快中东、欧洲及亚洲其他国家地区等重点市场的布局，并持续建设面向全球开发者的开放生态。 本轮融资完成后，公司投后估值达150亿元，过去半年累计融资额已达4亿美元。此前逐际动力于2026年3月完成了股改。据知情人士处透露，公司已在2026年初稍早些时候开启IPO进程。 近年来，随着具身智能进入规模化发展的关键阶段，逐际动力基于全栈技术路线，围绕机器人本体、AI基础设施及具身智能体OS系统持续投入研发，构建了覆盖运动生成、模型训练、认知决策到真实世界部署的完整技术体系。 目前",
+          "publishedAt": "2026-07-14T00:46:41Z",
+          "published_at": "2026-07-14T00:46:41Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "c7390d8e",
+          "title": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型",
+          "title_en": null,
+          "url": "https://36kr.com/p/3894821059918855?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3894821059918855?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "触觉手套（图源/企业）  本文约2400字，建议阅读6分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾清湛领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。 「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智���公司。 创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企业深耕自动驾驶算法7-8年。此外，公司核心技术源自首席科学家、联合国科学院院士、加拿大工程院院士埃尔萨迪克团队二十余年的数字孪生与触觉交互积累。 杨林告诉硬氪，他观察到，此前数据市场需求以汽车合成数据为主，但2025年开始，机器人数据订单急剧增加。 “汽车数据没涨，甚至有点跌。随着机器人本体竞争越来越激烈，大家就开始卷机器人大脑，而大脑的瓶颈就是数据。”杨林称。 目前，「大衍科技」已形成三条产品线： 一是合成数据业务：以合成数据为主，同时结合第一人称视角的“异购”数据采集，服务于自动驾驶与机器人训练。成本优势较为突出",
+          "summary_zh": "触觉手套（图源/企业）  本文约2400字，建议阅读6分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾清湛领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。 「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智���公司。 创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企业深耕自动驾驶算法7-8年。此外，公司核心技术源自首席科学家、联合国科学院院士、加拿大工程院院士埃尔萨迪克团队二十余年的数字孪生与触觉交互积累。 杨林告诉硬氪，他观察到，此前数据市场需求以汽车合成数据为主，但2025年开始，机器人数据订单急剧增加。 “汽车数据没涨，甚至有点跌。随着机器人本体竞争越来越激烈，大家就开始卷机器人大脑，而大脑的瓶颈就是数据。”杨林称。 目前，「大衍科技」已形成三条产品线： 一是合成数据业务：以合成数据为主，同时结合第一人称视角的“异购”数据采集，服务于自动驾驶与机器人训练。成本优势较为突出",
+          "publishedAt": "2026-07-14T01:38:13Z",
+          "published_at": "2026-07-14T01:38:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "30e4c3f5",
+          "title": "100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/449566.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/449566.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品  梦瑶 2026-07-14 11:34:50  来源：量子位   Agent携上百个Skills助我当大导演  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 受够了！ 天天在手机上刷了这么久的这AI爆款大片，忒不过瘾。 这回，终于轮到我来当《大导演》了—— 看我导的这出「伊斯特伍德」西部风格的超燃大戏，黑衣牛仔智斗赏金客，掩护少年将密信送上火车，紧张感拉满： 原文链接： https://mp.weixin.qq.com/s/GayshxH2tBeqBrQWqwKiSQ 粗粝荒凉的西部美学感、风沙、冷峻光影、极简对白和孤胆英雄塑造压迫感，全都有。 事实上，咱看到的这支AI片子，从剧本、字幕、画面、剪辑，到节点、节奏、bgm的精细控制—— 这N多个创作环节，全都是让一个叫「LibTV Agent」的AI视频创作工具搞定的。 估计不少朋友也不陌生LibTV，就是今年很火的那个AI视频创作产品，只不过人家这次，又捣鼓出了个AI Agent。 全球最大的专业视频Agent Skill Hub、可联动的画布工作流",
+          "summary_zh": "100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品  梦瑶 2026-07-14 11:34:50  来源：量子位   Agent携上百个Skills助我当大导演  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 受够了！ 天天在手机上刷了这么久的这AI爆款大片，忒不过瘾。 这回，终于轮到我来当《大导演》了—— 看我导的这出「伊斯特伍德」西部风格的超燃大戏，黑衣牛仔智斗赏金客，掩护少年将密信送上火车，紧张感拉满： 原文链接： https://mp.weixin.qq.com/s/GayshxH2tBeqBrQWqwKiSQ 粗粝荒凉的西部美学感、风沙、冷峻光影、极简对白和孤胆英雄塑造压迫感，全都有。 事实上，咱看到的这支AI片子，从剧本、字幕、画面、剪辑，到节点、节奏、bgm的精细控制—— 这N多个创作环节，全都是让一个叫「LibTV Agent」的AI视频创作工具搞定的。 估计不少朋友也不陌生LibTV，就是今年很火的那个AI视频创作产品，只不过人家这次，又捣鼓出了个AI Agent。 全球最大的专业视频Agent Skill Hub、可联动的画布工作流",
+          "publishedAt": "2026-07-14T03:34:50Z",
+          "published_at": "2026-07-14T03:34:50Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "4fb57e80",
+      "title": "产品更新：Pazi",
+      "title_en": "Pazi",
+      "url": "https://www.producthunt.com/products/pazi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/pazi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Vibe code business operations Pazi is an AI te",
+      "summary_zh": "Vibe code business operations Pazi is an AI te",
+      "publishedAt": "2026-07-14T07:01:00Z",
+      "published_at": "2026-07-14T07:01:00Z",
+      "votes_count": 530,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "1194",
+          "name": "Vibe coding",
+          "slug": "vibe-coding"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8a3d5353",
+      "title": "产品更新：ClawTeams",
+      "title_en": "ClawTeams",
+      "url": "https://www.producthunt.com/products/clawteams?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/clawteams?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The first goal-driven, proactive AI team for e",
+      "summary_zh": "The first goal-driven, proactive AI team for e",
+      "publishedAt": "2026-07-14T07:01:00Z",
+      "published_at": "2026-07-14T07:01:00Z",
+      "votes_count": 489,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "458ec6c5",
+      "title": "产品更新：PgDog",
+      "title_en": "PgDog",
+      "url": "https://www.producthunt.com/products/pgdog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/pgdog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Scale PostgreSQL without changing your app PgD",
+      "summary_zh": "Scale PostgreSQL without changing your app PgD",
+      "publishedAt": "2026-07-14T07:01:00Z",
+      "published_at": "2026-07-14T07:01:00Z",
+      "votes_count": 191,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "772",
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "95441e7a",
+      "title": "产品更新：Agentcard for c",
+      "title_en": "Agentcard for companies",
+      "url": "https://www.producthunt.com/products/agent-card?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/agent-card?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Give your agent a debit card Give your AI agen",
+      "summary_zh": "Give your agent a debit card Give your AI agen",
+      "publishedAt": "2026-07-14T07:01:00Z",
+      "published_at": "2026-07-14T07:01:00Z",
+      "votes_count": 168,
+      "featured": true,
+      "topics": [
+        {
+          "id": "94",
+          "name": "Fintech",
+          "slug": "fintech"
+        },
+        {
+          "id": "119",
+          "name": "Payments",
+          "slug": "payments"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9d1fdb60",
+      "title": "8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%",
+      "title_en": null,
+      "url": "https://36kr.com/p/3894729787767810?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3894729787767810?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览  韩国法院禁止两名前三星员工就职于SK海力士 字节探索自动驾驶，Seed世界模型团队负责 巨力索具深夜澄清商业航天业务不实传闻，提醒投资风险 科技记者古尔曼：苹果将跳过M6 Pro/Max芯片全力押注AI导向的M7系列 美众议院本周将表决永久实行夏令时法案  TOP 3大新闻 海南将成中国首个禁售燃油车省份，届时车桩比保持2.5:1以下 近日，海南省人民政府对外发布《“十五五”海南国家生态文明试验区规划（美丽海南建设“十五五”规划）》提出，平稳推进2030年禁售燃油车，预计届时海南新能源汽车保有量占比从2025年的23.75%提升至45%。这意味着海南将成为中国第一个不再卖燃油车的省份。 “十四五”时期，海南清洁能源岛建设深化升级，新能源成为海南第一大电源，新能源汽车市场渗透率、保有量占比分别居全国省级地区第一、第二位。在交通运输领域，到2030年，海南全省公共服务和社会运营领域新增和更换车辆（特殊用途除外）清洁能源占比、私人用车领域新增和更换车辆新能源占比达到100%，车桩比保持2.5:1以下。（中国新闻网） 长鑫科技披露员工持股方案：部分员工入股成本低至1毛 国内存储",
+      "summary_zh": "今日热点导览  韩国法院禁止两名前三星员工就职于SK海力士 字节探索自动驾驶，Seed世界模型团队负责 巨力索具深夜澄清商业航天业务不实传闻，提醒投资风险 科技记者古尔曼：苹果将跳过M6 Pro/Max芯片全力押注AI导向的M7系列 美众议院本周将表决永久实行夏令时法案  TOP 3大新闻 海南将成中国首个禁售燃油车省份，届时车桩比保持2.5:1以下 近日，海南省人民政府对外发布《“十五五”海南国家生态文明试验区规划（美丽海南建设“十五五”规划）》提出，平稳推进2030年禁售燃油车，预计届时海南新能源汽车保有量占比从2025年的23.75%提升至45%。这意味着海南将成为中国第一个不再卖燃油车的省份。 “十四五”时期，海南清洁能源岛建设深化升级，新能源成为海南第一大电源，新能源汽车市场渗透率、保有量占比分别居全国省级地区第一、第二位。在交通运输领域，到2030年，海南全省公共服务和社会运营领域新增和更换车辆（特殊用途除外）清洁能源占比、私人用车领域新增和更换车辆新能源占比达到100%，车桩比保持2.5:1以下。（中国新闻网） 长鑫科技披露员工持股方案：部分员工入股成本低至1毛 国内存储",
+      "publishedAt": "2026-07-14T00:04:11Z",
+      "published_at": "2026-07-14T00:04:11Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "5713485d",
+      "title": "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线",
+      "title_en": null,
+      "url": "https://36kr.com/p/3893976502287618?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3893976502287618?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，通用人形机器人公司逐际动力LimX Dynamics宣布完成Pre-IPO轮融资，融资金额近2亿美元，投资方包括IDG资本、蓝思科技、GGG Group与Redstone VC、华山资本、合肥滨湖产发集团等。此外，阿联酋磊石资本（Stone Venture）连续多轮追投，绿洲资本、基石资本、南山战新投、尚颀资本、蔚来资本等多家老股东超额加注。 融资资金将重点用于大小脑融合技术的突破和产品化，推动数千台全自主人形机器人的规模化部署，加强全球市场拓展。公司将进一步完善全球制造与交付能力，加快中东、欧洲及亚洲其他国家地区等重点市场的布局，并持续建设面向全球开发者的开放生态。 本轮融资完成后，公司投后估值达150亿元，过去半年累计融资额已达4亿美元。此前逐际动力于2026年3月完成了股改。据知情人士处透露，公司已在2026年初稍早些时候开启IPO进程。 近年来，随着具身智能进入规模化发展的关键阶段，逐际动力基于全栈技术路线，围绕机器人本体、AI基础设施及具身智能体OS系统持续投入研发，构建了覆盖运动生成、模型训练、认知决策到真实世界部署的完整技术体系。 目前",
+      "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，通用人形机器人公司逐际动力LimX Dynamics宣布完成Pre-IPO轮融资，融资金额近2亿美元，投资方包括IDG资本、蓝思科技、GGG Group与Redstone VC、华山资本、合肥滨湖产发集团等。此外，阿联酋磊石资本（Stone Venture）连续多轮追投，绿洲资本、基石资本、南山战新投、尚颀资本、蔚来资本等多家老股东超额加注。 融资资金将重点用于大小脑融合技术的突破和产品化，推动数千台全自主人形机器人的规模化部署，加强全球市场拓展。公司将进一步完善全球制造与交付能力，加快中东、欧洲及亚洲其他国家地区等重点市场的布局，并持续建设面向全球开发者的开放生态。 本轮融资完成后，公司投后估值达150亿元，过去半年累计融资额已达4亿美元。此前逐际动力于2026年3月完成了股改。据知情人士处透露，公司已在2026年初稍早些时候开启IPO进程。 近年来，随着具身智能进入规模化发展的关键阶段，逐际动力基于全栈技术路线，围绕机器人本体、AI基础设施及具身智能体OS系统持续投入研发，构建了覆盖运动生成、模型训练、认知决策到真实世界部署的完整技术体系。 目前",
+      "publishedAt": "2026-07-14T00:46:41Z",
+      "published_at": "2026-07-14T00:46:41Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "c7390d8e",
+      "title": "36氪首发 | 前博世自动驾驶算法工程师创业，用合成数据做触觉大模型",
+      "title_en": null,
+      "url": "https://36kr.com/p/3894821059918855?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3894821059918855?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "触觉手套（图源/企业）  本文约2400字，建议阅读6分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾清湛领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。 「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智���公司。 创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企业深耕自动驾驶算法7-8年。此外，公司核心技术源自首席科学家、联合国科学院院士、加拿大工程院院士埃尔萨迪克团队二十余年的数字孪生与触觉交互积累。 杨林告诉硬氪，他观察到，此前数据市场需求以汽车合成数据为主，但2025年开始，机器人数据订单急剧增加。 “汽车数据没涨，甚至有点跌。随着机器人本体竞争越来越激烈，大家就开始卷机器人大脑，而大脑的瓶颈就是数据。”杨林称。 目前，「大衍科技」已形成三条产品线： 一是合成数据业务：以合成数据为主，同时结合第一人称视角的“异购”数据采集，服务于自动驾驶与机器人训练。成本优势较为突出",
+      "summary_zh": "触觉手套（图源/企业）  本文约2400字，建议阅读6分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，空间智能公司「大衍科技」近期完成数千万元天使轮融资，由松禾清湛领投，浙江省省金控与广州番禺创新基金等国资背景机构参与。资金将主要用于触觉大模型研发、机器人数据产线建设及团队扩张。 「大衍科技」2025年5月成立于浙江桐乡，是一家专注于4D世界重建、世界模型及可控扩散模型技术的空间智���公司。 创始人兼CEO杨林是新加坡国立大学计算机博士，曾在速腾、酷睿程、比亚迪、苏州博世等企业深耕自动驾驶算法7-8年。此外，公司核心技术源自首席科学家、联合国科学院院士、加拿大工程院院士埃尔萨迪克团队二十余年的数字孪生与触觉交互积累。 杨林告诉硬氪，他观察到，此前数据市场需求以汽车合成数据为主，但2025年开始，机器人数据订单急剧增加。 “汽车数据没涨，甚至有点跌。随着机器人本体竞争越来越激烈，大家就开始卷机器人大脑，而大脑的瓶颈就是数据。”杨林称。 目前，「大衍科技」已形成三条产品线： 一是合成数据业务：以合成数据为主，同时结合第一人称视角的“异购”数据采集，服务于自动驾驶与机器人训练。成本优势较为突出",
+      "publishedAt": "2026-07-14T01:38:13Z",
+      "published_at": "2026-07-14T01:38:13Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "30e4c3f5",
+      "title": "100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/449566.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/449566.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品  梦瑶 2026-07-14 11:34:50  来源：量子位   Agent携上百个Skills助我当大导演  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 受够了！ 天天在手机上刷了这么久的这AI爆款大片，忒不过瘾。 这回，终于轮到我来当《大导演》了—— 看我导的这出「伊斯特伍德」西部风格的超燃大戏，黑衣牛仔智斗赏金客，掩护少年将密信送上火车，紧张感拉满： 原文链接： https://mp.weixin.qq.com/s/GayshxH2tBeqBrQWqwKiSQ 粗粝荒凉的西部美学感、风沙、冷峻光影、极简对白和孤胆英雄塑造压迫感，全都有。 事实上，咱看到的这支AI片子，从剧本、字幕、画面、剪辑，到节点、节奏、bgm的精细控制—— 这N多个创作环节，全都是让一个叫「LibTV Agent」的AI视频创作工具搞定的。 估计不少朋友也不陌生LibTV，就是今年很火的那个AI视频创作产品，只不过人家这次，又捣鼓出了个AI Agent。 全球最大的专业视频Agent Skill Hub、可联动的画布工作流",
+      "summary_zh": "100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品  梦瑶 2026-07-14 11:34:50  来源：量子位   Agent携上百个Skills助我当大导演  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 受够了！ 天天在手机上刷了这么久的这AI爆款大片，忒不过瘾。 这回，终于轮到我来当《大导演》了—— 看我导的这出「伊斯特伍德」西部风格的超燃大戏，黑衣牛仔智斗赏金客，掩护少年将密信送上火车，紧张感拉满： 原文链接： https://mp.weixin.qq.com/s/GayshxH2tBeqBrQWqwKiSQ 粗粝荒凉的西部美学感、风沙、冷峻光影、极简对白和孤胆英雄塑造压迫感，全都有。 事实上，咱看到的这支AI片子，从剧本、字幕、画面、剪辑，到节点、节奏、bgm的精细控制—— 这N多个创作环节，全都是让一个叫「LibTV Agent」的AI视频创作工具搞定的。 估计不少朋友也不陌生LibTV，就是今年很火的那个AI视频创作产品，只不过人家这次，又捣鼓出了个AI Agent。 全球最大的专业视频Agent Skill Hub、可联动的画布工作流",
+      "publishedAt": "2026-07-14T03:34:50Z",
+      "published_at": "2026-07-14T03:34:50Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
