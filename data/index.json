@@ -1,133 +1,80 @@
 {
-  "generated_at": "2026-07-13T21:26:30Z",
-  "generatedAt": "2026-07-13T21:26:30Z",
+  "generated_at": "2026-07-14T10:16:08Z",
+  "generatedAt": "2026-07-14T10:16:08Z",
   "count": 63,
   "total": 63,
   "entries": [
     {
       "date": "2026-07-14",
-      "generated_at": "2026-07-13T21:26:30Z",
-      "generatedAt": "2026-07-13T21:26:30Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-07-14T10:16:08Z",
+      "generatedAt": "2026-07-14T10:16:08Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "c9b720c2",
-          "title": "产品更新：AgentKey",
-          "title_en": "AgentKey",
-          "url": "https://www.producthunt.com/products/agentkey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "9d1fdb60",
+          "title": "8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%",
+          "title_en": null,
+          "url": "https://36kr.com/p/3894729787767810?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/agentkey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "One-stop live data marketplace for your agent",
-          "summary_zh": "One-stop live data marketplace for your agent",
-          "publishedAt": "2026-07-13T07:01:00Z",
-          "published_at": "2026-07-13T07:01:00Z",
-          "votes_count": 454,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "771",
-              "name": "Data",
-              "slug": "data"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3894729787767810?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "今日热点导览  韩国法院禁止两名前三星员工就职于SK海力士 字节探索自动驾驶，Seed世界模型团队负责 巨力索具深夜澄清商业航天业务不实传闻，提醒投资风险 科技记者古尔曼：苹果将跳过M6 Pro/Max芯片全力押注AI导向的M7系列 美众议院本周将表决永久实行夏令时法案  TOP 3大新闻 海南将成中国首个禁售燃油车省份，届时车桩比保持2.5:1以下 近日，海南省人民政府对外发布《“十五五”海南国家生态文明试验区规划（美丽海南建设“十五五”规划）》提出，平稳推进2030年禁售燃油车，预计届时海南新能源汽车保有量占比从2025年的23.75%提升至45%。这意味着海南将成为中国第一个不再卖燃油车的省份。 “十四五”时期，海南清洁能源岛建设深化升级，新能源成为海南第一大电源，新能源汽车市场渗透率、保有量占比分别居全国省级地区第一、第二位。在交通运输领域，到2030年，海南全省公共服务和社会运营领域新增和更换车辆（特殊用途除外）清洁能源占比、私人用车领域新增和更换车辆新能源占比达到100%，车桩比保持2.5:1以下。（中国新闻网） 长鑫科技披露员工持股方案：部分员工入股成本低至1毛 国内存储",
+          "summary_zh": "今日热点导览  韩国法院禁止两名前三星员工就职于SK海力士 字节探索自动驾驶，Seed世界模型团队负责 巨力索具深夜澄清商业航天业务不实传闻，提醒投资风险 科技记者古尔曼：苹果将跳过M6 Pro/Max芯片全力押注AI导向的M7系列 美众议院本周将表决永久实行夏令时法案  TOP 3大新闻 海南将成中国首个禁售燃油车省份，届时车桩比保持2.5:1以下 近日，海南省人民政府对外发布《“十五五”海南国家生态文明试验区规划（美丽海南建设“十五五”规划）》提出，平稳推进2030年禁售燃油车，预计届时海南新能源汽车保有量占比从2025年的23.75%提升至45%。这意味着海南将成为中国第一个不再卖燃油车的省份。 “十四五”时期，海南清洁能源岛建设深化升级，新能源成为海南第一大电源，新能源汽车市场渗透率、保有量占比分别居全国省级地区第一、第二位。在交通运输领域，到2030年，海南全省公共服务和社会运营领域新增和更换车辆（特殊用途除外）清洁能源占比、私人用车领域新增和更换车辆新能源占比达到100%，车桩比保持2.5:1以下。（中国新闻网） 长鑫科技披露员工持股方案：部分员工入股成本低至1毛 国内存储",
+          "publishedAt": "2026-07-14T00:04:11Z",
+          "published_at": "2026-07-14T00:04:11Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "d90f9f35",
-          "title": "产品更新：Osaurus",
-          "title_en": "Osaurus",
-          "url": "https://www.producthunt.com/products/osaurus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "6f07bce6",
+          "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/449327.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/osaurus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Open source agents that run 100% locally on yo",
-          "summary_zh": "Open source agents that run 100% locally on yo",
-          "publishedAt": "2026-07-13T07:01:00Z",
-          "published_at": "2026-07-13T07:01:00Z",
-          "votes_count": 438,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "248",
-              "name": "Privacy",
-              "slug": "privacy"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/449327.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "Agent专用搜索登顶Product Hunt，Token更省搜得更准  闻乐 2026-07-13 23:15:01  来源：量子位   出自中国团队   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  本期Product Hunt周榜Top 1出自中国团队，AnySearch—— 一款AI搜索产品。  过去一年，PH榜一的位置被Agent、AI IDE、大模型轮番占据，几乎没见过搜索类产品的影子。 就是因为在全球开发者眼里，普通AI搜索已经很难突围了。 AnySearch这一登顶，挺新鲜。  看了下成绩单，在一项由Frames、FreshQA、WebwalkerQA组成300道问题的基准测试中，全程采用同一款LLM的条件下，AnySearch以76.4%的综合准确率领先Parallel、Brave Search；  同时，延迟方面AnySearch也是三家最优。  要说作为一个搜索产品，AnySearch还真有点特别，它不是给人用的，而是给Agent用的。 AnySearch不仅能搜到公开网页信息，还能覆盖高质量的垂直领域数据，专门给Agent提供更实时、准确、可追溯的结构",
+          "summary_zh": "Agent专用搜索登顶Product Hunt，Token更省搜得更准  闻乐 2026-07-13 23:15:01  来源：量子位   出自中国团队   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  本期Product Hunt周榜Top 1出自中国团队，AnySearch—— 一款AI搜索产品。  过去一年，PH榜一的位置被Agent、AI IDE、大模型轮番占据，几乎没见过搜索类产品的影子。 就是因为在全球开发者眼里，普通AI搜索已经很难突围了。 AnySearch这一登顶，挺新鲜。  看了下成绩单，在一项由Frames、FreshQA、WebwalkerQA组成300道问题的基准测试中，全程采用同一款LLM的条件下，AnySearch以76.4%的综合准确率领先Parallel、Brave Search；  同时，延迟方面AnySearch也是三家最优。  要说作为一个搜索产品，AnySearch还真有点特别，它不是给人用的，而是给Agent用的。 AnySearch不仅能搜到公开网页信息，还能覆盖高质量的垂直领域数据，专门给Agent提供更实时、准确、可追溯的结构",
+          "publishedAt": "2026-07-13T15:15:01Z",
+          "published_at": "2026-07-13T15:15:01Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "43a2d600",
-          "title": "产品更新：AI Media Buyer",
-          "title_en": "AI Media Buyer By Creatify",
-          "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "2257f57e",
+          "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/449311.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Your ads, managed by AI that gets smarter dail",
-          "summary_zh": "Your ads, managed by AI that gets smarter dail",
-          "publishedAt": "2026-07-13T07:01:00Z",
-          "published_at": "2026-07-13T07:01:00Z",
-          "votes_count": 305,
-          "featured": true,
-          "topics": [
-            {
-              "id": "104",
-              "name": "Social Media",
-              "slug": "social-media"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "207",
-              "name": "Advertising",
-              "slug": "advertising"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/449311.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题  克雷西 2026-07-13 19:59:57  来源：量子位   同时发布CPU原生液冷整机柜、多模融合超节点  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI AI基础设施的核心任务，已经从支撑大模型推理，转向支撑海量智能体的规模化运行与高质量Token的持续生产。 据IDC数据，2025年中国AI Agent企业级市场规模约190亿元，预计2025至2028年复合增长率超过110%。Gartner的判断更直接，2026年将有40%的企业应用集成任务型AI Agent。 大模型推理阶段，AI基础设施只需要支撑一次输入一次输出。 进入Agent阶段，基础设施要支撑的是任务拆解、工具调用、多轮协作和持续运行，这对算力提出了完全不同的要求。 这背后其实是两个方向的能力缺口，一个是海量Agent能不能规模化、稳定地运行起来，另一个是多个模型能不能协同工作，让Agent变得更聪明。 浪潮信息在2026开放计算大会上，针对这两个缺口分别给出了新的产品方案。  Agent对基础设施提出新要求 Agent时",
+          "summary_zh": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题  克雷西 2026-07-13 19:59:57  来源：量子位   同时发布CPU原生液冷整机柜、多模融合超节点  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI AI基础设施的核心任务，已经从支撑大模型推理，转向支撑海量智能体的规模化运行与高质量Token的持续生产。 据IDC数据，2025年中国AI Agent企业级市场规模约190亿元，预计2025至2028年复合增长率超过110%。Gartner的判断更直接，2026年将有40%的企业应用集成任务型AI Agent。 大模型推理阶段，AI基础设施只需要支撑一次输入一次输出。 进入Agent阶段，基础设施要支撑的是任务拆解、工具调用、多轮协作和持续运行，这对算力提出了完全不同的要求。 这背后其实是两个方向的能力缺口，一个是海量Agent能不能规模化、稳定地运行起来，另一个是多个模型能不能协同工作，让Agent变得更聪明。 浪潮信息在2026开放计算大会上，针对这两个缺口分别给出了新的产品方案。  Agent对基础设施提出新要求 Agent时",
+          "publishedAt": "2026-07-13T11:59:57Z",
+          "published_at": "2026-07-13T11:59:57Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
