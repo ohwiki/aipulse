@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-15T10:19:17Z",
-  "generatedAt": "2026-07-15T10:19:17Z",
-  "count": 64,
-  "total": 64,
+  "generated_at": "2026-07-15T21:27:14Z",
+  "generatedAt": "2026-07-15T21:27:14Z",
+  "count": 65,
+  "total": 65,
   "entries": [
+    {
+      "date": "2026-07-16",
+      "generated_at": "2026-07-15T21:27:14Z",
+      "generatedAt": "2026-07-15T21:27:14Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "f6f64ce8",
+          "title": "AI资讯更新：Velo 3.0",
+          "title_en": "Velo 3.0",
+          "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI video infrastructure to explain, train, and",
+          "summary_zh": "AI video infrastructure to explain, train, and",
+          "publishedAt": "2026-07-15T07:01:00Z",
+          "published_at": "2026-07-15T07:01:00Z",
+          "votes_count": 473,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "42ea9c48",
+          "title": "AI资讯更新：V2Fun",
+          "title_en": "V2Fun",
+          "url": "https://www.producthunt.com/products/v2fun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/v2fun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Generate 3D character with 8K textures and AI",
+          "summary_zh": "Generate 3D character with 8K textures and AI",
+          "publishedAt": "2026-07-15T07:01:00Z",
+          "published_at": "2026-07-15T07:01:00Z",
+          "votes_count": 396,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "803",
+              "name": "3D Modeling",
+              "slug": "3d-modeling"
+            },
+            {
+              "id": "811",
+              "name": "Animation",
+              "slug": "animation"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "15f96d52",
+          "title": "产品更新：Campus",
+          "title_en": "Campus",
+          "url": "https://www.producthunt.com/products/flutterflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/flutterflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "One project space for humans and AI agents Cam",
+          "summary_zh": "One project space for humans and AI agents Cam",
+          "publishedAt": "2026-07-15T07:01:00Z",
+          "published_at": "2026-07-15T07:01:00Z",
+          "votes_count": 377,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-15",
       "generated_at": "2026-07-15T10:19:17Z",
