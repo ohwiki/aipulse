@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-07-14T21:27:46Z",
-  "generatedAt": "2026-07-14T21:27:46Z",
+  "generated_at": "2026-07-15T10:19:17Z",
+  "generatedAt": "2026-07-15T10:19:17Z",
   "count": 64,
   "total": 64,
   "entries": [
     {
       "date": "2026-07-15",
-      "generated_at": "2026-07-14T21:27:46Z",
-      "generatedAt": "2026-07-14T21:27:46Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-07-15T10:19:17Z",
+      "generatedAt": "2026-07-15T10:19:17Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "4fb57e80",
-          "title": "产品更新：Pazi",
-          "title_en": "Pazi",
-          "url": "https://www.producthunt.com/products/pazi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "7b57dea2",
+          "title": "8点1氪丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产",
+          "title_en": null,
+          "url": "https://36kr.com/p/3896138695706497?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/pazi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Vibe code business operations Pazi is an AI te",
-          "summary_zh": "Vibe code business operations Pazi is an AI te",
-          "publishedAt": "2026-07-14T07:01:00Z",
-          "published_at": "2026-07-14T07:01:00Z",
-          "votes_count": 530,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "1194",
-              "name": "Vibe coding",
-              "slug": "vibe-coding"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3896138695706497?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "今日热点导览  小米机器人首次实现汽车工厂柔性工件的长时作业 SK海力士加速Y1工厂建设，现已开始订购DRAM制造设备 国际金价持续回调，后市关注美联储政策路径 海关总署：中国出口连续11季度保持增长，贸易增量集中于AI领域 韩国政府四部门将于周四召开会议，就单股杠杆ETF对股市冲击研究应对方案  TOP 3大新闻 LV起诉国家知识产权局，案件定于16日开庭审理 人民法院公告网显示，北京知识产权法院将于2026年7月16日公开审理一起涉及路易威登的商标行政纠纷案。该案案号为（2026）京73行初4727号，原告为路易威登马利蒂，被告为国家知识产权局，黄民耀作为第三人参加诉讼。路易威登马利蒂也是此前起诉茉莉奶白商标侵权案的原告。公告暂未披露涉案商标及具体争议内容。案件定于16日9时30分在北京知识产权法院第15法庭开庭审理。（界面新闻） DeepSeek梁文锋身价飙升至360亿美元，成为AI公司新首富 根据最新的彭博亿万富豪指数（截至2026年7月14日），DeepSeek创始人梁文锋的身价飙升193亿美元，达到360亿美元（注：现汇率约合2443.78亿元人民币），成为全球AI公司领域",
+          "summary_zh": "今日热点导览  小米机器人首次实现汽车工厂柔性工件的长时作业 SK海力士加速Y1工厂建设，现已开始订购DRAM制造设备 国际金价持续回调，后市关注美联储政策路径 海关总署：中国出口连续11季度保持增长，贸易增量集中于AI领域 韩国政府四部门将于周四召开会议，就单股杠杆ETF对股市冲击研究应对方案  TOP 3大新闻 LV起诉国家知识产权局，案件定于16日开庭审理 人民法院公告网显示，北京知识产权法院将于2026年7月16日公开审理一起涉及路易威登的商标行政纠纷案。该案案号为（2026）京73行初4727号，原告为路易威登马利蒂，被告为国家知识产权局，黄民耀作为第三人参加诉讼。路易威登马利蒂也是此前起诉茉莉奶白商标侵权案的原告。公告暂未披露涉案商标及具体争议内容。案件定于16日9时30分在北京知识产权法院第15法庭开庭审理。（界面新闻） DeepSeek梁文锋身价飙升至360亿美元，成为AI公司新首富 根据最新的彭博亿万富豪指数（截至2026年7月14日），DeepSeek创始人梁文锋的身价飙升193亿美元，达到360亿美元（注：现汇率约合2443.78亿元人民币），成为全球AI公司领域",
+          "publishedAt": "2026-07-14T23:57:20Z",
+          "published_at": "2026-07-14T23:57:20Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "8a3d5353",
-          "title": "产品更新：ClawTeams",
-          "title_en": "ClawTeams",
-          "url": "https://www.producthunt.com/products/clawteams?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "21ed5e09",
+          "title": "阶跃入局，重构智能体时代操作系统",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/449979.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/clawteams?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The first goal-driven, proactive AI team for e",
-          "summary_zh": "The first goal-driven, proactive AI team for e",
-          "publishedAt": "2026-07-14T07:01:00Z",
-          "published_at": "2026-07-14T07:01:00Z",
-          "votes_count": 489,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/449979.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "阶跃入局，重构智能体时代操作系统  衡宇 2026-07-15 02:43:55  来源：量子位   董事长印奇称“未来的OS一定是跨端的”   衡宇 发自 上海 量子位 | 公众号 QbitAI  2026年，全球操作系统产业，迎来60年来的最大一次范式重构。  荣耀在MWC上海首次提出“Agentic OS”概念，明确要以AI Agent为核心重构操作系统架构 华为发布HarmonyOS 7，将“迈向Agent时代”作为核心战略 OpenAI在5月下旬展示了一款内部代号为“Atlas Phone”的设备机，明确以大模型为核心重构终端交互架构，加速推进原生Agent体系向终端系统底层渗透 苹果将Siri升级为系统级智能入口 谷歌推进Gemini Intelligence深度嵌入Android  从大模型厂商到终端巨头，几乎所有头部核心玩家都在，争夺下一代操作系统的定义权。     聚光灯也让一个深层矛盾暴露在行业面前。 今天的智能体不再满足于聊天与思考，它们已经能够代人行动、替人做事。 但在硬币的另一面，如今绝大多数系统依然死死抱守着60年不变的设计原点，即“人点击、机器响应”的逻辑",
+          "summary_zh": "阶跃入局，重构智能体时代操作系统  衡宇 2026-07-15 02:43:55  来源：量子位   董事长印奇称“未来的OS一定是跨端的”   衡宇 发自 上海 量子位 | 公众号 QbitAI  2026年，全球操作系统产业，迎来60年来的最大一次范式重构。  荣耀在MWC上海首次提出“Agentic OS”概念，明确要以AI Agent为核心重构操作系统架构 华为发布HarmonyOS 7，将“迈向Agent时代”作为核心战略 OpenAI在5月下旬展示了一款内部代号为“Atlas Phone”的设备机，明确以大模型为核心重构终端交互架构，加速推进原生Agent体系向终端系统底层渗透 苹果将Siri升级为系统级智能入口 谷歌推进Gemini Intelligence深度嵌入Android  从大模型厂商到终端巨头，几乎所有头部核心玩家都在，争夺下一代操作系统的定义权。     聚光灯也让一个深层矛盾暴露在行业面前。 今天的智能体不再满足于聊天与思考，它们已经能够代人行动、替人做事。 但在硬币的另一面，如今绝大多数系统依然死死抱守着60年不变的设计原点，即“人点击、机器响应”的逻辑",
+          "publishedAt": "2026-07-14T18:43:55Z",
+          "published_at": "2026-07-14T18:43:55Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "458ec6c5",
-          "title": "产品更新：PgDog",
-          "title_en": "PgDog",
-          "url": "https://www.producthunt.com/products/pgdog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "32a94fd8",
+          "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/448475.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/pgdog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Scale PostgreSQL without changing your app PgD",
-          "summary_zh": "Scale PostgreSQL without changing your app PgD",
-          "publishedAt": "2026-07-14T07:01:00Z",
-          "published_at": "2026-07-14T07:01:00Z",
-          "votes_count": 191,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "772",
-              "name": "Database",
-              "slug": "database"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/448475.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "刚刚，一个免费AI Coding选手杀入全球第一梯队  一水 2026-07-14 20:36:48  来源：量子位   一手实测这就奉上  2026年下半场，AI Coding赛道最大的焦虑变了。 不是模型不够强，是根本用！不！上！ 海外头部Coding工具的使用门槛正在集体抬高，「Claude被封天才程序员陨落」的话题更是一度冲上热搜。 不管是已经「中招」的，还是正在未雨绸缪寻找替代方案的，谁都想问上一句： 这世上到底还有没有一个长期稳定可用、Coding能力在线、价格还不贵的模型啊？！（马景涛老师咆哮版）     △图源微博热搜 或许是念念不忘，必有回响。 Agnes AI，一家明星AI实验室，在这个节骨眼干了这样一件事： 发布Coding能力位列全球第一梯队的新一代文本模型，Agnes-2.5-Flash。 把Claude Opus 4.7和Agnes-2.5-Flash生成的《AI生态进化模拟器》放一起，不说答案你能猜对哪个是哪家的吗？   视频地址：https://mp.weixin.qq.com/s/5ASyTtnqVxHvxdB1XTdfAg  同一提示词，实测两个模型",
+          "summary_zh": "刚刚，一个免费AI Coding选手杀入全球第一梯队  一水 2026-07-14 20:36:48  来源：量子位   一手实测这就奉上  2026年下半场，AI Coding赛道最大的焦虑变了。 不是模型不够强，是根本用！不！上！ 海外头部Coding工具的使用门槛正在集体抬高，「Claude被封天才程序员陨落」的话题更是一度冲上热搜。 不管是已经「中招」的，还是正在未雨绸缪寻找替代方案的，谁都想问上一句： 这世上到底还有没有一个长期稳定可用、Coding能力在线、价格还不贵的模型啊？！（马景涛老师咆哮版）     △图源微博热搜 或许是念念不忘，必有回响。 Agnes AI，一家明星AI实验室，在这个节骨眼干了这样一件事： 发布Coding能力位列全球第一梯队的新一代文本模型，Agnes-2.5-Flash。 把Claude Opus 4.7和Agnes-2.5-Flash生成的《AI生态进化模拟器》放一起，不说答案你能猜对哪个是哪家的吗？   视频地址：https://mp.weixin.qq.com/s/5ASyTtnqVxHvxdB1XTdfAg  同一提示词，实测两个模型",
+          "publishedAt": "2026-07-14T12:36:48Z",
+          "published_at": "2026-07-14T12:36:48Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
