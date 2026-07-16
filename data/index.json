@@ -1,9 +1,142 @@
 {
-  "generated_at": "2026-07-16T10:24:54Z",
-  "generatedAt": "2026-07-16T10:24:54Z",
-  "count": 65,
-  "total": 65,
+  "generated_at": "2026-07-16T21:29:44Z",
+  "generatedAt": "2026-07-16T21:29:44Z",
+  "count": 66,
+  "total": 66,
   "entries": [
+    {
+      "date": "2026-07-17",
+      "generated_at": "2026-07-16T21:29:44Z",
+      "generatedAt": "2026-07-16T21:29:44Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "b056a982",
+          "title": "产品更新：Zro",
+          "title_en": "Zro",
+          "url": "https://www.producthunt.com/products/zro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/zro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Private inference for coding agents Fast and o",
+          "summary_zh": "Private inference for coding agents Fast and o",
+          "publishedAt": "2026-07-16T07:01:00Z",
+          "published_at": "2026-07-16T07:01:00Z",
+          "votes_count": 389,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "abdd4a56",
+          "title": "产品更新：Albato AI",
+          "title_en": "Albato AI",
+          "url": "https://www.producthunt.com/products/albato?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/albato?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build AI-driven workflows across 1,000+ apps A",
+          "summary_zh": "Build AI-driven workflows across 1,000+ apps A",
+          "publishedAt": "2026-07-16T07:01:00Z",
+          "published_at": "2026-07-16T07:01:00Z",
+          "votes_count": 257,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            },
+            {
+              "id": "853",
+              "name": "Tech news",
+              "slug": "tech-news"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "06a65f5d",
+          "title": "产品更新：River",
+          "title_en": "River",
+          "url": "https://www.producthunt.com/products/river-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/river-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI account executives that demo and close B2B",
+          "summary_zh": "AI account executives that demo and close B2B",
+          "publishedAt": "2026-07-16T07:01:00Z",
+          "published_at": "2026-07-16T07:01:00Z",
+          "votes_count": 195,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-16",
       "generated_at": "2026-07-16T10:24:54Z",

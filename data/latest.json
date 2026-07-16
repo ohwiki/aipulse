@@ -1,71 +1,233 @@
 {
-  "generated_at": "2026-07-16T10:24:54Z",
-  "generatedAt": "2026-07-16T10:24:54Z",
+  "generated_at": "2026-07-16T21:29:44Z",
+  "generatedAt": "2026-07-16T21:29:44Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 8,
+  "count": 8,
   "items": [
     {
-      "id": "c95ad4e9",
-      "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
+      "id": "b056a982",
+      "title": "产品更新：Zro",
+      "title_en": "Zro",
+      "url": "https://www.producthunt.com/products/zro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/zro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Private inference for coding agents Fast and o",
+      "summary_zh": "Private inference for coding agents Fast and o",
+      "publishedAt": "2026-07-16T07:01:00Z",
+      "published_at": "2026-07-16T07:01:00Z",
+      "votes_count": 389,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        },
+        {
+          "id": "1359",
+          "name": "Vercel Day",
+          "slug": "vercel-day"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "abdd4a56",
+      "title": "产品更新：Albato AI",
+      "title_en": "Albato AI",
+      "url": "https://www.producthunt.com/products/albato?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/albato?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build AI-driven workflows across 1,000+ apps A",
+      "summary_zh": "Build AI-driven workflows across 1,000+ apps A",
+      "publishedAt": "2026-07-16T07:01:00Z",
+      "published_at": "2026-07-16T07:01:00Z",
+      "votes_count": 257,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        },
+        {
+          "id": "853",
+          "name": "Tech news",
+          "slug": "tech-news"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "06a65f5d",
+      "title": "产品更新：River",
+      "title_en": "River",
+      "url": "https://www.producthunt.com/products/river-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/river-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI account executives that demo and close B2B",
+      "summary_zh": "AI account executives that demo and close B2B",
+      "publishedAt": "2026-07-16T07:01:00Z",
+      "published_at": "2026-07-16T07:01:00Z",
+      "votes_count": 195,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        },
+        {
+          "id": "1359",
+          "name": "Vercel Day",
+          "slug": "vercel-day"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6e212fcf",
+      "title": "产品更新：Codex Micro",
+      "title_en": "Codex Micro",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Tactile controls for your Codex agents Codex M",
+      "summary_zh": "Tactile controls for your Codex agents Codex M",
+      "publishedAt": "2026-07-16T07:01:00Z",
+      "published_at": "2026-07-16T07:01:00Z",
+      "votes_count": 190,
+      "featured": true,
+      "topics": [
+        {
+          "id": "125",
+          "name": "Hardware",
+          "slug": "hardware"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a455fb35",
+      "title": "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO",
       "title_en": null,
-      "url": "https://36kr.com/p/3896755010963333?f=rss",
+      "url": "https://36kr.com/p/3897553391978371?f=rss",
       "source": "36氪",
       "source_type": null,
       "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3896755010963333?f=rss",
+      "sourceUrl": "https://36kr.com/p/3897553391978371?f=rss",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。 但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。 AI 技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工作，如今个体创作者借助工具就能实现。这一趋势在游戏 UGC 领域体现得尤为明显：普通用户不再只是内容消费者，也能成为游戏玩法的开发者。 只不过，过去的UGC 创作者大多停留在 「用爱发电」 的业余阶段，受限于工具能力与变现空间，很难成长为真正意义上的微型创业主体。直到 AI 的深度渗透，让这层天花板开始松动。 上周末，网易《蛋仔派对》举办了第四届创作者大会，在公布了自己在UGC生态成果的同时，正式推出行业首个同时覆盖帧同步与状态同步的UGC编辑器体——「双子星」编辑器体系，并进一步升级AI能力在创作全链路中的应用。 相比一次简单的工具升级，此次调整更像是一次UGC基础设施的重构：通过AI能力与编辑器体系的结合，《蛋仔派对》正在探索如",
-      "summary_zh": "2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。 但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。 AI 技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工作，如今个体创作者借助工具就能实现。这一趋势在游戏 UGC 领域体现得尤为明显：普通用户不再只是内容消费者，也能成为游戏玩法的开发者。 只不过，过去的UGC 创作者大多停留在 「用爱发电」 的业余阶段，受限于工具能力与变现空间，很难成长为真正意义上的微型创业主体。直到 AI 的深度渗透，让这层天花板开始松动。 上周末，网易《蛋仔派对》举办了第四届创作者大会，在公布了自己在UGC生态成果的同时，正式推出行业首个同时覆盖帧同步与状态同步的UGC编辑器体——「双子星」编辑器体系，并进一步升级AI能力在创作全链路中的应用。 相比一次简单的工具升级，此次调整更像是一次UGC基础设施的重构：通过AI能力与编辑器体系的结合，《蛋仔派对》正在探索如",
-      "publishedAt": "2026-07-15T10:36:56Z",
-      "published_at": "2026-07-15T10:36:56Z",
+      "summary": "今日热点导览 澳洲将设AI办公室，限制数据中心能源消耗 巴菲特宣布8年内清仓伯克希尔股票 前高通自动驾驶工程副总裁将加入英伟达自动驾驶团队 长鑫科技：上市后仍将保持无实际控制人的控制权架构 谷歌参与建设美国最大太阳能项目，总规模达2.5GW TOP 3大新闻 阿里、百度分别为苹果智能提供AI相关能力支撑 36氪获悉，网信办公布7款端侧生成式AI服务备案，苹果“Apple智能”大模型7月8日完成备案。阿里千问将为苹果全系列国行设备提供文本、图像生成AI能力，百度则负责配套AI搜索功能，二者共同完善国内版苹果智能套件与Siri功能。 三家共享单车上调起步价，拉长基础骑行时长 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 知情人曝DeepSeek已开始筹备IPO，最快可能今年提交申请 据彭博社报道，知情人士透露，DeepSeek已开始筹备首次公开募股（IPO）",
+      "summary_zh": "今日热点导览 澳洲将设AI办公室，限制数据中心能源消耗 巴菲特宣布8年内清仓伯克希尔股票 前高通自动驾驶工程副总裁将加入英伟达自动驾驶团队 长鑫科技：上市后仍将保持无实际控制人的控制权架构 谷歌参与建设美国最大太阳能项目，总规模达2.5GW TOP 3大新闻 阿里、百度分别为苹果智能提供AI相关能力支撑 36氪获悉，网信办公布7款端侧生成式AI服务备案，苹果“Apple智能”大模型7月8日完成备案。阿里千问将为苹果全系列国行设备提供文本、图像生成AI能力，百度则负责配套AI搜索功能，二者共同完善国内版苹果智能套件与Siri功能。 三家共享单车上调起步价，拉长基础骑行时长 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 知情人曝DeepSeek已开始筹备IPO，最快可能今年提交申请 据彭博社报道，知情人士透露，DeepSeek已开始筹备首次公开募股（IPO）",
+      "publishedAt": "2026-07-15T23:59:41Z",
+      "published_at": "2026-07-15T23:59:41Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "ebea35ff",
-      "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+      "id": "2c964e34",
+      "title": "斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家",
       "title_en": null,
-      "url": "https://36kr.com/p/3896563671222147?f=rss",
+      "url": "https://36kr.com/p/3895721094842249?f=rss",
       "source": "36氪",
       "source_type": null,
       "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3896563671222147?f=rss",
+      "sourceUrl": "https://36kr.com/p/3895721094842249?f=rss",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "大公司： 美团、青桔、哈啰共享单车调价 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 瓜子二手车线下直卖场首店今日正式开业 36氪获悉，瓜子二手车线下直卖场首店苏州直卖场今日正式开业。据介绍，瓜子此次重回线下，主打100%个人直卖车源。目前瓜子在沈阳、济南等同类型门店已同步启动，并推动全国落地中。 LG新能源将为谷歌规模最大的“光储一体”项目供应电池 据业内人士周三透露，韩国LG新能源���为谷歌规模最大的太阳能与储能项目供应电池，此举标志着该公司进一步拓展了与AI数据中心激增的电力需求相关的能源基础设施业务。谷歌与可再生能源开发商Cypress Creek Energy在阿肯色州联合公布了“钢铁河能源中心”项目。该项目初期将配置1.6吉瓦（GW）的太阳能发电能力与约2吉瓦时（GWh）的电池储能系统；到2029年，规模将扩大至2.5吉瓦太阳能发电和2.9",
-      "summary_zh": "大公司： 美团、青桔、哈啰共享单车调价 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 瓜子二手车线下直卖场首店今日正式开业 36氪获悉，瓜子二手车线下直卖场首店苏州直卖场今日正式开业。据介绍，瓜子此次重回线下，主打100%个人直卖车源。目前瓜子在沈阳、济南等同类型门店已同步启动，并推动全国落地中。 LG新能源将为谷歌规模最大的“光储一体”项目供应电池 据业内人士周三透露，韩国LG新能源���为谷歌规模最大的太阳能与储能项目供应电池，此举标志着该公司进一步拓展了与AI数据中心激增的电力需求相关的能源基础设施业务。谷歌与可再生能源开发商Cypress Creek Energy在阿肯色州联合公布了“钢铁河能源中心”项目。该项目初期将配置1.6吉瓦（GW）的太阳能发电能力与约2吉瓦时（GWh）的电池储能系统；到2029年，规模将扩大至2.5吉瓦太阳能发电和2.9",
-      "publishedAt": "2026-07-15T11:37:31Z",
-      "published_at": "2026-07-15T11:37:31Z",
+      "summary": "自动驾驶重卡赛道，今年显著升温。 36氪独家获悉，斯年智驾近日已完成 3 亿元 C 轮融资，由兴证资本、颐道资本联合投资，资金将主要用于新一代车规级自动驾驶方案研发。 2026年1-6月，该赛道公开披露的融资已达5起，累计金额近70亿人民币，IPO动作也非常密集。资本热的背后，自动驾驶重卡在商业化层面逐渐拥有清晰的落地答案。港口、矿山、钢铁等封闭场景逐渐对无人重卡形成稳定需求，干线物流等开放场景也伴随政策开始逐渐落地，进入规模化前夜。 斯年智驾成立于2020年4月，是一家专注于重载物流领域无人驾驶技术研发与落地的公司，提供港口、园区、干线等多场景的自动驾驶解决方案。 目前，斯年智驾的商业模式呈现多车型、多场景、多作业链路的特点。 在产品端，无人集卡、无人自卸车和无人平板车构成了斯年的主力阵容。支撑这些产品的，是其自研的一段式世界模型自动驾驶方案，以及域控制器、定位板卡在内的核心硬件。 落地模式上，斯年智驾提供两种方案：既可以直接卖整车，也可以提供运力服务。在封闭场景，公司已实现从传统集装箱港口、散杂货堆场，到钢厂、纸厂、铝厂、铁路站场和物流枢纽等场景的落地；在开放场景中，公司也已与部分",
+      "summary_zh": "自动驾驶重卡赛道，今年显著升温。 36氪独家获悉，斯年智驾近日已完成 3 亿元 C 轮融资，由兴证资本、颐道资本联合投资，资金将主要用于新一代车规级自动驾驶方案研发。 2026年1-6月，该赛道公开披露的融资已达5起，累计金额近70亿人民币，IPO动作也非常密集。资本热的背后，自动驾驶重卡在商业化层面逐渐拥有清晰的落地答案。港口、矿山、钢铁等封闭场景逐渐对无人重卡形成稳定需求，干线物流等开放场景也伴随政策开始逐渐落地，进入规模化前夜。 斯年智驾成立于2020年4月，是一家专注于重载物流领域无人驾驶技术研发与落地的公司，提供港口、园区、干线等多场景的自动驾驶解决方案。 目前，斯年智驾的商业模式呈现多车型、多场景、多作业链路的特点。 在产品端，无人集卡、无人自卸车和无人平板车构成了斯年的主力阵容。支撑这些产品的，是其自研的一段式世界模型自动驾驶方案，以及域控制器、定位板卡在内的核心硬件。 落地模式上，斯年智驾提供两种方案：既可以直接卖整车，也可以提供运力服务。在封闭场景，公司已实现从传统集装箱港口、散杂货堆场，到钢厂、纸厂、铝厂、铁路站场和物流枢纽等场景的落地；在开放场景中，公司也已与部分",
+      "publishedAt": "2026-07-16T00:00:00Z",
+      "published_at": "2026-07-16T00:00:00Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "c5fdd49e",
-      "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
+      "id": "8ab0f8b2",
+      "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
       "title_en": null,
-      "url": "https://36kr.com/p/3896830362601351?f=rss",
+      "url": "https://36kr.com/p/3896586337978244?f=rss",
       "source": "36氪",
       "source_type": null,
       "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3896830362601351?f=rss",
+      "sourceUrl": "https://36kr.com/p/3896586337978244?f=rss",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "文｜邓咏仪 编辑｜张雨忻 杨轩 《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。 就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备案。 公告显示，Apple智能、华为小艺AI大模型、OPPO Andes GPT、vivo蓝心端侧大模型、小米澎湃AI、三星盖乐世AI以及努比亚豆包手机大模型共7款服务完成备案。 大模型浪潮来临后，端侧AI一直处于技术探索和萌芽期。此次七款手机端侧AI同日获批，是业界的重要里程碑——端侧AI不再是概念演示，进入了规模化落地阶段。  △来源：网信中国 同日，阿里巴巴向媒体确认，阿里千问将作为AI能力集成至Apple智能，覆盖iOS、iPadOS、macOS和visionOS的国行设备，用户无需切换App即可在苹果设备上体验千问的文本与图像理解、内容生成等能力。此后，阿里股价应声上涨超过5%。 此前，国内手机厂商的端侧AI能力大多由自研模型支撑——华为有小艺、OPPO有AndesGPT、vivo有蓝心、小米有澎湃AI。而如",
-      "summary_zh": "文｜邓咏仪 编辑｜张雨忻 杨轩 《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。 就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备案。 公告显示，Apple智能、华为小艺AI大模型、OPPO Andes GPT、vivo蓝心端侧大模型、小米澎湃AI、三星盖乐世AI以及努比亚豆包手机大模型共7款服务完成备案。 大模型浪潮来临后，端侧AI一直处于技术探索和萌芽期。此次七款手机端侧AI同日获批，是业界的重要里程碑——端侧AI不再是概念演示，进入了规模化落地阶段。  △来源：网信中国 同日，阿里巴巴向媒体确认，阿里千问将作为AI能力集成至Apple智能，覆盖iOS、iPadOS、macOS和visionOS的国行设备，用户无需切换App即可在苹果设备上体验千问的文本与图像理解、内容生成等能力。此后，阿里股价应声上涨超过5%。 此前，国内手机厂商的端侧AI能力大多由自研模型支撑——华为有小艺、OPPO有AndesGPT、vivo有蓝心、小米有澎湃AI。而如",
-      "publishedAt": "2026-07-15T11:47:14Z",
-      "published_at": "2026-07-15T11:47:14Z",
+      "summary": "作者｜黄楠 编辑｜袁斯来 在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。 这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。 但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。 庞伯特很早就有拓宽赛道的想法，直到今年5月，其首款多运动合一智能体育AI教练机器人Aura发布，完成了从网球场景的训练工具、到多运动AI教练机器人的落地。这款产品在Kickstarter上线当天，仅5小时众筹金额便超过100万美金，累计金额近400万美元。 它的核心思路很直接：与其让用户为每一项运动分别买单，不如用一台设备覆盖尽可能多的场景，包括时下热门的板式网球、匹克球等等。基于所搭载的AI Coach智能教练体系，拓宽产品适用场景与用户覆盖范围。 从单一专项的训练工具，到兼容多类隔网运动的AI私教，庞伯特Aura所代表的，是智能硬件从专业竞技赛道向大众运动场景的一次纵深延伸。当设备不再只为少数人的性能指标服务",
+      "summary_zh": "作者｜黄楠 编辑｜袁斯来 在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。 这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。 但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。 庞伯特很早就有拓宽赛道的想法，直到今年5月，其首款多运动合一智能体育AI教练机器人Aura发布，完成了从网球场景的训练工具、到多运动AI教练机器人的落地。这款产品在Kickstarter上线当天，仅5小时众筹金额便超过100万美金，累计金额近400万美元。 它的核心思路很直接：与其让用户为每一项运动分别买单，不如用一台设备覆盖尽可能多的场景，包括时下热门的板式网球、匹克球等等。基于所搭载的AI Coach智能教练体系，拓宽产品适用场景与用户覆盖范围。 从单一专项的训练工具，到兼容多类隔网运动的AI私教，庞伯特Aura所代表的，是智能硬件从专业竞技赛道向大众运动场景的一次纵深延伸。当设备不再只为少数人的性能指标服务",
+      "publishedAt": "2026-07-16T01:30:00Z",
+      "published_at": "2026-07-16T01:30:00Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

@@ -1,0 +1,523 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-16T21:29:44Z",
+  "generatedAt": "2026-07-16T21:29:44Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "b056a982",
+          "title": "产品更新：Zro",
+          "title_en": "Zro",
+          "url": "https://www.producthunt.com/products/zro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/zro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Private inference for coding agents Fast and o",
+          "summary_zh": "Private inference for coding agents Fast and o",
+          "publishedAt": "2026-07-16T07:01:00Z",
+          "published_at": "2026-07-16T07:01:00Z",
+          "votes_count": 389,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "abdd4a56",
+          "title": "产品更新：Albato AI",
+          "title_en": "Albato AI",
+          "url": "https://www.producthunt.com/products/albato?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/albato?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Build AI-driven workflows across 1,000+ apps A",
+          "summary_zh": "Build AI-driven workflows across 1,000+ apps A",
+          "publishedAt": "2026-07-16T07:01:00Z",
+          "published_at": "2026-07-16T07:01:00Z",
+          "votes_count": 257,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            },
+            {
+              "id": "853",
+              "name": "Tech news",
+              "slug": "tech-news"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "06a65f5d",
+          "title": "产品更新：River",
+          "title_en": "River",
+          "url": "https://www.producthunt.com/products/river-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/river-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI account executives that demo and close B2B",
+          "summary_zh": "AI account executives that demo and close B2B",
+          "publishedAt": "2026-07-16T07:01:00Z",
+          "published_at": "2026-07-16T07:01:00Z",
+          "votes_count": 195,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6e212fcf",
+          "title": "产品更新：Codex Micro",
+          "title_en": "Codex Micro",
+          "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Tactile controls for your Codex agents Codex M",
+          "summary_zh": "Tactile controls for your Codex agents Codex M",
+          "publishedAt": "2026-07-16T07:01:00Z",
+          "published_at": "2026-07-16T07:01:00Z",
+          "votes_count": 190,
+          "featured": true,
+          "topics": [
+            {
+              "id": "125",
+              "name": "Hardware",
+              "slug": "hardware"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "a455fb35",
+          "title": "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO",
+          "title_en": null,
+          "url": "https://36kr.com/p/3897553391978371?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3897553391978371?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览 澳洲将设AI办公室，限制数据中心能源消耗 巴菲特宣布8年内清仓伯克希尔股票 前高通自动驾驶工程副总裁将加入英伟达自动驾驶团队 长鑫科技：上市后仍将保持无实际控制人的控制权架构 谷歌参与建设美国最大太阳能项目，总规模达2.5GW TOP 3大新闻 阿里、百度分别为苹果智能提供AI相关能力支撑 36氪获悉，网信办公布7款端侧生成式AI服务备案，苹果“Apple智能”大模型7月8日完成备案。阿里千问将为苹果全系列国行设备提供文本、图像生成AI能力，百度则负责配套AI搜索功能，二者共同完善国内版苹果智能套件与Siri功能。 三家共享单车上调起步价，拉长基础骑行时长 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 知情人曝DeepSeek已开始筹备IPO，最快可能今年提交申请 据彭博社报道，知情人士透露，DeepSeek已开始筹备首次公开募股（IPO）",
+          "summary_zh": "今日热点导览 澳洲将设AI办公室，限制数据中心能源消耗 巴菲特宣布8年内清仓伯克希尔股票 前高通自动驾驶工程副总裁将加入英伟达自动驾驶团队 长鑫科技：上市后仍将保持无实际控制人的控制权架构 谷歌参与建设美国最大太阳能项目，总规模达2.5GW TOP 3大新闻 阿里、百度分别为苹果智能提供AI相关能力支撑 36氪获悉，网信办公布7款端侧生成式AI服务备案，苹果“Apple智能”大模型7月8日完成备案。阿里千问将为苹果全系列国行设备提供文本、图像生成AI能力，百度则负责配套AI搜索功能，二者共同完善国内版苹果智能套件与Siri功能。 三家共享单车上调起步价，拉长基础骑行时长 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 知情人曝DeepSeek已开始筹备IPO，最快可能今年提交申请 据彭博社报道，知情人士透露，DeepSeek已开始筹备首次公开募股（IPO）",
+          "publishedAt": "2026-07-15T23:59:41Z",
+          "published_at": "2026-07-15T23:59:41Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "2c964e34",
+          "title": "斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家",
+          "title_en": null,
+          "url": "https://36kr.com/p/3895721094842249?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3895721094842249?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "自动驾驶重卡赛道，今年显著升温。 36氪独家获悉，斯年智驾近日已完成 3 亿元 C 轮融资，由兴证资本、颐道资本联合投资，资金将主要用于新一代车规级自动驾驶方案研发。 2026年1-6月，该赛道公开披露的融资已达5起，累计金额近70亿人民币，IPO动作也非常密集。资本热的背后，自动驾驶重卡在商业化层面逐渐拥有清晰的落地答案。港口、矿山、钢铁等封闭场景逐渐对无人重卡形成稳定需求，干线物流等开放场景也伴随政策开始逐渐落地，进入规模化前夜。 斯年智驾成立于2020年4月，是一家专注于重载物流领域无人驾驶技术研发与落地的公司，提供港口、园区、干线等多场景的自动驾驶解决方案。 目前，斯年智驾的商业模式呈现多车型、多场景、多作业链路的特点。 在产品端，无人集卡、无人自卸车和无人平板车构成了斯年的主力阵容。支撑这些产品的，是其自研的一段式世界模型自动驾驶方案，以及域控制器、定位板卡在内的核心硬件。 落地模式上，斯年智驾提供两种方案：既可以直接卖整车，也可以提供运力服务。在封闭场景，公司已实现从传统集装箱港口、散杂货堆场，到钢厂、纸厂、铝厂、铁路站场和物流枢纽等场景的落地；在开放场景中，公司也已与部分",
+          "summary_zh": "自动驾驶重卡赛道，今年显著升温。 36氪独家获悉，斯年智驾近日已完成 3 亿元 C 轮融资，由兴证资本、颐道资本联合投资，资金将主要用于新一代车规级自动驾驶方案研发。 2026年1-6月，该赛道公开披露的融资已达5起，累计金额近70亿人民币，IPO动作也非常密集。资本热的背后，自动驾驶重卡在商业化层面逐渐拥有清晰的落地答案。港口、矿山、钢铁等封闭场景逐渐对无人重卡形成稳定需求，干线物流等开放场景也伴随政策开始逐渐落地，进入规模化前夜。 斯年智驾成立于2020年4月，是一家专注于重载物流领域无人驾驶技术研发与落地的公司，提供港口、园区、干线等多场景的自动驾驶解决方案。 目前，斯年智驾的商业模式呈现多车型、多场景、多作业链路的特点。 在产品端，无人集卡、无人自卸车和无人平板车构成了斯年的主力阵容。支撑这些产品的，是其自研的一段式世界模型自动驾驶方案，以及域控制器、定位板卡在内的核心硬件。 落地模式上，斯年智驾提供两种方案：既可以直接卖整车，也可以提供运力服务。在封闭场景，公司已实现从传统集装箱港口、散杂货堆场，到钢厂、纸厂、铝厂、铁路站场和物流枢纽等场景的落地；在开放场景中，公司也已与部分",
+          "publishedAt": "2026-07-16T00:00:00Z",
+          "published_at": "2026-07-16T00:00:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "8ab0f8b2",
+          "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
+          "title_en": null,
+          "url": "https://36kr.com/p/3896586337978244?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3896586337978244?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者｜黄楠 编辑｜袁斯来 在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。 这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。 但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。 庞伯特很早就有拓宽赛道的想法，直到今年5月，其首款多运动合一智能体育AI教练机器人Aura发布，完成了从网球场景的训练工具、到多运动AI教练机器人的落地。这款产品在Kickstarter上线当天，仅5小时众筹金额便超过100万美金，累计金额近400万美元。 它的核心思路很直接：与其让用户为每一项运动分别买单，不如用一台设备覆盖尽可能多的场景，包括时下热门的板式网球、匹克球等等。基于所搭载的AI Coach智能教练体系，拓宽产品适用场景与用户覆盖范围。 从单一专项的训练工具，到兼容多类隔网运动的AI私教，庞伯特Aura所代表的，是智能硬件从专业竞技赛道向大众运动场景的一次纵深延伸。当设备不再只为少数人的性能指标服务",
+          "summary_zh": "作者｜黄楠 编辑｜袁斯来 在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。 这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。 但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。 庞伯特很早就有拓宽赛道的想法，直到今年5月，其首款多运动合一智能体育AI教练机器人Aura发布，完成了从网球场景的训练工具、到多运动AI教练机器人的落地。这款产品在Kickstarter上线当天，仅5小时众筹金额便超过100万美金，累计金额近400万美元。 它的核心思路很直接：与其让用户为每一项运动分别买单，不如用一台设备覆盖尽可能多的场景，包括时下热门的板式网球、匹克球等等。基于所搭载的AI Coach智能教练体系，拓宽产品适用场景与用户覆盖范围。 从单一专项的训练工具，到兼容多类隔网运动的AI私教，庞伯特Aura所代表的，是智能硬件从专业竞技赛道向大众运动场景的一次纵深延伸。当设备不再只为少数人的性能指标服务",
+          "publishedAt": "2026-07-16T01:30:00Z",
+          "published_at": "2026-07-16T01:30:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "c4228852",
+          "title": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/450896.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/450896.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界  衡宇 2026-07-16 10:30:46  来源：量子位   后训练中真机数据需求骤降60%   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  代码Agent这两年为何进步飞快，成为AI界的宗门大师兄？ 因为这玩意儿自己个儿就超！闭！环！的！ 代码Agent可以自动执行、自动验证、自动反馈。写了代码跑一下就知道对不对，奖励信号非常清晰明确。 这给后训练（Post-training）阶段的自反馈闭环提供了完美条件。 同样是AI界大热门，具身智能目前就缺少这种“神助”。 它面对的物理世界比代码Agent面对的世界复杂多了，而且很难得到即刻验证。 它接收的信号不像代码那样有一个编译器就能判定，它们模糊、昂贵，而且每一次真机试错都意味着真金白银的人力和硬件损耗。    VLA（视觉-语言-动作模型）是具身智能中最早受到关注的技术路线。 但很快，大家发现这个技术存在物理理解缺失、泛化能力极弱、长时序与规划能力不足等等问题，做不到“一家独大”包打天下。 大家有点着急。后来，世界模型又成了行业里的新宠儿。 但世界模",
+          "summary_zh": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界  衡宇 2026-07-16 10:30:46  来源：量子位   后训练中真机数据需求骤降60%   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  代码Agent这两年为何进步飞快，成为AI界的宗门大师兄？ 因为这玩意儿自己个儿就超！闭！环！的！ 代码Agent可以自动执行、自动验证、自动反馈。写了代码跑一下就知道对不对，奖励信号非常清晰明确。 这给后训练（Post-training）阶段的自反馈闭环提供了完美条件。 同样是AI界大热门，具身智能目前就缺少这种“神助”。 它面对的物理世界比代码Agent面对的世界复杂多了，而且很难得到即刻验证。 它接收的信号不像代码那样有一个编译器就能判定，它们模糊、昂贵，而且每一次真机试错都意味着真金白银的人力和硬件损耗。    VLA（视觉-语言-动作模型）是具身智能中最早受到关注的技术路线。 但很快，大家发现这个技术存在物理理解缺失、泛化能力极弱、长时序与规划能力不足等等问题，做不到“一家独大”包打天下。 大家有点着急。后来，世界模型又成了行业里的新宠儿。 但世界模",
+          "publishedAt": "2026-07-16T02:30:46Z",
+          "published_at": "2026-07-16T02:30:46Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "b056a982",
+      "title": "产品更新：Zro",
+      "title_en": "Zro",
+      "url": "https://www.producthunt.com/products/zro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/zro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Private inference for coding agents Fast and o",
+      "summary_zh": "Private inference for coding agents Fast and o",
+      "publishedAt": "2026-07-16T07:01:00Z",
+      "published_at": "2026-07-16T07:01:00Z",
+      "votes_count": 389,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        },
+        {
+          "id": "1359",
+          "name": "Vercel Day",
+          "slug": "vercel-day"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "abdd4a56",
+      "title": "产品更新：Albato AI",
+      "title_en": "Albato AI",
+      "url": "https://www.producthunt.com/products/albato?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/albato?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build AI-driven workflows across 1,000+ apps A",
+      "summary_zh": "Build AI-driven workflows across 1,000+ apps A",
+      "publishedAt": "2026-07-16T07:01:00Z",
+      "published_at": "2026-07-16T07:01:00Z",
+      "votes_count": 257,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        },
+        {
+          "id": "853",
+          "name": "Tech news",
+          "slug": "tech-news"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "06a65f5d",
+      "title": "产品更新：River",
+      "title_en": "River",
+      "url": "https://www.producthunt.com/products/river-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/river-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI account executives that demo and close B2B",
+      "summary_zh": "AI account executives that demo and close B2B",
+      "publishedAt": "2026-07-16T07:01:00Z",
+      "published_at": "2026-07-16T07:01:00Z",
+      "votes_count": 195,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        },
+        {
+          "id": "1359",
+          "name": "Vercel Day",
+          "slug": "vercel-day"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6e212fcf",
+      "title": "产品更新：Codex Micro",
+      "title_en": "Codex Micro",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Tactile controls for your Codex agents Codex M",
+      "summary_zh": "Tactile controls for your Codex agents Codex M",
+      "publishedAt": "2026-07-16T07:01:00Z",
+      "published_at": "2026-07-16T07:01:00Z",
+      "votes_count": 190,
+      "featured": true,
+      "topics": [
+        {
+          "id": "125",
+          "name": "Hardware",
+          "slug": "hardware"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a455fb35",
+      "title": "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO",
+      "title_en": null,
+      "url": "https://36kr.com/p/3897553391978371?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3897553391978371?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览 澳洲将设AI办公室，限制数据中心能源消耗 巴菲特宣布8年内清仓伯克希尔股票 前高通自动驾驶工程副总裁将加入英伟达自动驾驶团队 长鑫科技：上市后仍将保持无实际控制人的控制权架构 谷歌参与建设美国最大太阳能项目，总规模达2.5GW TOP 3大新闻 阿里、百度分别为苹果智能提供AI相关能力支撑 36氪获悉，网信办公布7款端侧生成式AI服务备案，苹果“Apple智能”大模型7月8日完成备案。阿里千问将为苹果全系列国行设备提供文本、图像生成AI能力，百度则负责配套AI搜索功能，二者共同完善国内版苹果智能套件与Siri功能。 三家共享单车上调起步价，拉长基础骑行时长 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 知情人曝DeepSeek已开始筹备IPO，最快可能今年提交申请 据彭博社报道，知情人士透露，DeepSeek已开始筹备首次公开募股（IPO）",
+      "summary_zh": "今日热点导览 澳洲将设AI办公室，限制数据中心能源消耗 巴菲特宣布8年内清仓伯克希尔股票 前高通自动驾驶工程副总裁将加入英伟达自动驾驶团队 长鑫科技：上市后仍将保持无实际控制人的控制权架构 谷歌参与建设美国最大太阳能项目，总规模达2.5GW TOP 3大新闻 阿里、百度分别为苹果智能提供AI相关能力支撑 36氪获悉，网信办公布7款端侧生成式AI服务备案，苹果“Apple智能”大模型7月8日完成备案。阿里千问将为苹果全系列国行设备提供文本、图像生成AI能力，百度则负责配套AI搜索功能，二者共同完善国内版苹果智能套件与Siri功能。 三家共享单车上调起步价，拉长基础骑行时长 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 知情人曝DeepSeek已开始筹备IPO，最快可能今年提交申请 据彭博社报道，知情人士透露，DeepSeek已开始筹备首次公开募股（IPO）",
+      "publishedAt": "2026-07-15T23:59:41Z",
+      "published_at": "2026-07-15T23:59:41Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "2c964e34",
+      "title": "斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家",
+      "title_en": null,
+      "url": "https://36kr.com/p/3895721094842249?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3895721094842249?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "自动驾驶重卡赛道，今年显著升温。 36氪独家获悉，斯年智驾近日已完成 3 亿元 C 轮融资，由兴证资本、颐道资本联合投资，资金将主要用于新一代车规级自动驾驶方案研发。 2026年1-6月，该赛道公开披露的融资已达5起，累计金额近70亿人民币，IPO动作也非常密集。资本热的背后，自动驾驶重卡在商业化层面逐渐拥有清晰的落地答案。港口、矿山、钢铁等封闭场景逐渐对无人重卡形成稳定需求，干线物流等开放场景也伴随政策开始逐渐落地，进入规模化前夜。 斯年智驾成立于2020年4月，是一家专注于重载物流领域无人驾驶技术研发与落地的公司，提供港口、园区、干线等多场景的自动驾驶解决方案。 目前，斯年智驾的商业模式呈现多车型、多场景、多作业链路的特点。 在产品端，无人集卡、无人自卸车和无人平板车构成了斯年的主力阵容。支撑这些产品的，是其自研的一段式世界模型自动驾驶方案，以及域控制器、定位板卡在内的核心硬件。 落地模式上，斯年智驾提供两种方案：既可以直接卖整车，也可以提供运力服务。在封闭场景，公司已实现从传统集装箱港口、散杂货堆场，到钢厂、纸厂、铝厂、铁路站场和物流枢纽等场景的落地；在开放场景中，公司也已与部分",
+      "summary_zh": "自动驾驶重卡赛道，今年显著升温。 36氪独家获悉，斯年智驾近日已完成 3 亿元 C 轮融资，由兴证资本、颐道资本联合投资，资金将主要用于新一代车规级自动驾驶方案研发。 2026年1-6月，该赛道公开披露的融资已达5起，累计金额近70亿人民币，IPO动作也非常密集。资本热的背后，自动驾驶重卡在商业化层面逐渐拥有清晰的落地答案。港口、矿山、钢铁等封闭场景逐渐对无人重卡形成稳定需求，干线物流等开放场景也伴随政策开始逐渐落地，进入规模化前夜。 斯年智驾成立于2020年4月，是一家专注于重载物流领域无人驾驶技术研发与落地的公司，提供港口、园区、干线等多场景的自动驾驶解决方案。 目前，斯年智驾的商业模式呈现多车型、多场景、多作业链路的特点。 在产品端，无人集卡、无人自卸车和无人平板车构成了斯年的主力阵容。支撑这些产品的，是其自研的一段式世界模型自动驾驶方案，以及域控制器、定位板卡在内的核心硬件。 落地模式上，斯年智驾提供两种方案：既可以直接卖整车，也可以提供运力服务。在封闭场景，公司已实现从传统集装箱港口、散杂货堆场，到钢厂、纸厂、铝厂、铁路站场和物流枢纽等场景的落地；在开放场景中，公司也已与部分",
+      "publishedAt": "2026-07-16T00:00:00Z",
+      "published_at": "2026-07-16T00:00:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "8ab0f8b2",
+      "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
+      "title_en": null,
+      "url": "https://36kr.com/p/3896586337978244?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3896586337978244?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者｜黄楠 编辑｜袁斯来 在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。 这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。 但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。 庞伯特很早就有拓宽赛道的想法，直到今年5月，其首款多运动合一智能体育AI教练机器人Aura发布，完成了从网球场景的训练工具、到多运动AI教练机器人的落地。这款产品在Kickstarter上线当天，仅5小时众筹金额便超过100万美金，累计金额近400万美元。 它的核心思路很直接：与其让用户为每一项运动分别买单，不如用一台设备覆盖尽可能多的场景，包括时下热门的板式网球、匹克球等等。基于所搭载的AI Coach智能教练体系，拓宽产品适用场景与用户覆盖范围。 从单一专项的训练工具，到兼容多类隔网运动的AI私教，庞伯特Aura所代表的，是智能硬件从专业竞技赛道向大众运动场景的一次纵深延伸。当设备不再只为少数人的性能指标服务",
+      "summary_zh": "作者｜黄楠 编辑｜袁斯来 在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。 这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。 但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队快速入局，海外老牌专业设备厂商也在加速占据全球专业市场。 庞伯特很早就有拓宽赛道的想法，直到今年5月，其首款多运动合一智能体育AI教练机器人Aura发布，完成了从网球场景的训练工具、到多运动AI教练机器人的落地。这款产品在Kickstarter上线当天，仅5小时众筹金额便超过100万美金，累计金额近400万美元。 它的核心思路很直接：与其让用户为每一项运动分别买单，不如用一台设备覆盖尽可能多的场景，包括时下热门的板式网球、匹克球等等。基于所搭载的AI Coach智能教练体系，拓宽产品适用场景与用户覆盖范围。 从单一专项的训练工具，到兼容多类隔网运动的AI私教，庞伯特Aura所代表的，是智能硬件从专业竞技赛道向大众运动场景的一次纵深延伸。当设备不再只为少数人的性能指标服务",
+      "publishedAt": "2026-07-16T01:30:00Z",
+      "published_at": "2026-07-16T01:30:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "c4228852",
+      "title": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/450896.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/450896.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界  衡宇 2026-07-16 10:30:46  来源：量子位   后训练中真机数据需求骤降60%   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  代码Agent这两年为何进步飞快，成为AI界的宗门大师兄？ 因为这玩意儿自己个儿就超！闭！环！的！ 代码Agent可以自动执行、自动验证、自动反馈。写了代码跑一下就知道对不对，奖励信号非常清晰明确。 这给后训练（Post-training）阶段的自反馈闭环提供了完美条件。 同样是AI界大热门，具身智能目前就缺少这种“神助”。 它面对的物理世界比代码Agent面对的世界复杂多了，而且很难得到即刻验证。 它接收的信号不像代码那样有一个编译器就能判定，它们模糊、昂贵，而且每一次真机试错都意味着真金白银的人力和硬件损耗。    VLA（视觉-语言-动作模型）是具身智能中最早受到关注的技术路线。 但很快，大家发现这个技术存在物理理解缺失、泛化能力极弱、长时序与规划能力不足等等问题，做不到“一家独大”包打天下。 大家有点着急。后来，世界模型又成了行业里的新宠儿。 但世界模",
+      "summary_zh": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界  衡宇 2026-07-16 10:30:46  来源：量子位   后训练中真机数据需求骤降60%   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  代码Agent这两年为何进步飞快，成为AI界的宗门大师兄？ 因为这玩意儿自己个儿就超！闭！环！的！ 代码Agent可以自动执行、自动验证、自动反馈。写了代码跑一下就知道对不对，奖励信号非常清晰明确。 这给后训练（Post-training）阶段的自反馈闭环提供了完美条件。 同样是AI界大热门，具身智能目前就缺少这种“神助”。 它面对的物理世界比代码Agent面对的世界复杂多了，而且很难得到即刻验证。 它接收的信号不像代码那样有一个编译器就能判定，它们模糊、昂贵，而且每一次真机试错都意味着真金白银的人力和硬件损耗。    VLA（视觉-语言-动作模型）是具身智能中最早受到关注的技术路线。 但很快，大家发现这个技术存在物理理解缺失、泛化能力极弱、长时序与规划能力不足等等问题，做不到“一家独大”包打天下。 大家有点着急。后来，世界模型又成了行业里的新宠儿。 但世界模",
+      "publishedAt": "2026-07-16T02:30:46Z",
+      "published_at": "2026-07-16T02:30:46Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
