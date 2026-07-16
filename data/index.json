@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-07-15T21:27:14Z",
-  "generatedAt": "2026-07-15T21:27:14Z",
+  "generated_at": "2026-07-16T10:24:54Z",
+  "generatedAt": "2026-07-16T10:24:54Z",
   "count": 65,
   "total": 65,
   "entries": [
     {
       "date": "2026-07-16",
-      "generated_at": "2026-07-15T21:27:14Z",
-      "generatedAt": "2026-07-15T21:27:14Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-07-16T10:24:54Z",
+      "generatedAt": "2026-07-16T10:24:54Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "f6f64ce8",
-          "title": "AI资讯更新：Velo 3.0",
-          "title_en": "Velo 3.0",
-          "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "c4228852",
+          "title": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/450896.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI video infrastructure to explain, train, and",
-          "summary_zh": "AI video infrastructure to explain, train, and",
-          "publishedAt": "2026-07-15T07:01:00Z",
-          "published_at": "2026-07-15T07:01:00Z",
-          "votes_count": 473,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
-            },
-            {
-              "id": "857",
-              "name": "Video",
-              "slug": "video"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/450896.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界  衡宇 2026-07-16 10:30:46  来源：量子位   后训练中真机数据需求骤降60%   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  代码Agent这两年为何进步飞快，成为AI界的宗门大师兄？ 因为这玩意儿自己个儿就超！闭！环！的！ 代码Agent可以自动执行、自动验证、自动反馈。写了代码跑一下就知道对不对，奖励信号非常清晰明确。 这给后训练（Post-training）阶段的自反馈闭环提供了完美条件。 同样是AI界大热门，具身智能目前就缺少这种“神助”。 它面对的物理世界比代码Agent面对的世界复杂多了，而且很难得到即刻验证。 它接收的信号不像代码那样有一个编译器就能判定，它们模糊、昂贵，而且每一次真机试错都意味着真金白银的人力和硬件损耗。    VLA（视觉-语言-动作模型）是具身智能中最早受到关注的技术路线。 但很快，大家发现这个技术存在物理理解缺失、泛化能力极弱、长时序与规划能力不足等等问题，做不到“一家独大”包打天下。 大家有点着急。后来，世界模型又成了行业里的新宠儿。 但世界模",
+          "summary_zh": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界  衡宇 2026-07-16 10:30:46  来源：量子位   后训练中真机数据需求骤降60%   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  代码Agent这两年为何进步飞快，成为AI界的宗门大师兄？ 因为这玩意儿自己个儿就超！闭！环！的！ 代码Agent可以自动执行、自动验证、自动反馈。写了代码跑一下就知道对不对，奖励信号非常清晰明确。 这给后训练（Post-training）阶段的自反馈闭环提供了完美条件。 同样是AI界大热门，具身智能目前就缺少这种“神助”。 它面对的物理世界比代码Agent面对的世界复杂多了，而且很难得到即刻验证。 它接收的信号不像代码那样有一个编译器就能判定，它们模糊、昂贵，而且每一次真机试错都意味着真金白银的人力和硬件损耗。    VLA（视觉-语言-动作模型）是具身智能中最早受到关注的技术路线。 但很快，大家发现这个技术存在物理理解缺失、泛化能力极弱、长时序与规划能力不足等等问题，做不到“一家独大”包打天下。 大家有点着急。后来，世界模型又成了行业里的新宠儿。 但世界模",
+          "publishedAt": "2026-07-16T02:30:46Z",
+          "published_at": "2026-07-16T02:30:46Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "42ea9c48",
-          "title": "AI资讯更新：V2Fun",
-          "title_en": "V2Fun",
-          "url": "https://www.producthunt.com/products/v2fun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "c5fdd49e",
+          "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
+          "title_en": null,
+          "url": "https://36kr.com/p/3896830362601351?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/v2fun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Generate 3D character with 8K textures and AI",
-          "summary_zh": "Generate 3D character with 8K textures and AI",
-          "publishedAt": "2026-07-15T07:01:00Z",
-          "published_at": "2026-07-15T07:01:00Z",
-          "votes_count": 396,
-          "featured": true,
-          "topics": [
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "803",
-              "name": "3D Modeling",
-              "slug": "3d-modeling"
-            },
-            {
-              "id": "811",
-              "name": "Animation",
-              "slug": "animation"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3896830362601351?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "文｜邓咏仪 编辑｜张雨忻 杨轩 《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。 就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备案。 公告显示，Apple智能、华为小艺AI大模型、OPPO Andes GPT、vivo蓝心端侧大模型、小米澎湃AI、三星盖乐世AI以及努比亚豆包手机大模型共7款服务完成备案。 大模型浪潮来临后，端侧AI一直处于技术探索和萌芽期。此次七款手机端侧AI同日获批，是业界的重要里程碑——端侧AI不再是概念演示，进入了规模化落地阶段。  △来源：网信中国 同日，阿里巴巴向媒体确认，阿里千问将作为AI能力集成至Apple智能，覆盖iOS、iPadOS、macOS和visionOS的国行设备，用户无需切换App即可在苹果设备上体验千问的文本与图像理解、内容生成等能力。此后，阿里股价应声上涨超过5%。 此前，国内手机厂商的端侧AI能力大多由自研模型支撑——华为有小艺、OPPO有AndesGPT、vivo有蓝心、小米有澎湃AI。而如",
+          "summary_zh": "文｜邓咏仪 编辑｜张雨忻 杨轩 《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。 就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备案。 公告显示，Apple智能、华为小艺AI大模型、OPPO Andes GPT、vivo蓝心端侧大模型、小米澎湃AI、三星盖乐世AI以及努比亚豆包手机大模型共7款服务完成备案。 大模型浪潮来临后，端侧AI一直处于技术探索和萌芽期。此次七款手机端侧AI同日获批，是业界的重要里程碑——端侧AI不再是概念演示，进入了规模化落地阶段。  △来源：网信中国 同日，阿里巴巴向媒体确认，阿里千问将作为AI能力集成至Apple智能，覆盖iOS、iPadOS、macOS和visionOS的国行设备，用户无需切换App即可在苹果设备上体验千问的文本与图像理解、内容生成等能力。此后，阿里股价应声上涨超过5%。 此前，国内手机厂商的端侧AI能力大多由自研模型支撑——华为有小艺、OPPO有AndesGPT、vivo有蓝心、小米有澎湃AI。而如",
+          "publishedAt": "2026-07-15T11:47:14Z",
+          "published_at": "2026-07-15T11:47:14Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "15f96d52",
-          "title": "产品更新：Campus",
-          "title_en": "Campus",
-          "url": "https://www.producthunt.com/products/flutterflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "ebea35ff",
+          "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+          "title_en": null,
+          "url": "https://36kr.com/p/3896563671222147?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/flutterflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "One project space for humans and AI agents Cam",
-          "summary_zh": "One project space for humans and AI agents Cam",
-          "publishedAt": "2026-07-15T07:01:00Z",
-          "published_at": "2026-07-15T07:01:00Z",
-          "votes_count": 377,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "247",
-              "name": "Software Engineering",
-              "slug": "software-engineering"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3896563671222147?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "大公司： 美团、青桔、哈啰共享单车调价 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 瓜子二手车线下直卖场首店今日正式开业 36氪获悉，瓜子二手车线下直卖场首店苏州直卖场今日正式开业。据介绍，瓜子此次重回线下，主打100%个人直卖车源。目前瓜子在沈阳、济南等同类型门店已同步启动，并推动全国落地中。 LG新能源将为谷歌规模最大的“光储一体”项目供应电池 据业内人士周三透露，韩国LG新能源���为谷歌规模最大的太阳能与储能项目供应电池，此举标志着该公司进一步拓展了与AI数据中心激增的电力需求相关的能源基础设施业务。谷歌与可再生能源开发商Cypress Creek Energy在阿肯色州联合公布了“钢铁河能源中心”项目。该项目初期将配置1.6吉瓦（GW）的太阳能发电能力与约2吉瓦时（GWh）的电池储能系统；到2029年，规模将扩大至2.5吉瓦太阳能发电和2.9",
+          "summary_zh": "大公司： 美团、青桔、哈啰共享单车调价 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 瓜子二手车线下直卖场首店今日正式开业 36氪获悉，瓜子二手车线下直卖场首店苏州直卖场今日正式开业。据介绍，瓜子此次重回线下，主打100%个人直卖车源。目前瓜子在沈阳、济南等同类型门店已同步启动，并推动全国落地中。 LG新能源将为谷歌规模最大的“光储一体”项目供应电池 据业内人士周三透露，韩国LG新能源���为谷歌规模最大的太阳能与储能项目供应电池，此举标志着该公司进一步拓展了与AI数据中心激增的电力需求相关的能源基础设施业务。谷歌与可再生能源开发商Cypress Creek Energy在阿肯色州联合公布了“钢铁河能源中心”项目。该项目初期将配置1.6吉瓦（GW）的太阳能发电能力与约2吉瓦时（GWh）的电池储能系统；到2029年，规模将扩大至2.5吉瓦太阳能发电和2.9",
+          "publishedAt": "2026-07-15T11:37:31Z",
+          "published_at": "2026-07-15T11:37:31Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
