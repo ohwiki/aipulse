@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-07-17T10:16:53Z",
-  "generatedAt": "2026-07-17T10:16:53Z",
-  "count": 66,
-  "total": 66,
+  "generated_at": "2026-07-17T21:12:55Z",
+  "generatedAt": "2026-07-17T21:12:55Z",
+  "count": 67,
+  "total": 67,
   "entries": [
+    {
+      "date": "2026-07-18",
+      "generated_at": "2026-07-17T21:12:55Z",
+      "generatedAt": "2026-07-17T21:12:55Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "b8592a69",
+          "title": "模型更新：Unabyss for Cla",
+          "title_en": "Unabyss for Claude",
+          "url": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Shared memory across all apps and LLMs. In Cla",
+          "summary_zh": "Shared memory across all apps and LLMs. In Cla",
+          "publishedAt": "2026-07-17T07:01:00Z",
+          "published_at": "2026-07-17T07:01:00Z",
+          "votes_count": 483,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "79169505",
+          "title": "产品更新：Pebbles Ai",
+          "title_en": "Pebbles Ai",
+          "url": "https://www.producthunt.com/products/pebbles-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pebbles-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI sales platform for modern B2B teams The onl",
+          "summary_zh": "AI sales platform for modern B2B teams The onl",
+          "publishedAt": "2026-07-17T07:01:00Z",
+          "published_at": "2026-07-17T07:01:00Z",
+          "votes_count": 373,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "128",
+              "name": "Email Marketing",
+              "slug": "email-marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "99cf7663",
+          "title": "产品更新：Kimi K3",
+          "title_en": "Kimi K3",
+          "url": "https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The world's first open 3T-class model Kimi K3",
+          "summary_zh": "The world's first open 3T-class model Kimi K3",
+          "publishedAt": "2026-07-17T07:01:00Z",
+          "published_at": "2026-07-17T07:01:00Z",
+          "votes_count": 321,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-17",
       "generated_at": "2026-07-17T10:16:53Z",

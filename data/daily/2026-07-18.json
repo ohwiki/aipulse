@@ -1,0 +1,493 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-17T21:12:55Z",
+  "generatedAt": "2026-07-17T21:12:55Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "b8592a69",
+          "title": "模型更新：Unabyss for Cla",
+          "title_en": "Unabyss for Claude",
+          "url": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Shared memory across all apps and LLMs. In Cla",
+          "summary_zh": "Shared memory across all apps and LLMs. In Cla",
+          "publishedAt": "2026-07-17T07:01:00Z",
+          "published_at": "2026-07-17T07:01:00Z",
+          "votes_count": 483,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "79169505",
+          "title": "产品更新：Pebbles Ai",
+          "title_en": "Pebbles Ai",
+          "url": "https://www.producthunt.com/products/pebbles-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pebbles-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI sales platform for modern B2B teams The onl",
+          "summary_zh": "AI sales platform for modern B2B teams The onl",
+          "publishedAt": "2026-07-17T07:01:00Z",
+          "published_at": "2026-07-17T07:01:00Z",
+          "votes_count": 373,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "128",
+              "name": "Email Marketing",
+              "slug": "email-marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "99cf7663",
+          "title": "产品更新：Kimi K3",
+          "title_en": "Kimi K3",
+          "url": "https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The world's first open 3T-class model Kimi K3",
+          "summary_zh": "The world's first open 3T-class model Kimi K3",
+          "publishedAt": "2026-07-17T07:01:00Z",
+          "published_at": "2026-07-17T07:01:00Z",
+          "votes_count": 321,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "41a0cc57",
+          "title": "产品更新：Timely",
+          "title_en": "Timely",
+          "url": "https://www.producthunt.com/products/timely-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/timely-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Pull your calendar availability in 3 seconds P",
+          "summary_zh": "Pull your calendar availability in 3 seconds P",
+          "publishedAt": "2026-07-17T07:01:00Z",
+          "published_at": "2026-07-17T07:01:00Z",
+          "votes_count": 161,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "256",
+              "name": "Calendar",
+              "slug": "calendar"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "328b6eab",
+          "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
+          "title_en": null,
+          "url": "https://36kr.com/p/3899057634363266?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3899057634363266?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "图源/企业  本文约2400字，建议阅读6分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，人形机器人ODM方案商半醒具身（BXI Robotics）于近期完成千万元级新一轮融资，投资方为A股上市公司索辰科技。本轮资金将主要用于下一代人形机器人研发及海外市场拓展。此前，半醒具身曾于2025年完成首轮机构融资，投资方为上市公司飞荣达。 半醒具身成立于2022年，但团队早在2020年便开始了人形机器人的研发工作。公司联合创始人兼CEO陈彦2003年毕业于东南大学计算机专业，在投身机器人创业前拥有多年二级市场量化交易经验；联合创始人刘福强本科毕业于西南科技大学，大学期间连续四年参加全国大学生机器人大赛并多次获奖。 公司专注于高动态双足人形机器人的全栈自研，是国内少数同时具备整机设计、核心电机、运动控制算法与场景软件交付能力的团队之一。目前，公司主要为品牌客户提供通用人形机器人ODM服务，方案涵盖白牌整机、关节电机模组、运动控制算法及应用软件开发等。  半醒具身相关产品展示（图源/企业） 选择ODM路线，源于半醒具身团队对市场需求的务实判断。公司创始人陈彦告诉36氪，人形机器人赛道火热之后，大量公司",
+          "summary_zh": "图源/企业  本文约2400字，建议阅读6分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，人形机器人ODM方案商半醒具身（BXI Robotics）于近期完成千万元级新一轮融资，投资方为A股上市公司索辰科技。本轮资金将主要用于下一代人形机器人研发及海外市场拓展。此前，半醒具身曾于2025年完成首轮机构融资，投资方为上市公司飞荣达。 半醒具身成立于2022年，但团队早在2020年便开始了人形机器人的研发工作。公司联合创始人兼CEO陈彦2003年毕业于东南大学计算机专业，在投身机器人创业前拥有多年二级市场量化交易经验；联合创始人刘福强本科毕业于西南科技大学，大学期间连续四年参加全国大学生机器人大赛并多次获奖。 公司专注于高动态双足人形机器人的全栈自研，是国内少数同时具备整机设计、核心电机、运动控制算法与场景软件交付能力的团队之一。目前，公司主要为品牌客户提供通用人形机器人ODM服务，方案涵盖白牌整机、关节电机模组、运动控制算法及应用软件开发等。  半醒具身相关产品展示（图源/企业） 选择ODM路线，源于半醒具身团队对市场需求的务实判断。公司创始人陈彦告诉36氪，人形机器人赛道火热之后，大量公司",
+          "publishedAt": "2026-07-17T01:26:47Z",
+          "published_at": "2026-07-17T01:26:47Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "6b37320f",
+          "title": "36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资",
+          "title_en": null,
+          "url": "https://36kr.com/p/3899081603483525?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3899081603483525?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能世界模型公司日冕开物（北京日冕机器人有限公司）近期完成连续两轮种子轮融资，融资合计金额达数亿元人民币，由鼎峰科创、远图未来、百度风投、沃衍资本、武岳峰科创、万林国际共同参与投资。同时，新一轮融资也在同步交割中。 此前融资资金主要用于自研世界模型 LaMPA 的研发迭代、强化学习体系建设，以及数据闭环和产品交付能力的持续完善。 日冕开物成立于2026年3月，聚焦物理世界基础模型研发，希望打造能够理解物理世界、预测环境变化并驱动机器人执行任务的基础模型，帮助机器人从单一场景能力，逐步迈向跨场景泛化。 日冕创始团队均为清华自动驾驶背景，主导过行业首批智驾世界模型研发落地以及首批具身强化学习与交付工作。创始人肖中阳博士，曾主导智驾行业首个复杂交互场景的世界模型交付，该模型已搭载超过70万辆蔚来汽车；团队基座模型负责人，“华为天才少年”钟元鑫博士，曾主导华为新一代智驾世界模型基模的设计与量产落地工作；模型后训练与交付负责人，蔚来Super Spark王云龙博士，曾在智元机器人负责大模型与真机强化学习算法研发工作，并推动了行业首批进厂打工项目落",
+          "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能世界模型公司日冕开物（北京日冕机器人有限公司）近期完成连续两轮种子轮融资，融资合计金额达数亿元人民币，由鼎峰科创、远图未来、百度风投、沃衍资本、武岳峰科创、万林国际共同参与投资。同时，新一轮融资也在同步交割中。 此前融资资金主要用于自研世界模型 LaMPA 的研发迭代、强化学习体系建设，以及数据闭环和产品交付能力的持续完善。 日冕开物成立于2026年3月，聚焦物理世界基础模型研发，希望打造能够理解物理世界、预测环境变化并驱动机器人执行任务的基础模型，帮助机器人从单一场景能力，逐步迈向跨场景泛化。 日冕创始团队均为清华自动驾驶背景，主导过行业首批智驾世界模型研发落地以及首批具身强化学习与交付工作。创始人肖中阳博士，曾主导智驾行业首个复杂交互场景的世界模型交付，该模型已搭载超过70万辆蔚来汽车；团队基座模型负责人，“华为天才少年”钟元鑫博士，曾主导华为新一代智驾世界模型基模的设计与量产落地工作；模型后训练与交付负责人，蔚来Super Spark王云龙博士，曾在智元机器人负责大模型与真机强化学习算法研发工作，并推动了行业首批进厂打工项目落",
+          "publishedAt": "2026-07-17T01:52:16Z",
+          "published_at": "2026-07-17T01:52:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "2e919c0b",
+          "title": "36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注",
+          "title_en": null,
+          "url": "https://36kr.com/p/3899128277452681?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3899128277452681?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。本轮融资资金将主要用于加速研发、团队扩充、算力投入及量产测试体系建设。 模感科技成立于2026年5月，总部注册于上海，在深圳前海设有研发中心，聚焦机器人全身多模态触觉感知系统研发。公司正式成立仅一个月便获得头部美元基金及人形厂商的共同押注。 随着人形机器人逐步从展示场景走向工业制造、物流搬运及家庭服务等真实复杂人物场景，机器人对环境的全面泛化感知能力正成为制约落地的重要瓶颈。相比视觉能够获取环境信息，触觉负责感知接触、受力、摩擦等物理交互状态，是机器人完成稳定操作和自主决策的重要基础。 不过，目前行业中的触觉方案大多集中部署于灵巧手或夹爪指尖指腹等局部位置，仅能应对局部精细操作需求。在复杂场景下，机器人身体其他部位仍然缺乏触觉反馈，难以形成完整的物理交互能力。同时，多种传统技术路线还受到成本、面积覆盖和感知模态等因素限制，难以实现大面积、连续曲面的规模化部署。 为增强机器人的全面感知能力，模感科技推出了基于电磁超构力",
+          "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。本轮融资资金将主要用于加速研发、团队扩充、算力投入及量产测试体系建设。 模感科技成立于2026年5月，总部注册于上海，在深圳前海设有研发中心，聚焦机器人全身多模态触觉感知系统研发。公司正式成立仅一个月便获得头部美元基金及人形厂商的共同押注。 随着人形机器人逐步从展示场景走向工业制造、物流搬运及家庭服务等真实复杂人物场景，机器人对环境的全面泛化感知能力正成为制约落地的重要瓶颈。相比视觉能够获取环境信息，触觉负责感知接触、受力、摩擦等物理交互状态，是机器人完成稳定操作和自主决策的重要基础。 不过，目前行业中的触觉方案大多集中部署于灵巧手或夹爪指尖指腹等局部位置，仅能应对局部精细操作需求。在复杂场景下，机器人身体其他部位仍然缺乏触觉反馈，难以形成完整的物理交互能力。同时，多种传统技术路线还受到成本、面积覆盖和感知模态等因素限制，难以实现大面积、连续曲面的规模化部署。 为增强机器人的全面感知能力，模感科技推出了基于电磁超构力",
+          "publishedAt": "2026-07-17T02:39:17Z",
+          "published_at": "2026-07-17T02:39:17Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "d8db80f2",
+          "title": "2026 WAIC商汤展区直击：“未",
+          "title_en": "2026 WAIC商汤展区直击：“未来实验室”火爆亮相，四大主题“感知未来”",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "2026 WAIC商汤展区直击：“未来实验室”火爆亮相，四大主题“感知未来”",
+          "summary_zh": "2026 WAIC商汤展区直击：“未来实验室”火爆亮相，四大主题“感知未来”",
+          "publishedAt": "2026-07-17T21:12:09Z",
+          "published_at": "2026-07-17T21:12:09Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "b8592a69",
+      "title": "模型更新：Unabyss for Cla",
+      "title_en": "Unabyss for Claude",
+      "url": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Shared memory across all apps and LLMs. In Cla",
+      "summary_zh": "Shared memory across all apps and LLMs. In Cla",
+      "publishedAt": "2026-07-17T07:01:00Z",
+      "published_at": "2026-07-17T07:01:00Z",
+      "votes_count": 483,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "79169505",
+      "title": "产品更新：Pebbles Ai",
+      "title_en": "Pebbles Ai",
+      "url": "https://www.producthunt.com/products/pebbles-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/pebbles-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI sales platform for modern B2B teams The onl",
+      "summary_zh": "AI sales platform for modern B2B teams The onl",
+      "publishedAt": "2026-07-17T07:01:00Z",
+      "published_at": "2026-07-17T07:01:00Z",
+      "votes_count": 373,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "128",
+          "name": "Email Marketing",
+          "slug": "email-marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "99cf7663",
+      "title": "产品更新：Kimi K3",
+      "title_en": "Kimi K3",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The world's first open 3T-class model Kimi K3",
+      "summary_zh": "The world's first open 3T-class model Kimi K3",
+      "publishedAt": "2026-07-17T07:01:00Z",
+      "published_at": "2026-07-17T07:01:00Z",
+      "votes_count": 321,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "41a0cc57",
+      "title": "产品更新：Timely",
+      "title_en": "Timely",
+      "url": "https://www.producthunt.com/products/timely-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/timely-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Pull your calendar availability in 3 seconds P",
+      "summary_zh": "Pull your calendar availability in 3 seconds P",
+      "publishedAt": "2026-07-17T07:01:00Z",
+      "published_at": "2026-07-17T07:01:00Z",
+      "votes_count": 161,
+      "featured": true,
+      "topics": [
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "256",
+          "name": "Calendar",
+          "slug": "calendar"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "328b6eab",
+      "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
+      "title_en": null,
+      "url": "https://36kr.com/p/3899057634363266?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3899057634363266?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "图源/企业  本文约2400字，建议阅读6分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，人形机器人ODM方案商半醒具身（BXI Robotics）于近期完成千万元级新一轮融资，投资方为A股上市公司索辰科技。本轮资金将主要用于下一代人形机器人研发及海外市场拓展。此前，半醒具身曾于2025年完成首轮机构融资，投资方为上市公司飞荣达。 半醒具身成立于2022年，但团队早在2020年便开始了人形机器人的研发工作。公司联合创始人兼CEO陈彦2003年毕业于东南大学计算机专业，在投身机器人创业前拥有多年二级市场量化交易经验；联合创始人刘福强本科毕业于西南科技大学，大学期间连续四年参加全国大学生机器人大赛并多次获奖。 公司专注于高动态双足人形机器人的全栈自研，是国内少数同时具备整机设计、核心电机、运动控制算法与场景软件交付能力的团队之一。目前，公司主要为品牌客户提供通用人形机器人ODM服务，方案涵盖白牌整机、关节电机模组、运动控制算法及应用软件开发等。  半醒具身相关产品展示（图源/企业） 选择ODM路线，源于半醒具身团队对市场需求的务实判断。公司创始人陈彦告诉36氪，人形机器人赛道火热之后，大量公司",
+      "summary_zh": "图源/企业  本文约2400字，建议阅读6分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，人形机器人ODM方案商半醒具身（BXI Robotics）于近期完成千万元级新一轮融资，投资方为A股上市公司索辰科技。本轮资金将主要用于下一代人形机器人研发及海外市场拓展。此前，半醒具身曾于2025年完成首轮机构融资，投资方为上市公司飞荣达。 半醒具身成立于2022年，但团队早在2020年便开始了人形机器人的研发工作。公司联合创始人兼CEO陈彦2003年毕业于东南大学计算机专业，在投身机器人创业前拥有多年二级市场量化交易经验；联合创始人刘福强本科毕业于西南科技大学，大学期间连续四年参加全国大学生机器人大赛并多次获奖。 公司专注于高动态双足人形机器人的全栈自研，是国内少数同时具备整机设计、核心电机、运动控制算法与场景软件交付能力的团队之一。目前，公司主要为品牌客户提供通用人形机器人ODM服务，方案涵盖白牌整机、关节电机模组、运动控制算法及应用软件开发等。  半醒具身相关产品展示（图源/企业） 选择ODM路线，源于半醒具身团队对市场需求的务实判断。公司创始人陈彦告诉36氪，人形机器人赛道火热之后，大量公司",
+      "publishedAt": "2026-07-17T01:26:47Z",
+      "published_at": "2026-07-17T01:26:47Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "6b37320f",
+      "title": "36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资",
+      "title_en": null,
+      "url": "https://36kr.com/p/3899081603483525?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3899081603483525?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能世界模型公司日冕开物（北京日冕机器人有限公司）近期完成连续两轮种子轮融资，融资合计金额达数亿元人民币，由鼎峰科创、远图未来、百度风投、沃衍资本、武岳峰科创、万林国际共同参与投资。同时，新一轮融资也在同步交割中。 此前融资资金主要用于自研世界模型 LaMPA 的研发迭代、强化学习体系建设，以及数据闭环和产品交付能力的持续完善。 日冕开物成立于2026年3月，聚焦物理世界基础模型研发，希望打造能够理解物理世界、预测环境变化并驱动机器人执行任务的基础模型，帮助机器人从单一场景能力，逐步迈向跨场景泛化。 日冕创始团队均为清华自动驾驶背景，主导过行业首批智驾世界模型研发落地以及首批具身强化学习与交付工作。创始人肖中阳博士，曾主导智驾行业首个复杂交互场景的世界模型交付，该模型已搭载超过70万辆蔚来汽车；团队基座模型负责人，“华为天才少年”钟元鑫博士，曾主导华为新一代智驾世界模型基模的设计与量产落地工作；模型后训练与交付负责人，蔚来Super Spark王云龙博士，曾在智元机器人负责大模型与真机强化学习算法研发工作，并推动了行业首批进厂打工项目落",
+      "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能世界模型公司日冕开物（北京日冕机器人有限公司）近期完成连续两轮种子轮融资，融资合计金额达数亿元人民币，由鼎峰科创、远图未来、百度风投、沃衍资本、武岳峰科创、万林国际共同参与投资。同时，新一轮融资也在同步交割中。 此前融资资金主要用于自研世界模型 LaMPA 的研发迭代、强化学习体系建设，以及数据闭环和产品交付能力的持续完善。 日冕开物成立于2026年3月，聚焦物理世界基础模型研发，希望打造能够理解物理世界、预测环境变化并驱动机器人执行任务的基础模型，帮助机器人从单一场景能力，逐步迈向跨场景泛化。 日冕创始团队均为清华自动驾驶背景，主导过行业首批智驾世界模型研发落地以及首批具身强化学习与交付工作。创始人肖中阳博士，曾主导智驾行业首个复杂交互场景的世界模型交付，该模型已搭载超过70万辆蔚来汽车；团队基座模型负责人，“华为天才少年”钟元鑫博士，曾主导华为新一代智驾世界模型基模的设计与量产落地工作；模型后训练与交付负责人，蔚来Super Spark王云龙博士，曾在智元机器人负责大模型与真机强化学习算法研发工作，并推动了行业首批进厂打工项目落",
+      "publishedAt": "2026-07-17T01:52:16Z",
+      "published_at": "2026-07-17T01:52:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "2e919c0b",
+      "title": "36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注",
+      "title_en": null,
+      "url": "https://36kr.com/p/3899128277452681?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3899128277452681?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。本轮融资资金将主要用于加速研发、团队扩充、算力投入及量产测试体系建设。 模感科技成立于2026年5月，总部注册于上海，在深圳前海设有研发中心，聚焦机器人全身多模态触觉感知系统研发。公司正式成立仅一个月便获得头部美元基金及人形厂商的共同押注。 随着人形机器人逐步从展示场景走向工业制造、物流搬运及家庭服务等真实复杂人物场景，机器人对环境的全面泛化感知能力正成为制约落地的重要瓶颈。相比视觉能够获取环境信息，触觉负责感知接触、受力、摩擦等物理交互状态，是机器人完成稳定操作和自主决策的重要基础。 不过，目前行业中的触觉方案大多集中部署于灵巧手或夹爪指尖指腹等局部位置，仅能应对局部精细操作需求。在复杂场景下，机器人身体其他部位仍然缺乏触觉反馈，难以形成完整的物理交互能力。同时，多种传统技术路线还受到成本、面积覆盖和感知模态等因素限制，难以实现大面积、连续曲面的规模化部署。 为增强机器人的全面感知能力，模感科技推出了基于电磁超构力",
+      "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。本轮融资资金将主要用于加速研发、团队扩充、算力投入及量产测试体系建设。 模感科技成立于2026年5月，总部注册于上海，在深圳前海设有研发中心，聚焦机器人全身多模态触觉感知系统研发。公司正式成立仅一个月便获得头部美元基金及人形厂商的共同押注。 随着人形机器人逐步从展示场景走向工业制造、物流搬运及家庭服务等真实复杂人物场景，机器人对环境的全面泛化感知能力正成为制约落地的重要瓶颈。相比视觉能够获取环境信息，触觉负责感知接触、受力、摩擦等物理交互状态，是机器人完成稳定操作和自主决策的重要基础。 不过，目前行业中的触觉方案大多集中部署于灵巧手或夹爪指尖指腹等局部位置，仅能应对局部精细操作需求。在复杂场景下，机器人身体其他部位仍然缺乏触觉反馈，难以形成完整的物理交互能力。同时，多种传统技术路线还受到成本、面积覆盖和感知模态等因素限制，难以实现大面积、连续曲面的规模化部署。 为增强机器人的全面感知能力，模感科技推出了基于电磁超构力",
+      "publishedAt": "2026-07-17T02:39:17Z",
+      "published_at": "2026-07-17T02:39:17Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "d8db80f2",
+      "title": "2026 WAIC商汤展区直击：“未",
+      "title_en": "2026 WAIC商汤展区直击：“未来实验室”火爆亮相，四大主题“感知未来”",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "2026 WAIC商汤展区直击：“未来实验室”火爆亮相，四大主题“感知未来”",
+      "summary_zh": "2026 WAIC商汤展区直击：“未来实验室”火爆亮相，四大主题“感知未来”",
+      "publishedAt": "2026-07-17T21:12:09Z",
+      "published_at": "2026-07-17T21:12:09Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
