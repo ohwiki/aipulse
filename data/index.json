@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-07-18T09:54:55Z",
-  "generatedAt": "2026-07-18T09:54:55Z",
-  "count": 67,
-  "total": 67,
+  "generated_at": "2026-07-18T21:11:02Z",
+  "generatedAt": "2026-07-18T21:11:02Z",
+  "count": 68,
+  "total": 68,
   "entries": [
+    {
+      "date": "2026-07-19",
+      "generated_at": "2026-07-18T21:11:02Z",
+      "generatedAt": "2026-07-18T21:11:02Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "124d10ae",
+          "title": "产品更新：Clark",
+          "title_en": "Clark",
+          "url": "https://www.producthunt.com/products/clark-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/clark-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "An AI coworker with its own cloud computer Cla",
+          "summary_zh": "An AI coworker with its own cloud computer Cla",
+          "publishedAt": "2026-07-18T07:01:00Z",
+          "published_at": "2026-07-18T07:01:00Z",
+          "votes_count": 431,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3388c36d",
+          "title": "产品更新：LiveDemo",
+          "title_en": "LiveDemo",
+          "url": "https://www.producthunt.com/products/livedemo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/livedemo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Open-source alternative to Storylane, Navattic",
+          "summary_zh": "Open-source alternative to Storylane, Navattic",
+          "publishedAt": "2026-07-18T07:01:00Z",
+          "published_at": "2026-07-18T07:01:00Z",
+          "votes_count": 261,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cbcadefe",
+          "title": "AI资讯更新：Mirage",
+          "title_en": "Mirage",
+          "url": "https://www.producthunt.com/products/mirage-15?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/mirage-15?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turn your SaaS into a clickable demo in 90 sec",
+          "summary_zh": "Turn your SaaS into a clickable demo in 90 sec",
+          "publishedAt": "2026-07-18T07:01:00Z",
+          "published_at": "2026-07-18T07:01:00Z",
+          "votes_count": 195,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-18",
       "generated_at": "2026-07-18T09:54:55Z",
