@@ -1,133 +1,80 @@
 {
-  "generated_at": "2026-07-18T21:11:02Z",
-  "generatedAt": "2026-07-18T21:11:02Z",
+  "generated_at": "2026-07-19T10:06:25Z",
+  "generatedAt": "2026-07-19T10:06:25Z",
   "count": 68,
   "total": 68,
   "entries": [
     {
       "date": "2026-07-19",
-      "generated_at": "2026-07-18T21:11:02Z",
-      "generatedAt": "2026-07-18T21:11:02Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-07-19T10:06:25Z",
+      "generatedAt": "2026-07-19T10:06:25Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "124d10ae",
-          "title": "产品更新：Clark",
-          "title_en": "Clark",
-          "url": "https://www.producthunt.com/products/clark-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "df8d11ee",
+          "title": "WAIC 2026“镇馆之宝”STEPX Neo亮相，引领人机交互新范式",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/454165.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/clark-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "An AI coworker with its own cloud computer Cla",
-          "summary_zh": "An AI coworker with its own cloud computer Cla",
-          "publishedAt": "2026-07-18T07:01:00Z",
-          "published_at": "2026-07-18T07:01:00Z",
-          "votes_count": 431,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/454165.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "WAIC 2026“镇馆之宝”STEPX Neo亮相，引领人机交互新范式  量子位的朋友们 2026-07-19 13:38:26  来源：量子位   7月17日，2026世界人工智能大会（WAIC）在上海正式拉开帷幕。开幕首日，全球首个大模型原生AI终端品牌STEPX携自主研发的首款AI终端、大模型原生智能体手机STEPX Neo亮相阶跃展台，现场展示原生AI终端在本地生活服务、移动高效办公、一站式出行等全场景下的智能生态服务能力，勾勒出智能体终端的未来发展图景。 目前，STEPX Neo已经通过首批《人工智能终端智能化分级》系列国家标准L3级别测试，这也是当前开放测试的最高级别。STEPX Neo作为首批获得L3级证书的移动终端设备，成为AI终端智能化水平的国家级标杆。同时，凭借领先的技术实力，STEPX Neo从众多AI前沿创新成果中脱颖而出，斩获WAIC 2026“镇馆之宝”荣誉。  作为一款具备行业里程碑意义的AI创新终端，STEPX Neo搭载全球首个智能体原生操作系统Step AOS（Agentic-native OS），内置阶跃新一代个人智能体阶跃Amoo，将大模型原生",
+          "summary_zh": "WAIC 2026“镇馆之宝”STEPX Neo亮相，引领人机交互新范式  量子位的朋友们 2026-07-19 13:38:26  来源：量子位   7月17日，2026世界人工智能大会（WAIC）在上海正式拉开帷幕。开幕首日，全球首个大模型原生AI终端品牌STEPX携自主研发的首款AI终端、大模型原生智能体手机STEPX Neo亮相阶跃展台，现场展示原生AI终端在本地生活服务、移动高效办公、一站式出行等全场景下的智能生态服务能力，勾勒出智能体终端的未来发展图景。 目前，STEPX Neo已经通过首批《人工智能终端智能化分级》系列国家标准L3级别测试，这也是当前开放测试的最高级别。STEPX Neo作为首批获得L3级证书的移动终端设备，成为AI终端智能化水平的国家级标杆。同时，凭借领先的技术实力，STEPX Neo从众多AI前沿创新成果中脱颖而出，斩获WAIC 2026“镇馆之宝”荣誉。  作为一款具备行业里程碑意义的AI创新终端，STEPX Neo搭载全球首个智能体原生操作系统Step AOS（Agentic-native OS），内置阶跃新一代个人智能体阶跃Amoo，将大模型原生",
+          "publishedAt": "2026-07-19T05:38:26Z",
+          "published_at": "2026-07-19T05:38:26Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "3388c36d",
-          "title": "产品更新：LiveDemo",
-          "title_en": "LiveDemo",
-          "url": "https://www.producthunt.com/products/livedemo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "2eea89b7",
+          "title": "一目科技完成超10亿元E���融资 估值过百亿元",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3902093496813441?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/livedemo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Open-source alternative to Storylane, Navattic",
-          "summary_zh": "Open-source alternative to Storylane, Navattic",
-          "publishedAt": "2026-07-18T07:01:00Z",
-          "published_at": "2026-07-18T07:01:00Z",
-          "votes_count": 261,
-          "featured": true,
-          "topics": [
-            {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
-            },
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3902093496813441?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "36氪获悉，7月18日晚间，一目科技宣布完成超10亿元E轮融资，估值突破100亿元。据悉，本轮融资由多家一线人民币基金、头部美元基金和知名产业方联合参与，所融资金将用于具身智能触觉感知材料、芯片、算法和模型的研发，以及产线订单的规模化量产和高质量交付。",
+          "summary_zh": "36氪获悉，7月18日晚间，一目科技宣布完成超10亿元E轮融资，估值突破100亿元。据悉，本轮融资由多家一线人民币基金、头部美元基金和知名产业方联合参与，所融资金将用于具身智能触觉感知材料、芯片、算法和模型的研发，以及产线订单的规模化量产和高质量交付。",
+          "publishedAt": "2026-07-19T05:15:39Z",
+          "published_at": "2026-07-19T05:15:39Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "cbcadefe",
-          "title": "AI资讯更新：Mirage",
-          "title_en": "Mirage",
-          "url": "https://www.producthunt.com/products/mirage-15?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "faae44e0",
+          "title": "“人工智能+防震减灾”行动方案发布",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3902090005743493?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/mirage-15?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Turn your SaaS into a clickable demo in 90 sec",
-          "summary_zh": "Turn your SaaS into a clickable demo in 90 sec",
-          "publishedAt": "2026-07-18T07:01:00Z",
-          "published_at": "2026-07-18T07:01:00Z",
-          "votes_count": 195,
-          "featured": true,
-          "topics": [
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3902090005743493?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "7月19日，2026世界人工智能大会——地震人工智能论坛在上海召开。会议聚焦人工智能与防震减灾深度融合发展，集中展示了人工智能技术在防震减灾领域的最新科研成果和实际应用。中国地震局在论坛上发布《“人工智能+防震减灾”行动方案（2026—2028年）》。未来3年，将围绕地震智能监测处理系统、智能化地震预警技术研发与示范应用等九方面任务，构建起“数据—模型—平台—应用”四位一体的人工智能技术体系，进一步夯实数据基础、突破核心技术、打造“AI+地震”系列支撑平台。到2028年，实现人工智能技术对防震减灾业务的有效支撑，进一步巩固我国在防震减灾人工智能领域的先发优势。（央视新闻）",
+          "summary_zh": "7月19日，2026世界人工智能大会——地震人工智能论坛在上海召开。会议聚焦人工智能与防震减灾深度融合发展，集中展示了人工智能技术在防震减灾领域的最新科研成果和实际应用。中国地震局在论坛上发布《“人工智能+防震减灾”行动方案（2026—2028年）》。未来3年，将围绕地震智能监测处理系统、智能化地震预警技术研发与示范应用等九方面任务，构建起“数据—模型—平台—应用”四位一体的人工智能技术体系，进一步夯实数据基础、突破核心技术、打造“AI+地震”系列支撑平台。到2028年，实现人工智能技术对防震减灾业务的有效支撑，进一步巩固我国在防震减灾人工智能领域的先发优势。（央视新闻）",
+          "publishedAt": "2026-07-19T05:00:07Z",
+          "published_at": "2026-07-19T05:00:07Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
