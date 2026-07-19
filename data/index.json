@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-19T10:06:25Z",
-  "generatedAt": "2026-07-19T10:06:25Z",
-  "count": 68,
-  "total": 68,
+  "generated_at": "2026-07-19T21:12:11Z",
+  "generatedAt": "2026-07-19T21:12:11Z",
+  "count": 69,
+  "total": 69,
   "entries": [
+    {
+      "date": "2026-07-20",
+      "generated_at": "2026-07-19T21:12:11Z",
+      "generatedAt": "2026-07-19T21:12:11Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "b0737ae7",
+          "title": "产品更新：OpenSEO",
+          "title_en": "OpenSEO",
+          "url": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The open source Ahrefs alternative Without goo",
+          "summary_zh": "The open source Ahrefs alternative Without goo",
+          "publishedAt": "2026-07-19T07:01:00Z",
+          "published_at": "2026-07-19T07:01:00Z",
+          "votes_count": 494,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c1aa1a81",
+          "title": "产品更新：Spycost",
+          "title_en": "Spycost",
+          "url": "https://www.producthunt.com/products/spycost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/spycost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Fell for a discount again? Remember the last t",
+          "summary_zh": "Fell for a discount again? Remember the last t",
+          "publishedAt": "2026-07-19T07:01:00Z",
+          "published_at": "2026-07-19T07:01:00Z",
+          "votes_count": 256,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "611",
+              "name": "Finance",
+              "slug": "finance"
+            },
+            {
+              "id": "713",
+              "name": "Shopping",
+              "slug": "shopping"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "0433aa9d",
+          "title": "模型更新：BaseRT",
+          "title_en": "BaseRT",
+          "url": "https://www.producthunt.com/products/basert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/basert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "6.4x faster than llama.cpp, 3.9x faster than M",
+          "summary_zh": "6.4x faster than llama.cpp, 3.9x faster than M",
+          "publishedAt": "2026-07-19T07:01:00Z",
+          "published_at": "2026-07-19T07:01:00Z",
+          "votes_count": 186,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "362",
+              "name": "Apple",
+              "slug": "apple"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-19",
       "generated_at": "2026-07-19T10:06:25Z",
