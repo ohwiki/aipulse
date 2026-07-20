@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-19T21:12:11Z",
-  "generatedAt": "2026-07-19T21:12:11Z",
+  "generated_at": "2026-07-20T11:21:04Z",
+  "generatedAt": "2026-07-20T11:21:04Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -10,29 +10,29 @@
       "label": "产品发布/更新",
       "items": [
         {
-          "id": "b0737ae7",
-          "title": "产品更新：OpenSEO",
-          "title_en": "OpenSEO",
-          "url": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "a6eabd39",
+          "title": "产品更新：Fuzzy AI",
+          "title_en": "Fuzzy AI",
+          "url": "https://www.producthunt.com/products/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "The open source Ahrefs alternative Without goo",
-          "summary_zh": "The open source Ahrefs alternative Without goo",
-          "publishedAt": "2026-07-19T07:01:00Z",
-          "published_at": "2026-07-19T07:01:00Z",
-          "votes_count": 494,
+          "summary": "We warm your prospects before reaching out Col",
+          "summary_zh": "We warm your prospects before reaching out Col",
+          "publishedAt": "2026-07-20T07:01:00Z",
+          "published_at": "2026-07-20T07:01:00Z",
+          "votes_count": 272,
           "featured": true,
           "topics": [
             {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
             },
             {
               "id": "164",
@@ -40,107 +40,41 @@
               "slug": "marketing"
             },
             {
-              "id": "231",
-              "name": "SEO",
-              "slug": "seo"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "c1aa1a81",
-          "title": "产品更新：Spycost",
-          "title_en": "Spycost",
-          "url": "https://www.producthunt.com/products/spycost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/spycost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Fell for a discount again? Remember the last t",
-          "summary_zh": "Fell for a discount again? Remember the last t",
-          "publishedAt": "2026-07-19T07:01:00Z",
-          "published_at": "2026-07-19T07:01:00Z",
-          "votes_count": 256,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "611",
-              "name": "Finance",
-              "slug": "finance"
-            },
-            {
-              "id": "713",
-              "name": "Shopping",
-              "slug": "shopping"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "0433aa9d",
-          "title": "模型更新：BaseRT",
-          "title_en": "BaseRT",
-          "url": "https://www.producthunt.com/products/basert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/basert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "6.4x faster than llama.cpp, 3.9x faster than M",
-          "summary_zh": "6.4x faster than llama.cpp, 3.9x faster than M",
-          "publishedAt": "2026-07-19T07:01:00Z",
-          "published_at": "2026-07-19T07:01:00Z",
-          "votes_count": 186,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
             },
             {
-              "id": "362",
-              "name": "Apple",
-              "slug": "apple"
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            },
+            {
+              "id": "1491",
+              "name": "OpenAI Day",
+              "slug": "openai-day"
             }
           ],
           "score_details": null
         },
         {
-          "id": "0f1458c1",
-          "title": "产品更新：Rewisp",
-          "title_en": "Rewisp",
-          "url": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "4288de64",
+          "title": "产品更新：Nautis",
+          "title_en": "Nautis",
+          "url": "https://www.producthunt.com/products/nautis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/nautis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "See it once. Ask forever. Rewisp gives your Ma",
-          "summary_zh": "See it once. Ask forever. Rewisp gives your Ma",
-          "publishedAt": "2026-07-19T07:01:00Z",
-          "published_at": "2026-07-19T07:01:00Z",
-          "votes_count": 148,
+          "summary": "The AI-native Operating System for founders. N",
+          "summary_zh": "The AI-native Operating System for founders. N",
+          "publishedAt": "2026-07-20T07:01:00Z",
+          "published_at": "2026-07-20T07:01:00Z",
+          "votes_count": 237,
           "featured": true,
           "topics": [
             {
@@ -149,19 +83,90 @@
               "slug": "productivity"
             },
             {
-              "id": "93",
-              "name": "User Experience",
-              "slug": "user-experience"
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
             },
             {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2bf138ce",
+          "title": "产品更新：Replay QA",
+          "title_en": "Replay QA",
+          "url": "https://www.producthunt.com/products/replayio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/replayio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Replay QA tells you what is broken before your",
+          "summary_zh": "Replay QA tells you what is broken before your",
+          "publishedAt": "2026-07-20T07:01:00Z",
+          "published_at": "2026-07-20T07:01:00Z",
+          "votes_count": 165,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
             },
             {
-              "id": "303",
-              "name": "Menu Bar Apps",
-              "slug": "menu-bar-apps"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "681f6751",
+          "title": "产品更新：Loova Ads Studi",
+          "title_en": "Loova Ads Studio",
+          "url": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Create AI ads that convert, not just look good",
+          "summary_zh": "Create AI ads that convert, not just look good",
+          "publishedAt": "2026-07-20T07:01:00Z",
+          "published_at": "2026-07-20T07:01:00Z",
+          "votes_count": 140,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
@@ -173,88 +178,88 @@
       "label": "中文媒体精选",
       "items": [
         {
-          "id": "faae44e0",
-          "title": "“人工智能+防震减灾”行动方案发布",
+          "id": "58ff9303",
+          "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
           "title_en": null,
-          "url": "https://36kr.com/newsflashes/3902090005743493?f=rss",
+          "url": "https://36kr.com/p/3901396207584902?f=rss",
           "source": "36氪",
           "source_type": null,
           "sourceName": "36氪",
-          "sourceUrl": "https://36kr.com/newsflashes/3902090005743493?f=rss",
+          "sourceUrl": "https://36kr.com/p/3901396207584902?f=rss",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "7月19日，2026世界人工智能大会——地震人工智能论坛在上海召开。会议聚焦人工智能与防震减灾深度融合发展，集中展示了人工智能技术在防震减灾领域的最新科研成果和实际应用。中国地震局在论坛上发布《“人工智能+防震减灾”行动方案（2026—2028年）》。未来3年，将围绕地震智能监测处理系统、智能化地震预警技术研发与示范应用等九方面任务，构建起“数据—模型—平台—应用”四位一体的人工智能技术体系，进一步夯实数据基础、突破核心技术、打造“AI+地震”系列支撑平台。到2028年，实现人工智能技术对防震减灾业务的有效支撑，进一步巩固我国在防震��灾人工智能领域的先发优势。（央视新闻）",
-          "summary_zh": "7月19日，2026世界人工智能大会——地震人工智能论坛在上海召开。会议聚焦人工智能与防震减灾深度融合发展，集中展示了人工智能技术在防震减灾领域的最新科研成果和实际应用。中国地震局在论坛上发布《“人工智能+防震减灾”行动方案（2026—2028年）》。未来3年，将围绕地震智能监测处理系统、智能化地震预警技术研发与示范应用等九方面任务，构建起“数据—模型—平台—应用”四位一体的人工智能技术体系，进一步夯实数据基础、突破核心技术、打造“AI+地震”系列支撑平台。到2028年，实现人工智能技术对防震减灾业务的有效支撑，进一步巩固我国在防震��灾人工智能领域的先发优势。（央视新闻）",
-          "publishedAt": "2026-07-19T05:00:07Z",
-          "published_at": "2026-07-19T05:00:07Z",
+          "summary": "腾讯云的企业级智能体平台，正式出海了。 7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。 ADP 的全称是 Agent Development Platform，定位为企业级 AgentOps 平台，覆盖智能体的构建、分发和治理全生命周期。 简单来说，它解决的是企业智能体从建立、运行到管理的问题。  智能体开发平台 ADP 4.0海外版 这次企业级智能体海外版的核心升级集中在四个方面：一是渠道，Claw 应用支持 LINE、Telegram 等主流海外社交渠道，一站发布即可跨区域触达全球用户； 而在交互体验上，智能工作台支持自定义时区与多区域调度，模型输出可跟随用户输入语言自动响应； 在开放生态上，模型广场已经接入多家国际主流大模型，平台 Skill 完成国际化适配；并且，平台深度接入 Google Workspace、Confluence、Jira 等海外主流 SaaS 应用。 ADP 4.0的一个关键能力升级是 Ag",
+          "summary_zh": "腾讯云的企业级智能体平台，正式出海了。 7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。 ADP 的全称是 Agent Development Platform，定位为企业级 AgentOps 平台，覆盖智能体的构建、分发和治理全生命周期。 简单来说，它解决的是企业智能体从建立、运行到管理的问题。  智能体开发平台 ADP 4.0海外版 这次企业级智能体海外版的核心升级集中在四个方面：一是渠道，Claw 应用支持 LINE、Telegram 等主流海外社交渠道，一站发布即可跨区域触达全球用户； 而在交互体验上，智能工作台支持自定义时区与多区域调度，模型输出可跟随用户输入语言自动响应； 在开放生态上，模型广场已经接入多家国际主流大模型，平台 Skill 完成国际化适配；并且，平台深度接入 Google Workspace、Confluence、Jira 等海外主流 SaaS 应用。 ADP 4.0的一个关键能力升级是 Ag",
+          "publishedAt": "2026-07-20T01:30:27Z",
+          "published_at": "2026-07-20T01:30:27Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "2eea89b7",
-          "title": "一目科技完成超10亿元E轮融资 估值过百亿元",
+          "id": "b81a7f77",
+          "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
           "title_en": null,
-          "url": "https://36kr.com/newsflashes/3902093496813441?f=rss",
+          "url": "https://36kr.com/p/3903365398185857?f=rss",
           "source": "36氪",
           "source_type": null,
           "sourceName": "36氪",
-          "sourceUrl": "https://36kr.com/newsflashes/3902093496813441?f=rss",
+          "sourceUrl": "https://36kr.com/p/3903365398185857?f=rss",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "36氪获悉，7月18日晚间，一目科技宣布完成超10亿元E轮融资，估值突破100亿元。据悉，本轮融资由多家一线人民币基金、头部美元基金和知名产业方联合参与，所融资金将用于具身智能触觉感知材料、芯片、算法和模型的研发，以及产线订单的规模化量产和高质量交付。",
-          "summary_zh": "36氪获悉，7月18日晚间，一目科技宣布完成超10亿元E轮融资，估值突破100亿元。据悉，本轮融资由多家一线人民币基金、头部美元基金和知名产业方联合参与，所融资金将用于具身智能触觉感知材料、芯片、算法和模型的研发，以及产线订单的规模化量产和高质量交付。",
-          "publishedAt": "2026-07-19T05:15:39Z",
-          "published_at": "2026-07-19T05:15:39Z",
+          "summary": "文 | 阿至 封面来源｜Pexels 中国低轨卫星星座的规模化部署已经进入关键时间窗口。 一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。 当“上天”这件事的成本有望迅速下降，产业链的注意力也在从“怎么把卫星打上去”转向一个更务实的问题：卫星组网之后，要给谁用、怎么用？ 这个问题目前还没有标准答案，但市场上不乏想要给出解法的玩家。 一家成立不到半年、聚焦“无人系统通算融合”的初创企业「星联天枢」，近日正式宣布完成数千万元天使轮融资，这也是星联天枢完成的首轮融资。 简单来说，星联天枢的核心业务是让无人机、无人车、无人船等无人系统，通过一套极轻的卫星通信终端直连卫星，并将采集到的数据在卫星上完成AI处理与决策，再把结果回传地面——这套“地数天算”的模式，不是单纯的卖设备，而是要把通信和算力打包，面向无人系统提供通算一体的服务解决方案。 这也是一个信号。它意味着，在中国低轨星座从试验验证走向规模化商用的过渡期里，产业链条上的创业者们已经开始深入更具体的应用场景，去",
+          "summary_zh": "文 | 阿至 封面来源｜Pexels 中国低轨卫星星座的规模化部署已经进入关键时间窗口。 一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。 当“上天”这件事的成本有望迅速下降，产业链的注意力也在从“怎么把卫星打上去”转向一个更务实的问题：卫星组网之后，要给谁用、怎么用？ 这个问题目前还没有标准答案，但市场上不乏想要给出解法的玩家。 一家成立不到半年、聚焦“无人系统通算融合”的初创企业「星联天枢」，近日正式宣布完成数千万元天使轮融资，这也是星联天枢完成的首轮融资。 简单来说，星联天枢的核心业务是让无人机、无人车、无人船等无人系统，通过一套极轻的卫星通信终端直连卫星，并将采集到的数据在卫星上完成AI处理与决策，再把结果回传地面——这套“地数天算”的模式，不是单纯的卖设备，而是要把通信和算力打包，面向无人系统提供通算一体的服务解决方案。 这也是一个信号。它意味着，在中国低轨星座从试验验证走向规模化商用的过渡期里，产业链条上的创业者们已经开始深入更具体的应用场景，去",
+          "publishedAt": "2026-07-20T02:30:06Z",
+          "published_at": "2026-07-20T02:30:06Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "8928097b",
-          "title": "商汤科技旗舰级SenseNova U1 Pro正式发布",
+          "id": "8c14075b",
+          "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
           "title_en": null,
-          "url": "https://36kr.com/newsflashes/3902187700766593?f=rss",
+          "url": "https://36kr.com/p/3903383663478403?f=rss",
           "source": "36氪",
           "source_type": null,
           "sourceName": "36氪",
-          "sourceUrl": "https://36kr.com/newsflashes/3902187700766593?f=rss",
+          "sourceUrl": "https://36kr.com/p/3903383663478403?f=rss",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "36氪获悉，7月18日，商汤科技正式发布旗舰级大模型SenseNova U1 Pro（以下简称U1 Pro）。U1 Pro定位为面向长程任务的交付级原生多模态智能体基座，实现理解、生成和行动的深度统一。在原生统一架构的基础上，通过在视觉创作领域的深度迭代，U1 Pro已具备“交付级”复杂图片创作能力。",
-          "summary_zh": "36氪获悉，7月18日，商汤科技正式发布旗舰级大模型SenseNova U1 Pro（以下简称U1 Pro）。U1 Pro定位为面向长程任务的交付级原生多模态智能体基座，实现理解、生成和行动的深度统一。在原生统一架构的基础上，通过在视觉创作领域的深度迭代，U1 Pro已具备“交付级”复杂图片创作能力。",
-          "publishedAt": "2026-07-19T06:30:36Z",
-          "published_at": "2026-07-19T06:30:36Z",
+          "summary": "7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。   过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智能体、具身智能、空间智能、AI基础设施等方向不断演进，行业开始更频繁地追问：AI如何进入真实流程，如何完成复杂任务，又如何在产业场景中形成可持续价值。 这种变化背后，是AI竞争维度的继续扩展：模型能力仍是基础，但企业真正要面对的，已经包括数据质量、工程系统、场景理解、交付能力和商业闭环等更复杂的问题。智能体需要从工具调用走向任务协同，机器人需要在真实场景中完成稳定作业，AI视频和空间智能正在改变内容生产与三维世界理解，算力、连接和云服务也在支撑更大规模的应用落地。模型能力仍是起点，但不再是全部答案。 这也让今年的WAIC有了更清晰的观察价值：当AI从技术热词变成产业变量，真正值得追问的，不再只是“它有多强”，而是“它如何被使用、如何被交付、如何形成新的商业秩序”。 作为全球人工智能领域的重要盛会，2026世界人工智能大会将于7月17日-20日在上海世博展览馆举办",
+          "summary_zh": "7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。   过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智能体、具身智能、空间智能、AI基础设施等方向不断演进，行业开始更频繁地追问：AI如何进入真实流程，如何完成复杂任务，又如何在产业场景中形成可持续价值。 这种变化背后，是AI竞争维度的继续扩展：模型能力仍是基础，但企业真正要面对的，已经包括数据质量、工程系统、场景理解、交付能力和商业闭环等更复杂的问题。智能体需要从工具调用走向任务协同，机器人需要在真实场景中完成稳定作业，AI视频和空间智能正在改变内容生产与三维世界理解，算力、连接和云服务也在支撑更大规模的应用落地。模型能力仍是起点，但不再是全部答案。 这也让今年的WAIC有了更清晰的观察价值：当AI从技术热词变成产业变量，真正值得追问的，不再只是“它有多强”，而是“它如何被使用、如何被交付、如何形成新的商业秩序”。 作为全球人工智能领域的重要盛会，2026世界人工智能大会将于7月17日-20日在上海世博展览馆举办",
+          "publishedAt": "2026-07-20T02:49:41Z",
+          "published_at": "2026-07-20T02:49:41Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "889d78c9",
-          "title": "看了20万小时「人类干活实录」，机器人悟了",
+          "id": "4aa4eb04",
+          "title": "WAIC之外，一张AI人才图谱正在知乎形成",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/07/454592.html",
+          "url": "https://www.qbitai.com/2026/07/455496.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/07/454592.html",
+          "sourceUrl": "https://www.qbitai.com/2026/07/455496.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "看了20万小时「人类干活实录」，机器人悟了  一水 2026-07-19 16:32:36  来源：量子位   黎曼动力正式发布Riemann-1.0  刚刚，机器人圈公认最难的「家务大考」RoboCasa-365，榜首换人了。 新纪录62.6%，比之前的SOTA直接高出8.4个百分点。 要知道，这个榜上大部分模型还在50%以下挣扎。 更有意思的是，登顶的这个名字，之前几乎没人听说过：Riemann-1.0，黎曼动力。 一查，好家伙，首秀。这个模型才刚在WAIC 2026上正式发布。     跑分说明不了一切，我又去翻了它的真机视频。 随手点开一段机器人收拾餐桌的demo，只能说，榜单没骗人。 薄薄贴在桌面上的勺子，夹得起来；碗里剩的汤，知道先倒了再收；完事了还顺手把桌子擦干净。   视频地址：https://mp.weixin.qq.com/s/KIBoK4IAklhdmU21fCIyVg  （完了，估计连老妈以后的台词都要改了：连机器人都比你眼里有活儿~） 再往上扒，黎曼动力背后站着的是昆仑万维——前者正是昆仑万维专为具身智能方向成立的子公司。 一个新面孔，凭什么首秀就登顶？ 答案",
-          "summary_zh": "看了20万小时「人类干活实录」，机器人悟了  一水 2026-07-19 16:32:36  来源：量子位   黎曼动力正式发布Riemann-1.0  刚刚，机器人圈公认最难的「家务大考」RoboCasa-365，榜首换人了。 新纪录62.6%，比之前的SOTA直接高出8.4个百分点。 要知道，这个榜上大部分模型还在50%以下挣扎。 更有意思的是，登顶的这个名字，之前几乎没人听说过：Riemann-1.0，黎曼动力。 一查，好家伙，首秀。这个模型才刚在WAIC 2026上正式发布。     跑分说明不了一切，我又去翻了它的真机视频。 随手点开一段机器人收拾餐桌的demo，只能说，榜单没骗人。 薄薄贴在桌面上的勺子，夹得起来；碗里剩的汤，知道先倒了再收；完事了还顺手把桌子擦干净。   视频地址：https://mp.weixin.qq.com/s/KIBoK4IAklhdmU21fCIyVg  （完了，估计连老妈以后的台词都要改了：连机器人都比你眼里有活儿~） 再往上扒，黎曼动力背后站着的是昆仑万维——前者正是昆仑万维专为具身智能方向成立的子公司。 一个新面孔，凭什么首秀就登顶？ 答案",
-          "publishedAt": "2026-07-19T08:32:36Z",
-          "published_at": "2026-07-19T08:32:36Z",
+          "summary": "WAIC之外，一张AI人才图谱正在知乎形成  量子位的朋友们 2026-07-20 16:06:22  来源：量子位   今年WAIC再次汇聚全球AI企业、科学家、创业者和开发者，成为观察AI产业发展的最佳窗口。 在WAIC大会上，最受瞩目的依然还是大模型、人形机器人和AI Agent。但如果把目光从展台移开，一个比新品发布更值得关注的变化正在发生： AI产业的竞争，正在进入”人才时代”。 从大会议程来看，”人才生态”已经成为出现频率最高的主题之一。从论坛设置到创业展示，讨论的焦点也正在从”模型有多强”转向”谁在推动AI真正落地”。 正是在这样的背景下，知乎在WAIC举办了Tech Club知乎新知科技大会，以”AI的最后一公里，还要走多久？”为主题，携众多知乎AI答主、开发者和创业者展开讨论。 从活动现场延伸到社区讨论，人们看到的不仅是一场行业峰会，更是一张不断生长的AI人才图谱。 一张覆盖AI全产业链的人才图谱，正在知乎形成 最前沿的人，在知乎发布AI 最近一年，一个明显变化正在出现。越来越多AI企业在发布模型之后，不再满足于仅仅召开发布会，而是选择走进知乎，与开发者展开面对面的技",
+          "summary_zh": "WAIC之外，一张AI人才图谱正在知乎形成  量子位的朋友们 2026-07-20 16:06:22  来源：量子位   今年WAIC再次汇聚全球AI企业、科学家、创业者和开发者，成为观察AI产业发展的最佳窗口。 在WAIC大会上，最受瞩目的依然还是大模型、人形机器人和AI Agent。但如果把目光从展台移开，一个比新品发布更值得关注的变化正在发生： AI产业的竞争，正在进入”人才时代”。 从大会议程来看，”人才生态”已经成为出现频率最高的主题之一。从论坛设置到创业展示，讨论的焦点也正在从”模型有多强”转向”谁在推动AI真正落地”。 正是在这样的背景下，知乎在WAIC举办了Tech Club知乎新知科技大会，以”AI的最后一公里，还要走多久？”为主题，携众多知乎AI答主、开发者和创业者展开讨论。 从活动现场延伸到社区讨论，人们看到的不仅是一场行业峰会，更是一张不断生长的AI人才图谱。 一张覆盖AI全产业链的人才图谱，正在知乎形成 最前沿的人，在知乎发布AI 最近一年，一个明显变化正在出现。越来越多AI企业在发布模型之后，不再满足于仅仅召开发布会，而是选择走进知乎，与开发者展开面对面的技",
+          "publishedAt": "2026-07-20T08:06:22Z",
+          "published_at": "2026-07-20T08:06:22Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -265,29 +270,29 @@
   ],
   "items": [
     {
-      "id": "b0737ae7",
-      "title": "产品更新：OpenSEO",
-      "title_en": "OpenSEO",
-      "url": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "a6eabd39",
+      "title": "产品更新：Fuzzy AI",
+      "title_en": "Fuzzy AI",
+      "url": "https://www.producthunt.com/products/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "The open source Ahrefs alternative Without goo",
-      "summary_zh": "The open source Ahrefs alternative Without goo",
-      "publishedAt": "2026-07-19T07:01:00Z",
-      "published_at": "2026-07-19T07:01:00Z",
-      "votes_count": 494,
+      "summary": "We warm your prospects before reaching out Col",
+      "summary_zh": "We warm your prospects before reaching out Col",
+      "publishedAt": "2026-07-20T07:01:00Z",
+      "published_at": "2026-07-20T07:01:00Z",
+      "votes_count": 272,
       "featured": true,
       "topics": [
         {
-          "id": "89",
-          "name": "Open Source",
-          "slug": "open-source"
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
         },
         {
           "id": "164",
@@ -295,107 +300,41 @@
           "slug": "marketing"
         },
         {
-          "id": "231",
-          "name": "SEO",
-          "slug": "seo"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "c1aa1a81",
-      "title": "产品更新：Spycost",
-      "title_en": "Spycost",
-      "url": "https://www.producthunt.com/products/spycost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/spycost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Fell for a discount again? Remember the last t",
-      "summary_zh": "Fell for a discount again? Remember the last t",
-      "publishedAt": "2026-07-19T07:01:00Z",
-      "published_at": "2026-07-19T07:01:00Z",
-      "votes_count": 256,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "611",
-          "name": "Finance",
-          "slug": "finance"
-        },
-        {
-          "id": "713",
-          "name": "Shopping",
-          "slug": "shopping"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "0433aa9d",
-      "title": "模型更新：BaseRT",
-      "title_en": "BaseRT",
-      "url": "https://www.producthunt.com/products/basert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/basert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "6.4x faster than llama.cpp, 3.9x faster than M",
-      "summary_zh": "6.4x faster than llama.cpp, 3.9x faster than M",
-      "publishedAt": "2026-07-19T07:01:00Z",
-      "published_at": "2026-07-19T07:01:00Z",
-      "votes_count": 186,
-      "featured": true,
-      "topics": [
-        {
-          "id": "89",
-          "name": "Open Source",
-          "slug": "open-source"
-        },
-        {
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
         },
         {
-          "id": "362",
-          "name": "Apple",
-          "slug": "apple"
+          "id": "1359",
+          "name": "Vercel Day",
+          "slug": "vercel-day"
+        },
+        {
+          "id": "1491",
+          "name": "OpenAI Day",
+          "slug": "openai-day"
         }
       ],
       "score_details": null
     },
     {
-      "id": "0f1458c1",
-      "title": "产品更新：Rewisp",
-      "title_en": "Rewisp",
-      "url": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "4288de64",
+      "title": "产品更新：Nautis",
+      "title_en": "Nautis",
+      "url": "https://www.producthunt.com/products/nautis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/nautis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "See it once. Ask forever. Rewisp gives your Ma",
-      "summary_zh": "See it once. Ask forever. Rewisp gives your Ma",
-      "publishedAt": "2026-07-19T07:01:00Z",
-      "published_at": "2026-07-19T07:01:00Z",
-      "votes_count": 148,
+      "summary": "The AI-native Operating System for founders. N",
+      "summary_zh": "The AI-native Operating System for founders. N",
+      "publishedAt": "2026-07-20T07:01:00Z",
+      "published_at": "2026-07-20T07:01:00Z",
+      "votes_count": 237,
       "featured": true,
       "topics": [
         {
@@ -404,106 +343,177 @@
           "slug": "productivity"
         },
         {
-          "id": "93",
-          "name": "User Experience",
-          "slug": "user-experience"
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
         },
         {
-          "id": "272",
-          "name": "GitHub",
-          "slug": "github"
-        },
-        {
-          "id": "303",
-          "name": "Menu Bar Apps",
-          "slug": "menu-bar-apps"
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         }
       ],
       "score_details": null
     },
     {
-      "id": "faae44e0",
-      "title": "“人工智能+防震减灾”行动方案发布",
+      "id": "2bf138ce",
+      "title": "产品更新：Replay QA",
+      "title_en": "Replay QA",
+      "url": "https://www.producthunt.com/products/replayio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/replayio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Replay QA tells you what is broken before your",
+      "summary_zh": "Replay QA tells you what is broken before your",
+      "publishedAt": "2026-07-20T07:01:00Z",
+      "published_at": "2026-07-20T07:01:00Z",
+      "votes_count": 165,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "681f6751",
+      "title": "产品更新：Loova Ads Studi",
+      "title_en": "Loova Ads Studio",
+      "url": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Create AI ads that convert, not just look good",
+      "summary_zh": "Create AI ads that convert, not just look good",
+      "publishedAt": "2026-07-20T07:01:00Z",
+      "published_at": "2026-07-20T07:01:00Z",
+      "votes_count": 140,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "58ff9303",
+      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3902090005743493?f=rss",
+      "url": "https://36kr.com/p/3901396207584902?f=rss",
       "source": "36氪",
       "source_type": null,
       "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/newsflashes/3902090005743493?f=rss",
+      "sourceUrl": "https://36kr.com/p/3901396207584902?f=rss",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "7月19日，2026世界人工智能大会——地震人工智能论坛在上海召开。会议聚焦人工智能与防震减灾深度融合发展，集中展示了人工智能技术在防震减灾领域的最新科研成果和实际应用。中国地震局在论坛上发布《“人工智能+防震减灾”行动方案（2026—2028年）》。未来3年，将围绕地震智能监测处理系统、智能化地震预警技术研发与示范应用等九方面任务，构建起“数据—模型—平台—应用”四位一体的人工智能技术体系，进一步夯实数据基础、突破核心技术、打造“AI+地震”系列支撑平台。到2028年，实现人工智能技术对防震减灾业务的有效支撑，进一步巩固我国在防震��灾人工智能领域的先发优势。（央视新闻）",
-      "summary_zh": "7月19日，2026世界人工智能大会——地震人工智能论坛在上海召开。会议聚焦人工智能与防震减灾深度融合发展，集中展示了人工智能技术在防震减灾领域的最新科研成果和实际应用。中国地震局在论坛上发布《“人工智能+防震减灾”行动方案（2026—2028年）》。未来3年，将围绕地震智能监测处理系统、智能化地震预警技术研发与示范应用等九方面任务，构建起“数据—模型—平台—应用”四位一体的人工智能技术体系，进一步夯实数据基础、突破核心技术、打造“AI+地震”系列支撑平台。到2028年，实现人工智能技术对防震减灾业务的有效支撑，进一步巩固我国在防震��灾人工智能领域的先发优势。（央视新闻）",
-      "publishedAt": "2026-07-19T05:00:07Z",
-      "published_at": "2026-07-19T05:00:07Z",
+      "summary": "腾讯云的企业级智能体平台，正式出海了。 7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。 ADP 的全称是 Agent Development Platform，定位为企业级 AgentOps 平台，覆盖智能体的构建、分发和治理全生命周期。 简单来说，它解决的是企业智能体从建立、运行到管理的问题。  智能体开发平台 ADP 4.0海外版 这次企业级智能体海外版的核心升级集中在四个方面：一是渠道，Claw 应用支持 LINE、Telegram 等主流海外社交渠道，一站发布即可跨区域触达全球用户； 而在交互体验上，智能工作台支持自定义时区与多区域调度，模型输出可跟随用户输入语言自动响应； 在开放生态上，模型广场已经接入多家国际主流大模型，平台 Skill 完成国际化适配；并且，平台深度接入 Google Workspace、Confluence、Jira 等海外主流 SaaS 应用。 ADP 4.0的一个关键能力升级是 Ag",
+      "summary_zh": "腾讯云的企业级智能体平台，正式出海了。 7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。 ADP 的全称是 Agent Development Platform，定位为企业级 AgentOps 平台，覆盖智能体的构建、分发和治理全生命周期。 简单来说，它解决的是企业智能体从建立、运行到管理的问题。  智能体开发平台 ADP 4.0海外版 这次企业级智能体海外版的核心升级集中在四个方面：一是渠道，Claw 应用支持 LINE、Telegram 等主流海外社交渠道，一站发布即可跨区域触达全球用户； 而在交互体验上，智能工作台支持自定义时区与多区域调度，模型输出可跟随用户输入语言自动响应； 在开放生态上，模型广场已经接入多家国际主流大模型，平台 Skill 完成国际化适配；并且，平台深度接入 Google Workspace、Confluence、Jira 等海外主流 SaaS 应用。 ADP 4.0的一个关键能力升级是 Ag",
+      "publishedAt": "2026-07-20T01:30:27Z",
+      "published_at": "2026-07-20T01:30:27Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "2eea89b7",
-      "title": "一目科技完成超10亿元E轮融资 估值过百亿元",
+      "id": "b81a7f77",
+      "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3902093496813441?f=rss",
+      "url": "https://36kr.com/p/3903365398185857?f=rss",
       "source": "36氪",
       "source_type": null,
       "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/newsflashes/3902093496813441?f=rss",
+      "sourceUrl": "https://36kr.com/p/3903365398185857?f=rss",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "36氪获悉，7月18日晚间，一目科技宣布完成超10亿元E轮融资，估值突破100亿元。据悉，本轮融资由多家一线人民币基金、头部美元基金和知名产业方联合参与，所融资金将用于具身智能触觉感知材料、芯片、算法和模型的研发，以及产线订单的规模化量产和高质量交付。",
-      "summary_zh": "36氪获悉，7月18日晚间，一目科技宣布完成超10亿元E轮融资，估值突破100亿元。据悉，本轮融资由多家一线人民币基金、头部美元基金和知名产业方联合参与，所融资金将用于具身智能触觉感知材料、芯片、算法和模型的研发，以及产线订单的规模化量产和高质量交付。",
-      "publishedAt": "2026-07-19T05:15:39Z",
-      "published_at": "2026-07-19T05:15:39Z",
+      "summary": "文 | 阿至 封面来源｜Pexels 中国低轨卫星星座的规模化部署已经进入关键时间窗口。 一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。 当“上天”这件事的成本有望迅速下降，产业链的注意力也在从“怎么把卫星打上去”转向一个更务实的问题：卫星组网之后，要给谁用、怎么用？ 这个问题目前还没有标准答案，但市场上不乏想要给出解法的玩家。 一家成立不到半年、聚焦“无人系统通算融合”的初创企业「星联天枢」，近日正式宣布完成数千万元天使轮融资，这也是星联天枢完成的首轮融资。 简单来说，星联天枢的核心业务是让无人机、无人车、无人船等无人系统，通过一套极轻的卫星通信终端直连卫星，并将采集到的数据在卫星上完成AI处理与决策，再把结果回传地面——这套“地数天算”的模式，不是单纯的卖设备，而是要把通信和算力打包，面向无人系统提供通算一体的服务解决方案。 这也是一个信号。它意味着，在中国低轨星座从试验验证走向规模化商用的过渡期里，产业链条上的创业者们已经开始深入更具体的应用场景，去",
+      "summary_zh": "文 | 阿至 封面来源｜Pexels 中国低轨卫星星座的规模化部署已经进入关键时间窗口。 一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。 当“上天”这件事的成本有望迅速下降，产业链的注意力也在从“怎么把卫星打上去”转向一个更务实的问题：卫星组网之后，要给谁用、怎么用？ 这个问题目前还没有标准答案，但市场上不乏想要给出解法的玩家。 一家成立不到半年、聚焦“无人系统通算融合”的初创企业「星联天枢」，近日正式宣布完成数千万元天使轮融资，这也是星联天枢完成的首轮融资。 简单来说，星联天枢的核心业务是让无人机、无人车、无人船等无人系统，通过一套极轻的卫星通信终端直连卫星，并将采集到的数据在卫星上完成AI处理与决策，再把结果回传地面——这套“地数天算”的模式，不是单纯的卖设备，而是要把通信和算力打包，面向无人系统提供通算一体的服务解决方案。 这也是一个信号。它意味着，在中国低轨星座从试验验证走向规模化商用的过渡期里，产业链条上的创业者们已经开始深入更具体的应用场景，去",
+      "publishedAt": "2026-07-20T02:30:06Z",
+      "published_at": "2026-07-20T02:30:06Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "8928097b",
-      "title": "商汤科技旗舰级SenseNova U1 Pro正式发布",
+      "id": "8c14075b",
+      "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3902187700766593?f=rss",
+      "url": "https://36kr.com/p/3903383663478403?f=rss",
       "source": "36氪",
       "source_type": null,
       "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/newsflashes/3902187700766593?f=rss",
+      "sourceUrl": "https://36kr.com/p/3903383663478403?f=rss",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "36氪获悉，7月18日，商汤科技正式发布旗舰级大模型SenseNova U1 Pro（以下简称U1 Pro）。U1 Pro定位为面向长程任务的交付级原生多模态智能体基座，实现理解、生成和行动的深度统一。在原生统一架构的基础上，通过在视觉创作领域的深度迭代，U1 Pro已具备“交付级”复杂图片创作能力。",
-      "summary_zh": "36氪获悉，7月18日，商汤科技正式发布旗舰级大模型SenseNova U1 Pro（以下简称U1 Pro）。U1 Pro定位为面向长程任务的交付级原生多模态智能体基座，实现理解、生成和行动的深度统一。在原生统一架构的基础上，通过在视觉创作领域的深度迭代，U1 Pro已具备“交付级”复杂图片创作能力。",
-      "publishedAt": "2026-07-19T06:30:36Z",
-      "published_at": "2026-07-19T06:30:36Z",
+      "summary": "7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。   过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智能体、具身智能、空间智能、AI基础设施等方向不断演进，行业开始更频繁地追问：AI如何进入真实流程，如何完成复杂任务，又如何在产业场景中形成可持续价值。 这种变化背后，是AI竞争维度的继续扩展：模型能力仍是基础，但企业真正要面对的，已经包括数据质量、工程系统、场景理解、交付能力和商业闭环等更复杂的问题。智能体需要从工具调用走向任务协同，机器人需要在真实场景中完成稳定作业，AI视频和空间智能正在改变内容生产与三维世界理解，算力、连接和云服务也在支撑更大规模的应用落地。模型能力仍是起点，但不再是全部答案。 这也让今年的WAIC有了更清晰的观察价值：当AI从技术热词变成产业变量，真正值得追问的，不再只是“它有多强”，而是“它如何被使用、如何被交付、如何形成新的商业秩序”。 作为全球人工智能领域的重要盛会，2026世界人工智能大会将于7月17日-20日在上海世博展览馆举办",
+      "summary_zh": "7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。   过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智能体、具身智能、空间智能、AI基础设施等方向不断演进，行业开始更频繁地追问：AI如何进入真实流程，如何完成复杂任务，又如何在产业场景中形成可持续价值。 这种变化背后，是AI竞争维度的继续扩展：模型能力仍是基础，但企业真正要面对的，已经包括数据质量、工程系统、场景理解、交付能力和商业闭环等更复杂的问题。智能体需要从工具调用走向任务协同，机器人需要在真实场景中完成稳定作业，AI视频和空间智能正在改变内容生产与三维世界理解，算力、连接和云服务也在支撑更大规模的应用落地。模型能力仍是起点，但不再是全部答案。 这也让今年的WAIC有了更清晰的观察价值：当AI从技术热词变成产业变量，真正值得追问的，不再只是“它有多强”，而是“它如何被使用、如何被交付、如何形成新的商业秩序”。 作为全球人工智能领域的重要盛会，2026世界人工智能大会将于7月17日-20日在上海世博展览馆举办",
+      "publishedAt": "2026-07-20T02:49:41Z",
+      "published_at": "2026-07-20T02:49:41Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "889d78c9",
-      "title": "看了20万小时「人类干活实录」，机器人悟了",
+      "id": "4aa4eb04",
+      "title": "WAIC之外，一张AI人才图谱正在知乎形成",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/07/454592.html",
+      "url": "https://www.qbitai.com/2026/07/455496.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/07/454592.html",
+      "sourceUrl": "https://www.qbitai.com/2026/07/455496.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "看了20万小时「人类干活实录」，机器人悟了  一水 2026-07-19 16:32:36  来源：量子位   黎曼动力正式发布Riemann-1.0  刚刚，机器人圈公认最难的「家务大考」RoboCasa-365，榜首换人了。 新纪录62.6%，比之前的SOTA直接高出8.4个百分点。 要知道，这个榜上大部分模型还在50%以下挣扎。 更有意思的是，登顶的这个名字，之前几乎没人听说过：Riemann-1.0，黎曼动力。 一查，好家伙，首秀。这个模型才刚在WAIC 2026上正式发布。     跑分说明不了一切，我又去翻了它的真机视频。 随手点开一段机器人收拾餐桌的demo，只能说，榜单没骗人。 薄薄贴在桌面上的勺子，夹得起来；碗里剩的汤，知道先倒了再收；完事了还顺手把桌子擦干净。   视频地址：https://mp.weixin.qq.com/s/KIBoK4IAklhdmU21fCIyVg  （完了，估计连老妈以后的台词都要改了：连机器人都比你眼里有活儿~） 再往上扒，黎曼动力背后站着的是昆仑万维——前者正是昆仑万维专为具身智能方向成立的子公司。 一个新面孔，凭什么首秀就登顶？ 答案",
-      "summary_zh": "看了20万小时「人类干活实录」，机器人悟了  一水 2026-07-19 16:32:36  来源：量子位   黎曼动力正式发布Riemann-1.0  刚刚，机器人圈公认最难的「家务大考」RoboCasa-365，榜首换人了。 新纪录62.6%，比之前的SOTA直接高出8.4个百分点。 要知道，这个榜上大部分模型还在50%以下挣扎。 更有意思的是，登顶的这个名字，之前几乎没人听说过：Riemann-1.0，黎曼动力。 一查，好家伙，首秀。这个模型才刚在WAIC 2026上正式发布。     跑分说明不了一切，我又去翻了它的真机视频。 随手点开一段机器人收拾餐桌的demo，只能说，榜单没骗人。 薄薄贴在桌面上的勺子，夹得起来；碗里剩的汤，知道先倒了再收；完事了还顺手把桌子擦干净。   视频地址：https://mp.weixin.qq.com/s/KIBoK4IAklhdmU21fCIyVg  （完了，估计连老妈以后的台词都要改了：连机器人都比你眼里有活儿~） 再往上扒，黎曼动力背后站着的是昆仑万维——前者正是昆仑万维专为具身智能方向成立的子公司。 一个新面孔，凭什么首秀就登顶？ 答案",
-      "publishedAt": "2026-07-19T08:32:36Z",
-      "published_at": "2026-07-19T08:32:36Z",
+      "summary": "WAIC之外，一张AI人才图谱正在知乎形成  量子位的朋友们 2026-07-20 16:06:22  来源：量子位   今年WAIC再次汇聚全球AI企业、科学家、创业者和开发者，成为观察AI产业发展的最佳窗口。 在WAIC大会上，最受瞩目的依然还是大模型、人形机器人和AI Agent。但如果把目光从展台移开，一个比新品发布更值得关注的变化正在发生： AI产业的竞争，正在进入”人才时代”。 从大会议程来看，”人才生态”已经成为出现频率最高的主题之一。从论坛设置到创业展示，讨论的焦点也正在从”模型有多强”转向”谁在推动AI真正落地”。 正是在这样的背景下，知乎在WAIC举办了Tech Club知乎新知科技大会，以”AI的最后一公里，还要走多久？”为主题，携众多知乎AI答主、开发者和创业者展开讨论。 从活动现场延伸到社区讨论，人们看到的不仅是一场行业峰会，更是一张不断生长的AI人才图谱。 一张覆盖AI全产业链的人才图谱，正在知乎形成 最前沿的人，在知乎发布AI 最近一年，一个明显变化正在出现。越来越多AI企业在发布模型之后，不再满足于仅仅召开发布会，而是选择走进知乎，与开发者展开面对面的技",
+      "summary_zh": "WAIC之外，一张AI人才图谱正在知乎形成  量子位的朋友们 2026-07-20 16:06:22  来源：量子位   今年WAIC再次汇聚全球AI企业、科学家、创业者和开发者，成为观察AI产业发展的最佳窗口。 在WAIC大会上，最受瞩目的依然还是大模型、人形机器人和AI Agent。但如果把目光从展台移开，一个比新品发布更值得关注的变化正在发生： AI产业的竞争，正在进入”人才时代”。 从大会议程来看，”人才生态”已经成为出现频率最高的主题之一。从论坛设置到创业展示，讨论的焦点也正在从”模型有多强”转向”谁在推动AI真正落地”。 正是在这样的背景下，知乎在WAIC举办了Tech Club知乎新知科技大会，以”AI的最后一公里，还要走多久？”为主题，携众多知乎AI答主、开发者和创业者展开讨论。 从活动现场延伸到社区讨论，人们看到的不仅是一场行业峰会，更是一张不断生长的AI人才图谱。 一张覆盖AI全产业链的人才图谱，正在知乎形成 最前沿的人，在知乎发布AI 最近一年，一个明显变化正在出现。越来越多AI企业在发布模型之后，不再满足于仅仅召开发布会，而是选择走进知乎，与开发者展开面对面的技",
+      "publishedAt": "2026-07-20T08:06:22Z",
+      "published_at": "2026-07-20T08:06:22Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-07-19T21:12:11Z",
-  "generatedAt": "2026-07-19T21:12:11Z",
+  "generated_at": "2026-07-20T11:21:04Z",
+  "generatedAt": "2026-07-20T11:21:04Z",
   "count": 69,
   "total": 69,
   "entries": [
     {
       "date": "2026-07-20",
-      "generated_at": "2026-07-19T21:12:11Z",
-      "generatedAt": "2026-07-19T21:12:11Z",
+      "generated_at": "2026-07-20T11:21:04Z",
+      "generatedAt": "2026-07-20T11:21:04Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "b0737ae7",
-          "title": "产品更新：OpenSEO",
-          "title_en": "OpenSEO",
-          "url": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "a6eabd39",
+          "title": "产品更新：Fuzzy AI",
+          "title_en": "Fuzzy AI",
+          "url": "https://www.producthunt.com/products/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "The open source Ahrefs alternative Without goo",
-          "summary_zh": "The open source Ahrefs alternative Without goo",
-          "publishedAt": "2026-07-19T07:01:00Z",
-          "published_at": "2026-07-19T07:01:00Z",
-          "votes_count": 494,
+          "summary": "We warm your prospects before reaching out Col",
+          "summary_zh": "We warm your prospects before reaching out Col",
+          "publishedAt": "2026-07-20T07:01:00Z",
+          "published_at": "2026-07-20T07:01:00Z",
+          "votes_count": 272,
           "featured": true,
           "topics": [
             {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
             },
             {
               "id": "164",
@@ -42,31 +42,41 @@
               "slug": "marketing"
             },
             {
-              "id": "231",
-              "name": "SEO",
-              "slug": "seo"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            },
+            {
+              "id": "1491",
+              "name": "OpenAI Day",
+              "slug": "openai-day"
             }
           ],
           "score_details": null
         },
         {
-          "id": "c1aa1a81",
-          "title": "产品更新：Spycost",
-          "title_en": "Spycost",
-          "url": "https://www.producthunt.com/products/spycost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "4288de64",
+          "title": "产品更新：Nautis",
+          "title_en": "Nautis",
+          "url": "https://www.producthunt.com/products/nautis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/spycost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/nautis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Fell for a discount again? Remember the last t",
-          "summary_zh": "Fell for a discount again? Remember the last t",
-          "publishedAt": "2026-07-19T07:01:00Z",
-          "published_at": "2026-07-19T07:01:00Z",
-          "votes_count": 256,
+          "summary": "The AI-native Operating System for founders. N",
+          "summary_zh": "The AI-native Operating System for founders. N",
+          "publishedAt": "2026-07-20T07:01:00Z",
+          "published_at": "2026-07-20T07:01:00Z",
+          "votes_count": 237,
           "featured": true,
           "topics": [
             {
@@ -75,52 +85,52 @@
               "slug": "productivity"
             },
             {
-              "id": "611",
-              "name": "Finance",
-              "slug": "finance"
-            },
-            {
-              "id": "713",
-              "name": "Shopping",
-              "slug": "shopping"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "0433aa9d",
-          "title": "模型更新：BaseRT",
-          "title_en": "BaseRT",
-          "url": "https://www.producthunt.com/products/basert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/basert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "6.4x faster than llama.cpp, 3.9x faster than M",
-          "summary_zh": "6.4x faster than llama.cpp, 3.9x faster than M",
-          "publishedAt": "2026-07-19T07:01:00Z",
-          "published_at": "2026-07-19T07:01:00Z",
-          "votes_count": 186,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2bf138ce",
+          "title": "产品更新：Replay QA",
+          "title_en": "Replay QA",
+          "url": "https://www.producthunt.com/products/replayio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/replayio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Replay QA tells you what is broken before your",
+          "summary_zh": "Replay QA tells you what is broken before your",
+          "publishedAt": "2026-07-20T07:01:00Z",
+          "published_at": "2026-07-20T07:01:00Z",
+          "votes_count": 165,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
             },
             {
-              "id": "362",
-              "name": "Apple",
-              "slug": "apple"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
