@@ -1,9 +1,142 @@
 {
-  "generated_at": "2026-07-20T11:21:04Z",
-  "generatedAt": "2026-07-20T11:21:04Z",
-  "count": 69,
-  "total": 69,
+  "generated_at": "2026-07-20T21:37:35Z",
+  "generatedAt": "2026-07-20T21:37:35Z",
+  "count": 70,
+  "total": 70,
   "entries": [
+    {
+      "date": "2026-07-21",
+      "generated_at": "2026-07-20T21:37:35Z",
+      "generatedAt": "2026-07-20T21:37:35Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "a6eabd39",
+          "title": "产品更新：Fuzzy AI",
+          "title_en": "Fuzzy AI",
+          "url": "https://www.producthunt.com/products/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "We warm your prospects before reaching out Col",
+          "summary_zh": "We warm your prospects before reaching out Col",
+          "publishedAt": "2026-07-20T07:01:00Z",
+          "published_at": "2026-07-20T07:01:00Z",
+          "votes_count": 511,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            },
+            {
+              "id": "1491",
+              "name": "OpenAI Day",
+              "slug": "openai-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4288de64",
+          "title": "产品更新：Nautis",
+          "title_en": "Nautis",
+          "url": "https://www.producthunt.com/products/nautis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/nautis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The AI-native Operating System for founders. N",
+          "summary_zh": "The AI-native Operating System for founders. N",
+          "publishedAt": "2026-07-20T07:01:00Z",
+          "published_at": "2026-07-20T07:01:00Z",
+          "votes_count": 430,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "681f6751",
+          "title": "产品更新：Loova Ads Studi",
+          "title_en": "Loova Ads Studio",
+          "url": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Create AI ads that convert, not just look good",
+          "summary_zh": "Create AI ads that convert, not just look good",
+          "publishedAt": "2026-07-20T07:01:00Z",
+          "published_at": "2026-07-20T07:01:00Z",
+          "votes_count": 343,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-20",
       "generated_at": "2026-07-20T11:21:04Z",
