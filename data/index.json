@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-07-21T10:37:43Z",
-  "generatedAt": "2026-07-21T10:37:43Z",
-  "count": 70,
-  "total": 70,
+  "generated_at": "2026-07-21T21:37:45Z",
+  "generatedAt": "2026-07-21T21:37:45Z",
+  "count": 71,
+  "total": 71,
   "entries": [
+    {
+      "date": "2026-07-22",
+      "generated_at": "2026-07-21T21:37:45Z",
+      "generatedAt": "2026-07-21T21:37:45Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "4700d19c",
+          "title": "产品更新：Lev8",
+          "title_en": "Lev8",
+          "url": "https://www.producthunt.com/products/lev8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/lev8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Find, research, and reach the right people Cha",
+          "summary_zh": "Find, research, and reach the right people Cha",
+          "publishedAt": "2026-07-21T07:01:00Z",
+          "published_at": "2026-07-21T07:01:00Z",
+          "votes_count": 415,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "839",
+              "name": "Marketing automation",
+              "slug": "marketing-automation"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cf8a93f6",
+          "title": "产品更新：CartAI",
+          "title_en": "CartAI",
+          "url": "https://www.producthunt.com/products/cartai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cartai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The AI agent that handles checkout. Checkout i",
+          "summary_zh": "The AI agent that handles checkout. Checkout i",
+          "publishedAt": "2026-07-21T07:01:00Z",
+          "published_at": "2026-07-21T07:01:00Z",
+          "votes_count": 350,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5722d978",
+          "title": "产品更新：ditto.site",
+          "title_en": "ditto.site",
+          "url": "https://www.producthunt.com/products/ditto-site?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ditto-site?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Clone any website into clean code. Free & open",
+          "summary_zh": "Clone any website into clean code. Free & open",
+          "publishedAt": "2026-07-21T07:01:00Z",
+          "published_at": "2026-07-21T07:01:00Z",
+          "votes_count": 337,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-21",
       "generated_at": "2026-07-21T10:37:43Z",

@@ -1,0 +1,503 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-21T21:37:45Z",
+  "generatedAt": "2026-07-21T21:37:45Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "4700d19c",
+          "title": "产品更新：Lev8",
+          "title_en": "Lev8",
+          "url": "https://www.producthunt.com/products/lev8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/lev8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Find, research, and reach the right people Cha",
+          "summary_zh": "Find, research, and reach the right people Cha",
+          "publishedAt": "2026-07-21T07:01:00Z",
+          "published_at": "2026-07-21T07:01:00Z",
+          "votes_count": 415,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "839",
+              "name": "Marketing automation",
+              "slug": "marketing-automation"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cf8a93f6",
+          "title": "产品更新：CartAI",
+          "title_en": "CartAI",
+          "url": "https://www.producthunt.com/products/cartai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cartai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The AI agent that handles checkout. Checkout i",
+          "summary_zh": "The AI agent that handles checkout. Checkout i",
+          "publishedAt": "2026-07-21T07:01:00Z",
+          "published_at": "2026-07-21T07:01:00Z",
+          "votes_count": 350,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5722d978",
+          "title": "产品更新：ditto.site",
+          "title_en": "ditto.site",
+          "url": "https://www.producthunt.com/products/ditto-site?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ditto-site?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Clone any website into clean code. Free & open",
+          "summary_zh": "Clone any website into clean code. Free & open",
+          "publishedAt": "2026-07-21T07:01:00Z",
+          "published_at": "2026-07-21T07:01:00Z",
+          "votes_count": 337,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "dbc12d20",
+          "title": "产品更新：Rerun",
+          "title_en": "Rerun",
+          "url": "https://www.producthunt.com/products/rerun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/rerun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The easiest way to build AI agents for all you",
+          "summary_zh": "The easiest way to build AI agents for all you",
+          "publishedAt": "2026-07-21T07:01:00Z",
+          "published_at": "2026-07-21T07:01:00Z",
+          "votes_count": 288,
+          "featured": true,
+          "topics": [
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            },
+            {
+              "id": "839",
+              "name": "Marketing automation",
+              "slug": "marketing-automation"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "9499aab4",
+          "title": "上市前夜 | “喜羊羊”老板二冲港股IPO，奥动新能源近三年半亏掉14.7亿",
+          "title_en": null,
+          "url": "https://36kr.com/p/3904781968508550?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3904781968508550?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "本文约2800字，建议阅读6分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第七期——奥动新能源。  7月19日，奥动新能源再次向港交所主板递交上市申请，独家保荐人为招银国际。事实上，这已是奥动新能源的第二次递表，首次递表在2025年12月12日，但6个月未通过聆讯就失效了。 有意思的是这家公司实控人——奥动新能源董事长、总经理蔡东青，今年57岁，1997年创办了奥飞娱乐（002292.SZ）并任董事长兼总经理至今，奥飞娱乐出品过《喜羊羊与灰太狼》。2016年6月，他与换电技术老兵张建平共同创办奥动新能源，一头扎进了电动车换电这个重资产赛道。 如今十年过去，但奥动新能源2023-2026年前4个月，就合计净亏损约14.7亿元；收入从2023年的11.55亿一路跌到2025年的6.77亿，近乎腰斩；2022年初完成最后一轮融资后，四年再无新钱进账。  收入三连降，“卖一单亏一单”卖了三年 从业绩来看，2023年到2025年，奥动收入分别为11.55亿、9.26亿、6.77亿元，同比降幅一年比一年",
+          "summary_zh": "本文约2800字，建议阅读6分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第七期——奥动新能源。  7月19日，奥动新能源再次向港交所主板递交上市申请，独家保荐人为招银国际。事实上，这已是奥动新能源的第二次递表，首次递表在2025年12月12日，但6个月未通过聆讯就失效了。 有意思的是这家公司实控人——奥动新能源董事长、总经理蔡东青，今年57岁，1997年创办了奥飞娱乐（002292.SZ）并任董事长兼总经理至今，奥飞娱乐出品过《喜羊羊与灰太狼》。2016年6月，他与换电技术老兵张建平共同创办奥动新能源，一头扎进了电动车换电这个重资产赛道。 如今十年过去，但奥动新能源2023-2026年前4个月，就合计净亏损约14.7亿元；收入从2023年的11.55亿一路跌到2025年的6.77亿，近乎腰斩；2022年初完成最后一轮融资后，四年再无新钱进账。  收入三连降，“卖一单亏一单”卖了三年 从业绩来看，2023年到2025年，奥动收入分别为11.55亿、9.26亿、6.77亿元，同比降幅一年比一年",
+          "publishedAt": "2026-07-21T02:30:15Z",
+          "published_at": "2026-07-21T02:30:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "feae8112",
+          "title": "上市前夜 | 常州嘉轩智能冲港股IPO，全球第一也很缺钱",
+          "title_en": null,
+          "url": "https://36kr.com/p/3904783876982405?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3904783876982405?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "本文约2800字，建议阅读6分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第六期——嘉轩智能。  近日，来自江苏常州的嘉轩智能向港交所递交招股书，东兴证券（香港）为独家保荐。 虽然这家公司不被大众所熟知，但按收入计，它的工业永磁直驱滚筒在全球市占率80.3%，前三名合计91.8%，而第二名只有6.6%。即使放宽到整个工业永磁电驱解决方案行业，它也以11.1%的份额连续三年全球第一。 一个细分赛道近乎垄断的隐形冠军，在395页招股书里藏着多少秘密，硬氪进行了一一拆解。  三年账面赚1亿，现金却流出2.35亿 业绩方面。2023到2025年，嘉轩收入分别为7.61亿、8.73亿、9.36亿元，年内利润2101万、4083.8万、4157.2万元，毛利率从24.1%提高到25.7%。 看得出，这是一家连续盈利、细分市占率80%的制造业公司，但增速明显在下降。  （图源/硬氪整理） 2024年收入增长14.6%、利润接近翻倍；到了2025年，收入增速却骤降至7.3%、利润只增长1.8%。 同时，20",
+          "summary_zh": "本文约2800字，建议阅读6分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第六期——嘉轩智能。  近日，来自江苏常州的嘉轩智能向港交所递交招股书，东兴证券（香港）为独家保荐。 虽然这家公司不被大众所熟知，但按收入计，它的工业永磁直驱滚筒在全球市占率80.3%，前三名合计91.8%，而第二名只有6.6%。即使放宽到整个工业永磁电驱解决方案行业，它也以11.1%的份额连续三年全球第一。 一个细分赛道近乎垄断的隐形冠军，在395页招股书里藏着多少秘密，硬氪进行了一一拆解。  三年账面赚1亿，现金却流出2.35亿 业绩方面。2023到2025年，嘉轩收入分别为7.61亿、8.73亿、9.36亿元，年内利润2101万、4083.8万、4157.2万元，毛利率从24.1%提高到25.7%。 看得出，这是一家连续盈利、细分市占率80%的制造业公司，但增速明显在下降。  （图源/硬氪整理） 2024年收入增长14.6%、利润接近翻倍；到了2025年，收入增速却骤降至7.3%、利润只增长1.8%。 同时，20",
+          "publishedAt": "2026-07-21T02:32:15Z",
+          "published_at": "2026-07-21T02:32:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "3f27b650",
+          "title": "上市前夜 | 一季度净利是去年全年近三倍，深圳存储公司再闯港股IPO",
+          "title_en": null,
+          "url": "https://36kr.com/p/3904785488136070?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3904785488136070?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "本文约3100字，建议阅读7分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第五期——芯天下。  7月9日，深圳存储芯片设计公司「芯天下」再次递表港交所。事实上，芯天下早在今年1月9日就递交过招股书，但6个月后失效。此次IPO由广发证券、中信证券联席保荐。 芯天下是谁？一家2014年成立于深圳的无晶圆厂（Fabless）存储芯片公司，主打代码型闪存芯片，即NOR Flash和SLC NAND Flash，这类芯片专门存储设备启动和运行的代码，放进路由器、扫地机、智能家居、工业设备里。按灼识咨询口径，2025年公司代码型闪存收入在全球Fabless企业中排名第五。  一个季度赚了去年全年近三倍的钱，是实力还是周期？ 先看组惊人的数字。2026年一季度，芯天下收入2.24亿元，同比增长77.4%；净利润7588.9万元，相当于2025年全年净利润（2721.6万元）的278.8%。毛利率从上年同期的14.4%飙到55.6%，净利润率33.9%。 一个季度赚了去年全年近三倍的钱，毛利率一年翻了近四倍",
+          "summary_zh": "本文约3100字，建议阅读7分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第五期——芯天下。  7月9日，深圳存储芯片设计公司「芯天下」再次递表港交所。事实上，芯天下早在今年1月9日就递交过招股书，但6个月后失效。此次IPO由广发证券、中信证券联席保荐。 芯天下是谁？一家2014年成立于深圳的无晶圆厂（Fabless）存储芯片公司，主打代码型闪存芯片，即NOR Flash和SLC NAND Flash，这类芯片专门存储设备启动和运行的代码，放进路由器、扫地机、智能家居、工业设备里。按灼识咨询口径，2025年公司代码型闪存收入在全球Fabless企业中排名第五。  一个季度赚了去年全年近三倍的钱，是实力还是周期？ 先看组惊人的数字。2026年一季度，芯天下收入2.24亿元，同比增长77.4%；净利润7588.9万元，相当于2025年全年净利润（2721.6万元）的278.8%。毛利率从上年同期的14.4%飙到55.6%，净利润率33.9%。 一个季度赚了去年全年近三倍的钱，毛利率一年翻了近四倍",
+          "publishedAt": "2026-07-21T02:33:43Z",
+          "published_at": "2026-07-21T02:33:43Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "e1762b82",
+          "title": "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/455979.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/455979.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师  量子位的朋友们 2026-07-21 13:44:29  来源：量子位   7月21日，阿里Qoder上线全新安全能力Qoder Security，和传统扫描工具靠规则匹配已知模式不同，该安全能力可在Qoder生成代码时同步开展安全检查，发现问题后自动修复，并在下一轮扫描中闭环，覆盖「发现、修复、再次验证」的全链路，相当于为每一位用户配备一位专属安全工程师，可满足企业级场景对安全的需求。  根据数据统计显示，全球超过40%的新代码由AI辅助生成，这些AI生成的代码出现漏洞的概率要高于人工代码，但企业的安全审查能力并未同步提升。因此安全不能依赖人的自律与模型的自觉，必须内建于Agent的运行框架。 Qoder将“静态扫描”升级为“主动式安全”方案，该方案集成了自研安全大模型，可理解代码上下文与污点传播路径，对检出的问题自我验证可达性，只报告真实可达的风险。发现问题后由编程智能体直接完成修复，下一轮扫描闭环再次验证。  第一层漏洞实时拦截 为平衡成本、延迟和漏洞检出率问题，解决成本与延迟的问题，Qoder还设计了三层安全护",
+          "summary_zh": "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师  量子位的朋友们 2026-07-21 13:44:29  来源：量子位   7月21日，阿里Qoder上线全新安全能力Qoder Security，和传统扫描工具靠规则匹配已知模式不同，该安全能力可在Qoder生成代码时同步开展安全检查，发现问题后自动修复，并在下一轮扫描中闭环，覆盖「发现、修复、再次验证」的全链路，相当于为每一位用户配备一位专属安全工程师，可满足企业级场景对安全的需求。  根据数据统计显示，全球超过40%的新代码由AI辅助生成，这些AI生成的代码出现漏洞的概率要高于人工代码，但企业的安全审查能力并未同步提升。因此安全不能依赖人的自律与模型的自觉，必须内建于Agent的运行框架。 Qoder将“静态扫描”升级为“主动式安全”方案，该方案集成了自研安全大模型，可理解代码上下文与污点传播路径，对检出的问题自我验证可达性，只报告真实可达的风险。发现问题后由编程智能体直接完成修复，下一轮扫描闭环再次验证。  第一层漏洞实时拦截 为平衡成本、延迟和漏洞检出率问题，解决成本与延迟的问题，Qoder还设计了三层安全护",
+          "publishedAt": "2026-07-21T05:44:29Z",
+          "published_at": "2026-07-21T05:44:29Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "4700d19c",
+      "title": "产品更新：Lev8",
+      "title_en": "Lev8",
+      "url": "https://www.producthunt.com/products/lev8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/lev8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Find, research, and reach the right people Cha",
+      "summary_zh": "Find, research, and reach the right people Cha",
+      "publishedAt": "2026-07-21T07:01:00Z",
+      "published_at": "2026-07-21T07:01:00Z",
+      "votes_count": 415,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "839",
+          "name": "Marketing automation",
+          "slug": "marketing-automation"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "cf8a93f6",
+      "title": "产品更新：CartAI",
+      "title_en": "CartAI",
+      "url": "https://www.producthunt.com/products/cartai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cartai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI agent that handles checkout. Checkout i",
+      "summary_zh": "The AI agent that handles checkout. Checkout i",
+      "publishedAt": "2026-07-21T07:01:00Z",
+      "published_at": "2026-07-21T07:01:00Z",
+      "votes_count": 350,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5722d978",
+      "title": "产品更新：ditto.site",
+      "title_en": "ditto.site",
+      "url": "https://www.producthunt.com/products/ditto-site?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ditto-site?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Clone any website into clean code. Free & open",
+      "summary_zh": "Clone any website into clean code. Free & open",
+      "publishedAt": "2026-07-21T07:01:00Z",
+      "published_at": "2026-07-21T07:01:00Z",
+      "votes_count": 337,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "dbc12d20",
+      "title": "产品更新：Rerun",
+      "title_en": "Rerun",
+      "url": "https://www.producthunt.com/products/rerun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/rerun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The easiest way to build AI agents for all you",
+      "summary_zh": "The easiest way to build AI agents for all you",
+      "publishedAt": "2026-07-21T07:01:00Z",
+      "published_at": "2026-07-21T07:01:00Z",
+      "votes_count": 288,
+      "featured": true,
+      "topics": [
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        },
+        {
+          "id": "839",
+          "name": "Marketing automation",
+          "slug": "marketing-automation"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9499aab4",
+      "title": "上市前夜 | “喜羊羊”老板二冲港股IPO，奥动新能源近三年半亏掉14.7亿",
+      "title_en": null,
+      "url": "https://36kr.com/p/3904781968508550?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3904781968508550?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "本文约2800字，建议阅读6分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第七期——奥动新能源。  7月19日，奥动新能源再次向港交所主板递交上市申请，独家保荐人为招银国际。事实上，这已是奥动新能源的第二次递表，首次递表在2025年12月12日，但6个月未通过聆讯就失效了。 有意思的是这家公司实控人——奥动新能源董事长、总经理蔡东青，今年57岁，1997年创办了奥飞娱乐（002292.SZ）并任董事长兼总经理至今，奥飞娱乐出品过《喜羊羊与灰太狼》。2016年6月，他与换电技术老兵张建平共同创办奥动新能源，一头扎进了电动车换电这个重资产赛道。 如今十年过去，但奥动新能源2023-2026年前4个月，就合计净亏损约14.7亿元；收入从2023年的11.55亿一路跌到2025年的6.77亿，近乎腰斩；2022年初完成最后一轮融资后，四年再无新钱进账。  收入三连降，“卖一单亏一单”卖了三年 从业绩来看，2023年到2025年，奥动收入分别为11.55亿、9.26亿、6.77亿元，同比降幅一年比一年",
+      "summary_zh": "本文约2800字，建议阅读6分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第七期——奥动新能源。  7月19日，奥动新能源再次向港交所主板递交上市申请，独家保荐人为招银国际。事实上，这已是奥动新能源的第二次递表，首次递表在2025年12月12日，但6个月未通过聆讯就失效了。 有意思的是这家公司实控人——奥动新能源董事长、总经理蔡东青，今年57岁，1997年创办了奥飞娱乐（002292.SZ）并任董事长兼总经理至今，奥飞娱乐出品过《喜羊羊与灰太狼》。2016年6月，他与换电技术老兵张建平共同创办奥动新能源，一头扎进了电动车换电这个重资产赛道。 如今十年过去，但奥动新能源2023-2026年前4个月，就合计净亏损约14.7亿元；收入从2023年的11.55亿一路跌到2025年的6.77亿，近乎腰斩；2022年初完成最后一轮融资后，四年再无新钱进账。  收入三连降，“卖一单亏一单”卖了三年 从业绩来看，2023年到2025年，奥动收入分别为11.55亿、9.26亿、6.77亿元，同比降幅一年比一年",
+      "publishedAt": "2026-07-21T02:30:15Z",
+      "published_at": "2026-07-21T02:30:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "feae8112",
+      "title": "上市前夜 | 常州嘉轩智能冲港股IPO，全球第一也很缺钱",
+      "title_en": null,
+      "url": "https://36kr.com/p/3904783876982405?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3904783876982405?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "本文约2800字，建议阅读6分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第六期——嘉轩智能。  近日，来自江苏常州的嘉轩智能向港交所递交招股书，东兴证券（香港）为独家保荐。 虽然这家公司不被大众所熟知，但按收入计，它的工业永磁直驱滚筒在全球市占率80.3%，前三名合计91.8%，而第二名只有6.6%。即使放宽到整个工业永磁电驱解决方案行业，它也以11.1%的份额连续三年全球第一。 一个细分赛道近乎垄断的隐形冠军，在395页招股书里藏着多少秘密，硬氪进行了一一拆解。  三年账面赚1亿，现金却流出2.35亿 业绩方面。2023到2025年，嘉轩收入分别为7.61亿、8.73亿、9.36亿元，年内利润2101万、4083.8万、4157.2万元，毛利率从24.1%提高到25.7%。 看得出，这是一家连续盈利、细分市占率80%的制造业公司，但增速明显在下降。  （图源/硬氪整理） 2024年收入增长14.6%、利润接近翻倍；到了2025年，收入增速却骤降至7.3%、利润只增长1.8%。 同时，20",
+      "summary_zh": "本文约2800字，建议阅读6分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第六期——嘉轩智能。  近日，来自江苏常州的嘉轩智能向港交所递交招股书，东兴证券（香港）为独家保荐。 虽然这家公司不被大众所熟知，但按收入计，它的工业永磁直驱滚筒在全球市占率80.3%，前三名合计91.8%，而第二名只有6.6%。即使放宽到整个工业永磁电驱解决方案行业，它也以11.1%的份额连续三年全球第一。 一个细分赛道近乎垄断的隐形冠军，在395页招股书里藏着多少秘密，硬氪进行了一一拆解。  三年账面赚1亿，现金却流出2.35亿 业绩方面。2023到2025年，嘉轩收入分别为7.61亿、8.73亿、9.36亿元，年内利润2101万、4083.8万、4157.2万元，毛利率从24.1%提高到25.7%。 看得出，这是一家连续盈利、细分市占率80%的制造业公司，但增速明显在下降。  （图源/硬氪整理） 2024年收入增长14.6%、利润接近翻倍；到了2025年，收入增速却骤降至7.3%、利润只增长1.8%。 同时，20",
+      "publishedAt": "2026-07-21T02:32:15Z",
+      "published_at": "2026-07-21T02:32:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "3f27b650",
+      "title": "上市前夜 | 一季度净利是去年全年近三倍，深圳存储公司再闯港股IPO",
+      "title_en": null,
+      "url": "https://36kr.com/p/3904785488136070?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3904785488136070?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "本文约3100字，建议阅读7分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第五期——芯天下。  7月9日，深圳存储芯片设计公司「芯天下」再次递表港交所。事实上，芯天下早在今年1月9日就递交过招股书，但6个月后失效。此次IPO由广发证券、中信证券联席保荐。 芯天下是谁？一家2014年成立于深圳的无晶圆厂（Fabless）存储芯片公司，主打代码型闪存芯片，即NOR Flash和SLC NAND Flash，这类芯片专门存储设备启动和运行的代码，放进路由器、扫地机、智能家居、工业设备里。按灼识咨询口径，2025年公司代码型闪存收入在全球Fabless企业中排名第五。  一个季度赚了去年全年近三倍的钱，是实力还是周期？ 先看组惊人的数字。2026年一季度，芯天下收入2.24亿元，同比增长77.4%；净利润7588.9万元，相当于2025年全年净利润（2721.6万元）的278.8%。毛利率从上年同期的14.4%飙到55.6%，净利润率33.9%。 一个季度赚了去年全年近三倍的钱，毛利率一年翻了近四倍",
+      "summary_zh": "本文约3100字，建议阅读7分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第五期——芯天下。  7月9日，深圳存储芯片设计公司「芯天下」再次递表港交所。事实上，芯天下早在今年1月9日就递交过招股书，但6个月后失效。此次IPO由广发证券、中信证券联席保荐。 芯天下是谁？一家2014年成立于深圳的无晶圆厂（Fabless）存储芯片公司，主打代码型闪存芯片，即NOR Flash和SLC NAND Flash，这类芯片专门存储设备启动和运行的代码，放进路由器、扫地机、智能家居、工业设备里。按灼识咨询口径，2025年公司代码型闪存收入在全球Fabless企业中排名第五。  一个季度赚了去年全年近三倍的钱，是实力还是周期？ 先看组惊人的数字。2026年一季度，芯天下收入2.24亿元，同比增长77.4%；净利润7588.9万元，相当于2025年全年净利润（2721.6万元）的278.8%。毛利率从上年同期的14.4%飙到55.6%，净利润率33.9%。 一个季度赚了去年全年近三倍的钱，毛利率一年翻了近四倍",
+      "publishedAt": "2026-07-21T02:33:43Z",
+      "published_at": "2026-07-21T02:33:43Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "e1762b82",
+      "title": "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/455979.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/455979.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师  量子位的朋友们 2026-07-21 13:44:29  来源：量子位   7月21日，阿里Qoder上线全新安全能力Qoder Security，和传统扫描工具靠规则匹配已知模式不同，该安全能力可在Qoder生成代码时同步开展安全检查，发现问题后自动修复，并在下一轮扫描中闭环，覆盖「发现、修复、再次验证」的全链路，相当于为每一位用户配备一位专属安全工程师，可满足企业级场景对安全的需求。  根据数据统计显示，全球超过40%的新代码由AI辅助生成，这些AI生成的代码出现漏洞的概率要高于人工代码，但企业的安全审查能力并未同步提升。因此安全不能依赖人的自律与模型的自觉，必须内建于Agent的运行框架。 Qoder将“静态扫描”升级为“主动式安全”方案，该方案集成了自研安全大模型，可理解代码上下文与污点传播路径，对检出的问题自我验证可达性，只报告真实可达的风险。发现问题后由编程智能体直接完成修复，下一轮扫描闭环再次验证。  第一层漏洞实时拦截 为平衡成本、延迟和漏洞检出率问题，解决成本与延迟的问题，Qoder还设计了三层安全护",
+      "summary_zh": "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师  量子位的朋友们 2026-07-21 13:44:29  来源：量子位   7月21日，阿里Qoder上线全新安全能力Qoder Security，和传统扫描工具靠规则匹配已知模式不同，该安全能力可在Qoder生成代码时同步开展安全检查，发现问题后自动修复，并在下一轮扫描中闭环，覆盖「发现、修复、再次验证」的全链路，相当于为每一位用户配备一位专属安全工程师，可满足企业级场景对安全的需求。  根据数据统计显示，全球超过40%的新代码由AI辅助生成，这些AI生成的代码出现漏洞的概率要高于人工代码，但企业的安全审查能力并未同步提升。因此安全不能依赖人的自律与模型的自觉，必须内建于Agent的运行框架。 Qoder将“静态扫描”升级为“主动式安全”方案，该方案集成了自研安全大模型，可理解代码上下文与污点传播路径，对检出的问题自我验证可达性，只报告真实可达的风险。发现问题后由编程智能体直接完成修复，下一轮扫描闭环再次验证。  第一层漏洞实时拦截 为平衡成本、延迟和漏洞检出率问题，解决成本与延迟的问题，Qoder还设计了三层安全护",
+      "publishedAt": "2026-07-21T05:44:29Z",
+      "published_at": "2026-07-21T05:44:29Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
