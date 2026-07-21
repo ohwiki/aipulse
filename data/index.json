@@ -1,138 +1,80 @@
 {
-  "generated_at": "2026-07-20T21:37:35Z",
-  "generatedAt": "2026-07-20T21:37:35Z",
+  "generated_at": "2026-07-21T10:37:43Z",
+  "generatedAt": "2026-07-21T10:37:43Z",
   "count": 70,
   "total": 70,
   "entries": [
     {
       "date": "2026-07-21",
-      "generated_at": "2026-07-20T21:37:35Z",
-      "generatedAt": "2026-07-20T21:37:35Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-07-21T10:37:43Z",
+      "generatedAt": "2026-07-21T10:37:43Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "a6eabd39",
-          "title": "产品更新：Fuzzy AI",
-          "title_en": "Fuzzy AI",
-          "url": "https://www.producthunt.com/products/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "feae8112",
+          "title": "上市前夜 | 常州嘉轩智能冲港股IPO，全球第一也很缺钱",
+          "title_en": null,
+          "url": "https://36kr.com/p/3904783876982405?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "We warm your prospects before reaching out Col",
-          "summary_zh": "We warm your prospects before reaching out Col",
-          "publishedAt": "2026-07-20T07:01:00Z",
-          "published_at": "2026-07-20T07:01:00Z",
-          "votes_count": 511,
-          "featured": true,
-          "topics": [
-            {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "1359",
-              "name": "Vercel Day",
-              "slug": "vercel-day"
-            },
-            {
-              "id": "1491",
-              "name": "OpenAI Day",
-              "slug": "openai-day"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3904783876982405?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "本文约2800字，建议阅读6分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第六期——嘉轩智能。  近日，来自江苏常州的嘉轩智能向港交所递交招股书，东兴证券（香港）为独家保荐。 虽然这家公司不被大众所熟知，但按收入计，它的工业永磁直驱滚筒在全球市占率80.3%，前三名合计91.8%，而第二名只有6.6%。即使放宽到整个工业永磁电驱解决方案行业，它也以11.1%的份额连续三年全球第一。 一个细分赛道近乎垄断的隐形冠军，在395页招股书里藏着多少秘密，硬氪进行了一一拆解。  三年账面赚1亿，现金却流出2.35亿 业绩方面。2023到2025年，嘉轩收入分别为7.61亿、8.73亿、9.36亿元，年内利润2101万、4083.8万、4157.2万元，毛利率从24.1%提高到25.7%。 看得出，这是一家连续盈利、细分市占率80%的制造业公司，但增速明显在下降。  （图源/硬氪整理） 2024年收入增长14.6%、利润接近翻倍；到了2025年，收入增速却骤降至7.3%、利润只增长1.8%。 同时，20",
+          "summary_zh": "本文约2800字，建议阅读6分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第六期——嘉轩智能。  近日，来自江苏常州的嘉轩智能向港交所递交招股书，东兴证券（香港）为独家保荐。 虽然这家公司不被大众所熟知，但按收入计，它的工业永磁直驱滚筒在全球市占率80.3%，前三名合计91.8%，而第二名只有6.6%。即使放宽到整个工业永磁电驱解决方案行业，它也以11.1%的份额连续三年全球第一。 一个细分赛道近乎垄断的隐形冠军，在395页招股书里藏着多少秘密，硬氪进行了一一拆解。  三年账面赚1亿，现金却流出2.35亿 业绩方面。2023到2025年，嘉轩收入分别为7.61亿、8.73亿、9.36亿元，年内利润2101万、4083.8万、4157.2万元，毛利率从24.1%提高到25.7%。 看得出，这是一家连续盈利、细分市占率80%的制造业公司，但增速明显在下降。  （图源/硬氪整理） 2024年收入增长14.6%、利润接近翻倍；到了2025年，收入增速却骤降至7.3%、利润只增长1.8%。 同时，20",
+          "publishedAt": "2026-07-21T02:32:15Z",
+          "published_at": "2026-07-21T02:32:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "4288de64",
-          "title": "产品更新：Nautis",
-          "title_en": "Nautis",
-          "url": "https://www.producthunt.com/products/nautis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "9499aab4",
+          "title": "上市前夜 | “喜羊羊”老板二冲港股IPO，奥动新能源近三年半亏掉14.7亿",
+          "title_en": null,
+          "url": "https://36kr.com/p/3904781968508550?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/nautis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The AI-native Operating System for founders. N",
-          "summary_zh": "The AI-native Operating System for founders. N",
-          "publishedAt": "2026-07-20T07:01:00Z",
-          "published_at": "2026-07-20T07:01:00Z",
-          "votes_count": 430,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3904781968508550?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "本文约2800字，建议阅读6分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第七期——奥动新能源。  7月19日，奥动新能源再次向港交所主板递交上市申请，独家保荐人为招银国际。事实上，这已是奥动新能源的第二次递表，首次递表在2025年12月12日，但6个月未通过聆讯就失效了。 有意思的是这家公司实控人——奥动新能源董事长、总经理蔡东青，今年57岁，1997年创办了奥飞娱乐（002292.SZ）并任董事长兼总经理至今，奥飞娱乐出品过《喜羊羊与灰太狼》。2016年6月，他与换电技术老兵张建平共同创办奥动新能源，一头扎进了电动车换电这个重资产赛道。 如今十年过去，但奥动新能源2023-2026年前4个月，就合计净亏损约14.7亿元；收入从2023年的11.55亿一路跌到2025年的6.77亿，近乎腰斩；2022年初完成最后一轮融资后，四年再无新钱进账。  收入三连降，“卖一单亏一单”卖了三年 从业绩来看，2023年到2025年，奥动收入分别为11.55亿、9.26亿、6.77亿元，同比降幅一年比一年",
+          "summary_zh": "本文约2800字，建议阅读6分钟 作者 | 彭孝秋  编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第七期——奥动新能源。  7月19日，奥动新能源再次向港交所主板递交上市申请，独家保荐人为招银国际。事实上，这已是奥动新能源的第二次递表，首次递表在2025年12月12日，但6个月未通过聆讯就失效了。 有意思的是这家公司实控人——奥动新能源董事长、总经理蔡东青，今年57岁，1997年创办了奥飞娱乐（002292.SZ）并任董事长兼总经理至今，奥飞娱乐出品过《喜羊羊与灰太狼》。2016年6月，他与换电技术老兵张建平共同创办奥动新能源，一头扎进了电动车换电这个重资产赛道。 如今十年过去，但奥动新能源2023-2026年前4个月，就合计净亏损约14.7亿元；收入从2023年的11.55亿一路跌到2025年的6.77亿，近乎腰斩；2022年初完成最后一轮融资后，四年再无新钱进账。  收入三连降，“卖一单亏一单”卖了三年 从业绩来看，2023年到2025年，奥动收入分别为11.55亿、9.26亿、6.77亿元，同比降幅一年比一年",
+          "publishedAt": "2026-07-21T02:30:15Z",
+          "published_at": "2026-07-21T02:30:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "681f6751",
-          "title": "产品更新：Loova Ads Studi",
-          "title_en": "Loova Ads Studio",
-          "url": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "f305cea5",
+          "title": "6000万用户的情感陪伴APP，营收数亿后做了款家庭机器人｜产品观察",
+          "title_en": null,
+          "url": "https://36kr.com/p/3904049563731849?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Create AI ads that convert, not just look good",
-          "summary_zh": "Create AI ads that convert, not just look good",
-          "publishedAt": "2026-07-20T07:01:00Z",
-          "published_at": "2026-07-20T07:01:00Z",
-          "votes_count": 343,
-          "featured": true,
-          "topics": [
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "207",
-              "name": "Advertising",
-              "slug": "advertising"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3904049563731849?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "作者 | 黄楠 编辑 | 袁斯来 在旗下App每年创造数亿元营收、日均百万用户打开量的时候，心言集团创始人兼CEO任永亮做了一个令所有人都觉得“不理性”的决定：把AI情感陪伴能力塞进一个硬件的模具里——造机器人。 心言集团最有名的产品叫测测，来自上一个互联网时代，2013年上线，主要为用户提供泛心理科普及测评、在线情感陪伴，拿过腾讯的B轮融资。到2025年，测测已经有6000多万用户。 但仅仅靠一款12年的线上情感陪伴产品，显然无法在这个AI时代更进一步。任永亮察觉到线上交互模式存在不可弥补的能力边界。 屏幕对话是单向、割裂的沟通形式，难以捕捉物理三维信息，无法满足亲子陪伴、老人情绪安抚、居家日常互动等复合需求。而纵观市面上主流的智能终端，或交互门槛过高、或仅具备简单卖萌功能，始终缺少能自主读懂家庭氛围的具身载体。 这种缺位，让任永亮看到了情绪交互硬件的窗口期。当行业还在比拼仿生关节与表演动作时，他认为家庭场景真正需要的是一个能读懂氛围、知进退的具身载体提供情感“在场”。 近日，心言集团家庭主动智能陪伴机器人巴布（Buboo 1）在WAIC 2026上首次开启线下互动体验。 展台现场，",
+          "summary_zh": "作者 | 黄楠 编辑 | 袁斯来 在旗下App每年创造数亿元营收、日均百万用户打开量的时候，心言集团创始人兼CEO任永亮做了一个令所有人都觉得“不理性”的决定：把AI情感陪伴能力塞进一个硬件的模具里——造机器人。 心言集团最有名的产品叫测测，来自上一个互联网时代，2013年上线，主要为用户提供泛心理科普及测评、在线情感陪伴，拿过腾讯的B轮融资。到2025年，测测已经有6000多万用户。 但仅仅靠一款12年的线上情感陪伴产品，显然无法在这个AI时代更进一步。任永亮察觉到线上交互模式存在不可弥补的能力边界。 屏幕对话是单向、割裂的沟通形式，难以捕捉物理三维信息，无法满足亲子陪伴、老人情绪安抚、居家日常互动等复合需求。而纵观市面上主流的智能终端，或交互门槛过高、或仅具备简单卖萌功能，始终缺少能自主读懂家庭氛围的具身载体。 这种缺位，让任永亮看到了情绪交互硬件的窗口期。当行业还在比拼仿生关节与表演动作时，他认为家庭场景真正需要的是一个能读懂氛围、知进退的具身载体提供情感“在场”。 近日，心言集团家庭主动智能陪伴机器人巴布（Buboo 1）在WAIC 2026上首次开启线下互动体验。 展台现场，",
+          "publishedAt": "2026-07-21T01:30:00Z",
+          "published_at": "2026-07-21T01:30:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
