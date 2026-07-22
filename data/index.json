@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-07-22T10:37:52Z",
-  "generatedAt": "2026-07-22T10:37:52Z",
-  "count": 71,
-  "total": 71,
+  "generated_at": "2026-07-22T21:33:20Z",
+  "generatedAt": "2026-07-22T21:33:20Z",
+  "count": 72,
+  "total": 72,
   "entries": [
+    {
+      "date": "2026-07-23",
+      "generated_at": "2026-07-22T21:33:20Z",
+      "generatedAt": "2026-07-22T21:33:20Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "1e8d923f",
+          "title": "产品更新：Humalike x Herm",
+          "title_en": "Humalike x Hermes",
+          "url": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Social intelligence plugin for Hermes Agent On",
+          "summary_zh": "Social intelligence plugin for Hermes Agent On",
+          "publishedAt": "2026-07-22T07:01:00Z",
+          "published_at": "2026-07-22T07:01:00Z",
+          "votes_count": 383,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8fd80b91",
+          "title": "AI资讯更新：Migma AI",
+          "title_en": "Migma AI",
+          "url": "https://www.producthunt.com/products/migma-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/migma-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI runs your email marketing. Better with ever",
+          "summary_zh": "AI runs your email marketing. Better with ever",
+          "publishedAt": "2026-07-22T07:01:00Z",
+          "published_at": "2026-07-22T07:01:00Z",
+          "votes_count": 349,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d23bc3e0",
+          "title": "AI资讯更新：Kastra",
+          "title_en": "Kastra",
+          "url": "https://www.producthunt.com/products/kastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/kastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Runtime authorization for Claude, Cursor, Code",
+          "summary_zh": "Runtime authorization for Claude, Cursor, Code",
+          "publishedAt": "2026-07-22T07:01:00Z",
+          "published_at": "2026-07-22T07:01:00Z",
+          "votes_count": 298,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-22",
       "generated_at": "2026-07-22T10:37:52Z",

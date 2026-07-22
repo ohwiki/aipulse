@@ -1,30 +1,165 @@
 {
-  "generated_at": "2026-07-22T10:37:52Z",
-  "generatedAt": "2026-07-22T10:37:52Z",
+  "generated_at": "2026-07-22T21:33:20Z",
+  "generatedAt": "2026-07-22T21:33:20Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 8,
+  "count": 8,
   "items": [
     {
-      "id": "399da34c",
-      "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/07/456061.html",
-      "source": "量子位",
+      "id": "1e8d923f",
+      "title": "产品更新：Humalike x Herm",
+      "title_en": "Humalike x Hermes",
+      "url": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/07/456061.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅  鹭羽 2026-07-22 08:34:33  来源：量子位   中国大模型首次获得IMO官方金牌水平认证   鹭羽 发自 凹非寺 量子位 | 公众号 QbitAI  哈？小红书你真是闷声干大事啊！ 刚刚，IMO 2026成绩新鲜出炉，大模型交卷今年卷到了新高度。 结果第一个拿到官方评卷满分的居然是小红书？？？     经IMO官方评定，小红书大模型dots-note-3.0，六道题全部答对，以满分成绩斩获金牌。 含金量有多高呢？ 这么说吧，这是中国大模型首次获得IMO官方金牌水平认证，也是继谷歌Gemini模型之后，全球第二个达到该成绩的大模型。 而且划重点！是满分！谷歌当年也只答对了5/6……     震惊了，这还是我印象中的小红书吗？ 首次登上世界级竞赛，就来了场开门红～ 再往下深扒，小红书大模型dots-note-3.0的解题方式也让人眼前一亮又一亮： 它仅用自然语言就完成了从读题、解析到写证明的全过程，最终答案不仅全部正确，在部分题目上还创新地提出了非常规解法。   图片由AI生成  双CMO金牌得主刘涵祚看完后这样",
-      "summary_zh": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅  鹭羽 2026-07-22 08:34:33  来源：量子位   中国大模型首次获得IMO官方金牌水平认证   鹭羽 发自 凹非寺 量子位 | 公众号 QbitAI  哈？小红书你真是闷声干大事啊！ 刚刚，IMO 2026成绩新鲜出炉，大模型交卷今年卷到了新高度。 结果第一个拿到官方评卷满分的居然是小红书？？？     经IMO官方评定，小红书大模型dots-note-3.0，六道题全部答对，以满分成绩斩获金牌。 含金量有多高呢？ 这么说吧，这是中国大模型首次获得IMO官方金牌水平认证，也是继谷歌Gemini模型之后，全球第二个达到该成绩的大模型。 而且划重点！是满分！谷歌当年也只答对了5/6……     震惊了，这还是我印象中的小红书吗？ 首次登上世界级竞赛，就来了场开门红～ 再往下深扒，小红书大模型dots-note-3.0的解题方式也让人眼前一亮又一亮： 它仅用自然语言就完成了从读题、解析到写证明的全过程，最终答案不仅全部正确，在部分题目上还创新地提出了非常规解法。   图片由AI生成  双CMO金牌得主刘涵祚看完后这样",
-      "publishedAt": "2026-07-22T00:34:33Z",
-      "published_at": "2026-07-22T00:34:33Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Social intelligence plugin for Hermes Agent On",
+      "summary_zh": "Social intelligence plugin for Hermes Agent On",
+      "publishedAt": "2026-07-22T07:01:00Z",
+      "published_at": "2026-07-22T07:01:00Z",
+      "votes_count": 383,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8fd80b91",
+      "title": "AI资讯更新：Migma AI",
+      "title_en": "Migma AI",
+      "url": "https://www.producthunt.com/products/migma-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/migma-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI runs your email marketing. Better with ever",
+      "summary_zh": "AI runs your email marketing. Better with ever",
+      "publishedAt": "2026-07-22T07:01:00Z",
+      "published_at": "2026-07-22T07:01:00Z",
+      "votes_count": 349,
+      "featured": true,
+      "topics": [
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d23bc3e0",
+      "title": "AI资讯更新：Kastra",
+      "title_en": "Kastra",
+      "url": "https://www.producthunt.com/products/kastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/kastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Runtime authorization for Claude, Cursor, Code",
+      "summary_zh": "Runtime authorization for Claude, Cursor, Code",
+      "publishedAt": "2026-07-22T07:01:00Z",
+      "published_at": "2026-07-22T07:01:00Z",
+      "votes_count": 298,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "865",
+          "name": "Security",
+          "slug": "security"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "07098fe2",
+      "title": "产品更新：Buzzy",
+      "title_en": "Buzzy",
+      "url": "https://www.producthunt.com/products/buzzy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/buzzy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your creative AI co-director Buzzy is the firs",
+      "summary_zh": "Your creative AI co-director Buzzy is the firs",
+      "publishedAt": "2026-07-22T07:01:00Z",
+      "published_at": "2026-07-22T07:01:00Z",
+      "votes_count": 285,
+      "featured": true,
+      "topics": [
+        {
+          "id": "100",
+          "name": "Movies",
+          "slug": "movies"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
       "score_details": null
     },
     {
@@ -88,6 +223,28 @@
       "summary_zh": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff  田, 晏林 2026-07-22 10:59:28  来源：量子位   建一座「元医院」比造AI工具难多了。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  今年WAIC现场，300多款产品全球首发，1100多家企业把10万平米的展馆塞得满满当当。 机器人在跳舞，大模型在对话，Agent开始进入越来越多行业。 热闹归热闹。    但如果你穿过人流，走到联影智能的展台和论坛现场，会听到一个既熟悉又陌生的词—— 元医院。 为什么说熟悉？你不觉得乍一听，瞬间让人想起几年前那个风靡全球的「元宇宙」嘛！ 彼时，Meta豪掷千亿美元押注虚拟世界，全球科技公司纷纷入场，所有人都在讨论：下一个互联网入口，会不会来自一个平行数字世界？ 但几年过去，元宇宙并没有成为那个答案。 就在行业以为「元」字热已经退去时，没想到，2026年，它却出现在了医疗行业。 在今年世界人工智能大会上，联影智能首次发布「元医院」战略。    但它想做的事情，和元宇宙完全不同。 它不新建虚拟医院、不替代医生，而是把零散AI工具整合为全院协同的智能",
       "publishedAt": "2026-07-22T02:59:28Z",
       "published_at": "2026-07-22T02:59:28Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "12c2e38d",
+      "title": "物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/456728.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/456728.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣  田, 晏林 2026-07-22 11:06:21  来源：量子位   按照规划，日冕和远图将首先在服务器制造场景验证超级工站能力，随后向更多生产环节扩展。2027年完成百台级部署，未来实现万台级具身智能产品部署。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  WAIC 2026落幕了，但一个信号藏不住。 如果你逛完了全场，会发现今年具身智能的展位比去年多了将近一倍。 人形机器人跳舞、机械臂叠衣服、双足机器人走斜坡——Demo一个比一个炫。 但和现场的投资人、产业方多聊几句，会听到同一种疲惫：看了太多Demo，听了太多参数，真正签单进厂的，太少。 Demo和量产之间，好像隔着一整个物理世界。 但别丧，还是有实打实拿到订单的企业。 在WAIC开幕前，一家专注做物理世界基础模型和解决方案的公司日冕开物，与全球服务器制造龙头&AI基础设施全栈解决方案提供商广东远图未来科技有限公司（以下简称“远图”）宣布启动超级工站战略合作。 目标非常具体且生猛：万台级部署。    WAIC现场，日冕展示了该超级工站的实际作业能力",
+      "summary_zh": "物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣  田, 晏林 2026-07-22 11:06:21  来源：量子位   按照规划，日冕和远图将首先在服务器制造场景验证超级工站能力，随后向更多生产环节扩展。2027年完成百台级部署，未来实现万台级具身智能产品部署。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  WAIC 2026落幕了，但一个信号藏不住。 如果你逛完了全场，会发现今年具身智能的展位比去年多了将近一倍。 人形机器人跳舞、机械臂叠衣服、双足机器人走斜坡——Demo一个比一个炫。 但和现场的投资人、产业方多聊几句，会听到同一种疲惫：看了太多Demo，听了太多参数，真正签单进厂的，太少。 Demo和量产之间，好像隔着一整个物理世界。 但别丧，还是有实打实拿到订单的企业。 在WAIC开幕前，一家专注做物理世界基础模型和解决方案的公司日冕开物，与全球服务器制造龙头&AI基础设施全栈解决方案提供商广东远图未来科技有限公司（以下简称“远图”）宣布启动超级工站战略合作。 目标非常具体且生猛：万台级部署。    WAIC现场，日冕展示了该超级工站的实际作业能力",
+      "publishedAt": "2026-07-22T03:06:21Z",
+      "published_at": "2026-07-22T03:06:21Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
