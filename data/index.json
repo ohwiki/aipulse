@@ -1,133 +1,80 @@
 {
-  "generated_at": "2026-07-21T21:37:45Z",
-  "generatedAt": "2026-07-21T21:37:45Z",
+  "generated_at": "2026-07-22T10:37:52Z",
+  "generatedAt": "2026-07-22T10:37:52Z",
   "count": 71,
   "total": 71,
   "entries": [
     {
       "date": "2026-07-22",
-      "generated_at": "2026-07-21T21:37:45Z",
-      "generatedAt": "2026-07-21T21:37:45Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-07-22T10:37:52Z",
+      "generatedAt": "2026-07-22T10:37:52Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "4700d19c",
-          "title": "产品更新：Lev8",
-          "title_en": "Lev8",
-          "url": "https://www.producthunt.com/products/lev8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "8f592afd",
+          "title": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/456555.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/lev8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Find, research, and reach the right people Cha",
-          "summary_zh": "Find, research, and reach the right people Cha",
-          "publishedAt": "2026-07-21T07:01:00Z",
-          "published_at": "2026-07-21T07:01:00Z",
-          "votes_count": 415,
-          "featured": true,
-          "topics": [
-            {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "839",
-              "name": "Marketing automation",
-              "slug": "marketing-automation"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/456555.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff  田, 晏林 2026-07-22 10:59:28  来源：量子位   建一座「元医院」比造AI工具难多了。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  今年WAIC现场，300多款产品全球首发，1100多家企业把10万平米的展馆塞得满满当当。 机器人在跳舞，大模型在对话，Agent开始进入越来越多行业。 热闹归热闹。    但如果你穿过人流，走到联影智能的展台和论坛现场，会听到一个既熟悉又陌生的词—— 元医院。 为什么说熟悉？你不觉得乍一听，瞬间让人想起几年前那个风靡全球的「元宇宙」嘛！ 彼时，Meta豪掷千亿美元押注虚拟世界，全球科技公司纷纷入场，所有人都在讨论：下一个互联网入口，会不会来自一个平行数字世界？ 但几年过去，元宇宙并没有成为那个答案。 就在行业以为「元」字热已经退去时，没想到，2026年，它却出现在了医疗行业。 在今年世界人工智能大会上，联影智能首次发布「元医院」战略。    但它想做的事情，和元宇宙完全不同。 它不新建虚拟医院、不替代医生，而是把零散AI工具整合为全院协同的智能",
+          "summary_zh": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff  田, 晏林 2026-07-22 10:59:28  来源：量子位   建一座「元医院」比造AI工具难多了。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  今年WAIC现场，300多款产品全球首发，1100多家企业把10万平米的展馆塞得满满当当。 机器人在跳舞，大模型在对话，Agent开始进入越来越多行业。 热闹归热闹。    但如果你穿过人流，走到联影智能的展台和论坛现场，会听到一个既熟悉又陌生的词—— 元医院。 为什么说熟悉？你不觉得乍一听，瞬间让人想起几年前那个风靡全球的「元宇宙」嘛！ 彼时，Meta豪掷千亿美元押注虚拟世界，全球科技公司纷纷入场，所有人都在讨论：下一个互联网入口，会不会来自一个平行数字世界？ 但几年过去，元宇宙并没有成为那个答案。 就在行业以为「元」字热已经退去时，没想到，2026年，它却出现在了医疗行业。 在今年世界人工智能大会上，联影智能首次发布「元医院」战略。    但它想做的事情，和元宇宙完全不同。 它不新建虚拟医院、不替代医生，而是把零散AI工具整合为全院协同的智能",
+          "publishedAt": "2026-07-22T02:59:28Z",
+          "published_at": "2026-07-22T02:59:28Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "cf8a93f6",
-          "title": "产品更新：CartAI",
-          "title_en": "CartAI",
-          "url": "https://www.producthunt.com/products/cartai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "8578c5a6",
+          "title": "酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/456178.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/cartai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The AI agent that handles checkout. Checkout i",
-          "summary_zh": "The AI agent that handles checkout. Checkout i",
-          "publishedAt": "2026-07-21T07:01:00Z",
-          "published_at": "2026-07-21T07:01:00Z",
-          "votes_count": 350,
-          "featured": true,
-          "topics": [
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/456178.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型  量子位的朋友们 2026-07-22 09:46:01  来源：量子位   机器人真正需要的世界模型，并不是单一物理世界模型，而是物理世界模型与人类社会世界模型的统一  7月17日，2026世界人工智能大会（WAIC 2026）在上海世博展览馆盛大启幕。酷哇科技（COOWA）在上海国投展区惊艳亮相，展台现场，由酷哇全栈自研的 COOWAM 双层智能体世界模型驱动的机械臂，流畅完成了长程复杂操作——“夏日特调”饮品制作演示；同时，面向城市复杂场景研发的首款重载型四足机器狗 X0 也完成了其线下首秀。 同期举行的“解码世界”发展创新分论坛上，酷哇科技创始人、 CTO 廖文龙博士发表了题为《世界模型：物理世界 Agent 的技术底座》的主题演讲。他在会上向业界披露了行业首个双层智能体世界模型架构——COOWAM（Co-Optimized World Action Model），并以此为基础勾勒出由统一模型驱动的“RoboCity（机器人城市）”终极愿景。 从技术实演、新品亮相到解密底层模型架构，深耕城市场景的酷哇科技，正以世界",
+          "summary_zh": "酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型  量子位的朋友们 2026-07-22 09:46:01  来源：量子位   机器人真正需要的世界模型，并不是单一物理世界模型，而是物理世界模型与人类社会世界模型的统一  7月17日，2026世界人工智能大会（WAIC 2026）在上海世博展览馆盛大启幕。酷哇科技（COOWA）在上海国投展区惊艳亮相，展台现场，由酷哇全栈自研的 COOWAM 双层智能体世界模型驱动的机械臂，流畅完成了长程复杂操作——“夏日特调”饮品制作演示；同时，面向城市复杂场景研发的首款重载型四足机器狗 X0 也完成了其线下首秀。 同期举行的“解码世界”发展创新分论坛上，酷哇科技创始人、 CTO 廖文龙博士发表了题为《世界模型：物理世界 Agent 的技术底座》的主题演讲。他在会上向业界披露了行业首个双层智能体世界模型架构——COOWAM（Co-Optimized World Action Model），并以此为基础勾勒出由统一模型驱动的“RoboCity（机器人城市）”终极愿景。 从技术实演、新品亮相到解密底层模型架构，深耕城市场景的酷哇科技，正以世界",
+          "publishedAt": "2026-07-22T01:46:01Z",
+          "published_at": "2026-07-22T01:46:01Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "5722d978",
-          "title": "产品更新：ditto.site",
-          "title_en": "ditto.site",
-          "url": "https://www.producthunt.com/products/ditto-site?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "e1fee3c4",
+          "title": "最前线|新奥聚变主办第四届氢硼聚变研讨会，企业估值已超百亿",
+          "title_en": null,
+          "url": "https://36kr.com/p/3905241313527687?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/ditto-site?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Clone any website into clean code. Free & open",
-          "summary_zh": "Clone any website into clean code. Free & open",
-          "publishedAt": "2026-07-21T07:01:00Z",
-          "published_at": "2026-07-21T07:01:00Z",
-          "votes_count": 337,
-          "featured": true,
-          "topics": [
-            {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
-            },
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3905241313527687?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "7月21日，由北京新奥聚变能源科技有限公司（简称新奥聚变）主办的第四届氢硼聚变研讨会在河北廊坊开幕。  第四届氢硼聚变研讨会现场 作为中国最早开展商用聚变能源开发的民营企业，新奥集团于2017年基于从低碳技术向无碳技术的研发升级，开启“无中子、低成本、商用化”的紧凑型聚变研发，重点布局球形环氢硼聚变技术路线。该技术路线具有清洁安全、燃料易得、成本低廉等优势，具有较大的商业化潜力。 2023年，新奥集团成为国家可控核聚变创新联合体成员，2026年开始参与国际托卡马克物理与工程活动（ITPEA），成为中国首家、全球第二家加入ITPEA的民营企业。同时，它也是国内投入最大、技术参数最领先的民营企业，目前累计投入超40亿元，建成两代球形环装置“玄龙-50”和“玄龙-50U”。 “玄龙-50U”是全球聚变唯一实现装置工程设计指标全面达标的装置，2025年以来接连取得了兆安级氢硼等离子体放电、秒量级1.2特斯拉强磁场、氢硼等离子体高约束模放电、电子温度破亿度等多项重大突破，综合参数达到全球最高水平，填补国内该技术路线空白。 7月初，新奥聚变刚完成首轮（Pre-A）融资，投后估值106亿元，是国内聚",
+          "summary_zh": "7月21日，由北京新奥聚变能源科技有限公司（简称新奥聚变）主办的第四届氢硼聚变研讨会在河北廊坊开幕。  第四届氢硼聚变研讨会现场 作为中国最早开展商用聚变能源开发的民营企业，新奥集团于2017年基于从低碳技术向无碳技术的研发升级，开启“无中子、低成本、商用化”的紧凑型聚变研发，重点布局球形环氢硼聚变技术路线。该技术路线具有清洁安全、燃料易得、成本低廉等优势，具有较大的商业化潜力。 2023年，新奥集团成为国家可控核聚变创新联合体成员，2026年开始参与国际托卡马克物理与工程活动（ITPEA），成为中国首家、全球第二家加入ITPEA的民营企业。同时，它也是国内投入最大、技术参数最领先的民营企业，目前累计投入超40亿元，建成两代球形环装置“玄龙-50”和“玄龙-50U”。 “玄龙-50U”是全球聚变唯一实现装置工程设计指标全面达标的装置，2025年以来接连取得了兆安级氢硼等离子体放电、秒量级1.2特斯拉强磁场、氢硼等离子体高约束模放电、电子温度破亿度等多项重大突破，综合参数达到全球最高水平，填补国内该技术路线空白。 7月初，新奥聚变刚完成首轮（Pre-A）融资，投后估值106亿元，是国内聚",
+          "publishedAt": "2026-07-22T01:30:00Z",
+          "published_at": "2026-07-22T01:30:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
