@@ -1,133 +1,80 @@
 {
-  "generated_at": "2026-07-22T21:33:20Z",
-  "generatedAt": "2026-07-22T21:33:20Z",
+  "generated_at": "2026-07-23T10:38:56Z",
+  "generatedAt": "2026-07-23T10:38:56Z",
   "count": 72,
   "total": 72,
   "entries": [
     {
       "date": "2026-07-23",
-      "generated_at": "2026-07-22T21:33:20Z",
-      "generatedAt": "2026-07-22T21:33:20Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-07-23T10:38:56Z",
+      "generatedAt": "2026-07-23T10:38:56Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "1e8d923f",
-          "title": "产品更新：Humalike x Herm",
-          "title_en": "Humalike x Hermes",
-          "url": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "4fb7bbe0",
+          "title": "太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/457356.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Social intelligence plugin for Hermes Agent On",
-          "summary_zh": "Social intelligence plugin for Hermes Agent On",
-          "publishedAt": "2026-07-22T07:01:00Z",
-          "published_at": "2026-07-22T07:01:00Z",
-          "votes_count": 383,
-          "featured": true,
-          "topics": [
-            {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/457356.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛  量子位的朋友们 2026-07-23 09:43:44  来源：量子位   日前，由上海人工智能实验室主办的KernelSwift算子创新大赛正式发布。本次大赛聚焦高性能算子优化与国产算力生态建设，设置多个赛道面向全社会开放报名。其中，国产智算企业太初（杭州）集成电路有限公司（“太初元碁”）作为大赛主要合作伙伴推出 AI4S和新型模型架构算子优化赛道（太初赛道）。 据了解，AI4S和新型模型架构算子优化赛道聚焦人工智能与科学计算深度融合的AI for Science（AI4S）领域，旨在通过实战挖掘高性能算子优化人才，推动国产算力与前沿AI4S模型的深度适配。值得一提的是，KernelSwift智能算子迁移系统将作为大赛的算子生成工具，为参赛选手提供强大的底层工具赋能，大幅降低算子开发优化的门槛。 根据大赛方信息，AI4S和新型模型架构算子优化赛道围绕 OneGenomeRice —— 面向水稻基因组学的AI模型展开，选手需完成 reshape_and_cache_flash 及 flash_attn_varlen_",
+          "summary_zh": "太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛  量子位的朋友们 2026-07-23 09:43:44  来源：量子位   日前，由上海人工智能实验室主办的KernelSwift算子创新大赛正式发布。本次大赛聚焦高性能算子优化与国产算力生态建设，设置多个赛道面向全社会开放报名。其中，国产智算企业太初（杭州）集成电路有限公司（“太初元碁”）作为大赛主要合作伙伴推出 AI4S和新型模型架构算子优化赛道（太初赛道）。 据了解，AI4S和新型模型架构算子优化赛道聚焦人工智能与科学计算深度融合的AI for Science（AI4S）领域，旨在通过实战挖掘高性能算子优化人才，推动国产算力与前沿AI4S模型的深度适配。值得一提的是，KernelSwift智能算子迁移系统将作为大赛的算子生成工具，为参赛选手提供强大的底层工具赋能，大幅降低算子开发优化的门槛。 根据大赛方信息，AI4S和新型模型架构算子优化赛道围绕 OneGenomeRice —— 面向水稻基因组学的AI模型展开，选手需完成 reshape_and_cache_flash 及 flash_attn_varlen_",
+          "publishedAt": "2026-07-23T01:43:44Z",
+          "published_at": "2026-07-23T01:43:44Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "8fd80b91",
-          "title": "AI资讯更新：Migma AI",
-          "title_en": "Migma AI",
-          "url": "https://www.producthunt.com/products/migma-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "10d1dcb7",
+          "title": "36氪首发 | 前华尔街投资人下场造“手”，以“自研视触觉+软硬闭环”破解行业数据难题",
+          "title_en": null,
+          "url": "https://36kr.com/p/3907536767833473?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/migma-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI runs your email marketing. Better with ever",
-          "summary_zh": "AI runs your email marketing. Better with ever",
-          "publishedAt": "2026-07-22T07:01:00Z",
-          "published_at": "2026-07-22T07:01:00Z",
-          "votes_count": 349,
-          "featured": true,
-          "topics": [
-            {
-              "id": "39",
-              "name": "Email",
-              "slug": "email"
-            },
-            {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3907536767833473?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "图源/企业  本文约2100字，建议阅读5分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人灵巧操作方案提供商拾玥科技（LumiBot）近日完成数千万元天使轮融资。本轮由某上市公司旗下基金领投。资金将主要用于团队扩张、产品迭代与小批量产线建设，以及灵巧操作数据采集与模型研发。 拾玥科技成立于2025年初，专注于为工业制造、精密装配等高精度场景提供灵巧操作解决方案。目前，公司已推出Lumi-Dex系列高自由度灵巧手、Lumi-Tac指型视触觉传感器、Lumi-Mind灵巧操作模型及Lumi-Mod电机模组四大产品线。 团队方面，创始人吴聿文曾以投资人身份主导投资过AI智能视觉、咖啡机器人等多个项目。技术负责人宋开友师承熊有伦院士、尹周平院士，曾任蚂蚁集团高级算法专家，主导了百灵多模态大模型的多版模型训练；算法负责人陈逸凡来自百度自动驾驶团队主导并落地国内首个纯视觉高阶智驾方案；产品负责人钟乔恒曾创办灵巧手公司并实现量产。 在具身智能浪潮中，灵巧手被视为机器人完成精细化操作的“最后一厘米”。创始人吴聿文判断，灵巧手是机器人绕不开的瓶颈，也是价值链路极大的赛道。 拾玥科技的核心差异化之一，在",
+          "summary_zh": "图源/企业  本文约2100字，建议阅读5分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人灵巧操作方案提供商拾玥科技（LumiBot）近日完成数千万元天使轮融资。本轮由某上市公司旗下基金领投。资金将主要用于团队扩张、产品迭代与小批量产线建设，以及灵巧操作数据采集与模型研发。 拾玥科技成立于2025年初，专注于为工业制造、精密装配等高精度场景提供灵巧操作解决方案。目前，公司已推出Lumi-Dex系列高自由度灵巧手、Lumi-Tac指型视触觉传感器、Lumi-Mind灵巧操作模型及Lumi-Mod电机模组四大产品线。 团队方面，创始人吴聿文曾以投资人身份主导投资过AI智能视觉、咖啡机器人等多个项目。技术负责人宋开友师承熊有伦院士、尹周平院士，曾任蚂蚁集团高级算法专家，主导了百灵多模态大模型的多版模型训练；算法负责人陈逸凡来自百度自动驾驶团队主导并落地国内首个纯视觉高阶智驾方案；产品负责人钟乔恒曾创办灵巧手公司并实现量产。 在具身智能浪潮中，灵巧手被视为机器人完成精细化操作的“最后一厘米”。创始人吴聿文判断，灵巧手是机器人绕不开的瓶颈，也是价值链路极大的赛道。 拾玥科技的核心差异化之一，在",
+          "publishedAt": "2026-07-23T01:12:15Z",
+          "published_at": "2026-07-23T01:12:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "d23bc3e0",
-          "title": "AI资讯更新：Kastra",
-          "title_en": "Kastra",
-          "url": "https://www.producthunt.com/products/kastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "68a1cd11",
+          "title": "36氪首发 | 同济博士做几何、物理AI重构设计制造，累计获超3亿元融资",
+          "title_en": null,
+          "url": "https://36kr.com/p/3907532622648453?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/kastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Runtime authorization for Claude, Cursor, Code",
-          "summary_zh": "Runtime authorization for Claude, Cursor, Code",
-          "publishedAt": "2026-07-22T07:01:00Z",
-          "published_at": "2026-07-22T07:01:00Z",
-          "votes_count": 298,
-          "featured": true,
-          "topics": [
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "865",
-              "name": "Security",
-              "slug": "security"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3907532622648453?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "图源/企业  本文约1400字，建议阅读3分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，工业AI设计研发解决方案供应商「设序科技」于近日正式完成B轮超亿元融资，累计获超3亿元融资，投资方包括深产投、合鼎共及老股东涌铧投资等。融资将用于市场开拓（含出海）及核心模型技术研发。 设序科技成立于2020年，旗下产品“则形AI”是基于自研工业世界模型与自然语言大模型封装的面向硬件工程的设计研发智能体平台，提供云架构下的3D设计方案与2D工程图纸智能生成功能。创始人兼CEO吴泳荣为同济大学先进制造方向博士，曾任通用先进制造实验室研究员、蔚来汽车智能制造专家。 相比去年，设序原有的3D生成与2D生成两大产品线经历了深度的Agent化升级。目前，基于几何AI的3D Agent和基于制造AI的2D Agent已完成技术改造并迅速帮助工程师用户们创造了更厚价值。连接几何AI与制造AI的物理AI也已经投入技术研发与POC验证阶段。实际上，物理AI并不是具身智能领域的独有概念，结合工业机理对特定物理场进行工业级精确求解的物理AI同样重要。 吴泳荣向硬氪解释了这一演变的内在逻辑：“我们想打造一个面向硬件工程的通用",
+          "summary_zh": "图源/企业  本文约1400字，建议阅读3分钟  作者丨欧雪 编辑丨袁斯来 硬氪获悉，工业AI设计研发解决方案供应商「设序科技」于近日正式完成B轮超亿元融资，累计获超3亿元融资，投资方包括深产投、合鼎共及老股东涌铧投资等。融资将用于市场开拓（含出海）及核心模型技术研发。 设序科技成立于2020年，旗下产品“则形AI”是基于自研工业世界模型与自然语言大模型封装的面向硬件工程的设计研发智能体平台，提供云架构下的3D设计方案与2D工程图纸智能生成功能。创始人兼CEO吴泳荣为同济大学先进制造方向博士，曾任通用先进制造实验室研究员、蔚来汽车智能制造专家。 相比去年，设序原有的3D生成与2D生成两大产品线经历了深度的Agent化升级。目前，基于几何AI的3D Agent和基于制造AI的2D Agent已完成技术改造并迅速帮助工程师用户们创造了更厚价值。连接几何AI与制造AI的物理AI也已经投入技术研发与POC验证阶段。实际上，物理AI并不是具身智能领域的独有概念，结合工业机理对特定物理场进行工业级精确求解的物理AI同样重要。 吴泳荣向硬氪解释了这一演变的内在逻辑：“我们想打造一个面向硬件工程的通用",
+          "publishedAt": "2026-07-23T01:08:03Z",
+          "published_at": "2026-07-23T01:08:03Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
