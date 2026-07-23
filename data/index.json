@@ -1,9 +1,152 @@
 {
-  "generated_at": "2026-07-23T10:38:56Z",
-  "generatedAt": "2026-07-23T10:38:56Z",
-  "count": 72,
-  "total": 72,
+  "generated_at": "2026-07-23T21:31:57Z",
+  "generatedAt": "2026-07-23T21:31:57Z",
+  "count": 73,
+  "total": 73,
   "entries": [
+    {
+      "date": "2026-07-24",
+      "generated_at": "2026-07-23T21:31:57Z",
+      "generatedAt": "2026-07-23T21:31:57Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "54dceb66",
+          "title": "产品更新：Teable 3.0",
+          "title_en": "Teable 3.0",
+          "url": "https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI Spreadsheet for Business Turn your business",
+          "summary_zh": "AI Spreadsheet for Business Turn your business",
+          "publishedAt": "2026-07-23T07:01:00Z",
+          "published_at": "2026-07-23T07:01:00Z",
+          "votes_count": 328,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "131",
+              "name": "Spreadsheets",
+              "slug": "spreadsheets"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "1491",
+              "name": "OpenAI Day",
+              "slug": "openai-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e541a168",
+          "title": "产品更新：PodcastorAI",
+          "title_en": "PodcastorAI",
+          "url": "https://www.producthunt.com/products/podcastorai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/podcastorai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your AI twin hosts your video podcast Create s",
+          "summary_zh": "Your AI twin hosts your video podcast Create s",
+          "publishedAt": "2026-07-23T07:01:00Z",
+          "published_at": "2026-07-23T07:01:00Z",
+          "votes_count": 256,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "279",
+              "name": "YouTube",
+              "slug": "youtube"
+            },
+            {
+              "id": "1491",
+              "name": "OpenAI Day",
+              "slug": "openai-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b93716cf",
+          "title": "产品更新：CrawlRaven",
+          "title_en": "CrawlRaven",
+          "url": "https://www.producthunt.com/products/crawlraven?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/crawlraven?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "SEO Hub for GSC + GA4 + a 200-point crawl Conn",
+          "summary_zh": "SEO Hub for GSC + GA4 + a 200-point crawl Conn",
+          "publishedAt": "2026-07-23T07:01:00Z",
+          "published_at": "2026-07-23T07:01:00Z",
+          "votes_count": 234,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            },
+            {
+              "id": "361",
+              "name": "Search",
+              "slug": "search"
+            },
+            {
+              "id": "1491",
+              "name": "OpenAI Day",
+              "slug": "openai-day"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-23",
       "generated_at": "2026-07-23T10:38:56Z",
