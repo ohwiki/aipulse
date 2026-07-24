@@ -1,148 +1,80 @@
 {
-  "generated_at": "2026-07-23T21:31:57Z",
-  "generatedAt": "2026-07-23T21:31:57Z",
+  "generated_at": "2026-07-24T10:33:36Z",
+  "generatedAt": "2026-07-24T10:33:36Z",
   "count": 73,
   "total": 73,
   "entries": [
     {
       "date": "2026-07-24",
-      "generated_at": "2026-07-23T21:31:57Z",
-      "generatedAt": "2026-07-23T21:31:57Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-07-24T10:33:36Z",
+      "generatedAt": "2026-07-24T10:33:36Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "54dceb66",
-          "title": "产品更新：Teable 3.0",
-          "title_en": "Teable 3.0",
-          "url": "https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "d24c0084",
+          "title": "嚯！35家大型央国企实测后，因果世界模型落地了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/458357.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI Spreadsheet for Business Turn your business",
-          "summary_zh": "AI Spreadsheet for Business Turn your business",
-          "publishedAt": "2026-07-23T07:01:00Z",
-          "published_at": "2026-07-23T07:01:00Z",
-          "votes_count": 328,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "131",
-              "name": "Spreadsheets",
-              "slug": "spreadsheets"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "1491",
-              "name": "OpenAI Day",
-              "slug": "openai-day"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/458357.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "嚯！35家大型央国企实测后，因果世界模型落地了  林, 方舟 2026-07-24 12:21:28  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  眼下，AI能帮人写稿、编程、生成视频，但离真正进入企业工作流、解决实际问题，经常还差一口气。 特别是能源、制造、工业、医药这些高价值行业，企业需要的并不是只会依照现有数据来生成内容的AI工具，而是一套能支撑生产调度、安全管控、风险研判和复杂方案决策的可靠智能系统。 少有产品能满足这些需求。 WAIC期间，中数睿智发布了“AI for Reasoning”因果智能体系，针对的就是这些痛点。 比如油气钻井的井控场景，井下压力和流量突然不对劲，系统不只是输出一句“存在风险”，而是能沿因果链定位病因，并推演多条干预路径：不处置会怎样？立即关井会怎样？延迟处置能撑多久、代价是什么？辅助企业在事故发生前做出最优决策。  发布会上还同步发布了《因果世界模型技术体系蓝皮书》，内容涵盖了很多中数睿智公司对AI在复杂场景产业落地的思考与实践，值得一读。 成立于2020年的中数睿智，长期深耕企业级复杂智能决策赛道，客户以大型央国",
+          "summary_zh": "嚯！35家大型央国企实测后，因果世界模型落地了  林, 方舟 2026-07-24 12:21:28  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  眼下，AI能帮人写稿、编程、生成视频，但离真正进入企业工作流、解决实际问题，经常还差一口气。 特别是能源、制造、工业、医药这些高价值行业，企业需要的并不是只会依照现有数据来生成内容的AI工具，而是一套能支撑生产调度、安全管控、风险研判和复杂方案决策的可靠智能系统。 少有产品能满足这些需求。 WAIC期间，中数睿智发布了“AI for Reasoning”因果智能体系，针对的就是这些痛点。 比如油气钻井的井控场景，井下压力和流量突然不对劲，系统不只是输出一句“存在风险”，而是能沿因果链定位病因，并推演多条干预路径：不处置会怎样？立即关井会怎样？延迟处置能撑多久、代价是什么？辅助企业在事故发生前做出最优决策。  发布会上还同步发布了《因果世界模型技术体系蓝皮书》，内容涵盖了很多中数睿智公司对AI在复杂场景产业落地的思考与实践，值得一读。 成立于2020年的中数睿智，长期深耕企业级复杂智能决策赛道，客户以大型央国",
+          "publishedAt": "2026-07-24T04:21:28Z",
+          "published_at": "2026-07-24T04:21:28Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "e541a168",
-          "title": "产品更新：PodcastorAI",
-          "title_en": "PodcastorAI",
-          "url": "https://www.producthunt.com/products/podcastorai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "e3b5dde9",
+          "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/458348.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/podcastorai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Your AI twin hosts your video podcast Create s",
-          "summary_zh": "Your AI twin hosts your video podcast Create s",
-          "publishedAt": "2026-07-23T07:01:00Z",
-          "published_at": "2026-07-23T07:01:00Z",
-          "votes_count": 256,
-          "featured": true,
-          "topics": [
-            {
-              "id": "104",
-              "name": "Social Media",
-              "slug": "social-media"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "279",
-              "name": "YouTube",
-              "slug": "youtube"
-            },
-            {
-              "id": "1491",
-              "name": "OpenAI Day",
-              "slug": "openai-day"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/458348.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "WAIC看了一圈，这家公司的机器人在认真打工  林, 方舟 2026-07-24 12:19:34  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  WAIC 2026现场，人形机器人是最引人注目的主角。 跳舞、格斗、跑步、打乒乓球……过去只能在实验室里看到的各种动作，如今已经成了展台上的固定节目。 但有个展台，却有点不一样。 一台人形机器人站在狭小的货架前，听完观众下的单，从一排商品里精准挑出目标，稳稳递到取货台。 一支机械臂装配大小不同、形状各异的超薄钣金件，速度快，效率高，足以走出实验室，应对真实复杂的工况。 场面看起来并不酷炫，但演示的却是机器人最重要、最实用的能力——落地干活。 机器人不仅具备复杂场景和复杂任务的操作能力，还有不错的泛化性，并且能在不同形态的机器人本体上通用。 这些能力，得益于机器人装的同一套“眼脑手”组件，由梅卡曼德机器人开发。 看完这些Demo，我感觉离工厂、商超由机器人主导的那一天，可能真的不远了。 难的不是表演，而是上班 机器人真正进厂打工，究竟有多复杂？ 场景先给它出一道难题。错综复杂的流水线布局，强烈且不断变化的环境光",
+          "summary_zh": "WAIC看了一圈，这家公司的机器人在认真打工  林, 方舟 2026-07-24 12:19:34  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  WAIC 2026现场，人形机器人是最引人注目的主角。 跳舞、格斗、跑步、打乒乓球……过去只能在实验室里看到的各种动作，如今已经成了展台上的固定节目。 但有个展台，却有点不一样。 一台人形机器人站在狭小的货架前，听完观众下的单，从一排商品里精准挑出目标，稳稳递到取货台。 一支机械臂装配大小不同、形状各异的超薄钣金件，速度快，效率高，足以走出实验室，应对真实复杂的工况。 场面看起来并不酷炫，但演示的却是机器人最重要、最实用的能力——落地干活。 机器人不仅具备复杂场景和复杂任务的操作能力，还有不错的泛化性，并且能在不同形态的机器人本体上通用。 这些能力，得益于机器人装的同一套“眼脑手”组件，由梅卡曼德机器人开发。 看完这些Demo，我感觉离工厂、商超由机器人主导的那一天，可能真的不远了。 难的不是表演，而是上班 机器人真正进厂打工，究竟有多复杂？ 场景先给它出一道难题。错综复杂的流水线布局，强烈且不断变化的环境光",
+          "publishedAt": "2026-07-24T04:19:34Z",
+          "published_at": "2026-07-24T04:19:34Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "b93716cf",
-          "title": "产品更新：CrawlRaven",
-          "title_en": "CrawlRaven",
-          "url": "https://www.producthunt.com/products/crawlraven?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "65f8a348",
+          "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
+          "title_en": null,
+          "url": "https://36kr.com/p/3909033052722310?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/crawlraven?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "SEO Hub for GSC + GA4 + a 200-point crawl Conn",
-          "summary_zh": "SEO Hub for GSC + GA4 + a 200-point crawl Conn",
-          "publishedAt": "2026-07-23T07:01:00Z",
-          "published_at": "2026-07-23T07:01:00Z",
-          "votes_count": 234,
-          "featured": true,
-          "topics": [
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "231",
-              "name": "SEO",
-              "slug": "seo"
-            },
-            {
-              "id": "361",
-              "name": "Search",
-              "slug": "search"
-            },
-            {
-              "id": "1491",
-              "name": "OpenAI Day",
-              "slug": "openai-day"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3909033052722310?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海落下帷幕。黄浦江畔，热浪与人潮一起涌动。本届大会以“智能伙伴，共创未来”为主题，在世博、张江、西岸三地四馆展开。作为年度人工智能产业观察窗口，WAIC 2026留下的关键信号，不在于展陈规模本身，而在于AI叙事的重心变化：技术展示正在退居幕后，真实场景、系统交付与商业价值被推到台前。 这也是36氪“氪话未来”连续第三年走进WAIC现场。过去三年，AI产业经历了从模型竞速到应用试炼的转向。参数、榜单和Demo曾经定义行业热度；到今年，更多企业开始回答一个更具体的问题：AI如何进入业务流程，如何与人协同完成任务，如何在真实场景中被持续使用。 基于这样的行业变化，今年“氪话未来”将内容主线定为“带着AI去前线”。直播间深入展馆与企业展位，面对创始人、技术负责人和一线产品团队，捕捉AI从方案走向交付的现场细节。圆桌对话、现场探展、原创短视频和实时直播共同构成了这次内容记录的不同切面。 在今年WAIC现场，AI不再只是一个能够生成答案的模型，而是正在变成一套可以理解目标、调动资源、感知环境并交付结果的系统。从算力底座、",
+          "summary_zh": "7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海落下帷幕。黄浦江畔，热浪与人潮一起涌动。本届大会以“智能伙伴，共创未来”为主题，在世博、张江、西岸三地四馆展开。作为年度人工智能产业观察窗口，WAIC 2026留下的关键信号，不在于展陈规模本身，而在于AI叙事的重心变化：技术展示正在退居幕后，真实场景、系统交付与商业价值被推到台前。 这也是36氪“氪话未来”连续第三年走进WAIC现场。过去三年，AI产业经历了从模型竞速到应用试炼的转向。参数、榜单和Demo曾经定义行业热度；到今年，更多企业开始回答一个更具体的问题：AI如何进入业务流程，如何与人协同完成任务，如何在真实场景中被持续使用。 基于这样的行业变化，今年“氪话未来”将内容主线定为“带着AI去前线”。直播间深入展馆与企业展位，面对创始人、技术负责人和一线产品团队，捕捉AI从方案走向交付的现场细节。圆桌对话、现场探展、原创短视频和实时直播共同构成了这次内容记录的不同切面。 在今年WAIC现场，AI不再只是一个能够生成答案的模型，而是正在变成一套可以理解目标、调动资源、感知环境并交付结果的系统。从算力底座、",
+          "publishedAt": "2026-07-24T02:37:12Z",
+          "published_at": "2026-07-24T02:37:12Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
