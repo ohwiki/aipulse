@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-24T10:33:36Z",
-  "generatedAt": "2026-07-24T10:33:36Z",
-  "count": 73,
-  "total": 73,
+  "generated_at": "2026-07-24T21:34:20Z",
+  "generatedAt": "2026-07-24T21:34:20Z",
+  "count": 74,
+  "total": 74,
   "entries": [
+    {
+      "date": "2026-07-25",
+      "generated_at": "2026-07-24T21:34:20Z",
+      "generatedAt": "2026-07-24T21:34:20Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "28035a74",
+          "title": "产品更新：Fedica 2.0",
+          "title_en": "Fedica 2.0",
+          "url": "https://www.producthunt.com/products/fedica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fedica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Publish and grow your profile across social ap",
+          "summary_zh": "Publish and grow your profile across social ap",
+          "publishedAt": "2026-07-24T07:01:00Z",
+          "published_at": "2026-07-24T07:01:00Z",
+          "votes_count": 348,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9c6b03b6",
+          "title": "产品更新：Pushary",
+          "title_en": "Pushary",
+          "url": "https://www.producthunt.com/products/pushary?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pushary?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Approve AI requests from your lock screen One",
+          "summary_zh": "Approve AI requests from your lock screen One",
+          "publishedAt": "2026-07-24T07:01:00Z",
+          "published_at": "2026-07-24T07:01:00Z",
+          "votes_count": 314,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "236313a3",
+          "title": "AI资讯更新：Fluree AI",
+          "title_en": "Fluree AI",
+          "url": "https://www.producthunt.com/products/fluree?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fluree?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Give every AI agent trusted context Fluree AI",
+          "summary_zh": "Give every AI agent trusted context Fluree AI",
+          "publishedAt": "2026-07-24T07:01:00Z",
+          "published_at": "2026-07-24T07:01:00Z",
+          "votes_count": 277,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "771",
+              "name": "Data",
+              "slug": "data"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-24",
       "generated_at": "2026-07-24T10:33:36Z",

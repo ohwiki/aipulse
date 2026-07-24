@@ -1,10 +1,157 @@
 {
-  "generated_at": "2026-07-24T10:33:36Z",
-  "generatedAt": "2026-07-24T10:33:36Z",
+  "generated_at": "2026-07-24T21:34:20Z",
+  "generatedAt": "2026-07-24T21:34:20Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 8,
+  "count": 8,
   "items": [
+    {
+      "id": "28035a74",
+      "title": "产品更新：Fedica 2.0",
+      "title_en": "Fedica 2.0",
+      "url": "https://www.producthunt.com/products/fedica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/fedica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Publish and grow your profile across social ap",
+      "summary_zh": "Publish and grow your profile across social ap",
+      "publishedAt": "2026-07-24T07:01:00Z",
+      "published_at": "2026-07-24T07:01:00Z",
+      "votes_count": 348,
+      "featured": true,
+      "topics": [
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9c6b03b6",
+      "title": "产品更新：Pushary",
+      "title_en": "Pushary",
+      "url": "https://www.producthunt.com/products/pushary?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/pushary?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Approve AI requests from your lock screen One",
+      "summary_zh": "Approve AI requests from your lock screen One",
+      "publishedAt": "2026-07-24T07:01:00Z",
+      "published_at": "2026-07-24T07:01:00Z",
+      "votes_count": 314,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "236313a3",
+      "title": "AI资讯更新：Fluree AI",
+      "title_en": "Fluree AI",
+      "url": "https://www.producthunt.com/products/fluree?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/fluree?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Give every AI agent trusted context Fluree AI",
+      "summary_zh": "Give every AI agent trusted context Fluree AI",
+      "publishedAt": "2026-07-24T07:01:00Z",
+      "published_at": "2026-07-24T07:01:00Z",
+      "votes_count": 277,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "771",
+          "name": "Data",
+          "slug": "data"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3b22fa31",
+      "title": "产品更新：The new Firecra",
+      "title_en": "The new Firecrawl /search",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Our most accurate Search API for AI agents. Se",
+      "summary_zh": "Our most accurate Search API for AI agents. Se",
+      "publishedAt": "2026-07-24T07:01:00Z",
+      "published_at": "2026-07-24T07:01:00Z",
+      "votes_count": 242,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "361",
+          "name": "Search",
+          "slug": "search"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "b56e721b",
       "title": "8点1氪丨段永平称10年内大概率不会卖泡泡玛特；中国数学家王虹、邓煜获得菲尔兹奖；宜家回应甩卖8处物业：不代表退出中国市场",
@@ -50,44 +197,44 @@
       "score_details": null
     },
     {
-      "id": "e3b5dde9",
-      "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+      "id": "fdcf2892",
+      "title": "DeepSeek不是理想主义公司，它只是把现实服务于理想",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/07/458348.html",
-      "source": "量子位",
+      "url": "https://36kr.com/p/3909084356433025?f=rss",
+      "source": "36氪",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/07/458348.html",
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3909084356433025?f=rss",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "WAIC看了一圈，这家公司的机器人在认真打工  林, 方舟 2026-07-24 12:19:34  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  WAIC 2026现场，人形机器人是最引人注目的主角。 跳舞、格斗、跑步、打乒乓球……过去只能在实验室里看到的各种动作，如今已经成了展台上的固定节目。 但有个展台，却有点不一样。 一台人形机器人站在狭小的货架前，听完观众下的单，从一排商品里精准挑出目标，稳稳递到取货台。 一支机械臂装配大小不同、形状各异的超薄钣金件，速度快，效率高，足以走出实验室，应对真实复杂的工况。 场面看起来并不酷炫，但演示的却是机器人最重要、最实用的能力——落地干活。 机器人不仅具备复杂场景和复杂任务的操作能力，还有不错的泛化性，并且能在不同形态的机器人本体上通用。 这些能力，得益于机器人装的同一套“眼脑手”组件，由梅卡曼德机器人开发。 看完这些Demo，我感觉离工厂、商超由机器人主导的那一天，可能真的不远了。 难的不是表演，而是上班 机器人真正进厂打工，究竟有多复杂？ 场景先给它出一道难题。错综复杂的流水线布局，强烈且不断变化的环境光",
-      "summary_zh": "WAIC看了一圈，这家公司的机器人在认真打工  林, 方舟 2026-07-24 12:19:34  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  WAIC 2026现场，人形机器人是最引人注目的主角。 跳舞、格斗、跑步、打乒乓球……过去只能在实验室里看到的各种动作，如今已经成了展台上的固定节目。 但有个展台，却有点不一样。 一台人形机器人站在狭小的货架前，听完观众下的单，从一排商品里精准挑出目标，稳稳递到取货台。 一支机械臂装配大小不同、形状各异的超薄钣金件，速度快，效率高，足以走出实验室，应对真实复杂的工况。 场面看起来并不酷炫，但演示的却是机器人最重要、最实用的能力——落地干活。 机器人不仅具备复杂场景和复杂任务的操作能力，还有不错的泛化性，并且能在不同形态的机器人本体上通用。 这些能力，得益于机器人装的同一套“眼脑手”组件，由梅卡曼德机器人开发。 看完这些Demo，我感觉离工厂、商超由机器人主导的那一天，可能真的不远了。 难的不是表演，而是上班 机器人真正进厂打工，究竟有多复杂？ 场景先给它出一道难题。错综复杂的流水线布局，强烈且不断变化的环境光",
-      "publishedAt": "2026-07-24T04:19:34Z",
-      "published_at": "2026-07-24T04:19:34Z",
+      "summary": "DeepSeek的答案，不是只仰望星空，也不是只脚踏实地，而是用现实问题去支撑一个足够远的目标。      撰文 | 李嘉星 刘辰艺 编辑 | 张薇 头图来源 | DeepSeek 封面来源 | DeepSeek   DeepSeek又一次被推到聚光灯下。  这家公司一度几乎是AI圈最神秘的存在：工程师文化、低调，创始人很少公开露面，团队也不像典型互联网公司那样频繁讲故事、做传播。但过去一年，它几乎每隔一段时间就会成为中文科技圈的中心。模型发布时，它因为低成本和开源刷屏；融资消息传出时，它因为估值和投资方引发讨论；这一次，梁文锋一场近4小时的投资人交流会录音流出，又让外界重新审视这家公司。 这一次，外界看到的是一个更完整、也更矛盾的DeepSeek。  一面是一个足够远的目标。梁文锋谈AGI，谈愿景，谈“对世界的善意”，谈不追求利润最大化，谈不开源就无法组织人。他说DeepSeek不想做下一个超级App，不想成为下一个字节或腾讯；公司靠愿景而不是KPI运转，研究员有大量自由探索时间，也不太加班。 另一面是脚踏实地。梁文锋也谈十个月回本的API定价，谈融资如何缓解团队稳定风险，谈钱要尽快",
+      "summary_zh": "DeepSeek的答案，不是只仰望星空，也不是只脚踏实地，而是用现实问题去支撑一个足够远的目标。      撰文 | 李嘉星 刘辰艺 编辑 | 张薇 头图来源 | DeepSeek 封面来源 | DeepSeek   DeepSeek又一次被推到聚光灯下。  这家公司一度几乎是AI圈最神秘的存在：工程师文化、低调，创始人很少公开露面，团队也不像典型互联网公司那样频繁讲故事、做传播。但过去一年，它几乎每隔一段时间就会成为中文科技圈的中心。模型发布时，它因为低成本和开源刷屏；融资消息传出时，它因为估值和投资方引发讨论；这一次，梁文锋一场近4小时的投资人交流会录音流出，又让外界重新审视这家公司。 这一次，外界看到的是一个更完整、也更矛盾的DeepSeek。  一面是一个足够远的目标。梁文锋谈AGI，谈愿景，谈“对世界的善意”，谈不追求利润最大化，谈不开源就无法组织人。他说DeepSeek不想做下一个超级App，不想成为下一个字节或腾讯；公司靠愿景而不是KPI运转，研究员有大量自由探索时间，也不太加班。 另一面是脚踏实地。梁文锋也谈十个月回本的API定价，谈融资如何缓解团队稳定风险，谈钱要尽快",
+      "publishedAt": "2026-07-24T04:26:38Z",
+      "published_at": "2026-07-24T04:26:38Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "d24c0084",
-      "title": "嚯！35家大型央国企实测后，因果世界模型落地了",
+      "id": "958192ff",
+      "title": "OPC创业者看过来，最高10万美元云资源等你拿",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/07/458357.html",
+      "url": "https://www.qbitai.com/2026/07/458622.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/07/458357.html",
+      "sourceUrl": "https://www.qbitai.com/2026/07/458622.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "嚯！35家大型央国企实测后，因果世界模型落地了  林, 方舟 2026-07-24 12:21:28  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  眼下，AI能帮人写稿、编程、生成视频，但离真正进入企业工作流、解决实际问题，经常还差一口气。 特别是能源、制造、工业、医药这些高价值行业，企业需要的并不是只会依照现有数据来生成内容的AI工具，而是一套能支撑生产调度、安全管控、风险研判和复杂方案决策的可靠智能系统。 少有产品能满足这些需求。 WAIC期间，中数睿智发布了“AI for Reasoning”因果智能体系，针对的就是这些痛点。 比如油气钻井的井控场景，井下压力和流量突然不对劲，系统不只是输出一句“存在风险”，而是能沿因果链定位病因，并推演多条干预路径：不处置会怎样？立即关井会怎样？延迟处置能撑多久、代价是什么？辅助企业在事故发生前做出最优决策。  发布会上还同步发布了《因果世界模型技术体系蓝皮书》，内容涵盖了很多中数睿智公司对AI在复杂场景产业落地的思考与实践，值得一读。 成立于2020年的中数睿智，长期深耕企业级复杂智能决策赛道，客户以大型央国",
-      "summary_zh": "嚯！35家大型央国企实测后，因果世界模型落地了  林, 方舟 2026-07-24 12:21:28  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  眼下，AI能帮人写稿、编程、生成视频，但离真正进入企业工作流、解决实际问题，经常还差一口气。 特别是能源、制造、工业、医药这些高价值行业，企业需要的并不是只会依照现有数据来生成内容的AI工具，而是一套能支撑生产调度、安全管控、风险研判和复杂方案决策的可靠智能系统。 少有产品能满足这些需求。 WAIC期间，中数睿智发布了“AI for Reasoning”因果智能体系，针对的就是这些痛点。 比如油气钻井的井控场景，井下压力和流量突然不对劲，系统不只是输出一句“存在风险”，而是能沿因果链定位病因，并推演多条干预路径：不处置会怎样？立即关井会怎样？延迟处置能撑多久、代价是什么？辅助企业在事故发生前做出最优决策。  发布会上还同步发布了《因果世界模型技术体系蓝皮书》，内容涵盖了很多中数睿智公司对AI在复杂场景产业落地的思考与实践，值得一读。 成立于2020年的中数睿智，长期深耕企业级复杂智能决策赛道，客户以大型央国",
-      "publishedAt": "2026-07-24T04:21:28Z",
-      "published_at": "2026-07-24T04:21:28Z",
+      "summary": "OPC创业者看过来，最高10万美元云资源等你拿  听雨 2026-07-24 13:05:38  来源：量子位   还有明星导师阵容  听雨 发自 凹非寺 量子位 | 公众号 QbitAI OPC创业者看过来！ 最高10万美元云资源、1对1创业导师、全球路演，优秀项目还有机会登上re:Invent舞台。 亚马逊云科技这次直接给一人公司和小型创业团队，打包了一套创业加速资源。 毕竟，AI能帮一个人写代码、做设计、跑运营，却没法凭空变出第一批客户、融资机会和出海经验。 这正是亚马逊云科技「创业复兴计划」想要补上的部分。  如果你正在独立开发产品，或者团队不超过10人，手里已经有一个想法，只差资源把它推向更大的市场—— 那么这次招募，值得你重点看看。 一个人干一支团队的活，真不是靠加班 AI创业时代，一个人就是一支队伍，已经不完全是段子了。 根据《2026中国OPC行业白皮书》，中国一人公司数量已经超过1600万家，占企业总量的27.4%。OPC的存在感迅速上升，已经是肉眼可见的趋势。 过去做一个产品，开发、设计和运营缺一不可。现在从写代码、搭网站，到生成营销内容，一个人借助AI也能先把最小",
+      "summary_zh": "OPC创业者看过来，最高10万美元云资源等你拿  听雨 2026-07-24 13:05:38  来源：量子位   还有明星导师阵容  听雨 发自 凹非寺 量子位 | 公众号 QbitAI OPC创业者看过来！ 最高10万美元云资源、1对1创业导师、全球路演，优秀项目还有机会登上re:Invent舞台。 亚马逊云科技这次直接给一人公司和小型创业团队，打包了一套创业加速资源。 毕竟，AI能帮一个人写代码、做设计、跑运营，却没法凭空变出第一批客户、融资机会和出海经验。 这正是亚马逊云科技「创业复兴计划」想要补上的部分。  如果你正在独立开发产品，或者团队不超过10人，手里已经有一个想法，只差资源把它推向更大的市场—— 那么这次招募，值得你重点看看。 一个人干一支团队的活，真不是靠加班 AI创业时代，一个人就是一支队伍，已经不完全是段子了。 根据《2026中国OPC行业白皮书》，中国一人公司数量已经超过1600万家，占企业总量的27.4%。OPC的存在感迅速上升，已经是肉眼可见的趋势。 过去做一个产品，开发、设计和运营缺一不可。现在从写代码、搭网站，到生成营销内容，一个人借助AI也能先把最小",
+      "publishedAt": "2026-07-24T05:05:38Z",
+      "published_at": "2026-07-24T05:05:38Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
