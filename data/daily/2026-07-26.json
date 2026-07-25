@@ -1,0 +1,523 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-25T21:13:55Z",
+  "generatedAt": "2026-07-25T21:13:55Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "529cedfc",
+          "title": "产品更新：Heard",
+          "title_en": "Heard",
+          "url": "https://www.producthunt.com/products/heard-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/heard-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Give Claude Code and Codex a voice Heard is a",
+          "summary_zh": "Give Claude Code and Codex a voice Heard is a",
+          "publishedAt": "2026-07-25T07:01:00Z",
+          "published_at": "2026-07-25T07:01:00Z",
+          "votes_count": 272,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f36919f2",
+          "title": "产品更新：FluentDB",
+          "title_en": "FluentDB",
+          "url": "https://www.producthunt.com/products/fluentdb-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fluentdb-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The AI database client for Mac FluentDB is an",
+          "summary_zh": "The AI database client for Mac FluentDB is an",
+          "publishedAt": "2026-07-25T07:01:00Z",
+          "published_at": "2026-07-25T07:01:00Z",
+          "votes_count": 266,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "87a776cf",
+          "title": "产品更新：Second Brain fo",
+          "title_en": "Second Brain for Mac and Windows",
+          "url": "https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your AI memory, everywhere you work The Second",
+          "summary_zh": "Your AI memory, everywhere you work The Second",
+          "publishedAt": "2026-07-25T07:01:00Z",
+          "published_at": "2026-07-25T07:01:00Z",
+          "votes_count": 222,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "a9b27a44",
+          "title": "AI资讯更新：OpenComputer",
+          "title_en": "OpenComputer",
+          "url": "https://www.producthunt.com/products/opencomputer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/opencomputer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The easiest way to deploy a managed agent. The",
+          "summary_zh": "The easiest way to deploy a managed agent. The",
+          "publishedAt": "2026-07-25T07:01:00Z",
+          "published_at": "2026-07-25T07:01:00Z",
+          "votes_count": 195,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "49337a23",
+          "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "title_en": null,
+          "url": "https://36kr.com/p/3910351337821318?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3910351337821318?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览  小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款  TOP3大新闻 宇树科技CEO王兴兴登上《时代》杂志封面 当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。 据悉，距上次中国企业家登上该刊物封面，已过去整整8年。 《时代》杂志评价王兴兴是“AI时代一位非典型的预言者”，“他身材瘦削，戴着眼镜，完全没有许多科技创始人身上那种张扬的傲气。相反，他在谈论机器人技术时，带着一种安静而坚定的信念”。（澎湃新闻）    公安部：国家反诈中心App可一键检测AI生成痕迹 7月24日，公安部刑事侦查局局长姜国利在上午举行的国新办新闻发布会上介绍，公安机关在国家反诈中心App上构建了人工智能内容鉴定功能，大家可以上传可疑视频、语音、图片，一键检测是否存在人工智能生成痕迹，鉴别伪造信息。（人民网） Anthropic推出Claude Opus 5，性能接",
+          "summary_zh": "今日热点导览  小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款  TOP3大新闻 宇树科技CEO王兴兴登上《时代》杂志封面 当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。 据悉，距上次中国企业家登上该刊物封面，已过去整整8年。 《时代》杂志评价王兴兴是“AI时代一位非典型的预言者”，“他身材瘦削，戴着眼镜，完全没有许多科技创始人身上那种张扬的傲气。相反，他在谈论机器人技术时，带着一种安静而坚定的信念”。（澎湃新闻）    公安部：国家反诈中心App可一键检测AI生成痕迹 7月24日，公安部刑事侦查局局长姜国利在上午举行的国新办新闻发布会上介绍，公安机关在国家反诈中心App上构建了人工智能内容鉴定功能，大家可以上传可疑视频、语音、图片，一键检测是否存在人工智能生成痕迹，鉴别伪造信息。（人民网） Anthropic推出Claude Opus 5，性能接",
+          "publishedAt": "2026-07-25T00:57:52Z",
+          "published_at": "2026-07-25T00:57:52Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "3cb747a5",
+          "title": "穆迪警告AI投资狂潮冲击科技巨头财务稳健性 微软、甲骨文等公司自由现金流承压",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3910433082545536?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3910433082545536?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "随着全球科技巨头竞相加码人工智能基础设施建设，穆迪评级警告称，AI投资热潮正侵蚀大型云计算服务商的自由现金流，并推高资产负债表风险，未来投资者将更加关注这些企业能否从巨额AI投入中获得足够回报。穆迪在本周发布的研究报告中表示，包括微软(MSFT.US)、亚马逊(AMZN.US)、谷歌母公司Alphabet(GOOGL.US)、Meta(META.US)、甲骨文(ORCL.US)及CoreWeave(CRWV.US)在内的六家科技企业，正从过去依赖软件、知识产权和云服务的“轻资产”商业模式，转向需要大规模建设数据中心等基础设施的“重资产”模式。（财联社）",
+          "summary_zh": "随着全球科技巨头竞相加码人工智能基础设施建设，穆迪评级警告称，AI投资热潮正侵蚀大型云计算服务商的自由现金流，并推高资产负债表风险，未来投资者将更加关注这些企业能否从巨额AI投入中获得足够回报。穆迪在本周发布的研究报告中表示，包括微软(MSFT.US)、亚马逊(AMZN.US)、谷歌母公司Alphabet(GOOGL.US)、Meta(META.US)、甲骨文(ORCL.US)及CoreWeave(CRWV.US)在内的六家科技企业，正从过去依赖软件、知识产权和云服务的“轻资产”商业模式，转向需要大规模建设数据中心等基础设施的“重资产”模式。（财联社）",
+          "publishedAt": "2026-07-25T03:00:00Z",
+          "published_at": "2026-07-25T03:00:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f0c1eff4",
+          "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/460174.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/460174.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型  henry 2026-07-25 11:21:53  来源：量子位   单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路  henry 发自 凹非寺 量子位 | 公众号 QbitAI 要我说，诺兰的《星际穿越》，还是拍保守了。 电影里，两个平行时空的交汇，要靠摩斯密码。 而今天，AI已经能“附”到任何物体或角色身上，让它们在另一个世界里开口、行动，和你实时视频通话。 比如，这只小猫可以一边说着土味情话，一边弓背、摇尾巴、抬爪子，还能在自己的世界里来回走动（注意看，它脚下的影子也会随之变化）。 重要的是，这些反应并不是提前编排好的。 小猫会跟着你的声音即时变化：你说一句，它就根据新的输入作出新的动作和回应。 而这只小猫背后，就是Vivix最新发布的实时交互多模态模型A1。 A1让用户可以像打视频电话一样，与屏幕另一端的虚拟角色持续交流。 相比传统数字人和视频生成模型，A1最大的不同在于—— 屏幕里的角色真正拥有了身体。它不再只是对着镜头说话，而是能够行动、转身、改变姿态，并与所在世界里的物",
+          "summary_zh": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型  henry 2026-07-25 11:21:53  来源：量子位   单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路  henry 发自 凹非寺 量子位 | 公众号 QbitAI 要我说，诺兰的《星际穿越》，还是拍保守了。 电影里，两个平行时空的交汇，要靠摩斯密码。 而今天，AI已经能“附”到任何物体或角色身上，让它们在另一个世界里开口、行动，和你实时视频通话。 比如，这只小猫可以一边说着土味情话，一边弓背、摇尾巴、抬爪子，还能在自己的世界里来回走动（注意看，它脚下的影子也会随之变化）。 重要的是，这些反应并不是提前编排好的。 小猫会跟着你的声音即时变化：你说一句，它就根据新的输入作出新的动作和回应。 而这只小猫背后，就是Vivix最新发布的实时交互多模态模型A1。 A1让用户可以像打视频电话一样，与屏幕另一端的虚拟角色持续交流。 相比传统数字人和视频生成模型，A1最大的不同在于—— 屏幕里的角色真正拥有了身体。它不再只是对着镜头说话，而是能够行动、转身、改变姿态，并与所在世界里的物",
+          "publishedAt": "2026-07-25T03:21:53Z",
+          "published_at": "2026-07-25T03:21:53Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "1406cabd",
+          "title": "SK集团与英伟达通过一项涵盖人工智能工厂和下一代内存的5000亿美元以上战略合作项目",
+          "title_en": null,
+          "url": "https://36kr.com/newsflashes/3910690882507907?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/newsflashes/3910690882507907?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "英伟达宣布，SK集团与英伟达在AI工厂及下一代内存领域扩大战略合作。SK集团与英伟达今日宣布计划建立一项超过5000亿美元的综合合作伙伴关系，以建立满足全球计算需求激增的人工智能基础设施。双方签署了意向书，正式化协议，涵盖从人工智能工厂建设到人工智能内存供应。SK电信将建设2吉瓦的NVIDIA Vera Rubin DSX AI工厂，以满足全球计算需求。英伟达与SK海力士建立长期合作关系，共同保障并共同开发包括HBM在内的下一代AI内存。两家公司将共同开发和优化下一代AI内存解决方案，包括HBM，以满足从大型语言模型训练到代理AI和物理AI等不断变化的基础设施需求。（财联社）",
+          "summary_zh": "英伟达宣布，SK集团与英伟达在AI工厂及下一代内存领域扩大战略合作。SK集团与英伟达今日宣布计划建立一项超过5000亿美元的综合合作伙伴关系，以建立满足全球计算需求激增的人工智能基础设施。双方签署了意向书，正式化协议，涵盖从人工智能工厂建设到人工智能内存供应。SK电信将建设2吉瓦的NVIDIA Vera Rubin DSX AI工厂，以满足全球计算需求。英伟达与SK海力士建立长期合作关系，共同保障并共同开发包括HBM在内的下一代AI内存。两家公司将共同开发和优化下一代AI内存解决方案，包括HBM，以满足从大型语言模型训练到代理AI和物理AI等不断变化的基础设施需求。（财联社）",
+          "publishedAt": "2026-07-25T06:40:29Z",
+          "published_at": "2026-07-25T06:40:29Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "529cedfc",
+      "title": "产品更新：Heard",
+      "title_en": "Heard",
+      "url": "https://www.producthunt.com/products/heard-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/heard-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Give Claude Code and Codex a voice Heard is a",
+      "summary_zh": "Give Claude Code and Codex a voice Heard is a",
+      "publishedAt": "2026-07-25T07:01:00Z",
+      "published_at": "2026-07-25T07:01:00Z",
+      "votes_count": 272,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "f36919f2",
+      "title": "产品更新：FluentDB",
+      "title_en": "FluentDB",
+      "url": "https://www.producthunt.com/products/fluentdb-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/fluentdb-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI database client for Mac FluentDB is an",
+      "summary_zh": "The AI database client for Mac FluentDB is an",
+      "publishedAt": "2026-07-25T07:01:00Z",
+      "published_at": "2026-07-25T07:01:00Z",
+      "votes_count": 266,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "87a776cf",
+      "title": "产品更新：Second Brain fo",
+      "title_en": "Second Brain for Mac and Windows",
+      "url": "https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your AI memory, everywhere you work The Second",
+      "summary_zh": "Your AI memory, everywhere you work The Second",
+      "publishedAt": "2026-07-25T07:01:00Z",
+      "published_at": "2026-07-25T07:01:00Z",
+      "votes_count": 222,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a9b27a44",
+      "title": "AI资讯更新：OpenComputer",
+      "title_en": "OpenComputer",
+      "url": "https://www.producthunt.com/products/opencomputer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/opencomputer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The easiest way to deploy a managed agent. The",
+      "summary_zh": "The easiest way to deploy a managed agent. The",
+      "publishedAt": "2026-07-25T07:01:00Z",
+      "published_at": "2026-07-25T07:01:00Z",
+      "votes_count": 195,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "49337a23",
+      "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+      "title_en": null,
+      "url": "https://36kr.com/p/3910351337821318?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3910351337821318?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览  小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款  TOP3大新闻 宇树科技CEO王兴兴登上《时代》杂志封面 当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。 据悉，距上次中国企业家登上该刊物封面，已过去整整8年。 《时代》杂志评价王兴兴是“AI时代一位非典型的预言者”，“他身材瘦削，戴着眼镜，完全没有许多科技创始人身上那种张扬的傲气。相反，他在谈论机器人技术时，带着一种安静而坚定的信念”。（澎湃新闻）    公安部：国家反诈中心App可一键检测AI生成痕迹 7月24日，公安部刑事侦查局局长姜国利在上午举行的国新办新闻发布会上介绍，公安机关在国家反诈中心App上构建了人工智能内容鉴定功能，大家可以上传可疑视频、语音、图片，一键检测是否存在人工智能生成痕迹，鉴别伪造信息。（人民网） Anthropic推出Claude Opus 5，性能接",
+      "summary_zh": "今日热点导览  小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款  TOP3大新闻 宇树科技CEO王兴兴登上《时代》杂志封面 当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。 据悉，距上次中国企业家登上该刊物封面，已过去整整8年。 《时代》杂志评价王兴兴是“AI时代一位非典型的预言者”，“他身材瘦削，戴着眼镜，完全没有许多科技创始人身上那种张扬的傲气。相反，他在谈论机器人技术时，带着一种安静而坚定的信念”。（澎湃新闻）    公安部：国家反诈中心App可一键检测AI生成痕迹 7月24日，公安部刑事侦查局局长姜国利在上午举行的国新办新闻发布会上介绍，公安机关在国家反诈中心App上构建了人工智能内容鉴定功能，大家可以上传可疑视频、语音、图片，一键检测是否存在人工智能生成痕迹，鉴别伪造信息。（人民网） Anthropic推出Claude Opus 5，性能接",
+      "publishedAt": "2026-07-25T00:57:52Z",
+      "published_at": "2026-07-25T00:57:52Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "3cb747a5",
+      "title": "穆迪警告AI投资狂潮冲击科技巨头财务稳健性 微软、甲骨文等公司自由现金流承压",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3910433082545536?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3910433082545536?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "随着全球科技巨头竞相加码人工智能基础设施建设，穆迪评级警告称，AI投资热潮正侵蚀大型云计算服务商的自由现金流，并推高资产负债表风险，未来投资者将更加关注这些企业能否从巨额AI投入中获得足够回报。穆迪在本周发布的研究报告中表示，包括微软(MSFT.US)、亚马逊(AMZN.US)、谷歌母公司Alphabet(GOOGL.US)、Meta(META.US)、甲骨文(ORCL.US)及CoreWeave(CRWV.US)在内的六家科技企业，正从过去依赖软件、知识产权和云服务的“轻资产”商业模式，转向需要大规模建设数据中心等基础设施的“重资产”模式。（财联社）",
+      "summary_zh": "随着全球科技巨头竞相加码人工智能基础设施建设，穆迪评级警告称，AI投资热潮正侵蚀大型云计算服务商的自由现金流，并推高资产负债表风险，未来投资者将更加关注这些企业能否从巨额AI投入中获得足够回报。穆迪在本周发布的研究报告中表示，包括微软(MSFT.US)、亚马逊(AMZN.US)、谷歌母公司Alphabet(GOOGL.US)、Meta(META.US)、甲骨文(ORCL.US)及CoreWeave(CRWV.US)在内的六家科技企业，正从过去依赖软件、知识产权和云服务的“轻资产”商业模式，转向需要大规模建设数据中心等基础设施的“重资产”模式。（财联社）",
+      "publishedAt": "2026-07-25T03:00:00Z",
+      "published_at": "2026-07-25T03:00:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f0c1eff4",
+      "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/460174.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/460174.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型  henry 2026-07-25 11:21:53  来源：量子位   单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路  henry 发自 凹非寺 量子位 | 公众号 QbitAI 要我说，诺兰的《星际穿越》，还是拍保守了。 电影里，两个平行时空的交汇，要靠摩斯密码。 而今天，AI已经能“附”到任何物体或角色身上，让它们在另一个世界里开口、行动，和你实时视频通话。 比如，这只小猫可以一边说着土味情话，一边弓背、摇尾巴、抬爪子，还能在自己的世界里来回走动（注意看，它脚下的影子也会随之变化）。 重要的是，这些反应并不是提前编排好的。 小猫会跟着你的声音即时变化：你说一句，它就根据新的输入作出新的动作和回应。 而这只小猫背后，就是Vivix最新发布的实时交互多模态模型A1。 A1让用户可以像打视频电话一样，与屏幕另一端的虚拟角色持续交流。 相比传统数字人和视频生成模型，A1最大的不同在于—— 屏幕里的角色真正拥有了身体。它不再只是对着镜头说话，而是能够行动、转身、改变姿态，并与所在世界里的物",
+      "summary_zh": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型  henry 2026-07-25 11:21:53  来源：量子位   单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路  henry 发自 凹非寺 量子位 | 公众号 QbitAI 要我说，诺兰的《星际穿越》，还是拍保守了。 电影里，两个平行时空的交汇，要靠摩斯密码。 而今天，AI已经能“附”到任何物体或角色身上，让它们在另一个世界里开口、行动，和你实时视频通话。 比如，这只小猫可以一边说着土味情话，一边弓背、摇尾巴、抬爪子，还能在自己的世界里来回走动（注意看，它脚下的影子也会随之变化）。 重要的是，这些反应并不是提前编排好的。 小猫会跟着你的声音即时变化：你说一句，它就根据新的输入作出新的动作和回应。 而这只小猫背后，就是Vivix最新发布的实时交互多模态模型A1。 A1让用户可以像打视频电话一样，与屏幕另一端的虚拟角色持续交流。 相比传统数字人和视频生成模型，A1最大的不同在于—— 屏幕里的角色真正拥有了身体。它不再只是对着镜头说话，而是能够行动、转身、改变姿态，并与所在世界里的物",
+      "publishedAt": "2026-07-25T03:21:53Z",
+      "published_at": "2026-07-25T03:21:53Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "1406cabd",
+      "title": "SK集团与英伟达通过一项涵盖人工智能工厂和下一代内存的5000亿美元以上战略合作项目",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3910690882507907?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/newsflashes/3910690882507907?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "英伟达宣布，SK集团与英伟达在AI工厂及下一代内存领域扩大战略合作。SK集团与英伟达今日宣布计划建立一项超过5000亿美元的综合合作伙伴关系，以建立满足全球计算需求激增的人工智能基础设施。双方签署了意向书，正式化协议，涵盖从人工智能工厂建设到人工智能内存供应。SK电信将建设2吉瓦的NVIDIA Vera Rubin DSX AI工厂，以满足全球计算需求。英伟达与SK海力士建立长期合作关系，共同保障并共同开发包括HBM在内的下一代AI内存。两家公司将共同开发和优化下一代AI内存解决方案，包括HBM，以满足从大型语言模型训练到代理AI和物理AI等不断变化的基础设施需求。（财联社）",
+      "summary_zh": "英伟达宣布，SK集团与英伟达在AI工厂及下一代内存领域扩大战略合作。SK集团与英伟达今日宣布计划建立一项超过5000亿美元的综合合作伙伴关系，以建立满足全球计算需求激增的人工智能基础设施。双方签署了意向书，正式化协议，涵盖从人工智能工厂建设到人工智能内存供应。SK电信将建设2吉瓦的NVIDIA Vera Rubin DSX AI工厂，以满足全球计算需求。英伟达与SK海力士建立长期合作关系，共同保障并共同开发包括HBM在内的下一代AI内存。两家公司将共同开发和优化下一代AI内存解决方案，包括HBM，以满足从大型语言模型训练到代理AI和物理AI等不断变化的基础设施需求。（财联社）",
+      "publishedAt": "2026-07-25T06:40:29Z",
+      "published_at": "2026-07-25T06:40:29Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
