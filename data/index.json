@@ -1,138 +1,80 @@
 {
-  "generated_at": "2026-07-25T21:13:55Z",
-  "generatedAt": "2026-07-25T21:13:55Z",
+  "generated_at": "2026-07-26T10:17:09Z",
+  "generatedAt": "2026-07-26T10:17:09Z",
   "count": 75,
   "total": 75,
   "entries": [
     {
       "date": "2026-07-26",
-      "generated_at": "2026-07-25T21:13:55Z",
-      "generatedAt": "2026-07-25T21:13:55Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-07-26T10:17:09Z",
+      "generatedAt": "2026-07-26T10:17:09Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "529cedfc",
-          "title": "产品更新：Heard",
-          "title_en": "Heard",
-          "url": "https://www.producthunt.com/products/heard-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "de72e6fc",
+          "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/460253.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/heard-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Give Claude Code and Codex a voice Heard is a",
-          "summary_zh": "Give Claude Code and Codex a voice Heard is a",
-          "publishedAt": "2026-07-25T07:01:00Z",
-          "published_at": "2026-07-25T07:01:00Z",
-          "votes_count": 272,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/460253.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来  克雷西 2026-07-25 20:11:39  来源：量子位   模型变强，Claude Code系统提示词都精简了  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 泄露了一路的Opus 5，刚正式登场就被网友玩疯了。 今天凌晨，Anthropic正式把这款新模型放了出来。  多项硬核评测上，它追平甚至反超了Fable 5，价格却只有一半。 Frontier-Bench上，它反超了包括Fable 5在内的所有对手，性能是上一代Opus 4.8的两倍还多。 CursorBench最高努力设置下，也贴近定价两倍的Fable 5峰值成绩，只差0.5%。  官方给出的demo里，有一个能实时显示气流路径的风洞，气流怎么绕过去看得清清楚楚。  还有一张能360度旋转的3D细胞结构图，连内质网上密密麻麻的核糖体都画了出来。  更耐人寻味的是，为了配上这代模型的判断力，Anthropic把自己给Claude Code写的系统提示词删掉了八成，成绩却没掉。 之前泄露的时候有网友感叹Opus 5简直就像fable 6，",
+          "summary_zh": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来  克雷西 2026-07-25 20:11:39  来源：量子位   模型变强，Claude Code系统提示词都精简了  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 泄露了一路的Opus 5，刚正式登场就被网友玩疯了。 今天凌晨，Anthropic正式把这款新模型放了出来。  多项硬核评测上，它追平甚至反超了Fable 5，价格却只有一半。 Frontier-Bench上，它反超了包括Fable 5在内的所有对手，性能是上一代Opus 4.8的两倍还多。 CursorBench最高努力设置下，也贴近定价两倍的Fable 5峰值成绩，只差0.5%。  官方给出的demo里，有一个能实时显示气流路径的风洞，气流怎么绕过去看得清清楚楚。  还有一张能360度旋转的3D细胞结构图，连内质网上密密麻麻的核糖体都画了出来。  更耐人寻味的是，为了配上这代模型的判断力，Anthropic把自己给Claude Code写的系统提示词删掉了八成，成绩却没掉。 之前泄露的时候有网友感叹Opus 5简直就像fable 6，",
+          "publishedAt": "2026-07-25T12:11:39Z",
+          "published_at": "2026-07-25T12:11:39Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "f36919f2",
-          "title": "产品更新：FluentDB",
-          "title_en": "FluentDB",
-          "url": "https://www.producthunt.com/products/fluentdb-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "4604a621",
+          "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/460234.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/fluentdb-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The AI database client for Mac FluentDB is an",
-          "summary_zh": "The AI database client for Mac FluentDB is an",
-          "publishedAt": "2026-07-25T07:01:00Z",
-          "published_at": "2026-07-25T07:01:00Z",
-          "votes_count": 266,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/460234.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了  克雷西 2026-07-25 19:54:44  来源：量子位   不做人形，抓住真实用户需求  克雷西 发自 苏州 量子位 | 公众号 QbitAI 做扫地机器人的科沃斯，把旗下一款具身智能机器人整个开源了。 这条路，科沃斯走了十四年。  2012年，它推出了全球首款家庭服务机器人「亲宝」，是最早一批入局家庭服务机器人赛道的公司。 后续迭代的公共服务机器人「旺宝」，广泛落地银行、政务大厅等场景，攒下了海量真实场景数据、工程落地经验和规模化交付能力。 这些积累，后来成了科沃斯深耕具身智能领域的产业根基。 现在，它在苏州挂牌成立了「八界开源智创空间」，面向开发者、高校师生和科研人员，以及有二次开发需求的企业用户，免费开放这套平台的使用权限，从硬件到底层系统全部涵盖。  学生可以直接改代码验证自己的想法，研究者可以拿它做课题实验，创业团队可以用八界快速搭建产品原型。 支撑这套平台的，是摆在空间中央的一台机器人，它叫「八界」，没有腿、没有脸、也没有五官，一点也不「像人」。 回望过去两年，具身智能这个赛道里最不缺的就是「像人」的",
+          "summary_zh": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了  克雷西 2026-07-25 19:54:44  来源：量子位   不做人形，抓住真实用户需求  克雷西 发自 苏州 量子位 | 公众号 QbitAI 做扫地机器人的科沃斯，把旗下一款具身智能机器人整个开源了。 这条路，科沃斯走了十四年。  2012年，它推出了全球首款家庭服务机器人「亲宝」，是最早一批入局家庭服务机器人赛道的公司。 后续迭代的公共服务机器人「旺宝」，广泛落地银行、政务大厅等场景，攒下了海量真实场景数据、工程落地经验和规模化交付能力。 这些积累，后来成了科沃斯深耕具身智能领域的产业根基。 现在，它在苏州挂牌成立了「八界开源智创空间」，面向开发者、高校师生和科研人员，以及有二次开发需求的企业用户，免费开放这套平台的使用权限，从硬件到底层系统全部涵盖。  学生可以直接改代码验证自己的想法，研究者可以拿它做课题实验，创业团队可以用八界快速搭建产品原型。 支撑这套平台的，是摆在空间中央的一台机器人，它叫「八界」，没有腿、没有脸、也没有五官，一点也不「像人」。 回望过去两年，具身智能这个赛道里最不缺的就是「像人」的",
+          "publishedAt": "2026-07-25T11:54:44Z",
+          "published_at": "2026-07-25T11:54:44Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "87a776cf",
-          "title": "产品更新：Second Brain fo",
-          "title_en": "Second Brain for Mac and Windows",
-          "url": "https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "d5cde4d0",
+          "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/460186.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Your AI memory, everywhere you work The Second",
-          "summary_zh": "Your AI memory, everywhere you work The Second",
-          "publishedAt": "2026-07-25T07:01:00Z",
-          "published_at": "2026-07-25T07:01:00Z",
-          "votes_count": 222,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/460186.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡  十三 2026-07-25 19:07:25  来源：量子位   工业圈和学术圈“唱反调”   金磊 发自 凹非寺 量子位 | 公众号 QbitAI  你敢相信么，现在的AI，已经把“横店”给直接搞到了线上了！   △图片由AI生成  以后啊，人要进横店拍戏，可能就会出现两种方式了。 一种是像以前一样，本人肉身进剧组；另一种，则变成了坐在电脑前，进入线上虚拟片场，在数字化的影棚中调度人物、道具和摄像机，完成影视创作。 这便是在阿里硬核少年技术节5.0博见社北京工业场中，群核科技所分享出来的颇为有趣的案例。 据介绍，相关团队将横店的部分线下片场扫描、重建，并放到线上作为3D影视基地，创作者可以直接进入这些虚拟片场，使用数字化影棚进行内容生产。 毕竟之前我们还在聊的是AI生成视频，而现在，它已经开始把真实片场搬进电脑了。 不过更有意思的，还在后面。 今年，硬核少年技术节旗下的博见社首次设置了两场对话。一场是我们刚才提到的北京工业场，它的主题是“AI下一站：从生成内容到构建世界”，虎鲸文娱、美图、群核科技等企业带来了AI产业实践。",
+          "summary_zh": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡  十三 2026-07-25 19:07:25  来源：量子位   工业圈和学术圈“唱反调”   金磊 发自 凹非寺 量子位 | 公众号 QbitAI  你敢相信么，现在的AI，已经把“横店”给直接搞到了线上了！   △图片由AI生成  以后啊，人要进横店拍戏，可能就会出现两种方式了。 一种是像以前一样，本人肉身进剧组；另一种，则变成了坐在电脑前，进入线上虚拟片场，在数字化的影棚中调度人物、道具和摄像机，完成影视创作。 这便是在阿里硬核少年技术节5.0博见社北京工业场中，群核科技所分享出来的颇为有趣的案例。 据介绍，相关团队将横店的部分线下片场扫描、重建，并放到线上作为3D影视基地，创作者可以直接进入这些虚拟片场，使用数字化影棚进行内容生产。 毕竟之前我们还在聊的是AI生成视频，而现在，它已经开始把真实片场搬进电脑了。 不过更有意思的，还在后面。 今年，硬核少年技术节旗下的博见社首次设置了两场对话。一场是我们刚才提到的北京工业场，它的主题是“AI下一站：从生成内容到构建世界”，虎鲸文娱、美图、群核科技等企业带来了AI产业实践。",
+          "publishedAt": "2026-07-25T11:07:25Z",
+          "published_at": "2026-07-25T11:07:25Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
