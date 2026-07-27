@@ -1,72 +1,34 @@
 {
-  "generated_at": "2026-07-26T21:16:30Z",
-  "generatedAt": "2026-07-26T21:16:30Z",
+  "generated_at": "2026-07-27T11:49:34Z",
+  "generatedAt": "2026-07-27T11:49:34Z",
   "count": 76,
   "total": 76,
   "entries": [
     {
       "date": "2026-07-27",
-      "generated_at": "2026-07-26T21:16:30Z",
-      "generatedAt": "2026-07-26T21:16:30Z",
+      "generated_at": "2026-07-27T11:49:34Z",
+      "generatedAt": "2026-07-27T11:49:34Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "c9b57b30",
-          "title": "产品更新：TouchGrass",
-          "title_en": "TouchGrass",
-          "url": "https://www.producthunt.com/products/touchgrass-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "e69c9d0d",
+          "title": "产品更新：Webhound",
+          "title_en": "Webhound",
+          "url": "https://www.producthunt.com/products/webhound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/touchgrass-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/webhound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Context-aware break reminders without invasive",
-          "summary_zh": "Context-aware break reminders without invasive",
-          "publishedAt": "2026-07-26T07:01:00Z",
-          "published_at": "2026-07-26T07:01:00Z",
-          "votes_count": 289,
-          "featured": true,
-          "topics": [
-            {
-              "id": "43",
-              "name": "Health & Fitness",
-              "slug": "health-fitness"
-            },
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "303",
-              "name": "Menu Bar Apps",
-              "slug": "menu-bar-apps"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "add5b14b",
-          "title": "模型更新：Athena by Shopl",
-          "title_en": "Athena by Shoplazza",
-          "url": "https://www.producthunt.com/products/athena-by-shoplazza?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/athena-by-shoplazza?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "An orchestrator agent for your entire commerce",
-          "summary_zh": "An orchestrator agent for your entire commerce",
-          "publishedAt": "2026-07-26T07:01:00Z",
-          "published_at": "2026-07-26T07:01:00Z",
-          "votes_count": 229,
+          "summary": "A research engine for your agent Research has",
+          "summary_zh": "A research engine for your agent Research has",
+          "publishedAt": "2026-07-27T07:01:00Z",
+          "published_at": "2026-07-27T07:01:00Z",
+          "votes_count": 169,
           "featured": true,
           "topics": [
             {
@@ -75,57 +37,80 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "278",
-              "name": "E-Commerce",
-              "slug": "e-commerce"
-            },
-            {
-              "id": "713",
-              "name": "Shopping",
-              "slug": "shopping"
+              "id": "361",
+              "name": "Search",
+              "slug": "search"
             }
           ],
           "score_details": null
         },
         {
-          "id": "bcbb6603",
-          "title": "产品更新：SF Apartment Fi",
-          "title_en": "SF Apartment Finder",
-          "url": "https://www.producthunt.com/products/sf-apartment-finder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "dd71eb86",
+          "title": "产品更新：Claude Opus 5",
+          "title_en": "Claude Opus 5",
+          "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/sf-apartment-finder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Tinder for live SF rentals from across the web",
-          "summary_zh": "Tinder for live SF rentals from across the web",
-          "publishedAt": "2026-07-26T07:01:00Z",
-          "published_at": "2026-07-26T07:01:00Z",
-          "votes_count": 168,
+          "summary": "Near-Fable 5 intelligence at half the price Op",
+          "summary_zh": "Near-Fable 5 intelligence at half the price Op",
+          "publishedAt": "2026-07-27T07:01:00Z",
+          "published_at": "2026-07-27T07:01:00Z",
+          "votes_count": 159,
           "featured": true,
           "topics": [
             {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
             },
             {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "adcc0e35",
+          "title": "AI资讯更新：Artifacts by",
+          "title_en": "Artifacts by Databox",
+          "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Ask your AI Analyst and get back a ready-to-sh",
+          "summary_zh": "Ask your AI Analyst and get back a ready-to-sh",
+          "publishedAt": "2026-07-27T07:01:00Z",
+          "published_at": "2026-07-27T07:01:00Z",
+          "votes_count": 155,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
             },
             {
-              "id": "870",
-              "name": "Community",
-              "slug": "community"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
