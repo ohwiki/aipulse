@@ -1,10 +1,48 @@
 {
-  "generated_at": "2026-07-27T11:49:34Z",
-  "generatedAt": "2026-07-27T11:49:34Z",
+  "generated_at": "2026-07-27T21:33:38Z",
+  "generatedAt": "2026-07-27T21:33:38Z",
   "days": 7,
   "total": 8,
   "count": 8,
   "items": [
+    {
+      "id": "adcc0e35",
+      "title": "AI资讯更新：Artifacts by",
+      "title_en": "Artifacts by Databox",
+      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Ask your AI Analyst and get back a ready-to-sh",
+      "summary_zh": "Ask your AI Analyst and get back a ready-to-sh",
+      "publishedAt": "2026-07-27T07:01:00Z",
+      "published_at": "2026-07-27T07:01:00Z",
+      "votes_count": 339,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "e69c9d0d",
       "title": "产品更新：Webhound",
@@ -22,7 +60,7 @@
       "summary_zh": "A research engine for your agent Research has",
       "publishedAt": "2026-07-27T07:01:00Z",
       "published_at": "2026-07-27T07:01:00Z",
-      "votes_count": 169,
+      "votes_count": 320,
       "featured": true,
       "topics": [
         {
@@ -55,7 +93,7 @@
       "summary_zh": "Near-Fable 5 intelligence at half the price Op",
       "publishedAt": "2026-07-27T07:01:00Z",
       "published_at": "2026-07-27T07:01:00Z",
-      "votes_count": 159,
+      "votes_count": 318,
       "featured": true,
       "topics": [
         {
@@ -72,47 +110,9 @@
       "score_details": null
     },
     {
-      "id": "adcc0e35",
-      "title": "AI资讯更新：Artifacts by",
-      "title_en": "Artifacts by Databox",
-      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Ask your AI Analyst and get back a ready-to-sh",
-      "summary_zh": "Ask your AI Analyst and get back a ready-to-sh",
-      "publishedAt": "2026-07-27T07:01:00Z",
-      "published_at": "2026-07-27T07:01:00Z",
-      "votes_count": 155,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "164",
-          "name": "Marketing",
-          "slug": "marketing"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "d84aa741",
-      "title": "产品更新：Robynn AI - Sel",
-      "title_en": "Robynn AI - Self Improving Websites",
+      "title": "产品更新：Robynn AI",
+      "title_en": "Robynn AI",
       "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
@@ -126,7 +126,7 @@
       "summary_zh": "Websites that improve and heal with self-learn",
       "publishedAt": "2026-07-27T07:01:00Z",
       "published_at": "2026-07-27T07:01:00Z",
-      "votes_count": 148,
+      "votes_count": 253,
       "featured": true,
       "topics": [
         {

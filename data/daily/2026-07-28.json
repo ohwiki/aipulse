@@ -1,0 +1,483 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-27T21:33:38Z",
+  "generatedAt": "2026-07-27T21:33:38Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "adcc0e35",
+          "title": "AI资讯更新：Artifacts by",
+          "title_en": "Artifacts by Databox",
+          "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Ask your AI Analyst and get back a ready-to-sh",
+          "summary_zh": "Ask your AI Analyst and get back a ready-to-sh",
+          "publishedAt": "2026-07-27T07:01:00Z",
+          "published_at": "2026-07-27T07:01:00Z",
+          "votes_count": 339,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e69c9d0d",
+          "title": "产品更新：Webhound",
+          "title_en": "Webhound",
+          "url": "https://www.producthunt.com/products/webhound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/webhound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A research engine for your agent Research has",
+          "summary_zh": "A research engine for your agent Research has",
+          "publishedAt": "2026-07-27T07:01:00Z",
+          "published_at": "2026-07-27T07:01:00Z",
+          "votes_count": 320,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "361",
+              "name": "Search",
+              "slug": "search"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "dd71eb86",
+          "title": "产品更新：Claude Opus 5",
+          "title_en": "Claude Opus 5",
+          "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Near-Fable 5 intelligence at half the price Op",
+          "summary_zh": "Near-Fable 5 intelligence at half the price Op",
+          "publishedAt": "2026-07-27T07:01:00Z",
+          "published_at": "2026-07-27T07:01:00Z",
+          "votes_count": 318,
+          "featured": true,
+          "topics": [
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d84aa741",
+          "title": "产品更新：Robynn AI",
+          "title_en": "Robynn AI",
+          "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/robynn-ai-self-improving-websites?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Websites that improve and heal with self-learn",
+          "summary_zh": "Websites that improve and heal with self-learn",
+          "publishedAt": "2026-07-27T07:01:00Z",
+          "published_at": "2026-07-27T07:01:00Z",
+          "votes_count": 253,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            },
+            {
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "afb1c192",
+          "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
+          "title_en": null,
+          "url": "https://36kr.com/p/3913118530819457?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3913118530819457?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览  A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间 360原董秘称离职7年股权激励未兑现，涉及金额约2649万 马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋 法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实 韩国养老金7月首度净买入KOSPI成分股，为今年首次  TOP 3大新闻 滥用市场支配地位实施垄断行为，携程被罚没51.79亿元 7月25日，市场监管总局依法对携程集团有限公司滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计51.79亿元。 携程7月25日发布关于诚恳接受国家市场监督管理总局行政处罚决定的公告：今日，我们收到《国家市场监督管理总局行政处罚决定书》。对此，我们诚恳接受、坚决服从，并将严格对照监管要求，逐项推进、系统落实各项整改工作，确保各项措施执行到位。（央视新闻） 长鑫科技今日上市，研报预计一签最多能赚2.6万元 长鑫科技此前公告称，公司股票将于7月27日（周一）在上海证券交易所科创板上市。本次发行价格为8.66元/股，发行后总股本为668.81亿股（超额配售选择权行使前）。 国投证券研究报告对其估值设定了保守、中性、乐观、超乐观四种情景",
+          "summary_zh": "今日热点导览  A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间 360原董秘称离职7年股权激励未兑现，涉及金额约2649万 马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋 法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实 韩国养老金7月首度净买入KOSPI成分股，为今年首次  TOP 3大新闻 滥用市场支配地位实施垄断行为，携程被罚没51.79亿元 7月25日，市场监管总局依法对携程集团有限公司滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计51.79亿元。 携程7月25日发布关于诚恳接受国家市场监督管理总局行政处罚决定的公告：今日，我们收到《国家市场监督管理总局行政处罚决定书》。对此，我们诚恳接受、坚决服从，并将严格对照监管要求，逐项推进、系统落实各项整改工作，确保各项措施执行到位。（央视新闻） 长鑫科技今日上市，研报预计一签最多能赚2.6万元 长鑫科技此前公告称，公司股票将于7月27日（周一）在上海证券交易所科创板上市。本次发行价格为8.66元/股，发行后总股本为668.81亿股（超额配售选择权行使前）。 国投证券研究报告对其估值设定了保守、中性、乐观、超乐观四种情景",
+          "publishedAt": "2026-07-26T23:50:15Z",
+          "published_at": "2026-07-26T23:50:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "47b2d81e",
+          "title": "最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动",
+          "title_en": null,
+          "url": "https://36kr.com/p/3912546487637378?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3912546487637378?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "文｜阿至 过去十年，中国商业航天完成了“造得出、送得上”的第一阶段目标，卫星产能快速爬坡，可回收火箭验证走向密集验证节点。但当轨道资源从宽松走向拥挤，各国之间的竞争焦点也从发射能力转向运行能力的比拼，“管得住、用得好”至关重要。 根据国防科技大学的测算，在卫星之间保持50千米最小安全间距的前提下，300-2000公里的全低轨空间最多只能安全容纳约17.5万颗卫星。当卫星数量从几千颗变成上万颗时，地面站排队上下行指令的传统方式就会难以为继，现有的卫星管控模式也正在失效。 “未来十年，航天发展的主旋律，应该是空间的数字化和智能化。”中国科学院院士魏奉思在上个月的科技创新院士报告厅演讲中曾提及这一核心观点。 更具体点说就是，未来卫星不能\"只有眼睛、没有脑子\"。 7月26号，商业航天加速《数字空间战略》发展大会暨“数字空间一号”试验星启航大会在北京举行。 作为《数字空间战略》的提出者，魏奉思院士在现场指出，面对空间环境复杂多变、轨道资源日益拥挤以及大规模星座协同运行等挑战，未来空间基础设施不仅需要持续提升感知能力，还要构建具备认知、推演和决策能力的智能体系。“太空大脑”是数字空间建设的核心枢纽",
+          "summary_zh": "文｜阿至 过去十年，中国商业航天完成了“造得出、送得上”的第一阶段目标，卫星产能快速爬坡，可回收火箭验证走向密集验证节点。但当轨道资源从宽松走向拥挤，各国之间的竞争焦点也从发射能力转向运行能力的比拼，“管得住、用得好”至关重要。 根据国防科技大学的测算，在卫星之间保持50千米最小安全间距的前提下，300-2000公里的全低轨空间最多只能安全容纳约17.5万颗卫星。当卫星数量从几千颗变成上万颗时，地面站排队上下行指令的传统方式就会难以为继，现有的卫星管控模式也正在失效。 “未来十年，航天发展的主旋律，应该是空间的数字化和智能化。”中国科学院院士魏奉思在上个月的科技创新院士报告厅演讲中曾提及这一核心观点。 更具体点说就是，未来卫星不能\"只有眼睛、没有脑子\"。 7月26号，商业航天加速《数字空间战略》发展大会暨“数字空间一号”试验星启航大会在北京举行。 作为《数字空间战略》的提出者，魏奉思院士在现场指出，面对空间环境复杂多变、轨道资源日益拥挤以及大规模星座协同运行等挑战，未来空间基础设施不仅需要持续提升感知能力，还要构建具备认知、推演和决策能力的智能体系。“太空大脑”是数字空间建设的核心枢纽",
+          "publishedAt": "2026-07-27T01:00:00Z",
+          "published_at": "2026-07-27T01:00:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "1a74ceee",
+          "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
+          "title_en": null,
+          "url": "https://36kr.com/p/3910655616521348?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3910655616521348?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "36氪获悉，家居音频品牌「MORROR ART」母公司无锡未来镜显示科技有限公司近日完成亿元级B+轮融资，由日初资本投资，老股东零一创投继续跟投，心流资本FlowCapital担任财务顾问。本轮资金将主要用于电子家居产品矩阵扩充、视觉音乐内容与软件系统建设、国内线下体验渠道拓展，以及旗下海外子品牌MorningBlues的全球化发展。 2024年，36氪曾率先报道MORROR ART的近亿元B轮融资，由海控天程基金领投、零一创投跟投。其后，MORROR ART营收继续保持高速增长，2025年增速显著高于音频行业平均水平。 与此同时，MORROR ART面向海外市场孵化子品牌「MorningBlues」，其推出的新一代产品SonicGlass A1，在Kickstarter获得来自欧美等主要市场用户的支持。项目众筹金额已突破120万美元，成为公司验证全球市场的重要节点。  SonicGlass A1在Kickstarter的众筹金额突破120万美元 从透明歌词音响，走向电子家居产品矩阵 MORROR ART成立于2020年，总部位于江苏无锡。品牌最早以透明歌词音响进入市场，将实时歌词显示",
+          "summary_zh": "36氪获悉，家居音频品牌「MORROR ART」母公司无锡未来镜显示科技有限公司近日完成亿元级B+轮融资，由日初资本投资，老股东零一创投继续跟投，心流资本FlowCapital担任财务顾问。本轮资金将主要用于电子家居产品矩阵扩充、视觉音乐内容与软件系统建设、国内线下体验渠道拓展，以及旗下海外子品牌MorningBlues的全球化发展。 2024年，36氪曾率先报道MORROR ART的近亿元B轮融资，由海控天程基金领投、零一创投跟投。其后，MORROR ART营收继续保持高速增长，2025年增速显著高于音频行业平均水平。 与此同时，MORROR ART面向海外市场孵化子品牌「MorningBlues」，其推出的新一代产品SonicGlass A1，在Kickstarter获得来自欧美等主要市场用户的支持。项目众筹金额已突破120万美元，成为公司验证全球市场的重要节点。  SonicGlass A1在Kickstarter的众筹金额突破120万美元 从透明歌词音响，走向电子家居产品矩阵 MORROR ART成立于2020年，总部位于江苏无锡。品牌最早以透明歌词音响进入市场，将实时歌词显示",
+          "publishedAt": "2026-07-27T01:20:17Z",
+          "published_at": "2026-07-27T01:20:17Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "14f056fe",
+          "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/461149.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/461149.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash  量子位的朋友们 2026-07-27 09:57:26  来源：量子位   7月24日，蚂蚁百灵正式发布新一代原生混合推理模型 Ling-3.0-Flash。该模型总参数量 124B，单次计算激活 5.1B。在大幅精简体量与降低算力开销的同时，Ling-3.0-Flash 在基础推理、指令遵循及长文本处理等核心指标上，对标甚至超越了参数规模达其 2 至 3 倍的行业领先模型，展现出更高的“智效比”与落地性价比。据了解，该模型已上线OpenRouter，限时免费一周，之后将正式开源。  作为该版本的重点，Ling-3.0-Flash 针对Agent的实际应用场景进行了深度打磨。模型扩展了超 10000 个真实交互训练环境，并优化了复杂任务的自我纠错与长程规划机制。无论是在代码编写、复杂任务拆解，还是多源信息深度调研等场景中，Ling-3.0-Flash 均展现出更强的自主闭环交付能力，解决了传统模型在大任务中容易“跑偏”或断档的难题。 据介绍，实现“小体量、高智能”的关键，源于模型底层计算架构的重新设计。Ling-3.0-",
+          "summary_zh": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash  量子位的朋友们 2026-07-27 09:57:26  来源：量子位   7月24日，蚂蚁百灵正式发布新一代原生混合推理模型 Ling-3.0-Flash。该模型总参数量 124B，单次计算激活 5.1B。在大幅精简体量与降低算力开销的同时，Ling-3.0-Flash 在基础推理、指令遵循及长文本处理等核心指标上，对标甚至超越了参数规模达其 2 至 3 倍的行业领先模型，展现出更高的“智效比”与落地性价比。据了解，该模型已上线OpenRouter，限时免费一周，之后将正式开源。  作为该版本的重点，Ling-3.0-Flash 针对Agent的实际应用场景进行了深度打磨。模型扩展了超 10000 个真实交互训练环境，并优化了复杂任务的自我纠错与长程规划机制。无论是在代码编写、复杂任务拆解，还是多源信息深度调研等场景中，Ling-3.0-Flash 均展现出更强的自主闭环交付能力，解决了传统模型在大任务中容易“跑偏”或断档的难题。 据介绍，实现“小体量、高智能”的关键，源于模型底层计算架构的重新设计。Ling-3.0-",
+          "publishedAt": "2026-07-27T01:57:26Z",
+          "published_at": "2026-07-27T01:57:26Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "adcc0e35",
+      "title": "AI资讯更新：Artifacts by",
+      "title_en": "Artifacts by Databox",
+      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Ask your AI Analyst and get back a ready-to-sh",
+      "summary_zh": "Ask your AI Analyst and get back a ready-to-sh",
+      "publishedAt": "2026-07-27T07:01:00Z",
+      "published_at": "2026-07-27T07:01:00Z",
+      "votes_count": 339,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "e69c9d0d",
+      "title": "产品更新：Webhound",
+      "title_en": "Webhound",
+      "url": "https://www.producthunt.com/products/webhound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/webhound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A research engine for your agent Research has",
+      "summary_zh": "A research engine for your agent Research has",
+      "publishedAt": "2026-07-27T07:01:00Z",
+      "published_at": "2026-07-27T07:01:00Z",
+      "votes_count": 320,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "361",
+          "name": "Search",
+          "slug": "search"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "dd71eb86",
+      "title": "产品更新：Claude Opus 5",
+      "title_en": "Claude Opus 5",
+      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Near-Fable 5 intelligence at half the price Op",
+      "summary_zh": "Near-Fable 5 intelligence at half the price Op",
+      "publishedAt": "2026-07-27T07:01:00Z",
+      "published_at": "2026-07-27T07:01:00Z",
+      "votes_count": 318,
+      "featured": true,
+      "topics": [
+        {
+          "id": "60",
+          "name": "Messaging",
+          "slug": "messaging"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d84aa741",
+      "title": "产品更新：Robynn AI",
+      "title_en": "Robynn AI",
+      "url": "https://www.producthunt.com/products/robynn-ai-self-improving-websites?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/robynn-ai-self-improving-websites?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Websites that improve and heal with self-learn",
+      "summary_zh": "Websites that improve and heal with self-learn",
+      "publishedAt": "2026-07-27T07:01:00Z",
+      "published_at": "2026-07-27T07:01:00Z",
+      "votes_count": 253,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "231",
+          "name": "SEO",
+          "slug": "seo"
+        },
+        {
+          "id": "243",
+          "name": "Website Builder",
+          "slug": "website-builder"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "afb1c192",
+      "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
+      "title_en": null,
+      "url": "https://36kr.com/p/3913118530819457?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3913118530819457?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览  A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间 360原董秘称离职7年股权激励未兑现，涉及金额约2649万 马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋 法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实 韩国养老金7月首度净买入KOSPI成分股，为今年首次  TOP 3大新闻 滥用市场支配地位实施垄断行为，携程被罚没51.79亿元 7月25日，市场监管总局依法对携程集团有限公司滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计51.79亿元。 携程7月25日发布关于诚恳接受国家市场监督管理总局行政处罚决定的公告：今日，我们收到《国家市场监督管理总局行政处罚决定书》。对此，我们诚恳接受、坚决服从，并将严格对照监管要求，逐项推进、系统落实各项整改工作，确保各项措施执行到位。（央视新闻） 长鑫科技今日上市，研报预计一签最多能赚2.6万元 长鑫科技此前公告称，公司股票将于7月27日（周一）在上海证券交易所科创板上市。本次发行价格为8.66元/股，发行后总股本为668.81亿股（超额配售选择权行使前）。 国投证券研究报告对其估值设定了保守、中性、乐观、超乐观四种情景",
+      "summary_zh": "今日热点导览  A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间 360原董秘称离职7年股权激励未兑现，涉及金额约2649万 马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋 法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实 韩国养老金7月首度净买入KOSPI成分股，为今年首次  TOP 3大新闻 滥用市场支配地位实施垄断行为，携程被罚没51.79亿元 7月25日，市场监管总局依法对携程集团有限公司滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计51.79亿元。 携程7月25日发布关于诚恳接受国家市场监督管理总局行政处罚决定的公告：今日，我们收到《国家市场监督管理总局行政处罚决定书》。对此，我们诚恳接受、坚决服从，并将严格对照监管要求，逐项推进、系统落实各项整改工作，确保各项措施执行到位。（央视新闻） 长鑫科技今日上市，研报预计一签最多能赚2.6万元 长鑫科技此前公告称，公司股票将于7月27日（周一）在上海证券交易所科创板上市。本次发行价格为8.66元/股，发行后总股本为668.81亿股（超额配售选择权行使前）。 国投证券研究报告对其估值设定了保守、中性、乐观、超乐观四种情景",
+      "publishedAt": "2026-07-26T23:50:15Z",
+      "published_at": "2026-07-26T23:50:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "47b2d81e",
+      "title": "最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动",
+      "title_en": null,
+      "url": "https://36kr.com/p/3912546487637378?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3912546487637378?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "文｜阿至 过去十年，中国商业航天完成了“造得出、送得上”的第一阶段目标，卫星产能快速爬坡，可回收火箭验证走向密集验证节点。但当轨道资源从宽松走向拥挤，各国之间的竞争焦点也从发射能力转向运行能力的比拼，“管得住、用得好”至关重要。 根据国防科技大学的测算，在卫星之间保持50千米最小安全间距的前提下，300-2000公里的全低轨空间最多只能安全容纳约17.5万颗卫星。当卫星数量从几千颗变成上万颗时，地面站排队上下行指令的传统方式就会难以为继，现有的卫星管控模式也正在失效。 “未来十年，航天发展的主旋律，应该是空间的数字化和智能化。”中国科学院院士魏奉思在上个月的科技创新院士报告厅演讲中曾提及这一核心观点。 更具体点说就是，未来卫星不能\"只有眼睛、没有脑子\"。 7月26号，商业航天加速《数字空间战略》发展大会暨“数字空间一号”试验星启航大会在北京举行。 作为《数字空间战略》的提出者，魏奉思院士在现场指出，面对空间环境复杂多变、轨道资源日益拥挤以及大规模星座协同运行等挑战，未来空间基础设施不仅需要持续提升感知能力，还要构建具备认知、推演和决策能力的智能体系。“太空大脑”是数字空间建设的核心枢纽",
+      "summary_zh": "文｜阿至 过去十年，中国商业航天完成了“造得出、送得上”的第一阶段目标，卫星产能快速爬坡，可回收火箭验证走向密集验证节点。但当轨道资源从宽松走向拥挤，各国之间的竞争焦点也从发射能力转向运行能力的比拼，“管得住、用得好”至关重要。 根据国防科技大学的测算，在卫星之间保持50千米最小安全间距的前提下，300-2000公里的全低轨空间最多只能安全容纳约17.5万颗卫星。当卫星数量从几千颗变成上万颗时，地面站排队上下行指令的传统方式就会难以为继，现有的卫星管控模式也正在失效。 “未来十年，航天发展的主旋律，应该是空间的数字化和智能化。”中国科学院院士魏奉思在上个月的科技创新院士报告厅演讲中曾提及这一核心观点。 更具体点说就是，未来卫星不能\"只有眼睛、没有脑子\"。 7月26号，商业航天加速《数字空间战略》发展大会暨“数字空间一号”试验星启航大会在北京举行。 作为《数字空间战略》的提出者，魏奉思院士在现场指出，面对空间环境复杂多变、轨道资源日益拥挤以及大规模星座协同运行等挑战，未来空间基础设施不仅需要持续提升感知能力，还要构建具备认知、推演和决策能力的智能体系。“太空大脑”是数字空间建设的核心枢纽",
+      "publishedAt": "2026-07-27T01:00:00Z",
+      "published_at": "2026-07-27T01:00:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "1a74ceee",
+      "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
+      "title_en": null,
+      "url": "https://36kr.com/p/3910655616521348?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3910655616521348?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "36氪获悉，家居音频品牌「MORROR ART」母公司无锡未来镜显示科技有限公司近日完成亿元级B+轮融资，由日初资本投资，老股东零一创投继续跟投，心流资本FlowCapital担任财务顾问。本轮资金将主要用于电子家居产品矩阵扩充、视觉音乐内容与软件系统建设、国内线下体验渠道拓展，以及旗下海外子品牌MorningBlues的全球化发展。 2024年，36氪曾率先报道MORROR ART的近亿元B轮融资，由海控天程基金领投、零一创投跟投。其后，MORROR ART营收继续保持高速增长，2025年增速显著高于音频行业平均水平。 与此同时，MORROR ART面向海外市场孵化子品牌「MorningBlues」，其推出的新一代产品SonicGlass A1，在Kickstarter获得来自欧美等主要市场用户的支持。项目众筹金额已突破120万美元，成为公司验证全球市场的重要节点。  SonicGlass A1在Kickstarter的众筹金额突破120万美元 从透明歌词音响，走向电子家居产品矩阵 MORROR ART成立于2020年，总部位于江苏无锡。品牌最早以透明歌词音响进入市场，将实时歌词显示",
+      "summary_zh": "36氪获悉，家居音频品牌「MORROR ART」母公司无锡未来镜显示科技有限公司近日完成亿元级B+轮融资，由日初资本投资，老股东零一创投继续跟投，心流资本FlowCapital担任财务顾问。本轮资金将主要用于电子家居产品矩阵扩充、视觉音乐内容与软件系统建设、国内线下体验渠道拓展，以及旗下海外子品牌MorningBlues的全球化发展。 2024年，36氪曾率先报道MORROR ART的近亿元B轮融资，由海控天程基金领投、零一创投跟投。其后，MORROR ART营收继续保持高速增长，2025年增速显著高于音频行业平均水平。 与此同时，MORROR ART面向海外市场孵化子品牌「MorningBlues」，其推出的新一代产品SonicGlass A1，在Kickstarter获得来自欧美等主要市场用户的支持。项目众筹金额已突破120万美元，成为公司验证全球市场的重要节点。  SonicGlass A1在Kickstarter的众筹金额突破120万美元 从透明歌词音响，走向电子家居产品矩阵 MORROR ART成立于2020年，总部位于江苏无锡。品牌最早以透明歌词音响进入市场，将实时歌词显示",
+      "publishedAt": "2026-07-27T01:20:17Z",
+      "published_at": "2026-07-27T01:20:17Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "14f056fe",
+      "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/461149.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/461149.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash  量子位的朋友们 2026-07-27 09:57:26  来源：量子位   7月24日，蚂蚁百灵正式发布新一代原生混合推理模型 Ling-3.0-Flash。该模型总参数量 124B，单次计算激活 5.1B。在大幅精简体量与降低算力开销的同时，Ling-3.0-Flash 在基础推理、指令遵循及长文本处理等核心指标上，对标甚至超越了参数规模达其 2 至 3 倍的行业领先模型，展现出更高的“智效比”与落地性价比。据了解，该模型已上线OpenRouter，限时免费一周，之后将正式开源。  作为该版本的重点，Ling-3.0-Flash 针对Agent的实际应用场景进行了深度打磨。模型扩展了超 10000 个真实交互训练环境，并优化了复杂任务的自我纠错与长程规划机制。无论是在代码编写、复杂任务拆解，还是多源信息深度调研等场景中，Ling-3.0-Flash 均展现出更强的自主闭环交付能力，解决了传统模型在大任务中容易“跑偏”或断档的难题。 据介绍，实现“小体量、高智能”的关键，源于模型底层计算架构的重新设计。Ling-3.0-",
+      "summary_zh": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash  量子位的朋友们 2026-07-27 09:57:26  来源：量子位   7月24日，蚂蚁百灵正式发布新一代原生混合推理模型 Ling-3.0-Flash。该模型总参数量 124B，单次计算激活 5.1B。在大幅精简体量与降低算力开销的同时，Ling-3.0-Flash 在基础推理、指令遵循及长文本处理等核心指标上，对标甚至超越了参数规模达其 2 至 3 倍的行业领先模型，展现出更高的“智效比”与落地性价比。据了解，该模型已上线OpenRouter，限时免费一周，之后将正式开源。  作为该版本的重点，Ling-3.0-Flash 针对Agent的实际应用场景进行了深度打磨。模型扩展了超 10000 个真实交互训练环境，并优化了复杂任务的自我纠错与长程规划机制。无论是在代码编写、复杂任务拆解，还是多源信息深度调研等场景中，Ling-3.0-Flash 均展现出更强的自主闭环交付能力，解决了传统模型在大任务中容易“跑偏”或断档的难题。 据介绍，实现“小体量、高智能”的关键，源于模型底层计算架构的重新设计。Ling-3.0-",
+      "publishedAt": "2026-07-27T01:57:26Z",
+      "published_at": "2026-07-27T01:57:26Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

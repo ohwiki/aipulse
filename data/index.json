@@ -1,9 +1,122 @@
 {
-  "generated_at": "2026-07-27T11:49:34Z",
-  "generatedAt": "2026-07-27T11:49:34Z",
-  "count": 76,
-  "total": 76,
+  "generated_at": "2026-07-27T21:33:38Z",
+  "generatedAt": "2026-07-27T21:33:38Z",
+  "count": 77,
+  "total": 77,
   "entries": [
+    {
+      "date": "2026-07-28",
+      "generated_at": "2026-07-27T21:33:38Z",
+      "generatedAt": "2026-07-27T21:33:38Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "adcc0e35",
+          "title": "AI资讯更新：Artifacts by",
+          "title_en": "Artifacts by Databox",
+          "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Ask your AI Analyst and get back a ready-to-sh",
+          "summary_zh": "Ask your AI Analyst and get back a ready-to-sh",
+          "publishedAt": "2026-07-27T07:01:00Z",
+          "published_at": "2026-07-27T07:01:00Z",
+          "votes_count": 339,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e69c9d0d",
+          "title": "产品更新：Webhound",
+          "title_en": "Webhound",
+          "url": "https://www.producthunt.com/products/webhound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/webhound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A research engine for your agent Research has",
+          "summary_zh": "A research engine for your agent Research has",
+          "publishedAt": "2026-07-27T07:01:00Z",
+          "published_at": "2026-07-27T07:01:00Z",
+          "votes_count": 320,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "361",
+              "name": "Search",
+              "slug": "search"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "dd71eb86",
+          "title": "产品更新：Claude Opus 5",
+          "title_en": "Claude Opus 5",
+          "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Near-Fable 5 intelligence at half the price Op",
+          "summary_zh": "Near-Fable 5 intelligence at half the price Op",
+          "publishedAt": "2026-07-27T07:01:00Z",
+          "published_at": "2026-07-27T07:01:00Z",
+          "votes_count": 318,
+          "featured": true,
+          "topics": [
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-27",
       "generated_at": "2026-07-27T11:49:34Z",
