@@ -1,30 +1,155 @@
 {
-  "generated_at": "2026-07-28T10:57:12Z",
-  "generatedAt": "2026-07-28T10:57:12Z",
+  "generated_at": "2026-07-28T21:35:49Z",
+  "generatedAt": "2026-07-28T21:35:49Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 8,
+  "count": 8,
   "items": [
     {
-      "id": "f48e7fd7",
-      "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
-      "title_en": null,
-      "url": "https://36kr.com/p/3913320648971395?f=rss",
-      "source": "36氪",
+      "id": "86dfa9fc",
+      "title": "产品更新：Prefactor",
+      "title_en": "Prefactor",
+      "url": "https://www.producthunt.com/products/prefactor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3913320648971395?f=rss",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面） 小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一 36氪获悉，7月27日，OpenRouter最新数据显示，小米MiMo-V2.5登上全球大模型调用量周榜、月榜双第一，成为当周全球调用量唯一突破10T的模型。5月以来，MiMo-V2.5全球调用量持续攀升，单周token量从1.46T逐步升至10.46T，两个月增长约 616%。 美团AI“小团”全面升级 36氪获悉，7月27日，美团宣布旗下本地生活AI原生助手“小团”全面升级。新版“小团”在搜索、问答和决策辅助之外，进一步升级代理执行能力：用户提出需求后，“小团”可结合实时信息，协助完成下单、打车、订位等各类本地生活服务相关操作。截至目前，“小团”的信息服务已覆盖全国2800多个城",
-      "summary_zh": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面） 小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一 36氪获悉，7月27日，OpenRouter最新数据显示，小米MiMo-V2.5登上全球大模型调用量周榜、月榜双第一，成为当周全球调用量唯一突破10T的模型。5月以来，MiMo-V2.5全球调用量持续攀升，单周token量从1.46T逐步升至10.46T，两个月增长约 616%。 美团AI“小团”全面升级 36氪获悉，7月27日，美团宣布旗下本地生活AI原生助手“小团”全面升级。新版“小团”在搜索、问答和决策辅助之外，进一步升级代理执行能力：用户提出需求后，“小团”可结合实时信息，协助完成下单、打车、订位等各类本地生活服务相关操作。截至目前，“小团”的信息服务已覆盖全国2800多个城",
-      "publishedAt": "2026-07-27T11:37:06Z",
-      "published_at": "2026-07-27T11:37:06Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/prefactor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Evaluate your AI Agents in real-time Most agen",
+      "summary_zh": "Evaluate your AI Agents in real-time Most agen",
+      "publishedAt": "2026-07-28T07:01:00Z",
+      "published_at": "2026-07-28T07:01:00Z",
+      "votes_count": 514,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "411a3822",
+      "title": "AI资讯更新：Cekura",
+      "title_en": "Cekura",
+      "url": "https://www.producthunt.com/products/vocera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/vocera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The self-improvement loop for voice agents Cek",
+      "summary_zh": "The self-improvement loop for voice agents Cek",
+      "publishedAt": "2026-07-28T07:01:00Z",
+      "published_at": "2026-07-28T07:01:00Z",
+      "votes_count": 335,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b6215bb3",
+      "title": "产品更新：Lottie Creator",
+      "title_en": "Lottie Creator 2.0",
+      "url": "https://www.producthunt.com/products/lottiefiles?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/lottiefiles?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "After Effects for the web, built on Lottie Yes",
+      "summary_zh": "After Effects for the web, built on Lottie Yes",
+      "publishedAt": "2026-07-28T07:01:00Z",
+      "published_at": "2026-07-28T07:01:00Z",
+      "votes_count": 293,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "624",
+          "name": "Graphics & Design",
+          "slug": "graphics-design"
+        },
+        {
+          "id": "811",
+          "name": "Animation",
+          "slug": "animation"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "356d8570",
+      "title": "产品更新：Leaping AI",
+      "title_en": "Leaping AI",
+      "url": "https://www.producthunt.com/products/leaping-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/leaping-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI agents that call and text in multi-day camp",
+      "summary_zh": "AI agents that call and text in multi-day camp",
+      "publishedAt": "2026-07-28T07:01:00Z",
+      "published_at": "2026-07-28T07:01:00Z",
+      "votes_count": 167,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "823",
+          "name": "Home improvement",
+          "slug": "home-improvement"
+        }
+      ],
       "score_details": null
     },
     {
@@ -88,6 +213,28 @@
       "summary_zh": "参与门槛超简单，全程仅需 15 秒 打开抽奖小程序，简单操作两步就能解锁抽奖资格：  进入36氪企业全情报小程序快速体验，耗时不超15秒。 任选一家企业完成订阅  完成以上操作，直接免费获得抽奖机会，不用充值、不用拉人，人人可参与！  扫码参与抽奖！ 🎁豪华奖品池，中奖好物全实拍 🥇 一等奖大疆 Osmo Pocket 4口袋里的专业影像机，记录生活、旅行、Vlog都非常方便。 🥈 二等奖DJI MIC MINI 无线领夹麦轻巧便携，收音清晰，拍视频、直播、会议都能轻松应对。 🥉 三等奖36氪专属竹节吸管杯环保又实用，办公、通勤都很适合。   为什么推荐体验 36 氪企业全情报？ 平台结合AI能力，对海量信息进行智能梳理，帮助用户快速理解事件影响，减少搜集整理信息的时间，让盘中追热点、盘后做复盘更加高效。 不管是投资人、商务从业者、创业打工人，都能用得上：  ✅ 一键查询企业工商、融资、舆情、股权全维度情报  ✅ 行业动态、竞品分析、投融资资讯实时更新  ✅ 轻量化小程序，不用下载APP，打开即用，10秒快速上手 既能高效搞定工作调研，还能顺手参与免费抽奖，一举两得！ 手机直接点击即可",
       "publishedAt": "2026-07-28T03:34:04Z",
       "published_at": "2026-07-28T03:34:04Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "aceeced2",
+      "title": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/461650.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/461650.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归  鹭羽 2026-07-28 12:18:15  来源：量子位   扩散模型首次打通长程Agent任务   鹭羽 发自 凹非寺 量子位 | 公众号 QbitAI  终于！Agent赛道，不再是自回归（AR）模型一家独大。 长期处于非主流位置的扩散模型，也开始有了一席之地。     这些年但凡叫得上名字的Agent，从ChatGPT到Claude，底层清一色因果自回归LLM。 逐Token生成慢是慢了点，但行业默认，Agent的大脑只能如此。 蚂蚁却不这么想。 旗下inclusionAI团队陆续推出LLaDA系列模型，最新开源LLaDA2.2，实现扩散模型首次进入智能体长程任务！     准确来说，这是一款千亿参数的MoE扩散语言模型，原生支持128K上下文，也是全球首个大规模Agentic扩散模型。 总之自回归模型能干的，它也能干，自回归模型跑得慢的痛点，它也能一刀切。 更关键的是，它第一次将Levenshtein编辑、面向环境反馈的强化学习，以及长上下文工程架构，整合进同一套扩散模型Agent系统—— 模型不",
+      "summary_zh": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归  鹭羽 2026-07-28 12:18:15  来源：量子位   扩散模型首次打通长程Agent任务   鹭羽 发自 凹非寺 量子位 | 公众号 QbitAI  终于！Agent赛道，不再是自回归（AR）模型一家独大。 长期处于非主流位置的扩散模型，也开始有了一席之地。     这些年但凡叫得上名字的Agent，从ChatGPT到Claude，底层清一色因果自回归LLM。 逐Token生成慢是慢了点，但行业默认，Agent的大脑只能如此。 蚂蚁却不这么想。 旗下inclusionAI团队陆续推出LLaDA系列模型，最新开源LLaDA2.2，实现扩散模型首次进入智能体长程任务！     准确来说，这是一款千亿参数的MoE扩散语言模型，原生支持128K上下文，也是全球首个大规模Agentic扩散模型。 总之自回归模型能干的，它也能干，自回归模型跑得慢的痛点，它也能一刀切。 更关键的是，它第一次将Levenshtein编辑、面向环境反馈的强化学习，以及长上下文工程架构，整合进同一套扩散模型Agent系统—— 模型不",
+      "publishedAt": "2026-07-28T04:18:15Z",
+      "published_at": "2026-07-28T04:18:15Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

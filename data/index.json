@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-28T10:57:12Z",
-  "generatedAt": "2026-07-28T10:57:12Z",
-  "count": 77,
-  "total": 77,
+  "generated_at": "2026-07-28T21:35:49Z",
+  "generatedAt": "2026-07-28T21:35:49Z",
+  "count": 78,
+  "total": 78,
   "entries": [
+    {
+      "date": "2026-07-29",
+      "generated_at": "2026-07-28T21:35:49Z",
+      "generatedAt": "2026-07-28T21:35:49Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "86dfa9fc",
+          "title": "产品更新：Prefactor",
+          "title_en": "Prefactor",
+          "url": "https://www.producthunt.com/products/prefactor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/prefactor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Evaluate your AI Agents in real-time Most agen",
+          "summary_zh": "Evaluate your AI Agents in real-time Most agen",
+          "publishedAt": "2026-07-28T07:01:00Z",
+          "published_at": "2026-07-28T07:01:00Z",
+          "votes_count": 514,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "411a3822",
+          "title": "AI资讯更新：Cekura",
+          "title_en": "Cekura",
+          "url": "https://www.producthunt.com/products/vocera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vocera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The self-improvement loop for voice agents Cek",
+          "summary_zh": "The self-improvement loop for voice agents Cek",
+          "publishedAt": "2026-07-28T07:01:00Z",
+          "published_at": "2026-07-28T07:01:00Z",
+          "votes_count": 335,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b6215bb3",
+          "title": "产品更新：Lottie Creator",
+          "title_en": "Lottie Creator 2.0",
+          "url": "https://www.producthunt.com/products/lottiefiles?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/lottiefiles?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "After Effects for the web, built on Lottie Yes",
+          "summary_zh": "After Effects for the web, built on Lottie Yes",
+          "publishedAt": "2026-07-28T07:01:00Z",
+          "published_at": "2026-07-28T07:01:00Z",
+          "votes_count": 293,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "624",
+              "name": "Graphics & Design",
+              "slug": "graphics-design"
+            },
+            {
+              "id": "811",
+              "name": "Animation",
+              "slug": "animation"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-28",
       "generated_at": "2026-07-28T10:57:12Z",
