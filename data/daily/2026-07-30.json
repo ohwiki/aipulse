@@ -1,0 +1,493 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-29T21:24:20Z",
+  "generatedAt": "2026-07-29T21:24:20Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "6f38d775",
+          "title": "产品更新：Prelint",
+          "title_en": "Prelint",
+          "url": "https://www.producthunt.com/products/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Prevent product drift in AI-written code AI wr",
+          "summary_zh": "Prevent product drift in AI-written code AI wr",
+          "publishedAt": "2026-07-29T07:01:00Z",
+          "published_at": "2026-07-29T07:01:00Z",
+          "votes_count": 456,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "998415c5",
+          "title": "产品更新：SoundGate Guita",
+          "title_en": "SoundGate Guitar",
+          "url": "https://www.producthunt.com/products/soundgate-guitar-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/soundgate-guitar-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI Music Tutor that gives real-time feedback o",
+          "summary_zh": "AI Music Tutor that gives real-time feedback o",
+          "publishedAt": "2026-07-29T07:01:00Z",
+          "published_at": "2026-07-29T07:01:00Z",
+          "votes_count": 348,
+          "featured": true,
+          "topics": [
+            {
+              "id": "57",
+              "name": "Music",
+              "slug": "music"
+            },
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "fcaa2e6e",
+          "title": "产品更新：Denovo",
+          "title_en": "Denovo",
+          "url": "https://www.producthunt.com/products/denovo-business-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/denovo-business-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Turn your vibe-coded app into paying customers",
+          "summary_zh": "Turn your vibe-coded app into paying customers",
+          "publishedAt": "2026-07-29T07:01:00Z",
+          "published_at": "2026-07-29T07:01:00Z",
+          "votes_count": 269,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "87562515",
+          "title": "产品更新：/mission for Cl",
+          "title_en": "/mission for Claude Code",
+          "url": "https://www.producthunt.com/products/spine-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/spine-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Give Claude Code missions to spawn a team of a",
+          "summary_zh": "Give Claude Code missions to spawn a team of a",
+          "publishedAt": "2026-07-29T07:01:00Z",
+          "published_at": "2026-07-29T07:01:00Z",
+          "votes_count": 247,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "3a067c99",
+          "title": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
+          "title_en": null,
+          "url": "https://36kr.com/p/3915066350327176?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3915066350327176?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "当前，AI技术正加速向实体经济各领域渗透深化，智能硬件作为AI能力落地实体场景的核心载体，已进入产品能力升级与产业价值提升的关键发展阶段。腾讯研究院2026年3月的调研数据显示，国内已有80.8%的消费者购买或使用过至少一类AI相关硬件产品，其中32.0%的用户表示将在未来三个月增加相关消费支出，消费端市场需求具备稳步向上的支撑基础。与此同时，端侧AI芯片、轻量化大模型、多传感融合等底层技术不断取得突破，推动智能硬件逐步降低对云端算力的依赖，本地自主感知、分析决策与功能迭代的能力持续增强，产业端的数字化赋能效果也得到了较为明显的改善与提升。然而，行业发展仍面临碎片化竞争加剧、供应链成本承压、场景规模化落地不足、数据安全合规要求升级等现实挑战。传统依托硬件参数堆砌、低价代工走量的增长路径，已难以适配AI原生阶段的竞争要求。基于上述行业背景，36氪研究院发布《2026年中国智能硬件行业发展研究报告》，系统梳理行业发展脉络与产业生态格局，拆解产业链上中下游的升级方向，并结合典型企业实践，研判未来技术演进、场景拓展与全球化布局趋势，为行业各方参与者提供多维度的决策参考。 中国智能硬件迈入AI原",
+          "summary_zh": "当前，AI技术正加速向实体经济各领域渗透深化，智能硬件作为AI能力落地实体场景的核心载体，已进入产品能力升级与产业价值提升的关键发展阶段。腾讯研究院2026年3月的调研数据显示，国内已有80.8%的消费者购买或使用过至少一类AI相关硬件产品，其中32.0%的用户表示将在未来三个月增加相关消费支出，消费端市场需求具备稳步向上的支撑基础。与此同时，端侧AI芯片、轻量化大模型、多传感融合等底层技术不断取得突破，推动智能硬件逐步降低对云端算力的依赖，本地自主感知、分析决策与功能迭代的能力持续增强，产业端的数字化赋能效果也得到了较为明显的改善与提升。然而，行业发展仍面临碎片化竞争加剧、供应链成本承压、场景规模化落地不足、数据安全合规要求升级等现实挑战。传统依托硬件参数堆砌、低价代工走量的增长路径，已难以适配AI原生阶段的竞争要求。基于上述行业背景，36氪研究院发布《2026年中国智能硬件行业发展研究报告》，系统梳理行业发展脉络与产业生态格局，拆解产业链上中下游的升级方向，并结合典型企业实践，研判未来技术演进、场景拓展与全球化布局趋势，为行业各方参与者提供多维度的决策参考。 中国智能硬件迈入AI原",
+          "publishedAt": "2026-07-28T23:30:00Z",
+          "published_at": "2026-07-28T23:30:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "bddaef5d",
+          "title": "8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源",
+          "title_en": null,
+          "url": "https://36kr.com/p/3915953688604296?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3915953688604296?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览  李宁此前起诉多个网络账号名誉侵权案，已取得胜诉判决 小米已注册澎程关联商标 泡泡玛特城市乐园涨价 英伟达据悉签署价值高达500亿美元的得州数据中心租赁协议 “抱抱脸”向OpenAI索赔1亿美元算力  TOP 3 大新闻 韩国考虑为“借钱炒股”封顶20% 韩国KOSPI指数尾盘扩大跌幅，日内大跌11%，自4月14日以来首次跌破6000点，较6月峰值跌超30%。据韩国《中央日报》中文网28日报道，韩国金融监管当局决定，若单一股票杠杆产品投资过热未能平息，将引入个人投资上限等追加监管措施。目前正在重点研究将个股杠杆投资额限制在全部金融投资产品投资额20%以内的方案。韩国官方此前披露的统计数据显示，截至7月13日，7月累积强制平仓规模达到3442亿韩元(约合人民币15.7亿元)，超120万个杠杆散户账户触及保证金追缴线，其中约32万至36万个账户已经被券商全额强制平仓，部分账户甚至出现倒欠券商资金情况。（中新经纬） 雷军打新长鑫科技浮盈7亿？小米高管回应。 7月27日，长鑫科技集团股份有限公司正式登陆科创板，上市首日股价大涨，收盘涨幅达465.82%，市值升至3.28万亿元，成",
+          "summary_zh": "今日热点导览  李宁此前起诉多个网络账号名誉侵权案，已取得胜诉判决 小米已注册澎程关联商标 泡泡玛特城市乐园涨价 英伟达据悉签署价值高达500亿美元的得州数据中心租赁协议 “抱抱脸”向OpenAI索赔1亿美元算力  TOP 3 大新闻 韩国考虑为“借钱炒股”封顶20% 韩国KOSPI指数尾盘扩大跌幅，日内大跌11%，自4月14日以来首次跌破6000点，较6月峰值跌超30%。据韩国《中央日报》中文网28日报道，韩国金融监管当局决定，若单一股票杠杆产品投资过热未能平息，将引入个人投资上限等追加监管措施。目前正在重点研究将个股杠杆投资额限制在全部金融投资产品投资额20%以内的方案。韩国官方此前披露的统计数据显示，截至7月13日，7月累积强制平仓规模达到3442亿韩元(约合人民币15.7亿元)，超120万个杠杆散户账户触及保证金追缴线，其中约32万至36万个账户已经被券商全额强制平仓，部分账户甚至出现倒欠券商资金情况。（中新经纬） 雷军打新长鑫科技浮盈7亿？小米高管回应。 7月27日，长鑫科技集团股份有限公司正式登陆科创板，上市首日股价大涨，收盘涨幅达465.82%，市值升至3.28万亿元，成",
+          "publishedAt": "2026-07-28T23:54:15Z",
+          "published_at": "2026-07-28T23:54:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "12545aac",
+          "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
+          "title_en": null,
+          "url": "https://36kr.com/p/3878652674715905?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3878652674715905?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "文｜胡香赟 编辑｜海若镜 36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由仙居蓝湾基金、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。 米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU+ANN（微控制器+人工神经网络）通用算力方案，诞生于图像、文本离散数据场景，较难适配人体连续、微弱、高噪声生理时序信号。而长期可穿戴、闭环神经干预、居家慢病全周期管理等前沿赛道始终存在功耗、延迟、安全三重底层瓶颈。市场需要一套原生适配人体生理特征、符合医疗器械全流程合规的一体化底层平台。” 基于此，米能科技选择聚焦医疗设备上游底层算力基础设施研发，已打造“生理感知—事件计算—安全调控”全闭环原生软硬件平台。公司自研从模拟信号采集、脉冲事件编码、类脑稀疏计算到硬件级安全干预的整套底层技术，不涉足终端整机制造，为各类医疗设备厂商输出可快速集成、适配临床规范的标准化底层能力包。 2025年，这个模式已产生规模化营收。 米能科技相关负责人介绍称，当前，行业主",
+          "summary_zh": "文｜胡香赟 编辑｜海若镜 36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由仙居蓝湾基金、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。 米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU+ANN（微控制器+人工神经网络）通用算力方案，诞生于图像、文本离散数据场景，较难适配人体连续、微弱、高噪声生理时序信号。而长期可穿戴、闭环神经干预、居家慢病全周期管理等前沿赛道始终存在功耗、延迟、安全三重底层瓶颈。市场需要一套原生适配人体生理特征、符合医疗器械全流程合规的一体化底层平台。” 基于此，米能科技选择聚焦医疗设备上游底层算力基础设施研发，已打造“生理感知—事件计算—安全调控”全闭环原生软硬件平台。公司自研从模拟信号采集、脉冲事件编码、类脑稀疏计算到硬件级安全干预的整套底层技术，不涉足终端整机制造，为各类医疗设备厂商输出可快速集成、适配临床规范的标准化底层能力包。 2025年，这个模式已产生规模化营收。 米能科技相关负责人介绍称，当前，行业主",
+          "publishedAt": "2026-07-29T00:15:00Z",
+          "published_at": "2026-07-29T00:15:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "dccfde4f",
+          "title": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/462058.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/462058.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂  量子位的朋友们 2026-07-29 09:45:36  来源：量子位   近日，九章云极DataCanvas旗下专业Token规模化交付平台Alaya Token正式完成对Kimi K3模型的深度适配与生产级上线。此举标志着九章云极“AI工厂”战略在模型生态建设上再落关键一子，继智谱GLM-5.2、DeepSeek-V4 Flash之后，其Token工厂的“多模型矩阵”已覆盖当前国内头部开源模型梯队。  据悉，Kimi K3 是全球首个开源的 3 万亿参数级大模型。它采用自研的 KDA 混合线性注意力机制（Kimi Delta Attention）与注意力残差架构，以 2.8 万亿参数的 MoE 设计原生支持视觉理解，上下文窗口达 100 万 token。在编程、Agent 与复杂推理等基准上，K3 全面进入开源模型第一梯队——Frontend Code Arena 以 1679 分位列全球第一，超过 Claude Fable 5；据第三方评测，SWE-bench Verified 达",
+          "summary_zh": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂  量子位的朋友们 2026-07-29 09:45:36  来源：量子位   近日，九章云极DataCanvas旗下专业Token规模化交付平台Alaya Token正式完成对Kimi K3模型的深度适配与生产级上线。此举标志着九章云极“AI工厂”战略在模型生态建设上再落关键一子，继智谱GLM-5.2、DeepSeek-V4 Flash之后，其Token工厂的“多模型矩阵”已覆盖当前国内头部开源模型梯队。  据悉，Kimi K3 是全球首个开源的 3 万亿参数级大模型。它采用自研的 KDA 混合线性注意力机制（Kimi Delta Attention）与注意力残差架构，以 2.8 万亿参数的 MoE 设计原生支持视觉理解，上下文窗口达 100 万 token。在编程、Agent 与复杂推理等基准上，K3 全面进入开源模型第一梯队——Frontend Code Arena 以 1679 分位列全球第一，超过 Claude Fable 5；据第三方评测，SWE-bench Verified 达",
+          "publishedAt": "2026-07-29T01:45:36Z",
+          "published_at": "2026-07-29T01:45:36Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "6f38d775",
+      "title": "产品更新：Prelint",
+      "title_en": "Prelint",
+      "url": "https://www.producthunt.com/products/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Prevent product drift in AI-written code AI wr",
+      "summary_zh": "Prevent product drift in AI-written code AI wr",
+      "publishedAt": "2026-07-29T07:01:00Z",
+      "published_at": "2026-07-29T07:01:00Z",
+      "votes_count": 456,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "998415c5",
+      "title": "产品更新：SoundGate Guita",
+      "title_en": "SoundGate Guitar",
+      "url": "https://www.producthunt.com/products/soundgate-guitar-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/soundgate-guitar-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI Music Tutor that gives real-time feedback o",
+      "summary_zh": "AI Music Tutor that gives real-time feedback o",
+      "publishedAt": "2026-07-29T07:01:00Z",
+      "published_at": "2026-07-29T07:01:00Z",
+      "votes_count": 348,
+      "featured": true,
+      "topics": [
+        {
+          "id": "57",
+          "name": "Music",
+          "slug": "music"
+        },
+        {
+          "id": "204",
+          "name": "Education",
+          "slug": "education"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "fcaa2e6e",
+      "title": "产品更新：Denovo",
+      "title_en": "Denovo",
+      "url": "https://www.producthunt.com/products/denovo-business-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/denovo-business-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn your vibe-coded app into paying customers",
+      "summary_zh": "Turn your vibe-coded app into paying customers",
+      "publishedAt": "2026-07-29T07:01:00Z",
+      "published_at": "2026-07-29T07:01:00Z",
+      "votes_count": 269,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "87562515",
+      "title": "产品更新：/mission for Cl",
+      "title_en": "/mission for Claude Code",
+      "url": "https://www.producthunt.com/products/spine-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/spine-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Give Claude Code missions to spawn a team of a",
+      "summary_zh": "Give Claude Code missions to spawn a team of a",
+      "publishedAt": "2026-07-29T07:01:00Z",
+      "published_at": "2026-07-29T07:01:00Z",
+      "votes_count": 247,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3a067c99",
+      "title": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
+      "title_en": null,
+      "url": "https://36kr.com/p/3915066350327176?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3915066350327176?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "当前，AI技术正加速向实体经济各领域渗透深化，智能硬件作为AI能力落地实体场景的核心载体，已进入产品能力升级与产业价值提升的关键发展阶段。腾讯研究院2026年3月的调研数据显示，国内已有80.8%的消费者购买或使用过至少一类AI相关硬件产品，其中32.0%的用户表示将在未来三个月增加相关消费支出，消费端市场需求具备稳步向上的支撑基础。与此同时，端侧AI芯片、轻量化大模型、多传感融合等底层技术不断取得突破，推动智能硬件逐步降低对云端算力的依赖，本地自主感知、分析决策与功能迭代的能力持续增强，产业端的数字化赋能效果也得到了较为明显的改善与提升。然而，行业发展仍面临碎片化竞争加剧、供应链成本承压、场景规模化落地不足、数据安全合规要求升级等现实挑战。传统依托硬件参数堆砌、低价代工走量的增长路径，已难以适配AI原生阶段的竞争要求。基于上述行业背景，36氪研究院发布《2026年中国智能硬件行业发展研究报告》，系统梳理行业发展脉络与产业生态格局，拆解产业链上中下游的升级方向，并结合典型企业实践，研判未来技术演进、场景拓展与全球化布局趋势，为行业各方参与者提供多维度的决策参考。 中国智能硬件迈入AI原",
+      "summary_zh": "当前，AI技术正加速向实体经济各领域渗透深化，智能硬件作为AI能力落地实体场景的核心载体，已进入产品能力升级与产业价值提升的关键发展阶段。腾讯研究院2026年3月的调研数据显示，国内已有80.8%的消费者购买或使用过至少一类AI相关硬件产品，其中32.0%的用户表示将在未来三个月增加相关消费支出，消费端市场需求具备稳步向上的支撑基础。与此同时，端侧AI芯片、轻量化大模型、多传感融合等底层技术不断取得突破，推动智能硬件逐步降低对云端算力的依赖，本地自主感知、分析决策与功能迭代的能力持续增强，产业端的数字化赋能效果也得到了较为明显的改善与提升。然而，行业发展仍面临碎片化竞争加剧、供应链成本承压、场景规模化落地不足、数据安全合规要求升级等现实挑战。传统依托硬件参数堆砌、低价代工走量的增长路径，已难以适配AI原生阶段的竞争要求。基于上述行业背景，36氪研究院发布《2026年中国智能硬件行业发展研究报告》，系统梳理行业发展脉络与产业生态格局，拆解产业链上中下游的升级方向，并结合典型企业实践，研判未来技术演进、场景拓展与全球化布局趋势，为行业各方参与者提供多维度的决策参考。 中国智能硬件迈入AI原",
+      "publishedAt": "2026-07-28T23:30:00Z",
+      "published_at": "2026-07-28T23:30:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "bddaef5d",
+      "title": "8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源",
+      "title_en": null,
+      "url": "https://36kr.com/p/3915953688604296?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3915953688604296?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览  李宁此前起诉多个网络账号名誉侵权案，已取得胜诉判决 小米已注册澎程关联商标 泡泡玛特城市乐园涨价 英伟达据悉签署价值高达500亿美元的得州数据中心租赁协议 “抱抱脸”向OpenAI索赔1亿美元算力  TOP 3 大新闻 韩国考虑为“借钱炒股”封顶20% 韩国KOSPI指数尾盘扩大跌幅，日内大跌11%，自4月14日以来首次跌破6000点，较6月峰值跌超30%。据韩国《中央日报》中文网28日报道，韩国金融监管当局决定，若单一股票杠杆产品投资过热未能平息，将引入个人投资上限等追加监管措施。目前正在重点研究将个股杠杆投资额限制在全部金融投资产品投资额20%以内的方案。韩国官方此前披露的统计数据显示，截至7月13日，7月累积强制平仓规模达到3442亿韩元(约合人民币15.7亿元)，超120万个杠杆散户账户触及保证金追缴线，其中约32万至36万个账户已经被券商全额强制平仓，部分账户甚至出现倒欠券商资金情况。（中新经纬） 雷军打新长鑫科技浮盈7亿？小米高管回应。 7月27日，长鑫科技集团股份有限公司正式登陆科创板，上市首日股价大涨，收盘涨幅达465.82%，市值升至3.28万亿元，成",
+      "summary_zh": "今日热点导览  李宁此前起诉多个网络账号名誉侵权案，已取得胜诉判决 小米已注册澎程关联商标 泡泡玛特城市乐园涨价 英伟达据悉签署价值高达500亿美元的得州数据中心租赁协议 “抱抱脸”向OpenAI索赔1亿美元算力  TOP 3 大新闻 韩国考虑为“借钱炒股”封顶20% 韩国KOSPI指数尾盘扩大跌幅，日内大跌11%，自4月14日以来首次跌破6000点，较6月峰值跌超30%。据韩国《中央日报》中文网28日报道，韩国金融监管当局决定，若单一股票杠杆产品投资过热未能平息，将引入个人投资上限等追加监管措施。目前正在重点研究将个股杠杆投资额限制在全部金融投资产品投资额20%以内的方案。韩国官方此前披露的统计数据显示，截至7月13日，7月累积强制平仓规模达到3442亿韩元(约合人民币15.7亿元)，超120万个杠杆散户账户触及保证金追缴线，其中约32万至36万个账户已经被券商全额强制平仓，部分账户甚至出现倒欠券商资金情况。（中新经纬） 雷军打新长鑫科技浮盈7亿？小米高管回应。 7月27日，长鑫科技集团股份有限公司正式登陆科创板，上市首日股价大涨，收盘涨幅达465.82%，市值升至3.28万亿元，成",
+      "publishedAt": "2026-07-28T23:54:15Z",
+      "published_at": "2026-07-28T23:54:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "12545aac",
+      "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3878652674715905?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3878652674715905?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "文｜胡香赟 编辑｜海若镜 36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由仙居蓝湾基金、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。 米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU+ANN（微控制器+人工神经网络）通用算力方案，诞生于图像、文本离散数据场景，较难适配人体连续、微弱、高噪声生理时序信号。而长期可穿戴、闭环神经干预、居家慢病全周期管理等前沿赛道始终存在功耗、延迟、安全三重底层瓶颈。市场需要一套原生适配人体生理特征、符合医疗器械全流程合规的一体化底层平台。” 基于此，米能科技选择聚焦医疗设备上游底层算力基础设施研发，已打造“生理感知—事件计算—安全调控”全闭环原生软硬件平台。公司自研从模拟信号采集、脉冲事件编码、类脑稀疏计算到硬件级安全干预的整套底层技术，不涉足终端整机制造，为各类医疗设备厂商输出可快速集成、适配临床规范的标准化底层能力包。 2025年，这个模式已产生规模化营收。 米能科技相关负责人介绍称，当前，行业主",
+      "summary_zh": "文｜胡香赟 编辑｜海若镜 36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由仙居蓝湾基金、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。 米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU+ANN（微控制器+人工神经网络）通用算力方案，诞生于图像、文本离散数据场景，较难适配人体连续、微弱、高噪声生理时序信号。而长期可穿戴、闭环神经干预、居家慢病全周期管理等前沿赛道始终存在功耗、延迟、安全三重底层瓶颈。市场需要一套原生适配人体生理特征、符合医疗器械全流程合规的一体化底层平台。” 基于此，米能科技选择聚焦医疗设备上游底层算力基础设施研发，已打造“生理感知—事件计算—安全调控”全闭环原生软硬件平台。公司自研从模拟信号采集、脉冲事件编码、类脑稀疏计算到硬件级安全干预的整套底层技术，不涉足终端整机制造，为各类医疗设备厂商输出可快速集成、适配临床规范的标准化底层能力包。 2025年，这个模式已产生规模化营收。 米能科技相关负责人介绍称，当前，行业主",
+      "publishedAt": "2026-07-29T00:15:00Z",
+      "published_at": "2026-07-29T00:15:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "dccfde4f",
+      "title": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/462058.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/07/462058.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂  量子位的朋友们 2026-07-29 09:45:36  来源：量子位   近日，九章云极DataCanvas旗下专业Token规模化交付平台Alaya Token正式完成对Kimi K3模型的深度适配与生产级上线。此举标志着九章云极“AI工厂”战略在模型生态建设上再落关键一子，继智谱GLM-5.2、DeepSeek-V4 Flash之后，其Token工厂的“多模型矩阵”已覆盖当前国内头部开源模型梯队。  据悉，Kimi K3 是全球首个开源的 3 万亿参数级大模型。它采用自研的 KDA 混合线性注意力机制（Kimi Delta Attention）与注意力残差架构，以 2.8 万亿参数的 MoE 设计原生支持视觉理解，上下文窗口达 100 万 token。在编程、Agent 与复杂推理等基准上，K3 全面进入开源模型第一梯队——Frontend Code Arena 以 1679 分位列全球第一，超过 Claude Fable 5；据第三方评测，SWE-bench Verified 达",
+      "summary_zh": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂  量子位的朋友们 2026-07-29 09:45:36  来源：量子位   近日，九章云极DataCanvas旗下专业Token规模化交付平台Alaya Token正式完成对Kimi K3模型的深度适配与生产级上线。此举标志着九章云极“AI工厂”战略在模型生态建设上再落关键一子，继智谱GLM-5.2、DeepSeek-V4 Flash之后，其Token工厂的“多模型矩阵”已覆盖当前国内头部开源模型梯队。  据悉，Kimi K3 是全球首个开源的 3 万亿参数级大模型。它采用自研的 KDA 混合线性注意力机制（Kimi Delta Attention）与注意力残差架构，以 2.8 万亿参数的 MoE 设计原生支持视觉理解，上下文窗口达 100 万 token。在编程、Agent 与复杂推理等基准上，K3 全面进入开源模型第一梯队——Frontend Code Arena 以 1679 分位列全球第一，超过 Claude Fable 5；据第三方评测，SWE-bench Verified 达",
+      "publishedAt": "2026-07-29T01:45:36Z",
+      "published_at": "2026-07-29T01:45:36Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

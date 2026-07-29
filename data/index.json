@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-29T11:02:06Z",
-  "generatedAt": "2026-07-29T11:02:06Z",
-  "count": 78,
-  "total": 78,
+  "generated_at": "2026-07-29T21:24:20Z",
+  "generatedAt": "2026-07-29T21:24:20Z",
+  "count": 79,
+  "total": 79,
   "entries": [
+    {
+      "date": "2026-07-30",
+      "generated_at": "2026-07-29T21:24:20Z",
+      "generatedAt": "2026-07-29T21:24:20Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "6f38d775",
+          "title": "产品更新：Prelint",
+          "title_en": "Prelint",
+          "url": "https://www.producthunt.com/products/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Prevent product drift in AI-written code AI wr",
+          "summary_zh": "Prevent product drift in AI-written code AI wr",
+          "publishedAt": "2026-07-29T07:01:00Z",
+          "published_at": "2026-07-29T07:01:00Z",
+          "votes_count": 456,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "998415c5",
+          "title": "产品更新：SoundGate Guita",
+          "title_en": "SoundGate Guitar",
+          "url": "https://www.producthunt.com/products/soundgate-guitar-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/soundgate-guitar-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI Music Tutor that gives real-time feedback o",
+          "summary_zh": "AI Music Tutor that gives real-time feedback o",
+          "publishedAt": "2026-07-29T07:01:00Z",
+          "published_at": "2026-07-29T07:01:00Z",
+          "votes_count": 348,
+          "featured": true,
+          "topics": [
+            {
+              "id": "57",
+              "name": "Music",
+              "slug": "music"
+            },
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "fcaa2e6e",
+          "title": "产品更新：Denovo",
+          "title_en": "Denovo",
+          "url": "https://www.producthunt.com/products/denovo-business-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/denovo-business-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turn your vibe-coded app into paying customers",
+          "summary_zh": "Turn your vibe-coded app into paying customers",
+          "publishedAt": "2026-07-29T07:01:00Z",
+          "published_at": "2026-07-29T07:01:00Z",
+          "votes_count": 269,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-29",
       "generated_at": "2026-07-29T11:02:06Z",
