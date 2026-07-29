@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-07-28T21:35:49Z",
-  "generatedAt": "2026-07-28T21:35:49Z",
+  "generated_at": "2026-07-29T11:02:06Z",
+  "generatedAt": "2026-07-29T11:02:06Z",
   "count": 78,
   "total": 78,
   "entries": [
     {
       "date": "2026-07-29",
-      "generated_at": "2026-07-28T21:35:49Z",
-      "generatedAt": "2026-07-28T21:35:49Z",
-      "total": 8,
+      "generated_at": "2026-07-29T11:02:06Z",
+      "generatedAt": "2026-07-29T11:02:06Z",
+      "total": 6,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "86dfa9fc",
-          "title": "产品更新：Prefactor",
-          "title_en": "Prefactor",
-          "url": "https://www.producthunt.com/products/prefactor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "6f38d775",
+          "title": "产品更新：Prelint",
+          "title_en": "Prelint",
+          "url": "https://www.producthunt.com/products/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/prefactor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Evaluate your AI Agents in real-time Most agen",
-          "summary_zh": "Evaluate your AI Agents in real-time Most agen",
-          "publishedAt": "2026-07-28T07:01:00Z",
-          "published_at": "2026-07-28T07:01:00Z",
-          "votes_count": 514,
+          "summary": "Prevent product drift in AI-written code AI wr",
+          "summary_zh": "Prevent product drift in AI-written code AI wr",
+          "publishedAt": "2026-07-29T07:01:00Z",
+          "published_at": "2026-07-29T07:01:00Z",
+          "votes_count": 201,
           "featured": true,
           "topics": [
             {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
             },
             {
               "id": "267",
@@ -50,79 +50,63 @@
           "score_details": null
         },
         {
-          "id": "411a3822",
-          "title": "AI资讯更新：Cekura",
-          "title_en": "Cekura",
-          "url": "https://www.producthunt.com/products/vocera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "998415c5",
+          "title": "产品更新：SoundGate Guita",
+          "title_en": "SoundGate Guitar",
+          "url": "https://www.producthunt.com/products/soundgate-guitar-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/vocera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/soundgate-guitar-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "The self-improvement loop for voice agents Cek",
-          "summary_zh": "The self-improvement loop for voice agents Cek",
-          "publishedAt": "2026-07-28T07:01:00Z",
-          "published_at": "2026-07-28T07:01:00Z",
-          "votes_count": 335,
+          "summary": "AI Music Tutor that gives real-time feedback o",
+          "summary_zh": "AI Music Tutor that gives real-time feedback o",
+          "publishedAt": "2026-07-29T07:01:00Z",
+          "published_at": "2026-07-29T07:01:00Z",
+          "votes_count": 160,
           "featured": true,
           "topics": [
             {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
+              "id": "57",
+              "name": "Music",
+              "slug": "music"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
             },
             {
-              "id": "471",
-              "name": "Audio",
-              "slug": "audio"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
         },
         {
-          "id": "b6215bb3",
-          "title": "产品更新：Lottie Creator",
-          "title_en": "Lottie Creator 2.0",
-          "url": "https://www.producthunt.com/products/lottiefiles?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "dccfde4f",
+          "title": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/462058.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/lottiefiles?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "After Effects for the web, built on Lottie Yes",
-          "summary_zh": "After Effects for the web, built on Lottie Yes",
-          "publishedAt": "2026-07-28T07:01:00Z",
-          "published_at": "2026-07-28T07:01:00Z",
-          "votes_count": 293,
-          "featured": true,
-          "topics": [
-            {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
-            },
-            {
-              "id": "624",
-              "name": "Graphics & Design",
-              "slug": "graphics-design"
-            },
-            {
-              "id": "811",
-              "name": "Animation",
-              "slug": "animation"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/462058.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂  量子位的朋友们 2026-07-29 09:45:36  来源：量子位   近日，九章云极DataCanvas旗下专业Token规模化交付平台Alaya Token正式完成对Kimi K3模型的深度适配与生产级上线。此举标志着九章云极“AI工厂”战略在模型生态建设上再落关键一子，继智谱GLM-5.2、DeepSeek-V4 Flash之后，其Token工厂的“多模型矩阵”已覆盖当前国内头部开源模型梯队。  据悉，Kimi K3 是全球首个开源的 3 万亿参数级大模型。它采用自研的 KDA 混合线性注意力机制（Kimi Delta Attention）与注意力残差架构，以 2.8 万亿参数的 MoE 设计原生支持视觉理解，上下文窗口达 100 万 token。在编程、Agent 与复杂推理等基准上，K3 全面进入开源模型第一梯队——Frontend Code Arena 以 1679 分位列全球第一，超过 Claude Fable 5；据第三方评测，SWE-bench Verified 达",
+          "summary_zh": "九章云极Alaya Token完成Kimi K3适配 全球首个开源3T级模型入驻Token工厂  量子位的朋友们 2026-07-29 09:45:36  来源：量子位   近日，九章云极DataCanvas旗下专业Token规模化交付平台Alaya Token正式完成对Kimi K3模型的深度适配与生产级上线。此举标志着九章云极“AI工厂”战略在模型生态建设上再落关键一子，继智谱GLM-5.2、DeepSeek-V4 Flash之后，其Token工厂的“多模型矩阵”已覆盖当前国内头部开源模型梯队。  据悉，Kimi K3 是全球首个开源的 3 万亿参数级大模型。它采用自研的 KDA 混合线性注意力机制（Kimi Delta Attention）与注意力残差架构，以 2.8 万亿参数的 MoE 设计原生支持视觉理解，上下文窗口达 100 万 token。在编程、Agent 与复杂推理等基准上，K3 全面进入开源模型第一梯队——Frontend Code Arena 以 1679 分位列全球第一，超过 Claude Fable 5；据第三方评测，SWE-bench Verified 达",
+          "publishedAt": "2026-07-29T01:45:36Z",
+          "published_at": "2026-07-29T01:45:36Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
