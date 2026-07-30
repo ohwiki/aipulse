@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-30T10:39:02Z",
-  "generatedAt": "2026-07-30T10:39:02Z",
-  "count": 79,
-  "total": 79,
+  "generated_at": "2026-07-30T21:38:14Z",
+  "generatedAt": "2026-07-30T21:38:14Z",
+  "count": 80,
+  "total": 80,
   "entries": [
+    {
+      "date": "2026-07-31",
+      "generated_at": "2026-07-30T21:38:14Z",
+      "generatedAt": "2026-07-30T21:38:14Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "7603e268",
+          "title": "产品更新：SKI",
+          "title_en": "SKI",
+          "url": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Free voice coding for Claude Code, Codex and m",
+          "summary_zh": "Free voice coding for Claude Code, Codex and m",
+          "publishedAt": "2026-07-30T07:01:00Z",
+          "published_at": "2026-07-30T07:01:00Z",
+          "votes_count": 462,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "859bb86a",
+          "title": "AI资讯更新：AI Search Con",
+          "title_en": "AI Search Console",
+          "url": "https://www.producthunt.com/products/ai-search-console?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ai-search-console?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Prompt analytics and citation mapping for AI s",
+          "summary_zh": "Prompt analytics and citation mapping for AI s",
+          "publishedAt": "2026-07-30T07:01:00Z",
+          "published_at": "2026-07-30T07:01:00Z",
+          "votes_count": 416,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "fc4b728c",
+          "title": "产品更新：Memmy Agent",
+          "title_en": "Memmy Agent",
+          "url": "https://www.producthunt.com/products/memmy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/memmy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Let every AI remember the same you. 🍙 Memmy Ag",
+          "summary_zh": "Let every AI remember the same you. 🍙 Memmy Ag",
+          "publishedAt": "2026-07-30T07:01:00Z",
+          "published_at": "2026-07-30T07:01:00Z",
+          "votes_count": 398,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-30",
       "generated_at": "2026-07-30T10:39:02Z",
