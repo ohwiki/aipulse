@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-07-29T21:24:20Z",
-  "generatedAt": "2026-07-29T21:24:20Z",
+  "generated_at": "2026-07-30T10:39:02Z",
+  "generatedAt": "2026-07-30T10:39:02Z",
   "count": 79,
   "total": 79,
   "entries": [
     {
       "date": "2026-07-30",
-      "generated_at": "2026-07-29T21:24:20Z",
-      "generatedAt": "2026-07-29T21:24:20Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-07-30T10:39:02Z",
+      "generatedAt": "2026-07-30T10:39:02Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "6f38d775",
-          "title": "产品更新：Prelint",
-          "title_en": "Prelint",
-          "url": "https://www.producthunt.com/products/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "6de8f845",
+          "title": "8点1氪丨超1100名AI公司员工联名请愿美国政府；桃酥吃出假牙冠？山姆、泸溪河回应；月之暗面Kimi已完成超35亿美元F轮融资",
+          "title_en": null,
+          "url": "https://36kr.com/p/3917362478148993?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Prevent product drift in AI-written code AI wr",
-          "summary_zh": "Prevent product drift in AI-written code AI wr",
-          "publishedAt": "2026-07-29T07:01:00Z",
-          "published_at": "2026-07-29T07:01:00Z",
-          "votes_count": 456,
-          "featured": true,
-          "topics": [
-            {
-              "id": "247",
-              "name": "Software Engineering",
-              "slug": "software-engineering"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3917362478148993?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "今日热点导览 C长鑫成交额达400亿元 国家烟草专卖局约谈爱奇迹（深圳）技术有限公司 外交部回应美国实施先进机器人进口限制 宝马拟在德国裁员数千人，通过自愿离职计划削减成本 美联储宣布维持利率不变 TOP3大新闻 Anthropic首席执行官等多位AI大牛签署联名信，呼吁控制人工智能发展步伐 超过1100名来自领先人工智能公司的高管及员工联名签署了一封公开信，呼吁美国政府“支持国际社会共同打造技术与治理工具，以此对前沿自动化人工智能的发展节奏实施有序管控”。这封信于当地时间7月28日发布，并获得了Anthropic与OpenAI的支持，签署者包括Anthropic首席执行官达里奥・阿莫代伊、OpenAI首席科学家雅各布・帕霍茨基、谷歌安全与对齐副总裁安卡・德拉根，以及Meta AI首席科学家赵晟佳。上周，在一场网络安全测试中，OpenAI模型突破内部测试系统，并入侵模型代码库平台 Hugging Face，引发人工智能行业从业人员警觉。（新浪财经） 桃酥吃出假牙冠？山姆、泸溪河回应 7月29日，“泸溪河桃酥吃出牙冠”登上热搜。一名来自大连的网友在社交平台发布视频称，自己在山姆超市购买的",
+          "summary_zh": "今日热点导览 C长鑫成交额达400亿元 国家烟草专卖局约谈爱奇迹（深圳）技术有限公司 外交部回应美国实施先进机器人进口限制 宝马拟在德国裁员数千人，通过自愿离职计划削减成本 美联储宣布维持利率不变 TOP3大新闻 Anthropic首席执行官等多位AI大牛签署联名信，呼吁控制人工智能发展步伐 超过1100名来自领先人工智能公司的高管及员工联名签署了一封公开信，呼吁美国政府“支持国际社会共同打造技术与治理工具，以此对前沿自动化人工智能的发展节奏实施有序管控”。这封信于当地时间7月28日发布，并获得了Anthropic与OpenAI的支持，签署者包括Anthropic首席执行官达里奥・阿莫代伊、OpenAI首席科学家雅各布・帕霍茨基、谷歌安全与对齐副总裁安卡・德拉根，以及Meta AI首席科学家赵晟佳。上周，在一场网络安全测试中，OpenAI模型突破内部测试系统，并入侵模型代码库平台 Hugging Face，引发人工智能行业从业人员警觉。（新浪财经） 桃酥吃出假牙冠？山姆、泸溪河回应 7月29日，“泸溪河桃酥吃出牙冠”登上热搜。一名来自大连的网友在社交平台发布视频称，自己在山姆超市购买的",
+          "publishedAt": "2026-07-29T23:50:17Z",
+          "published_at": "2026-07-29T23:50:17Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "998415c5",
-          "title": "产品更新：SoundGate Guita",
-          "title_en": "SoundGate Guitar",
-          "url": "https://www.producthunt.com/products/soundgate-guitar-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "a492c38a",
+          "title": "让AI先吃，这个国民级健康难题有解了",
+          "title_en": null,
+          "url": "https://36kr.com/p/3916800672656773?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/soundgate-guitar-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI Music Tutor that gives real-time feedback o",
-          "summary_zh": "AI Music Tutor that gives real-time feedback o",
-          "publishedAt": "2026-07-29T07:01:00Z",
-          "published_at": "2026-07-29T07:01:00Z",
-          "votes_count": 348,
-          "featured": true,
-          "topics": [
-            {
-              "id": "57",
-              "name": "Music",
-              "slug": "music"
-            },
-            {
-              "id": "204",
-              "name": "Education",
-              "slug": "education"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3916800672656773?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "在科学减重这件事上，继战略投资薄荷健康之后，蚂蚁阿福又放了个大招。 7月29日，蚂蚁阿福宣布升级上线“AI拍饮食”功能，用户拍食物照片发给阿福，就能自动估算营养和热量信息，获得健康饮食搭配建议和运动消耗计划等，还支持一健存入个人健康档案，建立“热量账户”。吃得对不对，多不多，一目了然。  阿福此次推出“AI拍饮食”功能，并非是一项孤立动作。 一个月前，36氪曾报道，蚂蚁阿福发起“科学减重1亿斤”号召，推出“1分钱”低价供应体脂秤、升级AI功能，发起21天打卡挑战赛等三大行动，帮助大众科学管理体重，建立日常健康习惯。 这场“全民科学减重行动”带来的风潮超出预期。越来越多人加入“减重”大军，爬华山、游东湖、骑单车、跳单杠等场景都出现了阿福陪练、陪游的身影。目前全国已有近150万网友参与科学减重行动，减重超过200万斤。 在运动之外，吃什么，怎么吃，往往是减重中最难也是最容易忽略的一环。普通人很难持续、准确地记录自己吃了多少，热量是否超标，搭配是否合理。对大众来说，阻碍科学减重的，并非缺少意愿，而是缺少一种足够专业、低门槛、且能长期坚持和反馈的趁手工具。 “减重”这一全民健康管理场景，有望诞",
+          "summary_zh": "在科学减重这件事上，继战略投资薄荷健康之后，蚂蚁阿福又放了个大招。 7月29日，蚂蚁阿福宣布升级上线“AI拍饮食”功能，用户拍食物照片发给阿福，就能自动估算营养和热量信息，获得健康饮食搭配建议和运动消耗计划等，还支持一健存入个人健康档案，建立“热量账户”。吃得对不对，多不多，一目了然。  阿福此次推出“AI拍饮食”功能，并非是一项孤立动作。 一个月前，36氪曾报道，蚂蚁阿福发起“科学减重1亿斤”号召，推出“1分钱”低价供应体脂秤、升级AI功能，发起21天打卡挑战赛等三大行动，帮助大众科学管理体重，建立日常健康习惯。 这场“全民科学减重行动”带来的风潮超出预期。越来越多人加入“减重”大军，爬华山、游东湖、骑单车、跳单杠等场景都出现了阿福陪练、陪游的身影。目前全国已有近150万网友参与科学减重行动，减重超过200万斤。 在运动之外，吃什么，怎么吃，往往是减重中最难也是最容易忽略的一环。普通人很难持续、准确地记录自己吃了多少，热量是否超标，搭配是否合理。对大众来说，阻碍科学减重的，并非缺少意愿，而是缺少一种足够专业、低门槛、且能长期坚持和反馈的趁手工具。 “减重”这一全民健康管理场景，有望诞",
+          "publishedAt": "2026-07-29T14:21:47Z",
+          "published_at": "2026-07-29T14:21:47Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "fcaa2e6e",
-          "title": "产品更新：Denovo",
-          "title_en": "Denovo",
-          "url": "https://www.producthunt.com/products/denovo-business-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "85e3cfe5",
+          "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/462943.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/denovo-business-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Turn your vibe-coded app into paying customers",
-          "summary_zh": "Turn your vibe-coded app into paying customers",
-          "publishedAt": "2026-07-29T07:01:00Z",
-          "published_at": "2026-07-29T07:01:00Z",
-          "votes_count": 269,
-          "featured": true,
-          "topics": [
-            {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "247",
-              "name": "Software Engineering",
-              "slug": "software-engineering"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/462943.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径  量子位的朋友们 2026-07-29 19:25:21  来源：量子位   中科院、北电数智等专家共探数学与AI边界  2026年7月24日，数学界重量级会议“十六省（区、市）数学学术年会暨应用数学与人工智能学术论坛”在云南省玉溪市举办。论坛由中国数学会指导，十六省（区、市）数学会联合主办，云南省数学会、玉溪市教育体育局、玉溪师范学院承办，以“交融·创新·赋能——数学与人工智能的双向奔赴”为主题，汇聚十六省高校专家学者及数学教师代表共计五百余人参会。    开幕式由中山大学数学学院姚正安教授主持，中国数学会副理事长、中国科学院数学与系统科学研究院副院长黄飞敏研究员在致辞中指出，基础数学是原始创新的源头根基，鼓励广大数学工作者主动推进数学与人工智能交叉创新，面向国家关键科技难题持续开展科研攻关。玉溪市人民政府副市长陈静、玉溪师范学院院长段红云研究员、云南省数学会理事长杨汉春教授等也出席开幕式并致辞。 北电数智首席科学家、复旦大学计算机与智能创新学院教授窦德景，与著名数学家张益唐教授，中国科学院数学与系统",
+          "summary_zh": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径  量子位的朋友们 2026-07-29 19:25:21  来源：量子位   中科院、北电数智等专家共探数学与AI边界  2026年7月24日，数学界重量级会议“十六省（区、市）数学学术年会暨应用数学与人工智能学术论坛”在云南省玉溪市举办。论坛由中国数学会指导，十六省（区、市）数学会联合主办，云南省数学会、玉溪市教育体育局、玉溪师范学院承办，以“交融·创新·赋能——数学与人工智能的双向奔赴”为主题，汇聚十六省高校专家学者及数学教师代表共计五百余人参会。    开幕式由中山大学数学学院姚正安教授主持，中国数学会副理事长、中国科学院数学与系统科学研究院副院长黄飞敏研究员在致辞中指出，基础数学是原始创新的源头根基，鼓励广大数学工作者主动推进数学与人工智能交叉创新，面向国家关键科技难题持续开展科研攻关。玉溪市人民政府副市长陈静、玉溪师范学院院长段红云研究员、云南省数学会理事长杨汉春教授等也出席开幕式并致辞。 北电数智首席科学家、复旦大学计算机与智能创新学院教授窦德景，与著名数学家张益唐教授，中国科学院数学与系统",
+          "publishedAt": "2026-07-29T11:25:21Z",
+          "published_at": "2026-07-29T11:25:21Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
