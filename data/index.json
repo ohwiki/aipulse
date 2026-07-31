@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-07-30T21:38:14Z",
-  "generatedAt": "2026-07-30T21:38:14Z",
+  "generated_at": "2026-07-31T11:04:53Z",
+  "generatedAt": "2026-07-31T11:04:53Z",
   "count": 80,
   "total": 80,
   "entries": [
     {
       "date": "2026-07-31",
-      "generated_at": "2026-07-30T21:38:14Z",
-      "generatedAt": "2026-07-30T21:38:14Z",
-      "total": 8,
+      "generated_at": "2026-07-31T11:04:53Z",
+      "generatedAt": "2026-07-31T11:04:53Z",
+      "total": 5,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "7603e268",
-          "title": "产品更新：SKI",
-          "title_en": "SKI",
-          "url": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "e496d323",
+          "title": "产品更新：Cleanlist AI",
+          "title_en": "Cleanlist AI",
+          "url": "https://www.producthunt.com/products/cleanlist-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/cleanlist-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Free voice coding for Claude Code, Codex and m",
-          "summary_zh": "Free voice coding for Claude Code, Codex and m",
-          "publishedAt": "2026-07-30T07:01:00Z",
-          "published_at": "2026-07-30T07:01:00Z",
-          "votes_count": 462,
+          "summary": "Natural-language prospecting: find, enrich and",
+          "summary_zh": "Natural-language prospecting: find, enrich and",
+          "publishedAt": "2026-07-31T07:01:00Z",
+          "published_at": "2026-07-31T07:01:00Z",
+          "votes_count": 121,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
             },
             {
               "id": "268",
@@ -50,79 +50,47 @@
           "score_details": null
         },
         {
-          "id": "859bb86a",
-          "title": "AI资讯更新：AI Search Con",
-          "title_en": "AI Search Console",
-          "url": "https://www.producthunt.com/products/ai-search-console?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "c4e540ab",
+          "title": "GPT-5.6今起大降价，最大幅度80%！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/07/463640.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/ai-search-console?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Prompt analytics and citation mapping for AI s",
-          "summary_zh": "Prompt analytics and citation mapping for AI s",
-          "publishedAt": "2026-07-30T07:01:00Z",
-          "published_at": "2026-07-30T07:01:00Z",
-          "votes_count": 416,
-          "featured": true,
-          "topics": [
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "231",
-              "name": "SEO",
-              "slug": "seo"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/07/463640.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "GPT-5.6今起大降价，最大幅度80%！  听雨 2026-07-31 11:01:21  来源：量子位   Luna打骨折  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 突发，GPT-5.6刚刚大降价！ 最高立减80%！  入门款Luna直接打骨折，每百万Token输入价格从1美元降到0.2美元，输出价格从6美元降到1.2美元。 换算成人民币，相当于输入价格从约6.8元降到1.35元，输出价格从约40.6元降到8.1元。 定位「日常干活主力」的Terra也降价20%，输入、输出价格分别降到2美元和12美元。 换算成人民币，分别约为13.5元和81.2元。 只有旗舰模型Sol，稳坐原价，但推出了Fast mode，速度最高达到标准模式的2.5倍，加速不加价。  自Codex猛猛重置用量之后，降价也给立马安排上了，OpenAI你是要卷死谁… 这价格战直接白热化了。 OpenAI表示，降价是因为GPT-5.6 Sol自己帮自己省了钱。 GPT-5.6 Sol参与自身改进，效率取得了飞跃式提升，故特此回馈新老用户~ 左脚踩右脚原地飞升这套，OpenAI你也是玩上了  。 两款降价",
+          "summary_zh": "GPT-5.6今起大降价，最大幅度80%！  听雨 2026-07-31 11:01:21  来源：量子位   Luna打骨折  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 突发，GPT-5.6刚刚大降价！ 最高立减80%！  入门款Luna直接打骨折，每百万Token输入价格从1美元降到0.2美元，输出价格从6美元降到1.2美元。 换算成人民币，相当于输入价格从约6.8元降到1.35元，输出价格从约40.6元降到8.1元。 定位「日常干活主力」的Terra也降价20%，输入、输出价格分别降到2美元和12美元。 换算成人民币，分别约为13.5元和81.2元。 只有旗舰模型Sol，稳坐原价，但推出了Fast mode，速度最高达到标准模式的2.5倍，加速不加价。  自Codex猛猛重置用量之后，降价也给立马安排上了，OpenAI你是要卷死谁… 这价格战直接白热化了。 OpenAI表示，降价是因为GPT-5.6 Sol自己帮自己省了钱。 GPT-5.6 Sol参与自身改进，效率取得了飞跃式提升，故特此回馈新老用户~ 左脚踩右脚原地飞升这套，OpenAI你也是玩上了  。 两款降价",
+          "publishedAt": "2026-07-31T03:01:21Z",
+          "published_at": "2026-07-31T03:01:21Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "fc4b728c",
-          "title": "产品更新：Memmy Agent",
-          "title_en": "Memmy Agent",
-          "url": "https://www.producthunt.com/products/memmy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "de902c82",
+          "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
+          "title_en": null,
+          "url": "https://36kr.com/p/3917874427555457?f=rss",
+          "source": "36氪",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/memmy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Let every AI remember the same you. 🍙 Memmy Ag",
-          "summary_zh": "Let every AI remember the same you. 🍙 Memmy Ag",
-          "publishedAt": "2026-07-30T07:01:00Z",
-          "published_at": "2026-07-30T07:01:00Z",
-          "votes_count": 398,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3917874427555457?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。 昆腾动力成立于2026年上半年，公司聚焦AI与真实物理世界的深度融合，自研可跨多场景复用的通用智能系统技术，面向全行业的Physical AI底层平台。 目前具身智能赛道的创始人多分为几类，一类是一类是自动驾驶背景出身，长于系统集成与工程化落地；另一类源于Neo Lab，具备前沿的具身智能技术视角。而昆腾动力的创始人李强则属于第三类，此前深耕物流商业化场景，兼具AI技术理解力与全球化业务操盘经验。 公司创始人兼CEO李强在阿里巴巴集团任职17年，于淘宝天猫、菜鸟、国际化业务及无人车四个板块中，他均承担了从0到1的体系搭建与运营管理工作。他曾任菜鸟集团CTO、阿里巴巴国际数字商业板块CTO，管理分布全球的数千人研发团队；同时兼任菜鸟无人车总经",
+          "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地的全链路构建。多维资本参与项目孵化与团队组建。 昆腾动力成立于2026年上半年，公司聚焦AI与真实物理世界的深度融合，自研可跨多场景复用的通用智能系统技术，面向全行业的Physical AI底层平台。 目前具身智能赛道的创始人多分为几类，一类是一类是自动驾驶背景出身，长于系统集成与工程化落地；另一类源于Neo Lab，具备前沿的具身智能技术视角。而昆腾动力的创始人李强则属于第三类，此前深耕物流商业化场景，兼具AI技术理解力与全球化业务操盘经验。 公司创始人兼CEO李强在阿里巴巴集团任职17年，于淘宝天猫、菜鸟、国际化业务及无人车四个板块中，他均承担了从0到1的体系搭建与运营管理工作。他曾任菜鸟集团CTO、阿里巴巴国际数字商业板块CTO，管理分布全球的数千人研发团队；同时兼任菜鸟无人车总经",
+          "publishedAt": "2026-07-31T01:52:24Z",
+          "published_at": "2026-07-31T01:52:24Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
