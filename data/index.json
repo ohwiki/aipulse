@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-07-31T11:04:53Z",
-  "generatedAt": "2026-07-31T11:04:53Z",
-  "count": 80,
-  "total": 80,
+  "generated_at": "2026-07-31T21:33:35Z",
+  "generatedAt": "2026-07-31T21:33:35Z",
+  "count": 81,
+  "total": 81,
   "entries": [
+    {
+      "date": "2026-08-01",
+      "generated_at": "2026-07-31T21:33:35Z",
+      "generatedAt": "2026-07-31T21:33:35Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "e496d323",
+          "title": "产品更新：Cleanlist AI",
+          "title_en": "Cleanlist AI",
+          "url": "https://www.producthunt.com/products/cleanlist-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cleanlist-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Natural-language prospecting: find, enrich and",
+          "summary_zh": "Natural-language prospecting: find, enrich and",
+          "publishedAt": "2026-07-31T07:01:00Z",
+          "published_at": "2026-07-31T07:01:00Z",
+          "votes_count": 247,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b421b313",
+          "title": "产品更新：mectrics",
+          "title_en": "mectrics",
+          "url": "https://www.producthunt.com/products/mectrics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/mectrics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your Mac's vitals in the menu bar. Free and op",
+          "summary_zh": "Your Mac's vitals in the menu bar. Free and op",
+          "publishedAt": "2026-07-31T07:01:00Z",
+          "published_at": "2026-07-31T07:01:00Z",
+          "votes_count": 223,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "303",
+              "name": "Menu Bar Apps",
+              "slug": "menu-bar-apps"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "386696ac",
+          "title": "产品更新：Poth Labs",
+          "title_en": "Poth Labs",
+          "url": "https://www.producthunt.com/products/poth-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/poth-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The customer brain for your company Customer k",
+          "summary_zh": "The customer brain for your company Customer k",
+          "publishedAt": "2026-07-31T07:01:00Z",
+          "published_at": "2026-07-31T07:01:00Z",
+          "votes_count": 184,
+          "featured": true,
+          "topics": [
+            {
+              "id": "55",
+              "name": "Customer Success",
+              "slug": "customer-success"
+            },
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-07-31",
       "generated_at": "2026-07-31T11:04:53Z",

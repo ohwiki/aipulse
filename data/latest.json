@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-31T11:04:53Z",
-  "generatedAt": "2026-07-31T11:04:53Z",
+  "generated_at": "2026-07-31T21:33:35Z",
+  "generatedAt": "2026-07-31T21:33:35Z",
   "days": 7,
-  "total": 5,
-  "count": 5,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "e496d323",
@@ -22,7 +22,7 @@
       "summary_zh": "Natural-language prospecting: find, enrich and",
       "publishedAt": "2026-07-31T07:01:00Z",
       "published_at": "2026-07-31T07:01:00Z",
-      "votes_count": 121,
+      "votes_count": 247,
       "featured": true,
       "topics": [
         {
@@ -44,25 +44,117 @@
       "score_details": null
     },
     {
-      "id": "2aa95d72",
-      "title": "8点1氪丨宇树科技：8月10日网下申购；字节跳动成立新的豆包产品团队；美股三大指数集体收涨，微软创近18年以来最大单日涨幅",
-      "title_en": null,
-      "url": "https://36kr.com/p/3918776472022402?f=rss",
-      "source": "36氪",
+      "id": "b421b313",
+      "title": "产品更新：mectrics",
+      "title_en": "mectrics",
+      "url": "https://www.producthunt.com/products/mectrics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "36氪",
-      "sourceUrl": "https://36kr.com/p/3918776472022402?f=rss",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "今日热点导览 韩股创纪录的重挫，全球投资者却未进场抄底 月之暗面变更为股份公司 国内品牌金饰价格集体上涨 高通9月1日起上调芯片价格，涨幅达到两位数 特斯拉全球第1000万辆电动车下线 TOP3大新闻 宇树科技：初步询价日为8月5日，网下申购日为8月10日 7月30日，宇树科技公告，公司首次公开发行股票并在科创板上市，本次发行采用战略配售、网下发行与网上发行相结合的方式进行。本次拟公开发行股份4044.6434万股，占发行后总股本的10%，发行后总股本为40446.4340万股。初步询价日为2026年8月5日，网下申购日为2026年8月10日。公司存在特别表决权机制安排，实际控制人王兴兴在表决权差异安排下合计控制公司68.78%的表决权。(金十数据APP)  宇树科技 字节跳动启动面向AI业务的组织调整：飞书与豆包火山团队整合 36氪获悉，7月30日，字节跳动启动面向AI业务的组织调整。根据调整方案，飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的",
-      "summary_zh": "今日热点导览 韩股创纪录的重挫，全球投资者却未进场抄底 月之暗面变更为股份公司 国内品牌金饰价格集体上涨 高通9月1日起上调芯片价格，涨幅达到两位数 特斯拉全球第1000万辆电动车下线 TOP3大新闻 宇树科技：初步询价日为8月5日，网下申购日为8月10日 7月30日，宇树科技公告，公司首次公开发行股票并在科创板上市，本次发行采用战略配售、网下发行与网上发行相结合的方式进行。本次拟公开发行股份4044.6434万股，占发行后总股本的10%，发行后总股本为40446.4340万股。初步询价日为2026年8月5日，网下申购日为2026年8月10日。公司存在特别表决权机制安排，实际控制人王兴兴在表决权差异安排下合计控制公司68.78%的表决权。(金十数据APP)  宇树科技 字节跳动启动面向AI业务的组织调整：飞书与豆包火山团队整合 36氪获悉，7月30日，字节跳动启动面向AI业务的组织调整。根据调整方案，飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的",
-      "publishedAt": "2026-07-30T23:48:40Z",
-      "published_at": "2026-07-30T23:48:40Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/mectrics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your Mac's vitals in the menu bar. Free and op",
+      "summary_zh": "Your Mac's vitals in the menu bar. Free and op",
+      "publishedAt": "2026-07-31T07:01:00Z",
+      "published_at": "2026-07-31T07:01:00Z",
+      "votes_count": 223,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "303",
+          "name": "Menu Bar Apps",
+          "slug": "menu-bar-apps"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "386696ac",
+      "title": "产品更新：Poth Labs",
+      "title_en": "Poth Labs",
+      "url": "https://www.producthunt.com/products/poth-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/poth-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The customer brain for your company Customer k",
+      "summary_zh": "The customer brain for your company Customer k",
+      "publishedAt": "2026-07-31T07:01:00Z",
+      "published_at": "2026-07-31T07:01:00Z",
+      "votes_count": 184,
+      "featured": true,
+      "topics": [
+        {
+          "id": "55",
+          "name": "Customer Success",
+          "slug": "customer-success"
+        },
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b1dfa2c8",
+      "title": "AI资讯更新：DepthData",
+      "title_en": "DepthData",
+      "url": "https://www.producthunt.com/products/depthdata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/depthdata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The system of record for your company's AI spe",
+      "summary_zh": "The system of record for your company's AI spe",
+      "publishedAt": "2026-07-31T07:01:00Z",
+      "published_at": "2026-07-31T07:01:00Z",
+      "votes_count": 156,
+      "featured": true,
+      "topics": [
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
       "score_details": null
     },
     {
@@ -126,6 +218,28 @@
       "summary_zh": "GPT-5.6今起大降价，最大幅度80%！  听雨 2026-07-31 11:01:21  来源：量子位   Luna打骨折  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 突发，GPT-5.6刚刚大降价！ 最高立减80%！  入门款Luna直接打骨折，每百万Token输入价格从1美元降到0.2美元，输出价格从6美元降到1.2美元。 换算成人民币，相当于输入价格从约6.8元降到1.35元，输出价格从约40.6元降到8.1元。 定位「日常干活主力」的Terra也降价20%，输入、输出价格分别降到2美元和12美元。 换算成人民币，分别约为13.5元和81.2元。 只有旗舰模型Sol，稳坐原价，但推出了Fast mode，速度最高达到标准模式的2.5倍，加速不加价。  自Codex猛猛重置用量之后，降价也给立马安排上了，OpenAI你是要卷死谁… 这价格战直接白热化了。 OpenAI表示，降价是因为GPT-5.6 Sol自己帮自己省了钱。 GPT-5.6 Sol参与自身改进，效率取得了飞跃式提升，故特此回馈新老用户~ 左脚踩右脚原地飞升这套，OpenAI你也是玩上了  。 两款降价",
       "publishedAt": "2026-07-31T03:01:21Z",
       "published_at": "2026-07-31T03:01:21Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f71f355b",
+      "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
+      "title_en": null,
+      "url": "https://36kr.com/p/3919137999957382?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3919137999957382?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AI在企业端的快速渗透正在被持续验证。 7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。 分业务来看，与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎。该业务上半年实现收入2.26亿元，同比增长209.2%，收入占比由上年同期的55.3%提升至79.6%。相比之下，“FastData企业级数据智能解决方案”收入为5803.8万元，同比基本持平。公司收入结构进一步转向企业级AI应用倾斜。 利润端的改善同样值得关注。公司披露，2026年二季度实现净利润约0.30亿元。上半年公司净亏损收窄至0.32亿元，降幅达89.6%；经调整净亏损由0.52亿元收窄48.5%至0.27亿元。 盈利能力改善主要来自两个方面。 首先，收入扩张及业务结构优化推动毛利润增长。2026年上半年，公司整体毛利率为56.5%，同比提升1.5个百分点；其中，DeepexiOS AI级企业操作系统平台解决方案毛利率达到57.2%，同比提升2个百分点。在收入和毛利率同步提升的推动下，公司",
+      "summary_zh": "AI在企业端的快速渗透正在被持续验证。 7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。 分业务来看，与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎。该业务上半年实现收入2.26亿元，同比增长209.2%，收入占比由上年同期的55.3%提升至79.6%。相比之下，“FastData企业级数据智能解决方案”收入为5803.8万元，同比基本持平。公司收入结构进一步转向企业级AI应用倾斜。 利润端的改善同样值得关注。公司披露，2026年二季度实现净利润约0.30亿元。上半年公司净亏损收窄至0.32亿元，降幅达89.6%；经调整净亏损由0.52亿元收窄48.5%至0.27亿元。 盈利能力改善主要来自两个方面。 首先，收入扩张及业务结构优化推动毛利润增长。2026年上半年，公司整体毛利率为56.5%，同比提升1.5个百分点；其中，DeepexiOS AI级企业操作系统平台解决方案毛利率达到57.2%，同比提升2个百分点。在收入和毛利率同步提升的推动下，公司",
+      "publishedAt": "2026-07-31T06:00:25Z",
+      "published_at": "2026-07-31T06:00:25Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
