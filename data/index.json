@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-08-01T10:15:42Z",
-  "generatedAt": "2026-08-01T10:15:42Z",
-  "count": 81,
-  "total": 81,
+  "generated_at": "2026-08-01T21:13:42Z",
+  "generatedAt": "2026-08-01T21:13:42Z",
+  "count": 82,
+  "total": 82,
   "entries": [
+    {
+      "date": "2026-08-02",
+      "generated_at": "2026-08-01T21:13:42Z",
+      "generatedAt": "2026-08-01T21:13:42Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "063d1ea7",
+          "title": "AI资讯更新：NudgeForMe",
+          "title_en": "NudgeForMe",
+          "url": "https://www.producthunt.com/products/nudgeforme?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/nudgeforme?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI follow-up agent for missed email opportunit",
+          "summary_zh": "AI follow-up agent for missed email opportunit",
+          "publishedAt": "2026-08-01T07:01:00Z",
+          "published_at": "2026-08-01T07:01:00Z",
+          "votes_count": 253,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "10994afa",
+          "title": "产品更新：DeepSeek-V4-Fla",
+          "title_en": "DeepSeek-V4-Flash-0731",
+          "url": "https://www.producthunt.com/products/deepseek?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/deepseek?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Frontier agent intelligence at Flash prices De",
+          "summary_zh": "Frontier agent intelligence at Flash prices De",
+          "publishedAt": "2026-08-01T07:01:00Z",
+          "published_at": "2026-08-01T07:01:00Z",
+          "votes_count": 235,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8f522a32",
+          "title": "产品更新：Port22",
+          "title_en": "Port22",
+          "url": "https://www.producthunt.com/products/port22?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/port22?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Claude Code, Codex & more on your phone I'd st",
+          "summary_zh": "Claude Code, Codex & more on your phone I'd st",
+          "publishedAt": "2026-08-01T07:01:00Z",
+          "published_at": "2026-08-01T07:01:00Z",
+          "votes_count": 207,
+          "featured": true,
+          "topics": [
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-01",
       "generated_at": "2026-08-01T10:15:42Z",
