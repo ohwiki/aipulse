@@ -1,10 +1,172 @@
 {
-  "generated_at": "2026-08-02T10:14:00Z",
-  "generatedAt": "2026-08-02T10:14:00Z",
+  "generated_at": "2026-08-02T21:14:41Z",
+  "generatedAt": "2026-08-02T21:14:41Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 8,
+  "count": 8,
   "items": [
+    {
+      "id": "36218af3",
+      "title": "产品更新：Zinley",
+      "title_en": "Zinley",
+      "url": "https://www.producthunt.com/products/zinley?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/zinley?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your Personal AI Representative for calls, ema",
+      "summary_zh": "Your Personal AI Representative for calls, ema",
+      "publishedAt": "2026-08-02T07:01:00Z",
+      "published_at": "2026-08-02T07:01:00Z",
+      "votes_count": 292,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "282",
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8b1378a5",
+      "title": "产品更新：Capptivo",
+      "title_en": "Capptivo",
+      "url": "https://www.producthunt.com/products/capptivo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/capptivo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Free open-source screen recorder & demo editor",
+      "summary_zh": "Free open-source screen recorder & demo editor",
+      "publishedAt": "2026-08-02T07:01:00Z",
+      "published_at": "2026-08-02T07:01:00Z",
+      "votes_count": 236,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "4f9574bc",
+      "title": "产品更新：YourSitee",
+      "title_en": "YourSitee",
+      "url": "https://www.producthunt.com/products/yoursitee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/yoursitee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Make your bio link worth clicking YourSitee tu",
+      "summary_zh": "Make your bio link worth clicking YourSitee tu",
+      "publishedAt": "2026-08-02T07:01:00Z",
+      "published_at": "2026-08-02T07:01:00Z",
+      "votes_count": 178,
+      "featured": true,
+      "topics": [
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "cad68b82",
+      "title": "产品更新：Lumichats(Free)",
+      "title_en": "Lumichats(Free)",
+      "url": "https://www.producthunt.com/products/lumichats-offline?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/lumichats-offline?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A Claude Code alternative for people who avoid",
+      "summary_zh": "A Claude Code alternative for people who avoid",
+      "publishedAt": "2026-08-02T07:01:00Z",
+      "published_at": "2026-08-02T07:01:00Z",
+      "votes_count": 157,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "a2e58658",
       "title": "中国产品包揽全球大模型调用量前五",
@@ -72,9 +234,9 @@
       "score_details": null
     },
     {
-      "id": "dcaecc25",
-      "title": "DIY一个暗物质探测器？用一个简单的",
-      "title_en": "DIY一个暗物质探测器？用一个简单的射电望远镜能发现这个宇宙谜团吗？",
+      "id": "14cb22a3",
+      "title": "已追踪 AI 发展 0 天，0 篇原",
+      "title_en": "已追踪 AI 发展 0 天，0 篇原创内容",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -84,10 +246,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "DIY一个暗物质探测器？用一个简单的射电望远镜能发现这个宇宙谜团吗？",
-      "summary_zh": "DIY一个暗物质探测器？用一个简单的射电望远镜能发现这个宇宙谜团吗？",
-      "publishedAt": "2026-08-02T10:13:14Z",
-      "published_at": "2026-08-02T10:13:14Z",
+      "summary": "已追踪 AI 发展 0 天，0 篇原创内容",
+      "summary_zh": "已追踪 AI 发展 0 天，0 篇原创内容",
+      "publishedAt": "2026-08-02T21:13:51Z",
+      "published_at": "2026-08-02T21:13:51Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
