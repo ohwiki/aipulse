@@ -1,78 +1,40 @@
 {
-  "generated_at": "2026-08-02T21:14:41Z",
-  "generatedAt": "2026-08-02T21:14:41Z",
+  "generated_at": "2026-08-03T11:55:37Z",
+  "generatedAt": "2026-08-03T11:55:37Z",
   "count": 83,
   "total": 83,
   "entries": [
     {
       "date": "2026-08-03",
-      "generated_at": "2026-08-02T21:14:41Z",
-      "generatedAt": "2026-08-02T21:14:41Z",
-      "total": 8,
+      "generated_at": "2026-08-03T11:55:37Z",
+      "generatedAt": "2026-08-03T11:55:37Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "36218af3",
-          "title": "产品更新：Zinley",
-          "title_en": "Zinley",
-          "url": "https://www.producthunt.com/products/zinley?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "325ba303",
+          "title": "模型更新：AgentSky",
+          "title_en": "AgentSky",
+          "url": "https://www.producthunt.com/products/agentsky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/zinley?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/agentsky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Your Personal AI Representative for calls, ema",
-          "summary_zh": "Your Personal AI Representative for calls, ema",
-          "publishedAt": "2026-08-02T07:01:00Z",
-          "published_at": "2026-08-02T07:01:00Z",
-          "votes_count": 292,
+          "summary": "Any harness, any LLM — cloud-hosted agents on",
+          "summary_zh": "Any harness, any LLM — cloud-hosted agents on",
+          "publishedAt": "2026-08-03T07:01:00Z",
+          "published_at": "2026-08-03T07:01:00Z",
+          "votes_count": 211,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "282",
-              "name": "Virtual Assistants",
-              "slug": "virtual-assistants"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "8b1378a5",
-          "title": "产品更新：Capptivo",
-          "title_en": "Capptivo",
-          "url": "https://www.producthunt.com/products/capptivo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/capptivo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Free open-source screen recorder & demo editor",
-          "summary_zh": "Free open-source screen recorder & demo editor",
-          "publishedAt": "2026-08-02T07:01:00Z",
-          "published_at": "2026-08-02T07:01:00Z",
-          "votes_count": 236,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
             },
             {
               "id": "267",
@@ -80,52 +42,85 @@
               "slug": "developer-tools"
             },
             {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "857",
-              "name": "Video",
-              "slug": "video"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
         },
         {
-          "id": "4f9574bc",
-          "title": "产品更新：YourSitee",
-          "title_en": "YourSitee",
-          "url": "https://www.producthunt.com/products/yoursitee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "40bd2bc4",
+          "title": "产品更新：Ctruh Studio",
+          "title_en": "Ctruh Studio",
+          "url": "https://www.producthunt.com/products/ctruh-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/yoursitee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/ctruh-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Make your bio link worth clicking YourSitee tu",
-          "summary_zh": "Make your bio link worth clicking YourSitee tu",
-          "publishedAt": "2026-08-02T07:01:00Z",
-          "published_at": "2026-08-02T07:01:00Z",
-          "votes_count": 178,
+          "summary": "Create interactive 3D and XR experiences witho",
+          "summary_zh": "Create interactive 3D and XR experiences witho",
+          "publishedAt": "2026-08-03T07:01:00Z",
+          "published_at": "2026-08-03T07:01:00Z",
+          "votes_count": 167,
           "featured": true,
           "topics": [
             {
-              "id": "104",
-              "name": "Social Media",
-              "slug": "social-media"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             },
             {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
+              "id": "269",
+              "name": "Augmented Reality",
+              "slug": "augmented-reality"
             },
             {
               "id": "470",
               "name": "No-Code",
               "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "a6413d97",
+          "title": "产品更新：Airtop for Goog",
+          "title_en": "Airtop for Google Ads Automation",
+          "url": "https://www.producthunt.com/products/airtop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/airtop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build campaigns, optimize spend, and create re",
+          "summary_zh": "Build campaigns, optimize spend, and create re",
+          "publishedAt": "2026-08-03T07:01:00Z",
+          "published_at": "2026-08-03T07:01:00Z",
+          "votes_count": 140,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
