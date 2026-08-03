@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-08-03T11:55:37Z",
-  "generatedAt": "2026-08-03T11:55:37Z",
-  "count": 83,
-  "total": 83,
+  "generated_at": "2026-08-03T21:35:26Z",
+  "generatedAt": "2026-08-03T21:35:26Z",
+  "count": 84,
+  "total": 84,
   "entries": [
+    {
+      "date": "2026-08-04",
+      "generated_at": "2026-08-03T21:35:26Z",
+      "generatedAt": "2026-08-03T21:35:26Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "325ba303",
+          "title": "模型更新：AgentSky",
+          "title_en": "AgentSky",
+          "url": "https://www.producthunt.com/products/agentsky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/agentsky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Any harness, any LLM — cloud-hosted agents on",
+          "summary_zh": "Any harness, any LLM — cloud-hosted agents on",
+          "publishedAt": "2026-08-03T07:01:00Z",
+          "published_at": "2026-08-03T07:01:00Z",
+          "votes_count": 362,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "40bd2bc4",
+          "title": "产品更新：Ctruh Studio",
+          "title_en": "Ctruh Studio",
+          "url": "https://www.producthunt.com/products/ctruh-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ctruh-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Create interactive 3D and XR experiences witho",
+          "summary_zh": "Create interactive 3D and XR experiences witho",
+          "publishedAt": "2026-08-03T07:01:00Z",
+          "published_at": "2026-08-03T07:01:00Z",
+          "votes_count": 330,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "269",
+              "name": "Augmented Reality",
+              "slug": "augmented-reality"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "a6413d97",
+          "title": "产品更新：Airtop for Goog",
+          "title_en": "Airtop for Google Ads Automation",
+          "url": "https://www.producthunt.com/products/airtop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/airtop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build campaigns, optimize spend, and create re",
+          "summary_zh": "Build campaigns, optimize spend, and create re",
+          "publishedAt": "2026-08-03T07:01:00Z",
+          "published_at": "2026-08-03T07:01:00Z",
+          "votes_count": 249,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-03",
       "generated_at": "2026-08-03T11:55:37Z",

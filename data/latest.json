@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-03T11:55:37Z",
-  "generatedAt": "2026-08-03T11:55:37Z",
+  "generated_at": "2026-08-03T21:35:26Z",
+  "generatedAt": "2026-08-03T21:35:26Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "325ba303",
@@ -22,7 +22,7 @@
       "summary_zh": "Any harness, any LLM — cloud-hosted agents on",
       "publishedAt": "2026-08-03T07:01:00Z",
       "published_at": "2026-08-03T07:01:00Z",
-      "votes_count": 211,
+      "votes_count": 362,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Create interactive 3D and XR experiences witho",
       "publishedAt": "2026-08-03T07:01:00Z",
       "published_at": "2026-08-03T07:01:00Z",
-      "votes_count": 167,
+      "votes_count": 330,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "Build campaigns, optimize spend, and create re",
       "publishedAt": "2026-08-03T07:01:00Z",
       "published_at": "2026-08-03T07:01:00Z",
-      "votes_count": 140,
+      "votes_count": 249,
       "featured": true,
       "topics": [
         {
@@ -110,6 +110,44 @@
           "id": "207",
           "name": "Advertising",
           "slug": "advertising"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a253b5a2",
+      "title": "产品更新：Qwen3.8-Max",
+      "title_en": "Qwen3.8-Max",
+      "url": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Qwen’s most capable model for coding and cowor",
+      "summary_zh": "Qwen’s most capable model for coding and cowor",
+      "publishedAt": "2026-08-03T07:01:00Z",
+      "published_at": "2026-08-03T07:01:00Z",
+      "votes_count": 225,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
         },
         {
           "id": "268",

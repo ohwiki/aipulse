@@ -1,0 +1,503 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-03T21:35:26Z",
+  "generatedAt": "2026-08-03T21:35:26Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "325ba303",
+          "title": "模型更新：AgentSky",
+          "title_en": "AgentSky",
+          "url": "https://www.producthunt.com/products/agentsky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/agentsky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Any harness, any LLM — cloud-hosted agents on",
+          "summary_zh": "Any harness, any LLM — cloud-hosted agents on",
+          "publishedAt": "2026-08-03T07:01:00Z",
+          "published_at": "2026-08-03T07:01:00Z",
+          "votes_count": 362,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "40bd2bc4",
+          "title": "产品更新：Ctruh Studio",
+          "title_en": "Ctruh Studio",
+          "url": "https://www.producthunt.com/products/ctruh-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ctruh-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Create interactive 3D and XR experiences witho",
+          "summary_zh": "Create interactive 3D and XR experiences witho",
+          "publishedAt": "2026-08-03T07:01:00Z",
+          "published_at": "2026-08-03T07:01:00Z",
+          "votes_count": 330,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "269",
+              "name": "Augmented Reality",
+              "slug": "augmented-reality"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "a6413d97",
+          "title": "产品更新：Airtop for Goog",
+          "title_en": "Airtop for Google Ads Automation",
+          "url": "https://www.producthunt.com/products/airtop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/airtop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Build campaigns, optimize spend, and create re",
+          "summary_zh": "Build campaigns, optimize spend, and create re",
+          "publishedAt": "2026-08-03T07:01:00Z",
+          "published_at": "2026-08-03T07:01:00Z",
+          "votes_count": 249,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "a253b5a2",
+          "title": "产品更新：Qwen3.8-Max",
+          "title_en": "Qwen3.8-Max",
+          "url": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Qwen’s most capable model for coding and cowor",
+          "summary_zh": "Qwen’s most capable model for coding and cowor",
+          "publishedAt": "2026-08-03T07:01:00Z",
+          "published_at": "2026-08-03T07:01:00Z",
+          "votes_count": 225,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "6d81e08a",
+          "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+          "title_en": null,
+          "url": "https://36kr.com/p/3923043072634498?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3923043072634498?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今日热点导览 马斯克关注了DeepSeek的X账号 祥鹏航空回应航班误发过期方便面 OpenAI或将IPO推迟到明年 SpaceX首份财报即将发布 小米多款手机正式涨价 每月10万美元，特朗普“真实社交”售卖“优先访问权” TOP3大新闻 蔡崇信宣布离婚，不涉及出售阿里股份 8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻。声明称，这一决定由双方共同作出，彼此仍保持尊重，离婚过程将以友好方式进行。声明表示，蔡崇信与吴明华近年来的关系逐渐转变为共同经营事业、共同抚养子女的合作伙伴关系。虽然双方在个人生活上逐渐疏远，但商业合作关系仍将保持牢固和专业。 此外，声明明确表示，蔡崇信目前没有出售任何阿里巴巴股票的计划，其担任阿里巴巴集团董事会主席的职务也不会因离婚受到影响。此次离婚也不会改变双方在布鲁克林体育娱乐公司、布鲁克林篮网队和纽约自由人队中的现有管理职务。（观察者网） 瑞幸回应员工对嘴喷奶油：涉及物料已废弃 8月1日晚，山东济南瑞幸店员用奶油发泡器给同事喂食嬉戏的视频引发热议，2日清晨，该视频发布账号就已注销。8月2日，瑞",
+          "summary_zh": "今日热点导览 马斯克关注了DeepSeek的X账号 祥鹏航空回应航班误发过期方便面 OpenAI或将IPO推迟到明年 SpaceX首份财报即将发布 小米多款手机正式涨价 每月10万美元，特朗普“真实社交”售卖“优先访问权” TOP3大新闻 蔡崇信宣布离婚，不涉及出售阿里股份 8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻。声明称，这一决定由双方共同作出，彼此仍保持尊重，离婚过程将以友好方式进行。声明表示，蔡崇信与吴明华近年来的关系逐渐转变为共同经营事业、共同抚养子女的合作伙伴关系。虽然双方在个人生活上逐渐疏远，但商业合作关系仍将保持牢固和专业。 此外，声明明确表示，蔡崇信目前没有出售任何阿里巴巴股票的计划，其担任阿里巴巴集团董事会主席的职务也不会因离婚受到影响。此次离婚也不会改变双方在布鲁克林体育娱乐公司、布鲁克林篮网队和纽约自由人队中的现有管理职务。（观察者网） 瑞幸回应员工对嘴喷奶油：涉及物料已废弃 8月1日晚，山东济南瑞幸店员用奶油发泡器给同事喂食嬉戏的视频引发热议，2日清晨，该视频发布账号就已注销。8月2日，瑞",
+          "publishedAt": "2026-08-03T00:07:39Z",
+          "published_at": "2026-08-03T00:07:39Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "8f70de35",
+          "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+          "title_en": null,
+          "url": "https://36kr.com/p/3919025939246727?f=rss",
+          "source": "36氪",
+          "source_type": null,
+          "sourceName": "36氪",
+          "sourceUrl": "https://36kr.com/p/3919025939246727?f=rss",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "文 | 赵京娜 访谈 编辑 | 海若镜 36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。 奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者身份在NeurIPS、CJA等学术会议和期刊发表论文；在商汤、鉴智机器人实习期间，参与自动驾驶算法研发与实车部署。 “今天，Agent已经像能力出众的个体，但它们还没有真正进入组织，”薛传奕介绍道。 一个越来越常见的工作日可能是这样开始的：产品经理把需求交给一个Agent梳理，研发同时让另一个Agent修改代码，运营则在第三个对话窗口里研究发布方案。几个小时后，每个Agent都完成了自己的部分，也各自拥有一段完整的上下文。但当三项工作需要合并时，团队才发现，没人清楚另一个Agent做过什么、为什么这样做，哪些结论已经被确认，哪些变化又会影响后续任务。 于是，人重新回到信息中转站的位置：复制对话、补充背景、核对版",
+          "summary_zh": "文 | 赵京娜 访谈 编辑 | 海若镜 36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。 奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者身份在NeurIPS、CJA等学术会议和期刊发表论文；在商汤、鉴智机器人实习期间，参与自动驾驶算法研发与实车部署。 “今天，Agent已经像能力出众的个体，但它们还没有真正进入组织，”薛传奕介绍道。 一个越来越常见的工作日可能是这样开始的：产品经理把需求交给一个Agent梳理，研发同时让另一个Agent修改代码，运营则在第三个对话窗口里研究发布方案。几个小时后，每个Agent都完成了自己的部分，也各自拥有一段完整的上下文。但当三项工作需要合并时，团队才发现，没人清楚另一个Agent做过什么、为什么这样做，哪些结论已经被确认，哪些变化又会影响后续任务。 于是，人重新回到信息中转站的位置：复制对话、补充背景、核对版",
+          "publishedAt": "2026-08-03T00:10:16Z",
+          "published_at": "2026-08-03T00:10:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "9b8909b7",
+          "title": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/464835.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/464835.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化  梦晨 2026-08-03 10:51:33  来源：量子位   面向AI Agent的可迁移、自演进记忆操作层MindMemOS   允中 发自 凹非寺量子位 | 公众号 QbitAI  Agent的能力越来越强，但使用体验仍有一个尴尬之处： 每换一个Agent甚至换一个session，就像换了一个完全不了解你的新员工。 用户偏好、项目背景和踩坑经验无法迁移，只能从头解释，再把新Agent“重新养一遍”。 真正的挑战不只在于“有没有记忆”，还在于四件事：  记忆带不走：记忆依附于单个Agent，无法跨应用和框架复用。 记忆视角不同：不同业务关注的实体、属性和提取规则完全不同，一套固定模板难以通用。 记忆系统不会成长：提取、检索和组织策略在开发完成后便基本固化，无法从真实使用与用户纠偏中持续演进。 记忆缺少时间维度：系统既要知道最新事实，也要保留事实如何变化、旧状态如何被新状态取代的过程。  为此，华为诺亚方舟实验室推出了面向AI Agent的可迁移、自演进记忆操作层MindMemOS：     它将记忆从单",
+          "summary_zh": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化  梦晨 2026-08-03 10:51:33  来源：量子位   面向AI Agent的可迁移、自演进记忆操作层MindMemOS   允中 发自 凹非寺量子位 | 公众号 QbitAI  Agent的能力越来越强，但使用体验仍有一个尴尬之处： 每换一个Agent甚至换一个session，就像换了一个完全不了解你的新员工。 用户偏好、项目背景和踩坑经验无法迁移，只能从头解释，再把新Agent“重新养一遍”。 真正的挑战不只在于“有没有记忆”，还在于四件事：  记忆带不走：记忆依附于单个Agent，无法跨应用和框架复用。 记忆视角不同：不同业务关注的实体、属性和提取规则完全不同，一套固定模板难以通用。 记忆系统不会成长：提取、检索和组织策略在开发完成后便基本固化，无法从真实使用与用户纠偏中持续演进。 记忆缺少时间维度：系统既要知道最新事实，也要保留事实如何变化、旧状态如何被新状态取代的过程。  为此，华为诺亚方舟实验室推出了面向AI Agent的可迁移、自演进记忆操作层MindMemOS：     它将记忆从单",
+          "publishedAt": "2026-08-03T02:51:33Z",
+          "published_at": "2026-08-03T02:51:33Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "4c801367",
+          "title": "赛博义父Tibo爆料：谷歌早一年就做出了ChatGPT，硬是没敢发！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/465176.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/465176.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "赛博义父Tibo爆料：谷歌早一年就做出了ChatGPT，硬是没敢发！  Jay 2026-08-03 12:29:44  来源：量子位   终究还是喜提了「美国豆包」   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  啥，谷歌真比OpenAI还早一年搞出了ChatGPT？ 不是谷歌事后找补了，这次是OpenAI自己人，Codex负责人Tibo刚佐证的消息：  那就是早一年版的ChatGPT。最初叫LMChat，后来又换了另一个代号。 谷歌太紧张了，不敢发布它，而DeepMind则被禁止推出可能冲击谷歌业务的产品。   但Tibo为啥对这段陈年旧事如此了如指掌？ 答案是：他当时就在那支谷歌团队里。  我当时就是那个团队的一员。  是的，如今为OpenAI打造「无限Token」的Tibo，正是当年谷歌那个项目的亲历者。 网友都震惊了，Tibo还有这么一段经历：  不er，我还以为你只是个Codex的重置按钮（bushi）。   Jeff Dean：我不甘心啊！！ 事情是这样的，一名Midjourney工程师，最近在X上翻出了前谷歌大脑负责人Jeff Dean的一段旧采访：  我",
+          "summary_zh": "赛博义父Tibo爆料：谷歌早一年就做出了ChatGPT，硬是没敢发！  Jay 2026-08-03 12:29:44  来源：量子位   终究还是喜提了「美国豆包」   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  啥，谷歌真比OpenAI还早一年搞出了ChatGPT？ 不是谷歌事后找补了，这次是OpenAI自己人，Codex负责人Tibo刚佐证的消息：  那就是早一年版的ChatGPT。最初叫LMChat，后来又换了另一个代号。 谷歌太紧张了，不敢发布它，而DeepMind则被禁止推出可能冲击谷歌业务的产品。   但Tibo为啥对这段陈年旧事如此了如指掌？ 答案是：他当时就在那支谷歌团队里。  我当时就是那个团队的一员。  是的，如今为OpenAI打造「无限Token」的Tibo，正是当年谷歌那个项目的亲历者。 网友都震惊了，Tibo还有这么一段经历：  不er，我还以为你只是个Codex的重置按钮（bushi）。   Jeff Dean：我不甘心啊！！ 事情是这样的，一名Midjourney工程师，最近在X上翻出了前谷歌大脑负责人Jeff Dean的一段旧采访：  我",
+          "publishedAt": "2026-08-03T04:29:44Z",
+          "published_at": "2026-08-03T04:29:44Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "325ba303",
+      "title": "模型更新：AgentSky",
+      "title_en": "AgentSky",
+      "url": "https://www.producthunt.com/products/agentsky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/agentsky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Any harness, any LLM — cloud-hosted agents on",
+      "summary_zh": "Any harness, any LLM — cloud-hosted agents on",
+      "publishedAt": "2026-08-03T07:01:00Z",
+      "published_at": "2026-08-03T07:01:00Z",
+      "votes_count": 362,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "40bd2bc4",
+      "title": "产品更新：Ctruh Studio",
+      "title_en": "Ctruh Studio",
+      "url": "https://www.producthunt.com/products/ctruh-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ctruh-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Create interactive 3D and XR experiences witho",
+      "summary_zh": "Create interactive 3D and XR experiences witho",
+      "publishedAt": "2026-08-03T07:01:00Z",
+      "published_at": "2026-08-03T07:01:00Z",
+      "votes_count": 330,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "269",
+          "name": "Augmented Reality",
+          "slug": "augmented-reality"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a6413d97",
+      "title": "产品更新：Airtop for Goog",
+      "title_en": "Airtop for Google Ads Automation",
+      "url": "https://www.producthunt.com/products/airtop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/airtop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build campaigns, optimize spend, and create re",
+      "summary_zh": "Build campaigns, optimize spend, and create re",
+      "publishedAt": "2026-08-03T07:01:00Z",
+      "published_at": "2026-08-03T07:01:00Z",
+      "votes_count": 249,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a253b5a2",
+      "title": "产品更新：Qwen3.8-Max",
+      "title_en": "Qwen3.8-Max",
+      "url": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Qwen’s most capable model for coding and cowor",
+      "summary_zh": "Qwen’s most capable model for coding and cowor",
+      "publishedAt": "2026-08-03T07:01:00Z",
+      "published_at": "2026-08-03T07:01:00Z",
+      "votes_count": 225,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6d81e08a",
+      "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+      "title_en": null,
+      "url": "https://36kr.com/p/3923043072634498?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3923043072634498?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今日热点导览 马斯克关注了DeepSeek的X账号 祥鹏航空回应航班误发过期方便面 OpenAI或将IPO推迟到明年 SpaceX首份财报即将发布 小米多款手机正式涨价 每月10万美元，特朗普“真实社交”售卖“优先访问权” TOP3大新闻 蔡崇信宣布离婚，不涉及出售阿里股份 8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻。声明称，这一决定由双方共同作出，彼此仍保持尊重，离婚过程将以友好方式进行。声明表示，蔡崇信与吴明华近年来的关系逐渐转变为共同经营事业、共同抚养子女的合作伙伴关系。虽然双方在个人生活上逐渐疏远，但商业合作关系仍将保持牢固和专业。 此外，声明明确表示，蔡崇信目前没有出售任何阿里巴巴股票的计划，其担任阿里巴巴集团董事会主席的职务也不会因离婚受到影响。此次离婚也不会改变双方在布鲁克林体育娱乐公司、布鲁克林篮网队和纽约自由人队中的现有管理职务。（观察者网） 瑞幸回应员工对嘴喷奶油：涉及物料已废弃 8月1日晚，山东济南瑞幸店员用奶油发泡器给同事喂食嬉戏的视频引发热议，2日清晨，该视频发布账号就已注销。8月2日，瑞",
+      "summary_zh": "今日热点导览 马斯克关注了DeepSeek的X账号 祥鹏航空回应航班误发过期方便面 OpenAI或将IPO推迟到明年 SpaceX首份财报即将发布 小米多款手机正式涨价 每月10万美元，特朗普“真实社交”售卖“优先访问权” TOP3大新闻 蔡崇信宣布离婚，不涉及出售阿里股份 8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻。声明称，这一决定由双方共同作出，彼此仍保持尊重，离婚过程将以友好方式进行。声明表示，蔡崇信与吴明华近年来的关系逐渐转变为共同经营事业、共同抚养子女的合作伙伴关系。虽然双方在个人生活上逐渐疏远，但商业合作关系仍将保持牢固和专业。 此外，声明明确表示，蔡崇信目前没有出售任何阿里巴巴股票的计划，其担任阿里巴巴集团董事会主席的职务也不会因离婚受到影响。此次离婚也不会改变双方在布鲁克林体育娱乐公司、布鲁克林篮网队和纽约自由人队中的现有管理职务。（观察者网） 瑞幸回应员工对嘴喷奶油：涉及物料已废弃 8月1日晚，山东济南瑞幸店员用奶油发泡器给同事喂食嬉戏的视频引发热议，2日清晨，该视频发布账号就已注销。8月2日，瑞",
+      "publishedAt": "2026-08-03T00:07:39Z",
+      "published_at": "2026-08-03T00:07:39Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "8f70de35",
+      "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3919025939246727?f=rss",
+      "source": "36氪",
+      "source_type": null,
+      "sourceName": "36氪",
+      "sourceUrl": "https://36kr.com/p/3919025939246727?f=rss",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "文 | 赵京娜 访谈 编辑 | 海若镜 36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。 奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者身份在NeurIPS、CJA等学术会议和期刊发表论文；在商汤、鉴智机器人实习期间，参与自动驾驶算法研发与实车部署。 “今天，Agent已经像能力出众的个体，但它们还没有真正进入组织，”薛传奕介绍道。 一个越来越常见的工作日可能是这样开始的：产品经理把需求交给一个Agent梳理，研发同时让另一个Agent修改代码，运营则在第三个对话窗口里研究发布方案。几个小时后，每个Agent都完成了自己的部分，也各自拥有一段完整的上下文。但当三项工作需要合并时，团队才发现，没人清楚另一个Agent做过什么、为什么这样做，哪些结论已经被确认，哪些变化又会影响后续任务。 于是，人重新回到信息中转站的位置：复制对话、补充背景、核对版",
+      "summary_zh": "文 | 赵京娜 访谈 编辑 | 海若镜 36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。 奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者身份在NeurIPS、CJA等学术会议和期刊发表论文；在商汤、鉴智机器人实习期间，参与自动驾驶算法研发与实车部署。 “今天，Agent已经像能力出众的个体，但它们还没有真正进入组织，”薛传奕介绍道。 一个越来越常见的工作日可能是这样开始的：产品经理把需求交给一个Agent梳理，研发同时让另一个Agent修改代码，运营则在第三个对话窗口里研究发布方案。几个小时后，每个Agent都完成了自己的部分，也各自拥有一段完整的上下文。但当三项工作需要合并时，团队才发现，没人清楚另一个Agent做过什么、为什么这样做，哪些结论已经被确认，哪些变化又会影响后续任务。 于是，人重新回到信息中转站的位置：复制对话、补充背景、核对版",
+      "publishedAt": "2026-08-03T00:10:16Z",
+      "published_at": "2026-08-03T00:10:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "9b8909b7",
+      "title": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/464835.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/464835.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化  梦晨 2026-08-03 10:51:33  来源：量子位   面向AI Agent的可迁移、自演进记忆操作层MindMemOS   允中 发自 凹非寺量子位 | 公众号 QbitAI  Agent的能力越来越强，但使用体验仍有一个尴尬之处： 每换一个Agent甚至换一个session，就像换了一个完全不了解你的新员工。 用户偏好、项目背景和踩坑经验无法迁移，只能从头解释，再把新Agent“重新养一遍”。 真正的挑战不只在于“有没有记忆”，还在于四件事：  记忆带不走：记忆依附于单个Agent，无法跨应用和框架复用。 记忆视角不同：不同业务关注的实体、属性和提取规则完全不同，一套固定模板难以通用。 记忆系统不会成长：提取、检索和组织策略在开发完成后便基本固化，无法从真实使用与用户纠偏中持续演进。 记忆缺少时间维度：系统既要知道最新事实，也要保留事实如何变化、旧状态如何被新状态取代的过程。  为此，华为诺亚方舟实验室推出了面向AI Agent的可迁移、自演进记忆操作层MindMemOS：     它将记忆从单",
+      "summary_zh": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化  梦晨 2026-08-03 10:51:33  来源：量子位   面向AI Agent的可迁移、自演进记忆操作层MindMemOS   允中 发自 凹非寺量子位 | 公众号 QbitAI  Agent的能力越来越强，但使用体验仍有一个尴尬之处： 每换一个Agent甚至换一个session，就像换了一个完全不了解你的新员工。 用户偏好、项目背景和踩坑经验无法迁移，只能从头解释，再把新Agent“重新养一遍”。 真正的挑战不只在于“有没有记忆”，还在于四件事：  记忆带不走：记忆依附于单个Agent，无法跨应用和框架复用。 记忆视角不同：不同业务关注的实体、属性和提取规则完全不同，一套固定模板难以通用。 记忆系统不会成长：提取、检索和组织策略在开发完成后便基本固化，无法从真实使用与用户纠偏中持续演进。 记忆缺少时间维度：系统既要知道最新事实，也要保留事实如何变化、旧状态如何被新状态取代的过程。  为此，华为诺亚方舟实验室推出了面向AI Agent的可迁移、自演进记忆操作层MindMemOS：     它将记忆从单",
+      "publishedAt": "2026-08-03T02:51:33Z",
+      "published_at": "2026-08-03T02:51:33Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4c801367",
+      "title": "赛博义父Tibo爆料：谷歌早一年就做出了ChatGPT，硬是没敢发！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/465176.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/465176.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "赛博义父Tibo爆料：谷歌早一年就做出了ChatGPT，硬是没敢发！  Jay 2026-08-03 12:29:44  来源：量子位   终究还是喜提了「美国豆包」   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  啥，谷歌真比OpenAI还早一年搞出了ChatGPT？ 不是谷歌事后找补了，这次是OpenAI自己人，Codex负责人Tibo刚佐证的消息：  那就是早一年版的ChatGPT。最初叫LMChat，后来又换了另一个代号。 谷歌太紧张了，不敢发布它，而DeepMind则被禁止推出可能冲击谷歌业务的产品。   但Tibo为啥对这段陈年旧事如此了如指掌？ 答案是：他当时就在那支谷歌团队里。  我当时就是那个团队的一员。  是的，如今为OpenAI打造「无限Token」的Tibo，正是当年谷歌那个项目的亲历者。 网友都震惊了，Tibo还有这么一段经历：  不er，我还以为你只是个Codex的重置按钮（bushi）。   Jeff Dean：我不甘心啊！！ 事情是这样的，一名Midjourney工程师，最近在X上翻出了前谷歌大脑负责人Jeff Dean的一段旧采访：  我",
+      "summary_zh": "赛博义父Tibo爆料：谷歌早一年就做出了ChatGPT，硬是没敢发！  Jay 2026-08-03 12:29:44  来源：量子位   终究还是喜提了「美国豆包」   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  啥，谷歌真比OpenAI还早一年搞出了ChatGPT？ 不是谷歌事后找补了，这次是OpenAI自己人，Codex负责人Tibo刚佐证的消息：  那就是早一年版的ChatGPT。最初叫LMChat，后来又换了另一个代号。 谷歌太紧张了，不敢发布它，而DeepMind则被禁止推出可能冲击谷歌业务的产品。   但Tibo为啥对这段陈年旧事如此了如指掌？ 答案是：他当时就在那支谷歌团队里。  我当时就是那个团队的一员。  是的，如今为OpenAI打造「无限Token」的Tibo，正是当年谷歌那个项目的亲历者。 网友都震惊了，Tibo还有这么一段经历：  不er，我还以为你只是个Codex的重置按钮（bushi）。   Jeff Dean：我不甘心啊！！ 事情是这样的，一名Midjourney工程师，最近在X上翻出了前谷歌大脑负责人Jeff Dean的一段旧采访：  我",
+      "publishedAt": "2026-08-03T04:29:44Z",
+      "published_at": "2026-08-03T04:29:44Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
