@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-08-05T10:58:57Z",
-  "generatedAt": "2026-08-05T10:58:57Z",
-  "count": 85,
-  "total": 85,
+  "generated_at": "2026-08-05T21:39:38Z",
+  "generatedAt": "2026-08-05T21:39:38Z",
+  "count": 86,
+  "total": 86,
   "entries": [
+    {
+      "date": "2026-08-06",
+      "generated_at": "2026-08-05T21:39:38Z",
+      "generatedAt": "2026-08-05T21:39:38Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "b95538a6",
+          "title": "产品更新：Wispr Flow Note",
+          "title_en": "Wispr Flow Notetaker",
+          "url": "https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Meeting notes that get the details right. Your",
+          "summary_zh": "Meeting notes that get the details right. Your",
+          "publishedAt": "2026-08-05T07:01:00Z",
+          "published_at": "2026-08-05T07:01:00Z",
+          "votes_count": 430,
+          "featured": true,
+          "topics": [
+            {
+              "id": "96",
+              "name": "Notes",
+              "slug": "notes"
+            },
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e0b32d5d",
+          "title": "AI资讯更新：AdAnt AI",
+          "title_en": "AdAnt AI",
+          "url": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Claude for viral, high-converting social ads A",
+          "summary_zh": "Claude for viral, high-converting social ads A",
+          "publishedAt": "2026-08-05T07:01:00Z",
+          "published_at": "2026-08-05T07:01:00Z",
+          "votes_count": 385,
+          "featured": true,
+          "topics": [
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "845",
+              "name": "Social media marketing",
+              "slug": "social-media-marketing"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ec127953",
+          "title": "AI资讯更新：NextDoor.Comp",
+          "title_en": "NextDoor.Company",
+          "url": "https://www.producthunt.com/products/nextdoor-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/nextdoor-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Discover startups hiring near you, on a map Fi",
+          "summary_zh": "Discover startups hiring near you, on a map Fi",
+          "publishedAt": "2026-08-05T07:01:00Z",
+          "published_at": "2026-08-05T07:01:00Z",
+          "votes_count": 337,
+          "featured": true,
+          "topics": [
+            {
+              "id": "41",
+              "name": "Hiring",
+              "slug": "hiring"
+            },
+            {
+              "id": "308",
+              "name": "Maps",
+              "slug": "maps"
+            },
+            {
+              "id": "835",
+              "name": "Career",
+              "slug": "career"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-05",
       "generated_at": "2026-08-05T10:58:57Z",

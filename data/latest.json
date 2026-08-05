@@ -1,30 +1,160 @@
 {
-  "generated_at": "2026-08-05T10:58:57Z",
-  "generatedAt": "2026-08-05T10:58:57Z",
+  "generated_at": "2026-08-05T21:39:38Z",
+  "generatedAt": "2026-08-05T21:39:38Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 8,
+  "count": 8,
   "items": [
     {
-      "id": "c296018a",
-      "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/08/466386.html",
-      "source": "量子位",
+      "id": "b95538a6",
+      "title": "产品更新：Wispr Flow Note",
+      "title_en": "Wispr Flow Notetaker",
+      "url": "https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/08/466386.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills  思邈 2026-08-04 21:14:27  来源：量子位   北京大学&元空AI Agent联合实验室   允中 发自 凹非寺 量子位 | 公众号 QbitAI  Claude Science，你可能有耳闻。 Anthropic家那个能自己搜文献、自己写代码、自己跑分析、自己出图出报告的科研Agent，一度让人直呼「这才是AI for Science该有的样子」。 但它闭源。 现在，有人把它复刻出来了——开源，MIT协议，核心零依赖。 项目叫OpenAI4S（Open AI for Scientist），是北京大学&元空AI Agent联合实验室正式开源的科研智能体项目。 划重点：它不是「长得像」Claude Science，而是沿着Code-as-Action的思路，把引擎、持久内核、host-RPC协议、安全层，用开源方式独立复现了一遍。  项目已于2026年7月6日在GitHub开源，采用MIT许可证。 目前，OpenAI4S提供完整的科研Web应用、数十个内置Skills、自有算力接",
-      "summary_zh": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills  思邈 2026-08-04 21:14:27  来源：量子位   北京大学&元空AI Agent联合实验室   允中 发自 凹非寺 量子位 | 公众号 QbitAI  Claude Science，你可能有耳闻。 Anthropic家那个能自己搜文献、自己写代码、自己跑分析、自己出图出报告的科研Agent，一度让人直呼「这才是AI for Science该有的样子」。 但它闭源。 现在，有人把它复刻出来了——开源，MIT协议，核心零依赖。 项目叫OpenAI4S（Open AI for Scientist），是北京大学&元空AI Agent联合实验室正式开源的科研智能体项目。 划重点：它不是「长得像」Claude Science，而是沿着Code-as-Action的思路，把引擎、持久内核、host-RPC协议、安全层，用开源方式独立复现了一遍。  项目已于2026年7月6日在GitHub开源，采用MIT许可证。 目前，OpenAI4S提供完整的科研Web应用、数十个内置Skills、自有算力接",
-      "publishedAt": "2026-08-04T13:14:27Z",
-      "published_at": "2026-08-04T13:14:27Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Meeting notes that get the details right. Your",
+      "summary_zh": "Meeting notes that get the details right. Your",
+      "publishedAt": "2026-08-05T07:01:00Z",
+      "published_at": "2026-08-05T07:01:00Z",
+      "votes_count": 430,
+      "featured": true,
+      "topics": [
+        {
+          "id": "96",
+          "name": "Notes",
+          "slug": "notes"
+        },
+        {
+          "id": "252",
+          "name": "Meetings",
+          "slug": "meetings"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "e0b32d5d",
+      "title": "AI资讯更新：AdAnt AI",
+      "title_en": "AdAnt AI",
+      "url": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Claude for viral, high-converting social ads A",
+      "summary_zh": "Claude for viral, high-converting social ads A",
+      "publishedAt": "2026-08-05T07:01:00Z",
+      "published_at": "2026-08-05T07:01:00Z",
+      "votes_count": 385,
+      "featured": true,
+      "topics": [
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "845",
+          "name": "Social media marketing",
+          "slug": "social-media-marketing"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ec127953",
+      "title": "AI资讯更新：NextDoor.Comp",
+      "title_en": "NextDoor.Company",
+      "url": "https://www.producthunt.com/products/nextdoor-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/nextdoor-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Discover startups hiring near you, on a map Fi",
+      "summary_zh": "Discover startups hiring near you, on a map Fi",
+      "publishedAt": "2026-08-05T07:01:00Z",
+      "published_at": "2026-08-05T07:01:00Z",
+      "votes_count": 337,
+      "featured": true,
+      "topics": [
+        {
+          "id": "41",
+          "name": "Hiring",
+          "slug": "hiring"
+        },
+        {
+          "id": "308",
+          "name": "Maps",
+          "slug": "maps"
+        },
+        {
+          "id": "835",
+          "name": "Career",
+          "slug": "career"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3643c661",
+      "title": "产品更新：ngrok AI Gatewa",
+      "title_en": "ngrok AI Gateway",
+      "url": "https://www.producthunt.com/products/ngrok-ai-gateway?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ngrok-ai-gateway?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "One private gateway for every AI model ngrok A",
+      "summary_zh": "One private gateway for every AI model ngrok A",
+      "publishedAt": "2026-08-05T07:01:00Z",
+      "published_at": "2026-08-05T07:01:00Z",
+      "votes_count": 289,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
       "score_details": null
     },
     {
@@ -72,9 +202,31 @@
       "score_details": null
     },
     {
-      "id": "966db071",
-      "title": "Transformer上限触顶，Mo",
-      "title_en": "Transformer上限触顶，Mobius能否引发下一代模型架构的革命？",
+      "id": "97b4c7e8",
+      "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/466739.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/466739.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "微软叫停Tokenmaxxing！预算卡死，超限自负  听雨 2026-08-05 14:33:40  来源：量子位   内部默认用GPT-5.6  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 不是，连微软都开始心疼token了？？ 根据内部邮件，从今年7月开始，微软已经为各业务部门设置了「AI Token预算目标」。 还将GPT-5.6设置为内部默认模型，原因是更便宜。  微软，那你这就是没见识过来自东方的神秘力量了。 要论便宜，你咋不直接上DeepSeek呢… 微软执行副总裁Jay Parikh也在内部亲自放话： Tokenmaxxing不是我们优化的目标。 在微软，用AI也得勒紧裤腰带 根据Parikh的内部邮件和更新后的Copilot使用指南，微软新政可以拆成几条： 第一，设预算。从2026年7月起，微软各业务部门都有了「AI token预算目标」。 但具体的支出目标数值，目前尚未公布。 第二，看得见花费。员工可以查看自己的个人AI token支出。 内部数据显示，许多工程师每月token花费在几百到几千美元之间。 第三，换默认模型。内部默认模型从原来的选项切换为GP",
+      "summary_zh": "微软叫停Tokenmaxxing！预算卡死，超限自负  听雨 2026-08-05 14:33:40  来源：量子位   内部默认用GPT-5.6  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 不是，连微软都开始心疼token了？？ 根据内部邮件，从今年7月开始，微软已经为各业务部门设置了「AI Token预算目标」。 还将GPT-5.6设置为内部默认模型，原因是更便宜。  微软，那你这就是没见识过来自东方的神秘力量了。 要论便宜，你咋不直接上DeepSeek呢… 微软执行副总裁Jay Parikh也在内部亲自放话： Tokenmaxxing不是我们优化的目标。 在微软，用AI也得勒紧裤腰带 根据Parikh的内部邮件和更新后的Copilot使用指南，微软新政可以拆成几条： 第一，设预算。从2026年7月起，微软各业务部门都有了「AI token预算目标」。 但具体的支出目标数值，目前尚未公布。 第二，看得见花费。员工可以查看自己的个人AI token支出。 内部数据显示，许多工程师每月token花费在几百到几千美元之间。 第三，换默认模型。内部默认模型从原来的选项切换为GP",
+      "publishedAt": "2026-08-05T06:33:40Z",
+      "published_at": "2026-08-05T06:33:40Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "8b7a42da",
+      "title": "视觉AI从「会生成」走向「能创作」，",
+      "title_en": "视觉AI从「会生成」走向「能创作」，RabbitVis探索AI应用新范式",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -84,10 +236,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "Transformer上限触顶，Mobius能否引发下一代模型架构的革命？",
-      "summary_zh": "Transformer上限触顶，Mobius能否引发下一代模型架构的革命？",
-      "publishedAt": "2026-08-05T10:58:24Z",
-      "published_at": "2026-08-05T10:58:24Z",
+      "summary": "视觉AI从「会生成」走向「能创作」，RabbitVis探索AI应用新范式",
+      "summary_zh": "视觉AI从「会生成」走向「能创作」，RabbitVis探索AI应用新范式",
+      "publishedAt": "2026-08-05T21:39:10Z",
+      "published_at": "2026-08-05T21:39:10Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
