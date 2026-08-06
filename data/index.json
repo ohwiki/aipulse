@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-08-05T21:39:38Z",
-  "generatedAt": "2026-08-05T21:39:38Z",
+  "generated_at": "2026-08-06T11:00:19Z",
+  "generatedAt": "2026-08-06T11:00:19Z",
   "count": 86,
   "total": 86,
   "entries": [
     {
       "date": "2026-08-06",
-      "generated_at": "2026-08-05T21:39:38Z",
-      "generatedAt": "2026-08-05T21:39:38Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-08-06T11:00:19Z",
+      "generatedAt": "2026-08-06T11:00:19Z",
+      "total": 3,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "b95538a6",
-          "title": "产品更新：Wispr Flow Note",
-          "title_en": "Wispr Flow Notetaker",
-          "url": "https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "cb22ae8e",
+          "title": "早于LeCun相似研究一年！千诀科技",
+          "title_en": "早于LeCun相似研究一年！千诀科技联合清华团队让神经网络「简单性」可测可优化",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Meeting notes that get the details right. Your",
-          "summary_zh": "Meeting notes that get the details right. Your",
-          "publishedAt": "2026-08-05T07:01:00Z",
-          "published_at": "2026-08-05T07:01:00Z",
-          "votes_count": 430,
-          "featured": true,
-          "topics": [
-            {
-              "id": "96",
-              "name": "Notes",
-              "slug": "notes"
-            },
-            {
-              "id": "252",
-              "name": "Meetings",
-              "slug": "meetings"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "早于LeCun相似研究一年！千诀科技联合清华团队让神经网络「简单性」可测可优化",
+          "summary_zh": "早于LeCun相似研究一年！千诀科技联合清华团队让神经网络「简单性」可测可优化",
+          "publishedAt": "2026-08-06T10:59:30Z",
+          "published_at": "2026-08-06T10:59:30Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "e0b32d5d",
-          "title": "AI资讯更新：AdAnt AI",
-          "title_en": "AdAnt AI",
-          "url": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "f65a5e12",
+          "title": "DeepSeek官宣即将大幅涨价，服",
+          "title_en": "DeepSeek官宣即将大幅涨价，服务器终于挤爆？",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Claude for viral, high-converting social ads A",
-          "summary_zh": "Claude for viral, high-converting social ads A",
-          "publishedAt": "2026-08-05T07:01:00Z",
-          "published_at": "2026-08-05T07:01:00Z",
-          "votes_count": 385,
-          "featured": true,
-          "topics": [
-            {
-              "id": "207",
-              "name": "Advertising",
-              "slug": "advertising"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "845",
-              "name": "Social media marketing",
-              "slug": "social-media-marketing"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "DeepSeek官宣即将大幅涨价，服务器终于挤爆？",
+          "summary_zh": "DeepSeek官宣即将大幅涨价，服务器终于挤爆？",
+          "publishedAt": "2026-08-06T10:59:30Z",
+          "published_at": "2026-08-06T10:59:30Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "ec127953",
-          "title": "AI资讯更新：NextDoor.Comp",
-          "title_en": "NextDoor.Company",
-          "url": "https://www.producthunt.com/products/nextdoor-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "6d0a622e",
+          "title": "Nature丨一个基础模型连接蛋白、",
+          "title_en": "Nature丨一个基础模型连接蛋白、细胞与肿瘤微环境，构建跨尺度、跨队列的虚拟地图",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/nextdoor-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Discover startups hiring near you, on a map Fi",
-          "summary_zh": "Discover startups hiring near you, on a map Fi",
-          "publishedAt": "2026-08-05T07:01:00Z",
-          "published_at": "2026-08-05T07:01:00Z",
-          "votes_count": 337,
-          "featured": true,
-          "topics": [
-            {
-              "id": "41",
-              "name": "Hiring",
-              "slug": "hiring"
-            },
-            {
-              "id": "308",
-              "name": "Maps",
-              "slug": "maps"
-            },
-            {
-              "id": "835",
-              "name": "Career",
-              "slug": "career"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "Nature丨一个基础模型连接蛋白、细胞与肿瘤微环境，构建跨尺度、跨队列的虚拟地图",
+          "summary_zh": "Nature丨一个基础模型连接蛋白、细胞与肿瘤微环境，构建跨尺度、跨队列的虚拟地图",
+          "publishedAt": "2026-08-06T10:59:30Z",
+          "published_at": "2026-08-06T10:59:30Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
