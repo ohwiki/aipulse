@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-08-06T11:00:19Z",
-  "generatedAt": "2026-08-06T11:00:19Z",
-  "count": 86,
-  "total": 86,
+  "generated_at": "2026-08-07T00:56:12Z",
+  "generatedAt": "2026-08-07T00:56:12Z",
+  "count": 87,
+  "total": 87,
   "entries": [
+    {
+      "date": "2026-08-07",
+      "generated_at": "2026-08-07T00:56:12Z",
+      "generatedAt": "2026-08-07T00:56:12Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "d1601eb7",
+          "title": "产品更新：Cloudflare OS",
+          "title_en": "Cloudflare OS",
+          "url": "https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build the AI operating system for your company",
+          "summary_zh": "Build the AI operating system for your company",
+          "publishedAt": "2026-08-06T07:01:00Z",
+          "published_at": "2026-08-06T07:01:00Z",
+          "votes_count": 384,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "342",
+              "name": "Bots",
+              "slug": "bots"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "de143742",
+          "title": "产品更新：AI Spend Consol",
+          "title_en": "AI Spend Console by Rippling",
+          "url": "https://www.producthunt.com/products/rippling?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/rippling?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Track your AI spend and connect it to business",
+          "summary_zh": "Track your AI spend and connect it to business",
+          "publishedAt": "2026-08-06T07:01:00Z",
+          "published_at": "2026-08-06T07:01:00Z",
+          "votes_count": 279,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
+            },
+            {
+              "id": "611",
+              "name": "Finance",
+              "slug": "finance"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "98a43bec",
+          "title": "AI资讯更新：Superlog Resp",
+          "title_en": "Superlog Responder",
+          "url": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Free, open-source AI bug-fixing agent Responde",
+          "summary_zh": "Free, open-source AI bug-fixing agent Responde",
+          "publishedAt": "2026-08-06T07:01:00Z",
+          "published_at": "2026-08-06T07:01:00Z",
+          "votes_count": 259,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-06",
       "generated_at": "2026-08-06T11:00:19Z",
