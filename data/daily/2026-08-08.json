@@ -1,0 +1,503 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-07T21:05:20Z",
+  "generatedAt": "2026-08-07T21:05:20Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "bbadebc6",
+          "title": "产品更新：Coldtea.ai",
+          "title_en": "Coldtea.ai",
+          "url": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Make your software delivery self-driving The f",
+          "summary_zh": "Make your software delivery self-driving The f",
+          "publishedAt": "2026-08-07T07:01:00Z",
+          "published_at": "2026-08-07T07:01:00Z",
+          "votes_count": 397,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "71992bce",
+          "title": "产品更新：Soloop",
+          "title_en": "Soloop",
+          "url": "https://www.producthunt.com/products/soloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/soloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Approval-first Agent OS for solo founders Solo",
+          "summary_zh": "Approval-first Agent OS for solo founders Solo",
+          "publishedAt": "2026-08-07T07:01:00Z",
+          "published_at": "2026-08-07T07:01:00Z",
+          "votes_count": 329,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "371",
+              "name": "Maker Tools",
+              "slug": "maker-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "21da328e",
+          "title": "产品更新：Rindler",
+          "title_en": "Rindler",
+          "url": "https://www.producthunt.com/products/rindler?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/rindler?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Automate the web work your team does by hand R",
+          "summary_zh": "Automate the web work your team does by hand R",
+          "publishedAt": "2026-08-07T07:01:00Z",
+          "published_at": "2026-08-07T07:01:00Z",
+          "votes_count": 212,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9d65f1ce",
+          "title": "产品更新：Nitro 4.0",
+          "title_en": "Nitro 4.0",
+          "url": "https://www.producthunt.com/products/alconost-localization?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/alconost-localization?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The first human translation platform built for",
+          "summary_zh": "The first human translation platform built for",
+          "publishedAt": "2026-08-07T07:01:00Z",
+          "published_at": "2026-08-07T07:01:00Z",
+          "votes_count": 212,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "209",
+              "name": "Languages",
+              "slug": "languages"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "f2d39c3d",
+          "title": "智元下架了首席科学家罗剑岚",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/467730.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/467730.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "智元下架了首席科学家罗剑岚  henry 2026-08-07 09:25:40  来源：量子位   智元机器人高管生变！   亨利 发自 凹非寺 量子位 | 公众号 QbitAI  智元机器人高管生变！ 刚刚，量子位发现，智元机器人官网最新的合伙人团队名单中，已经不见原首席科学家罗剑岚的名字。  而在此前的官网名单中，罗剑岚的身份还是： 智元机器人合伙人、高级副总裁兼首席科学家。 2025年9月智元首次对外披露合伙人团队时，罗剑岚与邓泰华、彭志辉、姚卯青等人一同出现在官网，其职务正是合伙人、高级副总裁、首席科学家。  事实上，在此次官网名单发生变化之前，社媒上就已经出现了不少罗剑岚可能离职的消息。 如今，随着他的名字正式从智元官网消失，这一传闻似乎又多了一层佐证。 此外，另外两个变化也值得注意。 目前，罗剑岚的个人主页已经只保留了上海创智学院助理教授的身份，个人简介中不再提及智元机器人。  其X主页的简介中，同样没有保留智元相关职务。  如果这些变化确实对应着其职务调整，那么罗剑岚很可能已经离开智元机器人。 值得注意的是，此次疑似人事变动出现的时间点也颇为微妙。 就在不久前的2026",
+          "summary_zh": "智元下架了首席科学家罗剑岚  henry 2026-08-07 09:25:40  来源：量子位   智元机器人高管生变！   亨利 发自 凹非寺 量子位 | 公众号 QbitAI  智元机器人高管生变！ 刚刚，量子位发现，智元机器人官网最新的合伙人团队名单中，已经不见原首席科学家罗剑岚的名字。  而在此前的官网名单中，罗剑岚的身份还是： 智元机器人合伙人、高级副总裁兼首席科学家。 2025年9月智元首次对外披露合伙人团队时，罗剑岚与邓泰华、彭志辉、姚卯青等人一同出现在官网，其职务正是合伙人、高级副总裁、首席科学家。  事实上，在此次官网名单发生变化之前，社媒上就已经出现了不少罗剑岚可能离职的消息。 如今，随着他的名字正式从智元官网消失，这一传闻似乎又多了一层佐证。 此外，另外两个变化也值得注意。 目前，罗剑岚的个人主页已经只保留了上海创智学院助理教授的身份，个人简介中不再提及智元机器人。  其X主页的简介中，同样没有保留智元相关职务。  如果这些变化确实对应着其职务调整，那么罗剑岚很可能已经离开智元机器人。 值得注意的是，此次疑似人事变动出现的时间点也颇为微妙。 就在不久前的2026",
+          "publishedAt": "2026-08-07T01:25:40Z",
+          "published_at": "2026-08-07T01:25:40Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "5178b737",
+          "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/467834.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/467834.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商  量子位的朋友们 2026-08-07 09:39:16  来源：量子位   8月6日，PPIO正式推出智能模型网关新功能Fusion 融合模型。 跟仅做简单请求转发的传统 API 网关不同， Fusion 融合模型会将每次调用变成一场“专家会诊”——网关会将复杂任务同时分发给多个各有所长的“专家模型”并行作答，再通过思考编排与交叉验证，由主模型融合生成最终答案。  Fusion 模型以智能优先、兼顾性价比：通过工程化的融合手段，把回答质量稳定在头部旗舰模型梯队，同时把成本控制在中低梯队。在 DRACO 深度研究基准测试中，PPIO 用三个开源模型融合后的评分超越了 Claude Fable 5，而成本仅为后者的十分之一。 Fusion 融合模型证明，智能的提升不再只发生在参数层，它也可以发生在调用层。 为什么 Agent 时代不能只依赖一个模型？ 2026 年，大模型市场进入密集迭代期。Claude、GPT、Kimi、GLM 等主流模型几乎每季度都有新版本发布，排行榜的头部位置频繁更替。对应用开发者而言，可",
+          "summary_zh": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商  量子位的朋友们 2026-08-07 09:39:16  来源：量子位   8月6日，PPIO正式推出智能模型网关新功能Fusion 融合模型。 跟仅做简单请求转发的传统 API 网关不同， Fusion 融合模型会将每次调用变成一场“专家会诊”——网关会将复杂任务同时分发给多个各有所长的“专家模型”并行作答，再通过思考编排与交叉验证，由主模型融合生成最终答案。  Fusion 模型以智能优先、兼顾性价比：通过工程化的融合手段，把回答质量稳定在头部旗舰模型梯队，同时把成本控制在中低梯队。在 DRACO 深度研究基准测试中，PPIO 用三个开源模型融合后的评分超越了 Claude Fable 5，而成本仅为后者的十分之一。 Fusion 融合模型证明，智能的提升不再只发生在参数层，它也可以发生在调用层。 为什么 Agent 时代不能只依赖一个模型？ 2026 年，大模型市场进入密集迭代期。Claude、GPT、Kimi、GLM 等主流模型几乎每季度都有新版本发布，排行榜的头部位置频繁更替。对应用开发者而言，可",
+          "publishedAt": "2026-08-07T01:39:16Z",
+          "published_at": "2026-08-07T01:39:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "00bf9f64",
+          "title": "AI SSD：大模型推理的存储范式转移",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/467840.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/467840.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "AI SSD：大模型推理的存储范式转移  思邈 2026-08-07 10:56:46  来源：量子位   算力、网络、内存与存储开始围绕每个Token协同   允中 发自 凹非寺 量子位 | 公众号 QbitAI  过去两年，AI基础设施的竞争主要围绕GPU数量、芯片算力、HBM带宽和高速网络展开。 但随着大模型进入长上下文、复杂推理和多智能体阶段，决定一套系统能够产出多少有效Token的因素正在变得更加复杂。 GPU依然是算力底座，其实际利用率却越来越取决于模型权重、KV Cache和MoE专家能否在正确的时间到达正确的计算节点。  如果KV Cache无法及时复用，系统就需要重新执行Prefill； 如果MoE专家权重没有在路由发生前进入内存，GPU便可能停下来等待数据； 如果大量推理状态长期占据HBM，又会压缩并发请求和有效批处理的空间。  AI Infra由此正在从“堆叠计算资源”进入“协同计算、网络、内存与存储数据路径”的新阶段。 月之暗面的Mooncake与NVIDIA推出的CMX，构成了这一变化的两个代表性信号。 月之暗面从大规模推理软件架构出发，把分散在集群中的CPU",
+          "summary_zh": "AI SSD：大模型推理的存储范式转移  思邈 2026-08-07 10:56:46  来源：量子位   算力、网络、内存与存储开始围绕每个Token协同   允中 发自 凹非寺 量子位 | 公众号 QbitAI  过去两年，AI基础设施的竞争主要围绕GPU数量、芯片算力、HBM带宽和高速网络展开。 但随着大模型进入长上下文、复杂推理和多智能体阶段，决定一套系统能够产出多少有效Token的因素正在变得更加复杂。 GPU依然是算力底座，其实际利用率却越来越取决于模型权重、KV Cache和MoE专家能否在正确的时间到达正确的计算节点。  如果KV Cache无法及时复用，系统就需要重新执行Prefill； 如果MoE专家权重没有在路由发生前进入内存，GPU便可能停下来等待数据； 如果大量推理状态长期占据HBM，又会压缩并发请求和有效批处理的空间。  AI Infra由此正在从“堆叠计算资源”进入“协同计算、网络、内存与存储数据路径”的新阶段。 月之暗面的Mooncake与NVIDIA推出的CMX，构成了这一变化的两个代表性信号。 月之暗面从大规模推理软件架构出发，把分散在集群中的CPU",
+          "publishedAt": "2026-08-07T02:56:46Z",
+          "published_at": "2026-08-07T02:56:46Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "c5808e63",
+          "title": "离谱！Dario雇专人调查自家员工，",
+          "title_en": "离谱！Dario雇专人调查自家员工，当代「锦衣卫」？",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "离谱！Dario雇专人调查自家员工，当代「锦衣卫」？",
+          "summary_zh": "离谱！Dario雇专人调查自家员工，当代「锦衣卫」？",
+          "publishedAt": "2026-08-07T21:05:06Z",
+          "published_at": "2026-08-07T21:05:06Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "bbadebc6",
+      "title": "产品更新：Coldtea.ai",
+      "title_en": "Coldtea.ai",
+      "url": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Make your software delivery self-driving The f",
+      "summary_zh": "Make your software delivery self-driving The f",
+      "publishedAt": "2026-08-07T07:01:00Z",
+      "published_at": "2026-08-07T07:01:00Z",
+      "votes_count": 397,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "71992bce",
+      "title": "产品更新：Soloop",
+      "title_en": "Soloop",
+      "url": "https://www.producthunt.com/products/soloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/soloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Approval-first Agent OS for solo founders Solo",
+      "summary_zh": "Approval-first Agent OS for solo founders Solo",
+      "publishedAt": "2026-08-07T07:01:00Z",
+      "published_at": "2026-08-07T07:01:00Z",
+      "votes_count": 329,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "371",
+          "name": "Maker Tools",
+          "slug": "maker-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "21da328e",
+      "title": "产品更新：Rindler",
+      "title_en": "Rindler",
+      "url": "https://www.producthunt.com/products/rindler?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/rindler?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Automate the web work your team does by hand R",
+      "summary_zh": "Automate the web work your team does by hand R",
+      "publishedAt": "2026-08-07T07:01:00Z",
+      "published_at": "2026-08-07T07:01:00Z",
+      "votes_count": 212,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9d65f1ce",
+      "title": "产品更新：Nitro 4.0",
+      "title_en": "Nitro 4.0",
+      "url": "https://www.producthunt.com/products/alconost-localization?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/alconost-localization?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The first human translation platform built for",
+      "summary_zh": "The first human translation platform built for",
+      "publishedAt": "2026-08-07T07:01:00Z",
+      "published_at": "2026-08-07T07:01:00Z",
+      "votes_count": 212,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "209",
+          "name": "Languages",
+          "slug": "languages"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "f2d39c3d",
+      "title": "智元下架了首席科学家罗剑岚",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/467730.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/467730.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "智元下架了首席科学家罗剑岚  henry 2026-08-07 09:25:40  来源：量子位   智元机器人高管生变！   亨利 发自 凹非寺 量子位 | 公众号 QbitAI  智元机器人高管生变！ 刚刚，量子位发现，智元机器人官网最新的合伙人团队名单中，已经不见原首席科学家罗剑岚的名字。  而在此前的官网名单中，罗剑岚的身份还是： 智元机器人合伙人、高级副总裁兼首席科学家。 2025年9月智元首次对外披露合伙人团队时，罗剑岚与邓泰华、彭志辉、姚卯青等人一同出现在官网，其职务正是合伙人、高级副总裁、首席科学家。  事实上，在此次官网名单发生变化之前，社媒上就已经出现了不少罗剑岚可能离职的消息。 如今，随着他的名字正式从智元官网消失，这一传闻似乎又多了一层佐证。 此外，另外两个变化也值得注意。 目前，罗剑岚的个人主页已经只保留了上海创智学院助理教授的身份，个人简介中不再提及智元机器人。  其X主页的简介中，同样没有保留智元相关职务。  如果这些变化确实对应着其职务调整，那么罗剑岚很可能已经离开智元机器人。 值得注意的是，此次疑似人事变动出现的时间点也颇为微妙。 就在不久前的2026",
+      "summary_zh": "智元下架了首席科学家罗剑岚  henry 2026-08-07 09:25:40  来源：量子位   智元机器人高管生变！   亨利 发自 凹非寺 量子位 | 公众号 QbitAI  智元机器人高管生变！ 刚刚，量子位发现，智元机器人官网最新的合伙人团队名单中，已经不见原首席科学家罗剑岚的名字。  而在此前的官网名单中，罗剑岚的身份还是： 智元机器人合伙人、高级副总裁兼首席科学家。 2025年9月智元首次对外披露合伙人团队时，罗剑岚与邓泰华、彭志辉、姚卯青等人一同出现在官网，其职务正是合伙人、高级副总裁、首席科学家。  事实上，在此次官网名单发生变化之前，社媒上就已经出现了不少罗剑岚可能离职的消息。 如今，随着他的名字正式从智元官网消失，这一传闻似乎又多了一层佐证。 此外，另外两个变化也值得注意。 目前，罗剑岚的个人主页已经只保留了上海创智学院助理教授的身份，个人简介中不再提及智元机器人。  其X主页的简介中，同样没有保留智元相关职务。  如果这些变化确实对应着其职务调整，那么罗剑岚很可能已经离开智元机器人。 值得注意的是，此次疑似人事变动出现的时间点也颇为微妙。 就在不久前的2026",
+      "publishedAt": "2026-08-07T01:25:40Z",
+      "published_at": "2026-08-07T01:25:40Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "5178b737",
+      "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/467834.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/467834.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商  量子位的朋友们 2026-08-07 09:39:16  来源：量子位   8月6日，PPIO正式推出智能模型网关新功能Fusion 融合模型。 跟仅做简单请求转发的传统 API 网关不同， Fusion 融合模型会将每次调用变成一场“专家会诊”——网关会将复杂任务同时分发给多个各有所长的“专家模型”并行作答，再通过思考编排与交叉验证，由主模型融合生成最终答案。  Fusion 模型以智能优先、兼顾性价比：通过工程化的融合手段，把回答质量稳定在头部旗舰模型梯队，同时把成本控制在中低梯队。在 DRACO 深度研究基准测试中，PPIO 用三个开源模型融合后的评分超越了 Claude Fable 5，而成本仅为后者的十分之一。 Fusion 融合模型证明，智能的提升不再只发生在参数层，它也可以发生在调用层。 为什么 Agent 时代不能只依赖一个模型？ 2026 年，大模型市场进入密集迭代期。Claude、GPT、Kimi、GLM 等主流模型几乎每季度都有新版本发布，排行榜的头部位置频繁更替。对应用开发者而言，可",
+      "summary_zh": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商  量子位的朋友们 2026-08-07 09:39:16  来源：量子位   8月6日，PPIO正式推出智能模型网关新功能Fusion 融合模型。 跟仅做简单请求转发的传统 API 网关不同， Fusion 融合模型会将每次调用变成一场“专家会诊”——网关会将复杂任务同时分发给多个各有所长的“专家模型”并行作答，再通过思考编排与交叉验证，由主模型融合生成最终答案。  Fusion 模型以智能优先、兼顾性价比：通过工程化的融合手段，把回答质量稳定在头部旗舰模型梯队，同时把成本控制在中低梯队。在 DRACO 深度研究基准测试中，PPIO 用三个开源模型融合后的评分超越了 Claude Fable 5，而成本仅为后者的十分之一。 Fusion 融合模型证明，智能的提升不再只发生在参数层，它也可以发生在调用层。 为什么 Agent 时代不能只依赖一个模型？ 2026 年，大模型市场进入密集迭代期。Claude、GPT、Kimi、GLM 等主流模型几乎每季度都有新版本发布，排行榜的头部位置频繁更替。对应用开发者而言，可",
+      "publishedAt": "2026-08-07T01:39:16Z",
+      "published_at": "2026-08-07T01:39:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "00bf9f64",
+      "title": "AI SSD：大模型推理的存储范式转移",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/467840.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/467840.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AI SSD：大模型推理的存储范式转移  思邈 2026-08-07 10:56:46  来源：量子位   算力、网络、内存与存储开始围绕每个Token协同   允中 发自 凹非寺 量子位 | 公众号 QbitAI  过去两年，AI基础设施的竞争主要围绕GPU数量、芯片算力、HBM带宽和高速网络展开。 但随着大模型进入长上下文、复杂推理和多智能体阶段，决定一套系统能够产出多少有效Token的因素正在变得更加复杂。 GPU依然是算力底座，其实际利用率却越来越取决于模型权重、KV Cache和MoE专家能否在正确的时间到达正确的计算节点。  如果KV Cache无法及时复用，系统就需要重新执行Prefill； 如果MoE专家权重没有在路由发生前进入内存，GPU便可能停下来等待数据； 如果大量推理状态长期占据HBM，又会压缩并发请求和有效批处理的空间。  AI Infra由此正在从“堆叠计算资源”进入“协同计算、网络、内存与存储数据路径”的新阶段。 月之暗面的Mooncake与NVIDIA推出的CMX，构成了这一变化的两个代表性信号。 月之暗面从大规模推理软件架构出发，把分散在集群中的CPU",
+      "summary_zh": "AI SSD：大模型推理的存储范式转移  思邈 2026-08-07 10:56:46  来源：量子位   算力、网络、内存与存储开始围绕每个Token协同   允中 发自 凹非寺 量子位 | 公众号 QbitAI  过去两年，AI基础设施的竞争主要围绕GPU数量、芯片算力、HBM带宽和高速网络展开。 但随着大模型进入长上下文、复杂推理和多智能体阶段，决定一套系统能够产出多少有效Token的因素正在变得更加复杂。 GPU依然是算力底座，其实际利用率却越来越取决于模型权重、KV Cache和MoE专家能否在正确的时间到达正确的计算节点。  如果KV Cache无法及时复用，系统就需要重新执行Prefill； 如果MoE专家权重没有在路由发生前进入内存，GPU便可能停下来等待数据； 如果大量推理状态长期占据HBM，又会压缩并发请求和有效批处理的空间。  AI Infra由此正在从“堆叠计算资源”进入“协同计算、网络、内存与存储数据路径”的新阶段。 月之暗面的Mooncake与NVIDIA推出的CMX，构成了这一变化的两个代表性信号。 月之暗面从大规模推理软件架构出发，把分散在集群中的CPU",
+      "publishedAt": "2026-08-07T02:56:46Z",
+      "published_at": "2026-08-07T02:56:46Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "c5808e63",
+      "title": "离谱！Dario雇专人调查自家员工，",
+      "title_en": "离谱！Dario雇专人调查自家员工，当代「锦衣卫」？",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "离谱！Dario雇专人调查自家员工，当代「锦衣卫」？",
+      "summary_zh": "离谱！Dario雇专人调查自家员工，当代「锦衣卫」？",
+      "publishedAt": "2026-08-07T21:05:06Z",
+      "published_at": "2026-08-07T21:05:06Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

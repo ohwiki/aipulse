@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-08-07T09:30:50Z",
-  "generatedAt": "2026-08-07T09:30:50Z",
-  "count": 87,
-  "total": 87,
+  "generated_at": "2026-08-07T21:05:20Z",
+  "generatedAt": "2026-08-07T21:05:20Z",
+  "count": 88,
+  "total": 88,
   "entries": [
+    {
+      "date": "2026-08-08",
+      "generated_at": "2026-08-07T21:05:20Z",
+      "generatedAt": "2026-08-07T21:05:20Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "bbadebc6",
+          "title": "产品更新：Coldtea.ai",
+          "title_en": "Coldtea.ai",
+          "url": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Make your software delivery self-driving The f",
+          "summary_zh": "Make your software delivery self-driving The f",
+          "publishedAt": "2026-08-07T07:01:00Z",
+          "published_at": "2026-08-07T07:01:00Z",
+          "votes_count": 397,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "71992bce",
+          "title": "产品更新：Soloop",
+          "title_en": "Soloop",
+          "url": "https://www.producthunt.com/products/soloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/soloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Approval-first Agent OS for solo founders Solo",
+          "summary_zh": "Approval-first Agent OS for solo founders Solo",
+          "publishedAt": "2026-08-07T07:01:00Z",
+          "published_at": "2026-08-07T07:01:00Z",
+          "votes_count": 329,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "371",
+              "name": "Maker Tools",
+              "slug": "maker-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "21da328e",
+          "title": "产品更新：Rindler",
+          "title_en": "Rindler",
+          "url": "https://www.producthunt.com/products/rindler?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/rindler?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Automate the web work your team does by hand R",
+          "summary_zh": "Automate the web work your team does by hand R",
+          "publishedAt": "2026-08-07T07:01:00Z",
+          "published_at": "2026-08-07T07:01:00Z",
+          "votes_count": 212,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-07",
       "generated_at": "2026-08-07T09:30:50Z",
