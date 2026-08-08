@@ -1,10 +1,157 @@
 {
-  "generated_at": "2026-08-08T09:10:12Z",
-  "generatedAt": "2026-08-08T09:10:12Z",
+  "generated_at": "2026-08-08T20:54:01Z",
+  "generatedAt": "2026-08-08T20:54:01Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 8,
+  "count": 8,
   "items": [
+    {
+      "id": "7966f092",
+      "title": "AI资讯更新：The GTM Co-Fo",
+      "title_en": "The GTM Co-Founder",
+      "url": "https://www.producthunt.com/products/the-gtm-co-founder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/the-gtm-co-founder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Open-source GTM skills for technical founders",
+      "summary_zh": "Open-source GTM skills for technical founders",
+      "publishedAt": "2026-08-08T07:01:00Z",
+      "published_at": "2026-08-08T07:01:00Z",
+      "votes_count": 305,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "72f1e810",
+      "title": "产品更新：AstraPixels",
+      "title_en": "AstraPixels",
+      "url": "https://www.producthunt.com/products/astrapixels?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/astrapixels?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "​​A pixel-art solar system at its real current",
+      "summary_zh": "​​A pixel-art solar system at its real current",
+      "publishedAt": "2026-08-08T07:01:00Z",
+      "published_at": "2026-08-08T07:01:00Z",
+      "votes_count": 223,
+      "featured": true,
+      "topics": [
+        {
+          "id": "21",
+          "name": "Web App",
+          "slug": "web-app"
+        },
+        {
+          "id": "76",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "15ee9eca",
+      "title": "产品更新：Hexis",
+      "title_en": "Hexis",
+      "url": "https://www.producthunt.com/products/bevel-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/bevel-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Git-backed skills, tools & context for AI agen",
+      "summary_zh": "Git-backed skills, tools & context for AI agen",
+      "publishedAt": "2026-08-08T07:01:00Z",
+      "published_at": "2026-08-08T07:01:00Z",
+      "votes_count": 155,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1dd40ac1",
+      "title": "产品更新：Basedash Subscr",
+      "title_en": "Basedash Subscriptions",
+      "url": "https://www.producthunt.com/products/basedash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/basedash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Subscribe to any dashboard. Delivered on sched",
+      "summary_zh": "Subscribe to any dashboard. Delivered on sched",
+      "publishedAt": "2026-08-08T07:01:00Z",
+      "published_at": "2026-08-08T07:01:00Z",
+      "votes_count": 138,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "582",
+          "name": "Data & Analytics",
+          "slug": "data-analytics"
+        },
+        {
+          "id": "774",
+          "name": "Business Intelligence",
+          "slug": "business-intelligence"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "70c158e6",
       "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
@@ -72,9 +219,9 @@
       "score_details": null
     },
     {
-      "id": "c5808e63",
-      "title": "离谱！Dario雇专人调查自家员工，",
-      "title_en": "离谱！Dario雇专人调查自家员工，当代「锦衣卫」？",
+      "id": "254f4fcd",
+      "title": "AI走进实验室：从设计材料到执行实验",
+      "title_en": "AI走进实验室：从设计材料到执行实验，科学发现迎来新伙伴",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -84,10 +231,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "离谱！Dario雇专人调查自家员工，当代「锦衣卫」？",
-      "summary_zh": "离谱！Dario雇专人调查自家员工，当代「锦衣卫」？",
-      "publishedAt": "2026-08-08T09:09:29Z",
-      "published_at": "2026-08-08T09:09:29Z",
+      "summary": "AI走进实验室：从设计材料到执行实验，科学发现迎来新伙伴",
+      "summary_zh": "AI走进实验室：从设计材料到执行实验，科学发现迎来新伙伴",
+      "publishedAt": "2026-08-08T20:53:20Z",
+      "published_at": "2026-08-08T20:53:20Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

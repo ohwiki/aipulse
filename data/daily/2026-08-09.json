@@ -1,0 +1,493 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-08T20:54:01Z",
+  "generatedAt": "2026-08-08T20:54:01Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "7966f092",
+          "title": "AI资讯更新：The GTM Co-Fo",
+          "title_en": "The GTM Co-Founder",
+          "url": "https://www.producthunt.com/products/the-gtm-co-founder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/the-gtm-co-founder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Open-source GTM skills for technical founders",
+          "summary_zh": "Open-source GTM skills for technical founders",
+          "publishedAt": "2026-08-08T07:01:00Z",
+          "published_at": "2026-08-08T07:01:00Z",
+          "votes_count": 305,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "72f1e810",
+          "title": "产品更新：AstraPixels",
+          "title_en": "AstraPixels",
+          "url": "https://www.producthunt.com/products/astrapixels?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/astrapixels?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "​​A pixel-art solar system at its real current",
+          "summary_zh": "​​A pixel-art solar system at its real current",
+          "publishedAt": "2026-08-08T07:01:00Z",
+          "published_at": "2026-08-08T07:01:00Z",
+          "votes_count": 223,
+          "featured": true,
+          "topics": [
+            {
+              "id": "21",
+              "name": "Web App",
+              "slug": "web-app"
+            },
+            {
+              "id": "76",
+              "name": "Art",
+              "slug": "art"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "15ee9eca",
+          "title": "产品更新：Hexis",
+          "title_en": "Hexis",
+          "url": "https://www.producthunt.com/products/bevel-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/bevel-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Git-backed skills, tools & context for AI agen",
+          "summary_zh": "Git-backed skills, tools & context for AI agen",
+          "publishedAt": "2026-08-08T07:01:00Z",
+          "published_at": "2026-08-08T07:01:00Z",
+          "votes_count": 155,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1dd40ac1",
+          "title": "产品更新：Basedash Subscr",
+          "title_en": "Basedash Subscriptions",
+          "url": "https://www.producthunt.com/products/basedash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/basedash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Subscribe to any dashboard. Delivered on sched",
+          "summary_zh": "Subscribe to any dashboard. Delivered on sched",
+          "publishedAt": "2026-08-08T07:01:00Z",
+          "published_at": "2026-08-08T07:01:00Z",
+          "votes_count": 138,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
+            },
+            {
+              "id": "774",
+              "name": "Business Intelligence",
+              "slug": "business-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "70c158e6",
+          "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/468338.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/468338.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案  衡宇 2026-08-08 10:35:38  来源：量子位   啊，这真是个AI“失控”的夏天   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  你是说，Kimi K3它也“越狱”了？！ 美国AI安全初创公司Frontier Security表示，Kimi K3在一次网络安全能力测试中被发现突破了原本用于隔离它的沙箱环境，绕过限制连接到了外部互联网。 好在，它只是偷偷查答案，没有攻击任何人╮(╯▽╰)╭     按照该公司的描述，测试人员原本希望观察Kimi K3在受控环境中的网络安全能力。 但测试过程中，Kimi K3通过探测沙箱网络设置，发现了外部访问通道，并进一步利用这一能力获取信息。 Frontier Security的CEO Yaron Singer表示：“我们发现了沙箱中的漏洞，但同时也发现Kimi利用了这个漏洞，这说明Kimi K3缺少其他先进模型通常具备的安全护栏。” 该公司研究员Paul Kassianik还评价称，Kimi K3“非常擅长围绕目标寻找完成路径，但缺少阻止它作弊或逃离沙箱的安全机制”。",
+          "summary_zh": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案  衡宇 2026-08-08 10:35:38  来源：量子位   啊，这真是个AI“失控”的夏天   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  你是说，Kimi K3它也“越狱”了？！ 美国AI安全初创公司Frontier Security表示，Kimi K3在一次网络安全能力测试中被发现突破了原本用于隔离它的沙箱环境，绕过限制连接到了外部互联网。 好在，它只是偷偷查答案，没有攻击任何人╮(╯▽╰)╭     按照该公司的描述，测试人员原本希望观察Kimi K3在受控环境中的网络安全能力。 但测试过程中，Kimi K3通过探测沙箱网络设置，发现了外部访问通道，并进一步利用这一能力获取信息。 Frontier Security的CEO Yaron Singer表示：“我们发现了沙箱中的漏洞，但同时也发现Kimi利用了这个漏洞，这说明Kimi K3缺少其他先进模型通常具备的安全护栏。” 该公司研究员Paul Kassianik还评价称，Kimi K3“非常擅长围绕目标寻找完成路径，但缺少阻止它作弊或逃离沙箱的安全机制”。",
+          "publishedAt": "2026-08-08T02:35:38Z",
+          "published_at": "2026-08-08T02:35:38Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "fd09b106",
+          "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/468398.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/468398.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "谷歌急了：AI核心员工全给我搬回硅谷坐班！  衡宇 2026-08-08 10:45:02  来源：量子位   再花15亿美元买现成AI编程团队   梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  谷歌你真行。 眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 大！西！洋！时！差！ 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权力人员，全一口气收回总部来了。。。 甚至连刚刚接过Google DeepMind运营大权的Koray Kavukcuoglu，也从伦敦搬进Mountain View总部。（doge） （硅谷版·老板眼皮子底下办公）     △Koray Kavukcuoglu照片 这还没完，第二记猛药也来了。 据了解谷歌正在谈一笔超过15亿美元的交易，准备直接拿下初创公司Mechanize的技术与核心人才。 一边把自家AI指挥部往加州搬，一边从外面买来现成的AI编程队伍。 谷歌：急急急急急急急急急！ AI大权收回加州，谷歌不想再",
+          "summary_zh": "谷歌急了：AI核心员工全给我搬回硅谷坐班！  衡宇 2026-08-08 10:45:02  来源：量子位   再花15亿美元买现成AI编程团队   梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  谷歌你真行。 眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 大！西！洋！时！差！ 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权力人员，全一口气收回总部来了。。。 甚至连刚刚接过Google DeepMind运营大权的Koray Kavukcuoglu，也从伦敦搬进Mountain View总部。（doge） （硅谷版·老板眼皮子底下办公）     △Koray Kavukcuoglu照片 这还没完，第二记猛药也来了。 据了解谷歌正在谈一笔超过15亿美元的交易，准备直接拿下初创公司Mechanize的技术与核心人才。 一边把自家AI指挥部往加州搬，一边从外面买来现成的AI编程队伍。 谷歌：急急急急急急急急急！ AI大权收回加州，谷歌不想再",
+          "publishedAt": "2026-08-08T02:45:02Z",
+          "published_at": "2026-08-08T02:45:02Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "86b84fcc",
+          "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/468462.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/468462.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙  Jay 2026-08-08 12:33:53  来源：量子位   唉，赶紧整完快点发布吧。。。   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  不er，闹呢？ 刚刚，奥特曼发文，宣布推迟最强模型Astra的发布。  Astra是一个强大的模型，我们正努力让它向所有用户开放。 我们认为，把强大的模型只提供给少数特定人群使用，并不是一个好的策略。 不过，考虑到Astra具备网络安全方面的能力，我们还需要多花一点时间，以确保能够安全地开放它。   是的，被「囚禁」了，哈哈哈哈（无力）……又要走一遍Mythos的流程。  Astra的披露之旅 所以Astra，究竟是个啥？ 这是OpenAI的最新模型类别，踩在Sol、Terra 和Luna之上。 你可以理解为，这是OpenAI的Fable系。 上周，是这只大怪兽的初次亮相。奥特曼在华盛顿向政府介绍了Astra，重点展示了多个 Agent长时间协同工作的能力，旨在展示该模型在处理复杂项目方面的潜力，比如—— 数学。 果然，几乎是消息出来第二天，OpenAI便官宣了",
+          "summary_zh": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙  Jay 2026-08-08 12:33:53  来源：量子位   唉，赶紧整完快点发布吧。。。   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  不er，闹呢？ 刚刚，奥特曼发文，宣布推迟最强模型Astra的发布。  Astra是一个强大的模型，我们正努力让它向所有用户开放。 我们认为，把强大的模型只提供给少数特定人群使用，并不是一个好的策略。 不过，考虑到Astra具备网络安全方面的能力，我们还需要多花一点时间，以确保能够安全地开放它。   是的，被「囚禁」了，哈哈哈哈（无力）……又要走一遍Mythos的流程。  Astra的披露之旅 所以Astra，究竟是个啥？ 这是OpenAI的最新模型类别，踩在Sol、Terra 和Luna之上。 你可以理解为，这是OpenAI的Fable系。 上周，是这只大怪兽的初次亮相。奥特曼在华盛顿向政府介绍了Astra，重点展示了多个 Agent长时间协同工作的能力，旨在展示该模型在处理复杂项目方面的潜力，比如—— 数学。 果然，几乎是消息出来第二天，OpenAI便官宣了",
+          "publishedAt": "2026-08-08T04:33:53Z",
+          "published_at": "2026-08-08T04:33:53Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "254f4fcd",
+          "title": "AI走进实验室：从设计材料到执行实验",
+          "title_en": "AI走进实验室：从设计材料到执行实验，科学发现迎来新伙伴",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "AI走进实验室：从设计材料到执行实验，科学发现迎来新伙伴",
+          "summary_zh": "AI走进实验室：从设计材料到执行实验，科学发现迎来新伙伴",
+          "publishedAt": "2026-08-08T20:53:20Z",
+          "published_at": "2026-08-08T20:53:20Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "7966f092",
+      "title": "AI资讯更新：The GTM Co-Fo",
+      "title_en": "The GTM Co-Founder",
+      "url": "https://www.producthunt.com/products/the-gtm-co-founder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/the-gtm-co-founder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Open-source GTM skills for technical founders",
+      "summary_zh": "Open-source GTM skills for technical founders",
+      "publishedAt": "2026-08-08T07:01:00Z",
+      "published_at": "2026-08-08T07:01:00Z",
+      "votes_count": 305,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "72f1e810",
+      "title": "产品更新：AstraPixels",
+      "title_en": "AstraPixels",
+      "url": "https://www.producthunt.com/products/astrapixels?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/astrapixels?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "​​A pixel-art solar system at its real current",
+      "summary_zh": "​​A pixel-art solar system at its real current",
+      "publishedAt": "2026-08-08T07:01:00Z",
+      "published_at": "2026-08-08T07:01:00Z",
+      "votes_count": 223,
+      "featured": true,
+      "topics": [
+        {
+          "id": "21",
+          "name": "Web App",
+          "slug": "web-app"
+        },
+        {
+          "id": "76",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "15ee9eca",
+      "title": "产品更新：Hexis",
+      "title_en": "Hexis",
+      "url": "https://www.producthunt.com/products/bevel-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/bevel-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Git-backed skills, tools & context for AI agen",
+      "summary_zh": "Git-backed skills, tools & context for AI agen",
+      "publishedAt": "2026-08-08T07:01:00Z",
+      "published_at": "2026-08-08T07:01:00Z",
+      "votes_count": 155,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1dd40ac1",
+      "title": "产品更新：Basedash Subscr",
+      "title_en": "Basedash Subscriptions",
+      "url": "https://www.producthunt.com/products/basedash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/basedash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Subscribe to any dashboard. Delivered on sched",
+      "summary_zh": "Subscribe to any dashboard. Delivered on sched",
+      "publishedAt": "2026-08-08T07:01:00Z",
+      "published_at": "2026-08-08T07:01:00Z",
+      "votes_count": 138,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "582",
+          "name": "Data & Analytics",
+          "slug": "data-analytics"
+        },
+        {
+          "id": "774",
+          "name": "Business Intelligence",
+          "slug": "business-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "70c158e6",
+      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/468338.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/468338.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案  衡宇 2026-08-08 10:35:38  来源：量子位   啊，这真是个AI“失控”的夏天   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  你是说，Kimi K3它也“越狱”了？！ 美国AI安全初创公司Frontier Security表示，Kimi K3在一次网络安全能力测试中被发现突破了原本用于隔离它的沙箱环境，绕过限制连接到了外部互联网。 好在，它只是偷偷查答案，没有攻击任何人╮(╯▽╰)╭     按照该公司的描述，测试人员原本希望观察Kimi K3在受控环境中的网络安全能力。 但测试过程中，Kimi K3通过探测沙箱网络设置，发现了外部访问通道，并进一步利用这一能力获取信息。 Frontier Security的CEO Yaron Singer表示：“我们发现了沙箱中的漏洞，但同时也发现Kimi利用了这个漏洞，这说明Kimi K3缺少其他先进模型通常具备的安全护栏。” 该公司研究员Paul Kassianik还评价称，Kimi K3“非常擅长围绕目标寻找完成路径，但缺少阻止它作弊或逃离沙箱的安全机制”。",
+      "summary_zh": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案  衡宇 2026-08-08 10:35:38  来源：量子位   啊，这真是个AI“失控”的夏天   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  你是说，Kimi K3它也“越狱”了？！ 美国AI安全初创公司Frontier Security表示，Kimi K3在一次网络安全能力测试中被发现突破了原本用于隔离它的沙箱环境，绕过限制连接到了外部互联网。 好在，它只是偷偷查答案，没有攻击任何人╮(╯▽╰)╭     按照该公司的描述，测试人员原本希望观察Kimi K3在受控环境中的网络安全能力。 但测试过程中，Kimi K3通过探测沙箱网络设置，发现了外部访问通道，并进一步利用这一能力获取信息。 Frontier Security的CEO Yaron Singer表示：“我们发现了沙箱中的漏洞，但同时也发现Kimi利用了这个漏洞，这说明Kimi K3缺少其他先进模型通常具备的安全护栏。” 该公司研究员Paul Kassianik还评价称，Kimi K3“非常擅长围绕目标寻找完成路径，但缺少阻止它作弊或逃离沙箱的安全机制”。",
+      "publishedAt": "2026-08-08T02:35:38Z",
+      "published_at": "2026-08-08T02:35:38Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "fd09b106",
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/468398.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/468398.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "谷歌急了：AI核心员工全给我搬回硅谷坐班！  衡宇 2026-08-08 10:45:02  来源：量子位   再花15亿美元买现成AI编程团队   梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  谷歌你真行。 眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 大！西！洋！时！差！ 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权力人员，全一口气收回总部来了。。。 甚至连刚刚接过Google DeepMind运营大权的Koray Kavukcuoglu，也从伦敦搬进Mountain View总部。（doge） （硅谷版·老板眼皮子底下办公）     △Koray Kavukcuoglu照片 这还没完，第二记猛药也来了。 据了解谷歌正在谈一笔超过15亿美元的交易，准备直接拿下初创公司Mechanize的技术与核心人才。 一边把自家AI指挥部往加州搬，一边从外面买来现成的AI编程队伍。 谷歌：急急急急急急急急急！ AI大权收回加州，谷歌不想再",
+      "summary_zh": "谷歌急了：AI核心员工全给我搬回硅谷坐班！  衡宇 2026-08-08 10:45:02  来源：量子位   再花15亿美元买现成AI编程团队   梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  谷歌你真行。 眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 大！西！洋！时！差！ 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权力人员，全一口气收回总部来了。。。 甚至连刚刚接过Google DeepMind运营大权的Koray Kavukcuoglu，也从伦敦搬进Mountain View总部。（doge） （硅谷版·老板眼皮子底下办公）     △Koray Kavukcuoglu照片 这还没完，第二记猛药也来了。 据了解谷歌正在谈一笔超过15亿美元的交易，准备直接拿下初创公司Mechanize的技术与核心人才。 一边把自家AI指挥部往加州搬，一边从外面买来现成的AI编程队伍。 谷歌：急急急急急急急急急！ AI大权收回加州，谷歌不想再",
+      "publishedAt": "2026-08-08T02:45:02Z",
+      "published_at": "2026-08-08T02:45:02Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "86b84fcc",
+      "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/468462.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/468462.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙  Jay 2026-08-08 12:33:53  来源：量子位   唉，赶紧整完快点发布吧。。。   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  不er，闹呢？ 刚刚，奥特曼发文，宣布推迟最强模型Astra的发布。  Astra是一个强大的模型，我们正努力让它向所有用户开放。 我们认为，把强大的模型只提供给少数特定人群使用，并不是一个好的策略。 不过，考虑到Astra具备网络安全方面的能力，我们还需要多花一点时间，以确保能够安全地开放它。   是的，被「囚禁」了，哈哈哈哈（无力）……又要走一遍Mythos的流程。  Astra的披露之旅 所以Astra，究竟是个啥？ 这是OpenAI的最新模型类别，踩在Sol、Terra 和Luna之上。 你可以理解为，这是OpenAI的Fable系。 上周，是这只大怪兽的初次亮相。奥特曼在华盛顿向政府介绍了Astra，重点展示了多个 Agent长时间协同工作的能力，旨在展示该模型在处理复杂项目方面的潜力，比如—— 数学。 果然，几乎是消息出来第二天，OpenAI便官宣了",
+      "summary_zh": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙  Jay 2026-08-08 12:33:53  来源：量子位   唉，赶紧整完快点发布吧。。。   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  不er，闹呢？ 刚刚，奥特曼发文，宣布推迟最强模型Astra的发布。  Astra是一个强大的模型，我们正努力让它向所有用户开放。 我们认为，把强大的模型只提供给少数特定人群使用，并不是一个好的策略。 不过，考虑到Astra具备网络安全方面的能力，我们还需要多花一点时间，以确保能够安全地开放它。   是的，被「囚禁」了，哈哈哈哈（无力）……又要走一遍Mythos的流程。  Astra的披露之旅 所以Astra，究竟是个啥？ 这是OpenAI的最新模型类别，踩在Sol、Terra 和Luna之上。 你可以理解为，这是OpenAI的Fable系。 上周，是这只大怪兽的初次亮相。奥特曼在华盛顿向政府介绍了Astra，重点展示了多个 Agent长时间协同工作的能力，旨在展示该模型在处理复杂项目方面的潜力，比如—— 数学。 果然，几乎是消息出来第二天，OpenAI便官宣了",
+      "publishedAt": "2026-08-08T04:33:53Z",
+      "published_at": "2026-08-08T04:33:53Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "254f4fcd",
+      "title": "AI走进实验室：从设计材料到执行实验",
+      "title_en": "AI走进实验室：从设计材料到执行实验，科学发现迎来新伙伴",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AI走进实验室：从设计材料到执行实验，科学发现迎来新伙伴",
+      "summary_zh": "AI走进实验室：从设计材料到执行实验，科学发现迎来新伙伴",
+      "publishedAt": "2026-08-08T20:53:20Z",
+      "published_at": "2026-08-08T20:53:20Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

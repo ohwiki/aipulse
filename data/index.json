@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-08-08T09:10:12Z",
-  "generatedAt": "2026-08-08T09:10:12Z",
-  "count": 88,
-  "total": 88,
+  "generated_at": "2026-08-08T20:54:01Z",
+  "generatedAt": "2026-08-08T20:54:01Z",
+  "count": 89,
+  "total": 89,
   "entries": [
+    {
+      "date": "2026-08-09",
+      "generated_at": "2026-08-08T20:54:01Z",
+      "generatedAt": "2026-08-08T20:54:01Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "7966f092",
+          "title": "AI资讯更新：The GTM Co-Fo",
+          "title_en": "The GTM Co-Founder",
+          "url": "https://www.producthunt.com/products/the-gtm-co-founder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/the-gtm-co-founder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Open-source GTM skills for technical founders",
+          "summary_zh": "Open-source GTM skills for technical founders",
+          "publishedAt": "2026-08-08T07:01:00Z",
+          "published_at": "2026-08-08T07:01:00Z",
+          "votes_count": 305,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "72f1e810",
+          "title": "产品更新：AstraPixels",
+          "title_en": "AstraPixels",
+          "url": "https://www.producthunt.com/products/astrapixels?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/astrapixels?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "​​A pixel-art solar system at its real current",
+          "summary_zh": "​​A pixel-art solar system at its real current",
+          "publishedAt": "2026-08-08T07:01:00Z",
+          "published_at": "2026-08-08T07:01:00Z",
+          "votes_count": 223,
+          "featured": true,
+          "topics": [
+            {
+              "id": "21",
+              "name": "Web App",
+              "slug": "web-app"
+            },
+            {
+              "id": "76",
+              "name": "Art",
+              "slug": "art"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "15ee9eca",
+          "title": "产品更新：Hexis",
+          "title_en": "Hexis",
+          "url": "https://www.producthunt.com/products/bevel-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/bevel-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Git-backed skills, tools & context for AI agen",
+          "summary_zh": "Git-backed skills, tools & context for AI agen",
+          "publishedAt": "2026-08-08T07:01:00Z",
+          "published_at": "2026-08-08T07:01:00Z",
+          "votes_count": 155,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-08",
       "generated_at": "2026-08-08T09:10:12Z",
