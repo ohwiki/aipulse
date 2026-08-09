@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-08-09T09:10:35Z",
-  "generatedAt": "2026-08-09T09:10:35Z",
-  "count": 89,
-  "total": 89,
+  "generated_at": "2026-08-09T20:58:24Z",
+  "generatedAt": "2026-08-09T20:58:24Z",
+  "count": 90,
+  "total": 90,
   "entries": [
+    {
+      "date": "2026-08-10",
+      "generated_at": "2026-08-09T20:58:24Z",
+      "generatedAt": "2026-08-09T20:58:24Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "1a512282",
+          "title": "产品更新：Omniwork",
+          "title_en": "Omniwork",
+          "url": "https://www.producthunt.com/products/omniwork-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/omniwork-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The Creative Agent OS — create better with des",
+          "summary_zh": "The Creative Agent OS — create better with des",
+          "publishedAt": "2026-08-09T07:01:00Z",
+          "published_at": "2026-08-09T07:01:00Z",
+          "votes_count": 324,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "845",
+              "name": "Social media marketing",
+              "slug": "social-media-marketing"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8c70a4ca",
+          "title": "产品更新：SoloUno",
+          "title_en": "SoloUno",
+          "url": "https://www.producthunt.com/products/solouno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/solouno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Take control of hair pulling, nail biting & sk",
+          "summary_zh": "Take control of hair pulling, nail biting & sk",
+          "publishedAt": "2026-08-09T07:01:00Z",
+          "published_at": "2026-08-09T07:01:00Z",
+          "votes_count": 239,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "817",
+              "name": "Health",
+              "slug": "health"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "a1131482",
+          "title": "产品更新：Proxy Tester by",
+          "title_en": "Proxy Tester by ScrapeOps",
+          "url": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Benchmark proxies for reliable, target-specifi",
+          "summary_zh": "Benchmark proxies for reliable, target-specifi",
+          "publishedAt": "2026-08-09T07:01:00Z",
+          "published_at": "2026-08-09T07:01:00Z",
+          "votes_count": 148,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-09",
       "generated_at": "2026-08-09T09:10:35Z",

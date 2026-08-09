@@ -1,10 +1,162 @@
 {
-  "generated_at": "2026-08-09T09:10:35Z",
-  "generatedAt": "2026-08-09T09:10:35Z",
+  "generated_at": "2026-08-09T20:58:24Z",
+  "generatedAt": "2026-08-09T20:58:24Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 8,
+  "count": 8,
   "items": [
+    {
+      "id": "1a512282",
+      "title": "产品更新：Omniwork",
+      "title_en": "Omniwork",
+      "url": "https://www.producthunt.com/products/omniwork-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/omniwork-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The Creative Agent OS — create better with des",
+      "summary_zh": "The Creative Agent OS — create better with des",
+      "publishedAt": "2026-08-09T07:01:00Z",
+      "published_at": "2026-08-09T07:01:00Z",
+      "votes_count": 324,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "845",
+          "name": "Social media marketing",
+          "slug": "social-media-marketing"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8c70a4ca",
+      "title": "产品更新：SoloUno",
+      "title_en": "SoloUno",
+      "url": "https://www.producthunt.com/products/solouno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/solouno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Take control of hair pulling, nail biting & sk",
+      "summary_zh": "Take control of hair pulling, nail biting & sk",
+      "publishedAt": "2026-08-09T07:01:00Z",
+      "published_at": "2026-08-09T07:01:00Z",
+      "votes_count": 239,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "id": "817",
+          "name": "Health",
+          "slug": "health"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a1131482",
+      "title": "产品更新：Proxy Tester by",
+      "title_en": "Proxy Tester by ScrapeOps",
+      "url": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Benchmark proxies for reliable, target-specifi",
+      "summary_zh": "Benchmark proxies for reliable, target-specifi",
+      "publishedAt": "2026-08-09T07:01:00Z",
+      "published_at": "2026-08-09T07:01:00Z",
+      "votes_count": 148,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b03303d8",
+      "title": "产品更新：AgentConnect",
+      "title_en": "AgentConnect",
+      "url": "https://www.producthunt.com/products/agentconnect?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/agentconnect?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Tag any agent, wherever work happens. AgentCon",
+      "summary_zh": "Tag any agent, wherever work happens. AgentCon",
+      "publishedAt": "2026-08-09T07:01:00Z",
+      "published_at": "2026-08-09T07:01:00Z",
+      "votes_count": 140,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "daf6602c",
       "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
@@ -72,9 +224,9 @@
       "score_details": null
     },
     {
-      "id": "19824356",
-      "title": "最新爆料：哈萨比斯竟然也想走，但谷歌",
-      "title_en": "最新爆料：哈萨比斯竟然也想走，但谷歌怕了……",
+      "id": "af689263",
+      "title": "揭秘！Agent潜伏两个月联手作案，",
+      "title_en": "揭秘！Agent潜伏两个月联手作案，OpenAI还原安全事故全过程",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -84,10 +236,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "最新爆料：哈萨比斯竟然也想走，但谷歌怕了……",
-      "summary_zh": "最新爆料：哈萨比斯竟然也想走，但谷歌怕了……",
-      "publishedAt": "2026-08-09T09:10:00Z",
-      "published_at": "2026-08-09T09:10:00Z",
+      "summary": "揭秘！Agent潜伏两个月联手作案，OpenAI还原安全事故全过程",
+      "summary_zh": "揭秘！Agent潜伏两个月联手作案，OpenAI还原安全事故全过程",
+      "publishedAt": "2026-08-09T20:57:28Z",
+      "published_at": "2026-08-09T20:57:28Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
