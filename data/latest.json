@@ -1,10 +1,162 @@
 {
-  "generated_at": "2026-08-10T09:56:45Z",
-  "generatedAt": "2026-08-10T09:56:45Z",
+  "generated_at": "2026-08-10T21:08:04Z",
+  "generatedAt": "2026-08-10T21:08:04Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 8,
+  "count": 8,
   "items": [
+    {
+      "id": "332dff52",
+      "title": "产品更新：oqoqo",
+      "title_en": "oqoqo",
+      "url": "https://www.producthunt.com/products/oqoqo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/oqoqo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build evals and custom benchmarks for real-wor",
+      "summary_zh": "Build evals and custom benchmarks for real-wor",
+      "publishedAt": "2026-08-10T07:01:00Z",
+      "published_at": "2026-08-10T07:01:00Z",
+      "votes_count": 292,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d9df2aa8",
+      "title": "产品更新：Portfolio Lab",
+      "title_en": "Portfolio Lab",
+      "url": "https://www.producthunt.com/products/portfolio-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/portfolio-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI investing, done responsibly AI made buildin",
+      "summary_zh": "AI investing, done responsibly AI made buildin",
+      "publishedAt": "2026-08-10T07:01:00Z",
+      "published_at": "2026-08-10T07:01:00Z",
+      "votes_count": 259,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "203",
+          "name": "Investing",
+          "slug": "investing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "45dd3b45",
+      "title": "产品更新：Paritok",
+      "title_en": "Paritok",
+      "url": "https://www.producthunt.com/products/paritok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/paritok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Spend up to 85% less and run 3× longer coding",
+      "summary_zh": "Spend up to 85% less and run 3× longer coding",
+      "publishedAt": "2026-08-10T07:01:00Z",
+      "published_at": "2026-08-10T07:01:00Z",
+      "votes_count": 225,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "829b18f0",
+      "title": "产品更新：SecondBrain Not",
+      "title_en": "SecondBrain Note by GenSpark",
+      "url": "https://www.producthunt.com/products/genspark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/genspark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A MagSafe AI Recorder That Acts for You A card",
+      "summary_zh": "A MagSafe AI Recorder That Acts for You A card",
+      "publishedAt": "2026-08-10T07:01:00Z",
+      "published_at": "2026-08-10T07:01:00Z",
+      "votes_count": 192,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "252",
+          "name": "Meetings",
+          "slug": "meetings"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "0de90646",
       "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
@@ -72,9 +224,9 @@
       "score_details": null
     },
     {
-      "id": "fdbc4961",
-      "title": "ECCV 2026｜自驾VLA Sc",
-      "title_en": "ECCV 2026｜自驾VLA Scaling有戏了，北航清华DriveTeach-VLA：用图像轨迹打通驾驶场景与基模预训练",
+      "id": "941184a8",
+      "title": "比李飞飞的T-Rex更进一步：戴盟给",
+      "title_en": "比李飞飞的T-Rex更进一步：戴盟给机器人装上了「物理交互脑」",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -84,10 +236,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "ECCV 2026｜自驾VLA Scaling有戏了，北航清华DriveTeach-VLA：",
-      "summary_zh": "ECCV 2026｜自驾VLA Scaling有戏了，北航清华DriveTeach-VLA：",
-      "publishedAt": "2026-08-10T09:56:01Z",
-      "published_at": "2026-08-10T09:56:01Z",
+      "summary": "比李飞飞的T-Rex更进一步：戴盟给机器人装上了「物理交互脑」",
+      "summary_zh": "比李飞飞的T-Rex更进一步：戴盟给机器人装上了「物理交互脑」",
+      "publishedAt": "2026-08-10T21:07:12Z",
+      "published_at": "2026-08-10T21:07:12Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

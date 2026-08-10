@@ -1,0 +1,503 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-10T21:08:04Z",
+  "generatedAt": "2026-08-10T21:08:04Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "332dff52",
+          "title": "产品更新：oqoqo",
+          "title_en": "oqoqo",
+          "url": "https://www.producthunt.com/products/oqoqo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/oqoqo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Build evals and custom benchmarks for real-wor",
+          "summary_zh": "Build evals and custom benchmarks for real-wor",
+          "publishedAt": "2026-08-10T07:01:00Z",
+          "published_at": "2026-08-10T07:01:00Z",
+          "votes_count": 292,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d9df2aa8",
+          "title": "产品更新：Portfolio Lab",
+          "title_en": "Portfolio Lab",
+          "url": "https://www.producthunt.com/products/portfolio-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/portfolio-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI investing, done responsibly AI made buildin",
+          "summary_zh": "AI investing, done responsibly AI made buildin",
+          "publishedAt": "2026-08-10T07:01:00Z",
+          "published_at": "2026-08-10T07:01:00Z",
+          "votes_count": 259,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "203",
+              "name": "Investing",
+              "slug": "investing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "45dd3b45",
+          "title": "产品更新：Paritok",
+          "title_en": "Paritok",
+          "url": "https://www.producthunt.com/products/paritok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/paritok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Spend up to 85% less and run 3× longer coding",
+          "summary_zh": "Spend up to 85% less and run 3× longer coding",
+          "publishedAt": "2026-08-10T07:01:00Z",
+          "published_at": "2026-08-10T07:01:00Z",
+          "votes_count": 225,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "829b18f0",
+          "title": "产品更新：SecondBrain Not",
+          "title_en": "SecondBrain Note by GenSpark",
+          "url": "https://www.producthunt.com/products/genspark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/genspark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A MagSafe AI Recorder That Acts for You A card",
+          "summary_zh": "A MagSafe AI Recorder That Acts for You A card",
+          "publishedAt": "2026-08-10T07:01:00Z",
+          "published_at": "2026-08-10T07:01:00Z",
+          "votes_count": 192,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "0de90646",
+          "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/469076.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/469076.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知  田, 晏林 2026-08-10 09:12:33  来源：量子位   从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能圈，又传来两条重磅消息。 8月6日，Om AI联汇完成数亿元融资，前海母基金领投。 同一天，该公司旗下全球首款端侧原生模型VLX-Seek 1.5宣布正式开源。    表面看，这是融资、开源两件事。 资本在下注一种新路线，开发者正在获得一个新入口。 但放在一起看，很难不让人想起20年前亚马逊AWS开启云计算时代的那一刻。 当年，AWS一边全面开放API吸引海量开发者接入，一边获得资本投入验证路线价值。 最终，云计算没有成为简单的服务器租赁生意，而是演变成一套新的基础设施范式。 如今的物理AI，也在寻找自己的「原生时刻」。 Om AI联汇定义了一种怎样的范式？在物理AI的全局坐标轴中，它处于什么位置？ 全球物理AI，图谱更新 过去几年，AI行业的竞争经常围绕更大的模型、更多的数据、更",
+          "summary_zh": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知  田, 晏林 2026-08-10 09:12:33  来源：量子位   从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能圈，又传来两条重磅消息。 8月6日，Om AI联汇完成数亿元融资，前海母基金领投。 同一天，该公司旗下全球首款端侧原生模型VLX-Seek 1.5宣布正式开源。    表面看，这是融资、开源两件事。 资本在下注一种新路线，开发者正在获得一个新入口。 但放在一起看，很难不让人想起20年前亚马逊AWS开启云计算时代的那一刻。 当年，AWS一边全面开放API吸引海量开发者接入，一边获得资本投入验证路线价值。 最终，云计算没有成为简单的服务器租赁生意，而是演变成一套新的基础设施范式。 如今的物理AI，也在寻找自己的「原生时刻」。 Om AI联汇定义了一种怎样的范式？在物理AI的全局坐标轴中，它处于什么位置？ 全球物理AI，图谱更新 过去几年，AI行业的竞争经常围绕更大的模型、更多的数据、更",
+          "publishedAt": "2026-08-10T01:12:33Z",
+          "published_at": "2026-08-10T01:12:33Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "d051b45b",
+          "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/469213.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/469213.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只  田, 晏林 2026-08-10 09:34:10  来源：量子位   全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。 需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  这是连马斯克都亲自盖章、公认最难啃的一块「硬骨头」。 灵巧手。 别看小小一只，内部却集成了控制算法、电机驱动、散热能耗、触觉感知、材料寿命等一整套工程体系。    但硬件尚未成熟，劝退了一些玩家。 可对资本来说，痛点就是机遇。 据量子位不完全统计，今年上半年，灵巧手相关企业融资额超200亿，成为今年具身智能赛道最热的风口之一。 我们把业内关注度较高的10家、以灵巧手为主要业务的公司单独拉个表。 粗略估算，1~6月，这些企业新增融资额近80亿元，投后估值加起来超750亿元。    资本正在重新评估这只机械手的价值。 其中，灵心巧手成为最受关注的案例。6月传出估值高达60亿美元（约合人民币410亿元）。 啥概念？不少头部人形机器人整机公司都没",
+          "summary_zh": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只  田, 晏林 2026-08-10 09:34:10  来源：量子位   全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。 需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  这是连马斯克都亲自盖章、公认最难啃的一块「硬骨头」。 灵巧手。 别看小小一只，内部却集成了控制算法、电机驱动、散热能耗、触觉感知、材料寿命等一整套工程体系。    但硬件尚未成熟，劝退了一些玩家。 可对资本来说，痛点就是机遇。 据量子位不完全统计，今年上半年，灵巧手相关企业融资额超200亿，成为今年具身智能赛道最热的风口之一。 我们把业内关注度较高的10家、以灵巧手为主要业务的公司单独拉个表。 粗略估算，1~6月，这些企业新增融资额近80亿元，投后估值加起来超750亿元。    资本正在重新评估这只机械手的价值。 其中，灵心巧手成为最受关注的案例。6月传出估值高达60亿美元（约合人民币410亿元）。 啥概念？不少头部人形机器人整机公司都没",
+          "publishedAt": "2026-08-10T01:34:10Z",
+          "published_at": "2026-08-10T01:34:10Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "91a4d894",
+          "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/469454.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/469454.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒  量子位的朋友们 2026-08-10 10:25:55  来源：量子位   近日，墨芯人工智能（以下简称“墨芯”）正式成立“墨芯稀疏计算产学研联盟”（以下简称“联盟”）。这是墨芯发展进程中的重要里程碑，标志着公司技术战略迈向开放协同、生态共建的新阶段。联盟将以产学研深度融合的方式，推动稀疏计算的产业化落地，助力推进中国AI算力下一代的新范式。  当前，AI Token经济正进入爆发式增长阶段。随着大模型API调用、智能体交互、多模态内容生成等场景快速普及，全球日均Token生成与消耗量呈指数级攀升——据行业测算，仅我国AI服务的日均Token处理量已从2024年初的千亿级跃升至2026年的百万亿级，两年间增长逾千倍。Token作为AI服务的“基础货币”，其海量流通直接推高了算力需求与推理成本，算力产业正从“规模扩张”转向“效能竞争”，算力瓶颈已从单芯片性能局限演变为集群级系统性挑战。在此背景下，稀疏计算不再是小众前沿技术，而是支撑大模型规模化落地的关键路径与产业必选项——通过激活模型与数据中的稀疏特性，可显著提升算力资源利用效率，",
+          "summary_zh": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒  量子位的朋友们 2026-08-10 10:25:55  来源：量子位   近日，墨芯人工智能（以下简称“墨芯”）正式成立“墨芯稀疏计算产学研联盟”（以下简称“联盟”）。这是墨芯发展进程中的重要里程碑，标志着公司技术战略迈向开放协同、生态共建的新阶段。联盟将以产学研深度融合的方式，推动稀疏计算的产业化落地，助力推进中国AI算力下一代的新范式。  当前，AI Token经济正进入爆发式增长阶段。随着大模型API调用、智能体交互、多模态内容生成等场景快速普及，全球日均Token生成与消耗量呈指数级攀升——据行业测算，仅我国AI服务的日均Token处理量已从2024年初的千亿级跃升至2026年的百万亿级，两年间增长逾千倍。Token作为AI服务的“基础货币”，其海量流通直接推高了算力需求与推理成本，算力产业正从“规模扩张”转向“效能竞争”，算力瓶颈已从单芯片性能局限演变为集群级系统性挑战。在此背景下，稀疏计算不再是小众前沿技术，而是支撑大模型规模化落地的关键路径与产业必选项——通过激活模型与数据中的稀疏特性，可显著提升算力资源利用效率，",
+          "publishedAt": "2026-08-10T02:25:55Z",
+          "published_at": "2026-08-10T02:25:55Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "941184a8",
+          "title": "比李飞飞的T-Rex更进一步：戴盟给",
+          "title_en": "比李飞飞的T-Rex更进一步：戴盟给机器人装上了「物理交互脑」",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "比李飞飞的T-Rex更进一步：戴盟给机器人装上了「物理交互脑」",
+          "summary_zh": "比李飞飞的T-Rex更进一步：戴盟给机器人装上了「物理交互脑」",
+          "publishedAt": "2026-08-10T21:07:12Z",
+          "published_at": "2026-08-10T21:07:12Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "332dff52",
+      "title": "产品更新：oqoqo",
+      "title_en": "oqoqo",
+      "url": "https://www.producthunt.com/products/oqoqo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/oqoqo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build evals and custom benchmarks for real-wor",
+      "summary_zh": "Build evals and custom benchmarks for real-wor",
+      "publishedAt": "2026-08-10T07:01:00Z",
+      "published_at": "2026-08-10T07:01:00Z",
+      "votes_count": 292,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d9df2aa8",
+      "title": "产品更新：Portfolio Lab",
+      "title_en": "Portfolio Lab",
+      "url": "https://www.producthunt.com/products/portfolio-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/portfolio-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI investing, done responsibly AI made buildin",
+      "summary_zh": "AI investing, done responsibly AI made buildin",
+      "publishedAt": "2026-08-10T07:01:00Z",
+      "published_at": "2026-08-10T07:01:00Z",
+      "votes_count": 259,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "203",
+          "name": "Investing",
+          "slug": "investing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "45dd3b45",
+      "title": "产品更新：Paritok",
+      "title_en": "Paritok",
+      "url": "https://www.producthunt.com/products/paritok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/paritok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Spend up to 85% less and run 3× longer coding",
+      "summary_zh": "Spend up to 85% less and run 3× longer coding",
+      "publishedAt": "2026-08-10T07:01:00Z",
+      "published_at": "2026-08-10T07:01:00Z",
+      "votes_count": 225,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "829b18f0",
+      "title": "产品更新：SecondBrain Not",
+      "title_en": "SecondBrain Note by GenSpark",
+      "url": "https://www.producthunt.com/products/genspark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/genspark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A MagSafe AI Recorder That Acts for You A card",
+      "summary_zh": "A MagSafe AI Recorder That Acts for You A card",
+      "publishedAt": "2026-08-10T07:01:00Z",
+      "published_at": "2026-08-10T07:01:00Z",
+      "votes_count": 192,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "252",
+          "name": "Meetings",
+          "slug": "meetings"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "0de90646",
+      "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/469076.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/469076.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知  田, 晏林 2026-08-10 09:12:33  来源：量子位   从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能圈，又传来两条重磅消息。 8月6日，Om AI联汇完成数亿元融资，前海母基金领投。 同一天，该公司旗下全球首款端侧原生模型VLX-Seek 1.5宣布正式开源。    表面看，这是融资、开源两件事。 资本在下注一种新路线，开发者正在获得一个新入口。 但放在一起看，很难不让人想起20年前亚马逊AWS开启云计算时代的那一刻。 当年，AWS一边全面开放API吸引海量开发者接入，一边获得资本投入验证路线价值。 最终，云计算没有成为简单的服务器租赁生意，而是演变成一套新的基础设施范式。 如今的物理AI，也在寻找自己的「原生时刻」。 Om AI联汇定义了一种怎样的范式？在物理AI的全局坐标轴中，它处于什么位置？ 全球物理AI，图谱更新 过去几年，AI行业的竞争经常围绕更大的模型、更多的数据、更",
+      "summary_zh": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知  田, 晏林 2026-08-10 09:12:33  来源：量子位   从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能圈，又传来两条重磅消息。 8月6日，Om AI联汇完成数亿元融资，前海母基金领投。 同一天，该公司旗下全球首款端侧原生模型VLX-Seek 1.5宣布正式开源。    表面看，这是融资、开源两件事。 资本在下注一种新路线，开发者正在获得一个新入口。 但放在一起看，很难不让人想起20年前亚马逊AWS开启云计算时代的那一刻。 当年，AWS一边全面开放API吸引海量开发者接入，一边获得资本投入验证路线价值。 最终，云计算没有成为简单的服务器租赁生意，而是演变成一套新的基础设施范式。 如今的物理AI，也在寻找自己的「原生时刻」。 Om AI联汇定义了一种怎样的范式？在物理AI的全局坐标轴中，它处于什么位置？ 全球物理AI，图谱更新 过去几年，AI行业的竞争经常围绕更大的模型、更多的数据、更",
+      "publishedAt": "2026-08-10T01:12:33Z",
+      "published_at": "2026-08-10T01:12:33Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "d051b45b",
+      "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/469213.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/469213.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只  田, 晏林 2026-08-10 09:34:10  来源：量子位   全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。 需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  这是连马斯克都亲自盖章、公认最难啃的一块「硬骨头」。 灵巧手。 别看小小一只，内部却集成了控制算法、电机驱动、散热能耗、触觉感知、材料寿命等一整套工程体系。    但硬件尚未成熟，劝退了一些玩家。 可对资本来说，痛点就是机遇。 据量子位不完全统计，今年上半年，灵巧手相关企业融资额超200亿，成为今年具身智能赛道最热的风口之一。 我们把业内关注度较高的10家、以灵巧手为主要业务的公司单独拉个表。 粗略估算，1~6月，这些企业新增融资额近80亿元，投后估值加起来超750亿元。    资本正在重新评估这只机械手的价值。 其中，灵心巧手成为最受关注的案例。6月传出估值高达60亿美元（约合人民币410亿元）。 啥概念？不少头部人形机器人整机公司都没",
+      "summary_zh": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只  田, 晏林 2026-08-10 09:34:10  来源：量子位   全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。 需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  这是连马斯克都亲自盖章、公认最难啃的一块「硬骨头」。 灵巧手。 别看小小一只，内部却集成了控制算法、电机驱动、散热能耗、触觉感知、材料寿命等一整套工程体系。    但硬件尚未成熟，劝退了一些玩家。 可对资本来说，痛点就是机遇。 据量子位不完全统计，今年上半年，灵巧手相关企业融资额超200亿，成为今年具身智能赛道最热的风口之一。 我们把业内关注度较高的10家、以灵巧手为主要业务的公司单独拉个表。 粗略估算，1~6月，这些企业新增融资额近80亿元，投后估值加起来超750亿元。    资本正在重新评估这只机械手的价值。 其中，灵心巧手成为最受关注的案例。6月传出估值高达60亿美元（约合人民币410亿元）。 啥概念？不少头部人形机器人整机公司都没",
+      "publishedAt": "2026-08-10T01:34:10Z",
+      "published_at": "2026-08-10T01:34:10Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "91a4d894",
+      "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/469454.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/469454.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒  量子位的朋友们 2026-08-10 10:25:55  来源：量子位   近日，墨芯人工智能（以下简称“墨芯”）正式成立“墨芯稀疏计算产学研联盟”（以下简称“联盟”）。这是墨芯发展进程中的重要里程碑，标志着公司技术战略迈向开放协同、生态共建的新阶段。联盟将以产学研深度融合的方式，推动稀疏计算的产业化落地，助力推进中国AI算力下一代的新范式。  当前，AI Token经济正进入爆发式增长阶段。随着大模型API调用、智能体交互、多模态内容生成等场景快速普及，全球日均Token生成与消耗量呈指数级攀升——据行业测算，仅我国AI服务的日均Token处理量已从2024年初的千亿级跃升至2026年的百万亿级，两年间增长逾千倍。Token作为AI服务的“基础货币”，其海量流通直接推高了算力需求与推理成本，算力产业正从“规模扩张”转向“效能竞争”，算力瓶颈已从单芯片性能局限演变为集群级系统性挑战。在此背景下，稀疏计算不再是小众前沿技术，而是支撑大模型规模化落地的关键路径与产业必选项——通过激活模型与数据中的稀疏特性，可显著提升算力资源利用效率，",
+      "summary_zh": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒  量子位的朋友们 2026-08-10 10:25:55  来源：量子位   近日，墨芯人工智能（以下简称“墨芯”）正式成立“墨芯稀疏计算产学研联盟”（以下简称“联盟”）。这是墨芯发展进程中的重要里程碑，标志着公司技术战略迈向开放协同、生态共建的新阶段。联盟将以产学研深度融合的方式，推动稀疏计算的产业化落地，助力推进中国AI算力下一代的新范式。  当前，AI Token经济正进入爆发式增长阶段。随着大模型API调用、智能体交互、多模态内容生成等场景快速普及，全球日均Token生成与消耗量呈指数级攀升——据行业测算，仅我国AI服务的日均Token处理量已从2024年初的千亿级跃升至2026年的百万亿级，两年间增长逾千倍。Token作为AI服务的“基础货币”，其海量流通直接推高了算力需求与推理成本，算力产业正从“规模扩张”转向“效能竞争”，算力瓶颈已从单芯片性能局限演变为集群级系统性挑战。在此背景下，稀疏计算不再是小众前沿技术，而是支撑大模型规模化落地的关键路径与产业必选项——通过激活模型与数据中的稀疏特性，可显著提升算力资源利用效率，",
+      "publishedAt": "2026-08-10T02:25:55Z",
+      "published_at": "2026-08-10T02:25:55Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "941184a8",
+      "title": "比李飞飞的T-Rex更进一步：戴盟给",
+      "title_en": "比李飞飞的T-Rex更进一步：戴盟给机器人装上了「物理交互脑」",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "比李飞飞的T-Rex更进一步：戴盟给机器人装上了「物理交互脑」",
+      "summary_zh": "比李飞飞的T-Rex更进一步：戴盟给机器人装上了「物理交互脑」",
+      "publishedAt": "2026-08-10T21:07:12Z",
+      "published_at": "2026-08-10T21:07:12Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
