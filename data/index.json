@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-08-09T20:58:24Z",
-  "generatedAt": "2026-08-09T20:58:24Z",
+  "generated_at": "2026-08-10T09:56:45Z",
+  "generatedAt": "2026-08-10T09:56:45Z",
   "count": 90,
   "total": 90,
   "entries": [
     {
       "date": "2026-08-10",
-      "generated_at": "2026-08-09T20:58:24Z",
-      "generatedAt": "2026-08-09T20:58:24Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-08-10T09:56:45Z",
+      "generatedAt": "2026-08-10T09:56:45Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "1a512282",
-          "title": "产品更新：Omniwork",
-          "title_en": "Omniwork",
-          "url": "https://www.producthunt.com/products/omniwork-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "fdbc4961",
+          "title": "ECCV 2026｜自驾VLA Sc",
+          "title_en": "ECCV 2026｜自驾VLA Scaling有戏了，北航清华DriveTeach-VLA：用图像轨迹打通驾驶场景与基模预训练",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/omniwork-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The Creative Agent OS — create better with des",
-          "summary_zh": "The Creative Agent OS — create better with des",
-          "publishedAt": "2026-08-09T07:01:00Z",
-          "published_at": "2026-08-09T07:01:00Z",
-          "votes_count": 324,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "845",
-              "name": "Social media marketing",
-              "slug": "social-media-marketing"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "ECCV 2026｜自驾VLA Scaling有戏了，北航清华DriveTeach-VLA：",
+          "summary_zh": "ECCV 2026｜自驾VLA Scaling有戏了，北航清华DriveTeach-VLA：",
+          "publishedAt": "2026-08-10T09:56:01Z",
+          "published_at": "2026-08-10T09:56:01Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "8c70a4ca",
-          "title": "产品更新：SoloUno",
-          "title_en": "SoloUno",
-          "url": "https://www.producthunt.com/products/solouno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "91a4d894",
+          "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/469454.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/solouno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Take control of hair pulling, nail biting & sk",
-          "summary_zh": "Take control of hair pulling, nail biting & sk",
-          "publishedAt": "2026-08-09T07:01:00Z",
-          "published_at": "2026-08-09T07:01:00Z",
-          "votes_count": 239,
-          "featured": true,
-          "topics": [
-            {
-              "id": "2",
-              "name": "Android",
-              "slug": "android"
-            },
-            {
-              "id": "8",
-              "name": "iOS",
-              "slug": "ios"
-            },
-            {
-              "id": "817",
-              "name": "Health",
-              "slug": "health"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/469454.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒  量子位的朋友们 2026-08-10 10:25:55  来源：量子位   近日，墨芯人工智能（以下简称“墨芯”）正式成立“墨芯稀疏计算产学研联盟”（以下简称“联盟”）。这是墨芯发展进程中的重要里程碑，标志着公司技术战略迈向开放协同、生态共建的新阶段。联盟将以产学研深度融合的方式，推动稀疏计算的产业化落地，助力推进中国AI算力下一代的新范式。  当前，AI Token经济正进入爆发式增长阶段。随着大模型API调用、智能体交互、多模态内容生成等场景快速普及，全球日均Token生成与消耗量呈指数级攀升——据行业测算，仅我国AI服务的日均Token处理量已从2024年初的千亿级跃升至2026年的百万亿级，两年间增长逾千倍。Token作为AI服务的“基础货币”，其海量流通直接推高了算力需求与推理成本，算力产业正从“规模扩张”转向“效能竞争”，算力瓶颈已从单芯片性能局限演变为集群级系统性挑战。在此背景下，稀疏计算不再是小众前沿技术，而是支撑大模型规模化落地的关键路径与产业必选项——通过激活模型与数据中的稀疏特性，可显著提升算力资源利用效率，",
+          "summary_zh": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒  量子位的朋友们 2026-08-10 10:25:55  来源：量子位   近日，墨芯人工智能（以下简称“墨芯”）正式成立“墨芯稀疏计算产学研联盟”（以下简称“联盟”）。这是墨芯发展进程中的重要里程碑，标志着公司技术战略迈向开放协同、生态共建的新阶段。联盟将以产学研深度融合的方式，推动稀疏计算的产业化落地，助力推进中国AI算力下一代的新范式。  当前，AI Token经济正进入爆发式增长阶段。随着大模型API调用、智能体交互、多模态内容生成等场景快速普及，全球日均Token生成与消耗量呈指数级攀升——据行业测算，仅我国AI服务的日均Token处理量已从2024年初的千亿级跃升至2026年的百万亿级，两年间增长逾千倍。Token作为AI服务的“基础货币”，其海量流通直接推高了算力需求与推理成本，算力产业正从“规模扩张”转向“效能竞争”，算力瓶颈已从单芯片性能局限演变为集群级系统性挑战。在此背景下，稀疏计算不再是小众前沿技术，而是支撑大模型规模化落地的关键路径与产业必选项——通过激活模型与数据中的稀疏特性，可显著提升算力资源利用效率，",
+          "publishedAt": "2026-08-10T02:25:55Z",
+          "published_at": "2026-08-10T02:25:55Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "a1131482",
-          "title": "产品更新：Proxy Tester by",
-          "title_en": "Proxy Tester by ScrapeOps",
-          "url": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "d051b45b",
+          "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/469213.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/proxy-benchmark-by-scrapeops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Benchmark proxies for reliable, target-specifi",
-          "summary_zh": "Benchmark proxies for reliable, target-specifi",
-          "publishedAt": "2026-08-09T07:01:00Z",
-          "published_at": "2026-08-09T07:01:00Z",
-          "votes_count": 148,
-          "featured": true,
-          "topics": [
-            {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/469213.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只  田, 晏林 2026-08-10 09:34:10  来源：量子位   全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。 需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  这是连马斯克都亲自盖章、公认最难啃的一块「硬骨头」。 灵巧手。 别看小小一只，内部却集成了控制算法、电机驱动、散热能耗、触觉感知、材料寿命等一整套工程体系。    但硬件尚未成熟，劝退了一些玩家。 可对资本来说，痛点就是机遇。 据量子位不完全统计，今年上半年，灵巧手相关企业融资额超200亿，成为今年具身智能赛道最热的风口之一。 我们把业内关注度较高的10家、以灵巧手为主要业务的公司单独拉个表。 粗略估算，1~6月，这些企业新增融资额近80亿元，投后估值加起来超750亿元。    资本正在重新评估这只机械手的价值。 其中，灵心巧手成为最受关注的案例。6月传出估值高达60亿美元（约合人民币410亿元）。 啥概念？不少头部人形机器人整机公司都没",
+          "summary_zh": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只  田, 晏林 2026-08-10 09:34:10  来源：量子位   全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。 需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  这是连马斯克都亲自盖章、公认最难啃的一块「硬骨头」。 灵巧手。 别看小小一只，内部却集成了控制算法、电机驱动、散热能耗、触觉感知、材料寿命等一整套工程体系。    但硬件尚未成熟，劝退了一些玩家。 可对资本来说，痛点就是机遇。 据量子位不完全统计，今年上半年，灵巧手相关企业融资额超200亿，成为今年具身智能赛道最热的风口之一。 我们把业内关注度较高的10家、以灵巧手为主要业务的公司单独拉个表。 粗略估算，1~6月，这些企业新增融资额近80亿元，投后估值加起来超750亿元。    资本正在重新评估这只机械手的价值。 其中，灵心巧手成为最受关注的案例。6月传出估值高达60亿美元（约合人民币410亿元）。 啥概念？不少头部人形机器人整机公司都没",
+          "publishedAt": "2026-08-10T01:34:10Z",
+          "published_at": "2026-08-10T01:34:10Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
