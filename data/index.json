@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-08-10T21:08:04Z",
-  "generatedAt": "2026-08-10T21:08:04Z",
+  "generated_at": "2026-08-11T09:31:34Z",
+  "generatedAt": "2026-08-11T09:31:34Z",
   "count": 91,
   "total": 91,
   "entries": [
     {
       "date": "2026-08-11",
-      "generated_at": "2026-08-10T21:08:04Z",
-      "generatedAt": "2026-08-10T21:08:04Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-08-11T09:31:34Z",
+      "generatedAt": "2026-08-11T09:31:34Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "332dff52",
-          "title": "产品更新：oqoqo",
-          "title_en": "oqoqo",
-          "url": "https://www.producthunt.com/products/oqoqo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "0e7c7669",
+          "title": "揭示扩散语言模型扩展定律，人大高瓴团",
+          "title_en": "揭示扩散语言模型扩展定律，人大高瓴团队与蚂蚁集团发布LLaDA MoE v2",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/oqoqo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Build evals and custom benchmarks for real-wor",
-          "summary_zh": "Build evals and custom benchmarks for real-wor",
-          "publishedAt": "2026-08-10T07:01:00Z",
-          "published_at": "2026-08-10T07:01:00Z",
-          "votes_count": 292,
-          "featured": true,
-          "topics": [
-            {
-              "id": "247",
-              "name": "Software Engineering",
-              "slug": "software-engineering"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "揭示扩散语言模型扩展定律，人大高瓴团队与蚂蚁集团发布LLaDA MoE v2",
+          "summary_zh": "揭示扩散语言模型扩展定律，人大高瓴团队与蚂蚁集团发布LLaDA MoE v2",
+          "publishedAt": "2026-08-11T09:29:30Z",
+          "published_at": "2026-08-11T09:29:30Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "d9df2aa8",
-          "title": "产品更新：Portfolio Lab",
-          "title_en": "Portfolio Lab",
-          "url": "https://www.producthunt.com/products/portfolio-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "6e47ccf9",
+          "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/469860.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/portfolio-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI investing, done responsibly AI made buildin",
-          "summary_zh": "AI investing, done responsibly AI made buildin",
-          "publishedAt": "2026-08-10T07:01:00Z",
-          "published_at": "2026-08-10T07:01:00Z",
-          "votes_count": 259,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "203",
-              "name": "Investing",
-              "slug": "investing"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/469860.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中  允中 2026-08-11 08:46:23  来源：量子位   三视角世界模型谁更稳?  允中 发自 凹非寺 量子位 | 公众号 QbitAI 近日，由北京大学、清华大学、北京航空航天大学、上海交通大学、中国科学技术大学联合发起的TriWorldBench Challenge，正式公布首周榜单更新结果。 作为首个面向机器人三视角世界模型的评测榜单，TriWorldBench旨在建立更加全面的具身世界模型评价体系，推动世界模型从“视觉生成”迈向“世界理解”。 榜单综合评估模型在三视角一致性、任务执行、物理空间理解等方面表现，面向全球相关研究团队开放参与，目前已收录多个公开评测结果，后续将持续更新评测结果。 （榜单地址：https://www.triworldbench.com/#leaderboard）    第一周的比赛中，来自CASIA-DRL的WoVR_Plus模型、来自TONGJI Spatial Intelligence Team的BetaBWM模型、以及来自Fysics AI的Fysiverse-Vi",
+          "summary_zh": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中  允中 2026-08-11 08:46:23  来源：量子位   三视角世界模型谁更稳?  允中 发自 凹非寺 量子位 | 公众号 QbitAI 近日，由北京大学、清华大学、北京航空航天大学、上海交通大学、中国科学技术大学联合发起的TriWorldBench Challenge，正式公布首周榜单更新结果。 作为首个面向机器人三视角世界模型的评测榜单，TriWorldBench旨在建立更加全面的具身世界模型评价体系，推动世界模型从“视觉生成”迈向“世界理解”。 榜单综合评估模型在三视角一致性、任务执行、物理空间理解等方面表现，面向全球相关研究团队开放参与，目前已收录多个公开评测结果，后续将持续更新评测结果。 （榜单地址：https://www.triworldbench.com/#leaderboard）    第一周的比赛中，来自CASIA-DRL的WoVR_Plus模型、来自TONGJI Spatial Intelligence Team的BetaBWM模型、以及来自Fysics AI的Fysiverse-Vi",
+          "publishedAt": "2026-08-11T00:46:23Z",
+          "published_at": "2026-08-11T00:46:23Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "45dd3b45",
-          "title": "产品更新：Paritok",
-          "title_en": "Paritok",
-          "url": "https://www.producthunt.com/products/paritok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "2292e1fc",
+          "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/469795.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/paritok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Spend up to 85% less and run 3× longer coding",
-          "summary_zh": "Spend up to 85% less and run 3× longer coding",
-          "publishedAt": "2026-08-10T07:01:00Z",
-          "published_at": "2026-08-10T07:01:00Z",
-          "votes_count": 225,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/469795.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "AI倒查论文100年！99.2%的顶刊都有问题…  听雨 2026-08-10 21:58:46  来源：量子位   科研人快来啊，天上掉选题了  程浅 发自 凹非寺 量子位 | 公众号 QbitAI 谁再说科研已经没有新问题了？好方向全被前人占满了？？ 如果我说—— 那些已经发表的顶刊论文里，大多都有问题呢？  最近，有研究者用AI Agent「学术打假」后发现： 2026年国际机器学习大会（ICML）上报告的92篇论文中，有58篇已经无法复现。 真假？？莫非，猛发顶刊的机会真的来了？ 顶会论文正在集体被AI「打假」 通常一篇论文能够进入顶级会议，就说明它已经经过了同行评审。 然而受精力所限，同行评审审稿人几乎没有时间从头下载数据、运行模型或复现实验，以验证论文中的每一个实验结论。 与此同时随着AI领域的论文数量爆炸增长，模型越来越复杂，实验规模越来越大，一篇论文背后的代码、数据、参数设置可能涉及数百个细节。 论文的可验证性也就变得越发重要，论文发表了，但其中的结论能被重新跑出来吗？ 目前，AI Agent大大降低了这种验证和复现的成本。 7月22日，美国某研究审查公司用AI Age",
+          "summary_zh": "AI倒查论文100年！99.2%的顶刊都有问题…  听雨 2026-08-10 21:58:46  来源：量子位   科研人快来啊，天上掉选题了  程浅 发自 凹非寺 量子位 | 公众号 QbitAI 谁再说科研已经没有新问题了？好方向全被前人占满了？？ 如果我说—— 那些已经发表的顶刊论文里，大多都有问题呢？  最近，有研究者用AI Agent「学术打假」后发现： 2026年国际机器学习大会（ICML）上报告的92篇论文中，有58篇已经无法复现。 真假？？莫非，猛发顶刊的机会真的来了？ 顶会论文正在集体被AI「打假」 通常一篇论文能够进入顶级会议，就说明它已经经过了同行评审。 然而受精力所限，同行评审审稿人几乎没有时间从头下载数据、运行模型或复现实验，以验证论文中的每一个实验结论。 与此同时随着AI领域的论文数量爆炸增长，模型越来越复杂，实验规模越来越大，一篇论文背后的代码、数据、参数设置可能涉及数百个细节。 论文的可验证性也就变得越发重要，论文发表了，但其中的结论能被重新跑出来吗？ 目前，AI Agent大大降低了这种验证和复现的成本。 7月22日，美国某研究审查公司用AI Age",
+          "publishedAt": "2026-08-10T13:58:46Z",
+          "published_at": "2026-08-10T13:58:46Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
