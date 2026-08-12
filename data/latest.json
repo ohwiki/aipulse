@@ -1,52 +1,170 @@
 {
-  "generated_at": "2026-08-12T09:40:11Z",
-  "generatedAt": "2026-08-12T09:40:11Z",
+  "generated_at": "2026-08-12T21:09:57Z",
+  "generatedAt": "2026-08-12T21:09:57Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 8,
+  "count": 8,
   "items": [
     {
-      "id": "5f54ddbc",
-      "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/08/470621.html",
-      "source": "量子位",
+      "id": "862df19d",
+      "title": "产品更新：Dograh",
+      "title_en": "Dograh",
+      "url": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/08/470621.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "一家新能源大厂，如何撑起全球最大AI算力超级单体？  克雷西 2026-08-11 19:36:42  来源：量子位   算力竞赛的天平，正在向电力倾斜  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI AI算力竞赛的天平，正在向电力倾斜。 这一判断，在乌兰察布出现了一个具体样本： 8月6日，远景科技集团在这里宣布「远景乌兰察布星河基地」正式投产，园区内全球最大的AI算力超级单体同步亮相。 这座超级单体建筑面积超过12万平方米，相当于20个标准足球场，其所在的星河基地总规划容量达到2GW，规划支持百万卡并行和百万P级算力。  这样的规模，放在两年前还很难想象。 当时，AI行业的注意力更多集中在模型参数、GPU数量和单卡算力上。如今，单个集群正在从万卡迈向十万卡、百万卡，IT负荷也从兆瓦级走向百兆瓦乃至GW级。 这时候，一座AI数据中心能不能真正跑起来，已经不只取决于「有没有芯片」。 电从哪里来、能不能稳定供应；数十万张芯片瞬间拉升负荷时，供电系统能不能接得住；更高的功率密度带来的热量，又能不能及时带走。 这些过去位于后台的基础设施问题，正在走到AI竞争的前台。 而这也带来了一个",
-      "summary_zh": "一家新能源大厂，如何撑起全球最大AI算力超级单体？  克雷西 2026-08-11 19:36:42  来源：量子位   算力竞赛的天平，正在向电力倾斜  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI AI算力竞赛的天平，正在向电力倾斜。 这一判断，在乌兰察布出现了一个具体样本： 8月6日，远景科技集团在这里宣布「远景乌兰察布星河基地」正式投产，园区内全球最大的AI算力超级单体同步亮相。 这座超级单体建筑面积超过12万平方米，相当于20个标准足球场，其所在的星河基地总规划容量达到2GW，规划支持百万卡并行和百万P级算力。  这样的规模，放在两年前还很难想象。 当时，AI行业的注意力更多集中在模型参数、GPU数量和单卡算力上。如今，单个集群正在从万卡迈向十万卡、百万卡，IT负荷也从兆瓦级走向百兆瓦乃至GW级。 这时候，一座AI数据中心能不能真正跑起来，已经不只取决于「有没有芯片」。 电从哪里来、能不能稳定供应；数十万张芯片瞬间拉升负荷时，供电系统能不能接得住；更高的功率密度带来的热量，又能不能及时带走。 这些过去位于后台的基础设施问题，正在走到AI竞争的前台。 而这也带来了一个",
-      "publishedAt": "2026-08-11T11:36:42Z",
-      "published_at": "2026-08-11T11:36:42Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The open source VAPI alternative Closed voice",
+      "summary_zh": "The open source VAPI alternative Closed voice",
+      "publishedAt": "2026-08-12T07:01:00Z",
+      "published_at": "2026-08-12T07:01:00Z",
+      "votes_count": 458,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        }
+      ],
       "score_details": null
     },
     {
-      "id": "1358fa34",
-      "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/08/470674.html",
-      "source": "量子位",
+      "id": "36b12799",
+      "title": "产品更新：Grok Bot",
+      "title_en": "Grok Bot",
+      "url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/08/470674.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布  思邈 2026-08-11 21:57:46  来源：量子位   资本正从具身本体集体涌向触觉   允中 发自 凹非寺 量子位 | 公众号 QbitAI  今天（8月11日），戴盟机器人宣布完成数亿元战略轮融资，蚂蚁集团领投，老股东超额跟投加注。 翻看蚂蚁过往在具身智能赛道的投资版图，不难发现，其已密集落子一批行业独角兽，包括宇树科技（即将上市）、星海图、灵心巧手、苏度科技、舞肌科技等，形成覆盖机器人本体、具身大脑与核心零部件的头部布局。 而此次蚂蚁领投戴盟，不仅是其在这一赛道上的又一重磅出手，更是首次将投资触角延伸至触觉感知层。 戴盟是具身触觉赛道的一家颇具代表性的公司，其融资节奏迅速，就在两个月前才刚完成亿元A轮融资，背后的资本阵容同样堪称豪华，连同本轮的蚂蚁，已经汇聚了招商局创投、联想创投、汇川产投、中国移动、中国电信等一批头部产业资本。 戴盟的融资节奏并非孤例，巨头入场背后，资本正集体从具身本体涌向触觉感知层，单轮亿元融资频发，资本卡位战已经进入按周加码的高频节奏。 资本为何集体涌向触觉？头部产业资本又为何密集押",
-      "summary_zh": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布  思邈 2026-08-11 21:57:46  来源：量子位   资本正从具身本体集体涌向触觉   允中 发自 凹非寺 量子位 | 公众号 QbitAI  今天（8月11日），戴盟机器人宣布完成数亿元战略轮融资，蚂蚁集团领投，老股东超额跟投加注。 翻看蚂蚁过往在具身智能赛道的投资版图，不难发现，其已密集落子一批行业独角兽，包括宇树科技（即将上市）、星海图、灵心巧手、苏度科技、舞肌科技等，形成覆盖机器人本体、具身大脑与核心零部件的头部布局。 而此次蚂蚁领投戴盟，不仅是其在这一赛道上的又一重磅出手，更是首次将投资触角延伸至触觉感知层。 戴盟是具身触觉赛道的一家颇具代表性的公司，其融资节奏迅速，就在两个月前才刚完成亿元A轮融资，背后的资本阵容同样堪称豪华，连同本轮的蚂蚁，已经汇聚了招商局创投、联想创投、汇川产投、中国移动、中国电信等一批头部产业资本。 戴盟的融资节奏并非孤例，巨头入场背后，资本正集体从具身本体涌向触觉感知层，单轮亿元融资频发，资本卡位战已经进入按周加码的高频节奏。 资本为何集体涌向触觉？头部产业资本又为何密集押",
-      "publishedAt": "2026-08-11T13:57:46Z",
-      "published_at": "2026-08-11T13:57:46Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI teammates that you can give real work to In",
+      "summary_zh": "AI teammates that you can give real work to In",
+      "publishedAt": "2026-08-12T07:01:00Z",
+      "published_at": "2026-08-12T07:01:00Z",
+      "votes_count": 395,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "7cf262ae",
+      "title": "产品更新：Lettertrace",
+      "title_en": "Lettertrace",
+      "url": "https://www.producthunt.com/products/lettertrace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/lettertrace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Track your AI visibility for free (using your",
+      "summary_zh": "Track your AI visibility for free (using your",
+      "publishedAt": "2026-08-12T07:01:00Z",
+      "published_at": "2026-08-12T07:01:00Z",
+      "votes_count": 346,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ec713598",
+      "title": "AI资讯更新：Assembly Stud",
+      "title_en": "Assembly Studio",
+      "url": "https://www.producthunt.com/products/assembly-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/assembly-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI app builder that grows your revenue Assembl",
+      "summary_zh": "AI app builder that grows your revenue Assembl",
+      "publishedAt": "2026-08-12T07:01:00Z",
+      "published_at": "2026-08-12T07:01:00Z",
+      "votes_count": 224,
+      "featured": true,
+      "topics": [
+        {
+          "id": "21",
+          "name": "Web App",
+          "slug": "web-app"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
       "score_details": null
     },
     {
@@ -72,9 +190,53 @@
       "score_details": null
     },
     {
-      "id": "bd0cd510",
-      "title": "MIT等为AI提供更高效的物理模拟：",
-      "title_en": "MIT等为AI提供更高效的物理模拟：利用合成动力学增强几何预训练，收敛速度快两倍",
+      "id": "af7e93ce",
+      "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/470874.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/470874.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "人形之外，擎羽把“身体”变成具身智能的新变量  思邈 2026-08-12 12:29:57  来源：量子位   从柔性本体走向跨本体基础智能，让任务与世界知识延续   允中 发自 凹非寺 量子位 | 公众号 QbitAI  机器人身体，正在成为具身智能里最被低估的变量。 过去两年，滚烫的金钱和聪明的大脑纷纷涌入人形机器人行业。 这背后的逻辑足够清晰：现实世界围绕人体尺度建造，双腿可以跨越台阶，双臂可以覆盖工作台，双手可以使用现成工具。 一副与人相似的身体，理论上能够直接进入工厂、仓库、商店和家庭，复用人类已经建立的物理基础设施。 但人形所追求的通用性，也把机器人领域最困难的一组问题，压进了同一套系统。 比如动态平衡、高自由度控制、灵巧操作、碰撞安全、能量效率和开放环境泛化，需要在一副身体上同时成立。 而当机器人真正走向产业，另一个问题正在浮现：通用机器人是否一定意味着通用身体？ 李飞飞近期在围绕空间智能和机器人训练的讨论中，也给出了一个接近工程现实的观察：  人体由演化塑造成了适应开放、非结构化环境的通用形态，当任务边界足够明确时，最高效的身体可能沿着完全不同的方向演化。  她用“爬",
+      "summary_zh": "人形之外，擎羽把“身体”变成具身智能的新变量  思邈 2026-08-12 12:29:57  来源：量子位   从柔性本体走向跨本体基础智能，让任务与世界知识延续   允中 发自 凹非寺 量子位 | 公众号 QbitAI  机器人身体，正在成为具身智能里最被低估的变量。 过去两年，滚烫的金钱和聪明的大脑纷纷涌入人形机器人行业。 这背后的逻辑足够清晰：现实世界围绕人体尺度建造，双腿可以跨越台阶，双臂可以覆盖工作台，双手可以使用现成工具。 一副与人相似的身体，理论上能够直接进入工厂、仓库、商店和家庭，复用人类已经建立的物理基础设施。 但人形所追求的通用性，也把机器人领域最困难的一组问题，压进了同一套系统。 比如动态平衡、高自由度控制、灵巧操作、碰撞安全、能量效率和开放环境泛化，需要在一副身体上同时成立。 而当机器人真正走向产业，另一个问题正在浮现：通用机器人是否一定意味着通用身体？ 李飞飞近期在围绕空间智能和机器人训练的讨论中，也给出了一个接近工程现实的观察：  人体由演化塑造成了适应开放、非结构化环境的通用形态，当任务边界足够明确时，最高效的身体可能沿着完全不同的方向演化。  她用“爬",
+      "publishedAt": "2026-08-12T04:29:57Z",
+      "published_at": "2026-08-12T04:29:57Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "559fccc5",
+      "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/470901.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/470901.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕  量子位的朋友们 2026-08-12 15:31:19  来源：量子位   2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。  当前，全球产业格局正迎来AI驱动与新质生产力引领的系统性重构。 在此背景下，国家顶层设计明确指出未来产业具有前瞻性、战略性和颠覆性，应因地制宜、错位发展，推动未来产业与新兴产业、传统产业协同提质。顺应这一历史洪流，投资行业更需以长期主义为底色、以硬科技为锚点深耕产业，在服务产业高质量发展的同时，把握下一轮增长机遇。 2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026（第十二届）中国科创投资夏季峰会（有限合伙人峰会、创新产业峰会）暨陕西科创产业生态大会，在西安香格里拉大酒店隆重启幕。两大盛会联袂举行，共同打造中国顶级产业生态圈。 作为科教资源重镇与“硬科技”概念的策源地，陕西正沿着这一方向完成从“科技资源大省”向“科技资本高地”的关键跃迁。2026年度省级上市后备企业名单遴选出530家优质企业",
+      "summary_zh": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕  量子位的朋友们 2026-08-12 15:31:19  来源：量子位   2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。  当前，全球产业格局正迎来AI驱动与新质生产力引领的系统性重构。 在此背景下，国家顶层设计明确指出未来产业具有前瞻性、战略性和颠覆性，应因地制宜、错位发展，推动未来产业与新兴产业、传统产业协同提质。顺应这一历史洪流，投资行业更需以长期主义为底色、以硬科技为锚点深耕产业，在服务产业高质量发展的同时，把握下一轮增长机遇。 2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026（第十二届）中国科创投资夏季峰会（有限合伙人峰会、创新产业峰会）暨陕西科创产业生态大会，在西安香格里拉大酒店隆重启幕。两大盛会联袂举行，共同打造中国顶级产业生态圈。 作为科教资源重镇与“硬科技”概念的策源地，陕西正沿着这一方向完成从“科技资源大省”向“科技资本高地”的关键跃迁。2026年度省级上市后备企业名单遴选出530家优质企业",
+      "publishedAt": "2026-08-12T07:31:19Z",
+      "published_at": "2026-08-12T07:31:19Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "43360955",
+      "title": "11篇顶会论文之外，美图影像研究院做",
+      "title_en": "11篇顶会论文之外，美图影像研究院做了一件事：让大众爱用AI",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -84,10 +246,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "MIT等为AI提供更高效的物理模拟：利用合成动力学增强几何预训练，收敛速度快两倍",
-      "summary_zh": "MIT等为AI提供更高效的物理模拟：利用合成动力学增强几何预训练，收敛速度快两倍",
-      "publishedAt": "2026-08-12T09:38:41Z",
-      "published_at": "2026-08-12T09:38:41Z",
+      "summary": "11篇顶会论文之外，美图影像研究院做了一件事：让大众爱用AI",
+      "summary_zh": "11篇顶会论文之外，美图影像研究院做了一件事：让大众爱用AI",
+      "publishedAt": "2026-08-12T21:09:06Z",
+      "published_at": "2026-08-12T21:09:06Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

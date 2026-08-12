@@ -1,0 +1,523 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-12T21:09:57Z",
+  "generatedAt": "2026-08-12T21:09:57Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "862df19d",
+          "title": "产品更新：Dograh",
+          "title_en": "Dograh",
+          "url": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The open source VAPI alternative Closed voice",
+          "summary_zh": "The open source VAPI alternative Closed voice",
+          "publishedAt": "2026-08-12T07:01:00Z",
+          "published_at": "2026-08-12T07:01:00Z",
+          "votes_count": 458,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "36b12799",
+          "title": "产品更新：Grok Bot",
+          "title_en": "Grok Bot",
+          "url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI teammates that you can give real work to In",
+          "summary_zh": "AI teammates that you can give real work to In",
+          "publishedAt": "2026-08-12T07:01:00Z",
+          "published_at": "2026-08-12T07:01:00Z",
+          "votes_count": 395,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "7cf262ae",
+          "title": "产品更新：Lettertrace",
+          "title_en": "Lettertrace",
+          "url": "https://www.producthunt.com/products/lettertrace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/lettertrace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Track your AI visibility for free (using your",
+          "summary_zh": "Track your AI visibility for free (using your",
+          "publishedAt": "2026-08-12T07:01:00Z",
+          "published_at": "2026-08-12T07:01:00Z",
+          "votes_count": 346,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ec713598",
+          "title": "AI资讯更新：Assembly Stud",
+          "title_en": "Assembly Studio",
+          "url": "https://www.producthunt.com/products/assembly-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/assembly-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI app builder that grows your revenue Assembl",
+          "summary_zh": "AI app builder that grows your revenue Assembl",
+          "publishedAt": "2026-08-12T07:01:00Z",
+          "published_at": "2026-08-12T07:01:00Z",
+          "votes_count": 224,
+          "featured": true,
+          "topics": [
+            {
+              "id": "21",
+              "name": "Web App",
+              "slug": "web-app"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "dc60141f",
+          "title": "刚刚，Manus恢复独立运营",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/470805.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/470805.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "刚刚，Manus恢复独立运营  Jay 2026-08-12 10:51:44  来源：量子位   Manus，完成复活赛了！   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  Manus，完成复活赛了！ 是的，那个被Meta收购的Manus，刚刚正式宣布回归自由身：  Manus即将恢复以独立公司的形式运营。   值得注意的是，公告里反复强调「新加坡时间」。 而且官方明确写明，恢复独立后，用户数据将存储在美国和新加坡。 hmm…这么看来，Manus最终还是回到了被Meta收购前的服务范围区域，作为总部在新加坡的公司来开展运营。 但复活是有代价的。 作为与Meta分拆的最后一步，为了满足数据合规要求，Manus需要删除部分在Meta收购当天及之后产生的数据。 可以说是很难搞了，毕竟Manus目前全球有数百万用户。。。 尽管如此，展望未来，Manus对于重返「自由身」表示非常兴奋。  我们正在准备一系列全新功能，希望再次突破通用AI Agent能力的边界。  这个「再次」也是用得很有意思了。 遥想当年（bushi），Manus刚发布，的确引爆了第一颗Agent的核弹，引发无数",
+          "summary_zh": "刚刚，Manus恢复独立运营  Jay 2026-08-12 10:51:44  来源：量子位   Manus，完成复活赛了！   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  Manus，完成复活赛了！ 是的，那个被Meta收购的Manus，刚刚正式宣布回归自由身：  Manus即将恢复以独立公司的形式运营。   值得注意的是，公告里反复强调「新加坡时间」。 而且官方明确写明，恢复独立后，用户数据将存储在美国和新加坡。 hmm…这么看来，Manus最终还是回到了被Meta收购前的服务范围区域，作为总部在新加坡的公司来开展运营。 但复活是有代价的。 作为与Meta分拆的最后一步，为了满足数据合规要求，Manus需要删除部分在Meta收购当天及之后产生的数据。 可以说是很难搞了，毕竟Manus目前全球有数百万用户。。。 尽管如此，展望未来，Manus对于重返「自由身」表示非常兴奋。  我们正在准备一系列全新功能，希望再次突破通用AI Agent能力的边界。  这个「再次」也是用得很有意思了。 遥想当年（bushi），Manus刚发布，的确引爆了第一颗Agent的核弹，引发无数",
+          "publishedAt": "2026-08-12T02:51:44Z",
+          "published_at": "2026-08-12T02:51:44Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "af7e93ce",
+          "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/470874.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/470874.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "人形之外，擎羽把“身体”变成具身智能的新变量  思邈 2026-08-12 12:29:57  来源：量子位   从柔性本体走向跨本体基础智能，让任务与世界知识延续   允中 发自 凹非寺 量子位 | 公众号 QbitAI  机器人身体，正在成为具身智能里最被低估的变量。 过去两年，滚烫的金钱和聪明的大脑纷纷涌入人形机器人行业。 这背后的逻辑足够清晰：现实世界围绕人体尺度建造，双腿可以跨越台阶，双臂可以覆盖工作台，双手可以使用现成工具。 一副与人相似的身体，理论上能够直接进入工厂、仓库、商店和家庭，复用人类已经建立的物理基础设施。 但人形所追求的通用性，也把机器人领域最困难的一组问题，压进了同一套系统。 比如动态平衡、高自由度控制、灵巧操作、碰撞安全、能量效率和开放环境泛化，需要在一副身体上同时成立。 而当机器人真正走向产业，另一个问题正在浮现：通用机器人是否一定意味着通用身体？ 李飞飞近期在围绕空间智能和机器人训练的讨论中，也给出了一个接近工程现实的观察：  人体由演化塑造成了适应开放、非结构化环境的通用形态，当任务边界足够明确时，最高效的身体可能沿着完全不同的方向演化。  她用“爬",
+          "summary_zh": "人形之外，擎羽把“身体”变成具身智能的新变量  思邈 2026-08-12 12:29:57  来源：量子位   从柔性本体走向跨本体基础智能，让任务与世界知识延续   允中 发自 凹非寺 量子位 | 公众号 QbitAI  机器人身体，正在成为具身智能里最被低估的变量。 过去两年，滚烫的金钱和聪明的大脑纷纷涌入人形机器人行业。 这背后的逻辑足够清晰：现实世界围绕人体尺度建造，双腿可以跨越台阶，双臂可以覆盖工作台，双手可以使用现成工具。 一副与人相似的身体，理论上能够直接进入工厂、仓库、商店和家庭，复用人类已经建立的物理基础设施。 但人形所追求的通用性，也把机器人领域最困难的一组问题，压进了同一套系统。 比如动态平衡、高自由度控制、灵巧操作、碰撞安全、能量效率和开放环境泛化，需要在一副身体上同时成立。 而当机器人真正走向产业，另一个问题正在浮现：通用机器人是否一定意味着通用身体？ 李飞飞近期在围绕空间智能和机器人训练的讨论中，也给出了一个接近工程现实的观察：  人体由演化塑造成了适应开放、非结构化环境的通用形态，当任务边界足够明确时，最高效的身体可能沿着完全不同的方向演化。  她用“爬",
+          "publishedAt": "2026-08-12T04:29:57Z",
+          "published_at": "2026-08-12T04:29:57Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "559fccc5",
+          "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/470901.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/470901.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕  量子位的朋友们 2026-08-12 15:31:19  来源：量子位   2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。  当前，全球产业格局正迎来AI驱动与新质生产力引领的系统性重构。 在此背景下，国家顶层设计明确指出未来产业具有前瞻性、战略性和颠覆性，应因地制宜、错位发展，推动未来产业与新兴产业、传统产业协同提质。顺应这一历史洪流，投资行业更需以长期主义为底色、以硬科技为锚点深耕产业，在服务产业高质量发展的同时，把握下一轮增长机遇。 2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026（第十二届）中国科创投资夏季峰会（有限合伙人峰会、创新产业峰会）暨陕西科创产业生态大会，在西安香格里拉大酒店隆重启幕。两大盛会联袂举行，共同打造中国顶级产业生态圈。 作为科教资源重镇与“硬科技”概念的策源地，陕西正沿着这一方向完成从“科技资源大省”向“科技资本高地”的关键跃迁。2026年度省级上市后备企业名单遴选出530家优质企业",
+          "summary_zh": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕  量子位的朋友们 2026-08-12 15:31:19  来源：量子位   2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。  当前，全球产业格局正迎来AI驱动与新质生产力引领的系统性重构。 在此背景下，国家顶层设计明确指出未来产业具有前瞻性、战略性和颠覆性，应因地制宜、错位发展，推动未来产业与新兴产业、传统产业协同提质。顺应这一历史洪流，投资行业更需以长期主义为底色、以硬科技为锚点深耕产业，在服务产业高质量发展的同时，把握下一轮增长机遇。 2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026（第十二届）中国科创投资夏季峰会（有限合伙人峰会、创新产业峰会）暨陕西科创产业生态大会，在西安香格里拉大酒店隆重启幕。两大盛会联袂举行，共同打造中国顶级产业生态圈。 作为科教资源重镇与“硬科技”概念的策源地，陕西正沿着这一方向完成从“科技资源大省”向“科技资本高地”的关键跃迁。2026年度省级上市后备企业名单遴选出530家优质企业",
+          "publishedAt": "2026-08-12T07:31:19Z",
+          "published_at": "2026-08-12T07:31:19Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "43360955",
+          "title": "11篇顶会论文之外，美图影像研究院做",
+          "title_en": "11篇顶会论文之外，美图影像研究院做了一件事：让大众爱用AI",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "11篇顶会论文之外，美图影像研究院做了一件事：让大众爱用AI",
+          "summary_zh": "11篇顶会论文之外，美图影像研究院做了一件事：让大众爱用AI",
+          "publishedAt": "2026-08-12T21:09:06Z",
+          "published_at": "2026-08-12T21:09:06Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "862df19d",
+      "title": "产品更新：Dograh",
+      "title_en": "Dograh",
+      "url": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The open source VAPI alternative Closed voice",
+      "summary_zh": "The open source VAPI alternative Closed voice",
+      "publishedAt": "2026-08-12T07:01:00Z",
+      "published_at": "2026-08-12T07:01:00Z",
+      "votes_count": 458,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "36b12799",
+      "title": "产品更新：Grok Bot",
+      "title_en": "Grok Bot",
+      "url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI teammates that you can give real work to In",
+      "summary_zh": "AI teammates that you can give real work to In",
+      "publishedAt": "2026-08-12T07:01:00Z",
+      "published_at": "2026-08-12T07:01:00Z",
+      "votes_count": 395,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "7cf262ae",
+      "title": "产品更新：Lettertrace",
+      "title_en": "Lettertrace",
+      "url": "https://www.producthunt.com/products/lettertrace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/lettertrace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Track your AI visibility for free (using your",
+      "summary_zh": "Track your AI visibility for free (using your",
+      "publishedAt": "2026-08-12T07:01:00Z",
+      "published_at": "2026-08-12T07:01:00Z",
+      "votes_count": 346,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ec713598",
+      "title": "AI资讯更新：Assembly Stud",
+      "title_en": "Assembly Studio",
+      "url": "https://www.producthunt.com/products/assembly-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/assembly-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI app builder that grows your revenue Assembl",
+      "summary_zh": "AI app builder that grows your revenue Assembl",
+      "publishedAt": "2026-08-12T07:01:00Z",
+      "published_at": "2026-08-12T07:01:00Z",
+      "votes_count": 224,
+      "featured": true,
+      "topics": [
+        {
+          "id": "21",
+          "name": "Web App",
+          "slug": "web-app"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "dc60141f",
+      "title": "刚刚，Manus恢复独立运营",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/470805.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/470805.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "刚刚，Manus恢复独立运营  Jay 2026-08-12 10:51:44  来源：量子位   Manus，完成复活赛了！   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  Manus，完成复活赛了！ 是的，那个被Meta收购的Manus，刚刚正式宣布回归自由身：  Manus即将恢复以独立公司的形式运营。   值得注意的是，公告里反复强调「新加坡时间」。 而且官方明确写明，恢复独立后，用户数据将存储在美国和新加坡。 hmm…这么看来，Manus最终还是回到了被Meta收购前的服务范围区域，作为总部在新加坡的公司来开展运营。 但复活是有代价的。 作为与Meta分拆的最后一步，为了满足数据合规要求，Manus需要删除部分在Meta收购当天及之后产生的数据。 可以说是很难搞了，毕竟Manus目前全球有数百万用户。。。 尽管如此，展望未来，Manus对于重返「自由身」表示非常兴奋。  我们正在准备一系列全新功能，希望再次突破通用AI Agent能力的边界。  这个「再次」也是用得很有意思了。 遥想当年（bushi），Manus刚发布，的确引爆了第一颗Agent的核弹，引发无数",
+      "summary_zh": "刚刚，Manus恢复独立运营  Jay 2026-08-12 10:51:44  来源：量子位   Manus，完成复活赛了！   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  Manus，完成复活赛了！ 是的，那个被Meta收购的Manus，刚刚正式宣布回归自由身：  Manus即将恢复以独立公司的形式运营。   值得注意的是，公告里反复强调「新加坡时间」。 而且官方明确写明，恢复独立后，用户数据将存储在美国和新加坡。 hmm…这么看来，Manus最终还是回到了被Meta收购前的服务范围区域，作为总部在新加坡的公司来开展运营。 但复活是有代价的。 作为与Meta分拆的最后一步，为了满足数据合规要求，Manus需要删除部分在Meta收购当天及之后产生的数据。 可以说是很难搞了，毕竟Manus目前全球有数百万用户。。。 尽管如此，展望未来，Manus对于重返「自由身」表示非常兴奋。  我们正在准备一系列全新功能，希望再次突破通用AI Agent能力的边界。  这个「再次」也是用得很有意思了。 遥想当年（bushi），Manus刚发布，的确引爆了第一颗Agent的核弹，引发无数",
+      "publishedAt": "2026-08-12T02:51:44Z",
+      "published_at": "2026-08-12T02:51:44Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "af7e93ce",
+      "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/470874.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/470874.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "人形之外，擎羽把“身体”变成具身智能的新变量  思邈 2026-08-12 12:29:57  来源：量子位   从柔性本体走向跨本体基础智能，让任务与世界知识延续   允中 发自 凹非寺 量子位 | 公众号 QbitAI  机器人身体，正在成为具身智能里最被低估的变量。 过去两年，滚烫的金钱和聪明的大脑纷纷涌入人形机器人行业。 这背后的逻辑足够清晰：现实世界围绕人体尺度建造，双腿可以跨越台阶，双臂可以覆盖工作台，双手可以使用现成工具。 一副与人相似的身体，理论上能够直接进入工厂、仓库、商店和家庭，复用人类已经建立的物理基础设施。 但人形所追求的通用性，也把机器人领域最困难的一组问题，压进了同一套系统。 比如动态平衡、高自由度控制、灵巧操作、碰撞安全、能量效率和开放环境泛化，需要在一副身体上同时成立。 而当机器人真正走向产业，另一个问题正在浮现：通用机器人是否一定意味着通用身体？ 李飞飞近期在围绕空间智能和机器人训练的讨论中，也给出了一个接近工程现实的观察：  人体由演化塑造成了适应开放、非结构化环境的通用形态，当任务边界足够明确时，最高效的身体可能沿着完全不同的方向演化。  她用“爬",
+      "summary_zh": "人形之外，擎羽把“身体”变成具身智能的新变量  思邈 2026-08-12 12:29:57  来源：量子位   从柔性本体走向跨本体基础智能，让任务与世界知识延续   允中 发自 凹非寺 量子位 | 公众号 QbitAI  机器人身体，正在成为具身智能里最被低估的变量。 过去两年，滚烫的金钱和聪明的大脑纷纷涌入人形机器人行业。 这背后的逻辑足够清晰：现实世界围绕人体尺度建造，双腿可以跨越台阶，双臂可以覆盖工作台，双手可以使用现成工具。 一副与人相似的身体，理论上能够直接进入工厂、仓库、商店和家庭，复用人类已经建立的物理基础设施。 但人形所追求的通用性，也把机器人领域最困难的一组问题，压进了同一套系统。 比如动态平衡、高自由度控制、灵巧操作、碰撞安全、能量效率和开放环境泛化，需要在一副身体上同时成立。 而当机器人真正走向产业，另一个问题正在浮现：通用机器人是否一定意味着通用身体？ 李飞飞近期在围绕空间智能和机器人训练的讨论中，也给出了一个接近工程现实的观察：  人体由演化塑造成了适应开放、非结构化环境的通用形态，当任务边界足够明确时，最高效的身体可能沿着完全不同的方向演化。  她用“爬",
+      "publishedAt": "2026-08-12T04:29:57Z",
+      "published_at": "2026-08-12T04:29:57Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "559fccc5",
+      "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/470901.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/470901.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕  量子位的朋友们 2026-08-12 15:31:19  来源：量子位   2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。  当前，全球产业格局正迎来AI驱动与新质生产力引领的系统性重构。 在此背景下，国家顶层设计明确指出未来产业具有前瞻性、战略性和颠覆性，应因地制宜、错位发展，推动未来产业与新兴产业、传统产业协同提质。顺应这一历史洪流，投资行业更需以长期主义为底色、以硬科技为锚点深耕产业，在服务产业高质量发展的同时，把握下一轮增长机遇。 2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026（第十二届）中国科创投资夏季峰会（有限合伙人峰会、创新产业峰会）暨陕西科创产业生态大会，在西安香格里拉大酒店隆重启幕。两大盛会联袂举行，共同打造中国顶级产业生态圈。 作为科教资源重镇与“硬科技”概念的策源地，陕西正沿着这一方向完成从“科技资源大省”向“科技资本高地”的关键跃迁。2026年度省级上市后备企业名单遴选出530家优质企业",
+      "summary_zh": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕  量子位的朋友们 2026-08-12 15:31:19  来源：量子位   2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。  当前，全球产业格局正迎来AI驱动与新质生产力引领的系统性重构。 在此背景下，国家顶层设计明确指出未来产业具有前瞻性、战略性和颠覆性，应因地制宜、错位发展，推动未来产业与新兴产业、传统产业协同提质。顺应这一历史洪流，投资行业更需以长期主义为底色、以硬科技为锚点深耕产业，在服务产业高质量发展的同时，把握下一轮增长机遇。 2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026（第十二届）中国科创投资夏季峰会（有限合伙人峰会、创新产业峰会）暨陕西科创产业生态大会，在西安香格里拉大酒店隆重启幕。两大盛会联袂举行，共同打造中国顶级产业生态圈。 作为科教资源重镇与“硬科技”概念的策源地，陕西正沿着这一方向完成从“科技资源大省”向“科技资本高地”的关键跃迁。2026年度省级上市后备企业名单遴选出530家优质企业",
+      "publishedAt": "2026-08-12T07:31:19Z",
+      "published_at": "2026-08-12T07:31:19Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "43360955",
+      "title": "11篇顶会论文之外，美图影像研究院做",
+      "title_en": "11篇顶会论文之外，美图影像研究院做了一件事：让大众爱用AI",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "11篇顶会论文之外，美图影像研究院做了一件事：让大众爱用AI",
+      "summary_zh": "11篇顶会论文之外，美图影像研究院做了一件事：让大众爱用AI",
+      "publishedAt": "2026-08-12T21:09:06Z",
+      "published_at": "2026-08-12T21:09:06Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

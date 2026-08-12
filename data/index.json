@@ -1,9 +1,142 @@
 {
-  "generated_at": "2026-08-12T09:40:11Z",
-  "generatedAt": "2026-08-12T09:40:11Z",
-  "count": 92,
-  "total": 92,
+  "generated_at": "2026-08-12T21:09:57Z",
+  "generatedAt": "2026-08-12T21:09:57Z",
+  "count": 93,
+  "total": 93,
   "entries": [
+    {
+      "date": "2026-08-13",
+      "generated_at": "2026-08-12T21:09:57Z",
+      "generatedAt": "2026-08-12T21:09:57Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "862df19d",
+          "title": "产品更新：Dograh",
+          "title_en": "Dograh",
+          "url": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The open source VAPI alternative Closed voice",
+          "summary_zh": "The open source VAPI alternative Closed voice",
+          "publishedAt": "2026-08-12T07:01:00Z",
+          "published_at": "2026-08-12T07:01:00Z",
+          "votes_count": 458,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "36b12799",
+          "title": "产品更新：Grok Bot",
+          "title_en": "Grok Bot",
+          "url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI teammates that you can give real work to In",
+          "summary_zh": "AI teammates that you can give real work to In",
+          "publishedAt": "2026-08-12T07:01:00Z",
+          "published_at": "2026-08-12T07:01:00Z",
+          "votes_count": 395,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "7cf262ae",
+          "title": "产品更新：Lettertrace",
+          "title_en": "Lettertrace",
+          "url": "https://www.producthunt.com/products/lettertrace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/lettertrace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Track your AI visibility for free (using your",
+          "summary_zh": "Track your AI visibility for free (using your",
+          "publishedAt": "2026-08-12T07:01:00Z",
+          "published_at": "2026-08-12T07:01:00Z",
+          "votes_count": 346,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-12",
       "generated_at": "2026-08-12T09:40:11Z",
