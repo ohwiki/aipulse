@@ -1,138 +1,80 @@
 {
-  "generated_at": "2026-08-12T21:09:57Z",
-  "generatedAt": "2026-08-12T21:09:57Z",
+  "generated_at": "2026-08-13T09:40:10Z",
+  "generatedAt": "2026-08-13T09:40:10Z",
   "count": 93,
   "total": 93,
   "entries": [
     {
       "date": "2026-08-13",
-      "generated_at": "2026-08-12T21:09:57Z",
-      "generatedAt": "2026-08-12T21:09:57Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-08-13T09:40:10Z",
+      "generatedAt": "2026-08-13T09:40:10Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "862df19d",
-          "title": "产品更新：Dograh",
-          "title_en": "Dograh",
-          "url": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "504d6d29",
+          "title": "分布式数据库走向千行百业：赛迪报告显",
+          "title_en": "分布式数据库走向千行百业：赛迪报告显示OceanBase位列中国市场第一",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The open source VAPI alternative Closed voice",
-          "summary_zh": "The open source VAPI alternative Closed voice",
-          "publishedAt": "2026-08-12T07:01:00Z",
-          "published_at": "2026-08-12T07:01:00Z",
-          "votes_count": 458,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "471",
-              "name": "Audio",
-              "slug": "audio"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "分布式数据库走向千行百业：赛迪报告显示OceanBase位列中国市场第一",
+          "summary_zh": "分布式数据库走向千行百业：赛迪报告显示OceanBase位列中国市场第一",
+          "publishedAt": "2026-08-13T09:39:16Z",
+          "published_at": "2026-08-13T09:39:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "36b12799",
-          "title": "产品更新：Grok Bot",
-          "title_en": "Grok Bot",
-          "url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "13613f49",
+          "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/471162.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI teammates that you can give real work to In",
-          "summary_zh": "AI teammates that you can give real work to In",
-          "publishedAt": "2026-08-12T07:01:00Z",
-          "published_at": "2026-08-12T07:01:00Z",
-          "votes_count": 395,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "48",
-              "name": "Task Management",
-              "slug": "task-management"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/471162.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "Anthropic CEO整天神神叨叨，投资人受不了了  听雨 2026-08-12 21:38:09  来源：量子位   Dario能不能少吓唬点人…  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 根据Polymarket预测，Anthropic很可能在10月底进行IPO。 有投行人士甚至预计，Anthropic可能通过IPO募集超过600亿美元。 如果成真，这将是全球规模第二大的IPO，仅次于今年募集857亿美元的SpaceX。  万亿估值，超级IPO，营收一路狂飙。 眼看故事就要讲到最高潮，投资者却开始劝Anthropic CEO Dario Amodei： 能不能！少吓唬点人！ 少讲一点AI毁灭世界，多讲一点AI怎么赚钱。  部分投资者认为，Dario对AI风险的警惕已经到了近乎偏执的程度： 他的关键备忘录总是手写、离线保存，怕被黑客窃取； 因为害怕遭到绑架，拒绝某些海外出差； 面对投资者提出的利润最大化建议，他也态度冷淡，坚持Anthropic应该继续把安全使命放在前面。 再这么下去，网友都担心Anthropic的IPO会惨败…  投资人也毛了：你到底是来拯救世界，",
+          "summary_zh": "Anthropic CEO整天神神叨叨，投资人受不了了  听雨 2026-08-12 21:38:09  来源：量子位   Dario能不能少吓唬点人…  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 根据Polymarket预测，Anthropic很可能在10月底进行IPO。 有投行人士甚至预计，Anthropic可能通过IPO募集超过600亿美元。 如果成真，这将是全球规模第二大的IPO，仅次于今年募集857亿美元的SpaceX。  万亿估值，超级IPO，营收一路狂飙。 眼看故事就要讲到最高潮，投资者却开始劝Anthropic CEO Dario Amodei： 能不能！少吓唬点人！ 少讲一点AI毁灭世界，多讲一点AI怎么赚钱。  部分投资者认为，Dario对AI风险的警惕已经到了近乎偏执的程度： 他的关键备忘录总是手写、离线保存，怕被黑客窃取； 因为害怕遭到绑架，拒绝某些海外出差； 面对投资者提出的利润最大化建议，他也态度冷淡，坚持Anthropic应该继续把安全使命放在前面。 再这么下去，网友都担心Anthropic的IPO会惨败…  投资人也毛了：你到底是来拯救世界，",
+          "publishedAt": "2026-08-12T13:38:09Z",
+          "published_at": "2026-08-12T13:38:09Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "7cf262ae",
-          "title": "产品更新：Lettertrace",
-          "title_en": "Lettertrace",
-          "url": "https://www.producthunt.com/products/lettertrace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "ff98b3a8",
+          "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/471049.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/lettertrace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Track your AI visibility for free (using your",
-          "summary_zh": "Track your AI visibility for free (using your",
-          "publishedAt": "2026-08-12T07:01:00Z",
-          "published_at": "2026-08-12T07:01:00Z",
-          "votes_count": 346,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/471049.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键  梦瑶 2026-08-12 21:10:55  来源：量子位   具身模型一小时狂拣1816件异形包裹  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 抓马！！！ 不是，谁家机器人敢在实时直播里这么玩啊—— 没有人工兜底，没有固定流程，甚至连包裹都是随机来的，就这样连续稳定干满1小时，分拣效率干到了1816件/小时！？  更关键的是，这一实测成绩，还超过了美国Figure AI此前公开的1248件/小时平均效率纪录，分拣效率提升超过45%。 这次物流分拣直播所使用的双机械臂+夹爪的硬件方案，则比Figure AI此前的人形机器人+五指灵巧手方案，硬件成本大幅下降70%。 直播物流分拣的准确率，则达到98%的行业最前沿水平。 要知道，此前Figure AI的物流分拣直播一直被视为具身智能领域的标杆案例，国产模型这波操作是真·卷麻了：  如此魔幻的一幕，就发生在刚刚结束的自变量机器人「夹爪方案挑战1248件/小时物流分拣」公开直播实测。 不靠全身人形机器人，也没有搭载五指灵巧手，仅凭",
+          "summary_zh": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键  梦瑶 2026-08-12 21:10:55  来源：量子位   具身模型一小时狂拣1816件异形包裹  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 抓马！！！ 不是，谁家机器人敢在实时直播里这么玩啊—— 没有人工兜底，没有固定流程，甚至连包裹都是随机来的，就这样连续稳定干满1小时，分拣效率干到了1816件/小时！？  更关键的是，这一实测成绩，还超过了美国Figure AI此前公开的1248件/小时平均效率纪录，分拣效率提升超过45%。 这次物流分拣直播所使用的双机械臂+夹爪的硬件方案，则比Figure AI此前的人形机器人+五指灵巧手方案，硬件成本大幅下降70%。 直播物流分拣的准确率，则达到98%的行业最前沿水平。 要知道，此前Figure AI的物流分拣直播一直被视为具身智能领域的标杆案例，国产模型这波操作是真·卷麻了：  如此魔幻的一幕，就发生在刚刚结束的自变量机器人「夹爪方案挑战1248件/小时物流分拣」公开直播实测。 不靠全身人形机器人，也没有搭载五指灵巧手，仅凭",
+          "publishedAt": "2026-08-12T13:10:55Z",
+          "published_at": "2026-08-12T13:10:55Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
