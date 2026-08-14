@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-08-13T21:09:58Z",
-  "generatedAt": "2026-08-13T21:09:58Z",
+  "generated_at": "2026-08-14T09:34:43Z",
+  "generatedAt": "2026-08-14T09:34:43Z",
   "count": 94,
   "total": 94,
   "entries": [
     {
       "date": "2026-08-14",
-      "generated_at": "2026-08-13T21:09:58Z",
-      "generatedAt": "2026-08-13T21:09:58Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-08-14T09:34:43Z",
+      "generatedAt": "2026-08-14T09:34:43Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "8763dd06",
-          "title": "产品更新：Kane CLI",
-          "title_en": "Kane CLI",
-          "url": "https://www.producthunt.com/products/lambdatest?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "245d7309",
+          "title": "具身智能仿真「竞技场」RoboCol",
+          "title_en": "具身智能仿真「竞技场」RoboColiseum来了：真机对齐度近90%，已有40+团队同场打擂",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/lambdatest?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Natural language browser & mobile app tests fr",
-          "summary_zh": "Natural language browser & mobile app tests fr",
-          "publishedAt": "2026-08-13T07:01:00Z",
-          "published_at": "2026-08-13T07:01:00Z",
-          "votes_count": 353,
-          "featured": true,
-          "topics": [
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "具身智能仿真「竞技场」RoboColiseum来了：真机对齐度近90%，已有40+团队同场打",
+          "summary_zh": "具身智能仿真「竞技场」RoboColiseum来了：真机对齐度近90%，已有40+团队同场打",
+          "publishedAt": "2026-08-14T09:34:12Z",
+          "published_at": "2026-08-14T09:34:12Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "d5cf4db8",
-          "title": "产品更新：Ito",
-          "title_en": "Ito",
-          "url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "90f5ec74",
+          "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/472060.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI code review that runs your code Ito is an A",
-          "summary_zh": "AI code review that runs your code Ito is an A",
-          "publishedAt": "2026-08-13T07:01:00Z",
-          "published_at": "2026-08-13T07:01:00Z",
-          "votes_count": 326,
-          "featured": true,
-          "topics": [
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/472060.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施  允中 2026-08-13 19:53:02  来源：量子位   重新定义物理AI数据基础设施  允中 发自 凹非寺 量子位 | 公众号 QbitAI 近日，具身智能数据基础设施公司元点科技（SCALEFORCE）完成数千万元人民币融资，投资者包含国内顶级具身智能产业方、恒旭资本和凯联资本。 本轮融资将主要用于元点科技物理AI操作系统MatrixOS技术迭代、大规模数据生产网络建设及团队扩展，加速成为全球领先的具身智能数据基础设施公司。  元点科技创始人郭江亮表示： 具身智能的竞争已进入主打数据与智能的下半场，元点科技旨在为全行业提供来自物理世界真实场景的最高质量数据产品与智能服务，让数据贯穿物理AI全生命周期，在物理世界中生长出无限智能。 一个判断：物理AI的竞争，本质上是数据的竞争 2026年上半年，国内具身智能赛道融资总额达935亿元，较去年同期暴涨5倍。具身智能有多火，数据就有多缺。 行业共识是，能实现通用自主能力的具身大模型，至少需要千万小时级高质量真实交互数据。而截至2026年初，全球可用的高质量物理交互数据",
+          "summary_zh": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施  允中 2026-08-13 19:53:02  来源：量子位   重新定义物理AI数据基础设施  允中 发自 凹非寺 量子位 | 公众号 QbitAI 近日，具身智能数据基础设施公司元点科技（SCALEFORCE）完成数千万元人民币融资，投资者包含国内顶级具身智能产业方、恒旭资本和凯联资本。 本轮融资将主要用于元点科技物理AI操作系统MatrixOS技术迭代、大规模数据生产网络建设及团队扩展，加速成为全球领先的具身智能数据基础设施公司。  元点科技创始人郭江亮表示： 具身智能的竞争已进入主打数据与智能的下半场，元点科技旨在为全行业提供来自物理世界真实场景的最高质量数据产品与智能服务，让数据贯穿物理AI全生命周期，在物理世界中生长出无限智能。 一个判断：物理AI的竞争，本质上是数据的竞争 2026年上半年，国内具身智能赛道融资总额达935亿元，较去年同期暴涨5倍。具身智能有多火，数据就有多缺。 行业共识是，能实现通用自主能力的具身大模型，至少需要千万小时级高质量真实交互数据。而截至2026年初，全球可用的高质量物理交互数据",
+          "publishedAt": "2026-08-13T11:53:02Z",
+          "published_at": "2026-08-13T11:53:02Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "4a7759c6",
-          "title": "产品更新：Nuphos",
-          "title_en": "Nuphos",
-          "url": "https://www.producthunt.com/products/nuphos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "954818d1",
+          "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/472016.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/nuphos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The AI-Native DevOps Workspace. Nuphos gives e",
-          "summary_zh": "The AI-Native DevOps Workspace. Nuphos gives e",
-          "publishedAt": "2026-08-13T07:01:00Z",
-          "published_at": "2026-08-13T07:01:00Z",
-          "votes_count": 287,
-          "featured": true,
-          "topics": [
-            {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/472016.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表  衡宇 2026-08-13 19:29:04  来源：量子位   好数学家不挑AI模型   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  前不久用Fable 5推翻雅可比猜想的Anthropic研究员，又吭哧吭哧和两个人类伙伴带着Claude，做出了668阶哈达玛矩阵！ （好数学家不挑AI模型，doge） 不过这人每次有成果都不明说，发一堆只有内行才看得懂的东西。 Be Like：     可恶的是Fable拒绝解密这条神奇推文，人类不得不使用GPT 5.6 Sol来一探究竟。 让我来为大家翻译成人话！ Anthropic研究员、数学家Levent Alpöge报告称，他们找到了解决668阶哈达玛矩阵的方案，并感谢由三名人类和Claude组成的团队。 哈达玛矩阵（Hadamard Matrix）这道题只有加减乘除，具体是这样的：  一个方阵，里面只能填+1和-1，任意两行对应的数字相乘再相加，结果必须正好是0。  但在此之前，668阶哈达玛矩阵难倒了所有具备“深度推理”能力的大模型。 但也别说AI不行，",
+          "summary_zh": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表  衡宇 2026-08-13 19:29:04  来源：量子位   好数学家不挑AI模型   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  前不久用Fable 5推翻雅可比猜想的Anthropic研究员，又吭哧吭哧和两个人类伙伴带着Claude，做出了668阶哈达玛矩阵！ （好数学家不挑AI模型，doge） 不过这人每次有成果都不明说，发一堆只有内行才看得懂的东西。 Be Like：     可恶的是Fable拒绝解密这条神奇推文，人类不得不使用GPT 5.6 Sol来一探究竟。 让我来为大家翻译成人话！ Anthropic研究员、数学家Levent Alpöge报告称，他们找到了解决668阶哈达玛矩阵的方案，并感谢由三名人类和Claude组成的团队。 哈达玛矩阵（Hadamard Matrix）这道题只有加减乘除，具体是这样的：  一个方阵，里面只能填+1和-1，任意两行对应的数字相乘再相加，结果必须正好是0。  但在此之前，668阶哈达玛矩阵难倒了所有具备“深度推理”能力的大模型。 但也别说AI不行，",
+          "publishedAt": "2026-08-13T11:29:04Z",
+          "published_at": "2026-08-13T11:29:04Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
