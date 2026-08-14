@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-08-14T09:34:43Z",
-  "generatedAt": "2026-08-14T09:34:43Z",
-  "count": 94,
-  "total": 94,
+  "generated_at": "2026-08-14T20:51:53Z",
+  "generatedAt": "2026-08-14T20:51:53Z",
+  "count": 95,
+  "total": 95,
   "entries": [
+    {
+      "date": "2026-08-15",
+      "generated_at": "2026-08-14T20:51:53Z",
+      "generatedAt": "2026-08-14T20:51:53Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "a70afc13",
+          "title": "产品更新：Freebuff",
+          "title_en": "Freebuff",
+          "url": "https://www.producthunt.com/products/freebuff-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/freebuff-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Free coding agents to kill Claude, Cursor, Rep",
+          "summary_zh": "Free coding agents to kill Claude, Cursor, Rep",
+          "publishedAt": "2026-08-14T07:01:00Z",
+          "published_at": "2026-08-14T07:01:00Z",
+          "votes_count": 222,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "251f51fc",
+          "title": "AI资讯更新：BrowserAct Cl",
+          "title_en": "BrowserAct Cloud",
+          "url": "https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Scrape any data from any website with one prom",
+          "summary_zh": "Scrape any data from any website with one prom",
+          "publishedAt": "2026-08-14T07:01:00Z",
+          "published_at": "2026-08-14T07:01:00Z",
+          "votes_count": 215,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "178a08af",
+          "title": "产品更新：Gemini 3.7 Flas",
+          "title_en": "Gemini 3.7 Flash",
+          "url": "https://www.producthunt.com/products/gemini-3-7-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gemini-3-7-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Google's smartest workhorse yet for coding & a",
+          "summary_zh": "Google's smartest workhorse yet for coding & a",
+          "publishedAt": "2026-08-14T07:01:00Z",
+          "published_at": "2026-08-14T07:01:00Z",
+          "votes_count": 203,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-14",
       "generated_at": "2026-08-14T09:34:43Z",
