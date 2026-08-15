@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-08-15T08:53:31Z",
-  "generatedAt": "2026-08-15T08:53:31Z",
-  "count": 95,
-  "total": 95,
+  "generated_at": "2026-08-15T20:44:17Z",
+  "generatedAt": "2026-08-15T20:44:17Z",
+  "count": 96,
+  "total": 96,
   "entries": [
+    {
+      "date": "2026-08-16",
+      "generated_at": "2026-08-15T20:44:17Z",
+      "generatedAt": "2026-08-15T20:44:17Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "84ae98cc",
+          "title": "模型更新：Inferock Bench",
+          "title_en": "Inferock Bench",
+          "url": "https://www.producthunt.com/products/inferock-bench?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/inferock-bench?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "An independent receipt for every LLM API call",
+          "summary_zh": "An independent receipt for every LLM API call",
+          "publishedAt": "2026-08-15T07:01:00Z",
+          "published_at": "2026-08-15T07:01:00Z",
+          "votes_count": 235,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c83458de",
+          "title": "产品更新：Big Mike",
+          "title_en": "Big Mike",
+          "url": "https://www.producthunt.com/products/big-mike?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/big-mike?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your favorite uncle who knows sports & bets, o",
+          "summary_zh": "Your favorite uncle who knows sports & bets, o",
+          "publishedAt": "2026-08-15T07:01:00Z",
+          "published_at": "2026-08-15T07:01:00Z",
+          "votes_count": 174,
+          "featured": true,
+          "topics": [
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            },
+            {
+              "id": "111",
+              "name": "Sports",
+              "slug": "sports"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "bbbfc1c3",
+          "title": "产品更新：GLM-5.3",
+          "title_en": "GLM-5.3",
+          "url": "https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Coding leap from scaled post-training on the s",
+          "summary_zh": "Coding leap from scaled post-training on the s",
+          "publishedAt": "2026-08-15T07:01:00Z",
+          "published_at": "2026-08-15T07:01:00Z",
+          "votes_count": 168,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-15",
       "generated_at": "2026-08-15T08:53:31Z",
