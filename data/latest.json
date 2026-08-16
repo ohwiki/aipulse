@@ -1,10 +1,119 @@
 {
-  "generated_at": "2026-08-16T08:55:50Z",
-  "generatedAt": "2026-08-16T08:55:50Z",
+  "generated_at": "2026-08-16T20:43:41Z",
+  "generatedAt": "2026-08-16T20:43:41Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 7,
+  "count": 7,
   "items": [
+    {
+      "id": "9aba4dff",
+      "title": "产品更新：Blume",
+      "title_en": "Blume",
+      "url": "https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI-ready, Markdown-first documentation framewo",
+      "summary_zh": "AI-ready, Markdown-first documentation framewo",
+      "publishedAt": "2026-08-16T07:01:00Z",
+      "published_at": "2026-08-16T07:01:00Z",
+      "votes_count": 231,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "07d481a4",
+      "title": "产品更新：HarnessRouter C",
+      "title_en": "HarnessRouter Community Edition",
+      "url": "https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Open-source unified interface for agent harnes",
+      "summary_zh": "Open-source unified interface for agent harnes",
+      "publishedAt": "2026-08-16T07:01:00Z",
+      "published_at": "2026-08-16T07:01:00Z",
+      "votes_count": 212,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "86a26f2d",
+      "title": "AI资讯更新：Chert",
+      "title_en": "Chert",
+      "url": "https://www.producthunt.com/products/chert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/chert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Vapi for FaceTime: AI video agents in a few li",
+      "summary_zh": "Vapi for FaceTime: AI video agents in a few li",
+      "publishedAt": "2026-08-16T07:01:00Z",
+      "published_at": "2026-08-16T07:01:00Z",
+      "votes_count": 164,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "ab17f807",
       "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
@@ -50,31 +159,31 @@
       "score_details": null
     },
     {
-      "id": "0c459c3f",
-      "title": "浙大团队开源AI科研智能体Polar",
-      "title_en": "浙大团队开源AI科研智能体Polaris：让AI与你一起做研究",
-      "url": "https://www.jiqizhixin.com/articles",
-      "source": "机器之心",
+      "id": "c1656268",
+      "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/474064.html",
+      "source": "量子位",
       "source_type": null,
-      "sourceName": "机器之心",
-      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/474064.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "浙大团队开源AI科研智能体Polaris：让AI与你一起做研究",
-      "summary_zh": "浙大团队开源AI科研智能体Polaris：让AI与你一起做研究",
-      "publishedAt": "2026-08-16T08:55:19Z",
-      "published_at": "2026-08-16T08:55:19Z",
+      "summary": "“B站教AI”爆火后，北航90后副教授何静回应一切  一水 2026-08-16 18:36:47  来源：量子位   “错过种一棵树最好的时间”  “北航90后副教授”、“在B站教AI”、“3岁小孩都能听懂”…… 相关的人物图片，还是一位靓丽美女。     就这样，何静火了。 何静，今年35岁，北航副教授，在b站开设账号分享AI应用，意外走红。 她讲的内容，包括但不限于生成式AI原理、AIGC应用、OpenClaw部署、Agent开发、AI接入CAD、AI制作PPT、Hermes…… 她将生成式AI比作厨房，将大模型比作厨房里专门做某种菜系的厨师，例如，文字大模型是川菜师傅……由此获得了“婴幼儿讲解风格”的评价。 这并非何静第一次引发热议，很多人最初听说她，是源于下面这个场景：     △何静慕课视频《生成式人工智能应用实战》 2025年10月，何静的一段慕课视频被搬运到短视频平台，播放量很快破百万。 而该视频所引发的，除了关注，还有争议。讨论很快从课程本身滑向了她的相貌、履历。 她并非手握天才剧本。何静本科毕业于四川农业大学，博士则是在中国矿业大学（北京）读的地理信息工程，后来又进",
+      "summary_zh": "“B站教AI”爆火后，北航90后副教授何静回应一切  一水 2026-08-16 18:36:47  来源：量子位   “错过种一棵树最好的时间”  “北航90后副教授”、“在B站教AI”、“3岁小孩都能听懂”…… 相关的人物图片，还是一位靓丽美女。     就这样，何静火了。 何静，今年35岁，北航副教授，在b站开设账号分享AI应用，意外走红。 她讲的内容，包括但不限于生成式AI原理、AIGC应用、OpenClaw部署、Agent开发、AI接入CAD、AI制作PPT、Hermes…… 她将生成式AI比作厨房，将大模型比作厨房里专门做某种菜系的厨师，例如，文字大模型是川菜师傅……由此获得了“婴幼儿讲解风格”的评价。 这并非何静第一次引发热议，很多人最初听说她，是源于下面这个场景：     △何静慕课视频《生成式人工智能应用实战》 2025年10月，何静的一段慕课视频被搬运到短视频平台，播放量很快破百万。 而该视频所引发的，除了关注，还有争议。讨论很快从课程本身滑向了她的相貌、履历。 她并非手握天才剧本。何静本科毕业于四川农业大学，博士则是在中国矿业大学（北京）读的地理信息工程，后来又进",
+      "publishedAt": "2026-08-16T10:36:47Z",
+      "published_at": "2026-08-16T10:36:47Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "bb797bb5",
-      "title": "AI资讯更新：ECCV 2026｜Uni",
-      "title_en": "ECCV 2026｜UniMotion：在统一多模态大模型中引入连续运动模态",
+      "id": "e27dbd03",
+      "title": "AI宣布森多夫猜想告破！陶哲轩发现它",
+      "title_en": "AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -84,10 +193,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "ECCV 2026｜UniMotion：在统一多模态大模型中引入连续运动模态",
-      "summary_zh": "ECCV 2026｜UniMotion：在统一多模态大模型中引入连续运动模态",
-      "publishedAt": "2026-08-16T08:55:19Z",
-      "published_at": "2026-08-16T08:55:19Z",
+      "summary": "AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果",
+      "summary_zh": "AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果",
+      "publishedAt": "2026-08-16T20:43:09Z",
+      "published_at": "2026-08-16T20:43:09Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

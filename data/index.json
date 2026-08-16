@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-08-16T08:55:50Z",
-  "generatedAt": "2026-08-16T08:55:50Z",
-  "count": 96,
-  "total": 96,
+  "generated_at": "2026-08-16T20:43:41Z",
+  "generatedAt": "2026-08-16T20:43:41Z",
+  "count": 97,
+  "total": 97,
   "entries": [
+    {
+      "date": "2026-08-17",
+      "generated_at": "2026-08-16T20:43:41Z",
+      "generatedAt": "2026-08-16T20:43:41Z",
+      "total": 7,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "9aba4dff",
+          "title": "产品更新：Blume",
+          "title_en": "Blume",
+          "url": "https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI-ready, Markdown-first documentation framewo",
+          "summary_zh": "AI-ready, Markdown-first documentation framewo",
+          "publishedAt": "2026-08-16T07:01:00Z",
+          "published_at": "2026-08-16T07:01:00Z",
+          "votes_count": 231,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "07d481a4",
+          "title": "产品更新：HarnessRouter C",
+          "title_en": "HarnessRouter Community Edition",
+          "url": "https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Open-source unified interface for agent harnes",
+          "summary_zh": "Open-source unified interface for agent harnes",
+          "publishedAt": "2026-08-16T07:01:00Z",
+          "published_at": "2026-08-16T07:01:00Z",
+          "votes_count": 212,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "86a26f2d",
+          "title": "AI资讯更新：Chert",
+          "title_en": "Chert",
+          "url": "https://www.producthunt.com/products/chert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/chert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Vapi for FaceTime: AI video agents in a few li",
+          "summary_zh": "Vapi for FaceTime: AI video agents in a few li",
+          "publishedAt": "2026-08-16T07:01:00Z",
+          "published_at": "2026-08-16T07:01:00Z",
+          "votes_count": 164,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-16",
       "generated_at": "2026-08-16T08:55:50Z",

@@ -1,0 +1,417 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-16T20:43:41Z",
+  "generatedAt": "2026-08-16T20:43:41Z",
+  "total": 7,
+  "count": 7,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "9aba4dff",
+          "title": "产品更新：Blume",
+          "title_en": "Blume",
+          "url": "https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI-ready, Markdown-first documentation framewo",
+          "summary_zh": "AI-ready, Markdown-first documentation framewo",
+          "publishedAt": "2026-08-16T07:01:00Z",
+          "published_at": "2026-08-16T07:01:00Z",
+          "votes_count": 231,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "07d481a4",
+          "title": "产品更新：HarnessRouter C",
+          "title_en": "HarnessRouter Community Edition",
+          "url": "https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Open-source unified interface for agent harnes",
+          "summary_zh": "Open-source unified interface for agent harnes",
+          "publishedAt": "2026-08-16T07:01:00Z",
+          "published_at": "2026-08-16T07:01:00Z",
+          "votes_count": 212,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "86a26f2d",
+          "title": "AI资讯更新：Chert",
+          "title_en": "Chert",
+          "url": "https://www.producthunt.com/products/chert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/chert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Vapi for FaceTime: AI video agents in a few li",
+          "summary_zh": "Vapi for FaceTime: AI video agents in a few li",
+          "publishedAt": "2026-08-16T07:01:00Z",
+          "published_at": "2026-08-16T07:01:00Z",
+          "votes_count": 164,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "ab17f807",
+          "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/473947.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/473947.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "牛来！A社营收暴涨1400%，最新季度入账115亿美元  henry 2026-08-16 13:28:42  来源：量子位   将超越马斯克的SpaceX，成为史上上市估值最高的IPO。   henry 发自 凹非寺 量子位 | 公众号 QbitAI  就在这个周末，人们还在惊叹电影《牛来》的出圈、网友开始迅速炒“牛来概念股”时，AI资本市场里，可能也真的冲出了一头牛。 据彭博社报道，Claude背后的Anthropic，第二季度营收超过115亿美元，较去年同期的7.87亿美元暴涨逾14倍。  而与第一季度的47.3亿美元相比，其营收一个季度又增长了143%。 报道还称，这是Anthropic第二季度的调整后营业利润首次转正。 也就是说，当大家还在担心AI的巨额资本开支何时才能兑现时，A社在“某种程度上”已经开始赚钱了。 与此同时，就在此前两天，《金融时报》报道称，投资人正押注Anthropic以超过2万亿美元的估值冲刺IPO。  若能成行，它将超越马斯克的SpaceX，成为史上上市估值最高的IPO。 那么到这就问题来了。 Anthropic，这家被不少人视为最接近AGI的公司，是否",
+          "summary_zh": "牛来！A社营收暴涨1400%，最新季度入账115亿美元  henry 2026-08-16 13:28:42  来源：量子位   将超越马斯克的SpaceX，成为史上上市估值最高的IPO。   henry 发自 凹非寺 量子位 | 公众号 QbitAI  就在这个周末，人们还在惊叹电影《牛来》的出圈、网友开始迅速炒“牛来概念股”时，AI资本市场里，可能也真的冲出了一头牛。 据彭博社报道，Claude背后的Anthropic，第二季度营收超过115亿美元，较去年同期的7.87亿美元暴涨逾14倍。  而与第一季度的47.3亿美元相比，其营收一个季度又增长了143%。 报道还称，这是Anthropic第二季度的调整后营业利润首次转正。 也就是说，当大家还在担心AI的巨额资本开支何时才能兑现时，A社在“某种程度上”已经开始赚钱了。 与此同时，就在此前两天，《金融时报》报道称，投资人正押注Anthropic以超过2万亿美元的估值冲刺IPO。  若能成行，它将超越马斯克的SpaceX，成为史上上市估值最高的IPO。 那么到这就问题来了。 Anthropic，这家被不少人视为最接近AGI的公司，是否",
+          "publishedAt": "2026-08-16T05:28:42Z",
+          "published_at": "2026-08-16T05:28:42Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0e06de98",
+          "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/473972.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/473972.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队  一水 2026-08-16 13:37:39  来源：量子位   背后是四项关键能力  允中 发自 凹非寺量子位 | 公众号 QbitAI 办公智能体正在成为最热门的赛道：写文档、做表格、订会议，各家都在往办公软件里塞一个更聪明的AI助手。 如今让AI写一份初稿已经很容易。到了实际工作中，核对资料、修改文件、同步进度、交接成果，往往要花掉更多时间。任务链条越长，需要协调的角色越多，靠人来回传递信息就越容易出现遗漏。 七个Agent分工作词、作曲、编曲和演唱，共同完成一首歌；两名AI写作者与一名真人围绕同一份Word文档，接力续写《岳阳楼记》。两个看起来完全不同的任务，如何在一个智能体中实现。     据了解openJiuwen是由华为2012实验室、华为云、终端、计算联合构建的开源Agent。 就在上周四openJiuwen宣布：旗下蜂群智能体全面升级为WorkSwarm蜂群办公智能体，率先上架鸿蒙PC应用市场，并支持Windows、Mac等平台，轻松解决工作每个问题！ WorkSwarm将这些",
+          "summary_zh": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队  一水 2026-08-16 13:37:39  来源：量子位   背后是四项关键能力  允中 发自 凹非寺量子位 | 公众号 QbitAI 办公智能体正在成为最热门的赛道：写文档、做表格、订会议，各家都在往办公软件里塞一个更聪明的AI助手。 如今让AI写一份初稿已经很容易。到了实际工作中，核对资料、修改文件、同步进度、交接成果，往往要花掉更多时间。任务链条越长，需要协调的角色越多，靠人来回传递信息就越容易出现遗漏。 七个Agent分工作词、作曲、编曲和演唱，共同完成一首歌；两名AI写作者与一名真人围绕同一份Word文档，接力续写《岳阳楼记》。两个看起来完全不同的任务，如何在一个智能体中实现。     据了解openJiuwen是由华为2012实验室、华为云、终端、计算联合构建的开源Agent。 就在上周四openJiuwen宣布：旗下蜂群智能体全面升级为WorkSwarm蜂群办公智能体，率先上架鸿蒙PC应用市场，并支持Windows、Mac等平台，轻松解决工作每个问题！ WorkSwarm将这些",
+          "publishedAt": "2026-08-16T05:37:39Z",
+          "published_at": "2026-08-16T05:37:39Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "c1656268",
+          "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/474064.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/474064.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "“B站教AI”爆火后，北航90后副教授何静回应一切  一水 2026-08-16 18:36:47  来源：量子位   “错过种一棵树最好的时间”  “北航90后副教授”、“在B站教AI”、“3岁小孩都能听懂”…… 相关的人物图片，还是一位靓丽美女。     就这样，何静火了。 何静，今年35岁，北航副教授，在b站开设账号分享AI应用，意外走红。 她讲的内容，包括但不限于生成式AI原理、AIGC应用、OpenClaw部署、Agent开发、AI接入CAD、AI制作PPT、Hermes…… 她将生成式AI比作厨房，将大模型比作厨房里专门做某种菜系的厨师，例如，文字大模型是川菜师傅……由此获得了“婴幼儿讲解风格”的评价。 这并非何静第一次引发热议，很多人最初听说她，是源于下面这个场景：     △何静慕课视频《生成式人工智能应用实战》 2025年10月，何静的一段慕课视频被搬运到短视频平台，播放量很快破百万。 而该视频所引发的，除了关注，还有争议。讨论很快从课程本身滑向了她的相貌、履历。 她并非手握天才剧本。何静本科毕业于四川农业大学，博士则是在中国矿业大学（北京）读的地理信息工程，后来又进",
+          "summary_zh": "“B站教AI”爆火后，北航90后副教授何静回应一切  一水 2026-08-16 18:36:47  来源：量子位   “错过种一棵树最好的时间”  “北航90后副教授”、“在B站教AI”、“3岁小孩都能听懂”…… 相关的人物图片，还是一位靓丽美女。     就这样，何静火了。 何静，今年35岁，北航副教授，在b站开设账号分享AI应用，意外走红。 她讲的内容，包括但不限于生成式AI原理、AIGC应用、OpenClaw部署、Agent开发、AI接入CAD、AI制作PPT、Hermes…… 她将生成式AI比作厨房，将大模型比作厨房里专门做某种菜系的厨师，例如，文字大模型是川菜师傅……由此获得了“婴幼儿讲解风格”的评价。 这并非何静第一次引发热议，很多人最初听说她，是源于下面这个场景：     △何静慕课视频《生成式人工智能应用实战》 2025年10月，何静的一段慕课视频被搬运到短视频平台，播放量很快破百万。 而该视频所引发的，除了关注，还有争议。讨论很快从课程本身滑向了她的相貌、履历。 她并非手握天才剧本。何静本科毕业于四川农业大学，博士则是在中国矿业大学（北京）读的地理信息工程，后来又进",
+          "publishedAt": "2026-08-16T10:36:47Z",
+          "published_at": "2026-08-16T10:36:47Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "e27dbd03",
+          "title": "AI宣布森多夫猜想告破！陶哲轩发现它",
+          "title_en": "AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果",
+          "summary_zh": "AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果",
+          "publishedAt": "2026-08-16T20:43:09Z",
+          "published_at": "2026-08-16T20:43:09Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "9aba4dff",
+      "title": "产品更新：Blume",
+      "title_en": "Blume",
+      "url": "https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI-ready, Markdown-first documentation framewo",
+      "summary_zh": "AI-ready, Markdown-first documentation framewo",
+      "publishedAt": "2026-08-16T07:01:00Z",
+      "published_at": "2026-08-16T07:01:00Z",
+      "votes_count": 231,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "07d481a4",
+      "title": "产品更新：HarnessRouter C",
+      "title_en": "HarnessRouter Community Edition",
+      "url": "https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Open-source unified interface for agent harnes",
+      "summary_zh": "Open-source unified interface for agent harnes",
+      "publishedAt": "2026-08-16T07:01:00Z",
+      "published_at": "2026-08-16T07:01:00Z",
+      "votes_count": 212,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "86a26f2d",
+      "title": "AI资讯更新：Chert",
+      "title_en": "Chert",
+      "url": "https://www.producthunt.com/products/chert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/chert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Vapi for FaceTime: AI video agents in a few li",
+      "summary_zh": "Vapi for FaceTime: AI video agents in a few li",
+      "publishedAt": "2026-08-16T07:01:00Z",
+      "published_at": "2026-08-16T07:01:00Z",
+      "votes_count": 164,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ab17f807",
+      "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/473947.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/473947.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "牛来！A社营收暴涨1400%，最新季度入账115亿美元  henry 2026-08-16 13:28:42  来源：量子位   将超越马斯克的SpaceX，成为史上上市估值最高的IPO。   henry 发自 凹非寺 量子位 | 公众号 QbitAI  就在这个周末，人们还在惊叹电影《牛来》的出圈、网友开始迅速炒“牛来概念股”时，AI资本市场里，可能也真的冲出了一头牛。 据彭博社报道，Claude背后的Anthropic，第二季度营收超过115亿美元，较去年同期的7.87亿美元暴涨逾14倍。  而与第一季度的47.3亿美元相比，其营收一个季度又增长了143%。 报道还称，这是Anthropic第二季度的调整后营业利润首次转正。 也就是说，当大家还在担心AI的巨额资本开支何时才能兑现时，A社在“某种程度上”已经开始赚钱了。 与此同时，就在此前两天，《金融时报》报道称，投资人正押注Anthropic以超过2万亿美元的估值冲刺IPO。  若能成行，它将超越马斯克的SpaceX，成为史上上市估值最高的IPO。 那么到这就问题来了。 Anthropic，这家被不少人视为最接近AGI的公司，是否",
+      "summary_zh": "牛来！A社营收暴涨1400%，最新季度入账115亿美元  henry 2026-08-16 13:28:42  来源：量子位   将超越马斯克的SpaceX，成为史上上市估值最高的IPO。   henry 发自 凹非寺 量子位 | 公众号 QbitAI  就在这个周末，人们还在惊叹电影《牛来》的出圈、网友开始迅速炒“牛来概念股”时，AI资本市场里，可能也真的冲出了一头牛。 据彭博社报道，Claude背后的Anthropic，第二季度营收超过115亿美元，较去年同期的7.87亿美元暴涨逾14倍。  而与第一季度的47.3亿美元相比，其营收一个季度又增长了143%。 报道还称，这是Anthropic第二季度的调整后营业利润首次转正。 也就是说，当大家还在担心AI的巨额资本开支何时才能兑现时，A社在“某种程度上”已经开始赚钱了。 与此同时，就在此前两天，《金融时报》报道称，投资人正押注Anthropic以超过2万亿美元的估值冲刺IPO。  若能成行，它将超越马斯克的SpaceX，成为史上上市估值最高的IPO。 那么到这就问题来了。 Anthropic，这家被不少人视为最接近AGI的公司，是否",
+      "publishedAt": "2026-08-16T05:28:42Z",
+      "published_at": "2026-08-16T05:28:42Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0e06de98",
+      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/473972.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/473972.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队  一水 2026-08-16 13:37:39  来源：量子位   背后是四项关键能力  允中 发自 凹非寺量子位 | 公众号 QbitAI 办公智能体正在成为最热门的赛道：写文档、做表格、订会议，各家都在往办公软件里塞一个更聪明的AI助手。 如今让AI写一份初稿已经很容易。到了实际工作中，核对资料、修改文件、同步进度、交接成果，往往要花掉更多时间。任务链条越长，需要协调的角色越多，靠人来回传递信息就越容易出现遗漏。 七个Agent分工作词、作曲、编曲和演唱，共同完成一首歌；两名AI写作者与一名真人围绕同一份Word文档，接力续写《岳阳楼记》。两个看起来完全不同的任务，如何在一个智能体中实现。     据了解openJiuwen是由华为2012实验室、华为云、终端、计算联合构建的开源Agent。 就在上周四openJiuwen宣布：旗下蜂群智能体全面升级为WorkSwarm蜂群办公智能体，率先上架鸿蒙PC应用市场，并支持Windows、Mac等平台，轻松解决工作每个问题！ WorkSwarm将这些",
+      "summary_zh": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队  一水 2026-08-16 13:37:39  来源：量子位   背后是四项关键能力  允中 发自 凹非寺量子位 | 公众号 QbitAI 办公智能体正在成为最热门的赛道：写文档、做表格、订会议，各家都在往办公软件里塞一个更聪明的AI助手。 如今让AI写一份初稿已经很容易。到了实际工作中，核对资料、修改文件、同步进度、交接成果，往往要花掉更多时间。任务链条越长，需要协调的角色越多，靠人来回传递信息就越容易出现遗漏。 七个Agent分工作词、作曲、编曲和演唱，共同完成一首歌；两名AI写作者与一名真人围绕同一份Word文档，接力续写《岳阳楼记》。两个看起来完全不同的任务，如何在一个智能体中实现。     据了解openJiuwen是由华为2012实验室、华为云、终端、计算联合构建的开源Agent。 就在上周四openJiuwen宣布：旗下蜂群智能体全面升级为WorkSwarm蜂群办公智能体，率先上架鸿蒙PC应用市场，并支持Windows、Mac等平台，轻松解决工作每个问题！ WorkSwarm将这些",
+      "publishedAt": "2026-08-16T05:37:39Z",
+      "published_at": "2026-08-16T05:37:39Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "c1656268",
+      "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/474064.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/474064.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "“B站教AI”爆火后，北航90后副教授何静回应一切  一水 2026-08-16 18:36:47  来源：量子位   “错过种一棵树最好的时间”  “北航90后副教授”、“在B站教AI”、“3岁小孩都能听懂”…… 相关的人物图片，还是一位靓丽美女。     就这样，何静火了。 何静，今年35岁，北航副教授，在b站开设账号分享AI应用，意外走红。 她讲的内容，包括但不限于生成式AI原理、AIGC应用、OpenClaw部署、Agent开发、AI接入CAD、AI制作PPT、Hermes…… 她将生成式AI比作厨房，将大模型比作厨房里专门做某种菜系的厨师，例如，文字大模型是川菜师傅……由此获得了“婴幼儿讲解风格”的评价。 这并非何静第一次引发热议，很多人最初听说她，是源于下面这个场景：     △何静慕课视频《生成式人工智能应用实战》 2025年10月，何静的一段慕课视频被搬运到短视频平台，播放量很快破百万。 而该视频所引发的，除了关注，还有争议。讨论很快从课程本身滑向了她的相貌、履历。 她并非手握天才剧本。何静本科毕业于四川农业大学，博士则是在中国矿业大学（北京）读的地理信息工程，后来又进",
+      "summary_zh": "“B站教AI”爆火后，北航90后副教授何静回应一切  一水 2026-08-16 18:36:47  来源：量子位   “错过种一棵树最好的时间”  “北航90后副教授”、“在B站教AI”、“3岁小孩都能听懂”…… 相关的人物图片，还是一位靓丽美女。     就这样，何静火了。 何静，今年35岁，北航副教授，在b站开设账号分享AI应用，意外走红。 她讲的内容，包括但不限于生成式AI原理、AIGC应用、OpenClaw部署、Agent开发、AI接入CAD、AI制作PPT、Hermes…… 她将生成式AI比作厨房，将大模型比作厨房里专门做某种菜系的厨师，例如，文字大模型是川菜师傅……由此获得了“婴幼儿讲解风格”的评价。 这并非何静第一次引发热议，很多人最初听说她，是源于下面这个场景：     △何静慕课视频《生成式人工智能应用实战》 2025年10月，何静的一段慕课视频被搬运到短视频平台，播放量很快破百万。 而该视频所引发的，除了关注，还有争议。讨论很快从课程本身滑向了她的相貌、履历。 她并非手握天才剧本。何静本科毕业于四川农业大学，博士则是在中国矿业大学（北京）读的地理信息工程，后来又进",
+      "publishedAt": "2026-08-16T10:36:47Z",
+      "published_at": "2026-08-16T10:36:47Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "e27dbd03",
+      "title": "AI宣布森多夫猜想告破！陶哲轩发现它",
+      "title_en": "AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果",
+      "summary_zh": "AI宣布森多夫猜想告破！陶哲轩发现它隐藏的更强结果",
+      "publishedAt": "2026-08-16T20:43:09Z",
+      "published_at": "2026-08-16T20:43:09Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
