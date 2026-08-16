@@ -1,133 +1,80 @@
 {
-  "generated_at": "2026-08-15T20:44:17Z",
-  "generatedAt": "2026-08-15T20:44:17Z",
+  "generated_at": "2026-08-16T08:55:50Z",
+  "generatedAt": "2026-08-16T08:55:50Z",
   "count": 96,
   "total": 96,
   "entries": [
     {
       "date": "2026-08-16",
-      "generated_at": "2026-08-15T20:44:17Z",
-      "generatedAt": "2026-08-15T20:44:17Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-08-16T08:55:50Z",
+      "generatedAt": "2026-08-16T08:55:50Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "84ae98cc",
-          "title": "模型更新：Inferock Bench",
-          "title_en": "Inferock Bench",
-          "url": "https://www.producthunt.com/products/inferock-bench?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "0c459c3f",
+          "title": "浙大团队开源AI科研智能体Polar",
+          "title_en": "浙大团队开源AI科研智能体Polaris：让AI与你一起做研究",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/inferock-bench?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "An independent receipt for every LLM API call",
-          "summary_zh": "An independent receipt for every LLM API call",
-          "publishedAt": "2026-08-15T07:01:00Z",
-          "published_at": "2026-08-15T07:01:00Z",
-          "votes_count": 235,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "浙大团队开源AI科研智能体Polaris：让AI与你一起做研究",
+          "summary_zh": "浙大团队开源AI科研智能体Polaris：让AI与你一起做研究",
+          "publishedAt": "2026-08-16T08:55:19Z",
+          "published_at": "2026-08-16T08:55:19Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "c83458de",
-          "title": "产品更新：Big Mike",
-          "title_en": "Big Mike",
-          "url": "https://www.producthunt.com/products/big-mike?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "bb797bb5",
+          "title": "AI资讯更新：ECCV 2026｜Uni",
+          "title_en": "ECCV 2026｜UniMotion：在统一多模态大模型中引入连续运动模态",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/big-mike?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Your favorite uncle who knows sports & bets, o",
-          "summary_zh": "Your favorite uncle who knows sports & bets, o",
-          "publishedAt": "2026-08-15T07:01:00Z",
-          "published_at": "2026-08-15T07:01:00Z",
-          "votes_count": 174,
-          "featured": true,
-          "topics": [
-            {
-              "id": "60",
-              "name": "Messaging",
-              "slug": "messaging"
-            },
-            {
-              "id": "111",
-              "name": "Sports",
-              "slug": "sports"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "ECCV 2026｜UniMotion：在统一多模态大模型中引入连续运动模态",
+          "summary_zh": "ECCV 2026｜UniMotion：在统一多模态大模型中引入连续运动模态",
+          "publishedAt": "2026-08-16T08:55:19Z",
+          "published_at": "2026-08-16T08:55:19Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "bbbfc1c3",
-          "title": "产品更新：GLM-5.3",
-          "title_en": "GLM-5.3",
-          "url": "https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "0e06de98",
+          "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/473972.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Coding leap from scaled post-training on the s",
-          "summary_zh": "Coding leap from scaled post-training on the s",
-          "publishedAt": "2026-08-15T07:01:00Z",
-          "published_at": "2026-08-15T07:01:00Z",
-          "votes_count": 168,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "589",
-              "name": "Development",
-              "slug": "development"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/473972.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队  一水 2026-08-16 13:37:39  来源：量子位   背后是四项关键能力  允中 发自 凹非寺量子位 | 公众号 QbitAI 办公智能体正在成为最热门的赛道：写文档、做表格、订会议，各家都在往办公软件里塞一个更聪明的AI助手。 如今让AI写一份初稿已经很容易。到了实际工作中，核对资料、修改文件、同步进度、交接成果，往往要花掉更多时间。任务链条越长，需要协调的角色越多，靠人来回传递信息就越容易出现遗漏。 七个Agent分工作词、作曲、编曲和演唱，共同完成一首歌；两名AI写作者与一名真人围绕同一份Word文档，接力续写《岳阳楼记》。两个看起来完全不同的任务，如何在一个智能体中实现。     据了解openJiuwen是由华为2012实验室、华为云、终端、计算联合构建的开源Agent。 就在上周四openJiuwen宣布：旗下蜂群智能体全面升级为WorkSwarm蜂群办公智能体，率先上架鸿蒙PC应用市场，并支持Windows、Mac等平台，轻松解决工作每个问题！ WorkSwarm将这些",
+          "summary_zh": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队  一水 2026-08-16 13:37:39  来源：量子位   背后是四项关键能力  允中 发自 凹非寺量子位 | 公众号 QbitAI 办公智能体正在成为最热门的赛道：写文档、做表格、订会议，各家都在往办公软件里塞一个更聪明的AI助手。 如今让AI写一份初稿已经很容易。到了实际工作中，核对资料、修改文件、同步进度、交接成果，往往要花掉更多时间。任务链条越长，需要协调的角色越多，靠人来回传递信息就越容易出现遗漏。 七个Agent分工作词、作曲、编曲和演唱，共同完成一首歌；两名AI写作者与一名真人围绕同一份Word文档，接力续写《岳阳楼记》。两个看起来完全不同的任务，如何在一个智能体中实现。     据了解openJiuwen是由华为2012实验室、华为云、终端、计算联合构建的开源Agent。 就在上周四openJiuwen宣布：旗下蜂群智能体全面升级为WorkSwarm蜂群办公智能体，率先上架鸿蒙PC应用市场，并支持Windows、Mac等平台，轻松解决工作每个问题！ WorkSwarm将这些",
+          "publishedAt": "2026-08-16T05:37:39Z",
+          "published_at": "2026-08-16T05:37:39Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
