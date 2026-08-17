@@ -1,0 +1,503 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-17T20:49:10Z",
+  "generatedAt": "2026-08-17T20:49:10Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "ddc3af36",
+          "title": "产品更新：Meridian",
+          "title_en": "Meridian",
+          "url": "https://www.producthunt.com/products/meridian-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/meridian-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Don't let your work go unnoticed. Get promoted",
+          "summary_zh": "Don't let your work go unnoticed. Get promoted",
+          "publishedAt": "2026-08-17T07:01:00Z",
+          "published_at": "2026-08-17T07:01:00Z",
+          "votes_count": 324,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "047fc4bd",
+          "title": "AI资讯更新：Omni by xpand",
+          "title_en": "Omni by xpander",
+          "url": "https://www.producthunt.com/products/omni-by-xpander?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/omni-by-xpander?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Stop babysitting your AI agents Omni is the AI",
+          "summary_zh": "Stop babysitting your AI agents Omni is the AI",
+          "publishedAt": "2026-08-17T07:01:00Z",
+          "published_at": "2026-08-17T07:01:00Z",
+          "votes_count": 278,
+          "featured": true,
+          "topics": [
+            {
+              "id": "22",
+              "name": "Slack",
+              "slug": "slack"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "220e45b8",
+          "title": "产品更新：Clears",
+          "title_en": "Clears",
+          "url": "https://www.producthunt.com/products/clears?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/clears?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Move beyond AI coding to Agentic Software Deli",
+          "summary_zh": "Move beyond AI coding to Agentic Software Deli",
+          "publishedAt": "2026-08-17T07:01:00Z",
+          "published_at": "2026-08-17T07:01:00Z",
+          "votes_count": 272,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3808d5dc",
+          "title": "产品更新：Vendo",
+          "title_en": "Vendo",
+          "url": "https://www.producthunt.com/products/vendo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vendo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Let your users build their own features inside",
+          "summary_zh": "Let your users build their own features inside",
+          "publishedAt": "2026-08-17T07:01:00Z",
+          "published_at": "2026-08-17T07:01:00Z",
+          "votes_count": 260,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "ea165931",
+          "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/474334.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/474334.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成  思邈 2026-08-17 15:39:56  来源：量子位   即将完全开源   允中 发自 凹非寺 量子位 | 公众号QbitAI  太卷了！过去两年，视频生成模型把画面参数几乎卷了个遍。 4K、物理一致性，画面越来越真，时长也越来越长。 但传统视频生成模型生成的永远是一段固定、预设的成品视频，你无法干预剧情、不能调整视角、更不能改变下一秒画面内容。 世界模型带来的变化，恰恰在这里。 它会跟随操作实时渲染、动态生成世界。 按下前进键，前方场景实时延展生成；转身回望，身后的街道即刻演算而出。 你不再是被动的观看者，而是真正的参与者。 而现在，做这件事的团队多了起来。Google DeepMind的Genie 3、腾讯的WorldPlay、蚂蚁的LingBot-World，以及一批创业公司，都在推进这个方向。 △神仙打架，越来越有「头号玩家」那味儿 放眼当下，世界模型已经初步实现了可自由探索、实时交互的视觉场景。画面质量、帧率、持续生成时间以及稳定性，都有了很大提升。 可当你戴上耳机沉浸式体验时，就会察觉致命短",
+          "summary_zh": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成  思邈 2026-08-17 15:39:56  来源：量子位   即将完全开源   允中 发自 凹非寺 量子位 | 公众号QbitAI  太卷了！过去两年，视频生成模型把画面参数几乎卷了个遍。 4K、物理一致性，画面越来越真，时长也越来越长。 但传统视频生成模型生成的永远是一段固定、预设的成品视频，你无法干预剧情、不能调整视角、更不能改变下一秒画面内容。 世界模型带来的变化，恰恰在这里。 它会跟随操作实时渲染、动态生成世界。 按下前进键，前方场景实时延展生成；转身回望，身后的街道即刻演算而出。 你不再是被动的观看者，而是真正的参与者。 而现在，做这件事的团队多了起来。Google DeepMind的Genie 3、腾讯的WorldPlay、蚂蚁的LingBot-World，以及一批创业公司，都在推进这个方向。 △神仙打架，越来越有「头号玩家」那味儿 放眼当下，世界模型已经初步实现了可自由探索、实时交互的视觉场景。画面质量、帧率、持续生成时间以及稳定性，都有了很大提升。 可当你戴上耳机沉浸式体验时，就会察觉致命短",
+          "publishedAt": "2026-08-17T07:39:56Z",
+          "published_at": "2026-08-17T07:39:56Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "4dcbfdf4",
+          "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/474361.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/474361.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用  量子位的朋友们 2026-08-17 16:26:25  来源：量子位   智谱GLM-5.3首发上线范式PhanRouter，即日开放调用   8月14日，智谱AI正式发布新一代开源模型GLM-5.3。同日，范式旗下统一模型调用平台PhanRouter完成适配并开放调用，成为首批支持该模型的平台之一。用户登录PhanRouter后，仅需将模型名称切换为GLM-5.3，无需更换API地址或重新注册，即可直接调用。 据智谱官方数据，GLM-5.3总参数量7430亿，能力提升全部源自后训练强化学习。其编程能力较上一代提升50%，在Terminal-Bench 3.0等基准测试中位列开源模型第一；真实终端任务自主完成成绩达前代六倍以上；网络安全能力追平海外闭源前沿模型。该模型在复杂软件工程和长程Agent任务上表现突出，可应用于自动化运维、代码审查、测试执行等场景。 PhanRouter通过统一API、智能路由和缓存优化，提供低于官方直连的调用价格及99.9%的SLA保障。此次当日上线基于团队对模型架构的提前预研和国产芯片",
+          "summary_zh": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用  量子位的朋友们 2026-08-17 16:26:25  来源：量子位   智谱GLM-5.3首发上线范式PhanRouter，即日开放调用   8月14日，智谱AI正式发布新一代开源模型GLM-5.3。同日，范式旗下统一模型调用平台PhanRouter完成适配并开放调用，成为首批支持该模型的平台之一。用户登录PhanRouter后，仅需将模型名称切换为GLM-5.3，无需更换API地址或重新注册，即可直接调用。 据智谱官方数据，GLM-5.3总参数量7430亿，能力提升全部源自后训练强化学习。其编程能力较上一代提升50%，在Terminal-Bench 3.0等基准测试中位列开源模型第一；真实终端任务自主完成成绩达前代六倍以上；网络安全能力追平海外闭源前沿模型。该模型在复杂软件工程和长程Agent任务上表现突出，可应用于自动化运维、代码审查、测试执行等场景。 PhanRouter通过统一API、智能路由和缓存优化，提供低于官方直连的调用价格及99.9%的SLA保障。此次当日上线基于团队对模型架构的提前预研和国产芯片",
+          "publishedAt": "2026-08-17T08:26:25Z",
+          "published_at": "2026-08-17T08:26:25Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "ce5bf103",
+          "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/474381.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/474381.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想  梦瑶 2026-08-17 16:36:07  来源：量子位   AI最近最出圈的数学突破，都在“找反例”  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  给AI一道数学猜想，它先琢磨的居然是：怎么把它推翻找反例！！  这番听着多少有点数学界反骨的判断，正出自1998年菲尔兹奖得主、英国数学家Timothy Gowers。     最近Gowers老哥闲来无事把这几个月AI最轰动的数学战绩往桌上一摊，发现了一件画风非常统一的事儿—— 雅可比猜想，找反例。 Erdős单位距离猜想，找反例。 非sofic群问题，构造一个过去没人找到的例子。 多色Ramsey数问题，核心依旧是构造出满足要求的新对象。 人类数学家：这个结论到底为什么成立？ AI：先等会儿，你这结论……真成立吗？（一身反骨.jpg） 所以，问题来了。 为啥AI们一碰上数学猜想，就这么爱往反例堆里钻啊我说！？ AI最近最出圈的数学突破，都在“找反例” 先说一个大家比较容易搞混的点。 Gowers这里提到的「找反例」和学生时代学过的「反证法」，其实还真有亿点点区别。",
+          "summary_zh": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想  梦瑶 2026-08-17 16:36:07  来源：量子位   AI最近最出圈的数学突破，都在“找反例”  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  给AI一道数学猜想，它先琢磨的居然是：怎么把它推翻找反例！！  这番听着多少有点数学界反骨的判断，正出自1998年菲尔兹奖得主、英国数学家Timothy Gowers。     最近Gowers老哥闲来无事把这几个月AI最轰动的数学战绩往桌上一摊，发现了一件画风非常统一的事儿—— 雅可比猜想，找反例。 Erdős单位距离猜想，找反例。 非sofic群问题，构造一个过去没人找到的例子。 多色Ramsey数问题，核心依旧是构造出满足要求的新对象。 人类数学家：这个结论到底为什么成立？ AI：先等会儿，你这结论……真成立吗？（一身反骨.jpg） 所以，问题来了。 为啥AI们一碰上数学猜想，就这么爱往反例堆里钻啊我说！？ AI最近最出圈的数学突破，都在“找反例” 先说一个大家比较容易搞混的点。 Gowers这里提到的「找反例」和学生时代学过的「反证法」，其实还真有亿点点区别。",
+          "publishedAt": "2026-08-17T08:36:07Z",
+          "published_at": "2026-08-17T08:36:07Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f8cab505",
+          "title": "AI资讯更新：Direct Percep",
+          "title_en": "Direct Perception Control（DPC）",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Direct Perception Control（DPC）",
+          "summary_zh": "Direct Perception Control（DPC）",
+          "publishedAt": "2026-08-17T20:48:39Z",
+          "published_at": "2026-08-17T20:48:39Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "ddc3af36",
+      "title": "产品更新：Meridian",
+      "title_en": "Meridian",
+      "url": "https://www.producthunt.com/products/meridian-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/meridian-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Don't let your work go unnoticed. Get promoted",
+      "summary_zh": "Don't let your work go unnoticed. Get promoted",
+      "publishedAt": "2026-08-17T07:01:00Z",
+      "published_at": "2026-08-17T07:01:00Z",
+      "votes_count": 324,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "047fc4bd",
+      "title": "AI资讯更新：Omni by xpand",
+      "title_en": "Omni by xpander",
+      "url": "https://www.producthunt.com/products/omni-by-xpander?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/omni-by-xpander?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Stop babysitting your AI agents Omni is the AI",
+      "summary_zh": "Stop babysitting your AI agents Omni is the AI",
+      "publishedAt": "2026-08-17T07:01:00Z",
+      "published_at": "2026-08-17T07:01:00Z",
+      "votes_count": 278,
+      "featured": true,
+      "topics": [
+        {
+          "id": "22",
+          "name": "Slack",
+          "slug": "slack"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "282",
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "220e45b8",
+      "title": "产品更新：Clears",
+      "title_en": "Clears",
+      "url": "https://www.producthunt.com/products/clears?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/clears?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Move beyond AI coding to Agentic Software Deli",
+      "summary_zh": "Move beyond AI coding to Agentic Software Deli",
+      "publishedAt": "2026-08-17T07:01:00Z",
+      "published_at": "2026-08-17T07:01:00Z",
+      "votes_count": 272,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3808d5dc",
+      "title": "产品更新：Vendo",
+      "title_en": "Vendo",
+      "url": "https://www.producthunt.com/products/vendo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/vendo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Let your users build their own features inside",
+      "summary_zh": "Let your users build their own features inside",
+      "publishedAt": "2026-08-17T07:01:00Z",
+      "published_at": "2026-08-17T07:01:00Z",
+      "votes_count": 260,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ea165931",
+      "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/474334.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/474334.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成  思邈 2026-08-17 15:39:56  来源：量子位   即将完全开源   允中 发自 凹非寺 量子位 | 公众号QbitAI  太卷了！过去两年，视频生成模型把画面参数几乎卷了个遍。 4K、物理一致性，画面越来越真，时长也越来越长。 但传统视频生成模型生成的永远是一段固定、预设的成品视频，你无法干预剧情、不能调整视角、更不能改变下一秒画面内容。 世界模型带来的变化，恰恰在这里。 它会跟随操作实时渲染、动态生成世界。 按下前进键，前方场景实时延展生成；转身回望，身后的街道即刻演算而出。 你不再是被动的观看者，而是真正的参与者。 而现在，做这件事的团队多了起来。Google DeepMind的Genie 3、腾讯的WorldPlay、蚂蚁的LingBot-World，以及一批创业公司，都在推进这个方向。 △神仙打架，越来越有「头号玩家」那味儿 放眼当下，世界模型已经初步实现了可自由探索、实时交互的视觉场景。画面质量、帧率、持续生成时间以及稳定性，都有了很大提升。 可当你戴上耳机沉浸式体验时，就会察觉致命短",
+      "summary_zh": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成  思邈 2026-08-17 15:39:56  来源：量子位   即将完全开源   允中 发自 凹非寺 量子位 | 公众号QbitAI  太卷了！过去两年，视频生成模型把画面参数几乎卷了个遍。 4K、物理一致性，画面越来越真，时长也越来越长。 但传统视频生成模型生成的永远是一段固定、预设的成品视频，你无法干预剧情、不能调整视角、更不能改变下一秒画面内容。 世界模型带来的变化，恰恰在这里。 它会跟随操作实时渲染、动态生成世界。 按下前进键，前方场景实时延展生成；转身回望，身后的街道即刻演算而出。 你不再是被动的观看者，而是真正的参与者。 而现在，做这件事的团队多了起来。Google DeepMind的Genie 3、腾讯的WorldPlay、蚂蚁的LingBot-World，以及一批创业公司，都在推进这个方向。 △神仙打架，越来越有「头号玩家」那味儿 放眼当下，世界模型已经初步实现了可自由探索、实时交互的视觉场景。画面质量、帧率、持续生成时间以及稳定性，都有了很大提升。 可当你戴上耳机沉浸式体验时，就会察觉致命短",
+      "publishedAt": "2026-08-17T07:39:56Z",
+      "published_at": "2026-08-17T07:39:56Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4dcbfdf4",
+      "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/474361.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/474361.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用  量子位的朋友们 2026-08-17 16:26:25  来源：量子位   智谱GLM-5.3首发上线范式PhanRouter，即日开放调用   8月14日，智谱AI正式发布新一代开源模型GLM-5.3。同日，范式旗下统一模型调用平台PhanRouter完成适配并开放调用，成为首批支持该模型的平台之一。用户登录PhanRouter后，仅需将模型名称切换为GLM-5.3，无需更换API地址或重新注册，即可直接调用。 据智谱官方数据，GLM-5.3总参数量7430亿，能力提升全部源自后训练强化学习。其编程能力较上一代提升50%，在Terminal-Bench 3.0等基准测试中位列开源模型第一；真实终端任务自主完成成绩达前代六倍以上；网络安全能力追平海外闭源前沿模型。该模型在复杂软件工程和长程Agent任务上表现突出，可应用于自动化运维、代码审查、测试执行等场景。 PhanRouter通过统一API、智能路由和缓存优化，提供低于官方直连的调用价格及99.9%的SLA保障。此次当日上线基于团队对模型架构的提前预研和国产芯片",
+      "summary_zh": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用  量子位的朋友们 2026-08-17 16:26:25  来源：量子位   智谱GLM-5.3首发上线范式PhanRouter，即日开放调用   8月14日，智谱AI正式发布新一代开源模型GLM-5.3。同日，范式旗下统一模型调用平台PhanRouter完成适配并开放调用，成为首批支持该模型的平台之一。用户登录PhanRouter后，仅需将模型名称切换为GLM-5.3，无需更换API地址或重新注册，即可直接调用。 据智谱官方数据，GLM-5.3总参数量7430亿，能力提升全部源自后训练强化学习。其编程能力较上一代提升50%，在Terminal-Bench 3.0等基准测试中位列开源模型第一；真实终端任务自主完成成绩达前代六倍以上；网络安全能力追平海外闭源前沿模型。该模型在复杂软件工程和长程Agent任务上表现突出，可应用于自动化运维、代码审查、测试执行等场景。 PhanRouter通过统一API、智能路由和缓存优化，提供低于官方直连的调用价格及99.9%的SLA保障。此次当日上线基于团队对模型架构的提前预研和国产芯片",
+      "publishedAt": "2026-08-17T08:26:25Z",
+      "published_at": "2026-08-17T08:26:25Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ce5bf103",
+      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/474381.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/474381.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想  梦瑶 2026-08-17 16:36:07  来源：量子位   AI最近最出圈的数学突破，都在“找反例”  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  给AI一道数学猜想，它先琢磨的居然是：怎么把它推翻找反例！！  这番听着多少有点数学界反骨的判断，正出自1998年菲尔兹奖得主、英国数学家Timothy Gowers。     最近Gowers老哥闲来无事把这几个月AI最轰动的数学战绩往桌上一摊，发现了一件画风非常统一的事儿—— 雅可比猜想，找反例。 Erdős单位距离猜想，找反例。 非sofic群问题，构造一个过去没人找到的例子。 多色Ramsey数问题，核心依旧是构造出满足要求的新对象。 人类数学家：这个结论到底为什么成立？ AI：先等会儿，你这结论……真成立吗？（一身反骨.jpg） 所以，问题来了。 为啥AI们一碰上数学猜想，就这么爱往反例堆里钻啊我说！？ AI最近最出圈的数学突破，都在“找反例” 先说一个大家比较容易搞混的点。 Gowers这里提到的「找反例」和学生时代学过的「反证法」，其实还真有亿点点区别。",
+      "summary_zh": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想  梦瑶 2026-08-17 16:36:07  来源：量子位   AI最近最出圈的数学突破，都在“找反例”  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  给AI一道数学猜想，它先琢磨的居然是：怎么把它推翻找反例！！  这番听着多少有点数学界反骨的判断，正出自1998年菲尔兹奖得主、英国数学家Timothy Gowers。     最近Gowers老哥闲来无事把这几个月AI最轰动的数学战绩往桌上一摊，发现了一件画风非常统一的事儿—— 雅可比猜想，找反例。 Erdős单位距离猜想，找反例。 非sofic群问题，构造一个过去没人找到的例子。 多色Ramsey数问题，核心依旧是构造出满足要求的新对象。 人类数学家：这个结论到底为什么成立？ AI：先等会儿，你这结论……真成立吗？（一身反骨.jpg） 所以，问题来了。 为啥AI们一碰上数学猜想，就这么爱往反例堆里钻啊我说！？ AI最近最出圈的数学突破，都在“找反例” 先说一个大家比较容易搞混的点。 Gowers这里提到的「找反例」和学生时代学过的「反证法」，其实还真有亿点点区别。",
+      "publishedAt": "2026-08-17T08:36:07Z",
+      "published_at": "2026-08-17T08:36:07Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f8cab505",
+      "title": "AI资讯更新：Direct Percep",
+      "title_en": "Direct Perception Control（DPC）",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Direct Perception Control（DPC）",
+      "summary_zh": "Direct Perception Control（DPC）",
+      "publishedAt": "2026-08-17T20:48:39Z",
+      "published_at": "2026-08-17T20:48:39Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-08-17T09:07:26Z",
-  "generatedAt": "2026-08-17T09:07:26Z",
-  "count": 97,
-  "total": 97,
+  "generated_at": "2026-08-17T20:49:10Z",
+  "generatedAt": "2026-08-17T20:49:10Z",
+  "count": 98,
+  "total": 98,
   "entries": [
+    {
+      "date": "2026-08-18",
+      "generated_at": "2026-08-17T20:49:10Z",
+      "generatedAt": "2026-08-17T20:49:10Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "ddc3af36",
+          "title": "产品更新：Meridian",
+          "title_en": "Meridian",
+          "url": "https://www.producthunt.com/products/meridian-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/meridian-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Don't let your work go unnoticed. Get promoted",
+          "summary_zh": "Don't let your work go unnoticed. Get promoted",
+          "publishedAt": "2026-08-17T07:01:00Z",
+          "published_at": "2026-08-17T07:01:00Z",
+          "votes_count": 324,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "047fc4bd",
+          "title": "AI资讯更新：Omni by xpand",
+          "title_en": "Omni by xpander",
+          "url": "https://www.producthunt.com/products/omni-by-xpander?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/omni-by-xpander?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Stop babysitting your AI agents Omni is the AI",
+          "summary_zh": "Stop babysitting your AI agents Omni is the AI",
+          "publishedAt": "2026-08-17T07:01:00Z",
+          "published_at": "2026-08-17T07:01:00Z",
+          "votes_count": 278,
+          "featured": true,
+          "topics": [
+            {
+              "id": "22",
+              "name": "Slack",
+              "slug": "slack"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "220e45b8",
+          "title": "产品更新：Clears",
+          "title_en": "Clears",
+          "url": "https://www.producthunt.com/products/clears?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/clears?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Move beyond AI coding to Agentic Software Deli",
+          "summary_zh": "Move beyond AI coding to Agentic Software Deli",
+          "publishedAt": "2026-08-17T07:01:00Z",
+          "published_at": "2026-08-17T07:01:00Z",
+          "votes_count": 272,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-17",
       "generated_at": "2026-08-17T09:07:26Z",
