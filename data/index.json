@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-08-18T09:02:05Z",
-  "generatedAt": "2026-08-18T09:02:05Z",
-  "count": 98,
-  "total": 98,
+  "generated_at": "2026-08-18T20:45:18Z",
+  "generatedAt": "2026-08-18T20:45:18Z",
+  "count": 99,
+  "total": 99,
   "entries": [
+    {
+      "date": "2026-08-19",
+      "generated_at": "2026-08-18T20:45:18Z",
+      "generatedAt": "2026-08-18T20:45:18Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "5053138a",
+          "title": "产品更新：Clara AI SDR",
+          "title_en": "Clara AI SDR",
+          "url": "https://www.producthunt.com/products/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turn website visitors into qualified pipeline",
+          "summary_zh": "Turn website visitors into qualified pipeline",
+          "publishedAt": "2026-08-18T07:01:00Z",
+          "published_at": "2026-08-18T07:01:00Z",
+          "votes_count": 323,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b47823e9",
+          "title": "产品更新：Taku AI",
+          "title_en": "Taku AI",
+          "url": "https://www.producthunt.com/products/taku-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/taku-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Borrow the best AI setups and make them yours.",
+          "summary_zh": "Borrow the best AI setups and make them yours.",
+          "publishedAt": "2026-08-18T07:01:00Z",
+          "published_at": "2026-08-18T07:01:00Z",
+          "votes_count": 280,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5c974052",
+          "title": "AI资讯更新：Superflow AI",
+          "title_en": "Superflow AI",
+          "url": "https://www.producthunt.com/products/superflow-webflow-plugin-for-revisions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/superflow-webflow-plugin-for-revisions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI agents that QA your website before launch S",
+          "summary_zh": "AI agents that QA your website before launch S",
+          "publishedAt": "2026-08-18T07:01:00Z",
+          "published_at": "2026-08-18T07:01:00Z",
+          "votes_count": 210,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "839",
+              "name": "Marketing automation",
+              "slug": "marketing-automation"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-18",
       "generated_at": "2026-08-18T09:02:05Z",
