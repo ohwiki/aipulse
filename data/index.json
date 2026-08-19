@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-08-19T09:03:23Z",
-  "generatedAt": "2026-08-19T09:03:23Z",
-  "count": 99,
-  "total": 99,
+  "generated_at": "2026-08-19T20:50:14Z",
+  "generatedAt": "2026-08-19T20:50:14Z",
+  "count": 100,
+  "total": 100,
   "entries": [
+    {
+      "date": "2026-08-20",
+      "generated_at": "2026-08-19T20:50:14Z",
+      "generatedAt": "2026-08-19T20:50:14Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "e5176622",
+          "title": "产品更新：Clipto MCP",
+          "title_en": "Clipto MCP",
+          "url": "https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Let agents source clips from terabytes of your",
+          "summary_zh": "Let agents source clips from terabytes of your",
+          "publishedAt": "2026-08-19T07:01:00Z",
+          "published_at": "2026-08-19T07:01:00Z",
+          "votes_count": 336,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "361",
+              "name": "Search",
+              "slug": "search"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4110d1f5",
+          "title": "产品更新：Origin by Curso",
+          "title_en": "Origin by Cursor",
+          "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The Git forge built for the age of coding agen",
+          "summary_zh": "The Git forge built for the age of coding agen",
+          "publishedAt": "2026-08-19T07:01:00Z",
+          "published_at": "2026-08-19T07:01:00Z",
+          "votes_count": 260,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6a1f2152",
+          "title": "产品更新：Claude Watermar",
+          "title_en": "Claude Watermark Remover",
+          "url": "https://www.producthunt.com/products/claude-watermark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/claude-watermark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Find and remove every trace AI leaves in your",
+          "summary_zh": "Find and remove every trace AI leaves in your",
+          "publishedAt": "2026-08-19T07:01:00Z",
+          "published_at": "2026-08-19T07:01:00Z",
+          "votes_count": 208,
+          "featured": true,
+          "topics": [
+            {
+              "id": "90",
+              "name": "Writing",
+              "slug": "writing"
+            },
+            {
+              "id": "248",
+              "name": "Privacy",
+              "slug": "privacy"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "generated_at": "2026-08-19T09:03:23Z",

@@ -1,0 +1,503 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-19T20:50:14Z",
+  "generatedAt": "2026-08-19T20:50:14Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "e5176622",
+          "title": "产品更新：Clipto MCP",
+          "title_en": "Clipto MCP",
+          "url": "https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Let agents source clips from terabytes of your",
+          "summary_zh": "Let agents source clips from terabytes of your",
+          "publishedAt": "2026-08-19T07:01:00Z",
+          "published_at": "2026-08-19T07:01:00Z",
+          "votes_count": 336,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "361",
+              "name": "Search",
+              "slug": "search"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4110d1f5",
+          "title": "产品更新：Origin by Curso",
+          "title_en": "Origin by Cursor",
+          "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The Git forge built for the age of coding agen",
+          "summary_zh": "The Git forge built for the age of coding agen",
+          "publishedAt": "2026-08-19T07:01:00Z",
+          "published_at": "2026-08-19T07:01:00Z",
+          "votes_count": 260,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6a1f2152",
+          "title": "产品更新：Claude Watermar",
+          "title_en": "Claude Watermark Remover",
+          "url": "https://www.producthunt.com/products/claude-watermark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/claude-watermark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Find and remove every trace AI leaves in your",
+          "summary_zh": "Find and remove every trace AI leaves in your",
+          "publishedAt": "2026-08-19T07:01:00Z",
+          "published_at": "2026-08-19T07:01:00Z",
+          "votes_count": 208,
+          "featured": true,
+          "topics": [
+            {
+              "id": "90",
+              "name": "Writing",
+              "slug": "writing"
+            },
+            {
+              "id": "248",
+              "name": "Privacy",
+              "slug": "privacy"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5a684ffc",
+          "title": "产品更新：Hosted Agents i",
+          "title_en": "Hosted Agents in Cluing",
+          "url": "https://www.producthunt.com/products/cluing?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cluing?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Collaborative agents who build, learn and publ",
+          "summary_zh": "Collaborative agents who build, learn and publ",
+          "publishedAt": "2026-08-19T07:01:00Z",
+          "published_at": "2026-08-19T07:01:00Z",
+          "votes_count": 177,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "27d77685",
+          "title": "AI for Science开始“动手”了：机器人正式走进国家级实验室",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/475332.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/475332.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "AI for Science开始“动手”了：机器人正式走进国家级实验室  思邈 2026-08-19 14:29:57  来源：量子位   源络科技，推动AI for Science走进实验室3.0   允中 发自 凹非寺 量子位 | 公众号 QbitAI  清晨，一台具身智能机器人正在执行实验任务。 它需要完成数百次实验操作，包括试剂取放、试剂配置、自动分液、细胞毒性检测等流程，并实现多个实验设备之间的协同运行。 整个过程中，实验室内无需人员操作，由机器人自主完成任务。 这个场景并非科幻小说，而正在一个国家级科研平台实验室真实发生。  科学智能（AI for Science）的产业革命 今年7月中旬，国家级科研平台实验室迎来了第一批人形机器人。 这批名为Monte2的人形机器人，由源络科技与国家级科研实验室联合研发。 它的外形并不科幻：两条机械臂、一个简洁的躯干，但执行的操作却比外表看起来精细得多——精准转移微量试剂、精准抓取仪器、自主调动工具，并完成核酸提取预处理、细胞毒性培养实验。 与常见的六轴工业机器人不同，Monte2能够在实验台上完成长序列、灵活的实验操作，并复现人类实验员",
+          "summary_zh": "AI for Science开始“动手”了：机器人正式走进国家级实验室  思邈 2026-08-19 14:29:57  来源：量子位   源络科技，推动AI for Science走进实验室3.0   允中 发自 凹非寺 量子位 | 公众号 QbitAI  清晨，一台具身智能机器人正在执行实验任务。 它需要完成数百次实验操作，包括试剂取放、试剂配置、自动分液、细胞毒性检测等流程，并实现多个实验设备之间的协同运行。 整个过程中，实验室内无需人员操作，由机器人自主完成任务。 这个场景并非科幻小说，而正在一个国家级科研平台实验室真实发生。  科学智能（AI for Science）的产业革命 今年7月中旬，国家级科研平台实验室迎来了第一批人形机器人。 这批名为Monte2的人形机器人，由源络科技与国家级科研实验室联合研发。 它的外形并不科幻：两条机械臂、一个简洁的躯干，但执行的操作却比外表看起来精细得多——精准转移微量试剂、精准抓取仪器、自主调动工具，并完成核酸提取预处理、细胞毒性培养实验。 与常见的六轴工业机器人不同，Monte2能够在实验台上完成长序列、灵活的实验操作，并复现人类实验员",
+          "publishedAt": "2026-08-19T06:29:57Z",
+          "published_at": "2026-08-19T06:29:57Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "45c54345",
+          "title": "从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/475460.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/475460.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑  思邈 2026-08-19 14:35:42  来源：量子位   “做物理，要敢于提出蠢问题”   允中 发自 凹非寺 量子位 | 公众号 QbitAI  8月12日，搜狐视频关注流《张朝阳的物理课》“基础科学大会系列对谈”重磅开启。 搜狐创始人、董事局主席兼首席执行官、物理学博士张朝阳，与宾夕法尼亚大学物理教授及软物质与生命物质研究中心主任刘若微（Andrea J. Liu）教授展开深度对话。 刘若微教授是非平衡统计物理领域的标杆学者，凭借在阻塞相变与无序固体领域的开创性贡献，她与合作者斩获2025年美国物理学会Leo P. Kadanoff奖，并于今年荣获国际基础科学大会的玛丽·居里物理学奖章。  二人以“复杂的世界：从沙子到智能”为主题，从日常可见的沙堆、泡沫切入，深入软物质与非平衡统计物理的前沿领域，探寻无序系统中的普适规律，并延伸探讨了低功耗类脑智能材料的研究路径与未来潜力。 （本文基于直播对话整理，为便于理解，对口语表达进行了提炼与重组，未改变实质性观点，特此备注） 一、阻塞相变：无序物质如何获得刚性",
+          "summary_zh": "从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑  思邈 2026-08-19 14:35:42  来源：量子位   “做物理，要敢于提出蠢问题”   允中 发自 凹非寺 量子位 | 公众号 QbitAI  8月12日，搜狐视频关注流《张朝阳的物理课》“基础科学大会系列对谈”重磅开启。 搜狐创始人、董事局主席兼首席执行官、物理学博士张朝阳，与宾夕法尼亚大学物理教授及软物质与生命物质研究中心主任刘若微（Andrea J. Liu）教授展开深度对话。 刘若微教授是非平衡统计物理领域的标杆学者，凭借在阻塞相变与无序固体领域的开创性贡献，她与合作者斩获2025年美国物理学会Leo P. Kadanoff奖，并于今年荣获国际基础科学大会的玛丽·居里物理学奖章。  二人以“复杂的世界：从沙子到智能”为主题，从日常可见的沙堆、泡沫切入，深入软物质与非平衡统计物理的前沿领域，探寻无序系统中的普适规律，并延伸探讨了低功耗类脑智能材料的研究路径与未来潜力。 （本文基于直播对话整理，为便于理解，对口语表达进行了提炼与重组，未改变实质性观点，特此备注） 一、阻塞相变：无序物质如何获得刚性",
+          "publishedAt": "2026-08-19T06:35:42Z",
+          "published_at": "2026-08-19T06:35:42Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "b8dec70b",
+          "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/475476.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/475476.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”  梦晨 2026-08-19 15:22:19  来源：量子位   AI终于能听严格执行运镜需求   衡宇 发自 凹非寺量子位 | 公众号 QbitAI  不是我说，随着模型能力越来越强，现在各大平台上优秀的AI视频早就超过普通人玩AI的范畴了。 更多是有编导思维的科班/专业人士利用AI下放的门槛，把自己的专业能力放大，在这些赛道一通乱杀。 为了验证这种差距，我也用最近大火的视频模型生成了一段镜头：  身着传统武士铠甲的武士，缓步穿行于古日本木质村落街道，居于画面中心，步履沉稳。街道两旁村民或立或跪垂首行礼，氛围肃穆，地面微湿。镜头缓缓推进，整体充满历史电影的真实质感。  得到如下画面（且prompt被AI帮我润色补全过）：     模型能力本身是没问题的！ 然而我科班出身、还在影视行业当牛马的学妹看了过后冷笑一声，说我第一不懂编导思维不懂镜头衔接，第二不懂AI视频生成。 听到无情嘲讽我即将小发雷霆，她给我看了同一个模型出来的成片，我一下就阿巴阿巴了。 这家伙脑中已经具备完整的分镜和调度逻辑，但，她说差异如此巨大，主",
+          "summary_zh": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”  梦晨 2026-08-19 15:22:19  来源：量子位   AI终于能听严格执行运镜需求   衡宇 发自 凹非寺量子位 | 公众号 QbitAI  不是我说，随着模型能力越来越强，现在各大平台上优秀的AI视频早就超过普通人玩AI的范畴了。 更多是有编导思维的科班/专业人士利用AI下放的门槛，把自己的专业能力放大，在这些赛道一通乱杀。 为了验证这种差距，我也用最近大火的视频模型生成了一段镜头：  身着传统武士铠甲的武士，缓步穿行于古日本木质村落街道，居于画面中心，步履沉稳。街道两旁村民或立或跪垂首行礼，氛围肃穆，地面微湿。镜头缓缓推进，整体充满历史电影的真实质感。  得到如下画面（且prompt被AI帮我润色补全过）：     模型能力本身是没问题的！ 然而我科班出身、还在影视行业当牛马的学妹看了过后冷笑一声，说我第一不懂编导思维不懂镜头衔接，第二不懂AI视频生成。 听到无情嘲讽我即将小发雷霆，她给我看了同一个模型出来的成片，我一下就阿巴阿巴了。 这家伙脑中已经具备完整的分镜和调度逻辑，但，她说差异如此巨大，主",
+          "publishedAt": "2026-08-19T07:22:19Z",
+          "published_at": "2026-08-19T07:22:19Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "61c681f9",
+          "title": "章鱼动力亮相WRC 2026， 携「",
+          "title_en": "章鱼动力亮相WRC 2026， 携「脑-手-数据」技术体系探索具身智能未来范式",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "章鱼动力亮相WRC 2026， 携「脑-手-数据」技术体系探索具身智能未来范式",
+          "summary_zh": "章鱼动力亮相WRC 2026， 携「脑-手-数据」技术体系探索具身智能未来范式",
+          "publishedAt": "2026-08-19T20:49:48Z",
+          "published_at": "2026-08-19T20:49:48Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "e5176622",
+      "title": "产品更新：Clipto MCP",
+      "title_en": "Clipto MCP",
+      "url": "https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Let agents source clips from terabytes of your",
+      "summary_zh": "Let agents source clips from terabytes of your",
+      "publishedAt": "2026-08-19T07:01:00Z",
+      "published_at": "2026-08-19T07:01:00Z",
+      "votes_count": 336,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "361",
+          "name": "Search",
+          "slug": "search"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "4110d1f5",
+      "title": "产品更新：Origin by Curso",
+      "title_en": "Origin by Cursor",
+      "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The Git forge built for the age of coding agen",
+      "summary_zh": "The Git forge built for the age of coding agen",
+      "publishedAt": "2026-08-19T07:01:00Z",
+      "published_at": "2026-08-19T07:01:00Z",
+      "votes_count": 260,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6a1f2152",
+      "title": "产品更新：Claude Watermar",
+      "title_en": "Claude Watermark Remover",
+      "url": "https://www.producthunt.com/products/claude-watermark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/claude-watermark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Find and remove every trace AI leaves in your",
+      "summary_zh": "Find and remove every trace AI leaves in your",
+      "publishedAt": "2026-08-19T07:01:00Z",
+      "published_at": "2026-08-19T07:01:00Z",
+      "votes_count": 208,
+      "featured": true,
+      "topics": [
+        {
+          "id": "90",
+          "name": "Writing",
+          "slug": "writing"
+        },
+        {
+          "id": "248",
+          "name": "Privacy",
+          "slug": "privacy"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5a684ffc",
+      "title": "产品更新：Hosted Agents i",
+      "title_en": "Hosted Agents in Cluing",
+      "url": "https://www.producthunt.com/products/cluing?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cluing?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Collaborative agents who build, learn and publ",
+      "summary_zh": "Collaborative agents who build, learn and publ",
+      "publishedAt": "2026-08-19T07:01:00Z",
+      "published_at": "2026-08-19T07:01:00Z",
+      "votes_count": 177,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "27d77685",
+      "title": "AI for Science开始“动手”了：机器人正式走进国家级实验室",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/475332.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/475332.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AI for Science开始“动手”了：机器人正式走进国家级实验室  思邈 2026-08-19 14:29:57  来源：量子位   源络科技，推动AI for Science走进实验室3.0   允中 发自 凹非寺 量子位 | 公众号 QbitAI  清晨，一台具身智能机器人正在执行实验任务。 它需要完成数百次实验操作，包括试剂取放、试剂配置、自动分液、细胞毒性检测等流程，并实现多个实验设备之间的协同运行。 整个过程中，实验室内无需人员操作，由机器人自主完成任务。 这个场景并非科幻小说，而正在一个国家级科研平台实验室真实发生。  科学智能（AI for Science）的产业革命 今年7月中旬，国家级科研平台实验室迎来了第一批人形机器人。 这批名为Monte2的人形机器人，由源络科技与国家级科研实验室联合研发。 它的外形并不科幻：两条机械臂、一个简洁的躯干，但执行的操作却比外表看起来精细得多——精准转移微量试剂、精准抓取仪器、自主调动工具，并完成核酸提取预处理、细胞毒性培养实验。 与常见的六轴工业机器人不同，Monte2能够在实验台上完成长序列、灵活的实验操作，并复现人类实验员",
+      "summary_zh": "AI for Science开始“动手”了：机器人正式走进国家级实验室  思邈 2026-08-19 14:29:57  来源：量子位   源络科技，推动AI for Science走进实验室3.0   允中 发自 凹非寺 量子位 | 公众号 QbitAI  清晨，一台具身智能机器人正在执行实验任务。 它需要完成数百次实验操作，包括试剂取放、试剂配置、自动分液、细胞毒性检测等流程，并实现多个实验设备之间的协同运行。 整个过程中，实验室内无需人员操作，由机器人自主完成任务。 这个场景并非科幻小说，而正在一个国家级科研平台实验室真实发生。  科学智能（AI for Science）的产业革命 今年7月中旬，国家级科研平台实验室迎来了第一批人形机器人。 这批名为Monte2的人形机器人，由源络科技与国家级科研实验室联合研发。 它的外形并不科幻：两条机械臂、一个简洁的躯干，但执行的操作却比外表看起来精细得多——精准转移微量试剂、精准抓取仪器、自主调动工具，并完成核酸提取预处理、细胞毒性培养实验。 与常见的六轴工业机器人不同，Monte2能够在实验台上完成长序列、灵活的实验操作，并复现人类实验员",
+      "publishedAt": "2026-08-19T06:29:57Z",
+      "published_at": "2026-08-19T06:29:57Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "45c54345",
+      "title": "从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/475460.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/475460.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑  思邈 2026-08-19 14:35:42  来源：量子位   “做物理，要敢于提出蠢问题”   允中 发自 凹非寺 量子位 | 公众号 QbitAI  8月12日，搜狐视频关注流《张朝阳的物理课》“基础科学大会系列对谈”重磅开启。 搜狐创始人、董事局主席兼首席执行官、物理学博士张朝阳，与宾夕法尼亚大学物理教授及软物质与生命物质研究中心主任刘若微（Andrea J. Liu）教授展开深度对话。 刘若微教授是非平衡统计物理领域的标杆学者，凭借在阻塞相变与无序固体领域的开创性贡献，她与合作者斩获2025年美国物理学会Leo P. Kadanoff奖，并于今年荣获国际基础科学大会的玛丽·居里物理学奖章。  二人以“复杂的世界：从沙子到智能”为主题，从日常可见的沙堆、泡沫切入，深入软物质与非平衡统计物理的前沿领域，探寻无序系统中的普适规律，并延伸探讨了低功耗类脑智能材料的研究路径与未来潜力。 （本文基于直播对话整理，为便于理解，对口语表达进行了提炼与重组，未改变实质性观点，特此备注） 一、阻塞相变：无序物质如何获得刚性",
+      "summary_zh": "从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑  思邈 2026-08-19 14:35:42  来源：量子位   “做物理，要敢于提出蠢问题”   允中 发自 凹非寺 量子位 | 公众号 QbitAI  8月12日，搜狐视频关注流《张朝阳的物理课》“基础科学大会系列对谈”重磅开启。 搜狐创始人、董事局主席兼首席执行官、物理学博士张朝阳，与宾夕法尼亚大学物理教授及软物质与生命物质研究中心主任刘若微（Andrea J. Liu）教授展开深度对话。 刘若微教授是非平衡统计物理领域的标杆学者，凭借在阻塞相变与无序固体领域的开创性贡献，她与合作者斩获2025年美国物理学会Leo P. Kadanoff奖，并于今年荣获国际基础科学大会的玛丽·居里物理学奖章。  二人以“复杂的世界：从沙子到智能”为主题，从日常可见的沙堆、泡沫切入，深入软物质与非平衡统计物理的前沿领域，探寻无序系统中的普适规律，并延伸探讨了低功耗类脑智能材料的研究路径与未来潜力。 （本文基于直播对话整理，为便于理解，对口语表达进行了提炼与重组，未改变实质性观点，特此备注） 一、阻塞相变：无序物质如何获得刚性",
+      "publishedAt": "2026-08-19T06:35:42Z",
+      "published_at": "2026-08-19T06:35:42Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "b8dec70b",
+      "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/475476.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/475476.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”  梦晨 2026-08-19 15:22:19  来源：量子位   AI终于能听严格执行运镜需求   衡宇 发自 凹非寺量子位 | 公众号 QbitAI  不是我说，随着模型能力越来越强，现在各大平台上优秀的AI视频早就超过普通人玩AI的范畴了。 更多是有编导思维的科班/专业人士利用AI下放的门槛，把自己的专业能力放大，在这些赛道一通乱杀。 为了验证这种差距，我也用最近大火的视频模型生成了一段镜头：  身着传统武士铠甲的武士，缓步穿行于古日本木质村落街道，居于画面中心，步履沉稳。街道两旁村民或立或跪垂首行礼，氛围肃穆，地面微湿。镜头缓缓推进，整体充满历史电影的真实质感。  得到如下画面（且prompt被AI帮我润色补全过）：     模型能力本身是没问题的！ 然而我科班出身、还在影视行业当牛马的学妹看了过后冷笑一声，说我第一不懂编导思维不懂镜头衔接，第二不懂AI视频生成。 听到无情嘲讽我即将小发雷霆，她给我看了同一个模型出来的成片，我一下就阿巴阿巴了。 这家伙脑中已经具备完整的分镜和调度逻辑，但，她说差异如此巨大，主",
+      "summary_zh": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”  梦晨 2026-08-19 15:22:19  来源：量子位   AI终于能听严格执行运镜需求   衡宇 发自 凹非寺量子位 | 公众号 QbitAI  不是我说，随着模型能力越来越强，现在各大平台上优秀的AI视频早就超过普通人玩AI的范畴了。 更多是有编导思维的科班/专业人士利用AI下放的门槛，把自己的专业能力放大，在这些赛道一通乱杀。 为了验证这种差距，我也用最近大火的视频模型生成了一段镜头：  身着传统武士铠甲的武士，缓步穿行于古日本木质村落街道，居于画面中心，步履沉稳。街道两旁村民或立或跪垂首行礼，氛围肃穆，地面微湿。镜头缓缓推进，整体充满历史电影的真实质感。  得到如下画面（且prompt被AI帮我润色补全过）：     模型能力本身是没问题的！ 然而我科班出身、还在影视行业当牛马的学妹看了过后冷笑一声，说我第一不懂编导思维不懂镜头衔接，第二不懂AI视频生成。 听到无情嘲讽我即将小发雷霆，她给我看了同一个模型出来的成片，我一下就阿巴阿巴了。 这家伙脑中已经具备完整的分镜和调度逻辑，但，她说差异如此巨大，主",
+      "publishedAt": "2026-08-19T07:22:19Z",
+      "published_at": "2026-08-19T07:22:19Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "61c681f9",
+      "title": "章鱼动力亮相WRC 2026， 携「",
+      "title_en": "章鱼动力亮相WRC 2026， 携「脑-手-数据」技术体系探索具身智能未来范式",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "章鱼动力亮相WRC 2026， 携「脑-手-数据」技术体系探索具身智能未来范式",
+      "summary_zh": "章鱼动力亮相WRC 2026， 携「脑-手-数据」技术体系探索具身智能未来范式",
+      "publishedAt": "2026-08-19T20:49:48Z",
+      "published_at": "2026-08-19T20:49:48Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
