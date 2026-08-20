@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-08-19T20:50:14Z",
-  "generatedAt": "2026-08-19T20:50:14Z",
+  "generated_at": "2026-08-20T09:04:35Z",
+  "generatedAt": "2026-08-20T09:04:35Z",
   "count": 100,
   "total": 100,
   "entries": [
     {
       "date": "2026-08-20",
-      "generated_at": "2026-08-19T20:50:14Z",
-      "generatedAt": "2026-08-19T20:50:14Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-08-20T09:04:35Z",
+      "generatedAt": "2026-08-20T09:04:35Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "e5176622",
-          "title": "产品更新：Clipto MCP",
-          "title_en": "Clipto MCP",
-          "url": "https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "8e1095df",
+          "title": "从一条导盲路到五种真实生活服务，高德",
+          "title_en": "从一条导盲路到五种真实生活服务，高德动量机器狗途途亮相 WRC",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Let agents source clips from terabytes of your",
-          "summary_zh": "Let agents source clips from terabytes of your",
-          "publishedAt": "2026-08-19T07:01:00Z",
-          "published_at": "2026-08-19T07:01:00Z",
-          "votes_count": 336,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "361",
-              "name": "Search",
-              "slug": "search"
-            },
-            {
-              "id": "857",
-              "name": "Video",
-              "slug": "video"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "从一条导盲路到五种真实生活服务，高德动量机器狗途途亮相 WRC",
+          "summary_zh": "从一条导盲路到五种真实生活服务，高德动量机器狗途途亮相 WRC",
+          "publishedAt": "2026-08-20T09:04:05Z",
+          "published_at": "2026-08-20T09:04:05Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "4110d1f5",
-          "title": "产品更新：Origin by Curso",
-          "title_en": "Origin by Cursor",
-          "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "8a0797f4",
+          "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/476070.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The Git forge built for the age of coding agen",
-          "summary_zh": "The Git forge built for the age of coding agen",
-          "publishedAt": "2026-08-19T07:01:00Z",
-          "published_at": "2026-08-19T07:01:00Z",
-          "votes_count": 260,
-          "featured": true,
-          "topics": [
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/476070.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "华尔街实测8款全球主流Agent：千问办公综合排名第一  量子位的朋友们 2026-08-20 09:06:45  来源：量子位   成本也正成为Agent商业化需要考虑的重要因素  8月19日消息，华尔街投行杰富瑞分析师近日对八款全球主流AI Agent进行了真实办公任务实测，结果显示，通过模型和Harness的协同，阿里千问办公综合得分排名第一，超过美国的Claude Cowork和Codex等Agent工具。    此次测试共设置5项真实办公任务，包括基于多份文件完成公司年报摘要、联网查找并比较公司经营数据、操作真实桌面浏览器完成信息检索和文档生成、根据数据制作英文PPT，以及基于参考图片生成营销海报。测试结果显示，千问办公整体表现较为均衡，尤其在复杂办公任务、网页浏览器控制以及多模态内容生成等场景中表现突出，是唯一一个在所有测评维度中均获得90分以上的Agent产品。 报告进一步将Agent能力拆分为模型与Harness两部分进行分析。所谓Harness，是围绕模型运行的一整套工程机制，包括指令、上下文、工具调用、边界控制、反馈纠错和治理等。按照杰富瑞的测算，千问办公的“隐含H",
+          "summary_zh": "华尔街实测8款全球主流Agent：千问办公综合排名第一  量子位的朋友们 2026-08-20 09:06:45  来源：量子位   成本也正成为Agent商业化需要考虑的重要因素  8月19日消息，华尔街投行杰富瑞分析师近日对八款全球主流AI Agent进行了真实办公任务实测，结果显示，通过模型和Harness的协同，阿里千问办公综合得分排名第一，超过美国的Claude Cowork和Codex等Agent工具。    此次测试共设置5项真实办公任务，包括基于多份文件完成公司年报摘要、联网查找并比较公司经营数据、操作真实桌面浏览器完成信息检索和文档生成、根据数据制作英文PPT，以及基于参考图片生成营销海报。测试结果显示，千问办公整体表现较为均衡，尤其在复杂办公任务、网页浏览器控制以及多模态内容生成等场景中表现突出，是唯一一个在所有测评维度中均获得90分以上的Agent产品。 报告进一步将Agent能力拆分为模型与Harness两部分进行分析。所谓Harness，是围绕模型运行的一整套工程机制，包括指令、上下文、工具调用、边界控制、反馈纠错和治理等。按照杰富瑞的测算，千问办公的“隐含H",
+          "publishedAt": "2026-08-20T01:06:45Z",
+          "published_at": "2026-08-20T01:06:45Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "6a1f2152",
-          "title": "产品更新：Claude Watermar",
-          "title_en": "Claude Watermark Remover",
-          "url": "https://www.producthunt.com/products/claude-watermark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "0fa9d1d7",
+          "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/475931.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/claude-watermark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Find and remove every trace AI leaves in your",
-          "summary_zh": "Find and remove every trace AI leaves in your",
-          "publishedAt": "2026-08-19T07:01:00Z",
-          "published_at": "2026-08-19T07:01:00Z",
-          "votes_count": 208,
-          "featured": true,
-          "topics": [
-            {
-              "id": "90",
-              "name": "Writing",
-              "slug": "writing"
-            },
-            {
-              "id": "248",
-              "name": "Privacy",
-              "slug": "privacy"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/475931.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式  量子位的朋友们 2026-08-19 18:54:07  来源：量子位    8月19日，2026世界机器人大会（WRC）于北京正式开幕。作为全球机器人领域极具影响力的产研盛会，大会以“人机共生，产需共融”为主题，集中展示机器人与AI行业技术创新、应用落地的最新突破性成果。 章鱼动力（SynapX）作为物理AI赛道备受瞩目的新锐势力，受邀亮相本次大会，正式发布并展出由SYNWorld具身原生世界基础模型、OctoH-Hand高自由度仿生灵巧手、OctoSense下一代具身数采方案共同构成的“脑-手-数据”技术体系，完整呈现对下一代物理AI技术路线的深度创新探索。 三大产品技术矩阵重磅发布 伴随着“AI进入物理世界”成为行业共识，具身智能已跻身全行业聚焦关注、紧迫投入的核心方向。章鱼动力围绕“脑-手-数据”搭建的独创技术体系，则为全行业探索具身智能落地范式，提供了一条全新路径。 在本次大会上，章鱼动力重磅首发以“脑-手-数据”为内核的三大产品技术矩阵。  其中，“脑”即 SYNWorld 通用世界基础模型，承",
+          "summary_zh": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式  量子位的朋友们 2026-08-19 18:54:07  来源：量子位    8月19日，2026世界机器人大会（WRC）于北京正式开幕。作为全球机器人领域极具影响力的产研盛会，大会以“人机共生，产需共融”为主题，集中展示机器人与AI行业技术创新、应用落地的最新突破性成果。 章鱼动力（SynapX）作为物理AI赛道备受瞩目的新锐势力，受邀亮相本次大会，正式发布并展出由SYNWorld具身原生世界基础模型、OctoH-Hand高自由度仿生灵巧手、OctoSense下一代具身数采方案共同构成的“脑-手-数据”技术体系，完整呈现对下一代物理AI技术路线的深度创新探索。 三大产品技术矩阵重磅发布 伴随着“AI进入物理世界”成为行业共识，具身智能已跻身全行业聚焦关注、紧迫投入的核心方向。章鱼动力围绕“脑-手-数据”搭建的独创技术体系，则为全行业探索具身智能落地范式，提供了一条全新路径。 在本次大会上，章鱼动力重磅首发以“脑-手-数据”为内核的三大产品技术矩阵。  其中，“脑”即 SYNWorld 通用世界基础模型，承",
+          "publishedAt": "2026-08-19T10:54:07Z",
+          "published_at": "2026-08-19T10:54:07Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
