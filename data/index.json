@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-08-20T09:04:35Z",
-  "generatedAt": "2026-08-20T09:04:35Z",
-  "count": 100,
-  "total": 100,
+  "generated_at": "2026-08-20T20:52:05Z",
+  "generatedAt": "2026-08-20T20:52:05Z",
+  "count": 101,
+  "total": 101,
   "entries": [
+    {
+      "date": "2026-08-21",
+      "generated_at": "2026-08-20T20:52:05Z",
+      "generatedAt": "2026-08-20T20:52:05Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "3009deaf",
+          "title": "产品更新：HyNote for Mac",
+          "title_en": "HyNote for Mac",
+          "url": "https://www.producthunt.com/products/hynote-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/hynote-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Free local transcription that is 100% Private",
+          "summary_zh": "Free local transcription that is 100% Private",
+          "publishedAt": "2026-08-20T07:01:00Z",
+          "published_at": "2026-08-20T07:01:00Z",
+          "votes_count": 294,
+          "featured": true,
+          "topics": [
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            },
+            {
+              "id": "303",
+              "name": "Menu Bar Apps",
+              "slug": "menu-bar-apps"
+            },
+            {
+              "id": "362",
+              "name": "Apple",
+              "slug": "apple"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "36672a37",
+          "title": "产品更新：Grok 4.6",
+          "title_en": "Grok 4.6",
+          "url": "https://www.producthunt.com/products/grok-4-6-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/grok-4-6-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Frontier Intelligence for Long-Running Agents",
+          "summary_zh": "Frontier Intelligence for Long-Running Agents",
+          "publishedAt": "2026-08-20T07:01:00Z",
+          "published_at": "2026-08-20T07:01:00Z",
+          "votes_count": 223,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c089d7c6",
+          "title": "产品更新：Checksum AI",
+          "title_en": "Checksum AI",
+          "url": "https://www.producthunt.com/products/checksum-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/checksum-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your coding agent’s testing buddy Checksum is",
+          "summary_zh": "Your coding agent’s testing buddy Checksum is",
+          "publishedAt": "2026-08-20T07:01:00Z",
+          "published_at": "2026-08-20T07:01:00Z",
+          "votes_count": 199,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-20",
       "generated_at": "2026-08-20T09:04:35Z",
