@@ -1,133 +1,80 @@
 {
-  "generated_at": "2026-08-20T20:52:05Z",
-  "generatedAt": "2026-08-20T20:52:05Z",
+  "generated_at": "2026-08-21T09:06:23Z",
+  "generatedAt": "2026-08-21T09:06:23Z",
   "count": 101,
   "total": 101,
   "entries": [
     {
       "date": "2026-08-21",
-      "generated_at": "2026-08-20T20:52:05Z",
-      "generatedAt": "2026-08-20T20:52:05Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-08-21T09:06:23Z",
+      "generatedAt": "2026-08-21T09:06:23Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "3009deaf",
-          "title": "产品更新：HyNote for Mac",
-          "title_en": "HyNote for Mac",
-          "url": "https://www.producthunt.com/products/hynote-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "5d45a84a",
+          "title": "全球首个人形机器人自主乒乓球完整对局",
+          "title_en": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会，超维动力KAI全栈具身智能硬核登场",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/hynote-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Free local transcription that is 100% Private",
-          "summary_zh": "Free local transcription that is 100% Private",
-          "publishedAt": "2026-08-20T07:01:00Z",
-          "published_at": "2026-08-20T07:01:00Z",
-          "votes_count": 294,
-          "featured": true,
-          "topics": [
-            {
-              "id": "252",
-              "name": "Meetings",
-              "slug": "meetings"
-            },
-            {
-              "id": "303",
-              "name": "Menu Bar Apps",
-              "slug": "menu-bar-apps"
-            },
-            {
-              "id": "362",
-              "name": "Apple",
-              "slug": "apple"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会，超维动力KAI全栈具身智能硬",
+          "summary_zh": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会，超维动力KAI全栈具身智能硬",
+          "publishedAt": "2026-08-21T09:05:49Z",
+          "published_at": "2026-08-21T09:05:49Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "36672a37",
-          "title": "产品更新：Grok 4.6",
-          "title_en": "Grok 4.6",
-          "url": "https://www.producthunt.com/products/grok-4-6-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "40cef4f1",
+          "title": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/476409.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/grok-4-6-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Frontier Intelligence for Long-Running Agents",
-          "summary_zh": "Frontier Intelligence for Long-Running Agents",
-          "publishedAt": "2026-08-20T07:01:00Z",
-          "published_at": "2026-08-20T07:01:00Z",
-          "votes_count": 223,
-          "featured": true,
-          "topics": [
-            {
-              "id": "2",
-              "name": "Android",
-              "slug": "android"
-            },
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/476409.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%  量子位的朋友们 2026-08-21 10:31:10  来源：量子位   8月19日，在AI Hangzhou 2026杭州人工智能大会暨长三角人工智能发展大会期间，国产AI芯片企业太初（杭州）集成电路有限公司（又简称“太初元碁”）正式对外发布面向产业集群建设的分布式算力解决方案，以预制化集装箱算力单元为核心，破解产业算力落地的效率与场景瓶颈。 太初元碁首席产品官、高级副总裁洪源表示，当前，算⼒作为数字经济的核⼼⽣产⼒，正从架构、密度到⽣态层⾯经历全⽅位的重构与升级，传统模式已难以匹配AI时代的爆发式需求。“根据我们对于市场的观察和调研，我们看到算力需求正从中心云端向全域边缘扩散，金融、能源等行业中小规模算力需求激增，”洪源说道，“然而，传统智算建设周期长、机房承载门槛高、资源弹性不足、特殊场景难部署等问题，已难以匹配产业爆发节奏。为了快速满足不同行业对于算力的需求，我们推出分布式算力解决方案，依托集装箱组合打造‘算、网、存、冷’超预制模块。” 据介绍，本次发布的标准化集装箱算力产品矩阵共包含3类产品：风",
+          "summary_zh": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%  量子位的朋友们 2026-08-21 10:31:10  来源：量子位   8月19日，在AI Hangzhou 2026杭州人工智能大会暨长三角人工智能发展大会期间，国产AI芯片企业太初（杭州）集成电路有限公司（又简称“太初元碁”）正式对外发布面向产业集群建设的分布式算力解决方案，以预制化集装箱算力单元为核心，破解产业算力落地的效率与场景瓶颈。 太初元碁首席产品官、高级副总裁洪源表示，当前，算⼒作为数字经济的核⼼⽣产⼒，正从架构、密度到⽣态层⾯经历全⽅位的重构与升级，传统模式已难以匹配AI时代的爆发式需求。“根据我们对于市场的观察和调研，我们看到算力需求正从中心云端向全域边缘扩散，金融、能源等行业中小规模算力需求激增，”洪源说道，“然而，传统智算建设周期长、机房承载门槛高、资源弹性不足、特殊场景难部署等问题，已难以匹配产业爆发节奏。为了快速满足不同行业对于算力的需求，我们推出分布式算力解决方案，依托集装箱组合打造‘算、网、存、冷’超预制模块。” 据介绍，本次发布的标准化集装箱算力产品矩阵共包含3类产品：风",
+          "publishedAt": "2026-08-21T02:31:10Z",
+          "published_at": "2026-08-21T02:31:10Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "c089d7c6",
-          "title": "产品更新：Checksum AI",
-          "title_en": "Checksum AI",
-          "url": "https://www.producthunt.com/products/checksum-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "9399252e",
+          "title": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/476406.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/checksum-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Your coding agent’s testing buddy Checksum is",
-          "summary_zh": "Your coding agent’s testing buddy Checksum is",
-          "publishedAt": "2026-08-20T07:01:00Z",
-          "published_at": "2026-08-20T07:01:00Z",
-          "votes_count": 199,
-          "featured": true,
-          "topics": [
-            {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/476406.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案  量子位的朋友们 2026-08-21 10:26:49  来源：量子位   2026年8月18日，优必选自研的“行者具身智能模型”顺利通过中央网信办测评审核，正式完成生成式人工智能服务备案。优必选也是具身智能机器人行业首批通过模型备案的企业之一，这标志着公司在具身智能模型的内容安全能力建设方面迈出了关键性一步，为人形机器人在家庭陪伴场景的进一步落地提供了坚实的合规保障。 情感陪伴  做有温度的具身大脑  在智能交互方面，本次备案的行者具身智能模型面向情感交互方面进行了专项微调，使其在保持高精准环境感知与长程任务规划能力的同时，具备更加丰富、自然、人性化的交互体验，可满足家庭陪伴、情感互动、迎宾客服、广告宣传、智慧引导等多元化应用场景的需求。 在人类的情感传递中，表情、眼神、语音语调、肢体语言这些非语言信号占很大比重。具身情感模型能够让人形机器人通过表情、视线、姿态、触觉反馈等多维度协同进行情感表达，而不再只是单调的文字或语音，为用户带来更丰富、更新颖的具身交互陪伴体验。通过仿生外观设计、多维表达能力和物理在场感，也能在相对较短",
+          "summary_zh": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案  量子位的朋友们 2026-08-21 10:26:49  来源：量子位   2026年8月18日，优必选自研的“行者具身智能模型”顺利通过中央网信办测评审核，正式完成生成式人工智能服务备案。优必选也是具身智能机器人行业首批通过模型备案的企业之一，这标志着公司在具身智能模型的内容安全能力建设方面迈出了关键性一步，为人形机器人在家庭陪伴场景的进一步落地提供了坚实的合规保障。 情感陪伴  做有温度的具身大脑  在智能交互方面，本次备案的行者具身智能模型面向情感交互方面进行了专项微调，使其在保持高精准环境感知与长程任务规划能力的同时，具备更加丰富、自然、人性化的交互体验，可满足家庭陪伴、情感互动、迎宾客服、广告宣传、智慧引导等多元化应用场景的需求。 在人类的情感传递中，表情、眼神、语音语调、肢体语言这些非语言信号占很大比重。具身情感模型能够让人形机器人通过表情、视线、姿态、触觉反馈等多维度协同进行情感表达，而不再只是单调的文字或语音，为用户带来更丰富、更新颖的具身交互陪伴体验。通过仿生外观设计、多维表达能力和物理在场感，也能在相对较短",
+          "publishedAt": "2026-08-21T02:26:49Z",
+          "published_at": "2026-08-21T02:26:49Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
