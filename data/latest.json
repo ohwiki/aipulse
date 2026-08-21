@@ -1,30 +1,160 @@
 {
-  "generated_at": "2026-08-21T09:06:23Z",
-  "generatedAt": "2026-08-21T09:06:23Z",
+  "generated_at": "2026-08-21T20:45:34Z",
+  "generatedAt": "2026-08-21T20:45:34Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 8,
+  "count": 8,
   "items": [
     {
-      "id": "6d2480a8",
-      "title": "三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/08/476403.html",
-      "source": "量子位",
+      "id": "718d0aa2",
+      "title": "产品更新：Wizstar",
+      "title_en": "Wizstar",
+      "url": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/08/476403.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果  量子位的朋友们 2026-08-21 10:22:43  来源：量子位   8月19日至23日，2026世界机器人大会（WRC 2026）在北京举行，优必选携工业、商业、家庭消费三大场景的多款人形机器人新品及解决方案亮相，完整呈现了从具身智能技术研发、产品创新到真实场景规模化应用的全链条实力，工业人形机器人Cruzr Y1、商用服务人形机器人Walker C1、超仿生人形机器人U1等多款新产品集中亮相，成为本届展会的焦点。 工业练硬功、商用重服务、家庭消费塑情感，三大场景协同赋能落地 2026年是人形机器人市场化应用的元年，行业告别概念化探索，迈入场景化、实用化、规模化发展新阶段。优必选构建“工业练硬功、商用重服务、家庭消费塑情感”的立体化战略布局，三大应用场景层层递进、相互赋能，通过多场景技术沉淀与数据反哺，持续释放人形机器人的新质生产力价值。本次展会，优必选打造三大场景沉浸式展区，以实景实操、真实交互的形式，全方位呈现企业在技术迭代、产品创新、场景规模化应用的领先优势。 工业场景是优必选具身智能技术落",
-      "summary_zh": "三箭齐发！优必选WRC2026全方位展示人形机器人工业、商用、家庭消费应用成果  量子位的朋友们 2026-08-21 10:22:43  来源：量子位   8月19日至23日，2026世界机器人大会（WRC 2026）在北京举行，优必选携工业、商业、家庭消费三大场景的多款人形机器人新品及解决方案亮相，完整呈现了从具身智能技术研发、产品创新到真实场景规模化应用的全链条实力，工业人形机器人Cruzr Y1、商用服务人形机器人Walker C1、超仿生人形机器人U1等多款新产品集中亮相，成为本届展会的焦点。 工业练硬功、商用重服务、家庭消费塑情感，三大场景协同赋能落地 2026年是人形机器人市场化应用的元年，行业告别概念化探索，迈入场景化、实用化、规模化发展新阶段。优必选构建“工业练硬功、商用重服务、家庭消费塑情感”的立体化战略布局，三大应用场景层层递进、相互赋能，通过多场景技术沉淀与数据反哺，持续释放人形机器人的新质生产力价值。本次展会，优必选打造三大场景沉浸式展区，以实景实操、真实交互的形式，全方位呈现企业在技术迭代、产品创新、场景规模化应用的领先优势。 工业场景是优必选具身智能技术落",
-      "publishedAt": "2026-08-21T02:22:43Z",
-      "published_at": "2026-08-21T02:22:43Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Digital avatars that move and act like profess",
+      "summary_zh": "Digital avatars that move and act like profess",
+      "publishedAt": "2026-08-21T07:01:00Z",
+      "published_at": "2026-08-21T07:01:00Z",
+      "votes_count": 265,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "88357e6a",
+      "title": "产品更新：Supernova",
+      "title_en": "Supernova",
+      "url": "https://www.producthunt.com/products/supernova-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/supernova-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "All your data in Claude and Codex Supernova co",
+      "summary_zh": "All your data in Claude and Codex Supernova co",
+      "publishedAt": "2026-08-21T07:01:00Z",
+      "published_at": "2026-08-21T07:01:00Z",
+      "votes_count": 257,
+      "featured": true,
+      "topics": [
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "771",
+          "name": "Data",
+          "slug": "data"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9f1e365a",
+      "title": "产品更新：Mindcase",
+      "title_en": "Mindcase",
+      "url": "https://www.producthunt.com/products/mindcase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/mindcase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Extract data from anywhere on the web within m",
+      "summary_zh": "Extract data from anywhere on the web within m",
+      "publishedAt": "2026-08-21T07:01:00Z",
+      "published_at": "2026-08-21T07:01:00Z",
+      "votes_count": 187,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "582",
+          "name": "Data & Analytics",
+          "slug": "data-analytics"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "cb5e66c9",
+      "title": "产品更新：fx (by Vercel)",
+      "title_en": "fx (by Vercel)",
+      "url": "https://www.producthunt.com/products/fx-by-vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/fx-by-vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Vercel's tiny, open-source coding agent fx is",
+      "summary_zh": "Vercel's tiny, open-source coding agent fx is",
+      "publishedAt": "2026-08-21T07:01:00Z",
+      "published_at": "2026-08-21T07:01:00Z",
+      "votes_count": 162,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
       "score_details": null
     },
     {
@@ -72,9 +202,31 @@
       "score_details": null
     },
     {
-      "id": "5d45a84a",
-      "title": "全球首个人形机器人自主乒乓球完整对局",
-      "title_en": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会，超维动力KAI全栈具身智能硬核登场",
+      "id": "384d5cdf",
+      "title": "WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/476413.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/476413.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…  Jay 2026-08-21 11:14:40  来源：量子位   墨奇，开始加速了   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  世界模型和VLA，都不是答案。 这个观点，出自前华为智驾AI一号位、「华为天才少年」黄青虬。 离开华为后，他联合创办了通用具身智能公司墨奇智能——成立仅半年，估值已超70亿元。 近期，墨奇迎来第一次交卷：自研具身智能模型架构MoRA（MORPHI Reasoning & Autonomy）——一条Agentic-Native的具身大脑路线。 WRC 2026现场，墨奇正式展示了这个大脑的能力。 承载这个大脑的，是墨奇自研的本体—— MORPHI KINO，一台面向家庭服务场景的轮式机器人。 这也是其本体的首次公开亮相。  现场，这台机器人用15分钟，完成了一个完整的家居长程任务： 清理桌面垃圾、检查冰箱库存并补货、将湿衣送入烘干机并启动，再拿出来叠好码放……  整个过程一气呵成，全程无需人工指挥。  对人类来说，这是六岁小朋友都能做完的家务，大家可能会觉得没啥可说的。 但对机器人而",
+      "summary_zh": "WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…  Jay 2026-08-21 11:14:40  来源：量子位   墨奇，开始加速了   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  世界模型和VLA，都不是答案。 这个观点，出自前华为智驾AI一号位、「华为天才少年」黄青虬。 离开华为后，他联合创办了通用具身智能公司墨奇智能——成立仅半年，估值已超70亿元。 近期，墨奇迎来第一次交卷：自研具身智能模型架构MoRA（MORPHI Reasoning & Autonomy）——一条Agentic-Native的具身大脑路线。 WRC 2026现场，墨奇正式展示了这个大脑的能力。 承载这个大脑的，是墨奇自研的本体—— MORPHI KINO，一台面向家庭服务场景的轮式机器人。 这也是其本体的首次公开亮相。  现场，这台机器人用15分钟，完成了一个完整的家居长程任务： 清理桌面垃圾、检查冰箱库存并补货、将湿衣送入烘干机并启动，再拿出来叠好码放……  整个过程一气呵成，全程无需人工指挥。  对人类来说，这是六岁小朋友都能做完的家务，大家可能会觉得没啥可说的。 但对机器人而",
+      "publishedAt": "2026-08-21T03:14:40Z",
+      "published_at": "2026-08-21T03:14:40Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0c8e034e",
+      "title": "极佳视界发布GigaBrain-0.",
+      "title_en": "极佳视界发布GigaBrain-0.7，开源第一！颠覆性首创System-3+双塔体系",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -84,10 +236,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会，超维动力KAI全栈具身智能硬",
-      "summary_zh": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会，超维动力KAI全栈具身智能硬",
-      "publishedAt": "2026-08-21T09:05:49Z",
-      "published_at": "2026-08-21T09:05:49Z",
+      "summary": "极佳视界发布GigaBrain-0.7，开源第一！颠覆性首创System-3+双塔体系",
+      "summary_zh": "极佳视界发布GigaBrain-0.7，开源第一！颠覆性首创System-3+双塔体系",
+      "publishedAt": "2026-08-21T20:44:53Z",
+      "published_at": "2026-08-21T20:44:53Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

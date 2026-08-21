@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-08-21T09:06:23Z",
-  "generatedAt": "2026-08-21T09:06:23Z",
-  "count": 101,
-  "total": 101,
+  "generated_at": "2026-08-21T20:45:34Z",
+  "generatedAt": "2026-08-21T20:45:34Z",
+  "count": 102,
+  "total": 102,
   "entries": [
+    {
+      "date": "2026-08-22",
+      "generated_at": "2026-08-21T20:45:34Z",
+      "generatedAt": "2026-08-21T20:45:34Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "718d0aa2",
+          "title": "产品更新：Wizstar",
+          "title_en": "Wizstar",
+          "url": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Digital avatars that move and act like profess",
+          "summary_zh": "Digital avatars that move and act like profess",
+          "publishedAt": "2026-08-21T07:01:00Z",
+          "published_at": "2026-08-21T07:01:00Z",
+          "votes_count": 265,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "88357e6a",
+          "title": "产品更新：Supernova",
+          "title_en": "Supernova",
+          "url": "https://www.producthunt.com/products/supernova-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/supernova-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "All your data in Claude and Codex Supernova co",
+          "summary_zh": "All your data in Claude and Codex Supernova co",
+          "publishedAt": "2026-08-21T07:01:00Z",
+          "published_at": "2026-08-21T07:01:00Z",
+          "votes_count": 257,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "771",
+              "name": "Data",
+              "slug": "data"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9f1e365a",
+          "title": "产品更新：Mindcase",
+          "title_en": "Mindcase",
+          "url": "https://www.producthunt.com/products/mindcase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/mindcase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Extract data from anywhere on the web within m",
+          "summary_zh": "Extract data from anywhere on the web within m",
+          "publishedAt": "2026-08-21T07:01:00Z",
+          "published_at": "2026-08-21T07:01:00Z",
+          "votes_count": 187,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-21",
       "generated_at": "2026-08-21T09:06:23Z",
