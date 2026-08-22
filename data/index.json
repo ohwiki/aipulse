@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-08-21T20:45:34Z",
-  "generatedAt": "2026-08-21T20:45:34Z",
+  "generated_at": "2026-08-22T08:56:33Z",
+  "generatedAt": "2026-08-22T08:56:33Z",
   "count": 102,
   "total": 102,
   "entries": [
     {
       "date": "2026-08-22",
-      "generated_at": "2026-08-21T20:45:34Z",
-      "generatedAt": "2026-08-21T20:45:34Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-08-22T08:56:33Z",
+      "generatedAt": "2026-08-22T08:56:33Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "718d0aa2",
-          "title": "产品更新：Wizstar",
-          "title_en": "Wizstar",
-          "url": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "0c8e034e",
+          "title": "极佳视界发布GigaBrain-0.",
+          "title_en": "极佳视界发布GigaBrain-0.7，开源第一！颠覆性首创System-3+双塔体系",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Digital avatars that move and act like profess",
-          "summary_zh": "Digital avatars that move and act like profess",
-          "publishedAt": "2026-08-21T07:01:00Z",
-          "published_at": "2026-08-21T07:01:00Z",
-          "votes_count": 265,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "极佳视界发布GigaBrain-0.7，开源第一！颠覆性首创System-3+双塔体系",
+          "summary_zh": "极佳视界发布GigaBrain-0.7，开源第一！颠覆性首创System-3+双塔体系",
+          "publishedAt": "2026-08-22T08:55:52Z",
+          "published_at": "2026-08-22T08:55:52Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "88357e6a",
-          "title": "产品更新：Supernova",
-          "title_en": "Supernova",
-          "url": "https://www.producthunt.com/products/supernova-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "b0142376",
+          "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/476930.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/supernova-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "All your data in Claude and Codex Supernova co",
-          "summary_zh": "All your data in Claude and Codex Supernova co",
-          "publishedAt": "2026-08-21T07:01:00Z",
-          "published_at": "2026-08-21T07:01:00Z",
-          "votes_count": 257,
-          "featured": true,
-          "topics": [
-            {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "771",
-              "name": "Data",
-              "slug": "data"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/476930.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站  henry 2026-08-22 16:41:41  来源：量子位   让具身智能技术真正落地千行万业。  8月21日，2026世界机器人大会期间，星海图在北人亦创会展中心举办了“从模型到生产力”技术与产业应用论坛。本次论坛汇聚海内外高校科研专家、开发者、企业高管等，围绕具身基础模型创新、整机演进、商业化落地和技术边界展开分享，呈现了技术迭代与产业落地的最新思考。  解锁技术底座三大进展，G0.5 MAX即将发布 星海图首席科学家赵行在题为《从模型到生产力：构建通用具身智能的系统闭环》的演讲中指出，具身智能技术正沿本能智能、作业智能、进化智能三个层级演进，行业正从单点技术突破迈入模型、数据、本体、基础设施与应用系统性竞争的新阶段。围绕这一判断，星海图搭建起完整的具身智能生产力飞轮：从产业场景出发沉淀真机数据，通过数据驱动模型迭代进化，再由模型赋能机器人本体完成物理作业，依靠基础设施支撑集群持续迭代优化，最终反哺产业应用，形成自强化的正向循环。  技术底座的三大重磅进展包括： 第一，G0.5基础模型升级与开源共建。 G0.5基础模",
+          "summary_zh": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站  henry 2026-08-22 16:41:41  来源：量子位   让具身智能技术真正落地千行万业。  8月21日，2026世界机器人大会期间，星海图在北人亦创会展中心举办了“从模型到生产力”技术与产业应用论坛。本次论坛汇聚海内外高校科研专家、开发者、企业高管等，围绕具身基础模型创新、整机演进、商业化落地和技术边界展开分享，呈现了技术迭代与产业落地的最新思考。  解锁技术底座三大进展，G0.5 MAX即将发布 星海图首席科学家赵行在题为《从模型到生产力：构建通用具身智能的系统闭环》的演讲中指出，具身智能技术正沿本能智能、作业智能、进化智能三个层级演进，行业正从单点技术突破迈入模型、数据、本体、基础设施与应用系统性竞争的新阶段。围绕这一判断，星海图搭建起完整的具身智能生产力飞轮：从产业场景出发沉淀真机数据，通过数据驱动模型迭代进化，再由模型赋能机器人本体完成物理作业，依靠基础设施支撑集群持续迭代优化，最终反哺产业应用，形成自强化的正向循环。  技术底座的三大重磅进展包括： 第一，G0.5基础模型升级与开源共建。 G0.5基础模",
+          "publishedAt": "2026-08-22T08:41:41Z",
+          "published_at": "2026-08-22T08:41:41Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "9f1e365a",
-          "title": "产品更新：Mindcase",
-          "title_en": "Mindcase",
-          "url": "https://www.producthunt.com/products/mindcase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "fb215199",
+          "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/476733.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/mindcase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Extract data from anywhere on the web within m",
-          "summary_zh": "Extract data from anywhere on the web within m",
-          "publishedAt": "2026-08-21T07:01:00Z",
-          "published_at": "2026-08-21T07:01:00Z",
-          "votes_count": 187,
-          "featured": true,
-          "topics": [
-            {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "582",
-              "name": "Data & Analytics",
-              "slug": "data-analytics"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/476733.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景  量子位的朋友们 2026-08-21 17:44:33  来源：量子位   明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。  8月19日，2026世界机器人大会（WRC）在北京开幕。明略科技（2718.HK）与海康机器人联合参展，聚焦商业服务领域展示具身智能落地进展。这也标志着明略科技正式布局具身智能赛道。  商用服务机器人正在成为机器人行业最受关注的落地方向之一，2026年被业界视为商业化关键窗口。在商业机器人领域，清洁机器人是增长最快的细分品类。但回归到机器人落地的实处，如何做好软硬件协同、如何让机器人在真实作业环境中独立完成长线程任务，仍有优化空间。 明略科技给出的解法，是为机器人装上会观察、会思考、能协作的”AI大脑”，让商用服务机器人在开放、非结构化的环境中，具备自主完成完整任务链路的能力。 01 展台直击：商业服务场景的全链路作业闭环 本届 WRC 上，明略与海康机器人的联合展台聚焦商业服务领域，现场呈现餐饮清洁、工业物流、智能巡逻",
+          "summary_zh": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景  量子位的朋友们 2026-08-21 17:44:33  来源：量子位   明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。  8月19日，2026世界机器人大会（WRC）在北京开幕。明略科技（2718.HK）与海康机器人联合参展，聚焦商业服务领域展示具身智能落地进展。这也标志着明略科技正式布局具身智能赛道。  商用服务机器人正在成为机器人行业最受关注的落地方向之一，2026年被业界视为商业化关键窗口。在商业机器人领域，清洁机器人是增长最快的细分品类。但回归到机器人落地的实处，如何做好软硬件协同、如何让机器人在真实作业环境中独立完成长线程任务，仍有优化空间。 明略科技给出的解法，是为机器人装上会观察、会思考、能协作的”AI大脑”，让商用服务机器人在开放、非结构化的环境中，具备自主完成完整任务链路的能力。 01 展台直击：商业服务场景的全链路作业闭环 本届 WRC 上，明略与海康机器人的联合展台聚焦商业服务领域，现场呈现餐饮清洁、工业物流、智能巡逻",
+          "publishedAt": "2026-08-21T09:44:33Z",
+          "published_at": "2026-08-21T09:44:33Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
