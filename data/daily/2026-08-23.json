@@ -1,0 +1,503 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-22T20:44:48Z",
+  "generatedAt": "2026-08-22T20:44:48Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "c8036021",
+          "title": "产品更新：Toplify",
+          "title_en": "Toplify",
+          "url": "https://www.producthunt.com/products/toplify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/toplify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Track your App Store ranking worldwide Toplify",
+          "summary_zh": "Track your App Store ranking worldwide Toplify",
+          "publishedAt": "2026-08-22T07:01:00Z",
+          "published_at": "2026-08-22T07:01:00Z",
+          "votes_count": 293,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "08646e12",
+          "title": "产品更新：Open Analytics",
+          "title_en": "Open Analytics",
+          "url": "https://www.producthunt.com/products/open-analytics-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/open-analytics-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI-Native Google Analytics alternative for the",
+          "summary_zh": "AI-Native Google Analytics alternative for the",
+          "publishedAt": "2026-08-22T07:01:00Z",
+          "published_at": "2026-08-22T07:01:00Z",
+          "votes_count": 192,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6467c5f2",
+          "title": "产品更新：SubtitleGenerat",
+          "title_en": "SubtitleGenerator",
+          "url": "https://www.producthunt.com/products/subtitlegenerator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/subtitlegenerator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "From video to publish-ready AI subtitles—all i",
+          "summary_zh": "From video to publish-ready AI subtitles—all i",
+          "publishedAt": "2026-08-22T07:01:00Z",
+          "published_at": "2026-08-22T07:01:00Z",
+          "votes_count": 182,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "33595988",
+          "title": "产品更新：Maccess",
+          "title_en": "Maccess",
+          "url": "https://www.producthunt.com/products/maccess?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/maccess?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your Mac, in your pocket — trackpad, screen, a",
+          "summary_zh": "Your Mac, in your pocket — trackpad, screen, a",
+          "publishedAt": "2026-08-22T07:01:00Z",
+          "published_at": "2026-08-22T07:01:00Z",
+          "votes_count": 142,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "303",
+              "name": "Menu Bar Apps",
+              "slug": "menu-bar-apps"
+            },
+            {
+              "id": "362",
+              "name": "Apple",
+              "slug": "apple"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "b0142376",
+          "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/476930.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/476930.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站  henry 2026-08-22 16:41:41  来源：量子位   让具身智能技术真正落地千行万业。  8月21日，2026世界机器人大会期间，星海图在北人亦创会展中心举办了“从模型到生产力”技术与产业应用论坛。本次论坛汇聚海内外高校科研专家、开发者、企业高管等，围绕具身基础模型创新、整机演进、商业化落地和技术边界展开分享，呈现了技术迭代与产业落地的最新思考。  解锁技术底座三大进展，G0.5 MAX即将发布 星海图首席科学家赵行在题为《从模型到生产力：构建通用具身智能的系统闭环》的演讲中指出，具身智能技术正沿本能智能、作业智能、进化智能三个层级演进，行业正从单点技术突破迈入模型、数据、本体、基础设施与应用系统性竞争的新阶段。围绕这一判断，星海图搭建起完整的具身智能生产力飞轮：从产业场景出发沉淀真机数据，通过数据驱动模型迭代进化，再由模型赋能机器人本体完成物理作业，依靠基础设施支撑集群持续迭代优化，最终反哺产业应用，形成自强化的正向循环。  技术底座的三大重磅进展包括： 第一，G0.5基础模型升级与开源共建。 G0.5基础模",
+          "summary_zh": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站  henry 2026-08-22 16:41:41  来源：量子位   让具身智能技术真正落地千行万业。  8月21日，2026世界机器人大会期间，星海图在北人亦创会展中心举办了“从模型到生产力”技术与产业应用论坛。本次论坛汇聚海内外高校科研专家、开发者、企业高管等，围绕具身基础模型创新、整机演进、商业化落地和技术边界展开分享，呈现了技术迭代与产业落地的最新思考。  解锁技术底座三大进展，G0.5 MAX即将发布 星海图首席科学家赵行在题为《从模型到生产力：构建通用具身智能的系统闭环》的演讲中指出，具身智能技术正沿本能智能、作业智能、进化智能三个层级演进，行业正从单点技术突破迈入模型、数据、本体、基础设施与应用系统性竞争的新阶段。围绕这一判断，星海图搭建起完整的具身智能生产力飞轮：从产业场景出发沉淀真机数据，通过数据驱动模型迭代进化，再由模型赋能机器人本体完成物理作业，依靠基础设施支撑集群持续迭代优化，最终反哺产业应用，形成自强化的正向循环。  技术底座的三大重磅进展包括： 第一，G0.5基础模型升级与开源共建。 G0.5基础模",
+          "publishedAt": "2026-08-22T08:41:41Z",
+          "published_at": "2026-08-22T08:41:41Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f0e4c35c",
+          "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/476965.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/476965.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技  衡宇 2026-08-22 16:53:13  来源：量子位   乔不迟 发自 凹非寺量子位 | 公众号 QbitAI 具身智能的创业江湖，可以用“热辣滚烫”来形容。 几乎每天都有新的创业公司和创新技术冒出来，路线越来越多，玩家越来越多，融资、模型、数据、硬件……已经热得不能再热。 就在这片热闹里，又来了一位履历颇有意思的教授。 他叫张富。 这个名字背后的标签，单拎一个出来都够讲一段故事：李泽湘的学生、大疆8年产业顾问经历、香港大学副教授。 跟随李泽湘研究无人机时，他学会了沉下心到一线跟供应链团队、用户进行沟通，不止做学者、旁观者；在大疆8年，他了解把实验室技术做到产品的全过程和产业化面对的真实问题；在港大实验室，他和团队一起持续推进自主飞行等前沿研究。 所以张富这次创业，没去和一众玩家一起卷“地面”。 他把这三种经验结合，做不靠GPS定位、不靠飞手摇控，就能感知环境、判断自己在哪里、规划下一步往哪儿飞，最后自己把任务干完的空中智能体。  图片  这也给具身进入人类世界创造另一种可能： 具身智能未必一定要长出人的手脚。 它也可以",
+          "summary_zh": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技  衡宇 2026-08-22 16:53:13  来源：量子位   乔不迟 发自 凹非寺量子位 | 公众号 QbitAI 具身智能的创业江湖，可以用“热辣滚烫”来形容。 几乎每天都有新的创业公司和创新技术冒出来，路线越来越多，玩家越来越多，融资、模型、数据、硬件……已经热得不能再热。 就在这片热闹里，又来了一位履历颇有意思的教授。 他叫张富。 这个名字背后的标签，单拎一个出来都够讲一段故事：李泽湘的学生、大疆8年产业顾问经历、香港大学副教授。 跟随李泽湘研究无人机时，他学会了沉下心到一线跟供应链团队、用户进行沟通，不止做学者、旁观者；在大疆8年，他了解把实验室技术做到产品的全过程和产业化面对的真实问题；在港大实验室，他和团队一起持续推进自主飞行等前沿研究。 所以张富这次创业，没去和一众玩家一起卷“地面”。 他把这三种经验结合，做不靠GPS定位、不靠飞手摇控，就能感知环境、判断自己在哪里、规划下一步往哪儿飞，最后自己把任务干完的空中智能体。  图片  这也给具身进入人类世界创造另一种可能： 具身智能未必一定要长出人的手脚。 它也可以",
+          "publishedAt": "2026-08-22T08:53:13Z",
+          "published_at": "2026-08-22T08:53:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "74f80781",
+          "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/477016.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/477016.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径  梦晨 2026-08-22 20:11:23  来源：量子位   具身智能赛道壁垒不在出货量   田晏林 发自 凹非寺量子位 | 公众号 QbitAI  逛了一圈今年的WRC，我发现判断一家人形机器人公司到底是否拿出了真功夫，有个最简单粗暴的办法： 看它敢不敢把客户工厂的真实作业场景搬过来。 因为宣传片可以剪，Demo可以排练，但产线不会陪演员走位。 汽车钣金件、机加件的上下料尺寸误差、节拍压力、物流小件商品的随机堆叠、连续作业中的定位移动，任何一个细节，都可能让机器人当场卡住，触发异常模式。 优必选这次直接把这些在客户工厂里攻克的难题1:1摆上展台。     现场，我们看到工业人形机器人Cruzr Y1在持续拆垛码垛，搬运纸箱和料箱，Cruzr S2在给汽车机加件、钣金件上下料，在工作台上完成亚毫米级定位； 另一边，Cruzr S2还从混杂料箱里抓取不同规格护肤品盒子，逐一投入德马的自动播种墙供包台完成播种分拣。粗略估算了下，其平均抓取节拍最高接近1100件/小时。 没有人工干预，没有预设程序，从识别、移动到抓",
+          "summary_zh": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径  梦晨 2026-08-22 20:11:23  来源：量子位   具身智能赛道壁垒不在出货量   田晏林 发自 凹非寺量子位 | 公众号 QbitAI  逛了一圈今年的WRC，我发现判断一家人形机器人公司到底是否拿出了真功夫，有个最简单粗暴的办法： 看它敢不敢把客户工厂的真实作业场景搬过来。 因为宣传片可以剪，Demo可以排练，但产线不会陪演员走位。 汽车钣金件、机加件的上下料尺寸误差、节拍压力、物流小件商品的随机堆叠、连续作业中的定位移动，任何一个细节，都可能让机器人当场卡住，触发异常模式。 优必选这次直接把这些在客户工厂里攻克的难题1:1摆上展台。     现场，我们看到工业人形机器人Cruzr Y1在持续拆垛码垛，搬运纸箱和料箱，Cruzr S2在给汽车机加件、钣金件上下料，在工作台上完成亚毫米级定位； 另一边，Cruzr S2还从混杂料箱里抓取不同规格护肤品盒子，逐一投入德马的自动播种墙供包台完成播种分拣。粗略估算了下，其平均抓取节拍最高接近1100件/小时。 没有人工干预，没有预设程序，从识别、移动到抓",
+          "publishedAt": "2026-08-22T12:11:23Z",
+          "published_at": "2026-08-22T12:11:23Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "14cb22a3",
+          "title": "已追踪 AI 发展 0 天，0 篇原",
+          "title_en": "已追踪 AI 发展 0 天，0 篇原创内容",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "已追踪 AI 发展 0 天，0 篇原创内容",
+          "summary_zh": "已追踪 AI 发展 0 天，0 篇原创内容",
+          "publishedAt": "2026-08-22T20:44:08Z",
+          "published_at": "2026-08-22T20:44:08Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "c8036021",
+      "title": "产品更新：Toplify",
+      "title_en": "Toplify",
+      "url": "https://www.producthunt.com/products/toplify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/toplify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Track your App Store ranking worldwide Toplify",
+      "summary_zh": "Track your App Store ranking worldwide Toplify",
+      "publishedAt": "2026-08-22T07:01:00Z",
+      "published_at": "2026-08-22T07:01:00Z",
+      "votes_count": 293,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "08646e12",
+      "title": "产品更新：Open Analytics",
+      "title_en": "Open Analytics",
+      "url": "https://www.producthunt.com/products/open-analytics-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/open-analytics-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI-Native Google Analytics alternative for the",
+      "summary_zh": "AI-Native Google Analytics alternative for the",
+      "publishedAt": "2026-08-22T07:01:00Z",
+      "published_at": "2026-08-22T07:01:00Z",
+      "votes_count": 192,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "582",
+          "name": "Data & Analytics",
+          "slug": "data-analytics"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6467c5f2",
+      "title": "产品更新：SubtitleGenerat",
+      "title_en": "SubtitleGenerator",
+      "url": "https://www.producthunt.com/products/subtitlegenerator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/subtitlegenerator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "From video to publish-ready AI subtitles—all i",
+      "summary_zh": "From video to publish-ready AI subtitles—all i",
+      "publishedAt": "2026-08-22T07:01:00Z",
+      "published_at": "2026-08-22T07:01:00Z",
+      "votes_count": 182,
+      "featured": true,
+      "topics": [
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "33595988",
+      "title": "产品更新：Maccess",
+      "title_en": "Maccess",
+      "url": "https://www.producthunt.com/products/maccess?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/maccess?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your Mac, in your pocket — trackpad, screen, a",
+      "summary_zh": "Your Mac, in your pocket — trackpad, screen, a",
+      "publishedAt": "2026-08-22T07:01:00Z",
+      "published_at": "2026-08-22T07:01:00Z",
+      "votes_count": 142,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "303",
+          "name": "Menu Bar Apps",
+          "slug": "menu-bar-apps"
+        },
+        {
+          "id": "362",
+          "name": "Apple",
+          "slug": "apple"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b0142376",
+      "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/476930.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/476930.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站  henry 2026-08-22 16:41:41  来源：量子位   让具身智能技术真正落地千行万业。  8月21日，2026世界机器人大会期间，星海图在北人亦创会展中心举办了“从模型到生产力”技术与产业应用论坛。本次论坛汇聚海内外高校科研专家、开发者、企业高管等，围绕具身基础模型创新、整机演进、商业化落地和技术边界展开分享，呈现了技术迭代与产业落地的最新思考。  解锁技术底座三大进展，G0.5 MAX即将发布 星海图首席科学家赵行在题为《从模型到生产力：构建通用具身智能的系统闭环》的演讲中指出，具身智能技术正沿本能智能、作业智能、进化智能三个层级演进，行业正从单点技术突破迈入模型、数据、本体、基础设施与应用系统性竞争的新阶段。围绕这一判断，星海图搭建起完整的具身智能生产力飞轮：从产业场景出发沉淀真机数据，通过数据驱动模型迭代进化，再由模型赋能机器人本体完成物理作业，依靠基础设施支撑集群持续迭代优化，最终反哺产业应用，形成自强化的正向循环。  技术底座的三大重磅进展包括： 第一，G0.5基础模型升级与开源共建。 G0.5基础模",
+      "summary_zh": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站  henry 2026-08-22 16:41:41  来源：量子位   让具身智能技术真正落地千行万业。  8月21日，2026世界机器人大会期间，星海图在北人亦创会展中心举办了“从模型到生产力”技术与产业应用论坛。本次论坛汇聚海内外高校科研专家、开发者、企业高管等，围绕具身基础模型创新、整机演进、商业化落地和技术边界展开分享，呈现了技术迭代与产业落地的最新思考。  解锁技术底座三大进展，G0.5 MAX即将发布 星海图首席科学家赵行在题为《从模型到生产力：构建通用具身智能的系统闭环》的演讲中指出，具身智能技术正沿本能智能、作业智能、进化智能三个层级演进，行业正从单点技术突破迈入模型、数据、本体、基础设施与应用系统性竞争的新阶段。围绕这一判断，星海图搭建起完整的具身智能生产力飞轮：从产业场景出发沉淀真机数据，通过数据驱动模型迭代进化，再由模型赋能机器人本体完成物理作业，依靠基础设施支撑集群持续迭代优化，最终反哺产业应用，形成自强化的正向循环。  技术底座的三大重磅进展包括： 第一，G0.5基础模型升级与开源共建。 G0.5基础模",
+      "publishedAt": "2026-08-22T08:41:41Z",
+      "published_at": "2026-08-22T08:41:41Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f0e4c35c",
+      "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/476965.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/476965.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技  衡宇 2026-08-22 16:53:13  来源：量子位   乔不迟 发自 凹非寺量子位 | 公众号 QbitAI 具身智能的创业江湖，可以用“热辣滚烫”来形容。 几乎每天都有新的创业公司和创新技术冒出来，路线越来越多，玩家越来越多，融资、模型、数据、硬件……已经热得不能再热。 就在这片热闹里，又来了一位履历颇有意思的教授。 他叫张富。 这个名字背后的标签，单拎一个出来都够讲一段故事：李泽湘的学生、大疆8年产业顾问经历、香港大学副教授。 跟随李泽湘研究无人机时，他学会了沉下心到一线跟供应链团队、用户进行沟通，不止做学者、旁观者；在大疆8年，他了解把实验室技术做到产品的全过程和产业化面对的真实问题；在港大实验室，他和团队一起持续推进自主飞行等前沿研究。 所以张富这次创业，没去和一众玩家一起卷“地面”。 他把这三种经验结合，做不靠GPS定位、不靠飞手摇控，就能感知环境、判断自己在哪里、规划下一步往哪儿飞，最后自己把任务干完的空中智能体。  图片  这也给具身进入人类世界创造另一种可能： 具身智能未必一定要长出人的手脚。 它也可以",
+      "summary_zh": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技  衡宇 2026-08-22 16:53:13  来源：量子位   乔不迟 发自 凹非寺量子位 | 公众号 QbitAI 具身智能的创业江湖，可以用“热辣滚烫”来形容。 几乎每天都有新的创业公司和创新技术冒出来，路线越来越多，玩家越来越多，融资、模型、数据、硬件……已经热得不能再热。 就在这片热闹里，又来了一位履历颇有意思的教授。 他叫张富。 这个名字背后的标签，单拎一个出来都够讲一段故事：李泽湘的学生、大疆8年产业顾问经历、香港大学副教授。 跟随李泽湘研究无人机时，他学会了沉下心到一线跟供应链团队、用户进行沟通，不止做学者、旁观者；在大疆8年，他了解把实验室技术做到产品的全过程和产业化面对的真实问题；在港大实验室，他和团队一起持续推进自主飞行等前沿研究。 所以张富这次创业，没去和一众玩家一起卷“地面”。 他把这三种经验结合，做不靠GPS定位、不靠飞手摇控，就能感知环境、判断自己在哪里、规划下一步往哪儿飞，最后自己把任务干完的空中智能体。  图片  这也给具身进入人类世界创造另一种可能： 具身智能未必一定要长出人的手脚。 它也可以",
+      "publishedAt": "2026-08-22T08:53:13Z",
+      "published_at": "2026-08-22T08:53:13Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "74f80781",
+      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/477016.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/477016.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径  梦晨 2026-08-22 20:11:23  来源：量子位   具身智能赛道壁垒不在出货量   田晏林 发自 凹非寺量子位 | 公众号 QbitAI  逛了一圈今年的WRC，我发现判断一家人形机器人公司到底是否拿出了真功夫，有个最简单粗暴的办法： 看它敢不敢把客户工厂的真实作业场景搬过来。 因为宣传片可以剪，Demo可以排练，但产线不会陪演员走位。 汽车钣金件、机加件的上下料尺寸误差、节拍压力、物流小件商品的随机堆叠、连续作业中的定位移动，任何一个细节，都可能让机器人当场卡住，触发异常模式。 优必选这次直接把这些在客户工厂里攻克的难题1:1摆上展台。     现场，我们看到工业人形机器人Cruzr Y1在持续拆垛码垛，搬运纸箱和料箱，Cruzr S2在给汽车机加件、钣金件上下料，在工作台上完成亚毫米级定位； 另一边，Cruzr S2还从混杂料箱里抓取不同规格护肤品盒子，逐一投入德马的自动播种墙供包台完成播种分拣。粗略估算了下，其平均抓取节拍最高接近1100件/小时。 没有人工干预，没有预设程序，从识别、移动到抓",
+      "summary_zh": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径  梦晨 2026-08-22 20:11:23  来源：量子位   具身智能赛道壁垒不在出货量   田晏林 发自 凹非寺量子位 | 公众号 QbitAI  逛了一圈今年的WRC，我发现判断一家人形机器人公司到底是否拿出了真功夫，有个最简单粗暴的办法： 看它敢不敢把客户工厂的真实作业场景搬过来。 因为宣传片可以剪，Demo可以排练，但产线不会陪演员走位。 汽车钣金件、机加件的上下料尺寸误差、节拍压力、物流小件商品的随机堆叠、连续作业中的定位移动，任何一个细节，都可能让机器人当场卡住，触发异常模式。 优必选这次直接把这些在客户工厂里攻克的难题1:1摆上展台。     现场，我们看到工业人形机器人Cruzr Y1在持续拆垛码垛，搬运纸箱和料箱，Cruzr S2在给汽车机加件、钣金件上下料，在工作台上完成亚毫米级定位； 另一边，Cruzr S2还从混杂料箱里抓取不同规格护肤品盒子，逐一投入德马的自动播种墙供包台完成播种分拣。粗略估算了下，其平均抓取节拍最高接近1100件/小时。 没有人工干预，没有预设程序，从识别、移动到抓",
+      "publishedAt": "2026-08-22T12:11:23Z",
+      "published_at": "2026-08-22T12:11:23Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "14cb22a3",
+      "title": "已追踪 AI 发展 0 天，0 篇原",
+      "title_en": "已追踪 AI 发展 0 天，0 篇原创内容",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "已追踪 AI 发展 0 天，0 篇原创内容",
+      "summary_zh": "已追踪 AI 发展 0 天，0 篇原创内容",
+      "publishedAt": "2026-08-22T20:44:08Z",
+      "published_at": "2026-08-22T20:44:08Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

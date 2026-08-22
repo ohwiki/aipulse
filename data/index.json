@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-08-22T08:56:33Z",
-  "generatedAt": "2026-08-22T08:56:33Z",
-  "count": 102,
-  "total": 102,
+  "generated_at": "2026-08-22T20:44:48Z",
+  "generatedAt": "2026-08-22T20:44:48Z",
+  "count": 103,
+  "total": 103,
   "entries": [
+    {
+      "date": "2026-08-23",
+      "generated_at": "2026-08-22T20:44:48Z",
+      "generatedAt": "2026-08-22T20:44:48Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "c8036021",
+          "title": "产品更新：Toplify",
+          "title_en": "Toplify",
+          "url": "https://www.producthunt.com/products/toplify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/toplify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Track your App Store ranking worldwide Toplify",
+          "summary_zh": "Track your App Store ranking worldwide Toplify",
+          "publishedAt": "2026-08-22T07:01:00Z",
+          "published_at": "2026-08-22T07:01:00Z",
+          "votes_count": 293,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "08646e12",
+          "title": "产品更新：Open Analytics",
+          "title_en": "Open Analytics",
+          "url": "https://www.producthunt.com/products/open-analytics-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/open-analytics-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI-Native Google Analytics alternative for the",
+          "summary_zh": "AI-Native Google Analytics alternative for the",
+          "publishedAt": "2026-08-22T07:01:00Z",
+          "published_at": "2026-08-22T07:01:00Z",
+          "votes_count": 192,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6467c5f2",
+          "title": "产品更新：SubtitleGenerat",
+          "title_en": "SubtitleGenerator",
+          "url": "https://www.producthunt.com/products/subtitlegenerator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/subtitlegenerator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "From video to publish-ready AI subtitles—all i",
+          "summary_zh": "From video to publish-ready AI subtitles—all i",
+          "publishedAt": "2026-08-22T07:01:00Z",
+          "published_at": "2026-08-22T07:01:00Z",
+          "votes_count": 182,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-22",
       "generated_at": "2026-08-22T08:56:33Z",
