@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-08-22T20:44:48Z",
-  "generatedAt": "2026-08-22T20:44:48Z",
+  "generated_at": "2026-08-23T08:56:49Z",
+  "generatedAt": "2026-08-23T08:56:49Z",
   "count": 103,
   "total": 103,
   "entries": [
     {
       "date": "2026-08-23",
-      "generated_at": "2026-08-22T20:44:48Z",
-      "generatedAt": "2026-08-22T20:44:48Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-08-23T08:56:49Z",
+      "generatedAt": "2026-08-23T08:56:49Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "c8036021",
-          "title": "产品更新：Toplify",
-          "title_en": "Toplify",
-          "url": "https://www.producthunt.com/products/toplify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "185ac07f",
+          "title": "单卡5090跑满血DeepSeek",
+          "title_en": "单卡5090跑满血DeepSeek V4Flash，已开源，Token自由了！",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/toplify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Track your App Store ranking worldwide Toplify",
-          "summary_zh": "Track your App Store ranking worldwide Toplify",
-          "publishedAt": "2026-08-22T07:01:00Z",
-          "published_at": "2026-08-22T07:01:00Z",
-          "votes_count": 293,
-          "featured": true,
-          "topics": [
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "单卡5090跑满血DeepSeek V4Flash，已开源，Token自由了！",
+          "summary_zh": "单卡5090跑满血DeepSeek V4Flash，已开源，Token自由了！",
+          "publishedAt": "2026-08-23T08:56:08Z",
+          "published_at": "2026-08-23T08:56:08Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "08646e12",
-          "title": "产品更新：Open Analytics",
-          "title_en": "Open Analytics",
-          "url": "https://www.producthunt.com/products/open-analytics-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "70a6f689",
+          "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/477094.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/open-analytics-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI-Native Google Analytics alternative for the",
-          "summary_zh": "AI-Native Google Analytics alternative for the",
-          "publishedAt": "2026-08-22T07:01:00Z",
-          "published_at": "2026-08-22T07:01:00Z",
-          "votes_count": 192,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "582",
-              "name": "Data & Analytics",
-              "slug": "data-analytics"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/477094.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token  衡宇 2026-08-22 21:56:00  来源：量子位   采集，从一条腕带开始   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能数采，又多了一条新路线。 正式介绍之前我们来做个小互动：抛开AI、不查资料，5秒内能说出现有的具身数据采集方式有哪些？ 真机遥操作采集、无本体便携采集（UMI/Ego）、仿真合成数据、互联网视频蒸馏是最主流的四种方式。 （排名不分先后，我随手列举的） 如果要进一步细细分类，还能列出一长串清单。 至少AI给我的答案是这样式儿的，大家可以感受一下——    近期，一种新的路线开始浮现并逐渐火爆，这种方式把数据采集的视线从外部动作，进一步伸向人体的运动输出侧。 这就是当下备受关注的神经肌电（sEMG，Surface Electromyography）方案。 OriginFlow（渊澈太初）是这条路线中最热、最受追捧的创业公司。 创始人兼CEO秦深涛，出生于2001年，目前清华车辆与运载学院博士在读。 去年8月，他在北京成立OriginFlow；截至今年5月，公司对外披露已连",
+          "summary_zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token  衡宇 2026-08-22 21:56:00  来源：量子位   采集，从一条腕带开始   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能数采，又多了一条新路线。 正式介绍之前我们来做个小互动：抛开AI、不查资料，5秒内能说出现有的具身数据采集方式有哪些？ 真机遥操作采集、无本体便携采集（UMI/Ego）、仿真合成数据、互联网视频蒸馏是最主流的四种方式。 （排名不分先后，我随手列举的） 如果要进一步细细分类，还能列出一长串清单。 至少AI给我的答案是这样式儿的，大家可以感受一下——    近期，一种新的路线开始浮现并逐渐火爆，这种方式把数据采集的视线从外部动作，进一步伸向人体的运动输出侧。 这就是当下备受关注的神经肌电（sEMG，Surface Electromyography）方案。 OriginFlow（渊澈太初）是这条路线中最热、最受追捧的创业公司。 创始人兼CEO秦深涛，出生于2001年，目前清华车辆与运载学院博士在读。 去年8月，他在北京成立OriginFlow；截至今年5月，公司对外披露已连",
+          "publishedAt": "2026-08-22T13:56:00Z",
+          "published_at": "2026-08-22T13:56:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "6467c5f2",
-          "title": "产品更新：SubtitleGenerat",
-          "title_en": "SubtitleGenerator",
-          "url": "https://www.producthunt.com/products/subtitlegenerator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "8320dc76",
+          "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/477090.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/subtitlegenerator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "From video to publish-ready AI subtitles—all i",
-          "summary_zh": "From video to publish-ready AI subtitles—all i",
-          "publishedAt": "2026-08-22T07:01:00Z",
-          "published_at": "2026-08-22T07:01:00Z",
-          "votes_count": 182,
-          "featured": true,
-          "topics": [
-            {
-              "id": "104",
-              "name": "Social Media",
-              "slug": "social-media"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "857",
-              "name": "Video",
-              "slug": "video"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/477090.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台  梦晨 2026-08-22 20:21:07  来源：量子位   将真实场景重建为持续更新、可计算的4D数字世界。   允中 发自 凹非寺量子位 | 公众号 QbitAI   一只数字果蝇刚把“上传大脑”推上热搜，中国团队就把矛头对准了它最难补的三块：不满足于LIF简化神经元，不满足于预设物理仿真场景，更不满足于只做一只会动的数字动物。他们要把精细脑模型、真实场景形成的数字世界和跨身体接口直接打通。  今年3月，Eon Systems公布了一只会在虚拟环境中觅食、梳理触角的“数字果蝇”。它以成年果蝇连接组为基础，涉及约14万个神经元和5000万条突触连接，再接入具有87个独立关节的生物力学身体，让神经活动、身体运动和环境反馈第一次形成了完整回路。 视频一出，“果蝇大脑被上传了”的说法迅速出圈。但Eon Systems自己也相当克制：目前采用的是简化的泄漏积分发放神经元模型，脑与身体之间的部分映射仍由人工设定，只覆盖少量感觉输入和行为。这更像一个极具冲击力的研究平台与概念验证，而不是一只被完美复制的生物果蝇。 也正是在",
+          "summary_zh": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台  梦晨 2026-08-22 20:21:07  来源：量子位   将真实场景重建为持续更新、可计算的4D数字世界。   允中 发自 凹非寺量子位 | 公众号 QbitAI   一只数字果蝇刚把“上传大脑”推上热搜，中国团队就把矛头对准了它最难补的三块：不满足于LIF简化神经元，不满足于预设物理仿真场景，更不满足于只做一只会动的数字动物。他们要把精细脑模型、真实场景形成的数字世界和跨身体接口直接打通。  今年3月，Eon Systems公布了一只会在虚拟环境中觅食、梳理触角的“数字果蝇”。它以成年果蝇连接组为基础，涉及约14万个神经元和5000万条突触连接，再接入具有87个独立关节的生物力学身体，让神经活动、身体运动和环境反馈第一次形成了完整回路。 视频一出，“果蝇大脑被上传了”的说法迅速出圈。但Eon Systems自己也相当克制：目前采用的是简化的泄漏积分发放神经元模型，脑与身体之间的部分映射仍由人工设定，只覆盖少量感觉输入和行为。这更像一个极具冲击力的研究平台与概念验证，而不是一只被完美复制的生物果蝇。 也正是在",
+          "publishedAt": "2026-08-22T12:21:07Z",
+          "published_at": "2026-08-22T12:21:07Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
