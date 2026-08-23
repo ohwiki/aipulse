@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-08-23T08:56:49Z",
-  "generatedAt": "2026-08-23T08:56:49Z",
-  "count": 103,
-  "total": 103,
+  "generated_at": "2026-08-23T20:44:55Z",
+  "generatedAt": "2026-08-23T20:44:55Z",
+  "count": 104,
+  "total": 104,
   "entries": [
+    {
+      "date": "2026-08-24",
+      "generated_at": "2026-08-23T20:44:55Z",
+      "generatedAt": "2026-08-23T20:44:55Z",
+      "total": 7,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "3a73f7a4",
+          "title": "产品更新：Construct Compu",
+          "title_en": "Construct Computer",
+          "url": "https://www.producthunt.com/products/construct-computer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/construct-computer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your AI coworker gets a computer. You get your",
+          "summary_zh": "Your AI coworker gets a computer. You get your",
+          "publishedAt": "2026-08-23T07:01:00Z",
+          "published_at": "2026-08-23T07:01:00Z",
+          "votes_count": 268,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d223b246",
+          "title": "产品更新：FetchSandbox MC",
+          "title_en": "FetchSandbox MCP",
+          "url": "https://www.producthunt.com/products/fetchsandbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fetchsandbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The MCP that proves your AI's integration fixe",
+          "summary_zh": "The MCP that proves your AI's integration fixe",
+          "publishedAt": "2026-08-23T07:01:00Z",
+          "published_at": "2026-08-23T07:01:00Z",
+          "votes_count": 191,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b31460b4",
+          "title": "AI资讯更新：Claude Academ",
+          "title_en": "Claude Academy",
+          "url": "https://www.producthunt.com/products/claude-academy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/claude-academy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The Official Learning Hub by Anthropic Master",
+          "summary_zh": "The Official Learning Hub by Anthropic Master",
+          "publishedAt": "2026-08-23T07:01:00Z",
+          "published_at": "2026-08-23T07:01:00Z",
+          "votes_count": 140,
+          "featured": true,
+          "topics": [
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "782",
+              "name": "Online Learning",
+              "slug": "online-learning"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-23",
       "generated_at": "2026-08-23T08:56:49Z",
