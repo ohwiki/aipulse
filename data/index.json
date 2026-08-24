@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-08-24T09:12:18Z",
-  "generatedAt": "2026-08-24T09:12:18Z",
-  "count": 104,
-  "total": 104,
+  "generated_at": "2026-08-24T20:54:16Z",
+  "generatedAt": "2026-08-24T20:54:16Z",
+  "count": 105,
+  "total": 105,
   "entries": [
+    {
+      "date": "2026-08-25",
+      "generated_at": "2026-08-24T20:54:16Z",
+      "generatedAt": "2026-08-24T20:54:16Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "5caaf588",
+          "title": "产品更新：Decawork",
+          "title_en": "Decawork",
+          "url": "https://www.producthunt.com/products/decawork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/decawork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Control your company's internal AI agents and",
+          "summary_zh": "Control your company's internal AI agents and",
+          "publishedAt": "2026-08-24T07:01:00Z",
+          "published_at": "2026-08-24T07:01:00Z",
+          "votes_count": 253,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2a56bd2f",
+          "title": "产品更新：Navigara",
+          "title_en": "Navigara",
+          "url": "https://www.producthunt.com/products/navigara?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/navigara?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Connect Your AI Spend Directly to Your Roadmap",
+          "summary_zh": "Connect Your AI Spend Directly to Your Roadmap",
+          "publishedAt": "2026-08-24T07:01:00Z",
+          "published_at": "2026-08-24T07:01:00Z",
+          "votes_count": 224,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5dcf95e4",
+          "title": "产品更新：Offloop",
+          "title_en": "Offloop",
+          "url": "https://www.producthunt.com/products/offloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/offloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A shared workspace where people and AI agents",
+          "summary_zh": "A shared workspace where people and AI agents",
+          "publishedAt": "2026-08-24T07:01:00Z",
+          "published_at": "2026-08-24T07:01:00Z",
+          "votes_count": 217,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-24",
       "generated_at": "2026-08-24T09:12:18Z",

@@ -1,0 +1,493 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-24T20:54:16Z",
+  "generatedAt": "2026-08-24T20:54:16Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "5caaf588",
+          "title": "产品更新：Decawork",
+          "title_en": "Decawork",
+          "url": "https://www.producthunt.com/products/decawork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/decawork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Control your company's internal AI agents and",
+          "summary_zh": "Control your company's internal AI agents and",
+          "publishedAt": "2026-08-24T07:01:00Z",
+          "published_at": "2026-08-24T07:01:00Z",
+          "votes_count": 253,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2a56bd2f",
+          "title": "产品更新：Navigara",
+          "title_en": "Navigara",
+          "url": "https://www.producthunt.com/products/navigara?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/navigara?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Connect Your AI Spend Directly to Your Roadmap",
+          "summary_zh": "Connect Your AI Spend Directly to Your Roadmap",
+          "publishedAt": "2026-08-24T07:01:00Z",
+          "published_at": "2026-08-24T07:01:00Z",
+          "votes_count": 224,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5dcf95e4",
+          "title": "产品更新：Offloop",
+          "title_en": "Offloop",
+          "url": "https://www.producthunt.com/products/offloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/offloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A shared workspace where people and AI agents",
+          "summary_zh": "A shared workspace where people and AI agents",
+          "publishedAt": "2026-08-24T07:01:00Z",
+          "published_at": "2026-08-24T07:01:00Z",
+          "votes_count": 217,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "99435f15",
+          "title": "产品更新：Antigravity Rem",
+          "title_en": "Antigravity Remote Control",
+          "url": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Drive Antigravity agents from any browser Anti",
+          "summary_zh": "Drive Antigravity agents from any browser Anti",
+          "publishedAt": "2026-08-24T07:01:00Z",
+          "published_at": "2026-08-24T07:01:00Z",
+          "votes_count": 128,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "74672017",
+          "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/478358.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/478358.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝  闻乐 2026-08-24 07:19:06  来源：量子位   Tim和胡彦斌亲自颁奖   金磊 发自 上海 量子位 | 公众号 QbitAI  现在的AI大赛啊，简直不要太精彩好吧！ 他叫彭铭裕，今年24岁，之前从事的职业是保安。 而就是这么与AI八竿子打不着边的他，竟能从数万人中杀出一条血路，直接斩获全国第20强。 △《动动脖子》项目作者，彭铭裕 如此的反转，还要从彭铭裕当保安那段时间说起。 当时，他刷抖音时被各种抖音特效给吸引注了，下班后便开始自己琢磨怎么做特效。随着一点点的经验积累，也让彭铭裕从小白新手走到了高级特效师。 而最直接的收获，便是副业收入比他做保安还要高；于是乎，彭铭裕索性决定辞职回家全职做抖音特效。 但由于他在做特效的时候需要长期坐在电脑前面，颈椎经常会酸痛，用彭铭裕的话来说就是“每次做完特效一动脖子就啪啪响”。 不过有一次他在做游戏特效时，无意间发现这类体感游戏其实是可以缓解颈椎酸痛；又恰逢看到这个AI大赛，于是便决定参加搏一把。 彭铭裕做的产品叫做《动动脖子》，是一款纯网页端双人体感健康游戏平台",
+          "summary_zh": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝  闻乐 2026-08-24 07:19:06  来源：量子位   Tim和胡彦斌亲自颁奖   金磊 发自 上海 量子位 | 公众号 QbitAI  现在的AI大赛啊，简直不要太精彩好吧！ 他叫彭铭裕，今年24岁，之前从事的职业是保安。 而就是这么与AI八竿子打不着边的他，竟能从数万人中杀出一条血路，直接斩获全国第20强。 △《动动脖子》项目作者，彭铭裕 如此的反转，还要从彭铭裕当保安那段时间说起。 当时，他刷抖音时被各种抖音特效给吸引注了，下班后便开始自己琢磨怎么做特效。随着一点点的经验积累，也让彭铭裕从小白新手走到了高级特效师。 而最直接的收获，便是副业收入比他做保安还要高；于是乎，彭铭裕索性决定辞职回家全职做抖音特效。 但由于他在做特效的时候需要长期坐在电脑前面，颈椎经常会酸痛，用彭铭裕的话来说就是“每次做完特效一动脖子就啪啪响”。 不过有一次他在做游戏特效时，无意间发现这类体感游戏其实是可以缓解颈椎酸痛；又恰逢看到这个AI大赛，于是便决定参加搏一把。 彭铭裕做的产品叫做《动动脖子》，是一款纯网页端双人体感健康游戏平台",
+          "publishedAt": "2026-08-23T23:19:06Z",
+          "published_at": "2026-08-23T23:19:06Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "25497c7f",
+          "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/478421.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/478421.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界  量子位的朋友们 2026-08-24 13:04:52  来源：量子位   8月19日，世界机器人大会（WRC 2026）期间，由跨维智能主办、《财经》杂志协办的“物理AI引领者论坛暨2026《财经》中国AI 100榜单启动仪式”在北京举行。论坛以“物理AI进行时”为主题，汇聚具身智能领域的顶尖学者、企业创始人和一线技术负责人，共同探讨通用物理智能的技术演进与产业路径。 作为原生全模态世界模型代表企业，智象未来（HiDream.ai）创始人兼CEO梅涛发表了题为《原生全模态世界模型：从“模拟世界”到“交互世界”》的主旨演讲。他从AI大模型的技术演进趋势出发，系统阐述了大模型从多模态走向原生全模态、从模拟世界走向交互世界的核心逻辑，为Physical AI的底层能力建设提供了新的技术视角与路径思考。 01 高IQ不等于全能：AI从“理解世界”到“改变世界” 梅涛博士在演讲中指出，过去几年AI大模型的发展可谓一日千里。从大语言模型到多模态模型再到具身智能，三条曾经独立演进的技术路线正在加速走向融合，2026年被很多人称为“世界模",
+          "summary_zh": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界  量子位的朋友们 2026-08-24 13:04:52  来源：量子位   8月19日，世界机器人大会（WRC 2026）期间，由跨维智能主办、《财经》杂志协办的“物理AI引领者论坛暨2026《财经》中国AI 100榜单启动仪式”在北京举行。论坛以“物理AI进行时”为主题，汇聚具身智能领域的顶尖学者、企业创始人和一线技术负责人，共同探讨通用物理智能的技术演进与产业路径。 作为原生全模态世界模型代表企业，智象未来（HiDream.ai）创始人兼CEO梅涛发表了题为《原生全模态世界模型：从“模拟世界”到“交互世界”》的主旨演讲。他从AI大模型的技术演进趋势出发，系统阐述了大模型从多模态走向原生全模态、从模拟世界走向交互世界的核心逻辑，为Physical AI的底层能力建设提供了新的技术视角与路径思考。 01 高IQ不等于全能：AI从“理解世界”到“改变世界” 梅涛博士在演讲中指出，过去几年AI大模型的发展可谓一日千里。从大语言模型到多模态模型再到具身智能，三条曾经独立演进的技术路线正在加速走向融合，2026年被很多人称为“世界模",
+          "publishedAt": "2026-08-24T05:04:52Z",
+          "published_at": "2026-08-24T05:04:52Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "b92486f3",
+          "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/478427.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/478427.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”  量子位的朋友们 2026-08-24 13:09:27  来源：量子位   8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。   8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。该模型在生成时长、万能创作、全能参考以及真实世界还原等维度全面升级，单次可生成30秒视频，并首次支持doc、xls、ppt、pdf、md等文档格式输入，力求准确还原真实世界。公测以来，见证Wan模型家族历次更新的创作者表示，Wan3.0是“最惊喜的一次”。从企业用户体验来看，Wan3.0收到的反馈高度一致，“稳定、真实、有质感”是被反复提到的三个关键词。 Wan3.0在角色、道具、声音、空间关系、风格等细粒度维度均可稳定保持，这对追求生产力的企业用户而言尤为关键。比如这段高速追车戏中，Wan3.0能够读懂参考素材，处理长时序叙事。30 秒内，人物、车辆、环境高度一致，上车、追逐、高速特技直至爆炸，全程连贯输出，无需反复抽卡、来回调试。  （视频来源：LibTV） 真实是 Wan3.0 告别“AI 感”的分水岭。有企业用户提到，",
+          "summary_zh": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”  量子位的朋友们 2026-08-24 13:09:27  来源：量子位   8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。   8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。该模型在生成时长、万能创作、全能参考以及真实世界还原等维度全面升级，单次可生成30秒视频，并首次支持doc、xls、ppt、pdf、md等文档格式输入，力求准确还原真实世界。公测以来，见证Wan模型家族历次更新的创作者表示，Wan3.0是“最惊喜的一次”。从企业用户体验来看，Wan3.0收到的反馈高度一致，“稳定、真实、有质感”是被反复提到的三个关键词。 Wan3.0在角色、道具、声音、空间关系、风格等细粒度维度均可稳定保持，这对追求生产力的企业用户而言尤为关键。比如这段高速追车戏中，Wan3.0能够读懂参考素材，处理长时序叙事。30 秒内，人物、车辆、环境高度一致，上车、追逐、高速特技直至爆炸，全程连贯输出，无需反复抽卡、来回调试。  （视频来源：LibTV） 真实是 Wan3.0 告别“AI 感”的分水岭。有企业用户提到，",
+          "publishedAt": "2026-08-24T05:09:27Z",
+          "published_at": "2026-08-24T05:09:27Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "e671d5ba",
+          "title": "英伟达服务器涨价超15%！百亿AI基",
+          "title_en": "英伟达服务器涨价超15%！百亿AI基建的「内存难题」",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "英伟达服务器涨价超15%！百亿AI基建的「内存难题」",
+          "summary_zh": "英伟达服务器涨价超15%！百亿AI基建的「内存难题」",
+          "publishedAt": "2026-08-24T20:53:55Z",
+          "published_at": "2026-08-24T20:53:55Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "5caaf588",
+      "title": "产品更新：Decawork",
+      "title_en": "Decawork",
+      "url": "https://www.producthunt.com/products/decawork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/decawork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Control your company's internal AI agents and",
+      "summary_zh": "Control your company's internal AI agents and",
+      "publishedAt": "2026-08-24T07:01:00Z",
+      "published_at": "2026-08-24T07:01:00Z",
+      "votes_count": 253,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "865",
+          "name": "Security",
+          "slug": "security"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "2a56bd2f",
+      "title": "产品更新：Navigara",
+      "title_en": "Navigara",
+      "url": "https://www.producthunt.com/products/navigara?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/navigara?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Connect Your AI Spend Directly to Your Roadmap",
+      "summary_zh": "Connect Your AI Spend Directly to Your Roadmap",
+      "publishedAt": "2026-08-24T07:01:00Z",
+      "published_at": "2026-08-24T07:01:00Z",
+      "votes_count": 224,
+      "featured": true,
+      "topics": [
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5dcf95e4",
+      "title": "产品更新：Offloop",
+      "title_en": "Offloop",
+      "url": "https://www.producthunt.com/products/offloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/offloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A shared workspace where people and AI agents",
+      "summary_zh": "A shared workspace where people and AI agents",
+      "publishedAt": "2026-08-24T07:01:00Z",
+      "published_at": "2026-08-24T07:01:00Z",
+      "votes_count": 217,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "99435f15",
+      "title": "产品更新：Antigravity Rem",
+      "title_en": "Antigravity Remote Control",
+      "url": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Drive Antigravity agents from any browser Anti",
+      "summary_zh": "Drive Antigravity agents from any browser Anti",
+      "publishedAt": "2026-08-24T07:01:00Z",
+      "published_at": "2026-08-24T07:01:00Z",
+      "votes_count": 128,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "74672017",
+      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/478358.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/478358.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝  闻乐 2026-08-24 07:19:06  来源：量子位   Tim和胡彦斌亲自颁奖   金磊 发自 上海 量子位 | 公众号 QbitAI  现在的AI大赛啊，简直不要太精彩好吧！ 他叫彭铭裕，今年24岁，之前从事的职业是保安。 而就是这么与AI八竿子打不着边的他，竟能从数万人中杀出一条血路，直接斩获全国第20强。 △《动动脖子》项目作者，彭铭裕 如此的反转，还要从彭铭裕当保安那段时间说起。 当时，他刷抖音时被各种抖音特效给吸引注了，下班后便开始自己琢磨怎么做特效。随着一点点的经验积累，也让彭铭裕从小白新手走到了高级特效师。 而最直接的收获，便是副业收入比他做保安还要高；于是乎，彭铭裕索性决定辞职回家全职做抖音特效。 但由于他在做特效的时候需要长期坐在电脑前面，颈椎经常会酸痛，用彭铭裕的话来说就是“每次做完特效一动脖子就啪啪响”。 不过有一次他在做游戏特效时，无意间发现这类体感游戏其实是可以缓解颈椎酸痛；又恰逢看到这个AI大赛，于是便决定参加搏一把。 彭铭裕做的产品叫做《动动脖子》，是一款纯网页端双人体感健康游戏平台",
+      "summary_zh": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝  闻乐 2026-08-24 07:19:06  来源：量子位   Tim和胡彦斌亲自颁奖   金磊 发自 上海 量子位 | 公众号 QbitAI  现在的AI大赛啊，简直不要太精彩好吧！ 他叫彭铭裕，今年24岁，之前从事的职业是保安。 而就是这么与AI八竿子打不着边的他，竟能从数万人中杀出一条血路，直接斩获全国第20强。 △《动动脖子》项目作者，彭铭裕 如此的反转，还要从彭铭裕当保安那段时间说起。 当时，他刷抖音时被各种抖音特效给吸引注了，下班后便开始自己琢磨怎么做特效。随着一点点的经验积累，也让彭铭裕从小白新手走到了高级特效师。 而最直接的收获，便是副业收入比他做保安还要高；于是乎，彭铭裕索性决定辞职回家全职做抖音特效。 但由于他在做特效的时候需要长期坐在电脑前面，颈椎经常会酸痛，用彭铭裕的话来说就是“每次做完特效一动脖子就啪啪响”。 不过有一次他在做游戏特效时，无意间发现这类体感游戏其实是可以缓解颈椎酸痛；又恰逢看到这个AI大赛，于是便决定参加搏一把。 彭铭裕做的产品叫做《动动脖子》，是一款纯网页端双人体感健康游戏平台",
+      "publishedAt": "2026-08-23T23:19:06Z",
+      "published_at": "2026-08-23T23:19:06Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "25497c7f",
+      "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/478421.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/478421.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界  量子位的朋友们 2026-08-24 13:04:52  来源：量子位   8月19日，世界机器人大会（WRC 2026）期间，由跨维智能主办、《财经》杂志协办的“物理AI引领者论坛暨2026《财经》中国AI 100榜单启动仪式”在北京举行。论坛以“物理AI进行时”为主题，汇聚具身智能领域的顶尖学者、企业创始人和一线技术负责人，共同探讨通用物理智能的技术演进与产业路径。 作为原生全模态世界模型代表企业，智象未来（HiDream.ai）创始人兼CEO梅涛发表了题为《原生全模态世界模型：从“模拟世界”到“交互世界”》的主旨演讲。他从AI大模型的技术演进趋势出发，系统阐述了大模型从多模态走向原生全模态、从模拟世界走向交互世界的核心逻辑，为Physical AI的底层能力建设提供了新的技术视角与路径思考。 01 高IQ不等于全能：AI从“理解世界”到“改变世界” 梅涛博士在演讲中指出，过去几年AI大模型的发展可谓一日千里。从大语言模型到多模态模型再到具身智能，三条曾经独立演进的技术路线正在加速走向融合，2026年被很多人称为“世界模",
+      "summary_zh": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界  量子位的朋友们 2026-08-24 13:04:52  来源：量子位   8月19日，世界机器人大会（WRC 2026）期间，由跨维智能主办、《财经》杂志协办的“物理AI引领者论坛暨2026《财经》中国AI 100榜单启动仪式”在北京举行。论坛以“物理AI进行时”为主题，汇聚具身智能领域的顶尖学者、企业创始人和一线技术负责人，共同探讨通用物理智能的技术演进与产业路径。 作为原生全模态世界模型代表企业，智象未来（HiDream.ai）创始人兼CEO梅涛发表了题为《原生全模态世界模型：从“模拟世界”到“交互世界”》的主旨演讲。他从AI大模型的技术演进趋势出发，系统阐述了大模型从多模态走向原生全模态、从模拟世界走向交互世界的核心逻辑，为Physical AI的底层能力建设提供了新的技术视角与路径思考。 01 高IQ不等于全能：AI从“理解世界”到“改变世界” 梅涛博士在演讲中指出，过去几年AI大模型的发展可谓一日千里。从大语言模型到多模态模型再到具身智能，三条曾经独立演进的技术路线正在加速走向融合，2026年被很多人称为“世界模",
+      "publishedAt": "2026-08-24T05:04:52Z",
+      "published_at": "2026-08-24T05:04:52Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "b92486f3",
+      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/478427.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/478427.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”  量子位的朋友们 2026-08-24 13:09:27  来源：量子位   8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。   8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。该模型在生成时长、万能创作、全能参考以及真实世界还原等维度全面升级，单次可生成30秒视频，并首次支持doc、xls、ppt、pdf、md等文档格式输入，力求准确还原真实世界。公测以来，见证Wan模型家族历次更新的创作者表示，Wan3.0是“最惊喜的一次”。从企业用户体验来看，Wan3.0收到的反馈高度一致，“稳定、真实、有质感”是被反复提到的三个关键词。 Wan3.0在角色、道具、声音、空间关系、风格等细粒度维度均可稳定保持，这对追求生产力的企业用户而言尤为关键。比如这段高速追车戏中，Wan3.0能够读懂参考素材，处理长时序叙事。30 秒内，人物、车辆、环境高度一致，上车、追逐、高速特技直至爆炸，全程连贯输出，无需反复抽卡、来回调试。  （视频来源：LibTV） 真实是 Wan3.0 告别“AI 感”的分水岭。有企业用户提到，",
+      "summary_zh": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”  量子位的朋友们 2026-08-24 13:09:27  来源：量子位   8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。   8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。该模型在生成时长、万能创作、全能参考以及真实世界还原等维度全面升级，单次可生成30秒视频，并首次支持doc、xls、ppt、pdf、md等文档格式输入，力求准确还原真实世界。公测以来，见证Wan模型家族历次更新的创作者表示，Wan3.0是“最惊喜的一次”。从企业用户体验来看，Wan3.0收到的反馈高度一致，“稳定、真实、有质感”是被反复提到的三个关键词。 Wan3.0在角色、道具、声音、空间关系、风格等细粒度维度均可稳定保持，这对追求生产力的企业用户而言尤为关键。比如这段高速追车戏中，Wan3.0能够读懂参考素材，处理长时序叙事。30 秒内，人物、车辆、环境高度一致，上车、追逐、高速特技直至爆炸，全程连贯输出，无需反复抽卡、来回调试。  （视频来源：LibTV） 真实是 Wan3.0 告别“AI 感”的分水岭。有企业用户提到，",
+      "publishedAt": "2026-08-24T05:09:27Z",
+      "published_at": "2026-08-24T05:09:27Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "e671d5ba",
+      "title": "英伟达服务器涨价超15%！百亿AI基",
+      "title_en": "英伟达服务器涨价超15%！百亿AI基建的「内存难题」",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "英伟达服务器涨价超15%！百亿AI基建的「内存难题」",
+      "summary_zh": "英伟达服务器涨价超15%！百亿AI基建的「内存难题」",
+      "publishedAt": "2026-08-24T20:53:55Z",
+      "published_at": "2026-08-24T20:53:55Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
