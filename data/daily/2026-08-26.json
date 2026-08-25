@@ -1,0 +1,503 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-25T20:51:56Z",
+  "generatedAt": "2026-08-25T20:51:56Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "f0009229",
+          "title": "产品更新：akta.pro",
+          "title_en": "akta.pro",
+          "url": "https://www.producthunt.com/products/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Private company data and signals API for the a",
+          "summary_zh": "Private company data and signals API for the a",
+          "publishedAt": "2026-08-25T07:01:00Z",
+          "published_at": "2026-08-25T07:01:00Z",
+          "votes_count": 340,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b6bf5693",
+          "title": "AI资讯更新：Diet Claude",
+          "title_en": "Diet Claude",
+          "url": "https://www.producthunt.com/products/diet-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/diet-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Never get blindsided by Claude's usage limits",
+          "summary_zh": "Never get blindsided by Claude's usage limits",
+          "publishedAt": "2026-08-25T07:01:00Z",
+          "published_at": "2026-08-25T07:01:00Z",
+          "votes_count": 311,
+          "featured": true,
+          "topics": [
+            {
+              "id": "34",
+              "name": "Chrome Extensions",
+              "slug": "chrome-extensions"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2291a6f7",
+          "title": "产品更新：Agnost AI",
+          "title_en": "Agnost AI",
+          "url": "https://www.producthunt.com/products/agnost-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/agnost-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Catch agent failures your evals miss Agnost AI",
+          "summary_zh": "Catch agent failures your evals miss Agnost AI",
+          "publishedAt": "2026-08-25T07:01:00Z",
+          "published_at": "2026-08-25T07:01:00Z",
+          "votes_count": 218,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3f3ecac1",
+          "title": "产品更新：Jotform AI Data",
+          "title_en": "Jotform AI Data Assistant",
+          "url": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Turn form data into insights and action with A",
+          "summary_zh": "Turn form data into insights and action with A",
+          "publishedAt": "2026-08-25T07:01:00Z",
+          "published_at": "2026-08-25T07:01:00Z",
+          "votes_count": 205,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "c9d3f6b0",
+          "title": "VC开始靠AI预测未来了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/478774.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/478774.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "VC开始靠AI预测未来了  思邈 2026-08-25 10:16:43  来源：量子位   FutureX榜单前十占了仨   允中 发自 凹非寺 量子位 | 公众号 QbitAI  七月，DigClaw的预测框架Rhizome v1，在FutureX评测平台上取得了#1、#3、#7三个席位。 三个席位来自三个不同的基础模型——包括Kimi-K3、DeepSeek-V4-Pro等。同一套框架同时让它们进入Top 7，DigClaw是唯一做到这一点的参赛方。 59道覆盖政治、经济、科技领域的真实事件预测题，不存在训练数据泄露的可能。 这组成绩支持了DigClaw正在验证的判断：  预测能力可以沉淀在基座模型之外。  随着基座进步，系统可以获得能力红利；预测轨迹、结算反馈、校准经验和持续演化的工作流，则持续沉淀在系统内部。 △DigClaw 2026Jul.Week4在FutureX榜单表现 这不是一次偶然的竞赛结果，这是DigClaw对“预测到底应该怎么做”这个问题，给出的第一个外部验证。 预测是AI最被低估的能力 随着预测任务逐渐走向标准化和工程化，AI也被寄予了规模化处理复杂预测问题",
+          "summary_zh": "VC开始靠AI预测未来了  思邈 2026-08-25 10:16:43  来源：量子位   FutureX榜单前十占了仨   允中 发自 凹非寺 量子位 | 公众号 QbitAI  七月，DigClaw的预测框架Rhizome v1，在FutureX评测平台上取得了#1、#3、#7三个席位。 三个席位来自三个不同的基础模型——包括Kimi-K3、DeepSeek-V4-Pro等。同一套框架同时让它们进入Top 7，DigClaw是唯一做到这一点的参赛方。 59道覆盖政治、经济、科技领域的真实事件预测题，不存在训练数据泄露的可能。 这组成绩支持了DigClaw正在验证的判断：  预测能力可以沉淀在基座模型之外。  随着基座进步，系统可以获得能力红利；预测轨迹、结算反馈、校准经验和持续演化的工作流，则持续沉淀在系统内部。 △DigClaw 2026Jul.Week4在FutureX榜单表现 这不是一次偶然的竞赛结果，这是DigClaw对“预测到底应该怎么做”这个问题，给出的第一个外部验证。 预测是AI最被低估的能力 随着预测任务逐渐走向标准化和工程化，AI也被寄予了规模化处理复杂预测问题",
+          "publishedAt": "2026-08-25T02:16:43Z",
+          "published_at": "2026-08-25T02:16:43Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "e43f4e1a",
+          "title": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/478791.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/478791.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜  Jay 2026-08-25 10:22:01  来源：量子位   机器人大脑新SOTA   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  一觉醒来，机器人大脑的SOTA，易主了。 这次，原力灵机的DM0.5，登顶了具身「珠峰」——RoboDojo。  要知道，这可是RoboDojo啊。。。 魔鬼级的具身评测，由香港大学多媒体实验室联合加州大学伯克利分校、清华大学等全球近20所顶尖学术机构共同发起。 这些顶尖学府的「品控」有多严格？ 这么说吧，截至2026年7月，仿真榜单头部模型平均成功率仅8.80%，真机榜单仅12.8%。 是的，仍在个位数挣扎。 反正就是难度和真实性极高，专治实验室闭门造车的偏科生。 如今，DM0.5拿下了第一——  综合得分：24.90 平均成功率：19.34%  此外，仔细看了下表格，发现这个模型有个极其突出的强项—— 记忆。 具体可以看这个Cover Blocks任务： 机器人先从左到右盖住随机排列的红、绿、蓝三个积木。当颜色被完全遮挡后，再根据此前观测，按红、绿、蓝",
+          "summary_zh": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜  Jay 2026-08-25 10:22:01  来源：量子位   机器人大脑新SOTA   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  一觉醒来，机器人大脑的SOTA，易主了。 这次，原力灵机的DM0.5，登顶了具身「珠峰」——RoboDojo。  要知道，这可是RoboDojo啊。。。 魔鬼级的具身评测，由香港大学多媒体实验室联合加州大学伯克利分校、清华大学等全球近20所顶尖学术机构共同发起。 这些顶尖学府的「品控」有多严格？ 这么说吧，截至2026年7月，仿真榜单头部模型平均成功率仅8.80%，真机榜单仅12.8%。 是的，仍在个位数挣扎。 反正就是难度和真实性极高，专治实验室闭门造车的偏科生。 如今，DM0.5拿下了第一——  综合得分：24.90 平均成功率：19.34%  此外，仔细看了下表格，发现这个模型有个极其突出的强项—— 记忆。 具体可以看这个Cover Blocks任务： 机器人先从左到右盖住随机排列的红、绿、蓝三个积木。当颜色被完全遮挡后，再根据此前观测，按红、绿、蓝",
+          "publishedAt": "2026-08-25T02:22:01Z",
+          "published_at": "2026-08-25T02:22:01Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "9aab0373",
+          "title": "WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/478479.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/478479.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求  量子位的朋友们 2026-08-25 12:06:18  来源：量子位   2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！    “去东南亚出海，场景到底有哪些？” “去了能见到真正管预算、能拍板的决策者吗？” “除了卷价格，怎样才能融入当地生态、拿到可持续的商业订单？” 如果你正在评估或布局东南亚市场，这或许是你最关心的三个问题。 2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！ 这里没有浮夸的概念炒作，没有漫无目的的展位推销。我们将用2天沉浸式行程，带你从“了解市场”直接迈入“拿到真实商业机会”！ 01 需求来了，马来西亚到底需要什么？  热门A级核心赛道，真实AI需求集中释放 东南亚数字经济正在爆发，而马来西亚凭借完善的算力基础设施与明确的国家数字战略，已成为大模型与AI应用落地的东盟第一枢纽。 活动现场重点聚焦 热门A级场景，释放第一手需求： 政府与智慧城市（Government） 政",
+          "summary_zh": "WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求  量子位的朋友们 2026-08-25 12:06:18  来源：量子位   2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！    “去东南亚出海，场景到底有哪些？” “去了能见到真正管预算、能拍板的决策者吗？” “除了卷价格，怎样才能融入当地生态、拿到可持续的商业订单？” 如果你正在评估或布局东南亚市场，这或许是你最关心的三个问题。 2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！ 这里没有浮夸的概念炒作，没有漫无目的的展位推销。我们将用2天沉浸式行程，带你从“了解市场”直接迈入“拿到真实商业机会”！ 01 需求来了，马来西亚到底需要什么？  热门A级核心赛道，真实AI需求集中释放 东南亚数字经济正在爆发，而马来西亚凭借完善的算力基础设施与明确的国家数字战略，已成为大模型与AI应用落地的东盟第一枢纽。 活动现场重点聚焦 热门A级场景，释放第一手需求： 政府与智慧城市（Government） 政",
+          "publishedAt": "2026-08-25T04:06:18Z",
+          "published_at": "2026-08-25T04:06:18Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "8c937f42",
+          "title": "给优秀实习生期权！刚刚，一项面向AI",
+          "title_en": "给优秀实习生期权！刚刚，一项面向AI顶级人才的「面壁计划」启动了",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "给优秀实习生期权！刚刚，一项面向AI顶级人才的「面壁计划」启动了",
+          "summary_zh": "给优秀实习生期权！刚刚，一项面向AI顶级人才的「面壁计划」启动了",
+          "publishedAt": "2026-08-25T20:51:05Z",
+          "published_at": "2026-08-25T20:51:05Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "f0009229",
+      "title": "产品更新：akta.pro",
+      "title_en": "akta.pro",
+      "url": "https://www.producthunt.com/products/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Private company data and signals API for the a",
+      "summary_zh": "Private company data and signals API for the a",
+      "publishedAt": "2026-08-25T07:01:00Z",
+      "published_at": "2026-08-25T07:01:00Z",
+      "votes_count": 340,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b6bf5693",
+      "title": "AI资讯更新：Diet Claude",
+      "title_en": "Diet Claude",
+      "url": "https://www.producthunt.com/products/diet-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/diet-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Never get blindsided by Claude's usage limits",
+      "summary_zh": "Never get blindsided by Claude's usage limits",
+      "publishedAt": "2026-08-25T07:01:00Z",
+      "published_at": "2026-08-25T07:01:00Z",
+      "votes_count": 311,
+      "featured": true,
+      "topics": [
+        {
+          "id": "34",
+          "name": "Chrome Extensions",
+          "slug": "chrome-extensions"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "2291a6f7",
+      "title": "产品更新：Agnost AI",
+      "title_en": "Agnost AI",
+      "url": "https://www.producthunt.com/products/agnost-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/agnost-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Catch agent failures your evals miss Agnost AI",
+      "summary_zh": "Catch agent failures your evals miss Agnost AI",
+      "publishedAt": "2026-08-25T07:01:00Z",
+      "published_at": "2026-08-25T07:01:00Z",
+      "votes_count": 218,
+      "featured": true,
+      "topics": [
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3f3ecac1",
+      "title": "产品更新：Jotform AI Data",
+      "title_en": "Jotform AI Data Assistant",
+      "url": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn form data into insights and action with A",
+      "summary_zh": "Turn form data into insights and action with A",
+      "publishedAt": "2026-08-25T07:01:00Z",
+      "published_at": "2026-08-25T07:01:00Z",
+      "votes_count": 205,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "582",
+          "name": "Data & Analytics",
+          "slug": "data-analytics"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "c9d3f6b0",
+      "title": "VC开始靠AI预测未来了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/478774.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/478774.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "VC开始靠AI预测未来了  思邈 2026-08-25 10:16:43  来源：量子位   FutureX榜单前十占了仨   允中 发自 凹非寺 量子位 | 公众号 QbitAI  七月，DigClaw的预测框架Rhizome v1，在FutureX评测平台上取得了#1、#3、#7三个席位。 三个席位来自三个不同的基础模型——包括Kimi-K3、DeepSeek-V4-Pro等。同一套框架同时让它们进入Top 7，DigClaw是唯一做到这一点的参赛方。 59道覆盖政治、经济、科技领域的真实事件预测题，不存在训练数据泄露的可能。 这组成绩支持了DigClaw正在验证的判断：  预测能力可以沉淀在基座模型之外。  随着基座进步，系统可以获得能力红利；预测轨迹、结算反馈、校准经验和持续演化的工作流，则持续沉淀在系统内部。 △DigClaw 2026Jul.Week4在FutureX榜单表现 这不是一次偶然的竞赛结果，这是DigClaw对“预测到底应该怎么做”这个问题，给出的第一个外部验证。 预测是AI最被低估的能力 随着预测任务逐渐走向标准化和工程化，AI也被寄予了规模化处理复杂预测问题",
+      "summary_zh": "VC开始靠AI预测未来了  思邈 2026-08-25 10:16:43  来源：量子位   FutureX榜单前十占了仨   允中 发自 凹非寺 量子位 | 公众号 QbitAI  七月，DigClaw的预测框架Rhizome v1，在FutureX评测平台上取得了#1、#3、#7三个席位。 三个席位来自三个不同的基础模型——包括Kimi-K3、DeepSeek-V4-Pro等。同一套框架同时让它们进入Top 7，DigClaw是唯一做到这一点的参赛方。 59道覆盖政治、经济、科技领域的真实事件预测题，不存在训练数据泄露的可能。 这组成绩支持了DigClaw正在验证的判断：  预测能力可以沉淀在基座模型之外。  随着基座进步，系统可以获得能力红利；预测轨迹、结算反馈、校准经验和持续演化的工作流，则持续沉淀在系统内部。 △DigClaw 2026Jul.Week4在FutureX榜单表现 这不是一次偶然的竞赛结果，这是DigClaw对“预测到底应该怎么做”这个问题，给出的第一个外部验证。 预测是AI最被低估的能力 随着预测任务逐渐走向标准化和工程化，AI也被寄予了规模化处理复杂预测问题",
+      "publishedAt": "2026-08-25T02:16:43Z",
+      "published_at": "2026-08-25T02:16:43Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "e43f4e1a",
+      "title": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/478791.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/478791.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜  Jay 2026-08-25 10:22:01  来源：量子位   机器人大脑新SOTA   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  一觉醒来，机器人大脑的SOTA，易主了。 这次，原力灵机的DM0.5，登顶了具身「珠峰」——RoboDojo。  要知道，这可是RoboDojo啊。。。 魔鬼级的具身评测，由香港大学多媒体实验室联合加州大学伯克利分校、清华大学等全球近20所顶尖学术机构共同发起。 这些顶尖学府的「品控」有多严格？ 这么说吧，截至2026年7月，仿真榜单头部模型平均成功率仅8.80%，真机榜单仅12.8%。 是的，仍在个位数挣扎。 反正就是难度和真实性极高，专治实验室闭门造车的偏科生。 如今，DM0.5拿下了第一——  综合得分：24.90 平均成功率：19.34%  此外，仔细看了下表格，发现这个模型有个极其突出的强项—— 记忆。 具体可以看这个Cover Blocks任务： 机器人先从左到右盖住随机排列的红、绿、蓝三个积木。当颜色被完全遮挡后，再根据此前观测，按红、绿、蓝",
+      "summary_zh": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜  Jay 2026-08-25 10:22:01  来源：量子位   机器人大脑新SOTA   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  一觉醒来，机器人大脑的SOTA，易主了。 这次，原力灵机的DM0.5，登顶了具身「珠峰」——RoboDojo。  要知道，这可是RoboDojo啊。。。 魔鬼级的具身评测，由香港大学多媒体实验室联合加州大学伯克利分校、清华大学等全球近20所顶尖学术机构共同发起。 这些顶尖学府的「品控」有多严格？ 这么说吧，截至2026年7月，仿真榜单头部模型平均成功率仅8.80%，真机榜单仅12.8%。 是的，仍在个位数挣扎。 反正就是难度和真实性极高，专治实验室闭门造车的偏科生。 如今，DM0.5拿下了第一——  综合得分：24.90 平均成功率：19.34%  此外，仔细看了下表格，发现这个模型有个极其突出的强项—— 记忆。 具体可以看这个Cover Blocks任务： 机器人先从左到右盖住随机排列的红、绿、蓝三个积木。当颜色被完全遮挡后，再根据此前观测，按红、绿、蓝",
+      "publishedAt": "2026-08-25T02:22:01Z",
+      "published_at": "2026-08-25T02:22:01Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "9aab0373",
+      "title": "WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/478479.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/478479.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求  量子位的朋友们 2026-08-25 12:06:18  来源：量子位   2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！    “去东南亚出海，场景到底有哪些？” “去了能见到真正管预算、能拍板的决策者吗？” “除了卷价格，怎样才能融入当地生态、拿到可持续的商业订单？” 如果你正在评估或布局东南亚市场，这或许是你最关心的三个问题。 2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！ 这里没有浮夸的概念炒作，没有漫无目的的展位推销。我们将用2天沉浸式行程，带你从“了解市场”直接迈入“拿到真实商业机会”！ 01 需求来了，马来西亚到底需要什么？  热门A级核心赛道，真实AI需求集中释放 东南亚数字经济正在爆发，而马来西亚凭借完善的算力基础设施与明确的国家数字战略，已成为大模型与AI应用落地的东盟第一枢纽。 活动现场重点聚焦 热门A级场景，释放第一手需求： 政府与智慧城市（Government） 政",
+      "summary_zh": "WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求  量子位的朋友们 2026-08-25 12:06:18  来源：量子位   2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！    “去东南亚出海，场景到底有哪些？” “去了能见到真正管预算、能拍板的决策者吗？” “除了卷价格，怎样才能融入当地生态、拿到可持续的商业订单？” 如果你正在评估或布局东南亚市场，这或许是你最关心的三个问题。 2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！ 这里没有浮夸的概念炒作，没有漫无目的的展位推销。我们将用2天沉浸式行程，带你从“了解市场”直接迈入“拿到真实商业机会”！ 01 需求来了，马来西亚到底需要什么？  热门A级核心赛道，真实AI需求集中释放 东南亚数字经济正在爆发，而马来西亚凭借完善的算力基础设施与明确的国家数字战略，已成为大模型与AI应用落地的东盟第一枢纽。 活动现场重点聚焦 热门A级场景，释放第一手需求： 政府与智慧城市（Government） 政",
+      "publishedAt": "2026-08-25T04:06:18Z",
+      "published_at": "2026-08-25T04:06:18Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "8c937f42",
+      "title": "给优秀实习生期权！刚刚，一项面向AI",
+      "title_en": "给优秀实习生期权！刚刚，一项面向AI顶级人才的「面壁计划」启动了",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "给优秀实习生期权！刚刚，一项面向AI顶级人才的「面壁计划」启动了",
+      "summary_zh": "给优秀实习生期权！刚刚，一项面向AI顶级人才的「面壁计划」启动了",
+      "publishedAt": "2026-08-25T20:51:05Z",
+      "published_at": "2026-08-25T20:51:05Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

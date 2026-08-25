@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-08-25T09:07:09Z",
-  "generatedAt": "2026-08-25T09:07:09Z",
-  "count": 105,
-  "total": 105,
+  "generated_at": "2026-08-25T20:51:56Z",
+  "generatedAt": "2026-08-25T20:51:56Z",
+  "count": 106,
+  "total": 106,
   "entries": [
+    {
+      "date": "2026-08-26",
+      "generated_at": "2026-08-25T20:51:56Z",
+      "generatedAt": "2026-08-25T20:51:56Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "f0009229",
+          "title": "产品更新：akta.pro",
+          "title_en": "akta.pro",
+          "url": "https://www.producthunt.com/products/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Private company data and signals API for the a",
+          "summary_zh": "Private company data and signals API for the a",
+          "publishedAt": "2026-08-25T07:01:00Z",
+          "published_at": "2026-08-25T07:01:00Z",
+          "votes_count": 340,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b6bf5693",
+          "title": "AI资讯更新：Diet Claude",
+          "title_en": "Diet Claude",
+          "url": "https://www.producthunt.com/products/diet-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/diet-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Never get blindsided by Claude's usage limits",
+          "summary_zh": "Never get blindsided by Claude's usage limits",
+          "publishedAt": "2026-08-25T07:01:00Z",
+          "published_at": "2026-08-25T07:01:00Z",
+          "votes_count": 311,
+          "featured": true,
+          "topics": [
+            {
+              "id": "34",
+              "name": "Chrome Extensions",
+              "slug": "chrome-extensions"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2291a6f7",
+          "title": "产品更新：Agnost AI",
+          "title_en": "Agnost AI",
+          "url": "https://www.producthunt.com/products/agnost-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/agnost-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Catch agent failures your evals miss Agnost AI",
+          "summary_zh": "Catch agent failures your evals miss Agnost AI",
+          "publishedAt": "2026-08-25T07:01:00Z",
+          "published_at": "2026-08-25T07:01:00Z",
+          "votes_count": 218,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-25",
       "generated_at": "2026-08-25T09:07:09Z",
