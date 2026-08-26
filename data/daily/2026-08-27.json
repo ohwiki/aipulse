@@ -1,0 +1,513 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-26T23:48:14Z",
+  "generatedAt": "2026-08-26T23:48:14Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "7d19c70c",
+          "title": "AI资讯更新：x1",
+          "title_en": "x1",
+          "url": "https://www.producthunt.com/products/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Lovable for iPhone apps. From idea to App Stor",
+          "summary_zh": "Lovable for iPhone apps. From idea to App Stor",
+          "publishedAt": "2026-08-26T07:01:00Z",
+          "published_at": "2026-08-26T07:01:00Z",
+          "votes_count": 392,
+          "featured": true,
+          "topics": [
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "fa904281",
+          "title": "AI资讯更新：Expertise AI",
+          "title_en": "Expertise AI",
+          "url": "https://www.producthunt.com/products/expertise-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/expertise-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Turn your GTM skills into recurring revenue Ex",
+          "summary_zh": "Turn your GTM skills into recurring revenue Ex",
+          "publishedAt": "2026-08-26T07:01:00Z",
+          "published_at": "2026-08-26T07:01:00Z",
+          "votes_count": 302,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e2b39a6c",
+          "title": "产品更新：PostHog Desktop",
+          "title_en": "PostHog Desktop",
+          "url": "https://www.producthunt.com/products/posthog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/posthog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The product editor for product builders A mult",
+          "summary_zh": "The product editor for product builders A mult",
+          "publishedAt": "2026-08-26T07:01:00Z",
+          "published_at": "2026-08-26T07:01:00Z",
+          "votes_count": 290,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9fb3a111",
+          "title": "产品更新：ChatCut Desktop",
+          "title_en": "ChatCut Desktop",
+          "url": "https://www.producthunt.com/products/chatcut-ai-video-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/chatcut-ai-video-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Video editor built for humans & AI. Edit with",
+          "summary_zh": "Video editor built for humans & AI. Edit with",
+          "publishedAt": "2026-08-26T07:01:00Z",
+          "published_at": "2026-08-26T07:01:00Z",
+          "votes_count": 238,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "a9495370",
+          "title": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/479348.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/479348.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案  听雨 2026-08-26 10:59:02  来源：量子位   shui jiang shuai xian sha  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 今天，「豆包工作」作为面向生产力场景的Agent产品正式发布。 福利也一起安排上了：现在下载豆包工作电脑版，就能免费领取30天订阅权益，老订阅用户直接顺延30天。 深度实测后，我们最直白的结论是： 它与飞书的深度打通，给出了目前Agent进入组织的一份最佳答案。 当主流办公Agent都会处理文件、调用工具、生成网页，基础能力越来越接近时，真正拉开差距的，可能就在于谁更了解一家公司的真实工作： 项目群里聊过什么，会议上定了什么，多维表格记录到哪一步，以及每个人能查看和操作哪些数据。 这些企业上下文，正在成为办公Agent的下一场比赛。 飞书恰好沉淀了这些信息。豆包工作接入飞书后，不再需要每次从头认识一遍公司，它可以沿着团队已有的讨论、数据和工作流继续往下干。 所以这次实测，我们不仅想知道豆包工作能不能把活干完，也想看看： 当Agent开始读懂一家公司的",
+          "summary_zh": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案  听雨 2026-08-26 10:59:02  来源：量子位   shui jiang shuai xian sha  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 今天，「豆包工作」作为面向生产力场景的Agent产品正式发布。 福利也一起安排上了：现在下载豆包工作电脑版，就能免费领取30天订阅权益，老订阅用户直接顺延30天。 深度实测后，我们最直白的结论是： 它与飞书的深度打通，给出了目前Agent进入组织的一份最佳答案。 当主流办公Agent都会处理文件、调用工具、生成网页，基础能力越来越接近时，真正拉开差距的，可能就在于谁更了解一家公司的真实工作： 项目群里聊过什么，会议上定了什么，多维表格记录到哪一步，以及每个人能查看和操作哪些数据。 这些企业上下文，正在成为办公Agent的下一场比赛。 飞书恰好沉淀了这些信息。豆包工作接入飞书后，不再需要每次从头认识一遍公司，它可以沿着团队已有的讨论、数据和工作流继续往下干。 所以这次实测，我们不仅想知道豆包工作能不能把活干完，也想看看： 当Agent开始读懂一家公司的",
+          "publishedAt": "2026-08-26T02:59:02Z",
+          "published_at": "2026-08-26T02:59:02Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "cbe810f8",
+          "title": "WRC乒乓球局爆火！这家中国具身创业公司，砸出了一套全栈新解法",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/478860.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/478860.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "WRC乒乓球局爆火！这家中国具身创业公司，砸出了一套全栈新解法  听雨 2026-08-26 11:02:34  来源：量子位   球技丝滑、现场爆满  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 机器人也开始打乒乓球了！ 这一次，球台直接搬到了世界机器人大会（WRC）现场。 超维动力的展台前，一台全尺寸人形机器人盯着飞来的乒乓球挥拍、转腰，再根据落点迅速调整动作。  几轮打下来，展台周围很快围满了观众。 球台旁边，另一套更大的系统也被摆上了展台。 全尺寸人形机器人KAI Bot、高自由度灵巧手KAI Hand、数采头环KAI Halo、KAI World Model，以及覆盖数据和训练流程的KAI Embodied AI Infra。  从硬件、模型到数据采集和Infra，这一整套全栈具身智能系统，统统被搬到了现场。 这套布局很容易让人想到Figure。作为全球估值最高的具身智能公司之一，Figure几乎是这一轮人形机器人热潮中最受关注的明星公司。 它真正得到资本认可的，不只是造出了一台人形机器人，而是同时押注本体、模型和真实场景。 自己造机器人，自己训练Helix模型，再",
+          "summary_zh": "WRC乒乓球局爆火！这家中国具身创业公司，砸出了一套全栈新解法  听雨 2026-08-26 11:02:34  来源：量子位   球技丝滑、现场爆满  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 机器人也开始打乒乓球了！ 这一次，球台直接搬到了世界机器人大会（WRC）现场。 超维动力的展台前，一台全尺寸人形机器人盯着飞来的乒乓球挥拍、转腰，再根据落点迅速调整动作。  几轮打下来，展台周围很快围满了观众。 球台旁边，另一套更大的系统也被摆上了展台。 全尺寸人形机器人KAI Bot、高自由度灵巧手KAI Hand、数采头环KAI Halo、KAI World Model，以及覆盖数据和训练流程的KAI Embodied AI Infra。  从硬件、模型到数据采集和Infra，这一整套全栈具身智能系统，统统被搬到了现场。 这套布局很容易让人想到Figure。作为全球估值最高的具身智能公司之一，Figure几乎是这一轮人形机器人热潮中最受关注的明星公司。 它真正得到资本认可的，不只是造出了一台人形机器人，而是同时押注本体、模型和真实场景。 自己造机器人，自己训练Helix模型，再",
+          "publishedAt": "2026-08-26T03:02:34Z",
+          "published_at": "2026-08-26T03:02:34Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "b2ab8d3e",
+          "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/479631.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/479631.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用  量子位的朋友们 2026-08-26 11:25:00  来源：量子位   蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。  蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”（FalconTST，Time-Series Transformer）2.0版。“鹰序TST”2.0在全球权威基准测试中取得最优成绩（SOTA），平均绝对比例误差（MASE）降至0.666，超越多家全球顶尖科技公司的时间序列预测模型。该模型专为跨境支付外汇风险管理打造，并将拓展至电商供应链需求预测、航空运营管理等更多行业场景。 目前，巴克莱银行、花旗银行、德意志银行、渣打银行等大型金融机构已将“鹰序TST”2.0应用于现金流预测与外汇管理，提升流动性风险敞口的预测能力。“鹰序TST”2.0的预测准确率已稳定超过93%，具备向物流、航空、电商等金融以外行业拓展的应用能力。 2025年以来，Amazon Chronos-2、Google TimesFM 2.5、Salesforce Moirai",
+          "summary_zh": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用  量子位的朋友们 2026-08-26 11:25:00  来源：量子位   蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。  蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”（FalconTST，Time-Series Transformer）2.0版。“鹰序TST”2.0在全球权威基准测试中取得最优成绩（SOTA），平均绝对比例误差（MASE）降至0.666，超越多家全球顶尖科技公司的时间序列预测模型。该模型专为跨境支付外汇风险管理打造，并将拓展至电商供应链需求预测、航空运营管理等更多行业场景。 目前，巴克莱银行、花旗银行、德意志银行、渣打银行等大型金融机构已将“鹰序TST”2.0应用于现金流预测与外汇管理，提升流动性风险敞口的预测能力。“鹰序TST”2.0的预测准确率已稳定超过93%，具备向物流、航空、电商等金融以外行业拓展的应用能力。 2025年以来，Amazon Chronos-2、Google TimesFM 2.5、Salesforce Moirai",
+          "publishedAt": "2026-08-26T03:25:00Z",
+          "published_at": "2026-08-26T03:25:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "81fcf9f2",
+          "title": "刚刚，Qwen3.8-Flash震撼",
+          "title_en": "刚刚，Qwen3.8-Flash震撼发布，我们看到了Qwen4的骨架",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "刚刚，Qwen3.8-Flash震撼发布，我们看到了Qwen4的骨架",
+          "summary_zh": "刚刚，Qwen3.8-Flash震撼发布，我们看到了Qwen4的骨架",
+          "publishedAt": "2026-08-26T23:47:17Z",
+          "published_at": "2026-08-26T23:47:17Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "7d19c70c",
+      "title": "AI资讯更新：x1",
+      "title_en": "x1",
+      "url": "https://www.producthunt.com/products/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Lovable for iPhone apps. From idea to App Stor",
+      "summary_zh": "Lovable for iPhone apps. From idea to App Stor",
+      "publishedAt": "2026-08-26T07:01:00Z",
+      "published_at": "2026-08-26T07:01:00Z",
+      "votes_count": 392,
+      "featured": true,
+      "topics": [
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        },
+        {
+          "id": "1194",
+          "name": "Vibe coding",
+          "slug": "vibe-coding"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "fa904281",
+      "title": "AI资讯更新：Expertise AI",
+      "title_en": "Expertise AI",
+      "url": "https://www.producthunt.com/products/expertise-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/expertise-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn your GTM skills into recurring revenue Ex",
+      "summary_zh": "Turn your GTM skills into recurring revenue Ex",
+      "publishedAt": "2026-08-26T07:01:00Z",
+      "published_at": "2026-08-26T07:01:00Z",
+      "votes_count": 302,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "e2b39a6c",
+      "title": "产品更新：PostHog Desktop",
+      "title_en": "PostHog Desktop",
+      "url": "https://www.producthunt.com/products/posthog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/posthog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The product editor for product builders A mult",
+      "summary_zh": "The product editor for product builders A mult",
+      "publishedAt": "2026-08-26T07:01:00Z",
+      "published_at": "2026-08-26T07:01:00Z",
+      "votes_count": 290,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9fb3a111",
+      "title": "产品更新：ChatCut Desktop",
+      "title_en": "ChatCut Desktop",
+      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/chatcut-ai-video-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Video editor built for humans & AI. Edit with",
+      "summary_zh": "Video editor built for humans & AI. Edit with",
+      "publishedAt": "2026-08-26T07:01:00Z",
+      "published_at": "2026-08-26T07:01:00Z",
+      "votes_count": 238,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a9495370",
+      "title": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/479348.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/479348.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案  听雨 2026-08-26 10:59:02  来源：量子位   shui jiang shuai xian sha  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 今天，「豆包工作」作为面向生产力场景的Agent产品正式发布。 福利也一起安排上了：现在下载豆包工作电脑版，就能免费领取30天订阅权益，老订阅用户直接顺延30天。 深度实测后，我们最直白的结论是： 它与飞书的深度打通，给出了目前Agent进入组织的一份最佳答案。 当主流办公Agent都会处理文件、调用工具、生成网页，基础能力越来越接近时，真正拉开差距的，可能就在于谁更了解一家公司的真实工作： 项目群里聊过什么，会议上定了什么，多维表格记录到哪一步，以及每个人能查看和操作哪些数据。 这些企业上下文，正在成为办公Agent的下一场比赛。 飞书恰好沉淀了这些信息。豆包工作接入飞书后，不再需要每次从头认识一遍公司，它可以沿着团队已有的讨论、数据和工作流继续往下干。 所以这次实测，我们不仅想知道豆包工作能不能把活干完，也想看看： 当Agent开始读懂一家公司的",
+      "summary_zh": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案  听雨 2026-08-26 10:59:02  来源：量子位   shui jiang shuai xian sha  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 今天，「豆包工作」作为面向生产力场景的Agent产品正式发布。 福利也一起安排上了：现在下载豆包工作电脑版，就能免费领取30天订阅权益，老订阅用户直接顺延30天。 深度实测后，我们最直白的结论是： 它与飞书的深度打通，给出了目前Agent进入组织的一份最佳答案。 当主流办公Agent都会处理文件、调用工具、生成网页，基础能力越来越接近时，真正拉开差距的，可能就在于谁更了解一家公司的真实工作： 项目群里聊过什么，会议上定了什么，多维表格记录到哪一步，以及每个人能查看和操作哪些数据。 这些企业上下文，正在成为办公Agent的下一场比赛。 飞书恰好沉淀了这些信息。豆包工作接入飞书后，不再需要每次从头认识一遍公司，它可以沿着团队已有的讨论、数据和工作流继续往下干。 所以这次实测，我们不仅想知道豆包工作能不能把活干完，也想看看： 当Agent开始读懂一家公司的",
+      "publishedAt": "2026-08-26T02:59:02Z",
+      "published_at": "2026-08-26T02:59:02Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "cbe810f8",
+      "title": "WRC乒乓球局爆火！这家中国具身创业公司，砸出了一套全栈新解法",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/478860.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/478860.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "WRC乒乓球局爆火！这家中国具身创业公司，砸出了一套全栈新解法  听雨 2026-08-26 11:02:34  来源：量子位   球技丝滑、现场爆满  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 机器人也开始打乒乓球了！ 这一次，球台直接搬到了世界机器人大会（WRC）现场。 超维动力的展台前，一台全尺寸人形机器人盯着飞来的乒乓球挥拍、转腰，再根据落点迅速调整动作。  几轮打下来，展台周围很快围满了观众。 球台旁边，另一套更大的系统也被摆上了展台。 全尺寸人形机器人KAI Bot、高自由度灵巧手KAI Hand、数采头环KAI Halo、KAI World Model，以及覆盖数据和训练流程的KAI Embodied AI Infra。  从硬件、模型到数据采集和Infra，这一整套全栈具身智能系统，统统被搬到了现场。 这套布局很容易让人想到Figure。作为全球估值最高的具身智能公司之一，Figure几乎是这一轮人形机器人热潮中最受关注的明星公司。 它真正得到资本认可的，不只是造出了一台人形机器人，而是同时押注本体、模型和真实场景。 自己造机器人，自己训练Helix模型，再",
+      "summary_zh": "WRC乒乓球局爆火！这家中国具身创业公司，砸出了一套全栈新解法  听雨 2026-08-26 11:02:34  来源：量子位   球技丝滑、现场爆满  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 机器人也开始打乒乓球了！ 这一次，球台直接搬到了世界机器人大会（WRC）现场。 超维动力的展台前，一台全尺寸人形机器人盯着飞来的乒乓球挥拍、转腰，再根据落点迅速调整动作。  几轮打下来，展台周围很快围满了观众。 球台旁边，另一套更大的系统也被摆上了展台。 全尺寸人形机器人KAI Bot、高自由度灵巧手KAI Hand、数采头环KAI Halo、KAI World Model，以及覆盖数据和训练流程的KAI Embodied AI Infra。  从硬件、模型到数据采集和Infra，这一整套全栈具身智能系统，统统被搬到了现场。 这套布局很容易让人想到Figure。作为全球估值最高的具身智能公司之一，Figure几乎是这一轮人形机器人热潮中最受关注的明星公司。 它真正得到资本认可的，不只是造出了一台人形机器人，而是同时押注本体、模型和真实场景。 自己造机器人，自己训练Helix模型，再",
+      "publishedAt": "2026-08-26T03:02:34Z",
+      "published_at": "2026-08-26T03:02:34Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "b2ab8d3e",
+      "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/479631.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/479631.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用  量子位的朋友们 2026-08-26 11:25:00  来源：量子位   蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。  蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”（FalconTST，Time-Series Transformer）2.0版。“鹰序TST”2.0在全球权威基准测试中取得最优成绩（SOTA），平均绝对比例误差（MASE）降至0.666，超越多家全球顶尖科技公司的时间序列预测模型。该模型专为跨境支付外汇风险管理打造，并将拓展至电商供应链需求预测、航空运营管理等更多行业场景。 目前，巴克莱银行、花旗银行、德意志银行、渣打银行等大型金融机构已将“鹰序TST”2.0应用于现金流预测与外汇管理，提升流动性风险敞口的预测能力。“鹰序TST”2.0的预测准确率已稳定超过93%，具备向物流、航空、电商等金融以外行业拓展的应用能力。 2025年以来，Amazon Chronos-2、Google TimesFM 2.5、Salesforce Moirai",
+      "summary_zh": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用  量子位的朋友们 2026-08-26 11:25:00  来源：量子位   蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。  蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”（FalconTST，Time-Series Transformer）2.0版。“鹰序TST”2.0在全球权威基准测试中取得最优成绩（SOTA），平均绝对比例误差（MASE）降至0.666，超越多家全球顶尖科技公司的时间序列预测模型。该模型专为跨境支付外汇风险管理打造，并将拓展至电商供应链需求预测、航空运营管理等更多行业场景。 目前，巴克莱银行、花旗银行、德意志银行、渣打银行等大型金融机构已将“鹰序TST”2.0应用于现金流预测与外汇管理，提升流动性风险敞口的预测能力。“鹰序TST”2.0的预测准确率已稳定超过93%，具备向物流、航空、电商等金融以外行业拓展的应用能力。 2025年以来，Amazon Chronos-2、Google TimesFM 2.5、Salesforce Moirai",
+      "publishedAt": "2026-08-26T03:25:00Z",
+      "published_at": "2026-08-26T03:25:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "81fcf9f2",
+      "title": "刚刚，Qwen3.8-Flash震撼",
+      "title_en": "刚刚，Qwen3.8-Flash震撼发布，我们看到了Qwen4的骨架",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "刚刚，Qwen3.8-Flash震撼发布，我们看到了Qwen4的骨架",
+      "summary_zh": "刚刚，Qwen3.8-Flash震撼发布，我们看到了Qwen4的骨架",
+      "publishedAt": "2026-08-26T23:47:17Z",
+      "published_at": "2026-08-26T23:47:17Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-08-26T09:10:17Z",
-  "generatedAt": "2026-08-26T09:10:17Z",
-  "count": 106,
-  "total": 106,
+  "generated_at": "2026-08-26T23:48:14Z",
+  "generatedAt": "2026-08-26T23:48:14Z",
+  "count": 107,
+  "total": 107,
   "entries": [
+    {
+      "date": "2026-08-27",
+      "generated_at": "2026-08-26T23:48:14Z",
+      "generatedAt": "2026-08-26T23:48:14Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "7d19c70c",
+          "title": "AI资讯更新：x1",
+          "title_en": "x1",
+          "url": "https://www.producthunt.com/products/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Lovable for iPhone apps. From idea to App Stor",
+          "summary_zh": "Lovable for iPhone apps. From idea to App Stor",
+          "publishedAt": "2026-08-26T07:01:00Z",
+          "published_at": "2026-08-26T07:01:00Z",
+          "votes_count": 392,
+          "featured": true,
+          "topics": [
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "fa904281",
+          "title": "AI资讯更新：Expertise AI",
+          "title_en": "Expertise AI",
+          "url": "https://www.producthunt.com/products/expertise-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/expertise-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turn your GTM skills into recurring revenue Ex",
+          "summary_zh": "Turn your GTM skills into recurring revenue Ex",
+          "publishedAt": "2026-08-26T07:01:00Z",
+          "published_at": "2026-08-26T07:01:00Z",
+          "votes_count": 302,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e2b39a6c",
+          "title": "产品更新：PostHog Desktop",
+          "title_en": "PostHog Desktop",
+          "url": "https://www.producthunt.com/products/posthog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/posthog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The product editor for product builders A mult",
+          "summary_zh": "The product editor for product builders A mult",
+          "publishedAt": "2026-08-26T07:01:00Z",
+          "published_at": "2026-08-26T07:01:00Z",
+          "votes_count": 290,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-26",
       "generated_at": "2026-08-26T09:10:17Z",
