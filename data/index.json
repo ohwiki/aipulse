@@ -1,128 +1,80 @@
 {
-  "generated_at": "2026-08-25T20:51:56Z",
-  "generatedAt": "2026-08-25T20:51:56Z",
+  "generated_at": "2026-08-26T09:10:17Z",
+  "generatedAt": "2026-08-26T09:10:17Z",
   "count": 106,
   "total": 106,
   "entries": [
     {
       "date": "2026-08-26",
-      "generated_at": "2026-08-25T20:51:56Z",
-      "generatedAt": "2026-08-25T20:51:56Z",
-      "total": 8,
-      "sectionCount": 2,
+      "generated_at": "2026-08-26T09:10:17Z",
+      "generatedAt": "2026-08-26T09:10:17Z",
+      "total": 4,
+      "sectionCount": 1,
       "highlights": [
         {
-          "id": "f0009229",
-          "title": "产品更新：akta.pro",
-          "title_en": "akta.pro",
-          "url": "https://www.producthunt.com/products/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "5ab9653d",
+          "title": "突发！OpenAI「掀桌」：自研推理",
+          "title_en": "突发！OpenAI「掀桌」：自研推理芯片「墨西哥辣椒」跑赢英伟达",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Private company data and signals API for the a",
-          "summary_zh": "Private company data and signals API for the a",
-          "publishedAt": "2026-08-25T07:01:00Z",
-          "published_at": "2026-08-25T07:01:00Z",
-          "votes_count": 340,
-          "featured": true,
-          "topics": [
-            {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "突发！OpenAI「掀桌」：自研推理芯片「墨西哥辣椒」跑赢英伟达",
+          "summary_zh": "突发！OpenAI「掀桌」：自研推理芯片「墨西哥辣椒」跑赢英伟达",
+          "publishedAt": "2026-08-26T09:09:38Z",
+          "published_at": "2026-08-26T09:09:38Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "b6bf5693",
-          "title": "AI资讯更新：Diet Claude",
-          "title_en": "Diet Claude",
-          "url": "https://www.producthunt.com/products/diet-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "a9495370",
+          "title": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/479348.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/diet-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Never get blindsided by Claude's usage limits",
-          "summary_zh": "Never get blindsided by Claude's usage limits",
-          "publishedAt": "2026-08-25T07:01:00Z",
-          "published_at": "2026-08-25T07:01:00Z",
-          "votes_count": 311,
-          "featured": true,
-          "topics": [
-            {
-              "id": "34",
-              "name": "Chrome Extensions",
-              "slug": "chrome-extensions"
-            },
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/479348.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案  听雨 2026-08-26 10:59:02  来源：量子位   shui jiang shuai xian sha  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 今天，「豆包工作」作为面向生产力场景的Agent产品正式发布。 福利也一起安排上了：现在下载豆包工作电脑版，就能免费领取30天订阅权益，老订阅用户直接顺延30天。 深度实测后，我们最直白的结论是： 它与飞书的深度打通，给出了目前Agent进入组织的一份最佳答案。 当主流办公Agent都会处理文件、调用工具、生成网页，基础能力越来越接近时，真正拉开差距的，可能就在于谁更了解一家公司的真实工作： 项目群里聊过什么，会议上定了什么，多维表格记录到哪一步，以及每个人能查看和操作哪些数据。 这些企业上下文，正在成为办公Agent的下一场比赛。 飞书恰好沉淀了这些信息。豆包工作接入飞书后，不再需要每次从头认识一遍公司，它可以沿着团队已有的讨论、数据和工作流继续往下干。 所以这次实测，我们不仅想知道豆包工作能不能把活干完，也想看看： 当Agent开始读懂一家公司的",
+          "summary_zh": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案  听雨 2026-08-26 10:59:02  来源：量子位   shui jiang shuai xian sha  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 今天，「豆包工作」作为面向生产力场景的Agent产品正式发布。 福利也一起安排上了：现在下载豆包工作电脑版，就能免费领取30天订阅权益，老订阅用户直接顺延30天。 深度实测后，我们最直白的结论是： 它与飞书的深度打通，给出了目前Agent进入组织的一份最佳答案。 当主流办公Agent都会处理文件、调用工具、生成网页，基础能力越来越接近时，真正拉开差距的，可能就在于谁更了解一家公司的真实工作： 项目群里聊过什么，会议上定了什么，多维表格记录到哪一步，以及每个人能查看和操作哪些数据。 这些企业上下文，正在成为办公Agent的下一场比赛。 飞书恰好沉淀了这些信息。豆包工作接入飞书后，不再需要每次从头认识一遍公司，它可以沿着团队已有的讨论、数据和工作流继续往下干。 所以这次实测，我们不仅想知道豆包工作能不能把活干完，也想看看： 当Agent开始读懂一家公司的",
+          "publishedAt": "2026-08-26T02:59:02Z",
+          "published_at": "2026-08-26T02:59:02Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "2291a6f7",
-          "title": "产品更新：Agnost AI",
-          "title_en": "Agnost AI",
-          "url": "https://www.producthunt.com/products/agnost-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "32215020",
+          "title": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/479320.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/agnost-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Catch agent failures your evals miss Agnost AI",
-          "summary_zh": "Catch agent failures your evals miss Agnost AI",
-          "publishedAt": "2026-08-25T07:01:00Z",
-          "published_at": "2026-08-25T07:01:00Z",
-          "votes_count": 218,
-          "featured": true,
-          "topics": [
-            {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/479320.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨  Jay 2026-08-26 09:24:47  来源：量子位   不和老黄商量   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  倒反天罡了家人们。 刚刚，OpenAI的自研芯片「小辣椒」，跑分碾压了英伟达最强blackwell。。。 700W的功耗，最高1.9倍的每瓦吞吐，最低低出3.6倍的推理时延。 不是官方PR，这个数据，来自半导体深度研究机构SemiAnalysis，他们受邀到OpenAI实验室实测。 一般来说，第一代芯片并不具有竞争力。 但SemiAnalysis最终得出的结论是——  OpenAI这颗第一代芯片，在几乎所有场景下都能击败Blackwell。  低延迟、高吞吐、低并发……全部达到SOTA级别。 据悉，Codex在这一过程中扮演了非常重要的角色，部分AI写的内核，甚至比人类写的性能更好。 也是自进化的一种体现吧。  有趣的是，英伟达股价不仅没跳水，还涨了2.19%。。。  一方面，英伟达有新产品。 被辣椒狙击同一天，英伟达发布了Jetson Orin Nano 2机器人电脑。 另一方面，可能也和",
+          "summary_zh": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨  Jay 2026-08-26 09:24:47  来源：量子位   不和老黄商量   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  倒反天罡了家人们。 刚刚，OpenAI的自研芯片「小辣椒」，跑分碾压了英伟达最强blackwell。。。 700W的功耗，最高1.9倍的每瓦吞吐，最低低出3.6倍的推理时延。 不是官方PR，这个数据，来自半导体深度研究机构SemiAnalysis，他们受邀到OpenAI实验室实测。 一般来说，第一代芯片并不具有竞争力。 但SemiAnalysis最终得出的结论是——  OpenAI这颗第一代芯片，在几乎所有场景下都能击败Blackwell。  低延迟、高吞吐、低并发……全部达到SOTA级别。 据悉，Codex在这一过程中扮演了非常重要的角色，部分AI写的内核，甚至比人类写的性能更好。 也是自进化的一种体现吧。  有趣的是，英伟达股价不仅没跳水，还涨了2.19%。。。  一方面，英伟达有新产品。 被辣椒狙击同一天，英伟达发布了Jetson Orin Nano 2机器人电脑。 另一方面，可能也和",
+          "publishedAt": "2026-08-26T01:24:47Z",
+          "published_at": "2026-08-26T01:24:47Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
