@@ -1,0 +1,463 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-27T19:11:54Z",
+  "generatedAt": "2026-08-27T19:11:54Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "700327ac",
+          "title": "产品更新：Enter Pro",
+          "title_en": "Enter Pro",
+          "url": "https://www.producthunt.com/products/enter-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/enter-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The AI-native platform to build and scale your",
+          "summary_zh": "The AI-native platform to build and scale your",
+          "publishedAt": "2026-08-27T07:01:00Z",
+          "published_at": "2026-08-27T07:01:00Z",
+          "votes_count": 295,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "61779b50",
+          "title": "AI资讯更新：Skydive",
+          "title_en": "Skydive",
+          "url": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Build cloud agents that work across your tools",
+          "summary_zh": "Build cloud agents that work across your tools",
+          "publishedAt": "2026-08-27T07:01:00Z",
+          "published_at": "2026-08-27T07:01:00Z",
+          "votes_count": 261,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "485e4482",
+          "title": "产品更新：Lenz",
+          "title_en": "Lenz",
+          "url": "https://www.producthunt.com/products/lenz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/lenz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Independent, multi-model fact-checking API for",
+          "summary_zh": "Independent, multi-model fact-checking API for",
+          "publishedAt": "2026-08-27T07:01:00Z",
+          "published_at": "2026-08-27T07:01:00Z",
+          "votes_count": 181,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "fdc01cb0",
+          "title": "产品更新：Traccia",
+          "title_en": "Traccia",
+          "url": "https://www.producthunt.com/products/traccia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/traccia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Finally, a vendor-neutral AI Agent Control Pla",
+          "summary_zh": "Finally, a vendor-neutral AI Agent Control Pla",
+          "publishedAt": "2026-08-27T07:01:00Z",
+          "published_at": "2026-08-27T07:01:00Z",
+          "votes_count": 169,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "b171fe25",
+          "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/480001.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/480001.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%  量子位的朋友们 2026-08-27 09:45:08  来源：量子位   8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。  8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。即日起，所有用户可通过全新的标准模式体验Qwen3.8-Flash。基于最新的模型，用户可以用更少的积分消耗、更快的Token吞吐速度完成任务。未来，千问办公的模型供给将只有标准和高级两种模式，95%的日常任务通过千问办公标准模式即可完成，仅5%的复杂任务需要使用高级模式。  用户体验的提升来自模型升级与Agent协同优化。全新架构的Qwen3.8-Flash以千亿级总参数实现了超越Claude Opus 4.6的性能。同时，千问大模型团队与千问办公团队还联合推出了办公专属版本Qwen3.8-Flash，针对多步规划、工具选择、上下文压缩等场景进行专项训练调优，并通过推理优化和定制Harness架构进一步实现吞吐效率提升。在真实办公场景测",
+          "summary_zh": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%  量子位的朋友们 2026-08-27 09:45:08  来源：量子位   8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。  8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。即日起，所有用户可通过全新的标准模式体验Qwen3.8-Flash。基于最新的模型，用户可以用更少的积分消耗、更快的Token吞吐速度完成任务。未来，千问办公的模型供给将只有标准和高级两种模式，95%的日常任务通过千问办公标准模式即可完成，仅5%的复杂任务需要使用高级模式。  用户体验的提升来自模型升级与Agent协同优化。全新架构的Qwen3.8-Flash以千亿级总参数实现了超越Claude Opus 4.6的性能。同时，千问大模型团队与千问办公团队还联合推出了办公专属版本Qwen3.8-Flash，针对多步规划、工具选择、上下文压缩等场景进行专项训练调优，并通过推理优化和定制Harness架构进一步实现吞吐效率提升。在真实办公场景测",
+          "publishedAt": "2026-08-27T01:45:08Z",
+          "published_at": "2026-08-27T01:45:08Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "db66216d",
+          "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/480005.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/480005.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI  田, 晏林 2026-08-27 10:46:35  来源：量子位   西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  说真的，现在谁还能完全离开AI工作？ 写文档的时候顺手问一嘴AI，做报表让它自动生成，跟进客户前先让它整理背景资料。就连财务核账、销售话术这种活儿，都有AI员工在后台帮着咱干。 u1s1，互联网大厂这半年扎堆造的这批AI员工，早就悄悄嵌进了每个人的日常。 据第三方机构统计，今年6月，光是主流桌面端AI办公智能体，访问量就冲到了6000万次。 你还别说，这些Agent确实不简单：写文档、做报表、跟进客户、辅助销售决策，甚至能替投资机构筛选出高潜项目、生成分析报告…… 但把这些聪明的Agent直接塞进工厂车间，大概率它们什么也干不成。 《2025工业智能体应用现状与趋势展望报告》（以下简称“报告”）调研了200余家制造企业，结果很扎心：",
+          "summary_zh": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI  田, 晏林 2026-08-27 10:46:35  来源：量子位   西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  说真的，现在谁还能完全离开AI工作？ 写文档的时候顺手问一嘴AI，做报表让它自动生成，跟进客户前先让它整理背景资料。就连财务核账、销售话术这种活儿，都有AI员工在后台帮着咱干。 u1s1，互联网大厂这半年扎堆造的这批AI员工，早就悄悄嵌进了每个人的日常。 据第三方机构统计，今年6月，光是主流桌面端AI办公智能体，访问量就冲到了6000万次。 你还别说，这些Agent确实不简单：写文档、做报表、跟进客户、辅助销售决策，甚至能替投资机构筛选出高潜项目、生成分析报告…… 但把这些聪明的Agent直接塞进工厂车间，大概率它们什么也干不成。 《2025工业智能体应用现状与趋势展望报告》（以下简称“报告”）调研了200余家制造企业，结果很扎心：",
+          "publishedAt": "2026-08-27T02:46:35Z",
+          "published_at": "2026-08-27T02:46:35Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f23d61f5",
+          "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/480079.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/480079.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "基元律动累计融资数千万美元，推出“中国版OpenRouter”  量子位的朋友们 2026-08-27 13:43:00  来源：量子位   近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。  近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。本轮融资由弘晖基金领投，聚合资本、尚势资本等机构参与。此前，基元律动曾完成由Granite Asia领投，鼎晖VGC、元璟资本、无限基金参与的种子轮融资。 融资消息公布的同时，基元律动宣布TokenRhythm API平台启动公测。该平台对标OpenRouter，定位为面向中国市场的一站式多模型API服务。开发者只需一个API Key，即可调用多种模型，无需分别注册账户、适配接口和管理账单。 随着公测推进，TokenRhythm API正在用户规模和模型供给两端同步扩容。平台兼容OpenAI和Claude主流协议，并提供模型发现、智能筛选、统一计费、用量统计和调用日志等能力，相当于在模型及推理供应商与AI应用之间，建立一个统一、稳定的调用入口。 公司披露",
+          "summary_zh": "基元律动累计融资数千万美元，推出“中国版OpenRouter”  量子位的朋友们 2026-08-27 13:43:00  来源：量子位   近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。  近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。本轮融资由弘晖基金领投，聚合资本、尚势资本等机构参与。此前，基元律动曾完成由Granite Asia领投，鼎晖VGC、元璟资本、无限基金参与的种子轮融资。 融资消息公布的同时，基元律动宣布TokenRhythm API平台启动公测。该平台对标OpenRouter，定位为面向中国市场的一站式多模型API服务。开发者只需一个API Key，即可调用多种模型，无需分别注册账户、适配接口和管理账单。 随着公测推进，TokenRhythm API正在用户规模和模型供给两端同步扩容。平台兼容OpenAI和Claude主流协议，并提供模型发现、智能筛选、统一计费、用量统计和调用日志等能力，相当于在模型及推理供应商与AI应用之间，建立一个统一、稳定的调用入口。 公司披露",
+          "publishedAt": "2026-08-27T05:43:00Z",
+          "published_at": "2026-08-27T05:43:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "23b9d320",
+          "title": "跻身世界人形机器人运动会工业场景赛全",
+          "title_en": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具身智能落地瓶颈",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具",
+          "summary_zh": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具",
+          "publishedAt": "2026-08-27T19:11:16Z",
+          "published_at": "2026-08-27T19:11:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "700327ac",
+      "title": "产品更新：Enter Pro",
+      "title_en": "Enter Pro",
+      "url": "https://www.producthunt.com/products/enter-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/enter-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI-native platform to build and scale your",
+      "summary_zh": "The AI-native platform to build and scale your",
+      "publishedAt": "2026-08-27T07:01:00Z",
+      "published_at": "2026-08-27T07:01:00Z",
+      "votes_count": 295,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "61779b50",
+      "title": "AI资讯更新：Skydive",
+      "title_en": "Skydive",
+      "url": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build cloud agents that work across your tools",
+      "summary_zh": "Build cloud agents that work across your tools",
+      "publishedAt": "2026-08-27T07:01:00Z",
+      "published_at": "2026-08-27T07:01:00Z",
+      "votes_count": 261,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "485e4482",
+      "title": "产品更新：Lenz",
+      "title_en": "Lenz",
+      "url": "https://www.producthunt.com/products/lenz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/lenz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Independent, multi-model fact-checking API for",
+      "summary_zh": "Independent, multi-model fact-checking API for",
+      "publishedAt": "2026-08-27T07:01:00Z",
+      "published_at": "2026-08-27T07:01:00Z",
+      "votes_count": 181,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "fdc01cb0",
+      "title": "产品更新：Traccia",
+      "title_en": "Traccia",
+      "url": "https://www.producthunt.com/products/traccia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/traccia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Finally, a vendor-neutral AI Agent Control Pla",
+      "summary_zh": "Finally, a vendor-neutral AI Agent Control Pla",
+      "publishedAt": "2026-08-27T07:01:00Z",
+      "published_at": "2026-08-27T07:01:00Z",
+      "votes_count": 169,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b171fe25",
+      "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/480001.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/480001.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%  量子位的朋友们 2026-08-27 09:45:08  来源：量子位   8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。  8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。即日起，所有用户可通过全新的标准模式体验Qwen3.8-Flash。基于最新的模型，用户可以用更少的积分消耗、更快的Token吞吐速度完成任务。未来，千问办公的模型供给将只有标准和高级两种模式，95%的日常任务通过千问办公标准模式即可完成，仅5%的复杂任务需要使用高级模式。  用户体验的提升来自模型升级与Agent协同优化。全新架构的Qwen3.8-Flash以千亿级总参数实现了超越Claude Opus 4.6的性能。同时，千问大模型团队与千问办公团队还联合推出了办公专属版本Qwen3.8-Flash，针对多步规划、工具选择、上下文压缩等场景进行专项训练调优，并通过推理优化和定制Harness架构进一步实现吞吐效率提升。在真实办公场景测",
+      "summary_zh": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%  量子位的朋友们 2026-08-27 09:45:08  来源：量子位   8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。  8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。即日起，所有用户可通过全新的标准模式体验Qwen3.8-Flash。基于最新的模型，用户可以用更少的积分消耗、更快的Token吞吐速度完成任务。未来，千问办公的模型供给将只有标准和高级两种模式，95%的日常任务通过千问办公标准模式即可完成，仅5%的复杂任务需要使用高级模式。  用户体验的提升来自模型升级与Agent协同优化。全新架构的Qwen3.8-Flash以千亿级总参数实现了超越Claude Opus 4.6的性能。同时，千问大模型团队与千问办公团队还联合推出了办公专属版本Qwen3.8-Flash，针对多步规划、工具选择、上下文压缩等场景进行专项训练调优，并通过推理优化和定制Harness架构进一步实现吞吐效率提升。在真实办公场景测",
+      "publishedAt": "2026-08-27T01:45:08Z",
+      "published_at": "2026-08-27T01:45:08Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "db66216d",
+      "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/480005.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/480005.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI  田, 晏林 2026-08-27 10:46:35  来源：量子位   西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  说真的，现在谁还能完全离开AI工作？ 写文档的时候顺手问一嘴AI，做报表让它自动生成，跟进客户前先让它整理背景资料。就连财务核账、销售话术这种活儿，都有AI员工在后台帮着咱干。 u1s1，互联网大厂这半年扎堆造的这批AI员工，早就悄悄嵌进了每个人的日常。 据第三方机构统计，今年6月，光是主流桌面端AI办公智能体，访问量就冲到了6000万次。 你还别说，这些Agent确实不简单：写文档、做报表、跟进客户、辅助销售决策，甚至能替投资机构筛选出高潜项目、生成分析报告…… 但把这些聪明的Agent直接塞进工厂车间，大概率它们什么也干不成。 《2025工业智能体应用现状与趋势展望报告》（以下简称“报告”）调研了200余家制造企业，结果很扎心：",
+      "summary_zh": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI  田, 晏林 2026-08-27 10:46:35  来源：量子位   西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  说真的，现在谁还能完全离开AI工作？ 写文档的时候顺手问一嘴AI，做报表让它自动生成，跟进客户前先让它整理背景资料。就连财务核账、销售话术这种活儿，都有AI员工在后台帮着咱干。 u1s1，互联网大厂这半年扎堆造的这批AI员工，早就悄悄嵌进了每个人的日常。 据第三方机构统计，今年6月，光是主流桌面端AI办公智能体，访问量就冲到了6000万次。 你还别说，这些Agent确实不简单：写文档、做报表、跟进客户、辅助销售决策，甚至能替投资机构筛选出高潜项目、生成分析报告…… 但把这些聪明的Agent直接塞进工厂车间，大概率它们什么也干不成。 《2025工业智能体应用现状与趋势展望报告》（以下简称“报告”）调研了200余家制造企业，结果很扎心：",
+      "publishedAt": "2026-08-27T02:46:35Z",
+      "published_at": "2026-08-27T02:46:35Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f23d61f5",
+      "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/480079.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/480079.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "基元律动累计融资数千万美元，推出“中国版OpenRouter”  量子位的朋友们 2026-08-27 13:43:00  来源：量子位   近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。  近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。本轮融资由弘晖基金领投，聚合资本、尚势资本等机构参与。此前，基元律动曾完成由Granite Asia领投，鼎晖VGC、元璟资本、无限基金参与的种子轮融资。 融资消息公布的同时，基元律动宣布TokenRhythm API平台启动公测。该平台对标OpenRouter，定位为面向中国市场的一站式多模型API服务。开发者只需一个API Key，即可调用多种模型，无需分别注册账户、适配接口和管理账单。 随着公测推进，TokenRhythm API正在用户规模和模型供给两端同步扩容。平台兼容OpenAI和Claude主流协议，并提供模型发现、智能筛选、统一计费、用量统计和调用日志等能力，相当于在模型及推理供应商与AI应用之间，建立一个统一、稳定的调用入口。 公司披露",
+      "summary_zh": "基元律动累计融资数千万美元，推出“中国版OpenRouter”  量子位的朋友们 2026-08-27 13:43:00  来源：量子位   近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。  近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。本轮融资由弘晖基金领投，聚合资本、尚势资本等机构参与。此前，基元律动曾完成由Granite Asia领投，鼎晖VGC、元璟资本、无限基金参与的种子轮融资。 融资消息公布的同时，基元律动宣布TokenRhythm API平台启动公测。该平台对标OpenRouter，定位为面向中国市场的一站式多模型API服务。开发者只需一个API Key，即可调用多种模型，无需分别注册账户、适配接口和管理账单。 随着公测推进，TokenRhythm API正在用户规模和模型供给两端同步扩容。平台兼容OpenAI和Claude主流协议，并提供模型发现、智能筛选、统一计费、用量统计和调用日志等能力，相当于在模型及推理供应商与AI应用之间，建立一个统一、稳定的调用入口。 公司披露",
+      "publishedAt": "2026-08-27T05:43:00Z",
+      "published_at": "2026-08-27T05:43:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "23b9d320",
+      "title": "跻身世界人形机器人运动会工业场景赛全",
+      "title_en": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具身智能落地瓶颈",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具",
+      "summary_zh": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具",
+      "publishedAt": "2026-08-27T19:11:16Z",
+      "published_at": "2026-08-27T19:11:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

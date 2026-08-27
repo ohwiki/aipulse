@@ -1,9 +1,112 @@
 {
-  "generated_at": "2026-08-26T23:48:14Z",
-  "generatedAt": "2026-08-26T23:48:14Z",
-  "count": 107,
-  "total": 107,
+  "generated_at": "2026-08-27T19:11:54Z",
+  "generatedAt": "2026-08-27T19:11:54Z",
+  "count": 108,
+  "total": 108,
   "entries": [
+    {
+      "date": "2026-08-28",
+      "generated_at": "2026-08-27T19:11:54Z",
+      "generatedAt": "2026-08-27T19:11:54Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "700327ac",
+          "title": "产品更新：Enter Pro",
+          "title_en": "Enter Pro",
+          "url": "https://www.producthunt.com/products/enter-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/enter-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The AI-native platform to build and scale your",
+          "summary_zh": "The AI-native platform to build and scale your",
+          "publishedAt": "2026-08-27T07:01:00Z",
+          "published_at": "2026-08-27T07:01:00Z",
+          "votes_count": 295,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "61779b50",
+          "title": "AI资讯更新：Skydive",
+          "title_en": "Skydive",
+          "url": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build cloud agents that work across your tools",
+          "summary_zh": "Build cloud agents that work across your tools",
+          "publishedAt": "2026-08-27T07:01:00Z",
+          "published_at": "2026-08-27T07:01:00Z",
+          "votes_count": 261,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "485e4482",
+          "title": "产品更新：Lenz",
+          "title_en": "Lenz",
+          "url": "https://www.producthunt.com/products/lenz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/lenz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Independent, multi-model fact-checking API for",
+          "summary_zh": "Independent, multi-model fact-checking API for",
+          "publishedAt": "2026-08-27T07:01:00Z",
+          "published_at": "2026-08-27T07:01:00Z",
+          "votes_count": 181,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-27",
       "generated_at": "2026-08-26T23:48:14Z",
