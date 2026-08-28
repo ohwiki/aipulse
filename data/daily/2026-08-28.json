@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
-  "generated_at": "2026-08-27T19:11:54Z",
-  "generatedAt": "2026-08-27T19:11:54Z",
+  "generated_at": "2026-08-28T04:25:18Z",
+  "generatedAt": "2026-08-28T04:25:18Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -9,6 +9,34 @@
       "category": "ai-products",
       "label": "产品发布/更新",
       "items": [
+        {
+          "id": "61779b50",
+          "title": "AI资讯更新：Skydive",
+          "title_en": "Skydive",
+          "url": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Build cloud agents that work across your tools",
+          "summary_zh": "Build cloud agents that work across your tools",
+          "publishedAt": "2026-08-27T07:01:00Z",
+          "published_at": "2026-08-27T07:01:00Z",
+          "votes_count": 347,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
         {
           "id": "700327ac",
           "title": "产品更新：Enter Pro",
@@ -26,7 +54,7 @@
           "summary_zh": "The AI-native platform to build and scale your",
           "publishedAt": "2026-08-27T07:01:00Z",
           "published_at": "2026-08-27T07:01:00Z",
-          "votes_count": 295,
+          "votes_count": 343,
           "featured": true,
           "topics": [
             {
@@ -48,34 +76,6 @@
           "score_details": null
         },
         {
-          "id": "61779b50",
-          "title": "AI资讯更新：Skydive",
-          "title_en": "Skydive",
-          "url": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Build cloud agents that work across your tools",
-          "summary_zh": "Build cloud agents that work across your tools",
-          "publishedAt": "2026-08-27T07:01:00Z",
-          "published_at": "2026-08-27T07:01:00Z",
-          "votes_count": 261,
-          "featured": true,
-          "topics": [
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
           "id": "485e4482",
           "title": "产品更新：Lenz",
           "title_en": "Lenz",
@@ -92,7 +92,7 @@
           "summary_zh": "Independent, multi-model fact-checking API for",
           "publishedAt": "2026-08-27T07:01:00Z",
           "published_at": "2026-08-27T07:01:00Z",
-          "votes_count": 181,
+          "votes_count": 222,
           "featured": true,
           "topics": [
             {
@@ -104,30 +104,25 @@
           "score_details": null
         },
         {
-          "id": "fdc01cb0",
-          "title": "产品更新：Traccia",
-          "title_en": "Traccia",
-          "url": "https://www.producthunt.com/products/traccia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "6cb6894c",
+          "title": "产品更新：Speko",
+          "title_en": "Speko",
+          "url": "https://www.producthunt.com/products/speko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/traccia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/speko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "Finally, a vendor-neutral AI Agent Control Pla",
-          "summary_zh": "Finally, a vendor-neutral AI Agent Control Pla",
+          "summary": "OpenRouter for Voice One API for speech-to-tex",
+          "summary_zh": "OpenRouter for Voice One API for speech-to-tex",
           "publishedAt": "2026-08-27T07:01:00Z",
           "published_at": "2026-08-27T07:01:00Z",
-          "votes_count": 169,
+          "votes_count": 203,
           "featured": true,
           "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
             {
               "id": "267",
               "name": "Developer Tools",
@@ -137,6 +132,11 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
             }
           ],
           "score_details": null
@@ -147,50 +147,6 @@
       "category": "cn-media",
       "label": "中文媒体精选",
       "items": [
-        {
-          "id": "b171fe25",
-          "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
-          "title_en": null,
-          "url": "https://www.qbitai.com/2026/08/480001.html",
-          "source": "量子位",
-          "source_type": null,
-          "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/08/480001.html",
-          "category": "cn-media",
-          "score": 5,
-          "rank_score": 5.0,
-          "rankingScore": 5.0,
-          "summary": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%  量子位的朋友们 2026-08-27 09:45:08  来源：量子位   8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。  8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。即日起，所有用户可通过全新的标准模式体验Qwen3.8-Flash。基于最新的模型，用户可以用更少的积分消耗、更快的Token吞吐速度完成任务。未来，千问办公的模型供给将只有标准和高级两种模式，95%的日常任务通过千问办公标准模式即可完成，仅5%的复杂任务需要使用高级模式。  用户体验的提升来自模型升级与Agent协同优化。全新架构的Qwen3.8-Flash以千亿级总参数实现了超越Claude Opus 4.6的性能。同时，千问大模型团队与千问办公团队还联合推出了办公专属版本Qwen3.8-Flash，针对多步规划、工具选择、上下文压缩等场景进行专项训练调优，并通过推理优化和定制Harness架构进一步实现吞吐效率提升。在真实办公场景测",
-          "summary_zh": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%  量子位的朋友们 2026-08-27 09:45:08  来源：量子位   8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。  8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。即日起，所有用户可通过全新的标准模式体验Qwen3.8-Flash。基于最新的模型，用户可以用更少的积分消耗、更快的Token吞吐速度完成任务。未来，千问办公的模型供给将只有标准和高级两种模式，95%的日常任务通过千问办公标准模式即可完成，仅5%的复杂任务需要使用高级模式。  用户体验的提升来自模型升级与Agent协同优化。全新架构的Qwen3.8-Flash以千亿级总参数实现了超越Claude Opus 4.6的性能。同时，千问大模型团队与千问办公团队还联合推出了办公专属版本Qwen3.8-Flash，针对多步规划、工具选择、上下文压缩等场景进行专项训练调优，并通过推理优化和定制Harness架构进一步实现吞吐效率提升。在真实办公场景测",
-          "publishedAt": "2026-08-27T01:45:08Z",
-          "published_at": "2026-08-27T01:45:08Z",
-          "votes_count": null,
-          "featured": null,
-          "topics": [],
-          "score_details": null
-        },
-        {
-          "id": "db66216d",
-          "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
-          "title_en": null,
-          "url": "https://www.qbitai.com/2026/08/480005.html",
-          "source": "量子位",
-          "source_type": null,
-          "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/08/480005.html",
-          "category": "cn-media",
-          "score": 5,
-          "rank_score": 5.0,
-          "rankingScore": 5.0,
-          "summary": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI  田, 晏林 2026-08-27 10:46:35  来源：量子位   西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  说真的，现在谁还能完全离开AI工作？ 写文档的时候顺手问一嘴AI，做报表让它自动生成，跟进客户前先让它整理背景资料。就连财务核账、销售话术这种活儿，都有AI员工在后台帮着咱干。 u1s1，互联网大厂这半年扎堆造的这批AI员工，早就悄悄嵌进了每个人的日常。 据第三方机构统计，今年6月，光是主流桌面端AI办公智能体，访问量就冲到了6000万次。 你还别说，这些Agent确实不简单：写文档、做报表、跟进客户、辅助销售决策，甚至能替投资机构筛选出高潜项目、生成分析报告…… 但把这些聪明的Agent直接塞进工厂车间，大概率它们什么也干不成。 《2025工业智能体应用现状与趋势展望报告》（以下简称“报告”）调研了200余家制造企业，结果很扎心：",
-          "summary_zh": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI  田, 晏林 2026-08-27 10:46:35  来源：量子位   西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  说真的，现在谁还能完全离开AI工作？ 写文档的时候顺手问一嘴AI，做报表让它自动生成，跟进客户前先让它整理背景资料。就连财务核账、销售话术这种活儿，都有AI员工在后台帮着咱干。 u1s1，互联网大厂这半年扎堆造的这批AI员工，早就悄悄嵌进了每个人的日常。 据第三方机构统计，今年6月，光是主流桌面端AI办公智能体，访问量就冲到了6000万次。 你还别说，这些Agent确实不简单：写文档、做报表、跟进客户、辅助销售决策，甚至能替投资机构筛选出高潜项目、生成分析报告…… 但把这些聪明的Agent直接塞进工厂车间，大概率它们什么也干不成。 《2025工业智能体应用现状与趋势展望报告》（以下简称“报告”）调研了200余家制造企业，结果很扎心：",
-          "publishedAt": "2026-08-27T02:46:35Z",
-          "published_at": "2026-08-27T02:46:35Z",
-          "votes_count": null,
-          "featured": null,
-          "topics": [],
-          "score_details": null
-        },
         {
           "id": "f23d61f5",
           "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
@@ -214,9 +170,53 @@
           "score_details": null
         },
         {
-          "id": "23b9d320",
-          "title": "跻身世界人形机器人运动会工业场景赛全",
-          "title_en": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具身智能落地瓶颈",
+          "id": "7c779c78",
+          "title": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/480092.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/480092.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧  克雷西 2026-08-27 20:16:10  来源：量子位   好能增长，好能商业化啊！  克雷西 杰西卡 发自 凹非寺 量子位 | 公众号 QbitAI 这还是我认识的MiniMax吗？ 好能增长，好能商业化啊！ MiniMax最新数据披露，今年8月截至目前，公司ARR（年度经常性收入）已经超过8亿美元。而今年2月MiniMax披露的ARR还只有1.5亿美元。 对应财报数据，这种增长已经开始印证到真实收入水平上： 2026年上半年，MiniMax收入1.166亿美元，同比增长283.1%；半年收入已经超过2025全年7904万美元；Q2收入较Q1环比增长超过80%。 不过，比收入规模扩大更值得注意的，是MiniMax的收入结构正在迅速变化： 今年上半年，MiniMax的B端收入占比达到63.4%，到8月进一步升至80%；作为对比，2025年MiniMax的B端收入占比大约仅有三成。 由此可见，MiniMax的增长重心，已经快速从C端产品转向企业和开发者了。 收入3倍增长，B端成为主引擎 先看营",
+          "summary_zh": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧  克雷西 2026-08-27 20:16:10  来源：量子位   好能增长，好能商业化啊！  克雷西 杰西卡 发自 凹非寺 量子位 | 公众号 QbitAI 这还是我认识的MiniMax吗？ 好能增长，好能商业化啊！ MiniMax最新数据披露，今年8月截至目前，公司ARR（年度经常性收入）已经超过8亿美元。而今年2月MiniMax披露的ARR还只有1.5亿美元。 对应财报数据，这种增长已经开始印证到真实收入水平上： 2026年上半年，MiniMax收入1.166亿美元，同比增长283.1%；半年收入已经超过2025全年7904万美元；Q2收入较Q1环比增长超过80%。 不过，比收入规模扩大更值得注意的，是MiniMax的收入结构正在迅速变化： 今年上半年，MiniMax的B端收入占比达到63.4%，到8月进一步升至80%；作为对比，2025年MiniMax的B端收入占比大约仅有三成。 由此可见，MiniMax的增长重心，已经快速从C端产品转向企业和开发者了。 收入3倍增长，B端成为主引擎 先看营",
+          "publishedAt": "2026-08-27T12:16:10Z",
+          "published_at": "2026-08-27T12:16:10Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0c008bd5",
+          "title": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/480186.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/480186.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄  Jay 2026-08-28 09:40:22  来源：量子位   Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  啥，Hugging Face的买家，原来是老黄？？？ 刚刚，The Information报道，英伟达已同意以 129 亿美元收购Hugging Face。 X上都疯了，全部惊叹于你黄叔叔的钞能力。 还有Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o。  我就说，前段时间，「腼腆」的老黄为啥非常高调，亲自开推特，首发小作文声援开源。。。 敢情留了这么一手啊！ 但值得注意的是，这场收购还没达成正式协议，所以结果嘛，还有不确定性。 但有个比较确定的—— 微软没谈成，哈哈哈！ 英伟达+Hugging Face 事实上，上周末就有巨头要收购Hugging Face的消息，金额之巨大，大家一直在猜金主到底是谁。 商业内幕报道，微软也见过Hugging Face，但可惜，没谈成。 现在靴子落地，最后掏钱的成了老",
+          "summary_zh": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄  Jay 2026-08-28 09:40:22  来源：量子位   Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  啥，Hugging Face的买家，原来是老黄？？？ 刚刚，The Information报道，英伟达已同意以 129 亿美元收购Hugging Face。 X上都疯了，全部惊叹于你黄叔叔的钞能力。 还有Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o。  我就说，前段时间，「腼腆」的老黄为啥非常高调，亲自开推特，首发小作文声援开源。。。 敢情留了这么一手啊！ 但值得注意的是，这场收购还没达成正式协议，所以结果嘛，还有不确定性。 但有个比较确定的—— 微软没谈成，哈哈哈！ 英伟达+Hugging Face 事实上，上周末就有巨头要收购Hugging Face的消息，金额之巨大，大家一直在猜金主到底是谁。 商业内幕报道，微软也见过Hugging Face，但可惜，没谈成。 现在靴子落地，最后掏钱的成了老",
+          "publishedAt": "2026-08-28T01:40:22Z",
+          "published_at": "2026-08-28T01:40:22Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "2a28b0ef",
+          "title": "智象未来×商汤大装置：国产算力跑通视",
+          "title_en": "智象未来×商汤大装置：国产算力跑通视频生成规模化应用",
           "url": "https://www.jiqizhixin.com/articles",
           "source": "机器之心",
           "source_type": null,
@@ -226,10 +226,10 @@
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具",
-          "summary_zh": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具",
-          "publishedAt": "2026-08-27T19:11:16Z",
-          "published_at": "2026-08-27T19:11:16Z",
+          "summary": "智象未来×商汤大装置：国产算力跑通视频生成规模化应用",
+          "summary_zh": "智象未来×商汤大装置：国产算力跑通视频生成规模化应用",
+          "publishedAt": "2026-08-28T04:23:45Z",
+          "published_at": "2026-08-28T04:23:45Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -239,6 +239,34 @@
     }
   ],
   "items": [
+    {
+      "id": "61779b50",
+      "title": "AI资讯更新：Skydive",
+      "title_en": "Skydive",
+      "url": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build cloud agents that work across your tools",
+      "summary_zh": "Build cloud agents that work across your tools",
+      "publishedAt": "2026-08-27T07:01:00Z",
+      "published_at": "2026-08-27T07:01:00Z",
+      "votes_count": 347,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "700327ac",
       "title": "产品更新：Enter Pro",
@@ -256,7 +284,7 @@
       "summary_zh": "The AI-native platform to build and scale your",
       "publishedAt": "2026-08-27T07:01:00Z",
       "published_at": "2026-08-27T07:01:00Z",
-      "votes_count": 295,
+      "votes_count": 343,
       "featured": true,
       "topics": [
         {
@@ -278,34 +306,6 @@
       "score_details": null
     },
     {
-      "id": "61779b50",
-      "title": "AI资讯更新：Skydive",
-      "title_en": "Skydive",
-      "url": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Build cloud agents that work across your tools",
-      "summary_zh": "Build cloud agents that work across your tools",
-      "publishedAt": "2026-08-27T07:01:00Z",
-      "published_at": "2026-08-27T07:01:00Z",
-      "votes_count": 261,
-      "featured": true,
-      "topics": [
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "485e4482",
       "title": "产品更新：Lenz",
       "title_en": "Lenz",
@@ -322,7 +322,7 @@
       "summary_zh": "Independent, multi-model fact-checking API for",
       "publishedAt": "2026-08-27T07:01:00Z",
       "published_at": "2026-08-27T07:01:00Z",
-      "votes_count": 181,
+      "votes_count": 222,
       "featured": true,
       "topics": [
         {
@@ -334,30 +334,25 @@
       "score_details": null
     },
     {
-      "id": "fdc01cb0",
-      "title": "产品更新：Traccia",
-      "title_en": "Traccia",
-      "url": "https://www.producthunt.com/products/traccia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "6cb6894c",
+      "title": "产品更新：Speko",
+      "title_en": "Speko",
+      "url": "https://www.producthunt.com/products/speko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/traccia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/speko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Finally, a vendor-neutral AI Agent Control Pla",
-      "summary_zh": "Finally, a vendor-neutral AI Agent Control Pla",
+      "summary": "OpenRouter for Voice One API for speech-to-tex",
+      "summary_zh": "OpenRouter for Voice One API for speech-to-tex",
       "publishedAt": "2026-08-27T07:01:00Z",
       "published_at": "2026-08-27T07:01:00Z",
-      "votes_count": 169,
+      "votes_count": 203,
       "featured": true,
       "topics": [
-        {
-          "id": "89",
-          "name": "Open Source",
-          "slug": "open-source"
-        },
         {
           "id": "267",
           "name": "Developer Tools",
@@ -367,52 +362,13 @@
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
         }
       ],
-      "score_details": null
-    },
-    {
-      "id": "b171fe25",
-      "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/08/480001.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/08/480001.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%  量子位的朋友们 2026-08-27 09:45:08  来源：量子位   8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。  8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。即日起，所有用户可通过全新的标准模式体验Qwen3.8-Flash。基于最新的模型，用户可以用更少的积分消耗、更快的Token吞吐速度完成任务。未来，千问办公的模型供给将只有标准和高级两种模式，95%的日常任务通过千问办公标准模式即可完成，仅5%的复杂任务需要使用高级模式。  用户体验的提升来自模型升级与Agent协同优化。全新架构的Qwen3.8-Flash以千亿级总参数实现了超越Claude Opus 4.6的性能。同时，千问大模型团队与千问办公团队还联合推出了办公专属版本Qwen3.8-Flash，针对多步规划、工具选择、上下文压缩等场景进行专项训练调优，并通过推理优化和定制Harness架构进一步实现吞吐效率提升。在真实办公场景测",
-      "summary_zh": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%  量子位的朋友们 2026-08-27 09:45:08  来源：量子位   8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。  8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。即日起，所有用户可通过全新的标准模式体验Qwen3.8-Flash。基于最新的模型，用户可以用更少的积分消耗、更快的Token吞吐速度完成任务。未来，千问办公的模型供给将只有标准和高级两种模式，95%的日常任务通过千问办公标准模式即可完成，仅5%的复杂任务需要使用高级模式。  用户体验的提升来自模型升级与Agent协同优化。全新架构的Qwen3.8-Flash以千亿级总参数实现了超越Claude Opus 4.6的性能。同时，千问大模型团队与千问办公团队还联合推出了办公专属版本Qwen3.8-Flash，针对多步规划、工具选择、上下文压缩等场景进行专项训练调优，并通过推理优化和定制Harness架构进一步实现吞吐效率提升。在真实办公场景测",
-      "publishedAt": "2026-08-27T01:45:08Z",
-      "published_at": "2026-08-27T01:45:08Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": null
-    },
-    {
-      "id": "db66216d",
-      "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/08/480005.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/08/480005.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI  田, 晏林 2026-08-27 10:46:35  来源：量子位   西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  说真的，现在谁还能完全离开AI工作？ 写文档的时候顺手问一嘴AI，做报表让它自动生成，跟进客户前先让它整理背景资料。就连财务核账、销售话术这种活儿，都有AI员工在后台帮着咱干。 u1s1，互联网大厂这半年扎堆造的这批AI员工，早就悄悄嵌进了每个人的日常。 据第三方机构统计，今年6月，光是主流桌面端AI办公智能体，访问量就冲到了6000万次。 你还别说，这些Agent确实不简单：写文档、做报表、跟进客户、辅助销售决策，甚至能替投资机构筛选出高潜项目、生成分析报告…… 但把这些聪明的Agent直接塞进工厂车间，大概率它们什么也干不成。 《2025工业智能体应用现状与趋势展望报告》（以下简称“报告”）调研了200余家制造企业，结果很扎心：",
-      "summary_zh": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI  田, 晏林 2026-08-27 10:46:35  来源：量子位   西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  说真的，现在谁还能完全离开AI工作？ 写文档的时候顺手问一嘴AI，做报表让它自动生成，跟进客户前先让它整理背景资料。就连财务核账、销售话术这种活儿，都有AI员工在后台帮着咱干。 u1s1，互联网大厂这半年扎堆造的这批AI员工，早就悄悄嵌进了每个人的日常。 据第三方机构统计，今年6月，光是主流桌面端AI办公智能体，访问量就冲到了6000万次。 你还别说，这些Agent确实不简单：写文档、做报表、跟进客户、辅助销售决策，甚至能替投资机构筛选出高潜项目、生成分析报告…… 但把这些聪明的Agent直接塞进工厂车间，大概率它们什么也干不成。 《2025工业智能体应用现状与趋势展望报告》（以下简称“报告”）调研了200余家制造企业，结果很扎心：",
-      "publishedAt": "2026-08-27T02:46:35Z",
-      "published_at": "2026-08-27T02:46:35Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
       "score_details": null
     },
     {
@@ -438,9 +394,53 @@
       "score_details": null
     },
     {
-      "id": "23b9d320",
-      "title": "跻身世界人形机器人运动会工业场景赛全",
-      "title_en": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具身智能落地瓶颈",
+      "id": "7c779c78",
+      "title": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/480092.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/480092.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧  克雷西 2026-08-27 20:16:10  来源：量子位   好能增长，好能商业化啊！  克雷西 杰西卡 发自 凹非寺 量子位 | 公众号 QbitAI 这还是我认识的MiniMax吗？ 好能增长，好能商业化啊！ MiniMax最新数据披露，今年8月截至目前，公司ARR（年度经常性收入）已经超过8亿美元。而今年2月MiniMax披露的ARR还只有1.5亿美元。 对应财报数据，这种增长已经开始印证到真实收入水平上： 2026年上半年，MiniMax收入1.166亿美元，同比增长283.1%；半年收入已经超过2025全年7904万美元；Q2收入较Q1环比增长超过80%。 不过，比收入规模扩大更值得注意的，是MiniMax的收入结构正在迅速变化： 今年上半年，MiniMax的B端收入占比达到63.4%，到8月进一步升至80%；作为对比，2025年MiniMax的B端收入占比大约仅有三成。 由此可见，MiniMax的增长重心，已经快速从C端产品转向企业和开发者了。 收入3倍增长，B端成为主引擎 先看营",
+      "summary_zh": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧  克雷西 2026-08-27 20:16:10  来源：量子位   好能增长，好能商业化啊！  克雷西 杰西卡 发自 凹非寺 量子位 | 公众号 QbitAI 这还是我认识的MiniMax吗？ 好能增长，好能商业化啊！ MiniMax最新数据披露，今年8月截至目前，公司ARR（年度经常性收入）已经超过8亿美元。而今年2月MiniMax披露的ARR还只有1.5亿美元。 对应财报数据，这种增长已经开始印证到真实收入水平上： 2026年上半年，MiniMax收入1.166亿美元，同比增长283.1%；半年收入已经超过2025全年7904万美元；Q2收入较Q1环比增长超过80%。 不过，比收入规模扩大更值得注意的，是MiniMax的收入结构正在迅速变化： 今年上半年，MiniMax的B端收入占比达到63.4%，到8月进一步升至80%；作为对比，2025年MiniMax的B端收入占比大约仅有三成。 由此可见，MiniMax的增长重心，已经快速从C端产品转向企业和开发者了。 收入3倍增长，B端成为主引擎 先看营",
+      "publishedAt": "2026-08-27T12:16:10Z",
+      "published_at": "2026-08-27T12:16:10Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0c008bd5",
+      "title": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/480186.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/480186.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄  Jay 2026-08-28 09:40:22  来源：量子位   Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  啥，Hugging Face的买家，原来是老黄？？？ 刚刚，The Information报道，英伟达已同意以 129 亿美元收购Hugging Face。 X上都疯了，全部惊叹于你黄叔叔的钞能力。 还有Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o。  我就说，前段时间，「腼腆」的老黄为啥非常高调，亲自开推特，首发小作文声援开源。。。 敢情留了这么一手啊！ 但值得注意的是，这场收购还没达成正式协议，所以结果嘛，还有不确定性。 但有个比较确定的—— 微软没谈成，哈哈哈！ 英伟达+Hugging Face 事实上，上周末就有巨头要收购Hugging Face的消息，金额之巨大，大家一直在猜金主到底是谁。 商业内幕报道，微软也见过Hugging Face，但可惜，没谈成。 现在靴子落地，最后掏钱的成了老",
+      "summary_zh": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄  Jay 2026-08-28 09:40:22  来源：量子位   Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o   Jay 发自 凹非寺 量子位 | 公众号 QbitAI  啥，Hugging Face的买家，原来是老黄？？？ 刚刚，The Information报道，英伟达已同意以 129 亿美元收购Hugging Face。 X上都疯了，全部惊叹于你黄叔叔的钞能力。 还有Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o。  我就说，前段时间，「腼腆」的老黄为啥非常高调，亲自开推特，首发小作文声援开源。。。 敢情留了这么一手啊！ 但值得注意的是，这场收购还没达成正式协议，所以结果嘛，还有不确定性。 但有个比较确定的—— 微软没谈成，哈哈哈！ 英伟达+Hugging Face 事实上，上周末就有巨头要收购Hugging Face的消息，金额之巨大，大家一直在猜金主到底是谁。 商业内幕报道，微软也见过Hugging Face，但可惜，没谈成。 现在靴子落地，最后掏钱的成了老",
+      "publishedAt": "2026-08-28T01:40:22Z",
+      "published_at": "2026-08-28T01:40:22Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "2a28b0ef",
+      "title": "智象未来×商汤大装置：国产算力跑通视",
+      "title_en": "智象未来×商汤大装置：国产算力跑通视频生成规模化应用",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -450,10 +450,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具",
-      "summary_zh": "跻身世界人形机器人运动会工业场景赛全国前三，ROSS Harness 以全自主模式突破工业具",
-      "publishedAt": "2026-08-27T19:11:16Z",
-      "published_at": "2026-08-27T19:11:16Z",
+      "summary": "智象未来×商汤大装置：国产算力跑通视频生成规模化应用",
+      "summary_zh": "智象未来×商汤大装置：国产算力跑通视频生成规模化应用",
+      "publishedAt": "2026-08-28T04:23:45Z",
+      "published_at": "2026-08-28T04:23:45Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
