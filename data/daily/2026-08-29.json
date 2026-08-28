@@ -1,0 +1,493 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-28T20:18:04Z",
+  "generatedAt": "2026-08-28T20:18:04Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "65d75974",
+          "title": "产品更新：Caddi",
+          "title_en": "Caddi",
+          "url": "https://www.producthunt.com/products/caddi-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/caddi-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Agent that builds agents by only showing your",
+          "summary_zh": "Agent that builds agents by only showing your",
+          "publishedAt": "2026-08-28T07:01:00Z",
+          "published_at": "2026-08-28T07:01:00Z",
+          "votes_count": 226,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "259",
+              "name": "Legal",
+              "slug": "legal"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "00107964",
+          "title": "产品更新：Microduck",
+          "title_en": "Microduck",
+          "url": "https://www.producthunt.com/products/hugging-face?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/hugging-face?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A tiny open-source biped you can train yoursel",
+          "summary_zh": "A tiny open-source biped you can train yoursel",
+          "publishedAt": "2026-08-28T07:01:00Z",
+          "published_at": "2026-08-28T07:01:00Z",
+          "votes_count": 212,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "110",
+              "name": "Robots",
+              "slug": "robots"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3b22fa31",
+          "title": "产品更新：Firecrawl Devel",
+          "title_en": "Firecrawl Developer Index",
+          "url": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A curated index of 70M+ artifacts for coding a",
+          "summary_zh": "A curated index of 70M+ artifacts for coding a",
+          "publishedAt": "2026-08-28T07:01:00Z",
+          "published_at": "2026-08-28T07:01:00Z",
+          "votes_count": 136,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e0b7f9f2",
+          "title": "产品更新：Almanac",
+          "title_en": "Almanac",
+          "url": "https://www.producthunt.com/products/almanac-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/almanac-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The agent with a second brain Almanac is an AI",
+          "summary_zh": "The agent with a second brain Almanac is an AI",
+          "publishedAt": "2026-08-28T07:01:00Z",
+          "published_at": "2026-08-28T07:01:00Z",
+          "votes_count": 125,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "e5ae233d",
+          "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/480223.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/480223.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持  量子位的朋友们 2026-08-28 12:06:16  来源：量子位   国产异构助力前沿智能进入普惠时代  8月26日晚，智谱正式上线并开源GLM-5.3-Flash(320B-A18B），这是GLM-5系列的首个原生多模态模型。其总参数320B，能力超过GLM-5.2，在全球权威的Artificial Analysis Intelligence Index（AA综合智能指数）中取得57分，进入全球前沿模型能力区间，与Anthropic最受欢迎的模型Claude Opus 4.8得分持平。GLM-5.3-Flash的架构专为极低成本而设计，结合智谱最新的30T Token多模态预训练语料，能够以更少的计算资源实现更强的性能。 依托先进的国产异构混推技术，商汤大装置为GLM-5.3-Flash上线提供大规模国产算力支持与Token服务，打造国产算力规模化商用又一硬核落地标杆。    这一合作的背后，正是商汤打造的 “一套模型、一座 Token（词元）工厂、一套智能体管控系统” 核心能力体系。其中 Token 工厂承担",
+          "summary_zh": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持  量子位的朋友们 2026-08-28 12:06:16  来源：量子位   国产异构助力前沿智能进入普惠时代  8月26日晚，智谱正式上线并开源GLM-5.3-Flash(320B-A18B），这是GLM-5系列的首个原生多模态模型。其总参数320B，能力超过GLM-5.2，在全球权威的Artificial Analysis Intelligence Index（AA综合智能指数）中取得57分，进入全球前沿模型能力区间，与Anthropic最受欢迎的模型Claude Opus 4.8得分持平。GLM-5.3-Flash的架构专为极低成本而设计，结合智谱最新的30T Token多模态预训练语料，能够以更少的计算资源实现更强的性能。 依托先进的国产异构混推技术，商汤大装置为GLM-5.3-Flash上线提供大规模国产算力支持与Token服务，打造国产算力规模化商用又一硬核落地标杆。    这一合作的背后，正是商汤打造的 “一套模型、一座 Token（词元）工厂、一套智能体管控系统” 核心能力体系。其中 Token 工厂承担",
+          "publishedAt": "2026-08-28T04:06:16Z",
+          "published_at": "2026-08-28T04:06:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "41cf8d0e",
+          "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/480227.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/480227.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移  量子位的朋友们 2026-08-28 12:09:39  来源：量子位   国产算力跑通视频生成规模化应用  国产算力走向规模商用，如何跨过从“适配验证”到“真实生产”的关键一步，正成为行业面临的新课题。近期，商汤大装置与智象未来以视频生成业务为切入，跑通了从国产算力适配到规模应用的完整链路。 对于以图像、视频生成模型为核心的AI企业而言，国产化并非简单地将模型从一种GPU迁移到另一种GPU。尤其是视频生成模型，参数规模大、推理链路长、计算密集度高，从底层算力、推理框架到模型性能、生成效果和工具链，每一个环节都可能成为国产化落地的“卡点”。 作为全球领先的多模态生成式人工智能创新企业，智象未来（HiDream.ai）致力于打造下一代原生全模态世界模型。依托自研HiDream系列大模型，智象未来持续布局商业营销、影视创作、内容创作等场景，目前，其产品已覆盖全球100多个国家和地区，服务超过5000万名专业用户及4万余家企业客户。     作为智象未来重要的AI基础设施合作伙伴，商汤大装置持续通过稳定、高效的AI基础设施，支撑其模",
+          "summary_zh": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移  量子位的朋友们 2026-08-28 12:09:39  来源：量子位   国产算力跑通视频生成规模化应用  国产算力走向规模商用，如何跨过从“适配验证”到“真实生产”的关键一步，正成为行业面临的新课题。近期，商汤大装置与智象未来以视频生成业务为切入，跑通了从国产算力适配到规模应用的完整链路。 对于以图像、视频生成模型为核心的AI企业而言，国产化并非简单地将模型从一种GPU迁移到另一种GPU。尤其是视频生成模型，参数规模大、推理链路长、计算密集度高，从底层算力、推理框架到模型性能、生成效果和工具链，每一个环节都可能成为国产化落地的“卡点”。 作为全球领先的多模态生成式人工智能创新企业，智象未来（HiDream.ai）致力于打造下一代原生全模态世界模型。依托自研HiDream系列大模型，智象未来持续布局商业营销、影视创作、内容创作等场景，目前，其产品已覆盖全球100多个国家和地区，服务超过5000万名专业用户及4万余家企业客户。     作为智象未来重要的AI基础设施合作伙伴，商汤大装置持续通过稳定、高效的AI基础设施，支撑其模",
+          "publishedAt": "2026-08-28T04:09:39Z",
+          "published_at": "2026-08-28T04:09:39Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "96dda66f",
+          "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/480236.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/480236.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "被高估的视触觉：容易复制的生意，有多大投资价值？  思邈 2026-08-28 13:49:05  来源：量子位   重新审视触视觉   允中 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能产业正步入价值落地的关键阶段。行业对具身智能的期待，已升维至以物理交互为主的真实产业场景落地与价值创造。 物理交互的核心需求，使触觉感知成为继视觉之后的新一代核心感知技术。 这一感知体系以力学传感器为核心感知单元，向外扩展为高精度、高集成度末端触觉传感器，进而延展为曲面共形、大面积覆盖的分布式电子皮肤，共同构成机器人从指尖精细力控到全身物理交互的完整闭环。 其产业定位，也正从精度（Precision）、准度（Accuracy）等单一性能指标的比拼，转向以长周期全场景作业稳定性（Stability）为核心的产业基础设施叙事。 在当前主流的触觉传感技术路线中，以光电转换原理为核心的视触觉传感器（Vision-Based Tactile Sensor, VBTS）无疑是热度最高的方向之一，赛道熙熙攘攘，学术与行业关注度居高不下。 然而喧嚣之下，这一技术方案，真的足以担当起具身智能大规模落地的产",
+          "summary_zh": "被高估的视触觉：容易复制的生意，有多大投资价值？  思邈 2026-08-28 13:49:05  来源：量子位   重新审视触视觉   允中 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能产业正步入价值落地的关键阶段。行业对具身智能的期待，已升维至以物理交互为主的真实产业场景落地与价值创造。 物理交互的核心需求，使触觉感知成为继视觉之后的新一代核心感知技术。 这一感知体系以力学传感器为核心感知单元，向外扩展为高精度、高集成度末端触觉传感器，进而延展为曲面共形、大面积覆盖的分布式电子皮肤，共同构成机器人从指尖精细力控到全身物理交互的完整闭环。 其产业定位，也正从精度（Precision）、准度（Accuracy）等单一性能指标的比拼，转向以长周期全场景作业稳定性（Stability）为核心的产业基础设施叙事。 在当前主流的触觉传感技术路线中，以光电转换原理为核心的视触觉传感器（Vision-Based Tactile Sensor, VBTS）无疑是热度最高的方向之一，赛道熙熙攘攘，学术与行业关注度居高不下。 然而喧嚣之下，这一技术方案，真的足以担当起具身智能大规模落地的产",
+          "publishedAt": "2026-08-28T05:49:05Z",
+          "published_at": "2026-08-28T05:49:05Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "835b4722",
+          "title": "刚刚，腾讯姚顺雨再交卷，开源Hy4",
+          "title_en": "刚刚，腾讯姚顺雨再交卷，开源Hy4 preview",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "刚刚，腾讯姚顺雨再交卷，开源Hy4 preview",
+          "summary_zh": "刚刚，腾讯姚顺雨再交卷，开源Hy4 preview",
+          "publishedAt": "2026-08-28T20:17:25Z",
+          "published_at": "2026-08-28T20:17:25Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "65d75974",
+      "title": "产品更新：Caddi",
+      "title_en": "Caddi",
+      "url": "https://www.producthunt.com/products/caddi-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/caddi-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Agent that builds agents by only showing your",
+      "summary_zh": "Agent that builds agents by only showing your",
+      "publishedAt": "2026-08-28T07:01:00Z",
+      "published_at": "2026-08-28T07:01:00Z",
+      "votes_count": 226,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "259",
+          "name": "Legal",
+          "slug": "legal"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "00107964",
+      "title": "产品更新：Microduck",
+      "title_en": "Microduck",
+      "url": "https://www.producthunt.com/products/hugging-face?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/hugging-face?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A tiny open-source biped you can train yoursel",
+      "summary_zh": "A tiny open-source biped you can train yoursel",
+      "publishedAt": "2026-08-28T07:01:00Z",
+      "published_at": "2026-08-28T07:01:00Z",
+      "votes_count": 212,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "110",
+          "name": "Robots",
+          "slug": "robots"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3b22fa31",
+      "title": "产品更新：Firecrawl Devel",
+      "title_en": "Firecrawl Developer Index",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A curated index of 70M+ artifacts for coding a",
+      "summary_zh": "A curated index of 70M+ artifacts for coding a",
+      "publishedAt": "2026-08-28T07:01:00Z",
+      "published_at": "2026-08-28T07:01:00Z",
+      "votes_count": 136,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "e0b7f9f2",
+      "title": "产品更新：Almanac",
+      "title_en": "Almanac",
+      "url": "https://www.producthunt.com/products/almanac-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/almanac-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The agent with a second brain Almanac is an AI",
+      "summary_zh": "The agent with a second brain Almanac is an AI",
+      "publishedAt": "2026-08-28T07:01:00Z",
+      "published_at": "2026-08-28T07:01:00Z",
+      "votes_count": 125,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "282",
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "e5ae233d",
+      "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/480223.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/480223.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持  量子位的朋友们 2026-08-28 12:06:16  来源：量子位   国产异构助力前沿智能进入普惠时代  8月26日晚，智谱正式上线并开源GLM-5.3-Flash(320B-A18B），这是GLM-5系列的首个原生多模态模型。其总参数320B，能力超过GLM-5.2，在全球权威的Artificial Analysis Intelligence Index（AA综合智能指数）中取得57分，进入全球前沿模型能力区间，与Anthropic最受欢迎的模型Claude Opus 4.8得分持平。GLM-5.3-Flash的架构专为极低成本而设计，结合智谱最新的30T Token多模态预训练语料，能够以更少的计算资源实现更强的性能。 依托先进的国产异构混推技术，商汤大装置为GLM-5.3-Flash上线提供大规模国产算力支持与Token服务，打造国产算力规模化商用又一硬核落地标杆。    这一合作的背后，正是商汤打造的 “一套模型、一座 Token（词元）工厂、一套智能体管控系统” 核心能力体系。其中 Token 工厂承担",
+      "summary_zh": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持  量子位的朋友们 2026-08-28 12:06:16  来源：量子位   国产异构助力前沿智能进入普惠时代  8月26日晚，智谱正式上线并开源GLM-5.3-Flash(320B-A18B），这是GLM-5系列的首个原生多模态模型。其总参数320B，能力超过GLM-5.2，在全球权威的Artificial Analysis Intelligence Index（AA综合智能指数）中取得57分，进入全球前沿模型能力区间，与Anthropic最受欢迎的模型Claude Opus 4.8得分持平。GLM-5.3-Flash的架构专为极低成本而设计，结合智谱最新的30T Token多模态预训练语料，能够以更少的计算资源实现更强的性能。 依托先进的国产异构混推技术，商汤大装置为GLM-5.3-Flash上线提供大规模国产算力支持与Token服务，打造国产算力规模化商用又一硬核落地标杆。    这一合作的背后，正是商汤打造的 “一套模型、一座 Token（词元）工厂、一套智能体管控系统” 核心能力体系。其中 Token 工厂承担",
+      "publishedAt": "2026-08-28T04:06:16Z",
+      "published_at": "2026-08-28T04:06:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "41cf8d0e",
+      "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/480227.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/480227.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移  量子位的朋友们 2026-08-28 12:09:39  来源：量子位   国产算力跑通视频生成规模化应用  国产算力走向规模商用，如何跨过从“适配验证”到“真实生产”的关键一步，正成为行业面临的新课题。近期，商汤大装置与智象未来以视频生成业务为切入，跑通了从国产算力适配到规模应用的完整链路。 对于以图像、视频生成模型为核心的AI企业而言，国产化并非简单地将模型从一种GPU迁移到另一种GPU。尤其是视频生成模型，参数规模大、推理链路长、计算密集度高，从底层算力、推理框架到模型性能、生成效果和工具链，每一个环节都可能成为国产化落地的“卡点”。 作为全球领先的多模态生成式人工智能创新企业，智象未来（HiDream.ai）致力于打造下一代原生全模态世界模型。依托自研HiDream系列大模型，智象未来持续布局商业营销、影视创作、内容创作等场景，目前，其产品已覆盖全球100多个国家和地区，服务超过5000万名专业用户及4万余家企业客户。     作为智象未来重要的AI基础设施合作伙伴，商汤大装置持续通过稳定、高效的AI基础设施，支撑其模",
+      "summary_zh": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移  量子位的朋友们 2026-08-28 12:09:39  来源：量子位   国产算力跑通视频生成规模化应用  国产算力走向规模商用，如何跨过从“适配验证”到“真实生产”的关键一步，正成为行业面临的新课题。近期，商汤大装置与智象未来以视频生成业务为切入，跑通了从国产算力适配到规模应用的完整链路。 对于以图像、视频生成模型为核心的AI企业而言，国产化并非简单地将模型从一种GPU迁移到另一种GPU。尤其是视频生成模型，参数规模大、推理链路长、计算密集度高，从底层算力、推理框架到模型性能、生成效果和工具链，每一个环节都可能成为国产化落地的“卡点”。 作为全球领先的多模态生成式人工智能创新企业，智象未来（HiDream.ai）致力于打造下一代原生全模态世界模型。依托自研HiDream系列大模型，智象未来持续布局商业营销、影视创作、内容创作等场景，目前，其产品已覆盖全球100多个国家和地区，服务超过5000万名专业用户及4万余家企业客户。     作为智象未来重要的AI基础设施合作伙伴，商汤大装置持续通过稳定、高效的AI基础设施，支撑其模",
+      "publishedAt": "2026-08-28T04:09:39Z",
+      "published_at": "2026-08-28T04:09:39Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "96dda66f",
+      "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/480236.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/480236.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "被高估的视触觉：容易复制的生意，有多大投资价值？  思邈 2026-08-28 13:49:05  来源：量子位   重新审视触视觉   允中 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能产业正步入价值落地的关键阶段。行业对具身智能的期待，已升维至以物理交互为主的真实产业场景落地与价值创造。 物理交互的核心需求，使触觉感知成为继视觉之后的新一代核心感知技术。 这一感知体系以力学传感器为核心感知单元，向外扩展为高精度、高集成度末端触觉传感器，进而延展为曲面共形、大面积覆盖的分布式电子皮肤，共同构成机器人从指尖精细力控到全身物理交互的完整闭环。 其产业定位，也正从精度（Precision）、准度（Accuracy）等单一性能指标的比拼，转向以长周期全场景作业稳定性（Stability）为核心的产业基础设施叙事。 在当前主流的触觉传感技术路线中，以光电转换原理为核心的视触觉传感器（Vision-Based Tactile Sensor, VBTS）无疑是热度最高的方向之一，赛道熙熙攘攘，学术与行业关注度居高不下。 然而喧嚣之下，这一技术方案，真的足以担当起具身智能大规模落地的产",
+      "summary_zh": "被高估的视触觉：容易复制的生意，有多大投资价值？  思邈 2026-08-28 13:49:05  来源：量子位   重新审视触视觉   允中 发自 凹非寺 量子位 | 公众号 QbitAI  具身智能产业正步入价值落地的关键阶段。行业对具身智能的期待，已升维至以物理交互为主的真实产业场景落地与价值创造。 物理交互的核心需求，使触觉感知成为继视觉之后的新一代核心感知技术。 这一感知体系以力学传感器为核心感知单元，向外扩展为高精度、高集成度末端触觉传感器，进而延展为曲面共形、大面积覆盖的分布式电子皮肤，共同构成机器人从指尖精细力控到全身物理交互的完整闭环。 其产业定位，也正从精度（Precision）、准度（Accuracy）等单一性能指标的比拼，转向以长周期全场景作业稳定性（Stability）为核心的产业基础设施叙事。 在当前主流的触觉传感技术路线中，以光电转换原理为核心的视触觉传感器（Vision-Based Tactile Sensor, VBTS）无疑是热度最高的方向之一，赛道熙熙攘攘，学术与行业关注度居高不下。 然而喧嚣之下，这一技术方案，真的足以担当起具身智能大规模落地的产",
+      "publishedAt": "2026-08-28T05:49:05Z",
+      "published_at": "2026-08-28T05:49:05Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "835b4722",
+      "title": "刚刚，腾讯姚顺雨再交卷，开源Hy4",
+      "title_en": "刚刚，腾讯姚顺雨再交卷，开源Hy4 preview",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "刚刚，腾讯姚顺雨再交卷，开源Hy4 preview",
+      "summary_zh": "刚刚，腾讯姚顺雨再交卷，开源Hy4 preview",
+      "publishedAt": "2026-08-28T20:17:25Z",
+      "published_at": "2026-08-28T20:17:25Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
