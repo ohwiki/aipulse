@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-28T20:18:04Z",
-  "generatedAt": "2026-08-28T20:18:04Z",
+  "generated_at": "2026-08-29T02:51:42Z",
+  "generatedAt": "2026-08-29T02:51:42Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -26,7 +26,7 @@
           "summary_zh": "Agent that builds agents by only showing your",
           "publishedAt": "2026-08-28T07:01:00Z",
           "published_at": "2026-08-28T07:01:00Z",
-          "votes_count": 226,
+          "votes_count": 247,
           "featured": true,
           "topics": [
             {
@@ -64,7 +64,7 @@
           "summary_zh": "A tiny open-source biped you can train yoursel",
           "publishedAt": "2026-08-28T07:01:00Z",
           "published_at": "2026-08-28T07:01:00Z",
-          "votes_count": 212,
+          "votes_count": 242,
           "featured": true,
           "topics": [
             {
@@ -102,7 +102,7 @@
           "summary_zh": "A curated index of 70M+ artifacts for coding a",
           "publishedAt": "2026-08-28T07:01:00Z",
           "published_at": "2026-08-28T07:01:00Z",
-          "votes_count": 136,
+          "votes_count": 145,
           "featured": true,
           "topics": [
             {
@@ -119,25 +119,30 @@
           "score_details": null
         },
         {
-          "id": "e0b7f9f2",
-          "title": "产品更新：Almanac",
-          "title_en": "Almanac",
-          "url": "https://www.producthunt.com/products/almanac-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "e99e996e",
+          "title": "产品更新：OpenTag",
+          "title_en": "OpenTag",
+          "url": "https://www.producthunt.com/products/opentag?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/almanac-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/opentag?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "The agent with a second brain Almanac is an AI",
-          "summary_zh": "The agent with a second brain Almanac is an AI",
+          "summary": "AI coworker lives on Slack and Teams OpenTag i",
+          "summary_zh": "AI coworker lives on Slack and Teams OpenTag i",
           "publishedAt": "2026-08-28T07:01:00Z",
           "published_at": "2026-08-28T07:01:00Z",
-          "votes_count": 125,
+          "votes_count": 139,
           "featured": true,
           "topics": [
+            {
+              "id": "22",
+              "name": "Slack",
+              "slug": "slack"
+            },
             {
               "id": "46",
               "name": "Productivity",
@@ -147,11 +152,6 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "282",
-              "name": "Virtual Assistants",
-              "slug": "virtual-assistants"
             }
           ],
           "score_details": null
@@ -243,8 +243,8 @@
           "rankingScore": 5.0,
           "summary": "刚刚，腾讯姚顺雨再交卷，开源Hy4 preview",
           "summary_zh": "刚刚，腾讯姚顺雨再交卷，开源Hy4 preview",
-          "publishedAt": "2026-08-28T20:17:25Z",
-          "published_at": "2026-08-28T20:17:25Z",
+          "publishedAt": "2026-08-29T02:51:08Z",
+          "published_at": "2026-08-29T02:51:08Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -271,7 +271,7 @@
       "summary_zh": "Agent that builds agents by only showing your",
       "publishedAt": "2026-08-28T07:01:00Z",
       "published_at": "2026-08-28T07:01:00Z",
-      "votes_count": 226,
+      "votes_count": 247,
       "featured": true,
       "topics": [
         {
@@ -309,7 +309,7 @@
       "summary_zh": "A tiny open-source biped you can train yoursel",
       "publishedAt": "2026-08-28T07:01:00Z",
       "published_at": "2026-08-28T07:01:00Z",
-      "votes_count": 212,
+      "votes_count": 242,
       "featured": true,
       "topics": [
         {
@@ -347,7 +347,7 @@
       "summary_zh": "A curated index of 70M+ artifacts for coding a",
       "publishedAt": "2026-08-28T07:01:00Z",
       "published_at": "2026-08-28T07:01:00Z",
-      "votes_count": 136,
+      "votes_count": 145,
       "featured": true,
       "topics": [
         {
@@ -364,25 +364,30 @@
       "score_details": null
     },
     {
-      "id": "e0b7f9f2",
-      "title": "产品更新：Almanac",
-      "title_en": "Almanac",
-      "url": "https://www.producthunt.com/products/almanac-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "e99e996e",
+      "title": "产品更新：OpenTag",
+      "title_en": "OpenTag",
+      "url": "https://www.producthunt.com/products/opentag?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/almanac-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/opentag?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "The agent with a second brain Almanac is an AI",
-      "summary_zh": "The agent with a second brain Almanac is an AI",
+      "summary": "AI coworker lives on Slack and Teams OpenTag i",
+      "summary_zh": "AI coworker lives on Slack and Teams OpenTag i",
       "publishedAt": "2026-08-28T07:01:00Z",
       "published_at": "2026-08-28T07:01:00Z",
-      "votes_count": 125,
+      "votes_count": 139,
       "featured": true,
       "topics": [
+        {
+          "id": "22",
+          "name": "Slack",
+          "slug": "slack"
+        },
         {
           "id": "46",
           "name": "Productivity",
@@ -392,11 +397,6 @@
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
-        },
-        {
-          "id": "282",
-          "name": "Virtual Assistants",
-          "slug": "virtual-assistants"
         }
       ],
       "score_details": null
@@ -482,8 +482,8 @@
       "rankingScore": 5.0,
       "summary": "刚刚，腾讯姚顺雨再交卷，开源Hy4 preview",
       "summary_zh": "刚刚，腾讯姚顺雨再交卷，开源Hy4 preview",
-      "publishedAt": "2026-08-28T20:17:25Z",
-      "published_at": "2026-08-28T20:17:25Z",
+      "publishedAt": "2026-08-29T02:51:08Z",
+      "published_at": "2026-08-29T02:51:08Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
