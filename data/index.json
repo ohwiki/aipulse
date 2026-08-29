@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-08-29T02:51:42Z",
-  "generatedAt": "2026-08-29T02:51:42Z",
+  "generated_at": "2026-08-29T13:55:08Z",
+  "generatedAt": "2026-08-29T13:55:08Z",
   "count": 109,
   "total": 109,
   "entries": [
     {
       "date": "2026-08-29",
-      "generated_at": "2026-08-29T02:51:42Z",
-      "generatedAt": "2026-08-29T02:51:42Z",
-      "total": 8,
+      "generated_at": "2026-08-29T13:55:08Z",
+      "generatedAt": "2026-08-29T13:55:08Z",
+      "total": 6,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "65d75974",
-          "title": "产品更新：Caddi",
-          "title_en": "Caddi",
-          "url": "https://www.producthunt.com/products/caddi-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "0496abca",
+          "title": "产品更新：1752vc Pitch De",
+          "title_en": "1752vc Pitch Deck Analyzer",
+          "url": "https://www.producthunt.com/products/1752vc-pitch-deck-analysis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/caddi-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/1752vc-pitch-deck-analysis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Agent that builds agents by only showing your",
-          "summary_zh": "Agent that builds agents by only showing your",
-          "publishedAt": "2026-08-28T07:01:00Z",
-          "published_at": "2026-08-28T07:01:00Z",
-          "votes_count": 247,
+          "summary": "Know what investors will say before you ever h",
+          "summary_zh": "Know what investors will say before you ever h",
+          "publishedAt": "2026-08-29T07:01:00Z",
+          "published_at": "2026-08-29T07:01:00Z",
+          "votes_count": 142,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "259",
-              "name": "Legal",
-              "slug": "legal"
+              "id": "208",
+              "name": "Venture Capital",
+              "slug": "venture-capital"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "791",
+              "name": "Fundraising",
+              "slug": "fundraising"
             }
           ],
           "score_details": null
         },
         {
-          "id": "00107964",
-          "title": "产品更新：Microduck",
-          "title_en": "Microduck",
-          "url": "https://www.producthunt.com/products/hugging-face?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "c86cc55e",
+          "title": "产品更新：Hy4 preview",
+          "title_en": "Hy4 preview",
+          "url": "https://www.producthunt.com/products/hunyuan-a13b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/hugging-face?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/hunyuan-a13b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "A tiny open-source biped you can train yoursel",
-          "summary_zh": "A tiny open-source biped you can train yoursel",
-          "publishedAt": "2026-08-28T07:01:00Z",
-          "published_at": "2026-08-28T07:01:00Z",
-          "votes_count": 242,
+          "summary": "Tencent’s 770B open model for long-horizon wor",
+          "summary_zh": "Tencent’s 770B open model for long-horizon wor",
+          "publishedAt": "2026-08-29T07:01:00Z",
+          "published_at": "2026-08-29T07:01:00Z",
+          "votes_count": 131,
           "featured": true,
           "topics": [
             {
@@ -75,11 +75,6 @@
               "slug": "open-source"
             },
             {
-              "id": "110",
-              "name": "Robots",
-              "slug": "robots"
-            },
-            {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
@@ -88,36 +83,25 @@
           "score_details": null
         },
         {
-          "id": "3b22fa31",
-          "title": "产品更新：Firecrawl Devel",
-          "title_en": "Firecrawl Developer Index",
-          "url": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "640f54cd",
+          "title": "Anthropic盯上「训练芯片」？",
+          "title_en": "Anthropic盯上「训练芯片」？被爆曾想70亿美元收购AI芯片公司MatX",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "A curated index of 70M+ artifacts for coding a",
-          "summary_zh": "A curated index of 70M+ artifacts for coding a",
-          "publishedAt": "2026-08-28T07:01:00Z",
-          "published_at": "2026-08-28T07:01:00Z",
-          "votes_count": 145,
-          "featured": true,
-          "topics": [
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "Anthropic盯上「训练芯片」？被爆曾想70亿美元收购AI芯片公司MatX",
+          "summary_zh": "Anthropic盯上「训练芯片」？被爆曾想70亿美元收购AI芯片公司MatX",
+          "publishedAt": "2026-08-29T13:54:31Z",
+          "published_at": "2026-08-29T13:54:31Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
