@@ -1,0 +1,513 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-30T22:50:33Z",
+  "generatedAt": "2026-08-30T22:50:33Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "803f692f",
+          "title": "产品更新：Topview Motion",
+          "title_en": "Topview Motion Studio",
+          "url": "https://www.producthunt.com/products/topview-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/topview-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Create launch videos without touching After Ef",
+          "summary_zh": "Create launch videos without touching After Ef",
+          "publishedAt": "2026-08-30T07:01:00Z",
+          "published_at": "2026-08-30T07:01:00Z",
+          "votes_count": 241,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ffbd703d",
+          "title": "产品更新：Hyperfocus",
+          "title_en": "Hyperfocus",
+          "url": "https://www.producthunt.com/products/hyperfocus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/hyperfocus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Planner that turns goals into daily progress H",
+          "summary_zh": "Planner that turns goals into daily progress H",
+          "publishedAt": "2026-08-30T07:01:00Z",
+          "published_at": "2026-08-30T07:01:00Z",
+          "votes_count": 227,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3cd21e81",
+          "title": "产品更新：Referent",
+          "title_en": "Referent",
+          "url": "https://www.producthunt.com/products/referent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/referent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The AI-native OS for modern law firms Referent",
+          "summary_zh": "The AI-native OS for modern law firms Referent",
+          "publishedAt": "2026-08-30T07:01:00Z",
+          "published_at": "2026-08-30T07:01:00Z",
+          "votes_count": 159,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "259",
+              "name": "Legal",
+              "slug": "legal"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "11b79350",
+          "title": "产品更新：Murfy AI",
+          "title_en": "Murfy AI",
+          "url": "https://www.producthunt.com/products/murfy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/murfy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Write, review, and publish to arXiv 10x faster",
+          "summary_zh": "Write, review, and publish to arXiv 10x faster",
+          "publishedAt": "2026-08-30T07:01:00Z",
+          "published_at": "2026-08-30T07:01:00Z",
+          "votes_count": 157,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "90",
+              "name": "Writing",
+              "slug": "writing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "3cfbf1ee",
+          "title": "Claude安全机制大翻车！AI怒删",
+          "title_en": "Claude安全机制大翻车！AI怒删开发者700GB主目录",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Claude安全机制大翻车！AI怒删开发者700GB主目录",
+          "summary_zh": "Claude安全机制大翻车！AI怒删开发者700GB主目录",
+          "publishedAt": "2026-08-30T22:49:57Z",
+          "published_at": "2026-08-30T22:49:57Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "a4edbec2",
+          "title": "端侧模型专用Harness，用Qwe",
+          "title_en": "端侧模型专用Harness，用Qwen3.8-27B实现「零成本推理」",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "端侧模型专用Harness，用Qwen3.8-27B实现「零成本推理」",
+          "summary_zh": "端侧模型专用Harness，用Qwen3.8-27B实现「零成本推理」",
+          "publishedAt": "2026-08-30T22:49:57Z",
+          "published_at": "2026-08-30T22:49:57Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "949e5bc8",
+          "title": "AI资讯更新：Portable Comp",
+          "title_en": "Portable Computer",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Portable Computer",
+          "summary_zh": "Portable Computer",
+          "publishedAt": "2026-08-30T22:49:57Z",
+          "published_at": "2026-08-30T22:49:57Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0b72172f",
+          "title": "AI所过之处，寸草不生，麻豆不堪重压",
+          "title_en": "AI所过之处，寸草不生，麻豆不堪重压永久关停",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzcwNjExOTc5MA==&mid=2247485751&idx=1&sn=b69a215cee062434d8996b06ce1ffd18#rd",
+          "source": "微信10w+热文",
+          "source_type": null,
+          "sourceName": "微信10w+热文",
+          "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzcwNjExOTc5MA==&mid=2247485751&idx=1&sn=b69a215cee062434d8996b06ce1ffd18#rd",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "AI所过之处，寸草不生，麻豆不堪重压永久关停",
+          "summary_zh": "AI所过之处，寸草不生，麻豆不堪重压永久关停",
+          "publishedAt": "2026-08-30T22:49:57Z",
+          "published_at": "2026-08-30T22:49:57Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "803f692f",
+      "title": "产品更新：Topview Motion",
+      "title_en": "Topview Motion Studio",
+      "url": "https://www.producthunt.com/products/topview-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/topview-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Create launch videos without touching After Ef",
+      "summary_zh": "Create launch videos without touching After Ef",
+      "publishedAt": "2026-08-30T07:01:00Z",
+      "published_at": "2026-08-30T07:01:00Z",
+      "votes_count": 241,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ffbd703d",
+      "title": "产品更新：Hyperfocus",
+      "title_en": "Hyperfocus",
+      "url": "https://www.producthunt.com/products/hyperfocus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/hyperfocus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Planner that turns goals into daily progress H",
+      "summary_zh": "Planner that turns goals into daily progress H",
+      "publishedAt": "2026-08-30T07:01:00Z",
+      "published_at": "2026-08-30T07:01:00Z",
+      "votes_count": 227,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3cd21e81",
+      "title": "产品更新：Referent",
+      "title_en": "Referent",
+      "url": "https://www.producthunt.com/products/referent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/referent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI-native OS for modern law firms Referent",
+      "summary_zh": "The AI-native OS for modern law firms Referent",
+      "publishedAt": "2026-08-30T07:01:00Z",
+      "published_at": "2026-08-30T07:01:00Z",
+      "votes_count": 159,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "259",
+          "name": "Legal",
+          "slug": "legal"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "11b79350",
+      "title": "产品更新：Murfy AI",
+      "title_en": "Murfy AI",
+      "url": "https://www.producthunt.com/products/murfy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/murfy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Write, review, and publish to arXiv 10x faster",
+      "summary_zh": "Write, review, and publish to arXiv 10x faster",
+      "publishedAt": "2026-08-30T07:01:00Z",
+      "published_at": "2026-08-30T07:01:00Z",
+      "votes_count": 157,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "90",
+          "name": "Writing",
+          "slug": "writing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3cfbf1ee",
+      "title": "Claude安全机制大翻车！AI怒删",
+      "title_en": "Claude安全机制大翻车！AI怒删开发者700GB主目录",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Claude安全机制大翻车！AI怒删开发者700GB主目录",
+      "summary_zh": "Claude安全机制大翻车！AI怒删开发者700GB主目录",
+      "publishedAt": "2026-08-30T22:49:57Z",
+      "published_at": "2026-08-30T22:49:57Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "a4edbec2",
+      "title": "端侧模型专用Harness，用Qwe",
+      "title_en": "端侧模型专用Harness，用Qwen3.8-27B实现「零成本推理」",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "端侧模型专用Harness，用Qwen3.8-27B实现「零成本推理」",
+      "summary_zh": "端侧模型专用Harness，用Qwen3.8-27B实现「零成本推理」",
+      "publishedAt": "2026-08-30T22:49:57Z",
+      "published_at": "2026-08-30T22:49:57Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "949e5bc8",
+      "title": "AI资讯更新：Portable Comp",
+      "title_en": "Portable Computer",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Portable Computer",
+      "summary_zh": "Portable Computer",
+      "publishedAt": "2026-08-30T22:49:57Z",
+      "published_at": "2026-08-30T22:49:57Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0b72172f",
+      "title": "AI所过之处，寸草不生，麻豆不堪重压",
+      "title_en": "AI所过之处，寸草不生，麻豆不堪重压永久关停",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzcwNjExOTc5MA==&mid=2247485751&idx=1&sn=b69a215cee062434d8996b06ce1ffd18#rd",
+      "source": "微信10w+热文",
+      "source_type": null,
+      "sourceName": "微信10w+热文",
+      "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzcwNjExOTc5MA==&mid=2247485751&idx=1&sn=b69a215cee062434d8996b06ce1ffd18#rd",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AI所过之处，寸草不生，麻豆不堪重压永久关停",
+      "summary_zh": "AI所过之处，寸草不生，麻豆不堪重压永久关停",
+      "publishedAt": "2026-08-30T22:49:57Z",
+      "published_at": "2026-08-30T22:49:57Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
