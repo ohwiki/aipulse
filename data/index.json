@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-08-30T22:50:33Z",
-  "generatedAt": "2026-08-30T22:50:33Z",
-  "count": 111,
-  "total": 111,
+  "generated_at": "2026-08-31T16:16:37Z",
+  "generatedAt": "2026-08-31T16:16:37Z",
+  "count": 112,
+  "total": 112,
   "entries": [
+    {
+      "date": "2026-09-01",
+      "generated_at": "2026-08-31T16:16:37Z",
+      "generatedAt": "2026-08-31T16:16:37Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "ea38b587",
+          "title": "产品更新：Video Agent by",
+          "title_en": "Video Agent by Fotor",
+          "url": "https://www.producthunt.com/products/fotor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fotor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Create and edit precision motion graphics & vi",
+          "summary_zh": "Create and edit precision motion graphics & vi",
+          "publishedAt": "2026-08-31T07:01:00Z",
+          "published_at": "2026-08-31T07:01:00Z",
+          "votes_count": 258,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8c9e67f4",
+          "title": "产品更新：BrandJet",
+          "title_en": "BrandJet",
+          "url": "https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turn public buying signals into sales pipeline",
+          "summary_zh": "Turn public buying signals into sales pipeline",
+          "publishedAt": "2026-08-31T07:01:00Z",
+          "published_at": "2026-08-31T07:01:00Z",
+          "votes_count": 185,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d11a1337",
+          "title": "产品更新：Interactive Ses",
+          "title_en": "Interactive Sessions",
+          "url": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Drive the full SDLC with AI agents, step by st",
+          "summary_zh": "Drive the full SDLC with AI agents, step by st",
+          "publishedAt": "2026-08-31T07:01:00Z",
+          "published_at": "2026-08-31T07:01:00Z",
+          "votes_count": 183,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "generated_at": "2026-08-30T22:50:33Z",

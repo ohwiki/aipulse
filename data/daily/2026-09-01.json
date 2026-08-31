@@ -1,0 +1,503 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-08-31T16:16:37Z",
+  "generatedAt": "2026-08-31T16:16:37Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "ea38b587",
+          "title": "产品更新：Video Agent by",
+          "title_en": "Video Agent by Fotor",
+          "url": "https://www.producthunt.com/products/fotor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fotor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Create and edit precision motion graphics & vi",
+          "summary_zh": "Create and edit precision motion graphics & vi",
+          "publishedAt": "2026-08-31T07:01:00Z",
+          "published_at": "2026-08-31T07:01:00Z",
+          "votes_count": 258,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8c9e67f4",
+          "title": "产品更新：BrandJet",
+          "title_en": "BrandJet",
+          "url": "https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Turn public buying signals into sales pipeline",
+          "summary_zh": "Turn public buying signals into sales pipeline",
+          "publishedAt": "2026-08-31T07:01:00Z",
+          "published_at": "2026-08-31T07:01:00Z",
+          "votes_count": 185,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d11a1337",
+          "title": "产品更新：Interactive Ses",
+          "title_en": "Interactive Sessions",
+          "url": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Drive the full SDLC with AI agents, step by st",
+          "summary_zh": "Drive the full SDLC with AI agents, step by st",
+          "publishedAt": "2026-08-31T07:01:00Z",
+          "published_at": "2026-08-31T07:01:00Z",
+          "votes_count": 183,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b29defac",
+          "title": "产品更新：EP–2350 FX–MIC",
+          "title_en": "EP–2350 FX–MIC",
+          "url": "https://www.producthunt.com/products/teenage-engineering?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/teenage-engineering?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The programmable mic you can squeeze, shake &",
+          "summary_zh": "The programmable mic you can squeeze, shake &",
+          "publishedAt": "2026-08-31T07:01:00Z",
+          "published_at": "2026-08-31T07:01:00Z",
+          "votes_count": 167,
+          "featured": true,
+          "topics": [
+            {
+              "id": "57",
+              "name": "Music",
+              "slug": "music"
+            },
+            {
+              "id": "125",
+              "name": "Hardware",
+              "slug": "hardware"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "355711b1",
+          "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/481475.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/481475.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验  量子位的朋友们 2026-08-31 11:01:29  来源：量子位   自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。  量化研究员看到一条异常漂亮的回测曲线，通常不会马上庆祝。他们更可能先问：是不是哪里用了未来数据？测试集有没有被反复查看？收益是否只来自一段特殊行情？ 这套职业习惯背后，是量化研究最朴素的一条经验：产生一个好结果并不难，证明它值得相信才难。 当 Agent 开始自己提出假设、运行实验，再根据结果决定下一步时，这个问题变得更加棘手。一次没有被发现的数据泄漏，可能被系统当成成功经验保存下来；从那以后，Agent 不是在持续进步，而是在沿着一个错误结论越走越远。 来自普林斯顿大学、蚂蚁集团和斯坦福大学的研究团队，在论文《AQuA: Recursively Self-Improving Quantitative Trading Research Agents》中，把研究重点放在了这里。 AQuA 由两套独立系统组成：Part I 研究符号化因子，P",
+          "summary_zh": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验  量子位的朋友们 2026-08-31 11:01:29  来源：量子位   自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。  量化研究员看到一条异常漂亮的回测曲线，通常不会马上庆祝。他们更可能先问：是不是哪里用了未来数据？测试集有没有被反复查看？收益是否只来自一段特殊行情？ 这套职业习惯背后，是量化研究最朴素的一条经验：产生一个好结果并不难，证明它值得相信才难。 当 Agent 开始自己提出假设、运行实验，再根据结果决定下一步时，这个问题变得更加棘手。一次没有被发现的数据泄漏，可能被系统当成成功经验保存下来；从那以后，Agent 不是在持续进步，而是在沿着一个错误结论越走越远。 来自普林斯顿大学、蚂蚁集团和斯坦福大学的研究团队，在论文《AQuA: Recursively Self-Improving Quantitative Trading Research Agents》中，把研究重点放在了这里。 AQuA 由两套独立系统组成：Part I 研究符号化因子，P",
+          "publishedAt": "2026-08-31T03:01:29Z",
+          "published_at": "2026-08-31T03:01:29Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "8051194f",
+          "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/481750.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/481750.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队  量子位的朋友们 2026-08-31 11:11:46  来源：量子位   灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。  第二届世界人形机器人运动会的51个赛项，划出了两条清晰的评价体系：竞技赛检验运动极限与协同能力，场景赛则直接对标真实岗位的作业标准。工业场景装配上料岗正是后者中最贴近产线的赛项，评判标准直指工业级交付的核心指标：长时程稳定性、毫米级精度，以及扰动下的自主恢复能力。 就是在这个最接近真实工厂的赛项里，成立仅三个月的灵犀智涌，用一台由Demo级本体组装而成的机器人，通过预赛、晋级决赛，最终以160分的佳绩跻身全国三强，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。  这份成绩的含金量在于：公司成立时间短，参赛机并非量产机型而是Demo组装，而同台竞技的对手均为头部品牌，在底盘、机械臂等硬件能力上积累深厚。在硬件条件不占优的情况下突围，灵犀智涌靠的不是本体，而是一套自研的ROSS Harness Agent。",
+          "summary_zh": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队  量子位的朋友们 2026-08-31 11:11:46  来源：量子位   灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。  第二届世界人形机器人运动会的51个赛项，划出了两条清晰的评价体系：竞技赛检验运动极限与协同能力，场景赛则直接对标真实岗位的作业标准。工业场景装配上料岗正是后者中最贴近产线的赛项，评判标准直指工业级交付的核心指标：长时程稳定性、毫米级精度，以及扰动下的自主恢复能力。 就是在这个最接近真实工厂的赛项里，成立仅三个月的灵犀智涌，用一台由Demo级本体组装而成的机器人，通过预赛、晋级决赛，最终以160分的佳绩跻身全国三强，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。  这份成绩的含金量在于：公司成立时间短，参赛机并非量产机型而是Demo组装，而同台竞技的对手均为头部品牌，在底盘、机械臂等硬件能力上积累深厚。在硬件条件不占优的情况下突围，灵犀智涌靠的不是本体，而是一套自研的ROSS Harness Agent。",
+          "publishedAt": "2026-08-31T03:11:46Z",
+          "published_at": "2026-08-31T03:11:46Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "29f3ce38",
+          "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/08/481759.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/08/481759.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了  梦晨 2026-08-31 11:24:34  来源：量子位   什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac   梦晨 发自 凹非寺量子位 | 公众号 QbitAI  OpenAI被曝疯狂扫货Mac，一买就是几万台。 一不小心给买断货了，还要想尽办法搞到更多。 Macbook笔记本不要，专买没有屏幕、没有键盘的Mac mini和Mac Studio。 那么问题来了：什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac？     几万台Mac搞强化学习，A\\也干了 据Information消息，OpenAI已经购买了数以万计的Mac mini和Mac Studio，专门用于强化学习。 不只是OpenAI，Anthropic也在通过亚马逊云服务AWS租用Mac mini来做类似的任务。     这些Mac被用来训练”计算机使用智能体”（computer-use agent），也就是能自主操作电脑、完成编辑测试代码、自动整理邮箱、总结文档等多步骤任务的AI系统。 这股热潮直接反映在了苹果财报上。 最近",
+          "summary_zh": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了  梦晨 2026-08-31 11:24:34  来源：量子位   什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac   梦晨 发自 凹非寺量子位 | 公众号 QbitAI  OpenAI被曝疯狂扫货Mac，一买就是几万台。 一不小心给买断货了，还要想尽办法搞到更多。 Macbook笔记本不要，专买没有屏幕、没有键盘的Mac mini和Mac Studio。 那么问题来了：什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac？     几万台Mac搞强化学习，A\\也干了 据Information消息，OpenAI已经购买了数以万计的Mac mini和Mac Studio，专门用于强化学习。 不只是OpenAI，Anthropic也在通过亚马逊云服务AWS租用Mac mini来做类似的任务。     这些Mac被用来训练”计算机使用智能体”（computer-use agent），也就是能自主操作电脑、完成编辑测试代码、自动整理邮箱、总结文档等多步骤任务的AI系统。 这股热潮直接反映在了苹果财报上。 最近",
+          "publishedAt": "2026-08-31T03:24:34Z",
+          "published_at": "2026-08-31T03:24:34Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "53b8ef9b",
+          "title": "ECCV社交副本开启！来AI Tal",
+          "title_en": "ECCV社交副本开启！来AI Talent Night，聊聊新技术、见见新老朋友",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "ECCV社交副本开启！来AI Talent Night，聊聊新技术、见见新老朋友",
+          "summary_zh": "ECCV社交副本开启！来AI Talent Night，聊聊新技术、见见新老朋友",
+          "publishedAt": "2026-08-31T16:15:56Z",
+          "published_at": "2026-08-31T16:15:56Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "ea38b587",
+      "title": "产品更新：Video Agent by",
+      "title_en": "Video Agent by Fotor",
+      "url": "https://www.producthunt.com/products/fotor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/fotor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Create and edit precision motion graphics & vi",
+      "summary_zh": "Create and edit precision motion graphics & vi",
+      "publishedAt": "2026-08-31T07:01:00Z",
+      "published_at": "2026-08-31T07:01:00Z",
+      "votes_count": 258,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8c9e67f4",
+      "title": "产品更新：BrandJet",
+      "title_en": "BrandJet",
+      "url": "https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn public buying signals into sales pipeline",
+      "summary_zh": "Turn public buying signals into sales pipeline",
+      "publishedAt": "2026-08-31T07:01:00Z",
+      "published_at": "2026-08-31T07:01:00Z",
+      "votes_count": 185,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d11a1337",
+      "title": "产品更新：Interactive Ses",
+      "title_en": "Interactive Sessions",
+      "url": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Drive the full SDLC with AI agents, step by st",
+      "summary_zh": "Drive the full SDLC with AI agents, step by st",
+      "publishedAt": "2026-08-31T07:01:00Z",
+      "published_at": "2026-08-31T07:01:00Z",
+      "votes_count": 183,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b29defac",
+      "title": "产品更新：EP–2350 FX–MIC",
+      "title_en": "EP–2350 FX–MIC",
+      "url": "https://www.producthunt.com/products/teenage-engineering?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/teenage-engineering?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The programmable mic you can squeeze, shake &",
+      "summary_zh": "The programmable mic you can squeeze, shake &",
+      "publishedAt": "2026-08-31T07:01:00Z",
+      "published_at": "2026-08-31T07:01:00Z",
+      "votes_count": 167,
+      "featured": true,
+      "topics": [
+        {
+          "id": "57",
+          "name": "Music",
+          "slug": "music"
+        },
+        {
+          "id": "125",
+          "name": "Hardware",
+          "slug": "hardware"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "355711b1",
+      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/481475.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/481475.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验  量子位的朋友们 2026-08-31 11:01:29  来源：量子位   自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。  量化研究员看到一条异常漂亮的回测曲线，通常不会马上庆祝。他们更可能先问：是不是哪里用了未来数据？测试集有没有被反复查看？收益是否只来自一段特殊行情？ 这套职业习惯背后，是量化研究最朴素的一条经验：产生一个好结果并不难，证明它值得相信才难。 当 Agent 开始自己提出假设、运行实验，再根据结果决定下一步时，这个问题变得更加棘手。一次没有被发现的数据泄漏，可能被系统当成成功经验保存下来；从那以后，Agent 不是在持续进步，而是在沿着一个错误结论越走越远。 来自普林斯顿大学、蚂蚁集团和斯坦福大学的研究团队，在论文《AQuA: Recursively Self-Improving Quantitative Trading Research Agents》中，把研究重点放在了这里。 AQuA 由两套独立系统组成：Part I 研究符号化因子，P",
+      "summary_zh": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验  量子位的朋友们 2026-08-31 11:01:29  来源：量子位   自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。  量化研究员看到一条异常漂亮的回测曲线，通常不会马上庆祝。他们更可能先问：是不是哪里用了未来数据？测试集有没有被反复查看？收益是否只来自一段特殊行情？ 这套职业习惯背后，是量化研究最朴素的一条经验：产生一个好结果并不难，证明它值得相信才难。 当 Agent 开始自己提出假设、运行实验，再根据结果决定下一步时，这个问题变得更加棘手。一次没有被发现的数据泄漏，可能被系统当成成功经验保存下来；从那以后，Agent 不是在持续进步，而是在沿着一个错误结论越走越远。 来自普林斯顿大学、蚂蚁集团和斯坦福大学的研究团队，在论文《AQuA: Recursively Self-Improving Quantitative Trading Research Agents》中，把研究重点放在了这里。 AQuA 由两套独立系统组成：Part I 研究符号化因子，P",
+      "publishedAt": "2026-08-31T03:01:29Z",
+      "published_at": "2026-08-31T03:01:29Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "8051194f",
+      "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/481750.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/481750.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队  量子位的朋友们 2026-08-31 11:11:46  来源：量子位   灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。  第二届世界人形机器人运动会的51个赛项，划出了两条清晰的评价体系：竞技赛检验运动极限与协同能力，场景赛则直接对标真实岗位的作业标准。工业场景装配上料岗正是后者中最贴近产线的赛项，评判标准直指工业级交付的核心指标：长时程稳定性、毫米级精度，以及扰动下的自主恢复能力。 就是在这个最接近真实工厂的赛项里，成立仅三个月的灵犀智涌，用一台由Demo级本体组装而成的机器人，通过预赛、晋级决赛，最终以160分的佳绩跻身全国三强，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。  这份成绩的含金量在于：公司成立时间短，参赛机并非量产机型而是Demo组装，而同台竞技的对手均为头部品牌，在底盘、机械臂等硬件能力上积累深厚。在硬件条件不占优的情况下突围，灵犀智涌靠的不是本体，而是一套自研的ROSS Harness Agent。",
+      "summary_zh": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队  量子位的朋友们 2026-08-31 11:11:46  来源：量子位   灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。  第二届世界人形机器人运动会的51个赛项，划出了两条清晰的评价体系：竞技赛检验运动极限与协同能力，场景赛则直接对标真实岗位的作业标准。工业场景装配上料岗正是后者中最贴近产线的赛项，评判标准直指工业级交付的核心指标：长时程稳定性、毫米级精度，以及扰动下的自主恢复能力。 就是在这个最接近真实工厂的赛项里，成立仅三个月的灵犀智涌，用一台由Demo级本体组装而成的机器人，通过预赛、晋级决赛，最终以160分的佳绩跻身全国三强，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。  这份成绩的含金量在于：公司成立时间短，参赛机并非量产机型而是Demo组装，而同台竞技的对手均为头部品牌，在底盘、机械臂等硬件能力上积累深厚。在硬件条件不占优的情况下突围，灵犀智涌靠的不是本体，而是一套自研的ROSS Harness Agent。",
+      "publishedAt": "2026-08-31T03:11:46Z",
+      "published_at": "2026-08-31T03:11:46Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "29f3ce38",
+      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/481759.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/08/481759.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了  梦晨 2026-08-31 11:24:34  来源：量子位   什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac   梦晨 发自 凹非寺量子位 | 公众号 QbitAI  OpenAI被曝疯狂扫货Mac，一买就是几万台。 一不小心给买断货了，还要想尽办法搞到更多。 Macbook笔记本不要，专买没有屏幕、没有键盘的Mac mini和Mac Studio。 那么问题来了：什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac？     几万台Mac搞强化学习，A\\也干了 据Information消息，OpenAI已经购买了数以万计的Mac mini和Mac Studio，专门用于强化学习。 不只是OpenAI，Anthropic也在通过亚马逊云服务AWS租用Mac mini来做类似的任务。     这些Mac被用来训练”计算机使用智能体”（computer-use agent），也就是能自主操作电脑、完成编辑测试代码、自动整理邮箱、总结文档等多步骤任务的AI系统。 这股热潮直接反映在了苹果财报上。 最近",
+      "summary_zh": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了  梦晨 2026-08-31 11:24:34  来源：量子位   什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac   梦晨 发自 凹非寺量子位 | 公众号 QbitAI  OpenAI被曝疯狂扫货Mac，一买就是几万台。 一不小心给买断货了，还要想尽办法搞到更多。 Macbook笔记本不要，专买没有屏幕、没有键盘的Mac mini和Mac Studio。 那么问题来了：什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac？     几万台Mac搞强化学习，A\\也干了 据Information消息，OpenAI已经购买了数以万计的Mac mini和Mac Studio，专门用于强化学习。 不只是OpenAI，Anthropic也在通过亚马逊云服务AWS租用Mac mini来做类似的任务。     这些Mac被用来训练”计算机使用智能体”（computer-use agent），也就是能自主操作电脑、完成编辑测试代码、自动整理邮箱、总结文档等多步骤任务的AI系统。 这股热潮直接反映在了苹果财报上。 最近",
+      "publishedAt": "2026-08-31T03:24:34Z",
+      "published_at": "2026-08-31T03:24:34Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "53b8ef9b",
+      "title": "ECCV社交副本开启！来AI Tal",
+      "title_en": "ECCV社交副本开启！来AI Talent Night，聊聊新技术、见见新老朋友",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "ECCV社交副本开启！来AI Talent Night，聊聊新技术、见见新老朋友",
+      "summary_zh": "ECCV社交副本开启！来AI Talent Night，聊聊新技术、见见新老朋友",
+      "publishedAt": "2026-08-31T16:15:56Z",
+      "published_at": "2026-08-31T16:15:56Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
