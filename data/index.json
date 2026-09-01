@@ -1,112 +1,41 @@
 {
-  "generated_at": "2026-08-31T23:56:31Z",
-  "generatedAt": "2026-08-31T23:56:31Z",
+  "generated_at": "2026-09-01T13:36:25Z",
+  "generatedAt": "2026-09-01T13:36:25Z",
   "count": 112,
   "total": 112,
   "entries": [
     {
       "date": "2026-09-01",
-      "generated_at": "2026-08-31T23:56:31Z",
-      "generatedAt": "2026-08-31T23:56:31Z",
-      "total": 8,
+      "generated_at": "2026-09-01T13:36:25Z",
+      "generatedAt": "2026-09-01T13:36:25Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "ea38b587",
-          "title": "产品更新：Video Agent by",
-          "title_en": "Video Agent by Fotor",
-          "url": "https://www.producthunt.com/products/fotor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "b3294c09",
+          "title": "产品更新：Kilo Code for J",
+          "title_en": "Kilo Code for JetBrains",
+          "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/fotor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Create and edit precision motion graphics & vi",
-          "summary_zh": "Create and edit precision motion graphics & vi",
-          "publishedAt": "2026-08-31T07:01:00Z",
-          "published_at": "2026-08-31T07:01:00Z",
-          "votes_count": 309,
+          "summary": "Fully native, open-source coding agent built f",
+          "summary_zh": "Fully native, open-source coding agent built f",
+          "publishedAt": "2026-09-01T07:01:00Z",
+          "published_at": "2026-09-01T07:01:00Z",
+          "votes_count": 305,
           "featured": true,
           "topics": [
             {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
             },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "857",
-              "name": "Video",
-              "slug": "video"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "8c9e67f4",
-          "title": "产品更新：BrandJet",
-          "title_en": "BrandJet",
-          "url": "https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Turn public buying signals into sales pipeline",
-          "summary_zh": "Turn public buying signals into sales pipeline",
-          "publishedAt": "2026-08-31T07:01:00Z",
-          "published_at": "2026-08-31T07:01:00Z",
-          "votes_count": 229,
-          "featured": true,
-          "topics": [
-            {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "d11a1337",
-          "title": "产品更新：Interactive Ses",
-          "title_en": "Interactive Sessions",
-          "url": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Drive the full SDLC with AI agents, step by st",
-          "summary_zh": "Drive the full SDLC with AI agents, step by st",
-          "publishedAt": "2026-08-31T07:01:00Z",
-          "published_at": "2026-08-31T07:01:00Z",
-          "votes_count": 223,
-          "featured": true,
-          "topics": [
             {
               "id": "247",
               "name": "Software Engineering",
@@ -116,6 +45,82 @@
               "id": "267",
               "name": "Developer Tools",
               "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2346af55",
+          "title": "产品更新：Gauth AI Course",
+          "title_en": "Gauth AI Course",
+          "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI courses you can watch, quiz through, and cr",
+          "summary_zh": "AI courses you can watch, quiz through, and cr",
+          "publishedAt": "2026-09-01T07:01:00Z",
+          "published_at": "2026-09-01T07:01:00Z",
+          "votes_count": 143,
+          "featured": true,
+          "topics": [
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "782",
+              "name": "Online Learning",
+              "slug": "online-learning"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "fedbeeeb",
+          "title": "产品更新：Sider Code",
+          "title_en": "Sider Code",
+          "url": "https://www.producthunt.com/products/sider-code-customize-any-website?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/sider-code-customize-any-website?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Reshape any website with plain words via Sider",
+          "summary_zh": "Reshape any website with plain words via Sider",
+          "publishedAt": "2026-09-01T07:01:00Z",
+          "published_at": "2026-09-01T07:01:00Z",
+          "votes_count": 131,
+          "featured": true,
+          "topics": [
+            {
+              "id": "34",
+              "name": "Chrome Extensions",
+              "slug": "chrome-extensions"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
               "id": "268",
