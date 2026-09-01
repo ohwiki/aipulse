@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-01T13:36:25Z",
-  "generatedAt": "2026-09-01T13:36:25Z",
+  "generated_at": "2026-09-01T22:39:55Z",
+  "generatedAt": "2026-09-01T22:39:55Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "b3294c09",
@@ -22,7 +22,7 @@
       "summary_zh": "Fully native, open-source coding agent built f",
       "publishedAt": "2026-09-01T07:01:00Z",
       "published_at": "2026-09-01T07:01:00Z",
-      "votes_count": 305,
+      "votes_count": 417,
       "featured": true,
       "topics": [
         {
@@ -65,7 +65,7 @@
       "summary_zh": "AI courses you can watch, quiz through, and cr",
       "publishedAt": "2026-09-01T07:01:00Z",
       "published_at": "2026-09-01T07:01:00Z",
-      "votes_count": 143,
+      "votes_count": 197,
       "featured": true,
       "topics": [
         {
@@ -103,7 +103,7 @@
       "summary_zh": "Reshape any website with plain words via Sider",
       "publishedAt": "2026-09-01T07:01:00Z",
       "published_at": "2026-09-01T07:01:00Z",
-      "votes_count": 131,
+      "votes_count": 180,
       "featured": true,
       "topics": [
         {
@@ -115,6 +115,44 @@
           "id": "46",
           "name": "Productivity",
           "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "58865a88",
+      "title": "AI资讯更新：TrustedRouter",
+      "title_en": "TrustedRouter",
+      "url": "https://www.producthunt.com/products/trustedrouter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/trustedrouter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Every model with a unified interface. Privacy",
+      "summary_zh": "Every model with a unified interface. Privacy",
+      "publishedAt": "2026-09-01T07:01:00Z",
+      "published_at": "2026-09-01T07:01:00Z",
+      "votes_count": 128,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
         },
         {
           "id": "268",
@@ -205,8 +243,8 @@
       "rankingScore": 5.0,
       "summary": "要火！AI版西游记，登上湖南卫视黄金档",
       "summary_zh": "要火！AI版西游记，登上湖南卫视黄金档",
-      "publishedAt": "2026-09-01T13:35:45Z",
-      "published_at": "2026-09-01T13:35:45Z",
+      "publishedAt": "2026-09-01T22:39:32Z",
+      "published_at": "2026-09-01T22:39:32Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

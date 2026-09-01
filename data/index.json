@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-09-01T13:36:25Z",
-  "generatedAt": "2026-09-01T13:36:25Z",
-  "count": 112,
-  "total": 112,
+  "generated_at": "2026-09-01T22:39:55Z",
+  "generatedAt": "2026-09-01T22:39:55Z",
+  "count": 113,
+  "total": 113,
   "entries": [
+    {
+      "date": "2026-09-02",
+      "generated_at": "2026-09-01T22:39:55Z",
+      "generatedAt": "2026-09-01T22:39:55Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "b3294c09",
+          "title": "产品更新：Kilo Code for J",
+          "title_en": "Kilo Code for JetBrains",
+          "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Fully native, open-source coding agent built f",
+          "summary_zh": "Fully native, open-source coding agent built f",
+          "publishedAt": "2026-09-01T07:01:00Z",
+          "published_at": "2026-09-01T07:01:00Z",
+          "votes_count": 417,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2346af55",
+          "title": "产品更新：Gauth AI Course",
+          "title_en": "Gauth AI Course",
+          "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI courses you can watch, quiz through, and cr",
+          "summary_zh": "AI courses you can watch, quiz through, and cr",
+          "publishedAt": "2026-09-01T07:01:00Z",
+          "published_at": "2026-09-01T07:01:00Z",
+          "votes_count": 197,
+          "featured": true,
+          "topics": [
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "782",
+              "name": "Online Learning",
+              "slug": "online-learning"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "fedbeeeb",
+          "title": "产品更新：Sider Code",
+          "title_en": "Sider Code",
+          "url": "https://www.producthunt.com/products/sider-code-customize-any-website?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/sider-code-customize-any-website?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Reshape any website with plain words via Sider",
+          "summary_zh": "Reshape any website with plain words via Sider",
+          "publishedAt": "2026-09-01T07:01:00Z",
+          "published_at": "2026-09-01T07:01:00Z",
+          "votes_count": 180,
+          "featured": true,
+          "topics": [
+            {
+              "id": "34",
+              "name": "Chrome Extensions",
+              "slug": "chrome-extensions"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-01",
       "generated_at": "2026-09-01T13:36:25Z",
