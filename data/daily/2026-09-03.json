@@ -1,0 +1,503 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-02T22:43:13Z",
+  "generatedAt": "2026-09-02T22:43:13Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "ce2f5b86",
+          "title": "产品更新：Monid",
+          "title_en": "Monid",
+          "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "OpenRouter for agent tools We connect your AI",
+          "summary_zh": "OpenRouter for agent tools We connect your AI",
+          "publishedAt": "2026-09-02T07:01:00Z",
+          "published_at": "2026-09-02T07:01:00Z",
+          "votes_count": 351,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4aac9cd2",
+          "title": "AI资讯更新：Browzer",
+          "title_en": "Browzer",
+          "url": "https://www.producthunt.com/products/browzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/browzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Put your technical content on autopilot Connec",
+          "summary_zh": "Put your technical content on autopilot Connec",
+          "publishedAt": "2026-09-02T07:01:00Z",
+          "published_at": "2026-09-02T07:01:00Z",
+          "votes_count": 342,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "29ccc7e5",
+          "title": "产品更新：Articos",
+          "title_en": "Articos",
+          "url": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Launch with confidence, not gut instinct Artic",
+          "summary_zh": "Launch with confidence, not gut instinct Artic",
+          "publishedAt": "2026-09-02T07:01:00Z",
+          "published_at": "2026-09-02T07:01:00Z",
+          "votes_count": 269,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "11da4185",
+          "title": "产品更新：CleanShot 5.0 w",
+          "title_en": "CleanShot 5.0 with Studio Mode",
+          "url": "https://www.producthunt.com/products/cleanshot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cleanshot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Mac-native app for screenshots, recordings and",
+          "summary_zh": "Mac-native app for screenshots, recordings and",
+          "publishedAt": "2026-09-02T07:01:00Z",
+          "published_at": "2026-09-02T07:01:00Z",
+          "votes_count": 197,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "ca4723cb",
+          "title": "李飞飞发布：全球首个多模态世界模型",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/482586.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/482586.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "李飞飞发布：全球首个多模态世界模型  鱼羊 2026-09-02 09:07:13  来源：量子位   一张图补全3D世界，还能给机器人造训练场   鱼羊 发自 凹非寺 量子位 | 公众号 QbitAI  「全球首个」多模态世界模型，来了！ 来自李飞飞World Labs。     World Labs对这个名为Atlas的新一代世界模型，用词可谓毫不克制，「全球首个」之外，slogan也明确强调出，这一次，可不只是生成一段可互动视频了哟：  建模世界，移动相机，模拟空间和时间。  就是说，Atlas能够以像素级的相机控制生成图像和视频帧，并完成3D重建。并且空间和时间都能理解。 李飞飞本人将其视作World Labs的「里程碑式」成果，直接一手置顶：  Atlas为从视觉特效到机器人的众多应用场景打开了大门。      飞飞高徒、英伟达机器人主管Jim Fan也来捧场，指出：这是机器人领域Real-to-Sim的一大步。     具体来说，Atlas是一个多模态自回归扩散Transformer，它的能力包括： 相机控制生成：仅需一张图片，Atlas即可生成具有像素级相机控制的图片和视",
+          "summary_zh": "李飞飞发布：全球首个多模态世界模型  鱼羊 2026-09-02 09:07:13  来源：量子位   一张图补全3D世界，还能给机器人造训练场   鱼羊 发自 凹非寺 量子位 | 公众号 QbitAI  「全球首个」多模态世界模型，来了！ 来自李飞飞World Labs。     World Labs对这个名为Atlas的新一代世界模型，用词可谓毫不克制，「全球首个」之外，slogan也明确强调出，这一次，可不只是生成一段可互动视频了哟：  建模世界，移动相机，模拟空间和时间。  就是说，Atlas能够以像素级的相机控制生成图像和视频帧，并完成3D重建。并且空间和时间都能理解。 李飞飞本人将其视作World Labs的「里程碑式」成果，直接一手置顶：  Atlas为从视觉特效到机器人的众多应用场景打开了大门。      飞飞高徒、英伟达机器人主管Jim Fan也来捧场，指出：这是机器人领域Real-to-Sim的一大步。     具体来说，Atlas是一个多模态自回归扩散Transformer，它的能力包括： 相机控制生成：仅需一张图片，Atlas即可生成具有像素级相机控制的图片和视",
+          "publishedAt": "2026-09-02T01:07:13Z",
+          "published_at": "2026-09-02T01:07:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "9f08e20c",
+          "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/482699.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/482699.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS  量子位的朋友们 2026-09-02 09:44:24  来源：量子位   8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。  8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。该系统面向家庭全场景，原生适配电视、投影、智能家电等多终端，搭载自研星海大模型与四大原生引擎，以“超级小聚”为系统级AI载体，完成家庭AI交互底层重构，实现从被动响应个体指令到主动服务全家需求的代际跃迁。  以“一家人”为设计原点，海信JUOS完成家庭AI系统底层重构 当前手机、车载OS已发展成熟，但真正以“一家人”为设计原点、面向家庭场景的AIOS系统，仍是行业空白。在开创并全球率先量产RGB-Mini LED电视，推动显示迈入原生真彩时代之后，海信将创新边界从显示硬件延伸到底层AI系统。  海信视像科技总裁李炜在发布会上表示，个人AI重在读懂个体需求，而家庭AI需要识别不同家庭成员、理解家庭里的多元场景。基于这一洞察，海信JUOS依托超级小聚系统及AI能力载体，推动家庭AI从等待指令的智能终",
+          "summary_zh": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS  量子位的朋友们 2026-09-02 09:44:24  来源：量子位   8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。  8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。该系统面向家庭全场景，原生适配电视、投影、智能家电等多终端，搭载自研星海大模型与四大原生引擎，以“超级小聚”为系统级AI载体，完成家庭AI交互底层重构，实现从被动响应个体指令到主动服务全家需求的代际跃迁。  以“一家人”为设计原点，海信JUOS完成家庭AI系统底层重构 当前手机、车载OS已发展成熟，但真正以“一家人”为设计原点、面向家庭场景的AIOS系统，仍是行业空白。在开创并全球率先量产RGB-Mini LED电视，推动显示迈入原生真彩时代之后，海信将创新边界从显示硬件延伸到底层AI系统。  海信视像科技总裁李炜在发布会上表示，个人AI重在读懂个体需求，而家庭AI需要识别不同家庭成员、理解家庭里的多元场景。基于这一洞察，海信JUOS依托超级小聚系统及AI能力载体，推动家庭AI从等待指令的智能终",
+          "publishedAt": "2026-09-02T01:44:24Z",
+          "published_at": "2026-09-02T01:44:24Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "7398a9ac",
+          "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/482855.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/482855.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "香港首个真实开放场景服务机器人落地兰桂坊  量子位的朋友们 2026-09-02 10:06:08  来源：量子位   在香港兰桂坊，一位特殊的“酒保”正式上岗  2026年8月31日，粤港澳大湾区具身智能代表企业智平方（AI² Robotics）宣布，在香港兰桂坊，一位特殊的“酒保”正式上岗——搭载原创类脑架构具身大模型的AlphaBot 2（爱宝）机器人，已入驻香港兰桂坊酒吧，为顾客提供打鸡尾酒与互动服务。  这不仅是香港首个真实场景服务机器人上岗国际顶级夜生活地标，更标志着智平方成功跑通了中国具身智能出海的全链路闭环——从硬件出关、清关合规，到取得香港本地饮品售卖资质、建立付费服务体系，爱宝已在真实商业环境中实现合法、合规、可持续的常态化运营。 同时，这也将为兰桂坊带来一种全新的消费与互动体验。 作为香港最具国际化和代表性的夜生活地标之一，兰桂坊一直以独特的消费体验和不断创新的城市活力吸引全球游客。而积极拥抱AI与新技术，也正成为兰桂坊持续升级客户体验的重要方向。智平方爱宝的到来，让机器人真正成为这一体验的一部分。它不只是提供一杯鸡尾酒，更让科技、服务与人与人之间的互动，在真实的",
+          "summary_zh": "香港首个真实开放场景服务机器人落地兰桂坊  量子位的朋友们 2026-09-02 10:06:08  来源：量子位   在香港兰桂坊，一位特殊的“酒保”正式上岗  2026年8月31日，粤港澳大湾区具身智能代表企业智平方（AI² Robotics）宣布，在香港兰桂坊，一位特殊的“酒保”正式上岗——搭载原创类脑架构具身大模型的AlphaBot 2（爱宝）机器人，已入驻香港兰桂坊酒吧，为顾客提供打鸡尾酒与互动服务。  这不仅是香港首个真实场景服务机器人上岗国际顶级夜生活地标，更标志着智平方成功跑通了中国具身智能出海的全链路闭环——从硬件出关、清关合规，到取得香港本地饮品售卖资质、建立付费服务体系，爱宝已在真实商业环境中实现合法、合规、可持续的常态化运营。 同时，这也将为兰桂坊带来一种全新的消费与互动体验。 作为香港最具国际化和代表性的夜生活地标之一，兰桂坊一直以独特的消费体验和不断创新的城市活力吸引全球游客。而积极拥抱AI与新技术，也正成为兰桂坊持续升级客户体验的重要方向。智平方爱宝的到来，让机器人真正成为这一体验的一部分。它不只是提供一杯鸡尾酒，更让科技、服务与人与人之间的互动，在真实的",
+          "publishedAt": "2026-09-02T02:06:08Z",
+          "published_at": "2026-09-02T02:06:08Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0251f99e",
+          "title": "4秒卖出一只的爆款鸭，中国制造，宇树",
+          "title_en": "4秒卖出一只的爆款鸭，中国制造，宇树都来推销电机，复刻比买贵？",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "4秒卖出一只的爆款鸭，中国制造，宇树都来推销电机，复刻比买贵？",
+          "summary_zh": "4秒卖出一只的爆款鸭，中国制造，宇树都来推销电机，复刻比买贵？",
+          "publishedAt": "2026-09-02T22:42:37Z",
+          "published_at": "2026-09-02T22:42:37Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "ce2f5b86",
+      "title": "产品更新：Monid",
+      "title_en": "Monid",
+      "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "OpenRouter for agent tools We connect your AI",
+      "summary_zh": "OpenRouter for agent tools We connect your AI",
+      "publishedAt": "2026-09-02T07:01:00Z",
+      "published_at": "2026-09-02T07:01:00Z",
+      "votes_count": 351,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "4aac9cd2",
+      "title": "AI资讯更新：Browzer",
+      "title_en": "Browzer",
+      "url": "https://www.producthunt.com/products/browzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/browzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Put your technical content on autopilot Connec",
+      "summary_zh": "Put your technical content on autopilot Connec",
+      "publishedAt": "2026-09-02T07:01:00Z",
+      "published_at": "2026-09-02T07:01:00Z",
+      "votes_count": 342,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "29ccc7e5",
+      "title": "产品更新：Articos",
+      "title_en": "Articos",
+      "url": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Launch with confidence, not gut instinct Artic",
+      "summary_zh": "Launch with confidence, not gut instinct Artic",
+      "publishedAt": "2026-09-02T07:01:00Z",
+      "published_at": "2026-09-02T07:01:00Z",
+      "votes_count": 269,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "11da4185",
+      "title": "产品更新：CleanShot 5.0 w",
+      "title_en": "CleanShot 5.0 with Studio Mode",
+      "url": "https://www.producthunt.com/products/cleanshot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cleanshot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Mac-native app for screenshots, recordings and",
+      "summary_zh": "Mac-native app for screenshots, recordings and",
+      "publishedAt": "2026-09-02T07:01:00Z",
+      "published_at": "2026-09-02T07:01:00Z",
+      "votes_count": 197,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ca4723cb",
+      "title": "李飞飞发布：全球首个多模态世界模型",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/482586.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/482586.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "李飞飞发布：全球首个多模态世界模型  鱼羊 2026-09-02 09:07:13  来源：量子位   一张图补全3D世界，还能给机器人造训练场   鱼羊 发自 凹非寺 量子位 | 公众号 QbitAI  「全球首个」多模态世界模型，来了！ 来自李飞飞World Labs。     World Labs对这个名为Atlas的新一代世界模型，用词可谓毫不克制，「全球首个」之外，slogan也明确强调出，这一次，可不只是生成一段可互动视频了哟：  建模世界，移动相机，模拟空间和时间。  就是说，Atlas能够以像素级的相机控制生成图像和视频帧，并完成3D重建。并且空间和时间都能理解。 李飞飞本人将其视作World Labs的「里程碑式」成果，直接一手置顶：  Atlas为从视觉特效到机器人的众多应用场景打开了大门。      飞飞高徒、英伟达机器人主管Jim Fan也来捧场，指出：这是机器人领域Real-to-Sim的一大步。     具体来说，Atlas是一个多模态自回归扩散Transformer，它的能力包括： 相机控制生成：仅需一张图片，Atlas即可生成具有像素级相机控制的图片和视",
+      "summary_zh": "李飞飞发布：全球首个多模态世界模型  鱼羊 2026-09-02 09:07:13  来源：量子位   一张图补全3D世界，还能给机器人造训练场   鱼羊 发自 凹非寺 量子位 | 公众号 QbitAI  「全球首个」多模态世界模型，来了！ 来自李飞飞World Labs。     World Labs对这个名为Atlas的新一代世界模型，用词可谓毫不克制，「全球首个」之外，slogan也明确强调出，这一次，可不只是生成一段可互动视频了哟：  建模世界，移动相机，模拟空间和时间。  就是说，Atlas能够以像素级的相机控制生成图像和视频帧，并完成3D重建。并且空间和时间都能理解。 李飞飞本人将其视作World Labs的「里程碑式」成果，直接一手置顶：  Atlas为从视觉特效到机器人的众多应用场景打开了大门。      飞飞高徒、英伟达机器人主管Jim Fan也来捧场，指出：这是机器人领域Real-to-Sim的一大步。     具体来说，Atlas是一个多模态自回归扩散Transformer，它的能力包括： 相机控制生成：仅需一张图片，Atlas即可生成具有像素级相机控制的图片和视",
+      "publishedAt": "2026-09-02T01:07:13Z",
+      "published_at": "2026-09-02T01:07:13Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "9f08e20c",
+      "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/482699.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/482699.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS  量子位的朋友们 2026-09-02 09:44:24  来源：量子位   8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。  8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。该系统面向家庭全场景，原生适配电视、投影、智能家电等多终端，搭载自研星海大模型与四大原生引擎，以“超级小聚”为系统级AI载体，完成家庭AI交互底层重构，实现从被动响应个体指令到主动服务全家需求的代际跃迁。  以“一家人”为设计原点，海信JUOS完成家庭AI系统底层重构 当前手机、车载OS已发展成熟，但真正以“一家人”为设计原点、面向家庭场景的AIOS系统，仍是行业空白。在开创并全球率先量产RGB-Mini LED电视，推动显示迈入原生真彩时代之后，海信将创新边界从显示硬件延伸到底层AI系统。  海信视像科技总裁李炜在发布会上表示，个人AI重在读懂个体需求，而家庭AI需要识别不同家庭成员、理解家庭里的多元场景。基于这一洞察，海信JUOS依托超级小聚系统及AI能力载体，推动家庭AI从等待指令的智能终",
+      "summary_zh": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS  量子位的朋友们 2026-09-02 09:44:24  来源：量子位   8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。  8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。该系统面向家庭全场景，原生适配电视、投影、智能家电等多终端，搭载自研星海大模型与四大原生引擎，以“超级小聚”为系统级AI载体，完成家庭AI交互底层重构，实现从被动响应个体指令到主动服务全家需求的代际跃迁。  以“一家人”为设计原点，海信JUOS完成家庭AI系统底层重构 当前手机、车载OS已发展成熟，但真正以“一家人”为设计原点、面向家庭场景的AIOS系统，仍是行业空白。在开创并全球率先量产RGB-Mini LED电视，推动显示迈入原生真彩时代之后，海信将创新边界从显示硬件延伸到底层AI系统。  海信视像科技总裁李炜在发布会上表示，个人AI重在读懂个体需求，而家庭AI需要识别不同家庭成员、理解家庭里的多元场景。基于这一洞察，海信JUOS依托超级小聚系统及AI能力载体，推动家庭AI从等待指令的智能终",
+      "publishedAt": "2026-09-02T01:44:24Z",
+      "published_at": "2026-09-02T01:44:24Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "7398a9ac",
+      "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/482855.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/482855.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "香港首个真实开放场景服务机器人落地兰桂坊  量子位的朋友们 2026-09-02 10:06:08  来源：量子位   在香港兰桂坊，一位特殊的“酒保”正式上岗  2026年8月31日，粤港澳大湾区具身智能代表企业智平方（AI² Robotics）宣布，在香港兰桂坊，一位特殊的“酒保”正式上岗——搭载原创类脑架构具身大模型的AlphaBot 2（爱宝）机器人，已入驻香港兰桂坊酒吧，为顾客提供打鸡尾酒与互动服务。  这不仅是香港首个真实场景服务机器人上岗国际顶级夜生活地标，更标志着智平方成功跑通了中国具身智能出海的全链路闭环——从硬件出关、清关合规，到取得香港本地饮品售卖资质、建立付费服务体系，爱宝已在真实商业环境中实现合法、合规、可持续的常态化运营。 同时，这也将为兰桂坊带来一种全新的消费与互动体验。 作为香港最具国际化和代表性的夜生活地标之一，兰桂坊一直以独特的消费体验和不断创新的城市活力吸引全球游客。而积极拥抱AI与新技术，也正成为兰桂坊持续升级客户体验的重要方向。智平方爱宝的到来，让机器人真正成为这一体验的一部分。它不只是提供一杯鸡尾酒，更让科技、服务与人与人之间的互动，在真实的",
+      "summary_zh": "香港首个真实开放场景服务机器人落地兰桂坊  量子位的朋友们 2026-09-02 10:06:08  来源：量子位   在香港兰桂坊，一位特殊的“酒保”正式上岗  2026年8月31日，粤港澳大湾区具身智能代表企业智平方（AI² Robotics）宣布，在香港兰桂坊，一位特殊的“酒保”正式上岗——搭载原创类脑架构具身大模型的AlphaBot 2（爱宝）机器人，已入驻香港兰桂坊酒吧，为顾客提供打鸡尾酒与互动服务。  这不仅是香港首个真实场景服务机器人上岗国际顶级夜生活地标，更标志着智平方成功跑通了中国具身智能出海的全链路闭环——从硬件出关、清关合规，到取得香港本地饮品售卖资质、建立付费服务体系，爱宝已在真实商业环境中实现合法、合规、可持续的常态化运营。 同时，这也将为兰桂坊带来一种全新的消费与互动体验。 作为香港最具国际化和代表性的夜生活地标之一，兰桂坊一直以独特的消费体验和不断创新的城市活力吸引全球游客。而积极拥抱AI与新技术，也正成为兰桂坊持续升级客户体验的重要方向。智平方爱宝的到来，让机器人真正成为这一体验的一部分。它不只是提供一杯鸡尾酒，更让科技、服务与人与人之间的互动，在真实的",
+      "publishedAt": "2026-09-02T02:06:08Z",
+      "published_at": "2026-09-02T02:06:08Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0251f99e",
+      "title": "4秒卖出一只的爆款鸭，中国制造，宇树",
+      "title_en": "4秒卖出一只的爆款鸭，中国制造，宇树都来推销电机，复刻比买贵？",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "4秒卖出一只的爆款鸭，中国制造，宇树都来推销电机，复刻比买贵？",
+      "summary_zh": "4秒卖出一只的爆款鸭，中国制造，宇树都来推销电机，复刻比买贵？",
+      "publishedAt": "2026-09-02T22:42:37Z",
+      "published_at": "2026-09-02T22:42:37Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
