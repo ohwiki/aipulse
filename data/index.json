@@ -1,45 +1,40 @@
 {
-  "generated_at": "2026-09-01T22:39:55Z",
-  "generatedAt": "2026-09-01T22:39:55Z",
+  "generated_at": "2026-09-02T12:52:54Z",
+  "generatedAt": "2026-09-02T12:52:54Z",
   "count": 113,
   "total": 113,
   "entries": [
     {
       "date": "2026-09-02",
-      "generated_at": "2026-09-01T22:39:55Z",
-      "generatedAt": "2026-09-01T22:39:55Z",
+      "generated_at": "2026-09-02T12:52:54Z",
+      "generatedAt": "2026-09-02T12:52:54Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "b3294c09",
-          "title": "产品更新：Kilo Code for J",
-          "title_en": "Kilo Code for JetBrains",
-          "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "4aac9cd2",
+          "title": "AI资讯更新：Browzer",
+          "title_en": "Browzer",
+          "url": "https://www.producthunt.com/products/browzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/browzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Fully native, open-source coding agent built f",
-          "summary_zh": "Fully native, open-source coding agent built f",
-          "publishedAt": "2026-09-01T07:01:00Z",
-          "published_at": "2026-09-01T07:01:00Z",
-          "votes_count": 417,
+          "summary": "Put your technical content on autopilot Connec",
+          "summary_zh": "Put your technical content on autopilot Connec",
+          "publishedAt": "2026-09-02T07:01:00Z",
+          "published_at": "2026-09-02T07:01:00Z",
+          "votes_count": 214,
           "featured": true,
           "topics": [
             {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "247",
-              "name": "Software Engineering",
-              "slug": "software-engineering"
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
             },
             {
               "id": "267",
@@ -55,68 +50,63 @@
           "score_details": null
         },
         {
-          "id": "2346af55",
-          "title": "产品更新：Gauth AI Course",
-          "title_en": "Gauth AI Course",
-          "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "ce2f5b86",
+          "title": "产品更新：Monid",
+          "title_en": "Monid",
+          "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "AI courses you can watch, quiz through, and cr",
-          "summary_zh": "AI courses you can watch, quiz through, and cr",
-          "publishedAt": "2026-09-01T07:01:00Z",
-          "published_at": "2026-09-01T07:01:00Z",
-          "votes_count": 197,
+          "summary": "OpenRouter for agent tools We connect your AI",
+          "summary_zh": "OpenRouter for agent tools We connect your AI",
+          "publishedAt": "2026-09-02T07:01:00Z",
+          "published_at": "2026-09-02T07:01:00Z",
+          "votes_count": 166,
           "featured": true,
           "topics": [
             {
-              "id": "204",
-              "name": "Education",
-              "slug": "education"
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "782",
-              "name": "Online Learning",
-              "slug": "online-learning"
             }
           ],
           "score_details": null
         },
         {
-          "id": "fedbeeeb",
-          "title": "产品更新：Sider Code",
-          "title_en": "Sider Code",
-          "url": "https://www.producthunt.com/products/sider-code-customize-any-website?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "dbdd7f11",
+          "title": "产品更新：Loqua",
+          "title_en": "Loqua",
+          "url": "https://www.producthunt.com/products/loqua?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/sider-code-customize-any-website?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/loqua?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Reshape any website with plain words via Sider",
-          "summary_zh": "Reshape any website with plain words via Sider",
-          "publishedAt": "2026-09-01T07:01:00Z",
-          "published_at": "2026-09-01T07:01:00Z",
-          "votes_count": 180,
+          "summary": "Speak naturally. Move from thoughts to done. Y",
+          "summary_zh": "Speak naturally. Move from thoughts to done. Y",
+          "publishedAt": "2026-09-02T07:01:00Z",
+          "published_at": "2026-09-02T07:01:00Z",
+          "votes_count": 147,
           "featured": true,
           "topics": [
-            {
-              "id": "34",
-              "name": "Chrome Extensions",
-              "slug": "chrome-extensions"
-            },
             {
               "id": "46",
               "name": "Productivity",
@@ -126,6 +116,11 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
             }
           ],
           "score_details": null
