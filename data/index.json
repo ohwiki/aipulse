@@ -1,121 +1,88 @@
 {
-  "generated_at": "2026-09-02T22:43:13Z",
-  "generatedAt": "2026-09-02T22:43:13Z",
+  "generated_at": "2026-09-03T12:56:02Z",
+  "generatedAt": "2026-09-03T12:56:02Z",
   "count": 114,
   "total": 114,
   "entries": [
     {
       "date": "2026-09-03",
-      "generated_at": "2026-09-02T22:43:13Z",
-      "generatedAt": "2026-09-02T22:43:13Z",
-      "total": 8,
+      "generated_at": "2026-09-03T12:56:02Z",
+      "generatedAt": "2026-09-03T12:56:02Z",
+      "total": 6,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "ce2f5b86",
-          "title": "产品更新：Monid",
-          "title_en": "Monid",
-          "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "b8dda0ff",
+          "title": "产品更新：MagiCrew",
+          "title_en": "MagiCrew",
+          "url": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "OpenRouter for agent tools We connect your AI",
-          "summary_zh": "OpenRouter for agent tools We connect your AI",
-          "publishedAt": "2026-09-02T07:01:00Z",
-          "published_at": "2026-09-02T07:01:00Z",
-          "votes_count": 351,
+          "summary": "Give everyone their own AI workforce in one pl",
+          "summary_zh": "Give everyone their own AI workforce in one pl",
+          "publishedAt": "2026-09-03T07:01:00Z",
+          "published_at": "2026-09-03T07:01:00Z",
+          "votes_count": 157,
           "featured": true,
           "topics": [
             {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "4aac9cd2",
-          "title": "AI资讯更新：Browzer",
-          "title_en": "Browzer",
-          "url": "https://www.producthunt.com/products/browzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/browzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Put your technical content on autopilot Connec",
-          "summary_zh": "Put your technical content on autopilot Connec",
-          "publishedAt": "2026-09-02T07:01:00Z",
-          "published_at": "2026-09-02T07:01:00Z",
-          "votes_count": 342,
-          "featured": true,
-          "topics": [
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
             },
             {
               "id": "272",
               "name": "GitHub",
               "slug": "github"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
             }
           ],
           "score_details": null
         },
         {
-          "id": "29ccc7e5",
-          "title": "产品更新：Articos",
-          "title_en": "Articos",
-          "url": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "d26c8c54",
+          "title": "产品更新：Omi",
+          "title_en": "Omi",
+          "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Launch with confidence, not gut instinct Artic",
-          "summary_zh": "Launch with confidence, not gut instinct Artic",
-          "publishedAt": "2026-09-02T07:01:00Z",
-          "published_at": "2026-09-02T07:01:00Z",
-          "votes_count": 269,
+          "summary": "Ask your computer anything you saw or heard Om",
+          "summary_zh": "Ask your computer anything you saw or heard Om",
+          "publishedAt": "2026-09-03T07:01:00Z",
+          "published_at": "2026-09-03T07:01:00Z",
+          "votes_count": 126,
           "featured": true,
           "topics": [
             {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
             },
             {
               "id": "268",
@@ -123,6 +90,28 @@
               "slug": "artificial-intelligence"
             }
           ],
+          "score_details": null
+        },
+        {
+          "id": "cdfe53c4",
+          "title": "机器人不能停下来等模型：星尘发布 S",
+          "title_en": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+          "summary_zh": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+          "publishedAt": "2026-09-03T12:55:26Z",
+          "published_at": "2026-09-03T12:55:26Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
