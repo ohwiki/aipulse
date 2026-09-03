@@ -1,0 +1,513 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-03T22:40:16Z",
+  "generatedAt": "2026-09-03T22:40:16Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "42e18656",
+          "title": "产品更新：Nex",
+          "title_en": "Nex",
+          "url": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Claude Cowork for high-volume GTM workflows Ne",
+          "summary_zh": "Claude Cowork for high-volume GTM workflows Ne",
+          "publishedAt": "2026-09-03T07:01:00Z",
+          "published_at": "2026-09-03T07:01:00Z",
+          "votes_count": 231,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d26c8c54",
+          "title": "产品更新：Omi",
+          "title_en": "Omi",
+          "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Ask your computer anything you saw or heard Om",
+          "summary_zh": "Ask your computer anything you saw or heard Om",
+          "publishedAt": "2026-09-03T07:01:00Z",
+          "published_at": "2026-09-03T07:01:00Z",
+          "votes_count": 227,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b8dda0ff",
+          "title": "产品更新：MagiCrew",
+          "title_en": "MagiCrew",
+          "url": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Give everyone their own AI workforce in one pl",
+          "summary_zh": "Give everyone their own AI workforce in one pl",
+          "publishedAt": "2026-09-03T07:01:00Z",
+          "published_at": "2026-09-03T07:01:00Z",
+          "votes_count": 218,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3f5a56cd",
+          "title": "产品更新：Atlas by World",
+          "title_en": "Atlas by World Labs",
+          "url": "https://www.producthunt.com/products/atlas-by-world-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/atlas-by-world-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Turn text, pics, video, + 3D into camera-contr",
+          "summary_zh": "Turn text, pics, video, + 3D into camera-contr",
+          "publishedAt": "2026-09-03T07:01:00Z",
+          "published_at": "2026-09-03T07:01:00Z",
+          "votes_count": 190,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "803",
+              "name": "3D Modeling",
+              "slug": "3d-modeling"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "f8613b31",
+          "title": "今年最难的机器人Demo，“机器人含量”为0",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/483351.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/483351.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今年最难的机器人Demo，“机器人含量”为0  henry 2026-09-03 08:51:16  来源：量子位   遥操，可能真的危险了   henry 发自 凹非寺 量子位 | 公众号 QbitAI  今年5月，英伟达机器人负责人Jim Fan在一场公开演讲中宣告：VLA、遥操已死。 当时，绝大多数人听到的第一反应都是：从来不缺暴论的AI圈，又多了一条新暴论。 但没想到，几个月后，这句当时听起来有点夸张的话，居然真的开始照进现实。 刚刚，自变量发布全新灵巧操作系统TwinDex。在后训练阶段真机遥操数据为0的情况下，机器人连续完成了化学实验场景中，旋拧瓶盖、注射器推注等多项精细操作。 要知道，以往想让机器人学会这类精细操作，还真少不了真机遥操数据来“手把手”教学。 但TwinDex这次，直接把这部分数据需求给砍没了，取而代之的是区区几百条无本体数据，机器人含量几乎为0～ 这是怎么做到的？ 遥操，可能真的危险了 俗话说，好的Demo，值得细细品鉴。 TwinDEX这次放出的Demo里，最完整的一段，是一套一镜到底的化学实验： 从开瓶取样、滴管与试管操作，到玻璃棒引流、摇匀观察，全程",
+          "summary_zh": "今年最难的机器人Demo，“机器人含量”为0  henry 2026-09-03 08:51:16  来源：量子位   遥操，可能真的危险了   henry 发自 凹非寺 量子位 | 公众号 QbitAI  今年5月，英伟达机器人负责人Jim Fan在一场公开演讲中宣告：VLA、遥操已死。 当时，绝大多数人听到的第一反应都是：从来不缺暴论的AI圈，又多了一条新暴论。 但没想到，几个月后，这句当时听起来有点夸张的话，居然真的开始照进现实。 刚刚，自变量发布全新灵巧操作系统TwinDex。在后训练阶段真机遥操数据为0的情况下，机器人连续完成了化学实验场景中，旋拧瓶盖、注射器推注等多项精细操作。 要知道，以往想让机器人学会这类精细操作，还真少不了真机遥操数据来“手把手”教学。 但TwinDex这次，直接把这部分数据需求给砍没了，取而代之的是区区几百条无本体数据，机器人含量几乎为0～ 这是怎么做到的？ 遥操，可能真的危险了 俗话说，好的Demo，值得细细品鉴。 TwinDEX这次放出的Demo里，最完整的一段，是一套一镜到底的化学实验： 从开瓶取样、滴管与试管操作，到玻璃棒引流、摇匀观察，全程",
+          "publishedAt": "2026-09-03T00:51:16Z",
+          "published_at": "2026-09-03T00:51:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "2f75c2e7",
+          "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/483552.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/483552.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光  林, 方舟 2026-09-03 09:31:45  来源：量子位    诺亚 发自 凹非寺 量子位 | 公众号 QbitAI  还记得上周具身圈流传的那个神秘10分钟一镜到底视频吗？ 视频一出，网友们表示：不敢相信，仿佛天外来物…… 甚至给出了最高评价：是AI生成的吧？！ 同行跑来打听到底是哪家的，听说有头部公司专门开会研究……我们的后台都被各路网友问爆了。 看完这个十分钟的一镜到底视频，大家说具身智能的ChatGPT时刻可能真来了，有人说这是具身智能的重要里程碑，也有人说这是创新的架构。因为它让人看到了：  机器人具有一定认知能力，而不是概率预测； 机器人理解人类行为逻辑，而非过拟合； 机器人拥有持续自进化的能力，有很多令人惊叹的瞬间。  当然，由于机器人表现得太过“科幻”，也有一些不相信的人质疑：这是不是遥操的？（虽然团队说这么小的空间真的不知道怎么遥操） 而这个神秘团队，回应质疑的方式也很特别：他们又一连甩出了另外几个demo，依旧粗糙，依旧一镜到底，仿佛想说： “智能，不管你信或不信，它真的要来了。”",
+          "summary_zh": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光  林, 方舟 2026-09-03 09:31:45  来源：量子位    诺亚 发自 凹非寺 量子位 | 公众号 QbitAI  还记得上周具身圈流传的那个神秘10分钟一镜到底视频吗？ 视频一出，网友们表示：不敢相信，仿佛天外来物…… 甚至给出了最高评价：是AI生成的吧？！ 同行跑来打听到底是哪家的，听说有头部公司专门开会研究……我们的后台都被各路网友问爆了。 看完这个十分钟的一镜到底视频，大家说具身智能的ChatGPT时刻可能真来了，有人说这是具身智能的重要里程碑，也有人说这是创新的架构。因为它让人看到了：  机器人具有一定认知能力，而不是概率预测； 机器人理解人类行为逻辑，而非过拟合； 机器人拥有持续自进化的能力，有很多令人惊叹的瞬间。  当然，由于机器人表现得太过“科幻”，也有一些不相信的人质疑：这是不是遥操的？（虽然团队说这么小的空间真的不知道怎么遥操） 而这个神秘团队，回应质疑的方式也很特别：他们又一连甩出了另外几个demo，依旧粗糙，依旧一镜到底，仿佛想说： “智能，不管你信或不信，它真的要来了。”",
+          "publishedAt": "2026-09-03T01:31:45Z",
+          "published_at": "2026-09-03T01:31:45Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "d437f4c2",
+          "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/483565.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/483565.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠  思邈 2026-09-03 11:16:43  来源：量子位   从工厂一路干到家庭   允中 发自 凹非寺 量子位 | 公众号 QbitAI  长期以来，机器人系统大多依赖专有模型。 一旦物体、场景或控制方式发生变化，往往就要重新进行数据采集、模型训练和部署调试。 如今，具身智能正步入以规模化落地为核心的下半场，较量的已不再是能否完成单点任务，而是同一套智能系统能否跨越环境、本体与任务边界，实现能力迁移与复用。 近日，它石智航通用具身大模型AWE3.7（AI World Engine）在十天内连续密集发布一系列任务，用同一颗“具身大脑”，贯通工业产线、物流作业、生活服务与移动操作等多场景，以真实任务回应了具身智能如何实现“通用泛化”这一行业命题。 工业产线：精度、力度与稳定性的三重考验 工业现场是检验具身智能的硬尺度——毫米级对位、实时力控和长时稳定缺一不可。 它石AWE3.7在同一套基座模型下，把精细操作做到了产线级水准。 在零件分拣作业中，面对随机散落的螺丝、螺母，机器人要分辨其中的微小差异，抓取细小零件分别投放至对应铁盒",
+          "summary_zh": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠  思邈 2026-09-03 11:16:43  来源：量子位   从工厂一路干到家庭   允中 发自 凹非寺 量子位 | 公众号 QbitAI  长期以来，机器人系统大多依赖专有模型。 一旦物体、场景或控制方式发生变化，往往就要重新进行数据采集、模型训练和部署调试。 如今，具身智能正步入以规模化落地为核心的下半场，较量的已不再是能否完成单点任务，而是同一套智能系统能否跨越环境、本体与任务边界，实现能力迁移与复用。 近日，它石智航通用具身大模型AWE3.7（AI World Engine）在十天内连续密集发布一系列任务，用同一颗“具身大脑”，贯通工业产线、物流作业、生活服务与移动操作等多场景，以真实任务回应了具身智能如何实现“通用泛化”这一行业命题。 工业产线：精度、力度与稳定性的三重考验 工业现场是检验具身智能的硬尺度——毫米级对位、实时力控和长时稳定缺一不可。 它石AWE3.7在同一套基座模型下，把精细操作做到了产线级水准。 在零件分拣作业中，面对随机散落的螺丝、螺母，机器人要分辨其中的微小差异，抓取细小零件分别投放至对应铁盒",
+          "publishedAt": "2026-09-03T03:16:43Z",
+          "published_at": "2026-09-03T03:16:43Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "cdfe53c4",
+          "title": "机器人不能停下来等模型：星尘发布 S",
+          "title_en": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+          "summary_zh": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+          "publishedAt": "2026-09-03T22:39:42Z",
+          "published_at": "2026-09-03T22:39:42Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "42e18656",
+      "title": "产品更新：Nex",
+      "title_en": "Nex",
+      "url": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Claude Cowork for high-volume GTM workflows Ne",
+      "summary_zh": "Claude Cowork for high-volume GTM workflows Ne",
+      "publishedAt": "2026-09-03T07:01:00Z",
+      "published_at": "2026-09-03T07:01:00Z",
+      "votes_count": 231,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d26c8c54",
+      "title": "产品更新：Omi",
+      "title_en": "Omi",
+      "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Ask your computer anything you saw or heard Om",
+      "summary_zh": "Ask your computer anything you saw or heard Om",
+      "publishedAt": "2026-09-03T07:01:00Z",
+      "published_at": "2026-09-03T07:01:00Z",
+      "votes_count": 227,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b8dda0ff",
+      "title": "产品更新：MagiCrew",
+      "title_en": "MagiCrew",
+      "url": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Give everyone their own AI workforce in one pl",
+      "summary_zh": "Give everyone their own AI workforce in one pl",
+      "publishedAt": "2026-09-03T07:01:00Z",
+      "published_at": "2026-09-03T07:01:00Z",
+      "votes_count": 218,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3f5a56cd",
+      "title": "产品更新：Atlas by World",
+      "title_en": "Atlas by World Labs",
+      "url": "https://www.producthunt.com/products/atlas-by-world-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/atlas-by-world-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn text, pics, video, + 3D into camera-contr",
+      "summary_zh": "Turn text, pics, video, + 3D into camera-contr",
+      "publishedAt": "2026-09-03T07:01:00Z",
+      "published_at": "2026-09-03T07:01:00Z",
+      "votes_count": 190,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "803",
+          "name": "3D Modeling",
+          "slug": "3d-modeling"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "f8613b31",
+      "title": "今年最难的机器人Demo，“机器人含量”为0",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/483351.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483351.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今年最难的机器人Demo，“机器人含量”为0  henry 2026-09-03 08:51:16  来源：量子位   遥操，可能真的危险了   henry 发自 凹非寺 量子位 | 公众号 QbitAI  今年5月，英伟达机器人负责人Jim Fan在一场公开演讲中宣告：VLA、遥操已死。 当时，绝大多数人听到的第一反应都是：从来不缺暴论的AI圈，又多了一条新暴论。 但没想到，几个月后，这句当时听起来有点夸张的话，居然真的开始照进现实。 刚刚，自变量发布全新灵巧操作系统TwinDex。在后训练阶段真机遥操数据为0的情况下，机器人连续完成了化学实验场景中，旋拧瓶盖、注射器推注等多项精细操作。 要知道，以往想让机器人学会这类精细操作，还真少不了真机遥操数据来“手把手”教学。 但TwinDex这次，直接把这部分数据需求给砍没了，取而代之的是区区几百条无本体数据，机器人含量几乎为0～ 这是怎么做到的？ 遥操，可能真的危险了 俗话说，好的Demo，值得细细品鉴。 TwinDEX这次放出的Demo里，最完整的一段，是一套一镜到底的化学实验： 从开瓶取样、滴管与试管操作，到玻璃棒引流、摇匀观察，全程",
+      "summary_zh": "今年最难的机器人Demo，“机器人含量”为0  henry 2026-09-03 08:51:16  来源：量子位   遥操，可能真的危险了   henry 发自 凹非寺 量子位 | 公众号 QbitAI  今年5月，英伟达机器人负责人Jim Fan在一场公开演讲中宣告：VLA、遥操已死。 当时，绝大多数人听到的第一反应都是：从来不缺暴论的AI圈，又多了一条新暴论。 但没想到，几个月后，这句当时听起来有点夸张的话，居然真的开始照进现实。 刚刚，自变量发布全新灵巧操作系统TwinDex。在后训练阶段真机遥操数据为0的情况下，机器人连续完成了化学实验场景中，旋拧瓶盖、注射器推注等多项精细操作。 要知道，以往想让机器人学会这类精细操作，还真少不了真机遥操数据来“手把手”教学。 但TwinDex这次，直接把这部分数据需求给砍没了，取而代之的是区区几百条无本体数据，机器人含量几乎为0～ 这是怎么做到的？ 遥操，可能真的危险了 俗话说，好的Demo，值得细细品鉴。 TwinDEX这次放出的Demo里，最完整的一段，是一套一镜到底的化学实验： 从开瓶取样、滴管与试管操作，到玻璃棒引流、摇匀观察，全程",
+      "publishedAt": "2026-09-03T00:51:16Z",
+      "published_at": "2026-09-03T00:51:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "2f75c2e7",
+      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/483552.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483552.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光  林, 方舟 2026-09-03 09:31:45  来源：量子位    诺亚 发自 凹非寺 量子位 | 公众号 QbitAI  还记得上周具身圈流传的那个神秘10分钟一镜到底视频吗？ 视频一出，网友们表示：不敢相信，仿佛天外来物…… 甚至给出了最高评价：是AI生成的吧？！ 同行跑来打听到底是哪家的，听说有头部公司专门开会研究……我们的后台都被各路网友问爆了。 看完这个十分钟的一镜到底视频，大家说具身智能的ChatGPT时刻可能真来了，有人说这是具身智能的重要里程碑，也有人说这是创新的架构。因为它让人看到了：  机器人具有一定认知能力，而不是概率预测； 机器人理解人类行为逻辑，而非过拟合； 机器人拥有持续自进化的能力，有很多令人惊叹的瞬间。  当然，由于机器人表现得太过“科幻”，也有一些不相信的人质疑：这是不是遥操的？（虽然团队说这么小的空间真的不知道怎么遥操） 而这个神秘团队，回应质疑的方式也很特别：他们又一连甩出了另外几个demo，依旧粗糙，依旧一镜到底，仿佛想说： “智能，不管你信或不信，它真的要来了。”",
+      "summary_zh": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光  林, 方舟 2026-09-03 09:31:45  来源：量子位    诺亚 发自 凹非寺 量子位 | 公众号 QbitAI  还记得上周具身圈流传的那个神秘10分钟一镜到底视频吗？ 视频一出，网友们表示：不敢相信，仿佛天外来物…… 甚至给出了最高评价：是AI生成的吧？！ 同行跑来打听到底是哪家的，听说有头部公司专门开会研究……我们的后台都被各路网友问爆了。 看完这个十分钟的一镜到底视频，大家说具身智能的ChatGPT时刻可能真来了，有人说这是具身智能的重要里程碑，也有人说这是创新的架构。因为它让人看到了：  机器人具有一定认知能力，而不是概率预测； 机器人理解人类行为逻辑，而非过拟合； 机器人拥有持续自进化的能力，有很多令人惊叹的瞬间。  当然，由于机器人表现得太过“科幻”，也有一些不相信的人质疑：这是不是遥操的？（虽然团队说这么小的空间真的不知道怎么遥操） 而这个神秘团队，回应质疑的方式也很特别：他们又一连甩出了另外几个demo，依旧粗糙，依旧一镜到底，仿佛想说： “智能，不管你信或不信，它真的要来了。”",
+      "publishedAt": "2026-09-03T01:31:45Z",
+      "published_at": "2026-09-03T01:31:45Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "d437f4c2",
+      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/483565.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483565.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠  思邈 2026-09-03 11:16:43  来源：量子位   从工厂一路干到家庭   允中 发自 凹非寺 量子位 | 公众号 QbitAI  长期以来，机器人系统大多依赖专有模型。 一旦物体、场景或控制方式发生变化，往往就要重新进行数据采集、模型训练和部署调试。 如今，具身智能正步入以规模化落地为核心的下半场，较量的已不再是能否完成单点任务，而是同一套智能系统能否跨越环境、本体与任务边界，实现能力迁移与复用。 近日，它石智航通用具身大模型AWE3.7（AI World Engine）在十天内连续密集发布一系列任务，用同一颗“具身大脑”，贯通工业产线、物流作业、生活服务与移动操作等多场景，以真实任务回应了具身智能如何实现“通用泛化”这一行业命题。 工业产线：精度、力度与稳定性的三重考验 工业现场是检验具身智能的硬尺度——毫米级对位、实时力控和长时稳定缺一不可。 它石AWE3.7在同一套基座模型下，把精细操作做到了产线级水准。 在零件分拣作业中，面对随机散落的螺丝、螺母，机器人要分辨其中的微小差异，抓取细小零件分别投放至对应铁盒",
+      "summary_zh": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠  思邈 2026-09-03 11:16:43  来源：量子位   从工厂一路干到家庭   允中 发自 凹非寺 量子位 | 公众号 QbitAI  长期以来，机器人系统大多依赖专有模型。 一旦物体、场景或控制方式发生变化，往往就要重新进行数据采集、模型训练和部署调试。 如今，具身智能正步入以规模化落地为核心的下半场，较量的已不再是能否完成单点任务，而是同一套智能系统能否跨越环境、本体与任务边界，实现能力迁移与复用。 近日，它石智航通用具身大模型AWE3.7（AI World Engine）在十天内连续密集发布一系列任务，用同一颗“具身大脑”，贯通工业产线、物流作业、生活服务与移动操作等多场景，以真实任务回应了具身智能如何实现“通用泛化”这一行业命题。 工业产线：精度、力度与稳定性的三重考验 工业现场是检验具身智能的硬尺度——毫米级对位、实时力控和长时稳定缺一不可。 它石AWE3.7在同一套基座模型下，把精细操作做到了产线级水准。 在零件分拣作业中，面对随机散落的螺丝、螺母，机器人要分辨其中的微小差异，抓取细小零件分别投放至对应铁盒",
+      "publishedAt": "2026-09-03T03:16:43Z",
+      "published_at": "2026-09-03T03:16:43Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "cdfe53c4",
+      "title": "机器人不能停下来等模型：星尘发布 S",
+      "title_en": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "summary_zh": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "publishedAt": "2026-09-03T22:39:42Z",
+      "published_at": "2026-09-03T22:39:42Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

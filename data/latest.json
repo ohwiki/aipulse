@@ -1,10 +1,86 @@
 {
-  "generated_at": "2026-09-03T12:56:02Z",
-  "generatedAt": "2026-09-03T12:56:02Z",
+  "generated_at": "2026-09-03T22:40:16Z",
+  "generatedAt": "2026-09-03T22:40:16Z",
   "days": 7,
-  "total": 6,
-  "count": 6,
+  "total": 8,
+  "count": 8,
   "items": [
+    {
+      "id": "42e18656",
+      "title": "产品更新：Nex",
+      "title_en": "Nex",
+      "url": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Claude Cowork for high-volume GTM workflows Ne",
+      "summary_zh": "Claude Cowork for high-volume GTM workflows Ne",
+      "publishedAt": "2026-09-03T07:01:00Z",
+      "published_at": "2026-09-03T07:01:00Z",
+      "votes_count": 231,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d26c8c54",
+      "title": "产品更新：Omi",
+      "title_en": "Omi",
+      "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Ask your computer anything you saw or heard Om",
+      "summary_zh": "Ask your computer anything you saw or heard Om",
+      "publishedAt": "2026-09-03T07:01:00Z",
+      "published_at": "2026-09-03T07:01:00Z",
+      "votes_count": 227,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "b8dda0ff",
       "title": "产品更新：MagiCrew",
@@ -22,7 +98,7 @@
       "summary_zh": "Give everyone their own AI workforce in one pl",
       "publishedAt": "2026-09-03T07:01:00Z",
       "published_at": "2026-09-03T07:01:00Z",
-      "votes_count": 157,
+      "votes_count": 218,
       "featured": true,
       "topics": [
         {
@@ -49,39 +125,39 @@
       "score_details": null
     },
     {
-      "id": "d26c8c54",
-      "title": "产品更新：Omi",
-      "title_en": "Omi",
-      "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "3f5a56cd",
+      "title": "产品更新：Atlas by World",
+      "title_en": "Atlas by World Labs",
+      "url": "https://www.producthunt.com/products/atlas-by-world-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/atlas-by-world-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Ask your computer anything you saw or heard Om",
-      "summary_zh": "Ask your computer anything you saw or heard Om",
+      "summary": "Turn text, pics, video, + 3D into camera-contr",
+      "summary_zh": "Turn text, pics, video, + 3D into camera-contr",
       "publishedAt": "2026-09-03T07:01:00Z",
       "published_at": "2026-09-03T07:01:00Z",
-      "votes_count": 126,
+      "votes_count": 190,
       "featured": true,
       "topics": [
         {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "89",
-          "name": "Open Source",
-          "slug": "open-source"
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
         },
         {
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
+        },
+        {
+          "id": "803",
+          "name": "3D Modeling",
+          "slug": "3d-modeling"
         }
       ],
       "score_details": null
@@ -167,8 +243,8 @@
       "rankingScore": 5.0,
       "summary": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
       "summary_zh": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-      "publishedAt": "2026-09-03T12:55:26Z",
-      "published_at": "2026-09-03T12:55:26Z",
+      "publishedAt": "2026-09-03T22:39:42Z",
+      "published_at": "2026-09-03T22:39:42Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

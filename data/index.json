@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-09-03T12:56:02Z",
-  "generatedAt": "2026-09-03T12:56:02Z",
-  "count": 114,
-  "total": 114,
+  "generated_at": "2026-09-03T22:40:16Z",
+  "generatedAt": "2026-09-03T22:40:16Z",
+  "count": 115,
+  "total": 115,
   "entries": [
+    {
+      "date": "2026-09-04",
+      "generated_at": "2026-09-03T22:40:16Z",
+      "generatedAt": "2026-09-03T22:40:16Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "42e18656",
+          "title": "产品更新：Nex",
+          "title_en": "Nex",
+          "url": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Claude Cowork for high-volume GTM workflows Ne",
+          "summary_zh": "Claude Cowork for high-volume GTM workflows Ne",
+          "publishedAt": "2026-09-03T07:01:00Z",
+          "published_at": "2026-09-03T07:01:00Z",
+          "votes_count": 231,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d26c8c54",
+          "title": "产品更新：Omi",
+          "title_en": "Omi",
+          "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Ask your computer anything you saw or heard Om",
+          "summary_zh": "Ask your computer anything you saw or heard Om",
+          "publishedAt": "2026-09-03T07:01:00Z",
+          "published_at": "2026-09-03T07:01:00Z",
+          "votes_count": 227,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b8dda0ff",
+          "title": "产品更新：MagiCrew",
+          "title_en": "MagiCrew",
+          "url": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Give everyone their own AI workforce in one pl",
+          "summary_zh": "Give everyone their own AI workforce in one pl",
+          "publishedAt": "2026-09-03T07:01:00Z",
+          "published_at": "2026-09-03T07:01:00Z",
+          "votes_count": 218,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-03",
       "generated_at": "2026-09-03T12:56:02Z",
