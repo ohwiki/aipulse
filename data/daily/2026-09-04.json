@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-03T22:40:16Z",
-  "generatedAt": "2026-09-03T22:40:16Z",
+  "generated_at": "2026-09-04T12:50:05Z",
+  "generatedAt": "2026-09-04T12:50:05Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -10,61 +10,23 @@
       "label": "产品发布/更新",
       "items": [
         {
-          "id": "42e18656",
-          "title": "产品更新：Nex",
-          "title_en": "Nex",
-          "url": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "92a56a62",
+          "title": "产品更新：GPT-6 Astra",
+          "title_en": "GPT-6 Astra",
+          "url": "https://www.producthunt.com/products/gpt-6-astra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/gpt-6-astra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "Claude Cowork for high-volume GTM workflows Ne",
-          "summary_zh": "Claude Cowork for high-volume GTM workflows Ne",
-          "publishedAt": "2026-09-03T07:01:00Z",
-          "published_at": "2026-09-03T07:01:00Z",
-          "votes_count": 231,
-          "featured": true,
-          "topics": [
-            {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
-            },
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "d26c8c54",
-          "title": "产品更新：Omi",
-          "title_en": "Omi",
-          "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Ask your computer anything you saw or heard Om",
-          "summary_zh": "Ask your computer anything you saw or heard Om",
-          "publishedAt": "2026-09-03T07:01:00Z",
-          "published_at": "2026-09-03T07:01:00Z",
-          "votes_count": 227,
+          "summary": "OpenAI's most capable model for end-to-end wor",
+          "summary_zh": "OpenAI's most capable model for end-to-end wor",
+          "publishedAt": "2026-09-04T07:01:00Z",
+          "published_at": "2026-09-04T07:01:00Z",
+          "votes_count": 187,
           "featured": true,
           "topics": [
             {
@@ -72,82 +34,6 @@
               "name": "Productivity",
               "slug": "productivity"
             },
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "b8dda0ff",
-          "title": "产品更新：MagiCrew",
-          "title_en": "MagiCrew",
-          "url": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Give everyone their own AI workforce in one pl",
-          "summary_zh": "Give everyone their own AI workforce in one pl",
-          "publishedAt": "2026-09-03T07:01:00Z",
-          "published_at": "2026-09-03T07:01:00Z",
-          "votes_count": 218,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "470",
-              "name": "No-Code",
-              "slug": "no-code"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "3f5a56cd",
-          "title": "产品更新：Atlas by World",
-          "title_en": "Atlas by World Labs",
-          "url": "https://www.producthunt.com/products/atlas-by-world-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/atlas-by-world-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Turn text, pics, video, + 3D into camera-contr",
-          "summary_zh": "Turn text, pics, video, + 3D into camera-contr",
-          "publishedAt": "2026-09-03T07:01:00Z",
-          "published_at": "2026-09-03T07:01:00Z",
-          "votes_count": 190,
-          "featured": true,
-          "topics": [
             {
               "id": "267",
               "name": "Developer Tools",
@@ -157,11 +43,125 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e92ef8d2",
+          "title": "AI资讯更新：myAIcademy",
+          "title_en": "myAIcademy",
+          "url": "https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Learn AI skills for your specific role and tea",
+          "summary_zh": "Learn AI skills for your specific role and tea",
+          "publishedAt": "2026-09-04T07:01:00Z",
+          "published_at": "2026-09-04T07:01:00Z",
+          "votes_count": 172,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
             },
             {
-              "id": "803",
-              "name": "3D Modeling",
-              "slug": "3d-modeling"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4e4d099a",
+          "title": "AI资讯更新：Compliance by",
+          "title_en": "Compliance by TwelveLabs",
+          "url": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Video compliance review powered by rules you c",
+          "summary_zh": "Video compliance review powered by rules you c",
+          "publishedAt": "2026-09-04T07:01:00Z",
+          "published_at": "2026-09-04T07:01:00Z",
+          "votes_count": 164,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "df6a08e0",
+          "title": "产品更新：Google Gemini 3",
+          "title_en": "Google Gemini 3.8 Flash and Cyber",
+          "url": "https://www.producthunt.com/products/gemini-3-8-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gemini-3-8-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Next-gen Gemini for agents, reasoning, and cyb",
+          "summary_zh": "Next-gen Gemini for agents, reasoning, and cyb",
+          "publishedAt": "2026-09-04T07:01:00Z",
+          "published_at": "2026-09-04T07:01:00Z",
+          "votes_count": 144,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
             }
           ],
           "score_details": null
@@ -173,75 +173,75 @@
       "label": "中文媒体精选",
       "items": [
         {
-          "id": "f8613b31",
-          "title": "今年最难的机器人Demo，“机器人含量”为0",
+          "id": "dd5a4c87",
+          "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/09/483351.html",
+          "url": "https://www.qbitai.com/2026/09/483948.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/09/483351.html",
+          "sourceUrl": "https://www.qbitai.com/2026/09/483948.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "今年最难的机器人Demo，“机器人含量”为0  henry 2026-09-03 08:51:16  来源：量子位   遥操，可能真的危险了   henry 发自 凹非寺 量子位 | 公众号 QbitAI  今年5月，英伟达机器人负责人Jim Fan在一场公开演讲中宣告：VLA、遥操已死。 当时，绝大多数人听到的第一反应都是：从来不缺暴论的AI圈，又多了一条新暴论。 但没想到，几个月后，这句当时听起来有点夸张的话，居然真的开始照进现实。 刚刚，自变量发布全新灵巧操作系统TwinDex。在后训练阶段真机遥操数据为0的情况下，机器人连续完成了化学实验场景中，旋拧瓶盖、注射器推注等多项精细操作。 要知道，以往想让机器人学会这类精细操作，还真少不了真机遥操数据来“手把手”教学。 但TwinDex这次，直接把这部分数据需求给砍没了，取而代之的是区区几百条无本体数据，机器人含量几乎为0～ 这是怎么做到的？ 遥操，可能真的危险了 俗话说，好的Demo，值得细细品鉴。 TwinDEX这次放出的Demo里，最完整的一段，是一套一镜到底的化学实验： 从开瓶取样、滴管与试管操作，到玻璃棒引流、摇匀观察，全程",
-          "summary_zh": "今年最难的机器人Demo，“机器人含量”为0  henry 2026-09-03 08:51:16  来源：量子位   遥操，可能真的危险了   henry 发自 凹非寺 量子位 | 公众号 QbitAI  今年5月，英伟达机器人负责人Jim Fan在一场公开演讲中宣告：VLA、遥操已死。 当时，绝大多数人听到的第一反应都是：从来不缺暴论的AI圈，又多了一条新暴论。 但没想到，几个月后，这句当时听起来有点夸张的话，居然真的开始照进现实。 刚刚，自变量发布全新灵巧操作系统TwinDex。在后训练阶段真机遥操数据为0的情况下，机器人连续完成了化学实验场景中，旋拧瓶盖、注射器推注等多项精细操作。 要知道，以往想让机器人学会这类精细操作，还真少不了真机遥操数据来“手把手”教学。 但TwinDex这次，直接把这部分数据需求给砍没了，取而代之的是区区几百条无本体数据，机器人含量几乎为0～ 这是怎么做到的？ 遥操，可能真的危险了 俗话说，好的Demo，值得细细品鉴。 TwinDEX这次放出的Demo里，最完整的一段，是一套一镜到底的化学实验： 从开瓶取样、滴管与试管操作，到玻璃棒引流、摇匀观察，全程",
-          "publishedAt": "2026-09-03T00:51:16Z",
-          "published_at": "2026-09-03T00:51:16Z",
+          "summary": "新版GPT Image 2.5已经能伪造GPT-6发布会了  闻乐 2026-09-04 05:57:08  来源：量子位   改进GPT Image 2的噪点问题   编辑部 发自 凹非寺 量子位 | 公众号 QbitAI  GPT-6发布会，主持人居然是赛博义父Tibo？  其实这是新版生图模型GPT Image 2.5伪造的。 虽然还没正式发布，但已经有人收到ChatGPT中新的弹窗提示。  与之前猜测叫GPT Image 2.1不同，版本号直接来到2.5，看来升级幅度不小。  那么，GPT Image 2.5有多强？ 根据目传播的测试结果，大概是可以直接伪造GPT-6官方发布会以及奥特曼全员信的程度。。。  生成一张奥特曼发推的截图，除了头像不对之外，文字也是毫无破绽。  提示词：用手机拍摄一张写实风格的手写文章照片，文章是用铅笔写在8.5×11英寸的横格纸上的，字迹要像爱因斯坦的笔迹，内容是关于世界货币的历史。确保字迹有明显的爱因斯坦式变化。在右上角添加一点咖啡渍。  那么爱因斯坦笔迹什么样呢，放一张照片对比一下。  在LMArena竞技场上，代号luna-lisa-alph",
+          "summary_zh": "新版GPT Image 2.5已经能伪造GPT-6发布会了  闻乐 2026-09-04 05:57:08  来源：量子位   改进GPT Image 2的噪点问题   编辑部 发自 凹非寺 量子位 | 公众号 QbitAI  GPT-6发布会，主持人居然是赛博义父Tibo？  其实这是新版生图模型GPT Image 2.5伪造的。 虽然还没正式发布，但已经有人收到ChatGPT中新的弹窗提示。  与之前猜测叫GPT Image 2.1不同，版本号直接来到2.5，看来升级幅度不小。  那么，GPT Image 2.5有多强？ 根据目传播的测试结果，大概是可以直接伪造GPT-6官方发布会以及奥特曼全员信的程度。。。  生成一张奥特曼发推的截图，除了头像不对之外，文字也是毫无破绽。  提示词：用手机拍摄一张写实风格的手写文章照片，文章是用铅笔写在8.5×11英寸的横格纸上的，字迹要像爱因斯坦的笔迹，内容是关于世界货币的历史。确保字迹有明显的爱因斯坦式变化。在右上角添加一点咖啡渍。  那么爱因斯坦笔迹什么样呢，放一张照片对比一下。  在LMArena竞技场上，代号luna-lisa-alph",
+          "publishedAt": "2026-09-03T21:57:08Z",
+          "published_at": "2026-09-03T21:57:08Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "2f75c2e7",
-          "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+          "id": "0769410c",
+          "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/09/483552.html",
+          "url": "https://www.qbitai.com/2026/09/483598.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/09/483552.html",
+          "sourceUrl": "https://www.qbitai.com/2026/09/483598.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光  林, 方舟 2026-09-03 09:31:45  来源：量子位    诺亚 发自 凹非寺 量子位 | 公众号 QbitAI  还记得上周具身圈流传的那个神秘10分钟一镜到底视频吗？ 视频一出，网友们表示：不敢相信，仿佛天外来物…… 甚至给出了最高评价：是AI生成的吧？！ 同行跑来打听到底是哪家的，听说有头部公司专门开会研究……我们的后台都被各路网友问爆了。 看完这个十分钟的一镜到底视频，大家说具身智能的ChatGPT时刻可能真来了，有人说这是具身智能的重要里程碑，也有人说这是创新的架构。因为它让人看到了：  机器人具有一定认知能力，而不是概率预测； 机器人理解人类行为逻辑，而非过拟合； 机器人拥有持续自进化的能力，有很多令人惊叹的瞬间。  当然，由于机器人表现得太过“科幻”，也有一些不相信的人质疑：这是不是遥操的？（虽然团队说这么小的空间真的不知道怎么遥操） 而这个神秘团队，回应质疑的方式也很特别：他们又一连甩出了另外几个demo，依旧粗糙，依旧一镜到底，仿佛想说： “智能，不管你信或不信，它真的要来了。”",
-          "summary_zh": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光  林, 方舟 2026-09-03 09:31:45  来源：量子位    诺亚 发自 凹非寺 量子位 | 公众号 QbitAI  还记得上周具身圈流传的那个神秘10分钟一镜到底视频吗？ 视频一出，网友们表示：不敢相信，仿佛天外来物…… 甚至给出了最高评价：是AI生成的吧？！ 同行跑来打听到底是哪家的，听说有头部公司专门开会研究……我们的后台都被各路网友问爆了。 看完这个十分钟的一镜到底视频，大家说具身智能的ChatGPT时刻可能真来了，有人说这是具身智能的重要里程碑，也有人说这是创新的架构。因为它让人看到了：  机器人具有一定认知能力，而不是概率预测； 机器人理解人类行为逻辑，而非过拟合； 机器人拥有持续自进化的能力，有很多令人惊叹的瞬间。  当然，由于机器人表现得太过“科幻”，也有一些不相信的人质疑：这是不是遥操的？（虽然团队说这么小的空间真的不知道怎么遥操） 而这个神秘团队，回应质疑的方式也很特别：他们又一连甩出了另外几个demo，依旧粗糙，依旧一镜到底，仿佛想说： “智能，不管你信或不信，它真的要来了。”",
-          "publishedAt": "2026-09-03T01:31:45Z",
-          "published_at": "2026-09-03T01:31:45Z",
+          "summary": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”  思邈 2026-09-04 09:40:42  来源：量子位   吃下90%市场   允中 发自 凹非寺 量子位 | 公众号 QbitAI  2026年9月3日，嬴彻科技宣布其卡车自动驾驶商业运营里程突破10亿公里，形成行业最大规模的真实运营数据资产。 目前，嬴彻以超90%的市场份额领跑中国卡车智驾市场，并已完成从“自动驾驶”到“货运物理AI”的战略升级，构建覆盖干线、支线/城配及末端的全场景货运机器人网络。 商业化领跑：从价值呈现到规模优势 截至当前，嬴彻智驾系统的高速网络覆盖率达97%，用户涵盖快递快运、零担专线、冷链、百货、奶罐等多元领域，嬴彻科技市场份额超90%。 在2026年的重卡采购中，多家头部快递公司已将智驾作为100%的标配。 这一趋势背后，是自动驾驶“安全、省人、省力、省油/气”的多重价值，已在货运领域得到广泛实现。 10亿公里的自动驾驶里程，是嬴彻科技数据资产规模与质量的双重里程碑。 技术升维：原生“货运物理AI” 嬴彻科技深刻认识到货车自动驾驶在车辆物理特性、行驶行为、交通流交互、运输场景等多方面，与其",
+          "summary_zh": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”  思邈 2026-09-04 09:40:42  来源：量子位   吃下90%市场   允中 发自 凹非寺 量子位 | 公众号 QbitAI  2026年9月3日，嬴彻科技宣布其卡车自动驾驶商业运营里程突破10亿公里，形成行业最大规模的真实运营数据资产。 目前，嬴彻以超90%的市场份额领跑中国卡车智驾市场，并已完成从“自动驾驶”到“货运物理AI”的战略升级，构建覆盖干线、支线/城配及末端的全场景货运机器人网络。 商业化领跑：从价值呈现到规模优势 截至当前，嬴彻智驾系统的高速网络覆盖率达97%，用户涵盖快递快运、零担专线、冷链、百货、奶罐等多元领域，嬴彻科技市场份额超90%。 在2026年的重卡采购中，多家头部快递公司已将智驾作为100%的标配。 这一趋势背后，是自动驾驶“安全、省人、省力、省油/气”的多重价值，已在货运领域得到广泛实现。 10亿公里的自动驾驶里程，是嬴彻科技数据资产规模与质量的双重里程碑。 技术升维：原生“货运物理AI” 嬴彻科技深刻认识到货车自动驾驶在车辆物理特性、行驶行为、交通流交互、运输场景等多方面，与其",
+          "publishedAt": "2026-09-04T01:40:42Z",
+          "published_at": "2026-09-04T01:40:42Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "d437f4c2",
-          "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+          "id": "63eb99b2",
+          "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/09/483565.html",
+          "url": "https://www.qbitai.com/2026/09/483984.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/09/483565.html",
+          "sourceUrl": "https://www.qbitai.com/2026/09/483984.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠  思邈 2026-09-03 11:16:43  来源：量子位   从工厂一路干到家庭   允中 发自 凹非寺 量子位 | 公众号 QbitAI  长期以来，机器人系统大多依赖专有模型。 一旦物体、场景或控制方式发生变化，往往就要重新进行数据采集、模型训练和部署调试。 如今，具身智能正步入以规模化落地为核心的下半场，较量的已不再是能否完成单点任务，而是同一套智能系统能否跨越环境、本体与任务边界，实现能力迁移与复用。 近日，它石智航通用具身大模型AWE3.7（AI World Engine）在十天内连续密集发布一系列任务，用同一颗“具身大脑”，贯通工业产线、物流作业、生活服务与移动操作等多场景，以真实任务回应了具身智能如何实现“通用泛化”这一行业命题。 工业产线：精度、力度与稳定性的三重考验 工业现场是检验具身智能的硬尺度——毫米级对位、实时力控和长时稳定缺一不可。 它石AWE3.7在同一套基座模型下，把精细操作做到了产线级水准。 在零件分拣作业中，面对随机散落的螺丝、螺母，机器人要分辨其中的微小差异，抓取细小零件分别投放至对应铁盒",
-          "summary_zh": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠  思邈 2026-09-03 11:16:43  来源：量子位   从工厂一路干到家庭   允中 发自 凹非寺 量子位 | 公众号 QbitAI  长期以来，机器人系统大多依赖专有模型。 一旦物体、场景或控制方式发生变化，往往就要重新进行数据采集、模型训练和部署调试。 如今，具身智能正步入以规模化落地为核心的下半场，较量的已不再是能否完成单点任务，而是同一套智能系统能否跨越环境、本体与任务边界，实现能力迁移与复用。 近日，它石智航通用具身大模型AWE3.7（AI World Engine）在十天内连续密集发布一系列任务，用同一颗“具身大脑”，贯通工业产线、物流作业、生活服务与移动操作等多场景，以真实任务回应了具身智能如何实现“通用泛化”这一行业命题。 工业产线：精度、力度与稳定性的三重考验 工业现场是检验具身智能的硬尺度——毫米级对位、实时力控和长时稳定缺一不可。 它石AWE3.7在同一套基座模型下，把精细操作做到了产线级水准。 在零件分拣作业中，面对随机散落的螺丝、螺母，机器人要分辨其中的微小差异，抓取细小零件分别投放至对应铁盒",
-          "publishedAt": "2026-09-03T03:16:43Z",
-          "published_at": "2026-09-03T03:16:43Z",
+          "summary": "常州女首富机器人转型才开始，先因裁应届生上了热搜  田, 晏林 2026-09-04 12:03:04  来源：量子位   比新业务更考验一家公司的，可能是怎么对待年轻人。   田晏林 发自 副驾寺 智能车参考 | 公众号 AI4Auto  如果没有这场“羞辱式劝退107名应届生”的风波，常州女首富周晓萍和她执掌的星宇股份，今年下半年原本可能会有另一个故事。 故事的开头或许会这样写：  一位卫校老师出身的女首富，带领国内车灯龙头公司，正在奔赴具身智能浪潮。  更多细节是，星宇股份在2025年10月专门设了一家机器人公司，女首富周晓萍还把儿子推上前线“挂帅”。 种种迹象表明，周晓萍希望在具身智能产业链中，复刻其在汽车产业已经建立的一级供应商地位。 这套故事原本相当完整，甚至已经被郑重写进赴港招股书，等着讲给港交所的投资者听。 然而过去这一周，被顶上热搜的，不是机器人，也不是IPO，而是107份解约协议。 107个应届生，一道选择题 事情并不复杂。 今年7月，星宇一共招了440名2026届高校毕业生，研发、技术、管培都有。 入职仅一个多月，HR开始分批约谈其中107个人，给出一道选择题：",
+          "summary_zh": "常州女首富机器人转型才开始，先因裁应届生上了热搜  田, 晏林 2026-09-04 12:03:04  来源：量子位   比新业务更考验一家公司的，可能是怎么对待年轻人。   田晏林 发自 副驾寺 智能车参考 | 公众号 AI4Auto  如果没有这场“羞辱式劝退107名应届生”的风波，常州女首富周晓萍和她执掌的星宇股份，今年下半年原本可能会有另一个故事。 故事的开头或许会这样写：  一位卫校老师出身的女首富，带领国内车灯龙头公司，正在奔赴具身智能浪潮。  更多细节是，星宇股份在2025年10月专门设了一家机器人公司，女首富周晓萍还把儿子推上前线“挂帅”。 种种迹象表明，周晓萍希望在具身智能产业链中，复刻其在汽车产业已经建立的一级供应商地位。 这套故事原本相当完整，甚至已经被郑重写进赴港招股书，等着讲给港交所的投资者听。 然而过去这一周，被顶上热搜的，不是机器人，也不是IPO，而是107份解约协议。 107个应届生，一道选择题 事情并不复杂。 今年7月，星宇一共招了440名2026届高校毕业生，研发、技术、管培都有。 入职仅一个多月，HR开始分批约谈其中107个人，给出一道选择题：",
+          "publishedAt": "2026-09-04T04:03:04Z",
+          "published_at": "2026-09-04T04:03:04Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "cdfe53c4",
-          "title": "机器人不能停下来等模型：星尘发布 S",
-          "title_en": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+          "id": "8d4b5be6",
+          "title": "AI卷到物理世界，小米迎来自己的主场",
+          "title_en": "AI卷到物理世界，小米迎来自己的主场？",
           "url": "https://www.jiqizhixin.com/articles",
           "source": "机器之心",
           "source_type": null,
@@ -251,10 +251,10 @@
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-          "summary_zh": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-          "publishedAt": "2026-09-03T22:39:42Z",
-          "published_at": "2026-09-03T22:39:42Z",
+          "summary": "AI卷到物理世界，小米迎来自己的主场？",
+          "summary_zh": "AI卷到物理世界，小米迎来自己的主场？",
+          "publishedAt": "2026-09-04T12:49:12Z",
+          "published_at": "2026-09-04T12:49:12Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -265,61 +265,23 @@
   ],
   "items": [
     {
-      "id": "42e18656",
-      "title": "产品更新：Nex",
-      "title_en": "Nex",
-      "url": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "92a56a62",
+      "title": "产品更新：GPT-6 Astra",
+      "title_en": "GPT-6 Astra",
+      "url": "https://www.producthunt.com/products/gpt-6-astra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/gpt-6-astra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Claude Cowork for high-volume GTM workflows Ne",
-      "summary_zh": "Claude Cowork for high-volume GTM workflows Ne",
-      "publishedAt": "2026-09-03T07:01:00Z",
-      "published_at": "2026-09-03T07:01:00Z",
-      "votes_count": 231,
-      "featured": true,
-      "topics": [
-        {
-          "id": "71",
-          "name": "Sales",
-          "slug": "sales"
-        },
-        {
-          "id": "237",
-          "name": "SaaS",
-          "slug": "saas"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "d26c8c54",
-      "title": "产品更新：Omi",
-      "title_en": "Omi",
-      "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Ask your computer anything you saw or heard Om",
-      "summary_zh": "Ask your computer anything you saw or heard Om",
-      "publishedAt": "2026-09-03T07:01:00Z",
-      "published_at": "2026-09-03T07:01:00Z",
-      "votes_count": 227,
+      "summary": "OpenAI's most capable model for end-to-end wor",
+      "summary_zh": "OpenAI's most capable model for end-to-end wor",
+      "publishedAt": "2026-09-04T07:01:00Z",
+      "published_at": "2026-09-04T07:01:00Z",
+      "votes_count": 187,
       "featured": true,
       "topics": [
         {
@@ -327,82 +289,6 @@
           "name": "Productivity",
           "slug": "productivity"
         },
-        {
-          "id": "89",
-          "name": "Open Source",
-          "slug": "open-source"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "b8dda0ff",
-      "title": "产品更新：MagiCrew",
-      "title_en": "MagiCrew",
-      "url": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Give everyone their own AI workforce in one pl",
-      "summary_zh": "Give everyone their own AI workforce in one pl",
-      "publishedAt": "2026-09-03T07:01:00Z",
-      "published_at": "2026-09-03T07:01:00Z",
-      "votes_count": 218,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "272",
-          "name": "GitHub",
-          "slug": "github"
-        },
-        {
-          "id": "470",
-          "name": "No-Code",
-          "slug": "no-code"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "3f5a56cd",
-      "title": "产品更新：Atlas by World",
-      "title_en": "Atlas by World Labs",
-      "url": "https://www.producthunt.com/products/atlas-by-world-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/atlas-by-world-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Turn text, pics, video, + 3D into camera-contr",
-      "summary_zh": "Turn text, pics, video, + 3D into camera-contr",
-      "publishedAt": "2026-09-03T07:01:00Z",
-      "published_at": "2026-09-03T07:01:00Z",
-      "votes_count": 190,
-      "featured": true,
-      "topics": [
         {
           "id": "267",
           "name": "Developer Tools",
@@ -412,85 +298,199 @@
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
-        },
-        {
-          "id": "803",
-          "name": "3D Modeling",
-          "slug": "3d-modeling"
         }
       ],
       "score_details": null
     },
     {
-      "id": "f8613b31",
-      "title": "今年最难的机器人Demo，“机器人含量”为0",
+      "id": "e92ef8d2",
+      "title": "AI资讯更新：myAIcademy",
+      "title_en": "myAIcademy",
+      "url": "https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Learn AI skills for your specific role and tea",
+      "summary_zh": "Learn AI skills for your specific role and tea",
+      "publishedAt": "2026-09-04T07:01:00Z",
+      "published_at": "2026-09-04T07:01:00Z",
+      "votes_count": 172,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "204",
+          "name": "Education",
+          "slug": "education"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "4e4d099a",
+      "title": "AI资讯更新：Compliance by",
+      "title_en": "Compliance by TwelveLabs",
+      "url": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Video compliance review powered by rules you c",
+      "summary_zh": "Video compliance review powered by rules you c",
+      "publishedAt": "2026-09-04T07:01:00Z",
+      "published_at": "2026-09-04T07:01:00Z",
+      "votes_count": 164,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "df6a08e0",
+      "title": "产品更新：Google Gemini 3",
+      "title_en": "Google Gemini 3.8 Flash and Cyber",
+      "url": "https://www.producthunt.com/products/gemini-3-8-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/gemini-3-8-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Next-gen Gemini for agents, reasoning, and cyb",
+      "summary_zh": "Next-gen Gemini for agents, reasoning, and cyb",
+      "publishedAt": "2026-09-04T07:01:00Z",
+      "published_at": "2026-09-04T07:01:00Z",
+      "votes_count": 144,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "865",
+          "name": "Security",
+          "slug": "security"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "dd5a4c87",
+      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/483351.html",
+      "url": "https://www.qbitai.com/2026/09/483948.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/483351.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483948.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "今年最难的机器人Demo，“机器人含量”为0  henry 2026-09-03 08:51:16  来源：量子位   遥操，可能真的危险了   henry 发自 凹非寺 量子位 | 公众号 QbitAI  今年5月，英伟达机器人负责人Jim Fan在一场公开演讲中宣告：VLA、遥操已死。 当时，绝大多数人听到的第一反应都是：从来不缺暴论的AI圈，又多了一条新暴论。 但没想到，几个月后，这句当时听起来有点夸张的话，居然真的开始照进现实。 刚刚，自变量发布全新灵巧操作系统TwinDex。在后训练阶段真机遥操数据为0的情况下，机器人连续完成了化学实验场景中，旋拧瓶盖、注射器推注等多项精细操作。 要知道，以往想让机器人学会这类精细操作，还真少不了真机遥操数据来“手把手”教学。 但TwinDex这次，直接把这部分数据需求给砍没了，取而代之的是区区几百条无本体数据，机器人含量几乎为0～ 这是怎么做到的？ 遥操，可能真的危险了 俗话说，好的Demo，值得细细品鉴。 TwinDEX这次放出的Demo里，最完整的一段，是一套一镜到底的化学实验： 从开瓶取样、滴管与试管操作，到玻璃棒引流、摇匀观察，全程",
-      "summary_zh": "今年最难的机器人Demo，“机器人含量”为0  henry 2026-09-03 08:51:16  来源：量子位   遥操，可能真的危险了   henry 发自 凹非寺 量子位 | 公众号 QbitAI  今年5月，英伟达机器人负责人Jim Fan在一场公开演讲中宣告：VLA、遥操已死。 当时，绝大多数人听到的第一反应都是：从来不缺暴论的AI圈，又多了一条新暴论。 但没想到，几个月后，这句当时听起来有点夸张的话，居然真的开始照进现实。 刚刚，自变量发布全新灵巧操作系统TwinDex。在后训练阶段真机遥操数据为0的情况下，机器人连续完成了化学实验场景中，旋拧瓶盖、注射器推注等多项精细操作。 要知道，以往想让机器人学会这类精细操作，还真少不了真机遥操数据来“手把手”教学。 但TwinDex这次，直接把这部分数据需求给砍没了，取而代之的是区区几百条无本体数据，机器人含量几乎为0～ 这是怎么做到的？ 遥操，可能真的危险了 俗话说，好的Demo，值得细细品鉴。 TwinDEX这次放出的Demo里，最完整的一段，是一套一镜到底的化学实验： 从开瓶取样、滴管与试管操作，到玻璃棒引流、摇匀观察，全程",
-      "publishedAt": "2026-09-03T00:51:16Z",
-      "published_at": "2026-09-03T00:51:16Z",
+      "summary": "新版GPT Image 2.5已经能伪造GPT-6发布会了  闻乐 2026-09-04 05:57:08  来源：量子位   改进GPT Image 2的噪点问题   编辑部 发自 凹非寺 量子位 | 公众号 QbitAI  GPT-6发布会，主持人居然是赛博义父Tibo？  其实这是新版生图模型GPT Image 2.5伪造的。 虽然还没正式发布，但已经有人收到ChatGPT中新的弹窗提示。  与之前猜测叫GPT Image 2.1不同，版本号直接来到2.5，看来升级幅度不小。  那么，GPT Image 2.5有多强？ 根据目传播的测试结果，大概是可以直接伪造GPT-6官方发布会以及奥特曼全员信的程度。。。  生成一张奥特曼发推的截图，除了头像不对之外，文字也是毫无破绽。  提示词：用手机拍摄一张写实风格的手写文章照片，文章是用铅笔写在8.5×11英寸的横格纸上的，字迹要像爱因斯坦的笔迹，内容是关于世界货币的历史。确保字迹有明显的爱因斯坦式变化。在右上角添加一点咖啡渍。  那么爱因斯坦笔迹什么样呢，放一张照片对比一下。  在LMArena竞技场上，代号luna-lisa-alph",
+      "summary_zh": "新版GPT Image 2.5已经能伪造GPT-6发布会了  闻乐 2026-09-04 05:57:08  来源：量子位   改进GPT Image 2的噪点问题   编辑部 发自 凹非寺 量子位 | 公众号 QbitAI  GPT-6发布会，主持人居然是赛博义父Tibo？  其实这是新版生图模型GPT Image 2.5伪造的。 虽然还没正式发布，但已经有人收到ChatGPT中新的弹窗提示。  与之前猜测叫GPT Image 2.1不同，版本号直接来到2.5，看来升级幅度不小。  那么，GPT Image 2.5有多强？ 根据目传播的测试结果，大概是可以直接伪造GPT-6官方发布会以及奥特曼全员信的程度。。。  生成一张奥特曼发推的截图，除了头像不对之外，文字也是毫无破绽。  提示词：用手机拍摄一张写实风格的手写文章照片，文章是用铅笔写在8.5×11英寸的横格纸上的，字迹要像爱因斯坦的笔迹，内容是关于世界货币的历史。确保字迹有明显的爱因斯坦式变化。在右上角添加一点咖啡渍。  那么爱因斯坦笔迹什么样呢，放一张照片对比一下。  在LMArena竞技场上，代号luna-lisa-alph",
+      "publishedAt": "2026-09-03T21:57:08Z",
+      "published_at": "2026-09-03T21:57:08Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "2f75c2e7",
-      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+      "id": "0769410c",
+      "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/483552.html",
+      "url": "https://www.qbitai.com/2026/09/483598.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/483552.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483598.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光  林, 方舟 2026-09-03 09:31:45  来源：量子位    诺亚 发自 凹非寺 量子位 | 公众号 QbitAI  还记得上周具身圈流传的那个神秘10分钟一镜到底视频吗？ 视频一出，网友们表示：不敢相信，仿佛天外来物…… 甚至给出了最高评价：是AI生成的吧？！ 同行跑来打听到底是哪家的，听说有头部公司专门开会研究……我们的后台都被各路网友问爆了。 看完这个十分钟的一镜到底视频，大家说具身智能的ChatGPT时刻可能真来了，有人说这是具身智能的重要里程碑，也有人说这是创新的架构。因为它让人看到了：  机器人具有一定认知能力，而不是概率预测； 机器人理解人类行为逻辑，而非过拟合； 机器人拥有持续自进化的能力，有很多令人惊叹的瞬间。  当然，由于机器人表现得太过“科幻”，也有一些不相信的人质疑：这是不是遥操的？（虽然团队说这么小的空间真的不知道怎么遥操） 而这个神秘团队，回应质疑的方式也很特别：他们又一连甩出了另外几个demo，依旧粗糙，依旧一镜到底，仿佛想说： “智能，不管你信或不信，它真的要来了。”",
-      "summary_zh": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光  林, 方舟 2026-09-03 09:31:45  来源：量子位    诺亚 发自 凹非寺 量子位 | 公众号 QbitAI  还记得上周具身圈流传的那个神秘10分钟一镜到底视频吗？ 视频一出，网友们表示：不敢相信，仿佛天外来物…… 甚至给出了最高评价：是AI生成的吧？！ 同行跑来打听到底是哪家的，听说有头部公司专门开会研究……我们的后台都被各路网友问爆了。 看完这个十分钟的一镜到底视频，大家说具身智能的ChatGPT时刻可能真来了，有人说这是具身智能的重要里程碑，也有人说这是创新的架构。因为它让人看到了：  机器人具有一定认知能力，而不是概率预测； 机器人理解人类行为逻辑，而非过拟合； 机器人拥有持续自进化的能力，有很多令人惊叹的瞬间。  当然，由于机器人表现得太过“科幻”，也有一些不相信的人质疑：这是不是遥操的？（虽然团队说这么小的空间真的不知道怎么遥操） 而这个神秘团队，回应质疑的方式也很特别：他们又一连甩出了另外几个demo，依旧粗糙，依旧一镜到底，仿佛想说： “智能，不管你信或不信，它真的要来了。”",
-      "publishedAt": "2026-09-03T01:31:45Z",
-      "published_at": "2026-09-03T01:31:45Z",
+      "summary": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”  思邈 2026-09-04 09:40:42  来源：量子位   吃下90%市场   允中 发自 凹非寺 量子位 | 公众号 QbitAI  2026年9月3日，嬴彻科技宣布其卡车自动驾驶商业运营里程突破10亿公里，形成行业最大规模的真实运营数据资产。 目前，嬴彻以超90%的市场份额领跑中国卡车智驾市场，并已完成从“自动驾驶”到“货运物理AI”的战略升级，构建覆盖干线、支线/城配及末端的全场景货运机器人网络。 商业化领跑：从价值呈现到规模优势 截至当前，嬴彻智驾系统的高速网络覆盖率达97%，用户涵盖快递快运、零担专线、冷链、百货、奶罐等多元领域，嬴彻科技市场份额超90%。 在2026年的重卡采购中，多家头部快递公司已将智驾作为100%的标配。 这一趋势背后，是自动驾驶“安全、省人、省力、省油/气”的多重价值，已在货运领域得到广泛实现。 10亿公里的自动驾驶里程，是嬴彻科技数据资产规模与质量的双重里程碑。 技术升维：原生“货运物理AI” 嬴彻科技深刻认识到货车自动驾驶在车辆物理特性、行驶行为、交通流交互、运输场景等多方面，与其",
+      "summary_zh": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”  思邈 2026-09-04 09:40:42  来源：量子位   吃下90%市场   允中 发自 凹非寺 量子位 | 公众号 QbitAI  2026年9月3日，嬴彻科技宣布其卡车自动驾驶商业运营里程突破10亿公里，形成行业最大规模的真实运营数据资产。 目前，嬴彻以超90%的市场份额领跑中国卡车智驾市场，并已完成从“自动驾驶”到“货运物理AI”的战略升级，构建覆盖干线、支线/城配及末端的全场景货运机器人网络。 商业化领跑：从价值呈现到规模优势 截至当前，嬴彻智驾系统的高速网络覆盖率达97%，用户涵盖快递快运、零担专线、冷链、百货、奶罐等多元领域，嬴彻科技市场份额超90%。 在2026年的重卡采购中，多家头部快递公司已将智驾作为100%的标配。 这一趋势背后，是自动驾驶“安全、省人、省力、省油/气”的多重价值，已在货运领域得到广泛实现。 10亿公里的自动驾驶里程，是嬴彻科技数据资产规模与质量的双重里程碑。 技术升维：原生“货运物理AI” 嬴彻科技深刻认识到货车自动驾驶在车辆物理特性、行驶行为、交通流交互、运输场景等多方面，与其",
+      "publishedAt": "2026-09-04T01:40:42Z",
+      "published_at": "2026-09-04T01:40:42Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "d437f4c2",
-      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+      "id": "63eb99b2",
+      "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/483565.html",
+      "url": "https://www.qbitai.com/2026/09/483984.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/483565.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483984.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠  思邈 2026-09-03 11:16:43  来源：量子位   从工厂一路干到家庭   允中 发自 凹非寺 量子位 | 公众号 QbitAI  长期以来，机器人系统大多依赖专有模型。 一旦物体、场景或控制方式发生变化，往往就要重新进行数据采集、模型训练和部署调试。 如今，具身智能正步入以规模化落地为核心的下半场，较量的已不再是能否完成单点任务，而是同一套智能系统能否跨越环境、本体与任务边界，实现能力迁移与复用。 近日，它石智航通用具身大模型AWE3.7（AI World Engine）在十天内连续密集发布一系列任务，用同一颗“具身大脑”，贯通工业产线、物流作业、生活服务与移动操作等多场景，以真实任务回应了具身智能如何实现“通用泛化”这一行业命题。 工业产线：精度、力度与稳定性的三重考验 工业现场是检验具身智能的硬尺度——毫米级对位、实时力控和长时稳定缺一不可。 它石AWE3.7在同一套基座模型下，把精细操作做到了产线级水准。 在零件分拣作业中，面对随机散落的螺丝、螺母，机器人要分辨其中的微小差异，抓取细小零件分别投放至对应铁盒",
-      "summary_zh": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠  思邈 2026-09-03 11:16:43  来源：量子位   从工厂一路干到家庭   允中 发自 凹非寺 量子位 | 公众号 QbitAI  长期以来，机器人系统大多依赖专有模型。 一旦物体、场景或控制方式发生变化，往往就要重新进行数据采集、模型训练和部署调试。 如今，具身智能正步入以规模化落地为核心的下半场，较量的已不再是能否完成单点任务，而是同一套智能系统能否跨越环境、本体与任务边界，实现能力迁移与复用。 近日，它石智航通用具身大模型AWE3.7（AI World Engine）在十天内连续密集发布一系列任务，用同一颗“具身大脑”，贯通工业产线、物流作业、生活服务与移动操作等多场景，以真实任务回应了具身智能如何实现“通用泛化”这一行业命题。 工业产线：精度、力度与稳定性的三重考验 工业现场是检验具身智能的硬尺度——毫米级对位、实时力控和长时稳定缺一不可。 它石AWE3.7在同一套基座模型下，把精细操作做到了产线级水准。 在零件分拣作业中，面对随机散落的螺丝、螺母，机器人要分辨其中的微小差异，抓取细小零件分别投放至对应铁盒",
-      "publishedAt": "2026-09-03T03:16:43Z",
-      "published_at": "2026-09-03T03:16:43Z",
+      "summary": "常州女首富机器人转型才开始，先因裁应届生上了热搜  田, 晏林 2026-09-04 12:03:04  来源：量子位   比新业务更考验一家公司的，可能是怎么对待年轻人。   田晏林 发自 副驾寺 智能车参考 | 公众号 AI4Auto  如果没有这场“羞辱式劝退107名应届生”的风波，常州女首富周晓萍和她执掌的星宇股份，今年下半年原本可能会有另一个故事。 故事的开头或许会这样写：  一位卫校老师出身的女首富，带领国内车灯龙头公司，正在奔赴具身智能浪潮。  更多细节是，星宇股份在2025年10月专门设了一家机器人公司，女首富周晓萍还把儿子推上前线“挂帅”。 种种迹象表明，周晓萍希望在具身智能产业链中，复刻其在汽车产业已经建立的一级供应商地位。 这套故事原本相当完整，甚至已经被郑重写进赴港招股书，等着讲给港交所的投资者听。 然而过去这一周，被顶上热搜的，不是机器人，也不是IPO，而是107份解约协议。 107个应届生，一道选择题 事情并不复杂。 今年7月，星宇一共招了440名2026届高校毕业生，研发、技术、管培都有。 入职仅一个多月，HR开始分批约谈其中107个人，给出一道选择题：",
+      "summary_zh": "常州女首富机器人转型才开始，先因裁应届生上了热搜  田, 晏林 2026-09-04 12:03:04  来源：量子位   比新业务更考验一家公司的，可能是怎么对待年轻人。   田晏林 发自 副驾寺 智能车参考 | 公众号 AI4Auto  如果没有这场“羞辱式劝退107名应届生”的风波，常州女首富周晓萍和她执掌的星宇股份，今年下半年原本可能会有另一个故事。 故事的开头或许会这样写：  一位卫校老师出身的女首富，带领国内车灯龙头公司，正在奔赴具身智能浪潮。  更多细节是，星宇股份在2025年10月专门设了一家机器人公司，女首富周晓萍还把儿子推上前线“挂帅”。 种种迹象表明，周晓萍希望在具身智能产业链中，复刻其在汽车产业已经建立的一级供应商地位。 这套故事原本相当完整，甚至已经被郑重写进赴港招股书，等着讲给港交所的投资者听。 然而过去这一周，被顶上热搜的，不是机器人，也不是IPO，而是107份解约协议。 107个应届生，一道选择题 事情并不复杂。 今年7月，星宇一共招了440名2026届高校毕业生，研发、技术、管培都有。 入职仅一个多月，HR开始分批约谈其中107个人，给出一道选择题：",
+      "publishedAt": "2026-09-04T04:03:04Z",
+      "published_at": "2026-09-04T04:03:04Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "cdfe53c4",
-      "title": "机器人不能停下来等模型：星尘发布 S",
-      "title_en": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "id": "8d4b5be6",
+      "title": "AI卷到物理世界，小米迎来自己的主场",
+      "title_en": "AI卷到物理世界，小米迎来自己的主场？",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -500,10 +500,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-      "summary_zh": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-      "publishedAt": "2026-09-03T22:39:42Z",
-      "published_at": "2026-09-03T22:39:42Z",
+      "summary": "AI卷到物理世界，小米迎来自己的主场？",
+      "summary_zh": "AI卷到物理世界，小米迎来自己的主场？",
+      "publishedAt": "2026-09-04T12:49:12Z",
+      "published_at": "2026-09-04T12:49:12Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

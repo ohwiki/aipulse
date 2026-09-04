@@ -1,41 +1,117 @@
 {
-  "generated_at": "2026-09-03T22:40:16Z",
-  "generatedAt": "2026-09-03T22:40:16Z",
+  "generated_at": "2026-09-04T12:50:05Z",
+  "generatedAt": "2026-09-04T12:50:05Z",
   "count": 115,
   "total": 115,
   "entries": [
     {
       "date": "2026-09-04",
-      "generated_at": "2026-09-03T22:40:16Z",
-      "generatedAt": "2026-09-03T22:40:16Z",
+      "generated_at": "2026-09-04T12:50:05Z",
+      "generatedAt": "2026-09-04T12:50:05Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "42e18656",
-          "title": "产品更新：Nex",
-          "title_en": "Nex",
-          "url": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "92a56a62",
+          "title": "产品更新：GPT-6 Astra",
+          "title_en": "GPT-6 Astra",
+          "url": "https://www.producthunt.com/products/gpt-6-astra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/gpt-6-astra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Claude Cowork for high-volume GTM workflows Ne",
-          "summary_zh": "Claude Cowork for high-volume GTM workflows Ne",
-          "publishedAt": "2026-09-03T07:01:00Z",
-          "published_at": "2026-09-03T07:01:00Z",
-          "votes_count": 231,
+          "summary": "OpenAI's most capable model for end-to-end wor",
+          "summary_zh": "OpenAI's most capable model for end-to-end wor",
+          "publishedAt": "2026-09-04T07:01:00Z",
+          "published_at": "2026-09-04T07:01:00Z",
+          "votes_count": 187,
           "featured": true,
           "topics": [
             {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e92ef8d2",
+          "title": "AI资讯更新：myAIcademy",
+          "title_en": "myAIcademy",
+          "url": "https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Learn AI skills for your specific role and tea",
+          "summary_zh": "Learn AI skills for your specific role and tea",
+          "publishedAt": "2026-09-04T07:01:00Z",
+          "published_at": "2026-09-04T07:01:00Z",
+          "votes_count": 172,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4e4d099a",
+          "title": "AI资讯更新：Compliance by",
+          "title_en": "Compliance by TwelveLabs",
+          "url": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Video compliance review powered by rules you c",
+          "summary_zh": "Video compliance review powered by rules you c",
+          "publishedAt": "2026-09-04T07:01:00Z",
+          "published_at": "2026-09-04T07:01:00Z",
+          "votes_count": 164,
+          "featured": true,
+          "topics": [
             {
               "id": "237",
               "name": "SaaS",
@@ -45,87 +121,11 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "d26c8c54",
-          "title": "产品更新：Omi",
-          "title_en": "Omi",
-          "url": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Ask your computer anything you saw or heard Om",
-          "summary_zh": "Ask your computer anything you saw or heard Om",
-          "publishedAt": "2026-09-03T07:01:00Z",
-          "published_at": "2026-09-03T07:01:00Z",
-          "votes_count": 227,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
             },
             {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "b8dda0ff",
-          "title": "产品更新：MagiCrew",
-          "title_en": "MagiCrew",
-          "url": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Give everyone their own AI workforce in one pl",
-          "summary_zh": "Give everyone their own AI workforce in one pl",
-          "publishedAt": "2026-09-03T07:01:00Z",
-          "published_at": "2026-09-03T07:01:00Z",
-          "votes_count": 218,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "470",
-              "name": "No-Code",
-              "slug": "no-code"
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
             }
           ],
           "score_details": null
