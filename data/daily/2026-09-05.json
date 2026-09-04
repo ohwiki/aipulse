@@ -1,0 +1,469 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-04T22:26:06Z",
+  "generatedAt": "2026-09-04T22:26:06Z",
+  "total": 7,
+  "count": 7,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "6e212fcf",
+          "title": "产品更新：GPT-6 Astra",
+          "title_en": "GPT-6 Astra",
+          "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "OpenAI's most capable model for end-to-end wor",
+          "summary_zh": "OpenAI's most capable model for end-to-end wor",
+          "publishedAt": "2026-09-04T07:01:00Z",
+          "published_at": "2026-09-04T07:01:00Z",
+          "votes_count": 351,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e92ef8d2",
+          "title": "AI资讯更新：myAIcademy",
+          "title_en": "myAIcademy",
+          "url": "https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Learn AI skills for your specific role and tea",
+          "summary_zh": "Learn AI skills for your specific role and tea",
+          "publishedAt": "2026-09-04T07:01:00Z",
+          "published_at": "2026-09-04T07:01:00Z",
+          "votes_count": 259,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4e4d099a",
+          "title": "AI资讯更新：Compliance by",
+          "title_en": "Compliance by TwelveLabs",
+          "url": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Video compliance review powered by rules you c",
+          "summary_zh": "Video compliance review powered by rules you c",
+          "publishedAt": "2026-09-04T07:01:00Z",
+          "published_at": "2026-09-04T07:01:00Z",
+          "votes_count": 220,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "df6a08e0",
+          "title": "产品更新：Google Gemini 3",
+          "title_en": "Google Gemini 3.8 Flash and Cyber",
+          "url": "https://www.producthunt.com/products/gemini-3-8-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gemini-3-8-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Next-gen Gemini for agents, reasoning, and cyb",
+          "summary_zh": "Next-gen Gemini for agents, reasoning, and cyb",
+          "publishedAt": "2026-09-04T07:01:00Z",
+          "published_at": "2026-09-04T07:01:00Z",
+          "votes_count": 205,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "0769410c",
+          "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/483598.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/483598.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”  思邈 2026-09-04 09:40:42  来源：量子位   吃下90%市场   允中 发自 凹非寺 量子位 | 公众号 QbitAI  2026年9月3日，嬴彻科技宣布其卡车自动驾驶商业运营里程突破10亿公里，形成行业最大规模的真实运营数据资产。 目前，嬴彻以超90%的市场份额领跑中国卡车智驾市场，并已完成从“自动驾驶”到“货运物理AI”的战略升级，构建覆盖干线、支线/城配及末端的全场景货运机器人网络。 商业化领跑：从价值呈现到规模优势 截至当前，嬴彻智驾系统的高速网络覆盖率达97%，用户涵盖快递快运、零担专线、冷链、百货、奶罐等多元领域，嬴彻科技市场份额超90%。 在2026年的重卡采购中，多家头部快递公司已将智驾作为100%的标配。 这一趋势背后，是自动驾驶“安全、省人、省力、省油/气”的多重价值，已在货运领域得到广泛实现。 10亿公里的自动驾驶里程，是嬴彻科技数据资产规模与质量的双重里程碑。 技术升维：原生“货运物理AI” 嬴彻科技深刻认识到货车自动驾驶在车辆物理特性、行驶行为、交通流交互、运输场景等多方面，与其",
+          "summary_zh": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”  思邈 2026-09-04 09:40:42  来源：量子位   吃下90%市场   允中 发自 凹非寺 量子位 | 公众号 QbitAI  2026年9月3日，嬴彻科技宣布其卡车自动驾驶商业运营里程突破10亿公里，形成行业最大规模的真实运营数据资产。 目前，嬴彻以超90%的市场份额领跑中国卡车智驾市场，并已完成从“自动驾驶”到“货运物理AI”的战略升级，构建覆盖干线、支线/城配及末端的全场景货运机器人网络。 商业化领跑：从价值呈现到规模优势 截至当前，嬴彻智驾系统的高速网络覆盖率达97%，用户涵盖快递快运、零担专线、冷链、百货、奶罐等多元领域，嬴彻科技市场份额超90%。 在2026年的重卡采购中，多家头部快递公司已将智驾作为100%的标配。 这一趋势背后，是自动驾驶“安全、省人、省力、省油/气”的多重价值，已在货运领域得到广泛实现。 10亿公里的自动驾驶里程，是嬴彻科技数据资产规模与质量的双重里程碑。 技术升维：原生“货运物理AI” 嬴彻科技深刻认识到货车自动驾驶在车辆物理特性、行驶行为、交通流交互、运输场景等多方面，与其",
+          "publishedAt": "2026-09-04T01:40:42Z",
+          "published_at": "2026-09-04T01:40:42Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "63eb99b2",
+          "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/483984.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/483984.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "常州女首富机器人转型才开始，先因裁应届生上了热搜  田, 晏林 2026-09-04 12:03:04  来源：量子位   比新业务更考验一家公司的，可能是怎么对待年轻人。   田晏林 发自 副驾寺 智能车参考 | 公众号 AI4Auto  如果没有这场“羞辱式劝退107名应届生”的风波，常州女首富周晓萍和她执掌的星宇股份，今年下半年原本可能会有另一个故事。 故事的开头或许会这样写：  一位卫校老师出身的女首富，带领国内车灯龙头公司，正在奔赴具身智能浪潮。  更多细节是，星宇股份在2025年10月专门设了一家机器人公司，女首富周晓萍还把儿子推上前线“挂帅”。 种种迹象表明，周晓萍希望在具身智能产业链中，复刻其在汽车产业已经建立的一级供应商地位。 这套故事原本相当完整，甚至已经被郑重写进赴港招股书，等着讲给港交所的投资者听。 然而过去这一周，被顶上热搜的，不是机器人，也不是IPO，而是107份解约协议。 107个应届生，一道选择题 事情并不复杂。 今年7月，星宇一共招了440名2026届高校毕业生，研发、技术、管培都有。 入职仅一个多月，HR开始分批约谈其中107个人，给出一道选择题：",
+          "summary_zh": "常州女首富机器人转型才开始，先因裁应届生上了热搜  田, 晏林 2026-09-04 12:03:04  来源：量子位   比新业务更考验一家公司的，可能是怎么对待年轻人。   田晏林 发自 副驾寺 智能车参考 | 公众号 AI4Auto  如果没有这场“羞辱式劝退107名应届生”的风波，常州女首富周晓萍和她执掌的星宇股份，今年下半年原本可能会有另一个故事。 故事的开头或许会这样写：  一位卫校老师出身的女首富，带领国内车灯龙头公司，正在奔赴具身智能浪潮。  更多细节是，星宇股份在2025年10月专门设了一家机器人公司，女首富周晓萍还把儿子推上前线“挂帅”。 种种迹象表明，周晓萍希望在具身智能产业链中，复刻其在汽车产业已经建立的一级供应商地位。 这套故事原本相当完整，甚至已经被郑重写进赴港招股书，等着讲给港交所的投资者听。 然而过去这一周，被顶上热搜的，不是机器人，也不是IPO，而是107份解约协议。 107个应届生，一道选择题 事情并不复杂。 今年7月，星宇一共招了440名2026届高校毕业生，研发、技术、管培都有。 入职仅一个多月，HR开始分批约谈其中107个人，给出一道选择题：",
+          "publishedAt": "2026-09-04T04:03:04Z",
+          "published_at": "2026-09-04T04:03:04Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "86c34c55",
+          "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/484155.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/484155.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "千问办公上线首月用户数突破 3000万，企业用户占比过半  量子位的朋友们 2026-09-04 13:48:53  来源：量子位   9月4日消息，阿里旗下企业级通用Agent产品千问办公上线满一个月，用户数突破3000 万，企业用户占比过半。  阿里巴巴是最早布局Agent产品的公司。8月3日，阿里整合几个Agent产品推出千问办公。上线仅一个月，千问办公总用户量即超过3000万，成为AI办公赛道增长最快的产品之一。同时，千问办公实现了企业市场的突破，企业用户数量占比过半，体现了阿里在企业级市场的显著优势。 在产品上，千问办公保持高频迭代。过去一个月，千问办公共完成 120 个版本更新，平均一天迭代4次，累计更新上千个feature。期间，千问办公推出国际版，全面进入全球市场。 千问办公持续推进Agent能力升级。8月17日，千问办公开源上下文基础设施MyContext。该技术可将海量异构工作数据转化为Agent可直接调用的上下文，开源数周即在GitHub获得超过3000 Star。结合与钉钉等IM软件的深度打通，千问办公可以将企业分散在消息、文档、审批、邮件、知识库等业务流程中的",
+          "summary_zh": "千问办公上线首月用户数突破 3000万，企业用户占比过半  量子位的朋友们 2026-09-04 13:48:53  来源：量子位   9月4日消息，阿里旗下企业级通用Agent产品千问办公上线满一个月，用户数突破3000 万，企业用户占比过半。  阿里巴巴是最早布局Agent产品的公司。8月3日，阿里整合几个Agent产品推出千问办公。上线仅一个月，千问办公总用户量即超过3000万，成为AI办公赛道增长最快的产品之一。同时，千问办公实现了企业市场的突破，企业用户数量占比过半，体现了阿里在企业级市场的显著优势。 在产品上，千问办公保持高频迭代。过去一个月，千问办公共完成 120 个版本更新，平均一天迭代4次，累计更新上千个feature。期间，千问办公推出国际版，全面进入全球市场。 千问办公持续推进Agent能力升级。8月17日，千问办公开源上下文基础设施MyContext。该技术可将海量异构工作数据转化为Agent可直接调用的上下文，开源数周即在GitHub获得超过3000 Star。结合与钉钉等IM软件的深度打通，千问办公可以将企业分散在消息、文档、审批、邮件、知识库等业务流程中的",
+          "publishedAt": "2026-09-04T05:48:53Z",
+          "published_at": "2026-09-04T05:48:53Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "6e212fcf",
+      "title": "产品更新：GPT-6 Astra",
+      "title_en": "GPT-6 Astra",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "OpenAI's most capable model for end-to-end wor",
+      "summary_zh": "OpenAI's most capable model for end-to-end wor",
+      "publishedAt": "2026-09-04T07:01:00Z",
+      "published_at": "2026-09-04T07:01:00Z",
+      "votes_count": 351,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "e92ef8d2",
+      "title": "AI资讯更新：myAIcademy",
+      "title_en": "myAIcademy",
+      "url": "https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Learn AI skills for your specific role and tea",
+      "summary_zh": "Learn AI skills for your specific role and tea",
+      "publishedAt": "2026-09-04T07:01:00Z",
+      "published_at": "2026-09-04T07:01:00Z",
+      "votes_count": 259,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "204",
+          "name": "Education",
+          "slug": "education"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "4e4d099a",
+      "title": "AI资讯更新：Compliance by",
+      "title_en": "Compliance by TwelveLabs",
+      "url": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Video compliance review powered by rules you c",
+      "summary_zh": "Video compliance review powered by rules you c",
+      "publishedAt": "2026-09-04T07:01:00Z",
+      "published_at": "2026-09-04T07:01:00Z",
+      "votes_count": 220,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "df6a08e0",
+      "title": "产品更新：Google Gemini 3",
+      "title_en": "Google Gemini 3.8 Flash and Cyber",
+      "url": "https://www.producthunt.com/products/gemini-3-8-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/gemini-3-8-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Next-gen Gemini for agents, reasoning, and cyb",
+      "summary_zh": "Next-gen Gemini for agents, reasoning, and cyb",
+      "publishedAt": "2026-09-04T07:01:00Z",
+      "published_at": "2026-09-04T07:01:00Z",
+      "votes_count": 205,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "865",
+          "name": "Security",
+          "slug": "security"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "0769410c",
+      "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/483598.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483598.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”  思邈 2026-09-04 09:40:42  来源：量子位   吃下90%市场   允中 发自 凹非寺 量子位 | 公众号 QbitAI  2026年9月3日，嬴彻科技宣布其卡车自动驾驶商业运营里程突破10亿公里，形成行业最大规模的真实运营数据资产。 目前，嬴彻以超90%的市场份额领跑中国卡车智驾市场，并已完成从“自动驾驶”到“货运物理AI”的战略升级，构建覆盖干线、支线/城配及末端的全场景货运机器人网络。 商业化领跑：从价值呈现到规模优势 截至当前，嬴彻智驾系统的高速网络覆盖率达97%，用户涵盖快递快运、零担专线、冷链、百货、奶罐等多元领域，嬴彻科技市场份额超90%。 在2026年的重卡采购中，多家头部快递公司已将智驾作为100%的标配。 这一趋势背后，是自动驾驶“安全、省人、省力、省油/气”的多重价值，已在货运领域得到广泛实现。 10亿公里的自动驾驶里程，是嬴彻科技数据资产规模与质量的双重里程碑。 技术升维：原生“货运物理AI” 嬴彻科技深刻认识到货车自动驾驶在车辆物理特性、行驶行为、交通流交互、运输场景等多方面，与其",
+      "summary_zh": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”  思邈 2026-09-04 09:40:42  来源：量子位   吃下90%市场   允中 发自 凹非寺 量子位 | 公众号 QbitAI  2026年9月3日，嬴彻科技宣布其卡车自动驾驶商业运营里程突破10亿公里，形成行业最大规模的真实运营数据资产。 目前，嬴彻以超90%的市场份额领跑中国卡车智驾市场，并已完成从“自动驾驶”到“货运物理AI”的战略升级，构建覆盖干线、支线/城配及末端的全场景货运机器人网络。 商业化领跑：从价值呈现到规模优势 截至当前，嬴彻智驾系统的高速网络覆盖率达97%，用户涵盖快递快运、零担专线、冷链、百货、奶罐等多元领域，嬴彻科技市场份额超90%。 在2026年的重卡采购中，多家头部快递公司已将智驾作为100%的标配。 这一趋势背后，是自动驾驶“安全、省人、省力、省油/气”的多重价值，已在货运领域得到广泛实现。 10亿公里的自动驾驶里程，是嬴彻科技数据资产规模与质量的双重里程碑。 技术升维：原生“货运物理AI” 嬴彻科技深刻认识到货车自动驾驶在车辆物理特性、行驶行为、交通流交互、运输场景等多方面，与其",
+      "publishedAt": "2026-09-04T01:40:42Z",
+      "published_at": "2026-09-04T01:40:42Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "63eb99b2",
+      "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/483984.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/483984.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "常州女首富机器人转型才开始，先因裁应届生上了热搜  田, 晏林 2026-09-04 12:03:04  来源：量子位   比新业务更考验一家公司的，可能是怎么对待年轻人。   田晏林 发自 副驾寺 智能车参考 | 公众号 AI4Auto  如果没有这场“羞辱式劝退107名应届生”的风波，常州女首富周晓萍和她执掌的星宇股份，今年下半年原本可能会有另一个故事。 故事的开头或许会这样写：  一位卫校老师出身的女首富，带领国内车灯龙头公司，正在奔赴具身智能浪潮。  更多细节是，星宇股份在2025年10月专门设了一家机器人公司，女首富周晓萍还把儿子推上前线“挂帅”。 种种迹象表明，周晓萍希望在具身智能产业链中，复刻其在汽车产业已经建立的一级供应商地位。 这套故事原本相当完整，甚至已经被郑重写进赴港招股书，等着讲给港交所的投资者听。 然而过去这一周，被顶上热搜的，不是机器人，也不是IPO，而是107份解约协议。 107个应届生，一道选择题 事情并不复杂。 今年7月，星宇一共招了440名2026届高校毕业生，研发、技术、管培都有。 入职仅一个多月，HR开始分批约谈其中107个人，给出一道选择题：",
+      "summary_zh": "常州女首富机器人转型才开始，先因裁应届生上了热搜  田, 晏林 2026-09-04 12:03:04  来源：量子位   比新业务更考验一家公司的，可能是怎么对待年轻人。   田晏林 发自 副驾寺 智能车参考 | 公众号 AI4Auto  如果没有这场“羞辱式劝退107名应届生”的风波，常州女首富周晓萍和她执掌的星宇股份，今年下半年原本可能会有另一个故事。 故事的开头或许会这样写：  一位卫校老师出身的女首富，带领国内车灯龙头公司，正在奔赴具身智能浪潮。  更多细节是，星宇股份在2025年10月专门设了一家机器人公司，女首富周晓萍还把儿子推上前线“挂帅”。 种种迹象表明，周晓萍希望在具身智能产业链中，复刻其在汽车产业已经建立的一级供应商地位。 这套故事原本相当完整，甚至已经被郑重写进赴港招股书，等着讲给港交所的投资者听。 然而过去这一周，被顶上热搜的，不是机器人，也不是IPO，而是107份解约协议。 107个应届生，一道选择题 事情并不复杂。 今年7月，星宇一共招了440名2026届高校毕业生，研发、技术、管培都有。 入职仅一个多月，HR开始分批约谈其中107个人，给出一道选择题：",
+      "publishedAt": "2026-09-04T04:03:04Z",
+      "published_at": "2026-09-04T04:03:04Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "86c34c55",
+      "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/484155.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484155.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "千问办公上线首月用户数突破 3000万，企业用户占比过半  量子位的朋友们 2026-09-04 13:48:53  来源：量子位   9月4日消息，阿里旗下企业级通用Agent产品千问办公上线满一个月，用户数突破3000 万，企业用户占比过半。  阿里巴巴是最早布局Agent产品的公司。8月3日，阿里整合几个Agent产品推出千问办公。上线仅一个月，千问办公总用户量即超过3000万，成为AI办公赛道增长最快的产品之一。同时，千问办公实现了企业市场的突破，企业用户数量占比过半，体现了阿里在企业级市场的显著优势。 在产品上，千问办公保持高频迭代。过去一个月，千问办公共完成 120 个版本更新，平均一天迭代4次，累计更新上千个feature。期间，千问办公推出国际版，全面进入全球市场。 千问办公持续推进Agent能力升级。8月17日，千问办公开源上下文基础设施MyContext。该技术可将海量异构工作数据转化为Agent可直接调用的上下文，开源数周即在GitHub获得超过3000 Star。结合与钉钉等IM软件的深度打通，千问办公可以将企业分散在消息、文档、审批、邮件、知识库等业务流程中的",
+      "summary_zh": "千问办公上线首月用户数突破 3000万，企业用户占比过半  量子位的朋友们 2026-09-04 13:48:53  来源：量子位   9月4日消息，阿里旗下企业级通用Agent产品千问办公上线满一个月，用户数突破3000 万，企业用户占比过半。  阿里巴巴是最早布局Agent产品的公司。8月3日，阿里整合几个Agent产品推出千问办公。上线仅一个月，千问办公总用户量即超过3000万，成为AI办公赛道增长最快的产品之一。同时，千问办公实现了企业市场的突破，企业用户数量占比过半，体现了阿里在企业级市场的显著优势。 在产品上，千问办公保持高频迭代。过去一个月，千问办公共完成 120 个版本更新，平均一天迭代4次，累计更新上千个feature。期间，千问办公推出国际版，全面进入全球市场。 千问办公持续推进Agent能力升级。8月17日，千问办公开源上下文基础设施MyContext。该技术可将海量异构工作数据转化为Agent可直接调用的上下文，开源数周即在GitHub获得超过3000 Star。结合与钉钉等IM软件的深度打通，千问办公可以将企业分散在消息、文档、审批、邮件、知识库等业务流程中的",
+      "publishedAt": "2026-09-04T05:48:53Z",
+      "published_at": "2026-09-04T05:48:53Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

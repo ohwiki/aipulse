@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-04T12:50:05Z",
-  "generatedAt": "2026-09-04T12:50:05Z",
+  "generated_at": "2026-09-04T22:26:06Z",
+  "generatedAt": "2026-09-04T22:26:06Z",
   "days": 7,
-  "total": 8,
-  "count": 8,
+  "total": 7,
+  "count": 7,
   "items": [
     {
-      "id": "92a56a62",
+      "id": "6e212fcf",
       "title": "产品更新：GPT-6 Astra",
       "title_en": "GPT-6 Astra",
-      "url": "https://www.producthunt.com/products/gpt-6-astra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/gpt-6-astra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
@@ -22,7 +22,7 @@
       "summary_zh": "OpenAI's most capable model for end-to-end wor",
       "publishedAt": "2026-09-04T07:01:00Z",
       "published_at": "2026-09-04T07:01:00Z",
-      "votes_count": 187,
+      "votes_count": 351,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Learn AI skills for your specific role and tea",
       "publishedAt": "2026-09-04T07:01:00Z",
       "published_at": "2026-09-04T07:01:00Z",
-      "votes_count": 172,
+      "votes_count": 259,
       "featured": true,
       "topics": [
         {
@@ -103,7 +103,7 @@
       "summary_zh": "Video compliance review powered by rules you c",
       "publishedAt": "2026-09-04T07:01:00Z",
       "published_at": "2026-09-04T07:01:00Z",
-      "votes_count": 164,
+      "votes_count": 220,
       "featured": true,
       "topics": [
         {
@@ -141,7 +141,7 @@
       "summary_zh": "Next-gen Gemini for agents, reasoning, and cyb",
       "publishedAt": "2026-09-04T07:01:00Z",
       "published_at": "2026-09-04T07:01:00Z",
-      "votes_count": 144,
+      "votes_count": 205,
       "featured": true,
       "topics": [
         {
@@ -160,28 +160,6 @@
           "slug": "security"
         }
       ],
-      "score_details": null
-    },
-    {
-      "id": "dd5a4c87",
-      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/483948.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/483948.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "新版GPT Image 2.5已经能伪造GPT-6发布会了  闻乐 2026-09-04 05:57:08  来源：量子位   改进GPT Image 2的噪点问题   编辑部 发自 凹非寺 量子位 | 公众号 QbitAI  GPT-6发布会，主持人居然是赛博义父Tibo？  其实这是新版生图模型GPT Image 2.5伪造的。 虽然还没正式发布，但已经有人收到ChatGPT中新的弹窗提示。  与之前猜测叫GPT Image 2.1不同，版本号直接来到2.5，看来升级幅度不小。  那么，GPT Image 2.5有多强？ 根据目传播的测试结果，大概是可以直接伪造GPT-6官方发布会以及奥特曼全员信的程度。。。  生成一张奥特曼发推的截图，除了头像不对之外，文字也是毫无破绽。  提示词：用手机拍摄一张写实风格的手写文章照片，文章是用铅笔写在8.5×11英寸的横格纸上的，字迹要像爱因斯坦的笔迹，内容是关于世界货币的历史。确保字迹有明显的爱因斯坦式变化。在右上角添加一点咖啡渍。  那么爱因斯坦笔迹什么样呢，放一张照片对比一下。  在LMArena竞技场上，代号luna-lisa-alph",
-      "summary_zh": "新版GPT Image 2.5已经能伪造GPT-6发布会了  闻乐 2026-09-04 05:57:08  来源：量子位   改进GPT Image 2的噪点问题   编辑部 发自 凹非寺 量子位 | 公众号 QbitAI  GPT-6发布会，主持人居然是赛博义父Tibo？  其实这是新版生图模型GPT Image 2.5伪造的。 虽然还没正式发布，但已经有人收到ChatGPT中新的弹窗提示。  与之前猜测叫GPT Image 2.1不同，版本号直接来到2.5，看来升级幅度不小。  那么，GPT Image 2.5有多强？ 根据目传播的测试结果，大概是可以直接伪造GPT-6官方发布会以及奥特曼全员信的程度。。。  生成一张奥特曼发推的截图，除了头像不对之外，文字也是毫无破绽。  提示词：用手机拍摄一张写实风格的手写文章照片，文章是用铅笔写在8.5×11英寸的横格纸上的，字迹要像爱因斯坦的笔迹，内容是关于世界货币的历史。确保字迹有明显的爱因斯坦式变化。在右上角添加一点咖啡渍。  那么爱因斯坦笔迹什么样呢，放一张照片对比一下。  在LMArena竞技场上，代号luna-lisa-alph",
-      "publishedAt": "2026-09-03T21:57:08Z",
-      "published_at": "2026-09-03T21:57:08Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
       "score_details": null
     },
     {
@@ -229,22 +207,22 @@
       "score_details": null
     },
     {
-      "id": "8d4b5be6",
-      "title": "AI卷到物理世界，小米迎来自己的主场",
-      "title_en": "AI卷到物理世界，小米迎来自己的主场？",
-      "url": "https://www.jiqizhixin.com/articles",
-      "source": "机器之心",
+      "id": "86c34c55",
+      "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/484155.html",
+      "source": "量子位",
       "source_type": null,
-      "sourceName": "机器之心",
-      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484155.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "AI卷到物理世界，小米迎来自己的主场？",
-      "summary_zh": "AI卷到物理世界，小米迎来自己的主场？",
-      "publishedAt": "2026-09-04T12:49:12Z",
-      "published_at": "2026-09-04T12:49:12Z",
+      "summary": "千问办公上线首月用户数突破 3000万，企业用户占比过半  量子位的朋友们 2026-09-04 13:48:53  来源：量子位   9月4日消息，阿里旗下企业级通用Agent产品千问办公上线满一个月，用户数突破3000 万，企业用户占比过半。  阿里巴巴是最早布局Agent产品的公司。8月3日，阿里整合几个Agent产品推出千问办公。上线仅一个月，千问办公总用户量即超过3000万，成为AI办公赛道增长最快的产品之一。同时，千问办公实现了企业市场的突破，企业用户数量占比过半，体现了阿里在企业级市场的显著优势。 在产品上，千问办公保持高频迭代。过去一个月，千问办公共完成 120 个版本更新，平均一天迭代4次，累计更新上千个feature。期间，千问办公推出国际版，全面进入全球市场。 千问办公持续推进Agent能力升级。8月17日，千问办公开源上下文基础设施MyContext。该技术可将海量异构工作数据转化为Agent可直接调用的上下文，开源数周即在GitHub获得超过3000 Star。结合与钉钉等IM软件的深度打通，千问办公可以将企业分散在消息、文档、审批、邮件、知识库等业务流程中的",
+      "summary_zh": "千问办公上线首月用户数突破 3000万，企业用户占比过半  量子位的朋友们 2026-09-04 13:48:53  来源：量子位   9月4日消息，阿里旗下企业级通用Agent产品千问办公上线满一个月，用户数突破3000 万，企业用户占比过半。  阿里巴巴是最早布局Agent产品的公司。8月3日，阿里整合几个Agent产品推出千问办公。上线仅一个月，千问办公总用户量即超过3000万，成为AI办公赛道增长最快的产品之一。同时，千问办公实现了企业市场的突破，企业用户数量占比过半，体现了阿里在企业级市场的显著优势。 在产品上，千问办公保持高频迭代。过去一个月，千问办公共完成 120 个版本更新，平均一天迭代4次，累计更新上千个feature。期间，千问办公推出国际版，全面进入全球市场。 千问办公持续推进Agent能力升级。8月17日，千问办公开源上下文基础设施MyContext。该技术可将海量异构工作数据转化为Agent可直接调用的上下文，开源数周即在GitHub获得超过3000 Star。结合与钉钉等IM软件的深度打通，千问办公可以将企业分散在消息、文档、审批、邮件、知识库等业务流程中的",
+      "publishedAt": "2026-09-04T05:48:53Z",
+      "published_at": "2026-09-04T05:48:53Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
