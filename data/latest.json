@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-05T11:54:58Z",
-  "generatedAt": "2026-09-05T11:54:58Z",
+  "generated_at": "2026-09-05T22:07:25Z",
+  "generatedAt": "2026-09-05T22:07:25Z",
   "days": 7,
-  "total": 6,
-  "count": 6,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "6f36314b",
@@ -22,7 +22,7 @@
       "summary_zh": "Markdown feature flags your coding agent insta",
       "publishedAt": "2026-09-05T07:01:00Z",
       "published_at": "2026-09-05T07:01:00Z",
-      "votes_count": 205,
+      "votes_count": 323,
       "featured": true,
       "topics": [
         {
@@ -65,7 +65,83 @@
       "summary_zh": "Behavioral learning that makes AI agents bette",
       "publishedAt": "2026-09-05T07:01:00Z",
       "published_at": "2026-09-05T07:01:00Z",
-      "votes_count": 143,
+      "votes_count": 236,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "950ca974",
+      "title": "产品更新：Ponytail",
+      "title_en": "Ponytail",
+      "url": "https://www.producthunt.com/products/ponytail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ponytail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Make new code the last resort Ponytail is a pl",
+      "summary_zh": "Make new code the last resort Ponytail is a pl",
+      "publishedAt": "2026-09-05T07:01:00Z",
+      "published_at": "2026-09-05T07:01:00Z",
+      "votes_count": 174,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "997f886c",
+      "title": "产品更新：Hyperprobe",
+      "title_en": "Hyperprobe",
+      "url": "https://www.producthunt.com/products/hyperprobe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/hyperprobe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Lets your AI agents debug production without r",
+      "summary_zh": "Lets your AI agents debug production without r",
+      "publishedAt": "2026-09-05T07:01:00Z",
+      "published_at": "2026-09-05T07:01:00Z",
+      "votes_count": 154,
       "featured": true,
       "topics": [
         {
@@ -167,8 +243,8 @@
       "rankingScore": 5.0,
       "summary": "AI实现原子级自动化，逐原子创建定制功能的人造石墨烯",
       "summary_zh": "AI实现原子级自动化，逐原子创建定制功能的人造石墨烯",
-      "publishedAt": "2026-09-05T11:54:23Z",
-      "published_at": "2026-09-05T11:54:23Z",
+      "publishedAt": "2026-09-05T22:06:27Z",
+      "published_at": "2026-09-05T22:06:27Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

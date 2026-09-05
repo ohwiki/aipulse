@@ -1,0 +1,513 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-05T22:07:25Z",
+  "generatedAt": "2026-09-05T22:07:25Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "6f36314b",
+          "title": "产品更新：dif.sh",
+          "title_en": "dif.sh",
+          "url": "https://www.producthunt.com/products/dif-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/dif-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Markdown feature flags your coding agent insta",
+          "summary_zh": "Markdown feature flags your coding agent insta",
+          "publishedAt": "2026-09-05T07:01:00Z",
+          "published_at": "2026-09-05T07:01:00Z",
+          "votes_count": 323,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1fa0401d",
+          "title": "产品更新：Reflexio",
+          "title_en": "Reflexio",
+          "url": "https://www.producthunt.com/products/reflexio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/reflexio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Behavioral learning that makes AI agents bette",
+          "summary_zh": "Behavioral learning that makes AI agents bette",
+          "publishedAt": "2026-09-05T07:01:00Z",
+          "published_at": "2026-09-05T07:01:00Z",
+          "votes_count": 236,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "950ca974",
+          "title": "产品更新：Ponytail",
+          "title_en": "Ponytail",
+          "url": "https://www.producthunt.com/products/ponytail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ponytail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Make new code the last resort Ponytail is a pl",
+          "summary_zh": "Make new code the last resort Ponytail is a pl",
+          "publishedAt": "2026-09-05T07:01:00Z",
+          "published_at": "2026-09-05T07:01:00Z",
+          "votes_count": 174,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "997f886c",
+          "title": "产品更新：Hyperprobe",
+          "title_en": "Hyperprobe",
+          "url": "https://www.producthunt.com/products/hyperprobe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/hyperprobe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Lets your AI agents debug production without r",
+          "summary_zh": "Lets your AI agents debug production without r",
+          "publishedAt": "2026-09-05T07:01:00Z",
+          "published_at": "2026-09-05T07:01:00Z",
+          "votes_count": 154,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "992a5d6a",
+          "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/484551.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/484551.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明  梦瑶 2026-09-05 09:17:56  来源：量子位   最后靠Harness救回来  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 人类和费马大定理纠缠了三个半世纪，Claude这次只用了11天！？ 刚刚，Anthropic宣布，Claude完成了首个端到端、可由计算机完整检查的费马大定理证明。 约1300万行Lean代码、超过3万个中间定理、最终证明使用其中约29500个。 整个工程规模，已经超过Lean核心数学库Mathlib的5倍。     这次Claude没有发现一个全新的费马大定理证明。 它完成的是另一件同样工程量《惊人》的工作： 把人类数学家能够读懂的证明，彻底翻译成计算机能够一行一行检查、没有任何「这里显然」的形式化证明。 而这件事，数学界原本是按多年工程来准备的？？？？     350多年数学史，被Claude塞进1300万行Lean 先快速说一下费马大定理到底是什么。 其指的是，对于任意整数n>2，都不存在正整数a、b、c，使：aⁿ+bⁿ=cⁿ。 这个命题看起来极其简单，难度却高得离谱！！",
+          "summary_zh": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明  梦瑶 2026-09-05 09:17:56  来源：量子位   最后靠Harness救回来  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 人类和费马大定理纠缠了三个半世纪，Claude这次只用了11天！？ 刚刚，Anthropic宣布，Claude完成了首个端到端、可由计算机完整检查的费马大定理证明。 约1300万行Lean代码、超过3万个中间定理、最终证明使用其中约29500个。 整个工程规模，已经超过Lean核心数学库Mathlib的5倍。     这次Claude没有发现一个全新的费马大定理证明。 它完成的是另一件同样工程量《惊人》的工作： 把人类数学家能够读懂的证明，彻底翻译成计算机能够一行一行检查、没有任何「这里显然」的形式化证明。 而这件事，数学界原本是按多年工程来准备的？？？？     350多年数学史，被Claude塞进1300万行Lean 先快速说一下费马大定理到底是什么。 其指的是，对于任意整数n>2，都不存在正整数a、b、c，使：aⁿ+bⁿ=cⁿ。 这个命题看起来极其简单，难度却高得离谱！！",
+          "publishedAt": "2026-09-05T01:17:56Z",
+          "published_at": "2026-09-05T01:17:56Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "4e64df06",
+          "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/484611.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/484611.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "这个世界模型训练完就“退场”，机器人反而更能干了  梦瑶 2026-09-05 12:18:54  来源：量子位   如此“反骨”的方法，具体又是怎么实现的？  金磊 发自 凹非寺 量子位 | 公众号 QbitAI 这个世界模型，着实是有点“反骨”在身上—— 上岗前花了大把时间陪机器人训练，等机器人真要开始干活了，它却先从部署链路里退了出去。     要知道，以前的世界模型对机器人来说，就像是一个随身携带的“脑内沙盘”，机器人先借助它预测未来会发生什么，再据此决定下一步怎么动。模型想得越多，推理链路往往也越长。 但这个“反骨”世界模型，却把思路给换了一下。 它只停留在训练场里，专门检查机器人自己提出的动作会造成什么后果，再把这种检查变成策略优化的反馈。等训练完成，受控世界模型便退出部署链路，机器人执行任务时无需继续展开未来、搜索候选动作。 结果呢？ 机器人反倒是更能干活了！ 这便是由光象科技联合清华大学李升波教授课题组发布的第一代物理原生世界模型Phi-WM 1.0 ActEffect（下文简称ActEffect），整体来看，这项技术试图回答的是具身智能里一个长期存在的问题：  机器人",
+          "summary_zh": "这个世界模型训练完就“退场”，机器人反而更能干了  梦瑶 2026-09-05 12:18:54  来源：量子位   如此“反骨”的方法，具体又是怎么实现的？  金磊 发自 凹非寺 量子位 | 公众号 QbitAI 这个世界模型，着实是有点“反骨”在身上—— 上岗前花了大把时间陪机器人训练，等机器人真要开始干活了，它却先从部署链路里退了出去。     要知道，以前的世界模型对机器人来说，就像是一个随身携带的“脑内沙盘”，机器人先借助它预测未来会发生什么，再据此决定下一步怎么动。模型想得越多，推理链路往往也越长。 但这个“反骨”世界模型，却把思路给换了一下。 它只停留在训练场里，专门检查机器人自己提出的动作会造成什么后果，再把这种检查变成策略优化的反馈。等训练完成，受控世界模型便退出部署链路，机器人执行任务时无需继续展开未来、搜索候选动作。 结果呢？ 机器人反倒是更能干活了！ 这便是由光象科技联合清华大学李升波教授课题组发布的第一代物理原生世界模型Phi-WM 1.0 ActEffect（下文简称ActEffect），整体来看，这项技术试图回答的是具身智能里一个长期存在的问题：  机器人",
+          "publishedAt": "2026-09-05T04:18:54Z",
+          "published_at": "2026-09-05T04:18:54Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "293de962",
+          "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/484649.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/484649.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕  梦瑶 2026-09-05 12:24:25  来源：量子位   AI直接吐出正确答案，但最关键的可能不是答案  鱼羊 发自 凹非寺量子位 | 公众号 QbitAI 一向积极拥抱AI的陶哲轩，突然发出一则AI告警： AI抢答数学难题，反而可能阻碍数学领域的真正发展。    怎么个事？ 直接给大家划一下陶神的重点： AI解题太快、过程又太黑盒，这种能力反而可能掩盖了数学研究过程中那些宝贵的「失败」。  如果我们希望这种迭代（解答开放性数学问题的过程）真正产生新的理解，那么负责进行迭代的人或系统，最好不能提前知道最终正确的拟设是什么。 因为一旦提前知道重点，就很容易抑制对其他路线的探索。 这些路线表面上看可能只是「死胡同」，但事实上，它们为什么会失败，本身往往极具启发性。  还cue到了某些公司……  与此同时，运行AI系统的公司，却把通往这个最终拟设的整个过程，几乎完全隔绝在公众视野之外……     AI直接吐出正确答案，但最关键的可能不是答案 陶哲轩举了一个非常具体的例子——数学界最著名的开放问题之一，「纳维-斯托克斯方程全局正则性",
+          "summary_zh": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕  梦瑶 2026-09-05 12:24:25  来源：量子位   AI直接吐出正确答案，但最关键的可能不是答案  鱼羊 发自 凹非寺量子位 | 公众号 QbitAI 一向积极拥抱AI的陶哲轩，突然发出一则AI告警： AI抢答数学难题，反而可能阻碍数学领域的真正发展。    怎么个事？ 直接给大家划一下陶神的重点： AI解题太快、过程又太黑盒，这种能力反而可能掩盖了数学研究过程中那些宝贵的「失败」。  如果我们希望这种迭代（解答开放性数学问题的过程）真正产生新的理解，那么负责进行迭代的人或系统，最好不能提前知道最终正确的拟设是什么。 因为一旦提前知道重点，就很容易抑制对其他路线的探索。 这些路线表面上看可能只是「死胡同」，但事实上，它们为什么会失败，本身往往极具启发性。  还cue到了某些公司……  与此同时，运行AI系统的公司，却把通往这个最终拟设的整个过程，几乎完全隔绝在公众视野之外……     AI直接吐出正确答案，但最关键的可能不是答案 陶哲轩举了一个非常具体的例子——数学界最著名的开放问题之一，「纳维-斯托克斯方程全局正则性",
+          "publishedAt": "2026-09-05T04:24:25Z",
+          "published_at": "2026-09-05T04:24:25Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "b05bfef7",
+          "title": "AI实现原子级自动化，逐原子创建定制",
+          "title_en": "AI实现原子级自动化，逐原子创建定制功能的人造石墨烯",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "AI实现原子级自动化，逐原子创建定制功能的人造石墨烯",
+          "summary_zh": "AI实现原子级自动化，逐原子创建定制功能的人造石墨烯",
+          "publishedAt": "2026-09-05T22:06:27Z",
+          "published_at": "2026-09-05T22:06:27Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "6f36314b",
+      "title": "产品更新：dif.sh",
+      "title_en": "dif.sh",
+      "url": "https://www.producthunt.com/products/dif-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/dif-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Markdown feature flags your coding agent insta",
+      "summary_zh": "Markdown feature flags your coding agent insta",
+      "publishedAt": "2026-09-05T07:01:00Z",
+      "published_at": "2026-09-05T07:01:00Z",
+      "votes_count": 323,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1fa0401d",
+      "title": "产品更新：Reflexio",
+      "title_en": "Reflexio",
+      "url": "https://www.producthunt.com/products/reflexio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/reflexio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Behavioral learning that makes AI agents bette",
+      "summary_zh": "Behavioral learning that makes AI agents bette",
+      "publishedAt": "2026-09-05T07:01:00Z",
+      "published_at": "2026-09-05T07:01:00Z",
+      "votes_count": 236,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "950ca974",
+      "title": "产品更新：Ponytail",
+      "title_en": "Ponytail",
+      "url": "https://www.producthunt.com/products/ponytail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ponytail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Make new code the last resort Ponytail is a pl",
+      "summary_zh": "Make new code the last resort Ponytail is a pl",
+      "publishedAt": "2026-09-05T07:01:00Z",
+      "published_at": "2026-09-05T07:01:00Z",
+      "votes_count": 174,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "997f886c",
+      "title": "产品更新：Hyperprobe",
+      "title_en": "Hyperprobe",
+      "url": "https://www.producthunt.com/products/hyperprobe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/hyperprobe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Lets your AI agents debug production without r",
+      "summary_zh": "Lets your AI agents debug production without r",
+      "publishedAt": "2026-09-05T07:01:00Z",
+      "published_at": "2026-09-05T07:01:00Z",
+      "votes_count": 154,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "992a5d6a",
+      "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/484551.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484551.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明  梦瑶 2026-09-05 09:17:56  来源：量子位   最后靠Harness救回来  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 人类和费马大定理纠缠了三个半世纪，Claude这次只用了11天！？ 刚刚，Anthropic宣布，Claude完成了首个端到端、可由计算机完整检查的费马大定理证明。 约1300万行Lean代码、超过3万个中间定理、最终证明使用其中约29500个。 整个工程规模，已经超过Lean核心数学库Mathlib的5倍。     这次Claude没有发现一个全新的费马大定理证明。 它完成的是另一件同样工程量《惊人》的工作： 把人类数学家能够读懂的证明，彻底翻译成计算机能够一行一行检查、没有任何「这里显然」的形式化证明。 而这件事，数学界原本是按多年工程来准备的？？？？     350多年数学史，被Claude塞进1300万行Lean 先快速说一下费马大定理到底是什么。 其指的是，对于任意整数n>2，都不存在正整数a、b、c，使：aⁿ+bⁿ=cⁿ。 这个命题看起来极其简单，难度却高得离谱！！",
+      "summary_zh": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明  梦瑶 2026-09-05 09:17:56  来源：量子位   最后靠Harness救回来  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 人类和费马大定理纠缠了三个半世纪，Claude这次只用了11天！？ 刚刚，Anthropic宣布，Claude完成了首个端到端、可由计算机完整检查的费马大定理证明。 约1300万行Lean代码、超过3万个中间定理、最终证明使用其中约29500个。 整个工程规模，已经超过Lean核心数学库Mathlib的5倍。     这次Claude没有发现一个全新的费马大定理证明。 它完成的是另一件同样工程量《惊人》的工作： 把人类数学家能够读懂的证明，彻底翻译成计算机能够一行一行检查、没有任何「这里显然」的形式化证明。 而这件事，数学界原本是按多年工程来准备的？？？？     350多年数学史，被Claude塞进1300万行Lean 先快速说一下费马大定理到底是什么。 其指的是，对于任意整数n>2，都不存在正整数a、b、c，使：aⁿ+bⁿ=cⁿ。 这个命题看起来极其简单，难度却高得离谱！！",
+      "publishedAt": "2026-09-05T01:17:56Z",
+      "published_at": "2026-09-05T01:17:56Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4e64df06",
+      "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/484611.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484611.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "这个世界模型训练完就“退场”，机器人反而更能干了  梦瑶 2026-09-05 12:18:54  来源：量子位   如此“反骨”的方法，具体又是怎么实现的？  金磊 发自 凹非寺 量子位 | 公众号 QbitAI 这个世界模型，着实是有点“反骨”在身上—— 上岗前花了大把时间陪机器人训练，等机器人真要开始干活了，它却先从部署链路里退了出去。     要知道，以前的世界模型对机器人来说，就像是一个随身携带的“脑内沙盘”，机器人先借助它预测未来会发生什么，再据此决定下一步怎么动。模型想得越多，推理链路往往也越长。 但这个“反骨”世界模型，却把思路给换了一下。 它只停留在训练场里，专门检查机器人自己提出的动作会造成什么后果，再把这种检查变成策略优化的反馈。等训练完成，受控世界模型便退出部署链路，机器人执行任务时无需继续展开未来、搜索候选动作。 结果呢？ 机器人反倒是更能干活了！ 这便是由光象科技联合清华大学李升波教授课题组发布的第一代物理原生世界模型Phi-WM 1.0 ActEffect（下文简称ActEffect），整体来看，这项技术试图回答的是具身智能里一个长期存在的问题：  机器人",
+      "summary_zh": "这个世界模型训练完就“退场”，机器人反而更能干了  梦瑶 2026-09-05 12:18:54  来源：量子位   如此“反骨”的方法，具体又是怎么实现的？  金磊 发自 凹非寺 量子位 | 公众号 QbitAI 这个世界模型，着实是有点“反骨”在身上—— 上岗前花了大把时间陪机器人训练，等机器人真要开始干活了，它却先从部署链路里退了出去。     要知道，以前的世界模型对机器人来说，就像是一个随身携带的“脑内沙盘”，机器人先借助它预测未来会发生什么，再据此决定下一步怎么动。模型想得越多，推理链路往往也越长。 但这个“反骨”世界模型，却把思路给换了一下。 它只停留在训练场里，专门检查机器人自己提出的动作会造成什么后果，再把这种检查变成策略优化的反馈。等训练完成，受控世界模型便退出部署链路，机器人执行任务时无需继续展开未来、搜索候选动作。 结果呢？ 机器人反倒是更能干活了！ 这便是由光象科技联合清华大学李升波教授课题组发布的第一代物理原生世界模型Phi-WM 1.0 ActEffect（下文简称ActEffect），整体来看，这项技术试图回答的是具身智能里一个长期存在的问题：  机器人",
+      "publishedAt": "2026-09-05T04:18:54Z",
+      "published_at": "2026-09-05T04:18:54Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "293de962",
+      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/484649.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484649.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕  梦瑶 2026-09-05 12:24:25  来源：量子位   AI直接吐出正确答案，但最关键的可能不是答案  鱼羊 发自 凹非寺量子位 | 公众号 QbitAI 一向积极拥抱AI的陶哲轩，突然发出一则AI告警： AI抢答数学难题，反而可能阻碍数学领域的真正发展。    怎么个事？ 直接给大家划一下陶神的重点： AI解题太快、过程又太黑盒，这种能力反而可能掩盖了数学研究过程中那些宝贵的「失败」。  如果我们希望这种迭代（解答开放性数学问题的过程）真正产生新的理解，那么负责进行迭代的人或系统，最好不能提前知道最终正确的拟设是什么。 因为一旦提前知道重点，就很容易抑制对其他路线的探索。 这些路线表面上看可能只是「死胡同」，但事实上，它们为什么会失败，本身往往极具启发性。  还cue到了某些公司……  与此同时，运行AI系统的公司，却把通往这个最终拟设的整个过程，几乎完全隔绝在公众视野之外……     AI直接吐出正确答案，但最关键的可能不是答案 陶哲轩举了一个非常具体的例子——数学界最著名的开放问题之一，「纳维-斯托克斯方程全局正则性",
+      "summary_zh": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕  梦瑶 2026-09-05 12:24:25  来源：量子位   AI直接吐出正确答案，但最关键的可能不是答案  鱼羊 发自 凹非寺量子位 | 公众号 QbitAI 一向积极拥抱AI的陶哲轩，突然发出一则AI告警： AI抢答数学难题，反而可能阻碍数学领域的真正发展。    怎么个事？ 直接给大家划一下陶神的重点： AI解题太快、过程又太黑盒，这种能力反而可能掩盖了数学研究过程中那些宝贵的「失败」。  如果我们希望这种迭代（解答开放性数学问题的过程）真正产生新的理解，那么负责进行迭代的人或系统，最好不能提前知道最终正确的拟设是什么。 因为一旦提前知道重点，就很容易抑制对其他路线的探索。 这些路线表面上看可能只是「死胡同」，但事实上，它们为什么会失败，本身往往极具启发性。  还cue到了某些公司……  与此同时，运行AI系统的公司，却把通往这个最终拟设的整个过程，几乎完全隔绝在公众视野之外……     AI直接吐出正确答案，但最关键的可能不是答案 陶哲轩举了一个非常具体的例子——数学界最著名的开放问题之一，「纳维-斯托克斯方程全局正则性",
+      "publishedAt": "2026-09-05T04:24:25Z",
+      "published_at": "2026-09-05T04:24:25Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "b05bfef7",
+      "title": "AI实现原子级自动化，逐原子创建定制",
+      "title_en": "AI实现原子级自动化，逐原子创建定制功能的人造石墨烯",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AI实现原子级自动化，逐原子创建定制功能的人造石墨烯",
+      "summary_zh": "AI实现原子级自动化，逐原子创建定制功能的人造石墨烯",
+      "publishedAt": "2026-09-05T22:06:27Z",
+      "published_at": "2026-09-05T22:06:27Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

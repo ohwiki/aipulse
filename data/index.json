@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-09-05T11:54:58Z",
-  "generatedAt": "2026-09-05T11:54:58Z",
-  "count": 116,
-  "total": 116,
+  "generated_at": "2026-09-05T22:07:25Z",
+  "generatedAt": "2026-09-05T22:07:25Z",
+  "count": 117,
+  "total": 117,
   "entries": [
+    {
+      "date": "2026-09-06",
+      "generated_at": "2026-09-05T22:07:25Z",
+      "generatedAt": "2026-09-05T22:07:25Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "6f36314b",
+          "title": "产品更新：dif.sh",
+          "title_en": "dif.sh",
+          "url": "https://www.producthunt.com/products/dif-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/dif-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Markdown feature flags your coding agent insta",
+          "summary_zh": "Markdown feature flags your coding agent insta",
+          "publishedAt": "2026-09-05T07:01:00Z",
+          "published_at": "2026-09-05T07:01:00Z",
+          "votes_count": 323,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1fa0401d",
+          "title": "产品更新：Reflexio",
+          "title_en": "Reflexio",
+          "url": "https://www.producthunt.com/products/reflexio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/reflexio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Behavioral learning that makes AI agents bette",
+          "summary_zh": "Behavioral learning that makes AI agents bette",
+          "publishedAt": "2026-09-05T07:01:00Z",
+          "published_at": "2026-09-05T07:01:00Z",
+          "votes_count": 236,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "950ca974",
+          "title": "产品更新：Ponytail",
+          "title_en": "Ponytail",
+          "url": "https://www.producthunt.com/products/ponytail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ponytail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Make new code the last resort Ponytail is a pl",
+          "summary_zh": "Make new code the last resort Ponytail is a pl",
+          "publishedAt": "2026-09-05T07:01:00Z",
+          "published_at": "2026-09-05T07:01:00Z",
+          "votes_count": 174,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-05",
       "generated_at": "2026-09-05T11:54:58Z",
