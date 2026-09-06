@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-09-05T22:07:25Z",
-  "generatedAt": "2026-09-05T22:07:25Z",
+  "generated_at": "2026-09-06T12:14:01Z",
+  "generatedAt": "2026-09-06T12:14:01Z",
   "count": 117,
   "total": 117,
   "entries": [
     {
       "date": "2026-09-06",
-      "generated_at": "2026-09-05T22:07:25Z",
-      "generatedAt": "2026-09-05T22:07:25Z",
+      "generated_at": "2026-09-06T12:14:01Z",
+      "generatedAt": "2026-09-06T12:14:01Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "6f36314b",
-          "title": "产品更新：dif.sh",
-          "title_en": "dif.sh",
-          "url": "https://www.producthunt.com/products/dif-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "5bba3ce1",
+          "title": "AI资讯更新：AI Toolbox 3.",
+          "title_en": "AI Toolbox 3.0",
+          "url": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/dif-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Markdown feature flags your coding agent insta",
-          "summary_zh": "Markdown feature flags your coding agent insta",
-          "publishedAt": "2026-09-05T07:01:00Z",
-          "published_at": "2026-09-05T07:01:00Z",
-          "votes_count": 323,
+          "summary": "Search, organize and export every AI chat in o",
+          "summary_zh": "Search, organize and export every AI chat in o",
+          "publishedAt": "2026-09-06T07:01:00Z",
+          "published_at": "2026-09-06T07:01:00Z",
+          "votes_count": 152,
           "featured": true,
           "topics": [
             {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
+              "id": "34",
+              "name": "Chrome Extensions",
+              "slug": "chrome-extensions"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
               "id": "268",
@@ -47,85 +47,85 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
+              "id": "279",
+              "name": "YouTube",
+              "slug": "youtube"
             }
           ],
           "score_details": null
         },
         {
-          "id": "1fa0401d",
-          "title": "产品更新：Reflexio",
-          "title_en": "Reflexio",
-          "url": "https://www.producthunt.com/products/reflexio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "8a4ddadf",
+          "title": "AI资讯更新：Notify.domain",
+          "title_en": "Notify.domains",
+          "url": "https://www.producthunt.com/products/notify-domains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/reflexio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/notify-domains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Behavioral learning that makes AI agents bette",
-          "summary_zh": "Behavioral learning that makes AI agents bette",
-          "publishedAt": "2026-09-05T07:01:00Z",
-          "published_at": "2026-09-05T07:01:00Z",
-          "votes_count": 236,
+          "summary": "Know the moment a domain opportunity appears M",
+          "summary_zh": "Know the moment a domain opportunity appears M",
+          "publishedAt": "2026-09-06T07:01:00Z",
+          "published_at": "2026-09-06T07:01:00Z",
+          "votes_count": 142,
           "featured": true,
           "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            },
             {
               "id": "237",
               "name": "SaaS",
               "slug": "saas"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
         },
         {
-          "id": "950ca974",
-          "title": "产品更新：Ponytail",
-          "title_en": "Ponytail",
-          "url": "https://www.producthunt.com/products/ponytail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "7a45f7f7",
+          "title": "产品更新：Agentic Video U",
+          "title_en": "Agentic Video Understanding in Gemini",
+          "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/ponytail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Make new code the last resort Ponytail is a pl",
-          "summary_zh": "Make new code the last resort Ponytail is a pl",
-          "publishedAt": "2026-09-05T07:01:00Z",
-          "published_at": "2026-09-05T07:01:00Z",
-          "votes_count": 174,
+          "summary": "Agentic video analysis for faster, smarter Gem",
+          "summary_zh": "Agentic video analysis for faster, smarter Gem",
+          "publishedAt": "2026-09-06T07:01:00Z",
+          "published_at": "2026-09-06T07:01:00Z",
+          "votes_count": 136,
           "featured": true,
           "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
             },
             {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "589",
-              "name": "Development",
-              "slug": "development"
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
             }
           ],
           "score_details": null
