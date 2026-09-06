@@ -1,0 +1,513 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-06T22:10:35Z",
+  "generatedAt": "2026-09-06T22:10:35Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "5bba3ce1",
+          "title": "AI资讯更新：AI Toolbox 3.",
+          "title_en": "AI Toolbox 3.0",
+          "url": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Search, organize and export every AI chat in o",
+          "summary_zh": "Search, organize and export every AI chat in o",
+          "publishedAt": "2026-09-06T07:01:00Z",
+          "published_at": "2026-09-06T07:01:00Z",
+          "votes_count": 315,
+          "featured": true,
+          "topics": [
+            {
+              "id": "34",
+              "name": "Chrome Extensions",
+              "slug": "chrome-extensions"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "279",
+              "name": "YouTube",
+              "slug": "youtube"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "24554b16",
+          "title": "产品更新：Tadata",
+          "title_en": "Tadata",
+          "url": "https://www.producthunt.com/products/tadata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/tadata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The AI employee in Slack that reads the room.",
+          "summary_zh": "The AI employee in Slack that reads the room.",
+          "publishedAt": "2026-09-06T07:01:00Z",
+          "published_at": "2026-09-06T07:01:00Z",
+          "votes_count": 268,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8a4ddadf",
+          "title": "AI资讯更新：Notify.domain",
+          "title_en": "Notify.domains",
+          "url": "https://www.producthunt.com/products/notify-domains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/notify-domains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Know the moment a domain opportunity appears M",
+          "summary_zh": "Know the moment a domain opportunity appears M",
+          "publishedAt": "2026-09-06T07:01:00Z",
+          "published_at": "2026-09-06T07:01:00Z",
+          "votes_count": 244,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "7a45f7f7",
+          "title": "产品更新：Agentic Video U",
+          "title_en": "Agentic Video Understanding in Gemini",
+          "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Agentic video analysis for faster, smarter Gem",
+          "summary_zh": "Agentic video analysis for faster, smarter Gem",
+          "publishedAt": "2026-09-06T07:01:00Z",
+          "published_at": "2026-09-06T07:01:00Z",
+          "votes_count": 205,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "39954218",
+          "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/484890.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/484890.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "B站首届AI创造公开赛收官，超八成参赛者为一人团队  量子位的朋友们 2026-09-06 12:40:15  来源：量子位   9月5日，哔哩哔哩（简称”B站”）首届”build in bilibili · AI创造公开赛”落幕，同期举办”bilibili builder club”线下开发者交流活动，现场揭晓获奖名单。 本届大赛总奖金池达143万元，其中UP主W博士与AI猫娘凭《猫娘计划 Project N.E.K.O.》获得一等奖，独享100万奖金。UP主扎克鸡的《元气骑士3D版》和UP主电烤皇带鱼的《世界之门》分别获二三等奖。  此次AI创造公开赛于6月5日启动，8月20日截止，共收到超3万份投稿，参与创作者1.34万人，吸引超100万用户互动，相关内容累计播放时长超3.5亿分钟。 本次公开赛不设门槛，参赛者只需在B站持续发布AI创作过程的视频。数据显示，没有专业开发背景的参赛者占比超六成。同时，参赛者可将产品发布在B站的Toy平台上，活动期间Toy上的参赛作品累计被用户使用近5000万次。 如今，B站已经是国内AI内容发酵的重要社区。数据显示，2026年第二季度AI知识内容消",
+          "summary_zh": "B站首届AI创造公开赛收官，超八成参赛者为一人团队  量子位的朋友们 2026-09-06 12:40:15  来源：量子位   9月5日，哔哩哔哩（简称”B站”）首届”build in bilibili · AI创造公开赛”落幕，同期举办”bilibili builder club”线下开发者交流活动，现场揭晓获奖名单。 本届大赛总奖金池达143万元，其中UP主W博士与AI猫娘凭《猫娘计划 Project N.E.K.O.》获得一等奖，独享100万奖金。UP主扎克鸡的《元气骑士3D版》和UP主电烤皇带鱼的《世界之门》分别获二三等奖。  此次AI创造公开赛于6月5日启动，8月20日截止，共收到超3万份投稿，参与创作者1.34万人，吸引超100万用户互动，相关内容累计播放时长超3.5亿分钟。 本次公开赛不设门槛，参赛者只需在B站持续发布AI创作过程的视频。数据显示，没有专业开发背景的参赛者占比超六成。同时，参赛者可将产品发布在B站的Toy平台上，活动期间Toy上的参赛作品累计被用户使用近5000万次。 如今，B站已经是国内AI内容发酵的重要社区。数据显示，2026年第二季度AI知识内容消",
+          "publishedAt": "2026-09-06T04:40:15Z",
+          "published_at": "2026-09-06T04:40:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f10058ad",
+          "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/484897.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/484897.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "具身ICL来了创业玩家！上下文成Scaling新赛道  梦晨 2026-09-06 19:44:21  来源：量子位   让机器人学会利用更长的多模态Context   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  2020年，GPT-3靠“看几个示例就会新任务”震动了NLP界；六年后的今天，同样的故事正在具身智能领域上演。 没错，就是In-Context Learning。 8月中旬，Skild AI发布机器人基础模型S1。只需要给机器人看一遍任务演示视频，它可以在不微调、不做额外post-training的情况下，尝试完成此前没有训练过的新任务。任务时长可达10分钟，包含几十个操作步骤。 Skild在（训练数据）见过的任务和未见过的任务上，对比了ICL视频Prompt和传统的语言Prompt VLA。 测试结果表明，当训练数据只有1000小时时，语言Prompt效果更好，而随着数据规模增加，ICL开始反超。对于未见任务，加入视频context后，模型表现相比只用语言指令提升约7倍。    S1发布的一周之前，Generalist AI发布GEN-1.5，同样把One-Sh",
+          "summary_zh": "具身ICL来了创业玩家！上下文成Scaling新赛道  梦晨 2026-09-06 19:44:21  来源：量子位   让机器人学会利用更长的多模态Context   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  2020年，GPT-3靠“看几个示例就会新任务”震动了NLP界；六年后的今天，同样的故事正在具身智能领域上演。 没错，就是In-Context Learning。 8月中旬，Skild AI发布机器人基础模型S1。只需要给机器人看一遍任务演示视频，它可以在不微调、不做额外post-training的情况下，尝试完成此前没有训练过的新任务。任务时长可达10分钟，包含几十个操作步骤。 Skild在（训练数据）见过的任务和未见过的任务上，对比了ICL视频Prompt和传统的语言Prompt VLA。 测试结果表明，当训练数据只有1000小时时，语言Prompt效果更好，而随着数据规模增加，ICL开始反超。对于未见任务，加入视频context后，模型表现相比只用语言指令提升约7倍。    S1发布的一周之前，Generalist AI发布GEN-1.5，同样把One-Sh",
+          "publishedAt": "2026-09-06T11:44:21Z",
+          "published_at": "2026-09-06T11:44:21Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "44713167",
+          "title": "1位菲尔兹奖得主+12位博士，这些俄",
+          "title_en": "1位菲尔兹奖得主+12位博士，这些俄罗斯数学家训出了顶级AI",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "1位菲尔兹奖得主+12位博士，这些俄罗斯数学家训出了顶级AI",
+          "summary_zh": "1位菲尔兹奖得主+12位博士，这些俄罗斯数学家训出了顶级AI",
+          "publishedAt": "2026-09-06T22:10:13Z",
+          "published_at": "2026-09-06T22:10:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0f1b13c2",
+          "title": "GPT-6 Astra杀疯了：只要你",
+          "title_en": "GPT-6 Astra杀疯了：只要你学得够慢，就可以不用学了？",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "GPT-6 Astra杀疯了：只要你学得够慢，就可以不用学了？",
+          "summary_zh": "GPT-6 Astra杀疯了：只要你学得够慢，就可以不用学了？",
+          "publishedAt": "2026-09-06T22:10:13Z",
+          "published_at": "2026-09-06T22:10:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "5bba3ce1",
+      "title": "AI资讯更新：AI Toolbox 3.",
+      "title_en": "AI Toolbox 3.0",
+      "url": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Search, organize and export every AI chat in o",
+      "summary_zh": "Search, organize and export every AI chat in o",
+      "publishedAt": "2026-09-06T07:01:00Z",
+      "published_at": "2026-09-06T07:01:00Z",
+      "votes_count": 315,
+      "featured": true,
+      "topics": [
+        {
+          "id": "34",
+          "name": "Chrome Extensions",
+          "slug": "chrome-extensions"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "279",
+          "name": "YouTube",
+          "slug": "youtube"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "24554b16",
+      "title": "产品更新：Tadata",
+      "title_en": "Tadata",
+      "url": "https://www.producthunt.com/products/tadata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/tadata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI employee in Slack that reads the room.",
+      "summary_zh": "The AI employee in Slack that reads the room.",
+      "publishedAt": "2026-09-06T07:01:00Z",
+      "published_at": "2026-09-06T07:01:00Z",
+      "votes_count": 268,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8a4ddadf",
+      "title": "AI资讯更新：Notify.domain",
+      "title_en": "Notify.domains",
+      "url": "https://www.producthunt.com/products/notify-domains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/notify-domains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Know the moment a domain opportunity appears M",
+      "summary_zh": "Know the moment a domain opportunity appears M",
+      "publishedAt": "2026-09-06T07:01:00Z",
+      "published_at": "2026-09-06T07:01:00Z",
+      "votes_count": 244,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "231",
+          "name": "SEO",
+          "slug": "seo"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "7a45f7f7",
+      "title": "产品更新：Agentic Video U",
+      "title_en": "Agentic Video Understanding in Gemini",
+      "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Agentic video analysis for faster, smarter Gem",
+      "summary_zh": "Agentic video analysis for faster, smarter Gem",
+      "publishedAt": "2026-09-06T07:01:00Z",
+      "published_at": "2026-09-06T07:01:00Z",
+      "votes_count": 205,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "39954218",
+      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/484890.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484890.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "B站首届AI创造公开赛收官，超八成参赛者为一人团队  量子位的朋友们 2026-09-06 12:40:15  来源：量子位   9月5日，哔哩哔哩（简称”B站”）首届”build in bilibili · AI创造公开赛”落幕，同期举办”bilibili builder club”线下开发者交流活动，现场揭晓获奖名单。 本届大赛总奖金池达143万元，其中UP主W博士与AI猫娘凭《猫娘计划 Project N.E.K.O.》获得一等奖，独享100万奖金。UP主扎克鸡的《元气骑士3D版》和UP主电烤皇带鱼的《世界之门》分别获二三等奖。  此次AI创造公开赛于6月5日启动，8月20日截止，共收到超3万份投稿，参与创作者1.34万人，吸引超100万用户互动，相关内容累计播放时长超3.5亿分钟。 本次公开赛不设门槛，参赛者只需在B站持续发布AI创作过程的视频。数据显示，没有专业开发背景的参赛者占比超六成。同时，参赛者可将产品发布在B站的Toy平台上，活动期间Toy上的参赛作品累计被用户使用近5000万次。 如今，B站已经是国内AI内容发酵的重要社区。数据显示，2026年第二季度AI知识内容消",
+      "summary_zh": "B站首届AI创造公开赛收官，超八成参赛者为一人团队  量子位的朋友们 2026-09-06 12:40:15  来源：量子位   9月5日，哔哩哔哩（简称”B站”）首届”build in bilibili · AI创造公开赛”落幕，同期举办”bilibili builder club”线下开发者交流活动，现场揭晓获奖名单。 本届大赛总奖金池达143万元，其中UP主W博士与AI猫娘凭《猫娘计划 Project N.E.K.O.》获得一等奖，独享100万奖金。UP主扎克鸡的《元气骑士3D版》和UP主电烤皇带鱼的《世界之门》分别获二三等奖。  此次AI创造公开赛于6月5日启动，8月20日截止，共收到超3万份投稿，参与创作者1.34万人，吸引超100万用户互动，相关内容累计播放时长超3.5亿分钟。 本次公开赛不设门槛，参赛者只需在B站持续发布AI创作过程的视频。数据显示，没有专业开发背景的参赛者占比超六成。同时，参赛者可将产品发布在B站的Toy平台上，活动期间Toy上的参赛作品累计被用户使用近5000万次。 如今，B站已经是国内AI内容发酵的重要社区。数据显示，2026年第二季度AI知识内容消",
+      "publishedAt": "2026-09-06T04:40:15Z",
+      "published_at": "2026-09-06T04:40:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f10058ad",
+      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/484897.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484897.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "具身ICL来了创业玩家！上下文成Scaling新赛道  梦晨 2026-09-06 19:44:21  来源：量子位   让机器人学会利用更长的多模态Context   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  2020年，GPT-3靠“看几个示例就会新任务”震动了NLP界；六年后的今天，同样的故事正在具身智能领域上演。 没错，就是In-Context Learning。 8月中旬，Skild AI发布机器人基础模型S1。只需要给机器人看一遍任务演示视频，它可以在不微调、不做额外post-training的情况下，尝试完成此前没有训练过的新任务。任务时长可达10分钟，包含几十个操作步骤。 Skild在（训练数据）见过的任务和未见过的任务上，对比了ICL视频Prompt和传统的语言Prompt VLA。 测试结果表明，当训练数据只有1000小时时，语言Prompt效果更好，而随着数据规模增加，ICL开始反超。对于未见任务，加入视频context后，模型表现相比只用语言指令提升约7倍。    S1发布的一周之前，Generalist AI发布GEN-1.5，同样把One-Sh",
+      "summary_zh": "具身ICL来了创业玩家！上下文成Scaling新赛道  梦晨 2026-09-06 19:44:21  来源：量子位   让机器人学会利用更长的多模态Context   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  2020年，GPT-3靠“看几个示例就会新任务”震动了NLP界；六年后的今天，同样的故事正在具身智能领域上演。 没错，就是In-Context Learning。 8月中旬，Skild AI发布机器人基础模型S1。只需要给机器人看一遍任务演示视频，它可以在不微调、不做额外post-training的情况下，尝试完成此前没有训练过的新任务。任务时长可达10分钟，包含几十个操作步骤。 Skild在（训练数据）见过的任务和未见过的任务上，对比了ICL视频Prompt和传统的语言Prompt VLA。 测试结果表明，当训练数据只有1000小时时，语言Prompt效果更好，而随着数据规模增加，ICL开始反超。对于未见任务，加入视频context后，模型表现相比只用语言指令提升约7倍。    S1发布的一周之前，Generalist AI发布GEN-1.5，同样把One-Sh",
+      "publishedAt": "2026-09-06T11:44:21Z",
+      "published_at": "2026-09-06T11:44:21Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "44713167",
+      "title": "1位菲尔兹奖得主+12位博士，这些俄",
+      "title_en": "1位菲尔兹奖得主+12位博士，这些俄罗斯数学家训出了顶级AI",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "1位菲尔兹奖得主+12位博士，这些俄罗斯数学家训出了顶级AI",
+      "summary_zh": "1位菲尔兹奖得主+12位博士，这些俄罗斯数学家训出了顶级AI",
+      "publishedAt": "2026-09-06T22:10:13Z",
+      "published_at": "2026-09-06T22:10:13Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0f1b13c2",
+      "title": "GPT-6 Astra杀疯了：只要你",
+      "title_en": "GPT-6 Astra杀疯了：只要你学得够慢，就可以不用学了？",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "GPT-6 Astra杀疯了：只要你学得够慢，就可以不用学了？",
+      "summary_zh": "GPT-6 Astra杀疯了：只要你学得够慢，就可以不用学了？",
+      "publishedAt": "2026-09-06T22:10:13Z",
+      "published_at": "2026-09-06T22:10:13Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

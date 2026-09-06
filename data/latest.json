@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T12:14:01Z",
-  "generatedAt": "2026-09-06T12:14:01Z",
+  "generated_at": "2026-09-06T22:10:35Z",
+  "generatedAt": "2026-09-06T22:10:35Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "Search, organize and export every AI chat in o",
       "publishedAt": "2026-09-06T07:01:00Z",
       "published_at": "2026-09-06T07:01:00Z",
-      "votes_count": 152,
+      "votes_count": 315,
       "featured": true,
       "topics": [
         {
@@ -49,6 +49,44 @@
       "score_details": null
     },
     {
+      "id": "24554b16",
+      "title": "产品更新：Tadata",
+      "title_en": "Tadata",
+      "url": "https://www.producthunt.com/products/tadata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/tadata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI employee in Slack that reads the room.",
+      "summary_zh": "The AI employee in Slack that reads the room.",
+      "publishedAt": "2026-09-06T07:01:00Z",
+      "published_at": "2026-09-06T07:01:00Z",
+      "votes_count": 268,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
       "id": "8a4ddadf",
       "title": "AI资讯更新：Notify.domain",
       "title_en": "Notify.domains",
@@ -65,7 +103,7 @@
       "summary_zh": "Know the moment a domain opportunity appears M",
       "publishedAt": "2026-09-06T07:01:00Z",
       "published_at": "2026-09-06T07:01:00Z",
-      "votes_count": 142,
+      "votes_count": 244,
       "featured": true,
       "topics": [
         {
@@ -103,7 +141,7 @@
       "summary_zh": "Agentic video analysis for faster, smarter Gem",
       "publishedAt": "2026-09-06T07:01:00Z",
       "published_at": "2026-09-06T07:01:00Z",
-      "votes_count": 136,
+      "votes_count": 205,
       "featured": true,
       "topics": [
         {
@@ -122,88 +160,6 @@
           "slug": "video"
         }
       ],
-      "score_details": null
-    },
-    {
-      "id": "24554b16",
-      "title": "产品更新：Tadata",
-      "title_en": "Tadata",
-      "url": "https://www.producthunt.com/products/tadata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/tadata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "The AI employee in Slack that reads the room.",
-      "summary_zh": "The AI employee in Slack that reads the room.",
-      "publishedAt": "2026-09-06T07:01:00Z",
-      "published_at": "2026-09-06T07:01:00Z",
-      "votes_count": 132,
-      "featured": true,
-      "topics": [
-        {
-          "id": "247",
-          "name": "Software Engineering",
-          "slug": "software-engineering"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "0d4f0b3c",
-      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/484683.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/484683.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司  量子位的朋友们 2026-09-05 22:46:15  来源：量子位   当AI开始“预演”一场暴雨  允中 发自 凹非寺量子位 | 公众号 QbitAI 过去三年，AI证明了自己能读懂人类的语言。但尴尬的是，它依然看不懂我们身处的物理世界。 大模型缺乏通向物理世界的通路，这不是危言耸听。 2026年7月，中国南北方同时遭遇严峻洪涝考验。 南方，受台风美莎克及西南季风共同影响，广西遭遇持续强降雨。南宁市横州、宾阳等地多个站点降雨量突破历史纪录，六蓝水库发生溃口。 从监测到异常洪峰到溃口发生，留给指挥部的黄金处置时间不足30分钟，贵港郁江出现2001年以来最大洪水，洪峰水位超出警戒5.68米，一处教育园区积水最深接近三楼，上万名师生被困，全区紧急避险转移18.7万人。 几乎同期，北方也不平静：台风巴威虽未直接登陆东北，却通过远距离水汽输送和外围云系在东北制造强降雨，沈阳一个街道10小时降雨310.6毫米，接近这座城市半年的降水量，17条河流出现超警以上洪水，80多座水库超汛限水位。 这正是大语言模型的无力之处。你可以把人类有",
-      "summary_zh": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司  量子位的朋友们 2026-09-05 22:46:15  来源：量子位   当AI开始“预演”一场暴雨  允中 发自 凹非寺量子位 | 公众号 QbitAI 过去三年，AI证明了自己能读懂人类的语言。但尴尬的是，它依然看不懂我们身处的物理世界。 大模型缺乏通向物理世界的通路，这不是危言耸听。 2026年7月，中国南北方同时遭遇严峻洪涝考验。 南方，受台风美莎克及西南季风共同影响，广西遭遇持续强降雨。南宁市横州、宾阳等地多个站点降雨量突破历史纪录，六蓝水库发生溃口。 从监测到异常洪峰到溃口发生，留给指挥部的黄金处置时间不足30分钟，贵港郁江出现2001年以来最大洪水，洪峰水位超出警戒5.68米，一处教育园区积水最深接近三楼，上万名师生被困，全区紧急避险转移18.7万人。 几乎同期，北方也不平静：台风巴威虽未直接登陆东北，却通过远距离水汽输送和外围云系在东北制造强降雨，沈阳一个街道10小时降雨310.6毫米，接近这座城市半年的降水量，17条河流出现超警以上洪水，80多座水库超汛限水位。 这正是大语言模型的无力之处。你可以把人类有",
-      "publishedAt": "2026-09-05T14:46:15Z",
-      "published_at": "2026-09-05T14:46:15Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": null
-    },
-    {
-      "id": "ffe07ab2",
-      "title": "GPT-6带火循环Transformer，阿里早已布局",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/484726.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/484726.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "GPT-6带火循环Transformer，阿里早已布局  一水 2026-09-05 23:07:08  来源：量子位   手握两篇顶会论文  GPT-6 Astra一发布，recurrent depth突然一夜火了！ 最早是The Information爆料，Astra使用了这种「循环深度」技术： 让同一组Transformer层反复运行，在不增加同等规模参数的情况下，把计算做得更深。 ？？模型不必继续疯狂「长肉」，也能让现有参数多干几轮活，还有这好事。     不出所料，争议很快到来。。。 由于循环发生在hidden state里，中间过程未必会写成人类可读的思维链，模型会不会因此更难监测？ OpenAI也由此被AI安全专家集体讨伐，甚至一度逼得首席科学家Jakub Pachocki亲自下场回应。 Jakub Pachocki还透露，自己正在憋一篇小作文以完整解释整件事情。     边等小作文，边让我们把目光拉回循环Transformer本身： 多循环几圈，模型真的就会更强吗？ 学界其实早已踩坑。 同等算力下，省了参数的循环模型，经常打不过普通Transformer。 卡住它的，是",
-      "summary_zh": "GPT-6带火循环Transformer，阿里早已布局  一水 2026-09-05 23:07:08  来源：量子位   手握两篇顶会论文  GPT-6 Astra一发布，recurrent depth突然一夜火了！ 最早是The Information爆料，Astra使用了这种「循环深度」技术： 让同一组Transformer层反复运行，在不增加同等规模参数的情况下，把计算做得更深。 ？？模型不必继续疯狂「长肉」，也能让现有参数多干几轮活，还有这好事。     不出所料，争议很快到来。。。 由于循环发生在hidden state里，中间过程未必会写成人类可读的思维链，模型会不会因此更难监测？ OpenAI也由此被AI安全专家集体讨伐，甚至一度逼得首席科学家Jakub Pachocki亲自下场回应。 Jakub Pachocki还透露，自己正在憋一篇小作文以完整解释整件事情。     边等小作文，边让我们把目光拉回循环Transformer本身： 多循环几圈，模型真的就会更强吗？ 学界其实早已踩坑。 同等算力下，省了参数的循环模型，经常打不过普通Transformer。 卡住它的，是",
-      "publishedAt": "2026-09-05T15:07:08Z",
-      "published_at": "2026-09-05T15:07:08Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
       "score_details": null
     },
     {
@@ -229,6 +185,28 @@
       "score_details": null
     },
     {
+      "id": "f10058ad",
+      "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/484897.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/484897.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "具身ICL来了创业玩家！上下文成Scaling新赛道  梦晨 2026-09-06 19:44:21  来源：量子位   让机器人学会利用更长的多模态Context   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  2020年，GPT-3靠“看几个示例就会新任务”震动了NLP界；六年后的今天，同样的故事正在具身智能领域上演。 没错，就是In-Context Learning。 8月中旬，Skild AI发布机器人基础模型S1。只需要给机器人看一遍任务演示视频，它可以在不微调、不做额外post-training的情况下，尝试完成此前没有训练过的新任务。任务时长可达10分钟，包含几十个操作步骤。 Skild在（训练数据）见过的任务和未见过的任务上，对比了ICL视频Prompt和传统的语言Prompt VLA。 测试结果表明，当训练数据只有1000小时时，语言Prompt效果更好，而随着数据规模增加，ICL开始反超。对于未见任务，加入视频context后，模型表现相比只用语言指令提升约7倍。    S1发布的一周之前，Generalist AI发布GEN-1.5，同样把One-Sh",
+      "summary_zh": "具身ICL来了创业玩家！上下文成Scaling新赛道  梦晨 2026-09-06 19:44:21  来源：量子位   让机器人学会利用更长的多模态Context   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  2020年，GPT-3靠“看几个示例就会新任务”震动了NLP界；六年后的今天，同样的故事正在具身智能领域上演。 没错，就是In-Context Learning。 8月中旬，Skild AI发布机器人基础模型S1。只需要给机器人看一遍任务演示视频，它可以在不微调、不做额外post-training的情况下，尝试完成此前没有训练过的新任务。任务时长可达10分钟，包含几十个操作步骤。 Skild在（训练数据）见过的任务和未见过的任务上，对比了ICL视频Prompt和传统的语言Prompt VLA。 测试结果表明，当训练数据只有1000小时时，语言Prompt效果更好，而随着数据规模增加，ICL开始反超。对于未见任务，加入视频context后，模型表现相比只用语言指令提升约7倍。    S1发布的一周之前，Generalist AI发布GEN-1.5，同样把One-Sh",
+      "publishedAt": "2026-09-06T11:44:21Z",
+      "published_at": "2026-09-06T11:44:21Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
       "id": "44713167",
       "title": "1位菲尔兹奖得主+12位博士，这些俄",
       "title_en": "1位菲尔兹奖得主+12位博士，这些俄罗斯数学家训出了顶级AI",
@@ -243,8 +221,30 @@
       "rankingScore": 5.0,
       "summary": "1位菲尔兹奖得主+12位博士，这些俄罗斯数学家训出了顶级AI",
       "summary_zh": "1位菲尔兹奖得主+12位博士，这些俄罗斯数学家训出了顶级AI",
-      "publishedAt": "2026-09-06T12:13:35Z",
-      "published_at": "2026-09-06T12:13:35Z",
+      "publishedAt": "2026-09-06T22:10:13Z",
+      "published_at": "2026-09-06T22:10:13Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0f1b13c2",
+      "title": "GPT-6 Astra杀疯了：只要你",
+      "title_en": "GPT-6 Astra杀疯了：只要你学得够慢，就可以不用学了？",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "GPT-6 Astra杀疯了：只要你学得够慢，就可以不用学了？",
+      "summary_zh": "GPT-6 Astra杀疯了：只要你学得够慢，就可以不用学了？",
+      "publishedAt": "2026-09-06T22:10:13Z",
+      "published_at": "2026-09-06T22:10:13Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
