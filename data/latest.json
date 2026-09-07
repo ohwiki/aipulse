@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T14:21:24Z",
-  "generatedAt": "2026-09-07T14:21:24Z",
+  "generated_at": "2026-09-07T22:53:58Z",
+  "generatedAt": "2026-09-07T22:53:58Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "See code through a new lens PR Lens is a new w",
       "publishedAt": "2026-09-07T07:01:00Z",
       "published_at": "2026-09-07T07:01:00Z",
-      "votes_count": 193,
+      "votes_count": 274,
       "featured": true,
       "topics": [
         {
@@ -49,44 +49,6 @@
       "score_details": null
     },
     {
-      "id": "a10e081b",
-      "title": "模型更新：Tucky",
-      "title_en": "Tucky",
-      "url": "https://www.producthunt.com/products/tucky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/tucky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Notes docked to your screen edge, with an AI a",
-      "summary_zh": "Notes docked to your screen edge, with an AI a",
-      "publishedAt": "2026-09-07T07:01:00Z",
-      "published_at": "2026-09-07T07:01:00Z",
-      "votes_count": 165,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "96",
-          "name": "Notes",
-          "slug": "notes"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "8faebbb3",
       "title": "AI资讯更新：Scriptly",
       "title_en": "Scriptly",
@@ -103,13 +65,51 @@
       "summary_zh": "An iOS teleprompter app controlled by your voi",
       "publishedAt": "2026-09-07T07:01:00Z",
       "published_at": "2026-09-07T07:01:00Z",
-      "votes_count": 152,
+      "votes_count": 215,
       "featured": true,
       "topics": [
         {
           "id": "46",
           "name": "Productivity",
           "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a10e081b",
+      "title": "模型更新：Tucky",
+      "title_en": "Tucky",
+      "url": "https://www.producthunt.com/products/tucky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/tucky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Notes docked to your screen edge, with an AI a",
+      "summary_zh": "Notes docked to your screen edge, with an AI a",
+      "publishedAt": "2026-09-07T07:01:00Z",
+      "published_at": "2026-09-07T07:01:00Z",
+      "votes_count": 210,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "96",
+          "name": "Notes",
+          "slug": "notes"
         },
         {
           "id": "268",
@@ -136,7 +136,7 @@
       "summary_zh": "An AI Analyst that runs analysis and reports o",
       "publishedAt": "2026-09-07T07:01:00Z",
       "published_at": "2026-09-07T07:01:00Z",
-      "votes_count": 134,
+      "votes_count": 156,
       "featured": true,
       "topics": [
         {
@@ -224,9 +224,9 @@
       "score_details": null
     },
     {
-      "id": "237174c8",
-      "title": "超越CRISPR？基因调控新利器TI",
-      "title_en": "超越CRISPR？基因调控新利器TIGRa：体积小、效率高，在体内发挥作用",
+      "id": "a9e4dca3",
+      "title": "全扩散架构、无需图文对预训练，LLa",
+      "title_en": "全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -236,10 +236,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "超越CRISPR？基因调控新利器TIGRa：体积小、效率高，在体内发挥作用",
-      "summary_zh": "超越CRISPR？基因调控新利器TIGRa：体积小、效率高，在体内发挥作用",
-      "publishedAt": "2026-09-07T14:21:03Z",
-      "published_at": "2026-09-07T14:21:03Z",
+      "summary": "全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图",
+      "summary_zh": "全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图",
+      "publishedAt": "2026-09-07T22:53:21Z",
+      "published_at": "2026-09-07T22:53:21Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
