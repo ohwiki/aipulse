@@ -1,79 +1,41 @@
 {
-  "generated_at": "2026-09-06T22:10:35Z",
-  "generatedAt": "2026-09-06T22:10:35Z",
+  "generated_at": "2026-09-07T14:21:24Z",
+  "generatedAt": "2026-09-07T14:21:24Z",
   "count": 118,
   "total": 118,
   "entries": [
     {
       "date": "2026-09-07",
-      "generated_at": "2026-09-06T22:10:35Z",
-      "generatedAt": "2026-09-06T22:10:35Z",
+      "generated_at": "2026-09-07T14:21:24Z",
+      "generatedAt": "2026-09-07T14:21:24Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "5bba3ce1",
-          "title": "AI资讯更新：AI Toolbox 3.",
-          "title_en": "AI Toolbox 3.0",
-          "url": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "bbadebc6",
+          "title": "产品更新：PR Lens by Cold",
+          "title_en": "PR Lens by Coldtea.ai",
+          "url": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Search, organize and export every AI chat in o",
-          "summary_zh": "Search, organize and export every AI chat in o",
-          "publishedAt": "2026-09-06T07:01:00Z",
-          "published_at": "2026-09-06T07:01:00Z",
-          "votes_count": 315,
+          "summary": "See code through a new lens PR Lens is a new w",
+          "summary_zh": "See code through a new lens PR Lens is a new w",
+          "publishedAt": "2026-09-07T07:01:00Z",
+          "published_at": "2026-09-07T07:01:00Z",
+          "votes_count": 193,
           "featured": true,
           "topics": [
             {
-              "id": "34",
-              "name": "Chrome Extensions",
-              "slug": "chrome-extensions"
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
             },
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "279",
-              "name": "YouTube",
-              "slug": "youtube"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "24554b16",
-          "title": "产品更新：Tadata",
-          "title_en": "Tadata",
-          "url": "https://www.producthunt.com/products/tadata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/tadata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The AI employee in Slack that reads the room.",
-          "summary_zh": "The AI employee in Slack that reads the room.",
-          "publishedAt": "2026-09-06T07:01:00Z",
-          "published_at": "2026-09-06T07:01:00Z",
-          "votes_count": 268,
-          "featured": true,
-          "topics": [
             {
               "id": "247",
               "name": "Software Engineering",
@@ -85,31 +47,31 @@
               "slug": "developer-tools"
             },
             {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
             }
           ],
           "score_details": null
         },
         {
-          "id": "8a4ddadf",
-          "title": "AI资讯更新：Notify.domain",
-          "title_en": "Notify.domains",
-          "url": "https://www.producthunt.com/products/notify-domains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "a10e081b",
+          "title": "模型更新：Tucky",
+          "title_en": "Tucky",
+          "url": "https://www.producthunt.com/products/tucky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/notify-domains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/tucky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Know the moment a domain opportunity appears M",
-          "summary_zh": "Know the moment a domain opportunity appears M",
-          "publishedAt": "2026-09-06T07:01:00Z",
-          "published_at": "2026-09-06T07:01:00Z",
-          "votes_count": 244,
+          "summary": "Notes docked to your screen edge, with an AI a",
+          "summary_zh": "Notes docked to your screen edge, with an AI a",
+          "publishedAt": "2026-09-07T07:01:00Z",
+          "published_at": "2026-09-07T07:01:00Z",
+          "votes_count": 165,
           "featured": true,
           "topics": [
             {
@@ -118,14 +80,47 @@
               "slug": "productivity"
             },
             {
-              "id": "231",
-              "name": "SEO",
-              "slug": "seo"
+              "id": "96",
+              "name": "Notes",
+              "slug": "notes"
             },
             {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8faebbb3",
+          "title": "AI资讯更新：Scriptly",
+          "title_en": "Scriptly",
+          "url": "https://www.producthunt.com/products/sciptly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/sciptly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "An iOS teleprompter app controlled by your voi",
+          "summary_zh": "An iOS teleprompter app controlled by your voi",
+          "publishedAt": "2026-09-07T07:01:00Z",
+          "published_at": "2026-09-07T07:01:00Z",
+          "votes_count": 152,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
