@@ -1,7 +1,7 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-07T22:53:58Z",
-  "generatedAt": "2026-09-07T22:53:58Z",
+  "generated_at": "2026-09-08T12:59:49Z",
+  "generatedAt": "2026-09-08T12:59:49Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -10,23 +10,23 @@
       "label": "产品发布/更新",
       "items": [
         {
-          "id": "bbadebc6",
-          "title": "产品更新：PR Lens by Cold",
-          "title_en": "PR Lens by Coldtea.ai",
-          "url": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "1b8eca5e",
+          "title": "产品更新：Switch",
+          "title_en": "Switch",
+          "url": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "See code through a new lens PR Lens is a new w",
-          "summary_zh": "See code through a new lens PR Lens is a new w",
-          "publishedAt": "2026-09-07T07:01:00Z",
-          "published_at": "2026-09-07T07:01:00Z",
-          "votes_count": 274,
+          "summary": "Bring any AI agent into Slack, Teams & Discord",
+          "summary_zh": "Bring any AI agent into Slack, Teams & Discord",
+          "publishedAt": "2026-09-08T07:01:00Z",
+          "published_at": "2026-09-08T07:01:00Z",
+          "votes_count": 256,
           "featured": true,
           "topics": [
             {
@@ -35,9 +35,80 @@
               "slug": "open-source"
             },
             {
-              "id": "247",
-              "name": "Software Engineering",
-              "slug": "software-engineering"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cdfea5eb",
+          "title": "产品更新：Widgo",
+          "title_en": "Widgo",
+          "url": "https://www.producthunt.com/products/paillor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/paillor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI Sales rep for your website visitors Widgo i",
+          "summary_zh": "AI Sales rep for your website visitors Widgo i",
+          "publishedAt": "2026-09-08T07:01:00Z",
+          "published_at": "2026-09-08T07:01:00Z",
+          "votes_count": 217,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "dbdd01c6",
+          "title": "AI资讯更新：Kombai Galler",
+          "title_en": "Kombai Gallery",
+          "url": "https://www.producthunt.com/products/kombai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/kombai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "20,000+ curated UI designs. Free forever for a",
+          "summary_zh": "20,000+ curated UI designs. Free forever for a",
+          "publishedAt": "2026-09-08T07:01:00Z",
+          "published_at": "2026-09-08T07:01:00Z",
+          "votes_count": 190,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
             },
             {
               "id": "267",
@@ -45,31 +116,31 @@
               "slug": "developer-tools"
             },
             {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
+              "id": "807",
+              "name": "UX Design",
+              "slug": "ux-design"
             }
           ],
           "score_details": null
         },
         {
-          "id": "8faebbb3",
-          "title": "AI资讯更新：Scriptly",
-          "title_en": "Scriptly",
-          "url": "https://www.producthunt.com/products/sciptly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "9061c09d",
+          "title": "产品更新：Knockin'",
+          "title_en": "Knockin'",
+          "url": "https://www.producthunt.com/products/knockin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/sciptly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/knockin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "An iOS teleprompter app controlled by your voi",
-          "summary_zh": "An iOS teleprompter app controlled by your voi",
-          "publishedAt": "2026-09-07T07:01:00Z",
-          "published_at": "2026-09-07T07:01:00Z",
-          "votes_count": 215,
+          "summary": "Turns your static bio into an AI business card",
+          "summary_zh": "Turns your static bio into an AI business card",
+          "publishedAt": "2026-09-08T07:01:00Z",
+          "published_at": "2026-09-08T07:01:00Z",
+          "votes_count": 132,
           "featured": true,
           "topics": [
             {
@@ -81,82 +152,11 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "a10e081b",
-          "title": "模型更新：Tucky",
-          "title_en": "Tucky",
-          "url": "https://www.producthunt.com/products/tucky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/tucky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Notes docked to your screen edge, with an AI a",
-          "summary_zh": "Notes docked to your screen edge, with an AI a",
-          "publishedAt": "2026-09-07T07:01:00Z",
-          "published_at": "2026-09-07T07:01:00Z",
-          "votes_count": 210,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
             },
             {
-              "id": "96",
-              "name": "Notes",
-              "slug": "notes"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "adcc0e35",
-          "title": "AI资讯更新：Routines by D",
-          "title_en": "Routines by Databox",
-          "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "An AI Analyst that runs analysis and reports o",
-          "summary_zh": "An AI Analyst that runs analysis and reports o",
-          "publishedAt": "2026-09-07T07:01:00Z",
-          "published_at": "2026-09-07T07:01:00Z",
-          "votes_count": 156,
-          "featured": true,
-          "topics": [
-            {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "839",
-              "name": "Marketing automation",
-              "slug": "marketing-automation"
+              "id": "717",
+              "name": "Social Networking",
+              "slug": "social-networking"
             }
           ],
           "score_details": null
@@ -168,75 +168,75 @@
       "label": "中文媒体精选",
       "items": [
         {
-          "id": "7bc326f5",
-          "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
+          "id": "799fc5e9",
+          "title": "王云鹤创业后交出首个模型",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/09/485039.html",
+          "url": "https://www.qbitai.com/2026/09/485555.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/09/485039.html",
+          "sourceUrl": "https://www.qbitai.com/2026/09/485555.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "产业龙头领投！中科类脑完成数亿元B+轮战略融资  量子位的朋友们 2026-09-07 12:01:09  来源：量子位   近日，合肥中科类脑智能技术有限公司（以下简称“中科类脑”）正式宣布完成数亿元B+轮战略融资，本轮融资由央企产业龙头旗下中车资本领投，银杏谷资本、水木基金、启迪基金等机构跟投。  本次融资是中科类脑继2025年获得中国移动旗下北京中移数字新经济产业基金亿元级独家战略投资后，在资本市场的又一重要里程碑。中国移动、中国中车两大央企旗下基金先后战略入局，标志着中科类脑在AI Infra、Token优化、算电一体化赛道的产业价值获得国家级产业资本与专业投资机构的认可。 资本的持续加持与企业的高速发展，印证了中科类脑的战略布局与业务方向始终与国家战略需求同频共振、与产业技术浪潮同向奔涌。 当下AI基础设施建设正经历从“规模扩张”向“效能竞争”的关键跃迁，中科类脑锚定算电协同核心赛道，以“度电智能”为价值标尺，打造国内首创、具备完整能源链路支撑的算电协同型Token工厂，走通了一条从底层技术攻坚到产业价值重塑的发展道路。以“1＋3+N”整体产品解决方案，为国内AI Infra",
-          "summary_zh": "产业龙头领投！中科类脑完成数亿元B+轮战略融资  量子位的朋友们 2026-09-07 12:01:09  来源：量子位   近日，合肥中科类脑智能技术有限公司（以下简称“中科类脑”）正式宣布完成数亿元B+轮战略融资，本轮融资由央企产业龙头旗下中车资本领投，银杏谷资本、水木基金、启迪基金等机构跟投。  本次融资是中科类脑继2025年获得中国移动旗下北京中移数字新经济产业基金亿元级独家战略投资后，在资本市场的又一重要里程碑。中国移动、中国中车两大央企旗下基金先后战略入局，标志着中科类脑在AI Infra、Token优化、算电一体化赛道的产业价值获得国家级产业资本与专业投资机构的认可。 资本的持续加持与企业的高速发展，印证了中科类脑的战略布局与业务方向始终与国家战略需求同频共振、与产业技术浪潮同向奔涌。 当下AI基础设施建设正经历从“规模扩张”向“效能竞争”的关键跃迁，中科类脑锚定算电协同核心赛道，以“度电智能”为价值标尺，打造国内首创、具备完整能源链路支撑的算电协同型Token工厂，走通了一条从底层技术攻坚到产业价值重塑的发展道路。以“1＋3+N”整体产品解决方案，为国内AI Infra",
-          "publishedAt": "2026-09-07T04:01:09Z",
-          "published_at": "2026-09-07T04:01:09Z",
+          "summary": "王云鹤创业后交出首个模型  衡宇 2026-09-08 10:14:47  来源：量子位   把多模型执行经验用到了模型训练   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  王云鹤创业后，首次交卷了大模型成果。 量子位获悉，华为诺亚方舟实验室前主任、盘古大模型负责人王云鹤创办的基元律动，发布首个Agent-Native模型NeoHorse。 该模型由无问芯穹提供算力支持与Infra优化，清华大学、北京大学团队参与算法和训练方法研究，共同探索提升Agent后训练的数据利用效率和训练效果。 NeoHorse-1包含4B和9B两个版本，重点面向Agent工作过程中需要的一组能力，包括调用工具、读取环境反馈、发现错误、调整路径，并最终完成任务。    在覆盖Harness Agent、工具使用、代码和指令遵循等10项评测中，经过Agentic Post-Training后，4B模型综合表现已经达到/略超9B基础模型。    一家一直强调多模型协作的公司，为什么又开始自己训练模型？基元律动准备加入基础模型牌桌了吗？ 从NeoHorse给出的答案看，方向并没有发生这样的变化。 这款模型",
+          "summary_zh": "王云鹤创业后交出首个模型  衡宇 2026-09-08 10:14:47  来源：量子位   把多模型执行经验用到了模型训练   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  王云鹤创业后，首次交卷了大模型成果。 量子位获悉，华为诺亚方舟实验室前主任、盘古大模型负责人王云鹤创办的基元律动，发布首个Agent-Native模型NeoHorse。 该模型由无问芯穹提供算力支持与Infra优化，清华大学、北京大学团队参与算法和训练方法研究，共同探索提升Agent后训练的数据利用效率和训练效果。 NeoHorse-1包含4B和9B两个版本，重点面向Agent工作过程中需要的一组能力，包括调用工具、读取环境反馈、发现错误、调整路径，并最终完成任务。    在覆盖Harness Agent、工具使用、代码和指令遵循等10项评测中，经过Agentic Post-Training后，4B模型综合表现已经达到/略超9B基础模型。    一家一直强调多模型协作的公司，为什么又开始自己训练模型？基元律动准备加入基础模型牌桌了吗？ 从NeoHorse给出的答案看，方向并没有发生这样的变化。 这款模型",
+          "publishedAt": "2026-09-08T02:14:47Z",
+          "published_at": "2026-09-08T02:14:47Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "f9ddbfe4",
-          "title": "业内首个！“千问办公”推出“多人工作台”",
+          "id": "4f53ca45",
+          "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/09/485046.html",
+          "url": "https://www.qbitai.com/2026/09/485630.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/09/485046.html",
+          "sourceUrl": "https://www.qbitai.com/2026/09/485630.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "业内首个！“千问办公”推出“多人工作台”  量子位的朋友们 2026-09-07 13:04:44  来源：量子位   近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。  近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。用户简单描述需求，即可生成并发布一个最多支持百人同时在线协作的网页，承载复杂的业务流程。该功能适用于活动组织、家校协同和企业协作等场景，可解决SaaS软件采购成本高、定制软件开发耗时高的难题。目前，用户可从“千问办公”首页下方功能入口直接体验。  “千问办公”产品首页 目前，市面上的AI工作台主要面向个人使用，例如生成在线简历、个人作品集、个人打卡器等，用于信息展示、记录或简单交互，能够解决的实际问题有限。“千问办公”推出的“多人工作台”，不仅可以生成网页，还具备角色权限、云端数据库、管理后台和在线发布四项核心能力，可以承载多人参与的业务流程。 用户可作为管理员、普通成员等不同角色配置数据和操作权限，统一存储成员提交的数据、任务状态和工作进展，并通过后台集中管理和统计。网页生成后可一键发布，团队成员通过链接即可按所属权限访",
-          "summary_zh": "业内首个！“千问办公”推出“多人工作台”  量子位的朋友们 2026-09-07 13:04:44  来源：量子位   近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。  近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。用户简单描述需求，即可生成并发布一个最多支持百人同时在线协作的网页，承载复杂的业务流程。该功能适用于活动组织、家校协同和企业协作等场景，可解决SaaS软件采购成本高、定制软件开发耗时高的难题。目前，用户可从“千问办公”首页下方功能入口直接体验。  “千问办公”产品首页 目前，市面上的AI工作台主要面向个人使用，例如生成在线简历、个人作品集、个人打卡器等，用于信息展示、记录或简单交互，能够解决的实际问题有限。“千问办公”推出的“多人工作台”，不仅可以生成网页，还具备角色权限、云端数据库、管理后台和在线发布四项核心能力，可以承载多人参与的业务流程。 用户可作为管理员、普通成员等不同角色配置数据和操作权限，统一存储成员提交的数据、任务状态和工作进展，并通过后台集中管理和统计。网页生成后可一键发布，团队成员通过链接即可按所属权限访",
-          "publishedAt": "2026-09-07T05:04:44Z",
-          "published_at": "2026-09-07T05:04:44Z",
+          "summary": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递  量子位的朋友们 2026-09-08 10:42:24  来源：量子位   从看市场，到见场景；从认识伙伴，到寻找合作。   9月7日，WAIC CONNECT MALAYSIA活动在吉隆坡会展中心盛大启幕。 本次活动由WAIC CONNECT主办，中国驻马来西亚大使馆支持，华为赞助，第一财经作媒体支持，汇聚政府机构、运营商、行业客户、生态伙伴及中国出海 AI 企业，开启为期两天的人工智能产业交流盛宴。 首日以“Scenario Insight Day｜场景洞察日”为主线，通过WAIC City Walk、Huawei Cloud AI Boost Day · Agentic AI Practice以及全天开放的AI Showcase，将视线从会场延伸至产业一线，从基础设施与创新机构，到智能体技术与企业实践，再到多元AI生态能力展示—— 从现场出发，重新认识马来西亚AI产业的现在与未来。 01 WAIC CONNECT City Walk，走进马来西亚AI现场 真正理解一个市场，始于走进它的现场。 9月7",
+          "summary_zh": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递  量子位的朋友们 2026-09-08 10:42:24  来源：量子位   从看市场，到见场景；从认识伙伴，到寻找合作。   9月7日，WAIC CONNECT MALAYSIA活动在吉隆坡会展中心盛大启幕。 本次活动由WAIC CONNECT主办，中国驻马来西亚大使馆支持，华为赞助，第一财经作媒体支持，汇聚政府机构、运营商、行业客户、生态伙伴及中国出海 AI 企业，开启为期两天的人工智能产业交流盛宴。 首日以“Scenario Insight Day｜场景洞察日”为主线，通过WAIC City Walk、Huawei Cloud AI Boost Day · Agentic AI Practice以及全天开放的AI Showcase，将视线从会场延伸至产业一线，从基础设施与创新机构，到智能体技术与企业实践，再到多元AI生态能力展示—— 从现场出发，重新认识马来西亚AI产业的现在与未来。 01 WAIC CONNECT City Walk，走进马来西亚AI现场 真正理解一个市场，始于走进它的现场。 9月7",
+          "publishedAt": "2026-09-08T02:42:24Z",
+          "published_at": "2026-09-08T02:42:24Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "1a6a16a3",
-          "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+          "id": "856a2843",
+          "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/09/485056.html",
+          "url": "https://www.qbitai.com/2026/09/485784.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/09/485056.html",
+          "sourceUrl": "https://www.qbitai.com/2026/09/485784.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied  量子位的朋友们 2026-09-07 14:03:34  来源：量子位   今日，智象未来（HiDream.ai）正式发布具身世界模型HiDream-O1-Embodied。秉承原生全模态的技术理念，模型强化机器人物理感知与动态预判能力，助力具身智能实现更高阶的物理交互。具身模型的发布，标志着智象逐步实现了打通图像、视频、3D、动作等模态，贯通理解—推演—执行全流程，构建统一世界模型基座的技术闭环。 模型发布同期，HiDream-O1-Embodied首次参评具身智能模型评测平台RoboColiseum，即在核心的Robustness（扰动适应）子榜单中，以平均分0.692的成绩登顶榜首。  智象未来CTO姚霆表示：“我们相信，围绕真实世界的表达、理解和生成，构建同时具备全模态表达、因果推演与物理世界构建三大核心能力，才能建立完整的世界模型基座。智象的原生全模态世界模型技术理念，从设计架构之初便计划面向包括动作等全模态在内的统一表征构建。HiDream-O1-Embodied的",
-          "summary_zh": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied  量子位的朋友们 2026-09-07 14:03:34  来源：量子位   今日，智象未来（HiDream.ai）正式发布具身世界模型HiDream-O1-Embodied。秉承原生全模态的技术理念，模型强化机器人物理感知与动态预判能力，助力具身智能实现更高阶的物理交互。具身模型的发布，标志着智象逐步实现了打通图像、视频、3D、动作等模态，贯通理解—推演—执行全流程，构建统一世界模型基座的技术闭环。 模型发布同期，HiDream-O1-Embodied首次参评具身智能模型评测平台RoboColiseum，即在核心的Robustness（扰动适应）子榜单中，以平均分0.692的成绩登顶榜首。  智象未来CTO姚霆表示：“我们相信，围绕真实世界的表达、理解和生成，构建同时具备全模态表达、因果推演与物理世界构建三大核心能力，才能建立完整的世界模型基座。智象的原生全模态世界模型技术理念，从设计架构之初便计划面向包括动作等全模态在内的统一表征构建。HiDream-O1-Embodied的",
-          "publishedAt": "2026-09-07T06:03:34Z",
-          "published_at": "2026-09-07T06:03:34Z",
+          "summary": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座  量子位的朋友们 2026-09-08 11:22:17  来源：量子位   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。本轮融资由宁德时代领投，阿美投资(Aramco Ventures)、太平创新投资、广发信德、复星创富跟投，源码资本、光远资本等老股东持续追加。 过去两个月内，公司已连续完成三轮融资。密集产业资本加码背后，是资本市场对产业趋势的共同判断：AI正从数字世界走向物理世界，能源与算力基础设施正成为AI产业持续发展的关键底座，物理AI将成为重构这一底座的关键技术路径。 深度智控是全球物理AI在能源领域落地的开创者与引领者。早在2018年全球尚未形成物理AI概念时，公司便聚焦AI与物理机理的深度融合，构建了以PhyAI物理AI引擎为核心的技术体系，让AI真正“理解”物理世界，在真实物理环境中实现感知、预测、自主决策与实时寻优控制，使每一次控制决策过程可解释、可预测与高安全可靠，推动AI从",
+          "summary_zh": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座  量子位的朋友们 2026-09-08 11:22:17  来源：量子位   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。本轮融资由宁德时代领投，阿美投资(Aramco Ventures)、太平创新投资、广发信德、复星创富跟投，源码资本、光远资本等老股东持续追加。 过去两个月内，公司已连续完成三轮融资。密集产业资本加码背后，是资本市场对产业趋势的共同判断：AI正从数字世界走向物理世界，能源与算力基础设施正成为AI产业持续发展的关键底座，物理AI将成为重构这一底座的关键技术路径。 深度智控是全球物理AI在能源领域落地的开创者与引领者。早在2018年全球尚未形成物理AI概念时，公司便聚焦AI与物理机理的深度融合，构建了以PhyAI物理AI引擎为核心的技术体系，让AI真正“理解”物理世界，在真实物理环境中实现感知、预测、自主决策与实时寻优控制，使每一次控制决策过程可解释、可预测与高安全可靠，推动AI从",
+          "publishedAt": "2026-09-08T03:22:17Z",
+          "published_at": "2026-09-08T03:22:17Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "a9e4dca3",
-          "title": "全扩散架构、无需图文对预训练，LLa",
-          "title_en": "全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图",
+          "id": "d315d836",
+          "title": "GPT-6 Astra为何如此惊艳？",
+          "title_en": "GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能",
           "url": "https://www.jiqizhixin.com/articles",
           "source": "机器之心",
           "source_type": null,
@@ -246,10 +246,10 @@
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图",
-          "summary_zh": "全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图",
-          "publishedAt": "2026-09-07T22:53:21Z",
-          "published_at": "2026-09-07T22:53:21Z",
+          "summary": "GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能",
+          "summary_zh": "GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能",
+          "publishedAt": "2026-09-08T12:58:02Z",
+          "published_at": "2026-09-08T12:58:02Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -260,23 +260,23 @@
   ],
   "items": [
     {
-      "id": "bbadebc6",
-      "title": "产品更新：PR Lens by Cold",
-      "title_en": "PR Lens by Coldtea.ai",
-      "url": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "1b8eca5e",
+      "title": "产品更新：Switch",
+      "title_en": "Switch",
+      "url": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "See code through a new lens PR Lens is a new w",
-      "summary_zh": "See code through a new lens PR Lens is a new w",
-      "publishedAt": "2026-09-07T07:01:00Z",
-      "published_at": "2026-09-07T07:01:00Z",
-      "votes_count": 274,
+      "summary": "Bring any AI agent into Slack, Teams & Discord",
+      "summary_zh": "Bring any AI agent into Slack, Teams & Discord",
+      "publishedAt": "2026-09-08T07:01:00Z",
+      "published_at": "2026-09-08T07:01:00Z",
+      "votes_count": 256,
       "featured": true,
       "topics": [
         {
@@ -285,9 +285,80 @@
           "slug": "open-source"
         },
         {
-          "id": "247",
-          "name": "Software Engineering",
-          "slug": "software-engineering"
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "cdfea5eb",
+      "title": "产品更新：Widgo",
+      "title_en": "Widgo",
+      "url": "https://www.producthunt.com/products/paillor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/paillor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI Sales rep for your website visitors Widgo i",
+      "summary_zh": "AI Sales rep for your website visitors Widgo i",
+      "publishedAt": "2026-09-08T07:01:00Z",
+      "published_at": "2026-09-08T07:01:00Z",
+      "votes_count": 217,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "dbdd01c6",
+      "title": "AI资讯更新：Kombai Galler",
+      "title_en": "Kombai Gallery",
+      "url": "https://www.producthunt.com/products/kombai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/kombai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "20,000+ curated UI designs. Free forever for a",
+      "summary_zh": "20,000+ curated UI designs. Free forever for a",
+      "publishedAt": "2026-09-08T07:01:00Z",
+      "published_at": "2026-09-08T07:01:00Z",
+      "votes_count": 190,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
         },
         {
           "id": "267",
@@ -295,31 +366,31 @@
           "slug": "developer-tools"
         },
         {
-          "id": "272",
-          "name": "GitHub",
-          "slug": "github"
+          "id": "807",
+          "name": "UX Design",
+          "slug": "ux-design"
         }
       ],
       "score_details": null
     },
     {
-      "id": "8faebbb3",
-      "title": "AI资讯更新：Scriptly",
-      "title_en": "Scriptly",
-      "url": "https://www.producthunt.com/products/sciptly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "9061c09d",
+      "title": "产品更新：Knockin'",
+      "title_en": "Knockin'",
+      "url": "https://www.producthunt.com/products/knockin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/sciptly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/knockin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "An iOS teleprompter app controlled by your voi",
-      "summary_zh": "An iOS teleprompter app controlled by your voi",
-      "publishedAt": "2026-09-07T07:01:00Z",
-      "published_at": "2026-09-07T07:01:00Z",
-      "votes_count": 215,
+      "summary": "Turns your static bio into an AI business card",
+      "summary_zh": "Turns your static bio into an AI business card",
+      "publishedAt": "2026-09-08T07:01:00Z",
+      "published_at": "2026-09-08T07:01:00Z",
+      "votes_count": 132,
       "featured": true,
       "topics": [
         {
@@ -331,156 +402,85 @@
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
+        },
+        {
+          "id": "717",
+          "name": "Social Networking",
+          "slug": "social-networking"
         }
       ],
       "score_details": null
     },
     {
-      "id": "a10e081b",
-      "title": "模型更新：Tucky",
-      "title_en": "Tucky",
-      "url": "https://www.producthunt.com/products/tucky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/tucky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Notes docked to your screen edge, with an AI a",
-      "summary_zh": "Notes docked to your screen edge, with an AI a",
-      "publishedAt": "2026-09-07T07:01:00Z",
-      "published_at": "2026-09-07T07:01:00Z",
-      "votes_count": 210,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "96",
-          "name": "Notes",
-          "slug": "notes"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "adcc0e35",
-      "title": "AI资讯更新：Routines by D",
-      "title_en": "Routines by Databox",
-      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "An AI Analyst that runs analysis and reports o",
-      "summary_zh": "An AI Analyst that runs analysis and reports o",
-      "publishedAt": "2026-09-07T07:01:00Z",
-      "published_at": "2026-09-07T07:01:00Z",
-      "votes_count": 156,
-      "featured": true,
-      "topics": [
-        {
-          "id": "108",
-          "name": "Analytics",
-          "slug": "analytics"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "839",
-          "name": "Marketing automation",
-          "slug": "marketing-automation"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "7bc326f5",
-      "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
+      "id": "799fc5e9",
+      "title": "王云鹤创业后交出首个模型",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/485039.html",
+      "url": "https://www.qbitai.com/2026/09/485555.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/485039.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/485555.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "产业龙头领投！中科类脑完成数亿元B+轮战略融资  量子位的朋友们 2026-09-07 12:01:09  来源：量子位   近日，合肥中科类脑智能技术有限公司（以下简称“中科类脑”）正式宣布完成数亿元B+轮战略融资，本轮融资由央企产业龙头旗下中车资本领投，银杏谷资本、水木基金、启迪基金等机构跟投。  本次融资是中科类脑继2025年获得中国移动旗下北京中移数字新经济产业基金亿元级独家战略投资后，在资本市场的又一重要里程碑。中国移动、中国中车两大央企旗下基金先后战略入局，标志着中科类脑在AI Infra、Token优化、算电一体化赛道的产业价值获得国家级产业资本与专业投资机构的认可。 资本的持续加持与企业的高速发展，印证了中科类脑的战略布局与业务方向始终与国家战略需求同频共振、与产业技术浪潮同向奔涌。 当下AI基础设施建设正经历从“规模扩张”向“效能竞争”的关键跃迁，中科类脑锚定算电协同核心赛道，以“度电智能”为价值标尺，打造国内首创、具备完整能源链路支撑的算电协同型Token工厂，走通了一条从底层技术攻坚到产业价值重塑的发展道路。以“1＋3+N”整体产品解决方案，为国内AI Infra",
-      "summary_zh": "产业龙头领投！中科类脑完成数亿元B+轮战略融资  量子位的朋友们 2026-09-07 12:01:09  来源：量子位   近日，合肥中科类脑智能技术有限公司（以下简称“中科类脑”）正式宣布完成数亿元B+轮战略融资，本轮融资由央企产业龙头旗下中车资本领投，银杏谷资本、水木基金、启迪基金等机构跟投。  本次融资是中科类脑继2025年获得中国移动旗下北京中移数字新经济产业基金亿元级独家战略投资后，在资本市场的又一重要里程碑。中国移动、中国中车两大央企旗下基金先后战略入局，标志着中科类脑在AI Infra、Token优化、算电一体化赛道的产业价值获得国家级产业资本与专业投资机构的认可。 资本的持续加持与企业的高速发展，印证了中科类脑的战略布局与业务方向始终与国家战略需求同频共振、与产业技术浪潮同向奔涌。 当下AI基础设施建设正经历从“规模扩张”向“效能竞争”的关键跃迁，中科类脑锚定算电协同核心赛道，以“度电智能”为价值标尺，打造国内首创、具备完整能源链路支撑的算电协同型Token工厂，走通了一条从底层技术攻坚到产业价值重塑的发展道路。以“1＋3+N”整体产品解决方案，为国内AI Infra",
-      "publishedAt": "2026-09-07T04:01:09Z",
-      "published_at": "2026-09-07T04:01:09Z",
+      "summary": "王云鹤创业后交出首个模型  衡宇 2026-09-08 10:14:47  来源：量子位   把多模型执行经验用到了模型训练   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  王云鹤创业后，首次交卷了大模型成果。 量子位获悉，华为诺亚方舟实验室前主任、盘古大模型负责人王云鹤创办的基元律动，发布首个Agent-Native模型NeoHorse。 该模型由无问芯穹提供算力支持与Infra优化，清华大学、北京大学团队参与算法和训练方法研究，共同探索提升Agent后训练的数据利用效率和训练效果。 NeoHorse-1包含4B和9B两个版本，重点面向Agent工作过程中需要的一组能力，包括调用工具、读取环境反馈、发现错误、调整路径，并最终完成任务。    在覆盖Harness Agent、工具使用、代码和指令遵循等10项评测中，经过Agentic Post-Training后，4B模型综合表现已经达到/略超9B基础模型。    一家一直强调多模型协作的公司，为什么又开始自己训练模型？基元律动准备加入基础模型牌桌了吗？ 从NeoHorse给出的答案看，方向并没有发生这样的变化。 这款模型",
+      "summary_zh": "王云鹤创业后交出首个模型  衡宇 2026-09-08 10:14:47  来源：量子位   把多模型执行经验用到了模型训练   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  王云鹤创业后，首次交卷了大模型成果。 量子位获悉，华为诺亚方舟实验室前主任、盘古大模型负责人王云鹤创办的基元律动，发布首个Agent-Native模型NeoHorse。 该模型由无问芯穹提供算力支持与Infra优化，清华大学、北京大学团队参与算法和训练方法研究，共同探索提升Agent后训练的数据利用效率和训练效果。 NeoHorse-1包含4B和9B两个版本，重点面向Agent工作过程中需要的一组能力，包括调用工具、读取环境反馈、发现错误、调整路径，并最终完成任务。    在覆盖Harness Agent、工具使用、代码和指令遵循等10项评测中，经过Agentic Post-Training后，4B模型综合表现已经达到/略超9B基础模型。    一家一直强调多模型协作的公司，为什么又开始自己训练模型？基元律动准备加入基础模型牌桌了吗？ 从NeoHorse给出的答案看，方向并没有发生这样的变化。 这款模型",
+      "publishedAt": "2026-09-08T02:14:47Z",
+      "published_at": "2026-09-08T02:14:47Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "f9ddbfe4",
-      "title": "业内首个！“千问办公”推出“多人工作台”",
+      "id": "4f53ca45",
+      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/485046.html",
+      "url": "https://www.qbitai.com/2026/09/485630.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/485046.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/485630.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "业内首个！“千问办公”推出“多人工作台”  量子位的朋友们 2026-09-07 13:04:44  来源：量子位   近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。  近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。用户简单描述需求，即可生成并发布一个最多支持百人同时在线协作的网页，承载复杂的业务流程。该功能适用于活动组织、家校协同和企业协作等场景，可解决SaaS软件采购成本高、定制软件开发耗时高的难题。目前，用户可从“千问办公”首页下方功能入口直接体验。  “千问办公”产品首页 目前，市面上的AI工作台主要面向个人使用，例如生成在线简历、个人作品集、个人打卡器等，用于信息展示、记录或简单交互，能够解决的实际问题有限。“千问办公”推出的“多人工作台”，不仅可以生成网页，还具备角色权限、云端数据库、管理后台和在线发布四项核心能力，可以承载多人参与的业务流程。 用户可作为管理员、普通成员等不同角色配置数据和操作权限，统一存储成员提交的数据、任务状态和工作进展，并通过后台集中管理和统计。网页生成后可一键发布，团队成员通过链接即可按所属权限访",
-      "summary_zh": "业内首个！“千问办公”推出“多人工作台”  量子位的朋友们 2026-09-07 13:04:44  来源：量子位   近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。  近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。用户简单描述需求，即可生成并发布一个最多支持百人同时在线协作的网页，承载复杂的业务流程。该功能适用于活动组织、家校协同和企业协作等场景，可解决SaaS软件采购成本高、定制软件开发耗时高的难题。目前，用户可从“千问办公”首页下方功能入口直接体验。  “千问办公”产品首页 目前，市面上的AI工作台主要面向个人使用，例如生成在线简历、个人作品集、个人打卡器等，用于信息展示、记录或简单交互，能够解决的实际问题有限。“千问办公”推出的“多人工作台”，不仅可以生成网页，还具备角色权限、云端数据库、管理后台和在线发布四项核心能力，可以承载多人参与的业务流程。 用户可作为管理员、普通成员等不同角色配置数据和操作权限，统一存储成员提交的数据、任务状态和工作进展，并通过后台集中管理和统计。网页生成后可一键发布，团队成员通过链接即可按所属权限访",
-      "publishedAt": "2026-09-07T05:04:44Z",
-      "published_at": "2026-09-07T05:04:44Z",
+      "summary": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递  量子位的朋友们 2026-09-08 10:42:24  来源：量子位   从看市场，到见场景；从认识伙伴，到寻找合作。   9月7日，WAIC CONNECT MALAYSIA活动在吉隆坡会展中心盛大启幕。 本次活动由WAIC CONNECT主办，中国驻马来西亚大使馆支持，华为赞助，第一财经作媒体支持，汇聚政府机构、运营商、行业客户、生态伙伴及中国出海 AI 企业，开启为期两天的人工智能产业交流盛宴。 首日以“Scenario Insight Day｜场景洞察日”为主线，通过WAIC City Walk、Huawei Cloud AI Boost Day · Agentic AI Practice以及全天开放的AI Showcase，将视线从会场延伸至产业一线，从基础设施与创新机构，到智能体技术与企业实践，再到多元AI生态能力展示—— 从现场出发，重新认识马来西亚AI产业的现在与未来。 01 WAIC CONNECT City Walk，走进马来西亚AI现场 真正理解一个市场，始于走进它的现场。 9月7",
+      "summary_zh": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递  量子位的朋友们 2026-09-08 10:42:24  来源：量子位   从看市场，到见场景；从认识伙伴，到寻找合作。   9月7日，WAIC CONNECT MALAYSIA活动在吉隆坡会展中心盛大启幕。 本次活动由WAIC CONNECT主办，中国驻马来西亚大使馆支持，华为赞助，第一财经作媒体支持，汇聚政府机构、运营商、行业客户、生态伙伴及中国出海 AI 企业，开启为期两天的人工智能产业交流盛宴。 首日以“Scenario Insight Day｜场景洞察日”为主线，通过WAIC City Walk、Huawei Cloud AI Boost Day · Agentic AI Practice以及全天开放的AI Showcase，将视线从会场延伸至产业一线，从基础设施与创新机构，到智能体技术与企业实践，再到多元AI生态能力展示—— 从现场出发，重新认识马来西亚AI产业的现在与未来。 01 WAIC CONNECT City Walk，走进马来西亚AI现场 真正理解一个市场，始于走进它的现场。 9月7",
+      "publishedAt": "2026-09-08T02:42:24Z",
+      "published_at": "2026-09-08T02:42:24Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "1a6a16a3",
-      "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+      "id": "856a2843",
+      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/485056.html",
+      "url": "https://www.qbitai.com/2026/09/485784.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/485056.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/485784.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied  量子位的朋友们 2026-09-07 14:03:34  来源：量子位   今日，智象未来（HiDream.ai）正式发布具身世界模型HiDream-O1-Embodied。秉承原生全模态的技术理念，模型强化机器人物理感知与动态预判能力，助力具身智能实现更高阶的物理交互。具身模型的发布，标志着智象逐步实现了打通图像、视频、3D、动作等模态，贯通理解—推演—执行全流程，构建统一世界模型基座的技术闭环。 模型发布同期，HiDream-O1-Embodied首次参评具身智能模型评测平台RoboColiseum，即在核心的Robustness（扰动适应）子榜单中，以平均分0.692的成绩登顶榜首。  智象未来CTO姚霆表示：“我们相信，围绕真实世界的表达、理解和生成，构建同时具备全模态表达、因果推演与物理世界构建三大核心能力，才能建立完整的世界模型基座。智象的原生全模态世界模型技术理念，从设计架构之初便计划面向包括动作等全模态在内的统一表征构建。HiDream-O1-Embodied的",
-      "summary_zh": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied  量子位的朋友们 2026-09-07 14:03:34  来源：量子位   今日，智象未来（HiDream.ai）正式发布具身世界模型HiDream-O1-Embodied。秉承原生全模态的技术理念，模型强化机器人物理感知与动态预判能力，助力具身智能实现更高阶的物理交互。具身模型的发布，标志着智象逐步实现了打通图像、视频、3D、动作等模态，贯通理解—推演—执行全流程，构建统一世界模型基座的技术闭环。 模型发布同期，HiDream-O1-Embodied首次参评具身智能模型评测平台RoboColiseum，即在核心的Robustness（扰动适应）子榜单中，以平均分0.692的成绩登顶榜首。  智象未来CTO姚霆表示：“我们相信，围绕真实世界的表达、理解和生成，构建同时具备全模态表达、因果推演与物理世界构建三大核心能力，才能建立完整的世界模型基座。智象的原生全模态世界模型技术理念，从设计架构之初便计划面向包括动作等全模态在内的统一表征构建。HiDream-O1-Embodied的",
-      "publishedAt": "2026-09-07T06:03:34Z",
-      "published_at": "2026-09-07T06:03:34Z",
+      "summary": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座  量子位的朋友们 2026-09-08 11:22:17  来源：量子位   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。本轮融资由宁德时代领投，阿美投资(Aramco Ventures)、太平创新投资、广发信德、复星创富跟投，源码资本、光远资本等老股东持续追加。 过去两个月内，公司已连续完成三轮融资。密集产业资本加码背后，是资本市场对产业趋势的共同判断：AI正从数字世界走向物理世界，能源与算力基础设施正成为AI产业持续发展的关键底座，物理AI将成为重构这一底座的关键技术路径。 深度智控是全球物理AI在能源领域落地的开创者与引领者。早在2018年全球尚未形成物理AI概念时，公司便聚焦AI与物理机理的深度融合，构建了以PhyAI物理AI引擎为核心的技术体系，让AI真正“理解”物理世界，在真实物理环境中实现感知、预测、自主决策与实时寻优控制，使每一次控制决策过程可解释、可预测与高安全可靠，推动AI从",
+      "summary_zh": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座  量子位的朋友们 2026-09-08 11:22:17  来源：量子位   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。本轮融资由宁德时代领投，阿美投资(Aramco Ventures)、太平创新投资、广发信德、复星创富跟投，源码资本、光远资本等老股东持续追加。 过去两个月内，公司已连续完成三轮融资。密集产业资本加码背后，是资本市场对产业趋势的共同判断：AI正从数字世界走向物理世界，能源与算力基础设施正成为AI产业持续发展的关键底座，物理AI将成为重构这一底座的关键技术路径。 深度智控是全球物理AI在能源领域落地的开创者与引领者。早在2018年全球尚未形成物理AI概念时，公司便聚焦AI与物理机理的深度融合，构建了以PhyAI物理AI引擎为核心的技术体系，让AI真正“理解”物理世界，在真实物理环境中实现感知、预测、自主决策与实时寻优控制，使每一次控制决策过程可解释、可预测与高安全可靠，推动AI从",
+      "publishedAt": "2026-09-08T03:22:17Z",
+      "published_at": "2026-09-08T03:22:17Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "a9e4dca3",
-      "title": "全扩散架构、无需图文对预训练，LLa",
-      "title_en": "全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图",
+      "id": "d315d836",
+      "title": "GPT-6 Astra为何如此惊艳？",
+      "title_en": "GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -490,10 +490,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图",
-      "summary_zh": "全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图",
-      "publishedAt": "2026-09-07T22:53:21Z",
-      "published_at": "2026-09-07T22:53:21Z",
+      "summary": "GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能",
+      "summary_zh": "GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能",
+      "publishedAt": "2026-09-08T12:58:02Z",
+      "published_at": "2026-09-08T12:58:02Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

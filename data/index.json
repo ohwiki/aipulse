@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-09-07T22:53:58Z",
-  "generatedAt": "2026-09-07T22:53:58Z",
+  "generated_at": "2026-09-08T12:59:49Z",
+  "generatedAt": "2026-09-08T12:59:49Z",
   "count": 119,
   "total": 119,
   "entries": [
     {
       "date": "2026-09-08",
-      "generated_at": "2026-09-07T22:53:58Z",
-      "generatedAt": "2026-09-07T22:53:58Z",
+      "generated_at": "2026-09-08T12:59:49Z",
+      "generatedAt": "2026-09-08T12:59:49Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "bbadebc6",
-          "title": "产品更新：PR Lens by Cold",
-          "title_en": "PR Lens by Coldtea.ai",
-          "url": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "1b8eca5e",
+          "title": "产品更新：Switch",
+          "title_en": "Switch",
+          "url": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "See code through a new lens PR Lens is a new w",
-          "summary_zh": "See code through a new lens PR Lens is a new w",
-          "publishedAt": "2026-09-07T07:01:00Z",
-          "published_at": "2026-09-07T07:01:00Z",
-          "votes_count": 274,
+          "summary": "Bring any AI agent into Slack, Teams & Discord",
+          "summary_zh": "Bring any AI agent into Slack, Teams & Discord",
+          "publishedAt": "2026-09-08T07:01:00Z",
+          "published_at": "2026-09-08T07:01:00Z",
+          "votes_count": 256,
           "featured": true,
           "topics": [
             {
@@ -37,9 +37,80 @@
               "slug": "open-source"
             },
             {
-              "id": "247",
-              "name": "Software Engineering",
-              "slug": "software-engineering"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cdfea5eb",
+          "title": "产品更新：Widgo",
+          "title_en": "Widgo",
+          "url": "https://www.producthunt.com/products/paillor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/paillor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI Sales rep for your website visitors Widgo i",
+          "summary_zh": "AI Sales rep for your website visitors Widgo i",
+          "publishedAt": "2026-09-08T07:01:00Z",
+          "published_at": "2026-09-08T07:01:00Z",
+          "votes_count": 217,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "dbdd01c6",
+          "title": "AI资讯更新：Kombai Galler",
+          "title_en": "Kombai Gallery",
+          "url": "https://www.producthunt.com/products/kombai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/kombai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "20,000+ curated UI designs. Free forever for a",
+          "summary_zh": "20,000+ curated UI designs. Free forever for a",
+          "publishedAt": "2026-09-08T07:01:00Z",
+          "published_at": "2026-09-08T07:01:00Z",
+          "votes_count": 190,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
             },
             {
               "id": "267",
@@ -47,80 +118,9 @@
               "slug": "developer-tools"
             },
             {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "8faebbb3",
-          "title": "AI资讯更新：Scriptly",
-          "title_en": "Scriptly",
-          "url": "https://www.producthunt.com/products/sciptly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/sciptly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "An iOS teleprompter app controlled by your voi",
-          "summary_zh": "An iOS teleprompter app controlled by your voi",
-          "publishedAt": "2026-09-07T07:01:00Z",
-          "published_at": "2026-09-07T07:01:00Z",
-          "votes_count": 215,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "a10e081b",
-          "title": "模型更新：Tucky",
-          "title_en": "Tucky",
-          "url": "https://www.producthunt.com/products/tucky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/tucky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Notes docked to your screen edge, with an AI a",
-          "summary_zh": "Notes docked to your screen edge, with an AI a",
-          "publishedAt": "2026-09-07T07:01:00Z",
-          "published_at": "2026-09-07T07:01:00Z",
-          "votes_count": 210,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "96",
-              "name": "Notes",
-              "slug": "notes"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
+              "id": "807",
+              "name": "UX Design",
+              "slug": "ux-design"
             }
           ],
           "score_details": null
