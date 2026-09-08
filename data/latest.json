@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T12:59:49Z",
-  "generatedAt": "2026-09-08T12:59:49Z",
+  "generated_at": "2026-09-08T22:47:53Z",
+  "generatedAt": "2026-09-08T22:47:53Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "Bring any AI agent into Slack, Teams & Discord",
       "publishedAt": "2026-09-08T07:01:00Z",
       "published_at": "2026-09-08T07:01:00Z",
-      "votes_count": 256,
+      "votes_count": 412,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "AI Sales rep for your website visitors Widgo i",
       "publishedAt": "2026-09-08T07:01:00Z",
       "published_at": "2026-09-08T07:01:00Z",
-      "votes_count": 217,
+      "votes_count": 360,
       "featured": true,
       "topics": [
         {
@@ -94,11 +94,11 @@
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "20,000+ curated UI designs. Free forever for a",
-      "summary_zh": "20,000+ curated UI designs. Free forever for a",
+      "summary": "20,000+ curated UI designs for agents and huma",
+      "summary_zh": "20,000+ curated UI designs for agents and huma",
       "publishedAt": "2026-09-08T07:01:00Z",
       "published_at": "2026-09-08T07:01:00Z",
-      "votes_count": 190,
+      "votes_count": 289,
       "featured": true,
       "topics": [
         {
@@ -120,39 +120,39 @@
       "score_details": null
     },
     {
-      "id": "9061c09d",
-      "title": "产品更新：Knockin'",
-      "title_en": "Knockin'",
-      "url": "https://www.producthunt.com/products/knockin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "996099f5",
+      "title": "产品更新：OpenMarket",
+      "title_en": "OpenMarket",
+      "url": "https://www.producthunt.com/products/openmarket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/knockin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/openmarket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Turns your static bio into an AI business card",
-      "summary_zh": "Turns your static bio into an AI business card",
+      "summary": "Multi-agent marketplace where proof decides wh",
+      "summary_zh": "Multi-agent marketplace where proof decides wh",
       "publishedAt": "2026-09-08T07:01:00Z",
       "published_at": "2026-09-08T07:01:00Z",
-      "votes_count": 132,
+      "votes_count": 219,
       "featured": true,
       "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
         {
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
         },
         {
-          "id": "717",
-          "name": "Social Networking",
-          "slug": "social-networking"
+          "id": "278",
+          "name": "E-Commerce",
+          "slug": "e-commerce"
+        },
+        {
+          "id": "713",
+          "name": "Shopping",
+          "slug": "shopping"
         }
       ],
       "score_details": null
@@ -224,9 +224,9 @@
       "score_details": null
     },
     {
-      "id": "d315d836",
-      "title": "GPT-6 Astra为何如此惊艳？",
-      "title_en": "GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能",
+      "id": "14cb22a3",
+      "title": "已追踪 AI 发展 0 天，0 篇原",
+      "title_en": "已追踪 AI 发展 0 天，0 篇原创内容",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -236,10 +236,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能",
-      "summary_zh": "GPT-6 Astra为何如此惊艳？S-Space透视多模态模型内部的空间智能",
-      "publishedAt": "2026-09-08T12:58:02Z",
-      "published_at": "2026-09-08T12:58:02Z",
+      "summary": "已追踪 AI 发展 0 天，0 篇原创内容",
+      "summary_zh": "已追踪 AI 发展 0 天，0 篇原创内容",
+      "publishedAt": "2026-09-08T22:46:31Z",
+      "published_at": "2026-09-08T22:46:31Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

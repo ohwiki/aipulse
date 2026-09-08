@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-09-08T12:59:49Z",
-  "generatedAt": "2026-09-08T12:59:49Z",
-  "count": 119,
-  "total": 119,
+  "generated_at": "2026-09-08T22:47:53Z",
+  "generatedAt": "2026-09-08T22:47:53Z",
+  "count": 120,
+  "total": 120,
   "entries": [
+    {
+      "date": "2026-09-09",
+      "generated_at": "2026-09-08T22:47:53Z",
+      "generatedAt": "2026-09-08T22:47:53Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "1b8eca5e",
+          "title": "产品更新：Switch",
+          "title_en": "Switch",
+          "url": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Bring any AI agent into Slack, Teams & Discord",
+          "summary_zh": "Bring any AI agent into Slack, Teams & Discord",
+          "publishedAt": "2026-09-08T07:01:00Z",
+          "published_at": "2026-09-08T07:01:00Z",
+          "votes_count": 412,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cdfea5eb",
+          "title": "产品更新：Widgo",
+          "title_en": "Widgo",
+          "url": "https://www.producthunt.com/products/paillor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/paillor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI Sales rep for your website visitors Widgo i",
+          "summary_zh": "AI Sales rep for your website visitors Widgo i",
+          "publishedAt": "2026-09-08T07:01:00Z",
+          "published_at": "2026-09-08T07:01:00Z",
+          "votes_count": 360,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "dbdd01c6",
+          "title": "AI资讯更新：Kombai Galler",
+          "title_en": "Kombai Gallery",
+          "url": "https://www.producthunt.com/products/kombai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/kombai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "20,000+ curated UI designs for agents and huma",
+          "summary_zh": "20,000+ curated UI designs for agents and huma",
+          "publishedAt": "2026-09-08T07:01:00Z",
+          "published_at": "2026-09-08T07:01:00Z",
+          "votes_count": 289,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "807",
+              "name": "UX Design",
+              "slug": "ux-design"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-08",
       "generated_at": "2026-09-08T12:59:49Z",

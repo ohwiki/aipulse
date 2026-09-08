@@ -1,0 +1,503 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-08T22:47:53Z",
+  "generatedAt": "2026-09-08T22:47:53Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "1b8eca5e",
+          "title": "产品更新：Switch",
+          "title_en": "Switch",
+          "url": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Bring any AI agent into Slack, Teams & Discord",
+          "summary_zh": "Bring any AI agent into Slack, Teams & Discord",
+          "publishedAt": "2026-09-08T07:01:00Z",
+          "published_at": "2026-09-08T07:01:00Z",
+          "votes_count": 412,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cdfea5eb",
+          "title": "产品更新：Widgo",
+          "title_en": "Widgo",
+          "url": "https://www.producthunt.com/products/paillor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/paillor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI Sales rep for your website visitors Widgo i",
+          "summary_zh": "AI Sales rep for your website visitors Widgo i",
+          "publishedAt": "2026-09-08T07:01:00Z",
+          "published_at": "2026-09-08T07:01:00Z",
+          "votes_count": 360,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "dbdd01c6",
+          "title": "AI资讯更新：Kombai Galler",
+          "title_en": "Kombai Gallery",
+          "url": "https://www.producthunt.com/products/kombai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/kombai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "20,000+ curated UI designs for agents and huma",
+          "summary_zh": "20,000+ curated UI designs for agents and huma",
+          "publishedAt": "2026-09-08T07:01:00Z",
+          "published_at": "2026-09-08T07:01:00Z",
+          "votes_count": 289,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "807",
+              "name": "UX Design",
+              "slug": "ux-design"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "996099f5",
+          "title": "产品更新：OpenMarket",
+          "title_en": "OpenMarket",
+          "url": "https://www.producthunt.com/products/openmarket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openmarket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Multi-agent marketplace where proof decides wh",
+          "summary_zh": "Multi-agent marketplace where proof decides wh",
+          "publishedAt": "2026-09-08T07:01:00Z",
+          "published_at": "2026-09-08T07:01:00Z",
+          "votes_count": 219,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            },
+            {
+              "id": "713",
+              "name": "Shopping",
+              "slug": "shopping"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "799fc5e9",
+          "title": "王云鹤创业后交出首个模型",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/485555.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/485555.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "王云鹤创业后交出首个模型  衡宇 2026-09-08 10:14:47  来源：量子位   把多模型执行经验用到了模型训练   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  王云鹤创业后，首次交卷了大模型成果。 量子位获悉，华为诺亚方舟实验室前主任、盘古大模型负责人王云鹤创办的基元律动，发布首个Agent-Native模型NeoHorse。 该模型由无问芯穹提供算力支持与Infra优化，清华大学、北京大学团队参与算法和训练方法研究，共同探索提升Agent后训练的数据利用效率和训练效果。 NeoHorse-1包含4B和9B两个版本，重点面向Agent工作过程中需要的一组能力，包括调用工具、读取环境反馈、发现错误、调整路径，并最终完成任务。    在覆盖Harness Agent、工具使用、代码和指令遵循等10项评测中，经过Agentic Post-Training后，4B模型综合表现已经达到/略超9B基础模型。    一家一直强调多模型协作的公司，为什么又开始自己训练模型？基元律动准备加入基础模型牌桌了吗？ 从NeoHorse给出的答案看，方向并没有发生这样的变化。 这款模型",
+          "summary_zh": "王云鹤创业后交出首个模型  衡宇 2026-09-08 10:14:47  来源：量子位   把多模型执行经验用到了模型训练   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  王云鹤创业后，首次交卷了大模型成果。 量子位获悉，华为诺亚方舟实验室前主任、盘古大模型负责人王云鹤创办的基元律动，发布首个Agent-Native模型NeoHorse。 该模型由无问芯穹提供算力支持与Infra优化，清华大学、北京大学团队参与算法和训练方法研究，共同探索提升Agent后训练的数据利用效率和训练效果。 NeoHorse-1包含4B和9B两个版本，重点面向Agent工作过程中需要的一组能力，包括调用工具、读取环境反馈、发现错误、调整路径，并最终完成任务。    在覆盖Harness Agent、工具使用、代码和指令遵循等10项评测中，经过Agentic Post-Training后，4B模型综合表现已经达到/略超9B基础模型。    一家一直强调多模型协作的公司，为什么又开始自己训练模型？基元律动准备加入基础模型牌桌了吗？ 从NeoHorse给出的答案看，方向并没有发生这样的变化。 这款模型",
+          "publishedAt": "2026-09-08T02:14:47Z",
+          "published_at": "2026-09-08T02:14:47Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "4f53ca45",
+          "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/485630.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/485630.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递  量子位的朋友们 2026-09-08 10:42:24  来源：量子位   从看市场，到见场景；从认识伙伴，到寻找合作。   9月7日，WAIC CONNECT MALAYSIA活动在吉隆坡会展中心盛大启幕。 本次活动由WAIC CONNECT主办，中国驻马来西亚大使馆支持，华为赞助，第一财经作媒体支持，汇聚政府机构、运营商、行业客户、生态伙伴及中国出海 AI 企业，开启为期两天的人工智能产业交流盛宴。 首日以“Scenario Insight Day｜场景洞察日”为主线，通过WAIC City Walk、Huawei Cloud AI Boost Day · Agentic AI Practice以及全天开放的AI Showcase，将视线从会场延伸至产业一线，从基础设施与创新机构，到智能体技术与企业实践，再到多元AI生态能力展示—— 从现场出发，重新认识马来西亚AI产业的现在与未来。 01 WAIC CONNECT City Walk，走进马来西亚AI现场 真正理解一个市场，始于走进它的现场。 9月7",
+          "summary_zh": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递  量子位的朋友们 2026-09-08 10:42:24  来源：量子位   从看市场，到见场景；从认识伙伴，到寻找合作。   9月7日，WAIC CONNECT MALAYSIA活动在吉隆坡会展中心盛大启幕。 本次活动由WAIC CONNECT主办，中国驻马来西亚大使馆支持，华为赞助，第一财经作媒体支持，汇聚政府机构、运营商、行业客户、生态伙伴及中国出海 AI 企业，开启为期两天的人工智能产业交流盛宴。 首日以“Scenario Insight Day｜场景洞察日”为主线，通过WAIC City Walk、Huawei Cloud AI Boost Day · Agentic AI Practice以及全天开放的AI Showcase，将视线从会场延伸至产业一线，从基础设施与创新机构，到智能体技术与企业实践，再到多元AI生态能力展示—— 从现场出发，重新认识马来西亚AI产业的现在与未来。 01 WAIC CONNECT City Walk，走进马来西亚AI现场 真正理解一个市场，始于走进它的现场。 9月7",
+          "publishedAt": "2026-09-08T02:42:24Z",
+          "published_at": "2026-09-08T02:42:24Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "856a2843",
+          "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/485784.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/485784.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座  量子位的朋友们 2026-09-08 11:22:17  来源：量子位   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。本轮融资由宁德时代领投，阿美投资(Aramco Ventures)、太平创新投资、广发信德、复星创富跟投，源码资本、光远资本等老股东持续追加。 过去两个月内，公司已连续完成三轮融资。密集产业资本加码背后，是资本市场对产业趋势的共同判断：AI正从数字世界走向物理世界，能源与算力基础设施正成为AI产业持续发展的关键底座，物理AI将成为重构这一底座的关键技术路径。 深度智控是全球物理AI在能源领域落地的开创者与引领者。早在2018年全球尚未形成物理AI概念时，公司便聚焦AI与物理机理的深度融合，构建了以PhyAI物理AI引擎为核心的技术体系，让AI真正“理解”物理世界，在真实物理环境中实现感知、预测、自主决策与实时寻优控制，使每一次控制决策过程可解释、可预测与高安全可靠，推动AI从",
+          "summary_zh": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座  量子位的朋友们 2026-09-08 11:22:17  来源：量子位   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。本轮融资由宁德时代领投，阿美投资(Aramco Ventures)、太平创新投资、广发信德、复星创富跟投，源码资本、光远资本等老股东持续追加。 过去两个月内，公司已连续完成三轮融资。密集产业资本加码背后，是资本市场对产业趋势的共同判断：AI正从数字世界走向物理世界，能源与算力基础设施正成为AI产业持续发展的关键底座，物理AI将成为重构这一底座的关键技术路径。 深度智控是全球物理AI在能源领域落地的开创者与引领者。早在2018年全球尚未形成物理AI概念时，公司便聚焦AI与物理机理的深度融合，构建了以PhyAI物理AI引擎为核心的技术体系，让AI真正“理解”物理世界，在真实物理环境中实现感知、预测、自主决策与实时寻优控制，使每一次控制决策过程可解释、可预测与高安全可靠，推动AI从",
+          "publishedAt": "2026-09-08T03:22:17Z",
+          "published_at": "2026-09-08T03:22:17Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "14cb22a3",
+          "title": "已追踪 AI 发展 0 天，0 篇原",
+          "title_en": "已追踪 AI 发展 0 天，0 篇原创内容",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "已追踪 AI 发展 0 天，0 篇原创内容",
+          "summary_zh": "已追踪 AI 发展 0 天，0 篇原创内容",
+          "publishedAt": "2026-09-08T22:46:31Z",
+          "published_at": "2026-09-08T22:46:31Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "1b8eca5e",
+      "title": "产品更新：Switch",
+      "title_en": "Switch",
+      "url": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Bring any AI agent into Slack, Teams & Discord",
+      "summary_zh": "Bring any AI agent into Slack, Teams & Discord",
+      "publishedAt": "2026-09-08T07:01:00Z",
+      "published_at": "2026-09-08T07:01:00Z",
+      "votes_count": 412,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "cdfea5eb",
+      "title": "产品更新：Widgo",
+      "title_en": "Widgo",
+      "url": "https://www.producthunt.com/products/paillor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/paillor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI Sales rep for your website visitors Widgo i",
+      "summary_zh": "AI Sales rep for your website visitors Widgo i",
+      "publishedAt": "2026-09-08T07:01:00Z",
+      "published_at": "2026-09-08T07:01:00Z",
+      "votes_count": 360,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "dbdd01c6",
+      "title": "AI资讯更新：Kombai Galler",
+      "title_en": "Kombai Gallery",
+      "url": "https://www.producthunt.com/products/kombai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/kombai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "20,000+ curated UI designs for agents and huma",
+      "summary_zh": "20,000+ curated UI designs for agents and huma",
+      "publishedAt": "2026-09-08T07:01:00Z",
+      "published_at": "2026-09-08T07:01:00Z",
+      "votes_count": 289,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "807",
+          "name": "UX Design",
+          "slug": "ux-design"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "996099f5",
+      "title": "产品更新：OpenMarket",
+      "title_en": "OpenMarket",
+      "url": "https://www.producthunt.com/products/openmarket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openmarket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Multi-agent marketplace where proof decides wh",
+      "summary_zh": "Multi-agent marketplace where proof decides wh",
+      "publishedAt": "2026-09-08T07:01:00Z",
+      "published_at": "2026-09-08T07:01:00Z",
+      "votes_count": 219,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "278",
+          "name": "E-Commerce",
+          "slug": "e-commerce"
+        },
+        {
+          "id": "713",
+          "name": "Shopping",
+          "slug": "shopping"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "799fc5e9",
+      "title": "王云鹤创业后交出首个模型",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/485555.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/485555.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "王云鹤创业后交出首个模型  衡宇 2026-09-08 10:14:47  来源：量子位   把多模型执行经验用到了模型训练   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  王云鹤创业后，首次交卷了大模型成果。 量子位获悉，华为诺亚方舟实验室前主任、盘古大模型负责人王云鹤创办的基元律动，发布首个Agent-Native模型NeoHorse。 该模型由无问芯穹提供算力支持与Infra优化，清华大学、北京大学团队参与算法和训练方法研究，共同探索提升Agent后训练的数据利用效率和训练效果。 NeoHorse-1包含4B和9B两个版本，重点面向Agent工作过程中需要的一组能力，包括调用工具、读取环境反馈、发现错误、调整路径，并最终完成任务。    在覆盖Harness Agent、工具使用、代码和指令遵循等10项评测中，经过Agentic Post-Training后，4B模型综合表现已经达到/略超9B基础模型。    一家一直强调多模型协作的公司，为什么又开始自己训练模型？基元律动准备加入基础模型牌桌了吗？ 从NeoHorse给出的答案看，方向并没有发生这样的变化。 这款模型",
+      "summary_zh": "王云鹤创业后交出首个模型  衡宇 2026-09-08 10:14:47  来源：量子位   把多模型执行经验用到了模型训练   衡宇 发自 凹非寺 量子位 | 公众号 QbitAI  王云鹤创业后，首次交卷了大模型成果。 量子位获悉，华为诺亚方舟实验室前主任、盘古大模型负责人王云鹤创办的基元律动，发布首个Agent-Native模型NeoHorse。 该模型由无问芯穹提供算力支持与Infra优化，清华大学、北京大学团队参与算法和训练方法研究，共同探索提升Agent后训练的数据利用效率和训练效果。 NeoHorse-1包含4B和9B两个版本，重点面向Agent工作过程中需要的一组能力，包括调用工具、读取环境反馈、发现错误、调整路径，并最终完成任务。    在覆盖Harness Agent、工具使用、代码和指令遵循等10项评测中，经过Agentic Post-Training后，4B模型综合表现已经达到/略超9B基础模型。    一家一直强调多模型协作的公司，为什么又开始自己训练模型？基元律动准备加入基础模型牌桌了吗？ 从NeoHorse给出的答案看，方向并没有发生这样的变化。 这款模型",
+      "publishedAt": "2026-09-08T02:14:47Z",
+      "published_at": "2026-09-08T02:14:47Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4f53ca45",
+      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/485630.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/485630.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递  量子位的朋友们 2026-09-08 10:42:24  来源：量子位   从看市场，到见场景；从认识伙伴，到寻找合作。   9月7日，WAIC CONNECT MALAYSIA活动在吉隆坡会展中心盛大启幕。 本次活动由WAIC CONNECT主办，中国驻马来西亚大使馆支持，华为赞助，第一财经作媒体支持，汇聚政府机构、运营商、行业客户、生态伙伴及中国出海 AI 企业，开启为期两天的人工智能产业交流盛宴。 首日以“Scenario Insight Day｜场景洞察日”为主线，通过WAIC City Walk、Huawei Cloud AI Boost Day · Agentic AI Practice以及全天开放的AI Showcase，将视线从会场延伸至产业一线，从基础设施与创新机构，到智能体技术与企业实践，再到多元AI生态能力展示—— 从现场出发，重新认识马来西亚AI产业的现在与未来。 01 WAIC CONNECT City Walk，走进马来西亚AI现场 真正理解一个市场，始于走进它的现场。 9月7",
+      "summary_zh": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递  量子位的朋友们 2026-09-08 10:42:24  来源：量子位   从看市场，到见场景；从认识伙伴，到寻找合作。   9月7日，WAIC CONNECT MALAYSIA活动在吉隆坡会展中心盛大启幕。 本次活动由WAIC CONNECT主办，中国驻马来西亚大使馆支持，华为赞助，第一财经作媒体支持，汇聚政府机构、运营商、行业客户、生态伙伴及中国出海 AI 企业，开启为期两天的人工智能产业交流盛宴。 首日以“Scenario Insight Day｜场景洞察日”为主线，通过WAIC City Walk、Huawei Cloud AI Boost Day · Agentic AI Practice以及全天开放的AI Showcase，将视线从会场延伸至产业一线，从基础设施与创新机构，到智能体技术与企业实践，再到多元AI生态能力展示—— 从现场出发，重新认识马来西亚AI产业的现在与未来。 01 WAIC CONNECT City Walk，走进马来西亚AI现场 真正理解一个市场，始于走进它的现场。 9月7",
+      "publishedAt": "2026-09-08T02:42:24Z",
+      "published_at": "2026-09-08T02:42:24Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "856a2843",
+      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/485784.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/485784.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座  量子位的朋友们 2026-09-08 11:22:17  来源：量子位   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。本轮融资由宁德时代领投，阿美投资(Aramco Ventures)、太平创新投资、广发信德、复星创富跟投，源码资本、光远资本等老股东持续追加。 过去两个月内，公司已连续完成三轮融资。密集产业资本加码背后，是资本市场对产业趋势的共同判断：AI正从数字世界走向物理世界，能源与算力基础设施正成为AI产业持续发展的关键底座，物理AI将成为重构这一底座的关键技术路径。 深度智控是全球物理AI在能源领域落地的开创者与引领者。早在2018年全球尚未形成物理AI概念时，公司便聚焦AI与物理机理的深度融合，构建了以PhyAI物理AI引擎为核心的技术体系，让AI真正“理解”物理世界，在真实物理环境中实现感知、预测、自主决策与实时寻优控制，使每一次控制决策过程可解释、可预测与高安全可靠，推动AI从",
+      "summary_zh": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座  量子位的朋友们 2026-09-08 11:22:17  来源：量子位   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。   近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。本轮融资由宁德时代领投，阿美投资(Aramco Ventures)、太平创新投资、广发信德、复星创富跟投，源码资本、光远资本等老股东持续追加。 过去两个月内，公司已连续完成三轮融资。密集产业资本加码背后，是资本市场对产业趋势的共同判断：AI正从数字世界走向物理世界，能源与算力基础设施正成为AI产业持续发展的关键底座，物理AI将成为重构这一底座的关键技术路径。 深度智控是全球物理AI在能源领域落地的开创者与引领者。早在2018年全球尚未形成物理AI概念时，公司便聚焦AI与物理机理的深度融合，构建了以PhyAI物理AI引擎为核心的技术体系，让AI真正“理解”物理世界，在真实物理环境中实现感知、预测、自主决策与实时寻优控制，使每一次控制决策过程可解释、可预测与高安全可靠，推动AI从",
+      "publishedAt": "2026-09-08T03:22:17Z",
+      "published_at": "2026-09-08T03:22:17Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "14cb22a3",
+      "title": "已追踪 AI 发展 0 天，0 篇原",
+      "title_en": "已追踪 AI 发展 0 天，0 篇原创内容",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "已追踪 AI 发展 0 天，0 篇原创内容",
+      "summary_zh": "已追踪 AI 发展 0 天，0 篇原创内容",
+      "publishedAt": "2026-09-08T22:46:31Z",
+      "published_at": "2026-09-08T22:46:31Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
