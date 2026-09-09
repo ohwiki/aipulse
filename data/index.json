@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-09-08T22:47:53Z",
-  "generatedAt": "2026-09-08T22:47:53Z",
+  "generated_at": "2026-09-09T13:04:32Z",
+  "generatedAt": "2026-09-09T13:04:32Z",
   "count": 120,
   "total": 120,
   "entries": [
     {
       "date": "2026-09-09",
-      "generated_at": "2026-09-08T22:47:53Z",
-      "generatedAt": "2026-09-08T22:47:53Z",
+      "generated_at": "2026-09-09T13:04:32Z",
+      "generatedAt": "2026-09-09T13:04:32Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "1b8eca5e",
-          "title": "产品更新：Switch",
-          "title_en": "Switch",
-          "url": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "e252abae",
+          "title": "产品更新：Mastra Factory",
+          "title_en": "Mastra Factory",
+          "url": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/switch-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/mastra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Bring any AI agent into Slack, Teams & Discord",
-          "summary_zh": "Bring any AI agent into Slack, Teams & Discord",
-          "publishedAt": "2026-09-08T07:01:00Z",
-          "published_at": "2026-09-08T07:01:00Z",
-          "votes_count": 412,
+          "summary": "From issue to production, run by agents. Mastr",
+          "summary_zh": "From issue to production, run by agents. Mastr",
+          "publishedAt": "2026-09-09T07:01:00Z",
+          "published_at": "2026-09-09T07:01:00Z",
+          "votes_count": 245,
           "featured": true,
           "topics": [
             {
@@ -45,72 +45,77 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
             }
           ],
           "score_details": null
         },
         {
-          "id": "cdfea5eb",
-          "title": "产品更新：Widgo",
-          "title_en": "Widgo",
-          "url": "https://www.producthunt.com/products/paillor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "6527c828",
+          "title": "产品更新：Harden",
+          "title_en": "Harden",
+          "url": "https://www.producthunt.com/products/agent-integrity-foundation-aif?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/paillor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/agent-integrity-foundation-aif?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "AI Sales rep for your website visitors Widgo i",
-          "summary_zh": "AI Sales rep for your website visitors Widgo i",
-          "publishedAt": "2026-09-08T07:01:00Z",
-          "published_at": "2026-09-08T07:01:00Z",
-          "votes_count": 360,
+          "summary": "A security layer for AI coding agents Harden A",
+          "summary_zh": "A security layer for AI coding agents Harden A",
+          "publishedAt": "2026-09-09T07:01:00Z",
+          "published_at": "2026-09-09T07:01:00Z",
+          "votes_count": 177,
           "featured": true,
           "topics": [
             {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3cf4c07b",
+          "title": "产品更新：Noodle Seed",
+          "title_en": "Noodle Seed",
+          "url": "https://www.producthunt.com/products/noodle-seed?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/noodle-seed?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your product in AI and AI in your product Nood",
+          "summary_zh": "Your product in AI and AI in your product Nood",
+          "publishedAt": "2026-09-09T07:01:00Z",
+          "published_at": "2026-09-09T07:01:00Z",
+          "votes_count": 146,
+          "featured": true,
+          "topics": [
             {
               "id": "237",
               "name": "SaaS",
               "slug": "saas"
-            },
-            {
-              "id": "352",
-              "name": "Tech",
-              "slug": "tech"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "dbdd01c6",
-          "title": "AI资讯更新：Kombai Galler",
-          "title_en": "Kombai Gallery",
-          "url": "https://www.producthunt.com/products/kombai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/kombai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "20,000+ curated UI designs for agents and huma",
-          "summary_zh": "20,000+ curated UI designs for agents and huma",
-          "publishedAt": "2026-09-08T07:01:00Z",
-          "published_at": "2026-09-08T07:01:00Z",
-          "votes_count": 289,
-          "featured": true,
-          "topics": [
-            {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
             },
             {
               "id": "267",
@@ -118,9 +123,9 @@
               "slug": "developer-tools"
             },
             {
-              "id": "807",
-              "name": "UX Design",
-              "slug": "ux-design"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
