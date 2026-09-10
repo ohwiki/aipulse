@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-10T13:01:05Z",
-  "generatedAt": "2026-09-10T13:01:05Z",
+  "generated_at": "2026-09-10T22:41:36Z",
+  "generatedAt": "2026-09-10T22:41:36Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "bc69d187",
@@ -22,7 +22,7 @@
       "summary_zh": "AI customer experience that builds and improve",
       "publishedAt": "2026-09-10T07:01:00Z",
       "published_at": "2026-09-10T07:01:00Z",
-      "votes_count": 176,
+      "votes_count": 275,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "OpenTelemetry-native observability for agents",
       "publishedAt": "2026-09-10T07:01:00Z",
       "published_at": "2026-09-10T07:01:00Z",
-      "votes_count": 175,
+      "votes_count": 265,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "1.5x Active Noise Cancellation, AI Siri, Live",
       "publishedAt": "2026-09-10T07:01:00Z",
       "published_at": "2026-09-10T07:01:00Z",
-      "votes_count": 134,
+      "votes_count": 172,
       "featured": true,
       "topics": [
         {
@@ -115,25 +115,36 @@
       "score_details": null
     },
     {
-      "id": "ede2b3f5",
-      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/486450.html",
-      "source": "量子位",
+      "id": "fe43ed5f",
+      "title": "产品更新：Desert Ant Labs",
+      "title_en": "Desert Ant Labs",
+      "url": "https://www.producthunt.com/products/desert-ant-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/486450.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计  Jay 2026-09-10 03:24:22  来源：量子位   一比根号二的小胖折叠   Jay 克雷西 发自 凹非寺 量子位 | 公众号 QbitAI  它来了，它来了，苹果首款折叠屏真的来了！ 传闻说的没错，一比根号二的小胖折叠，iPhone 4以来最激进的产品型号。 确实有点猛啊，从发布会的demo来看，真给折痕干爆了，完全隐形。。。  可以说是一次技术的集大成产物了。iPhone Air惨遭斩杀，现在展开版的iPhone Duo才是最薄的iPhone。 除此之外，还有一大波上新，牙膏挤爆。  Siri AI：彻底打通操作系统，相机原生，接入超30万个APP。 Airpods 5：降噪大升级，比上一代提升了50%。 Apple Watch：全新感知系统，更高频捕捉心率，最准的心率。   太仁义了嗷库克，留了这么多好东西没发，这是要助力小特一步登天啊（bushi）。 市场反应也是很热烈，发布会结束后，苹果股价一改今早颓势，红了！  那还说啥了，董事会评级暂定为特圣，AI时代就指望你了  。 折叠屏iPhone 和发布会顺",
-      "summary_zh": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计  Jay 2026-09-10 03:24:22  来源：量子位   一比根号二的小胖折叠   Jay 克雷西 发自 凹非寺 量子位 | 公众号 QbitAI  它来了，它来了，苹果首款折叠屏真的来了！ 传闻说的没错，一比根号二的小胖折叠，iPhone 4以来最激进的产品型号。 确实有点猛啊，从发布会的demo来看，真给折痕干爆了，完全隐形。。。  可以说是一次技术的集大成产物了。iPhone Air惨遭斩杀，现在展开版的iPhone Duo才是最薄的iPhone。 除此之外，还有一大波上新，牙膏挤爆。  Siri AI：彻底打通操作系统，相机原生，接入超30万个APP。 Airpods 5：降噪大升级，比上一代提升了50%。 Apple Watch：全新感知系统，更高频捕捉心率，最准的心率。   太仁义了嗷库克，留了这么多好东西没发，这是要助力小特一步登天啊（bushi）。 市场反应也是很热烈，发布会结束后，苹果股价一改今早颓势，红了！  那还说啥了，董事会评级暂定为特圣，AI时代就指望你了  。 折叠屏iPhone 和发布会顺",
-      "publishedAt": "2026-09-09T19:24:22Z",
-      "published_at": "2026-09-09T19:24:22Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/desert-ant-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Small specialized AI models for speech, text,",
+      "summary_zh": "Small specialized AI models for speech, text,",
+      "publishedAt": "2026-09-10T07:01:00Z",
+      "published_at": "2026-09-10T07:01:00Z",
+      "votes_count": 129,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "778",
+          "name": "SDK",
+          "slug": "sdk"
+        }
+      ],
       "score_details": null
     },
     {
@@ -181,9 +192,31 @@
       "score_details": null
     },
     {
-      "id": "d1b4c160",
-      "title": "国家级顶流AI赛事再开战！第三届「兴",
-      "title_en": "国家级顶流AI赛事再开战！第三届「兴智杯」报名开启，等你来战",
+      "id": "71419f4c",
+      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/486625.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/486625.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "一周连发6个模型！这家公司把具身智能的闭环跑通了  克雷西 2026-09-10 12:55:38  来源：量子位   模型可以开源，部署经验不能  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 过去一年，具身智能行业的新闻雷声大、雨点也大。根据量子位不完全统计，截至2026年6月12日，国内具身智能赛道共融资约438亿元，已经达到了2025年全年的近八成。 这些demo和融资，覆盖的场景五花八门，家用陪伴、商业导览、工业产线，每个细分领域都有公司在做。但demo跑通和真正批量部署，是两张皮的事，不是每个场景都能同时跨过去，如果视角直接盯着「具身智能」这个大概念，未免太过宽泛。 那么究竟哪个场景离批量落地最近？答案是工业。 机器人落地，还得是工业场景 听到「工业」二字，很多人会认为门槛高、技术严苛，但对于具身智能而言，工业生产反而比生活场景来得简单。工业场景中，取放、搬运、插拔，这类动作重复度高，任务边界也相对固定。 相比家用场景里随时可能出现的宠物、玩具、陌生访客，工业场景更容易在短时间内被集中突破。所以，工业变成了具身智能里跑得最快的那条赛道。 国家税务总局的数据显示，2",
+      "summary_zh": "一周连发6个模型！这家公司把具身智能的闭环跑通了  克雷西 2026-09-10 12:55:38  来源：量子位   模型可以开源，部署经验不能  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 过去一年，具身智能行业的新闻雷声大、雨点也大。根据量子位不完全统计，截至2026年6月12日，国内具身智能赛道共融资约438亿元，已经达到了2025年全年的近八成。 这些demo和融资，覆盖的场景五花八门，家用陪伴、商业导览、工业产线，每个细分领域都有公司在做。但demo跑通和真正批量部署，是两张皮的事，不是每个场景都能同时跨过去，如果视角直接盯着「具身智能」这个大概念，未免太过宽泛。 那么究竟哪个场景离批量落地最近？答案是工业。 机器人落地，还得是工业场景 听到「工业」二字，很多人会认为门槛高、技术严苛，但对于具身智能而言，工业生产反而比生活场景来得简单。工业场景中，取放、搬运、插拔，这类动作重复度高，任务边界也相对固定。 相比家用场景里随时可能出现的宠物、玩具、陌生访客，工业场景更容易在短时间内被集中突破。所以，工业变成了具身智能里跑得最快的那条赛道。 国家税务总局的数据显示，2",
+      "publishedAt": "2026-09-10T04:55:38Z",
+      "published_at": "2026-09-10T04:55:38Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "3a949eb6",
+      "title": "世界模型到底是什么？李飞飞、朱军等如",
+      "title_en": "世界模型到底是什么？李飞飞、朱军等如何解读？",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -193,10 +226,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "国家级顶流AI赛事再开战！第三届「兴智杯」报名开启，等你来战",
-      "summary_zh": "国家级顶流AI赛事再开战！第三届「兴智杯」报名开启，等你来战",
-      "publishedAt": "2026-09-10T12:59:57Z",
-      "published_at": "2026-09-10T12:59:57Z",
+      "summary": "世界模型到底是什么？李飞飞、朱军等如何解读？",
+      "summary_zh": "世界模型到底是什么？李飞飞、朱军等如何解读？",
+      "publishedAt": "2026-09-10T22:40:24Z",
+      "published_at": "2026-09-10T22:40:24Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

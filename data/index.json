@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-09-10T13:01:05Z",
-  "generatedAt": "2026-09-10T13:01:05Z",
-  "count": 121,
-  "total": 121,
+  "generated_at": "2026-09-10T22:41:36Z",
+  "generatedAt": "2026-09-10T22:41:36Z",
+  "count": 122,
+  "total": 122,
   "entries": [
+    {
+      "date": "2026-09-11",
+      "generated_at": "2026-09-10T22:41:36Z",
+      "generatedAt": "2026-09-10T22:41:36Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "bc69d187",
+          "title": "产品更新：Typewise Nova",
+          "title_en": "Typewise Nova",
+          "url": "https://www.producthunt.com/products/typewise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/typewise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI customer experience that builds and improve",
+          "summary_zh": "AI customer experience that builds and improve",
+          "publishedAt": "2026-09-10T07:01:00Z",
+          "published_at": "2026-09-10T07:01:00Z",
+          "votes_count": 275,
+          "featured": true,
+          "topics": [
+            {
+              "id": "123",
+              "name": "Customer Communication",
+              "slug": "customer-communication"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "afcc2f2a",
+          "title": "模型更新：AI Observabilit",
+          "title_en": "AI Observability by OpenObserve",
+          "url": "https://www.producthunt.com/products/openobserve?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openobserve?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "OpenTelemetry-native observability for agents",
+          "summary_zh": "OpenTelemetry-native observability for agents",
+          "publishedAt": "2026-09-10T07:01:00Z",
+          "published_at": "2026-09-10T07:01:00Z",
+          "votes_count": 265,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6c092d5e",
+          "title": "产品更新：AirPods 5",
+          "title_en": "AirPods 5",
+          "url": "https://www.producthunt.com/products/apple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/apple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "1.5x Active Noise Cancellation, AI Siri, Live",
+          "summary_zh": "1.5x Active Noise Cancellation, AI Siri, Live",
+          "publishedAt": "2026-09-10T07:01:00Z",
+          "published_at": "2026-09-10T07:01:00Z",
+          "votes_count": 172,
+          "featured": true,
+          "topics": [
+            {
+              "id": "261",
+              "name": "Wearables",
+              "slug": "wearables"
+            },
+            {
+              "id": "362",
+              "name": "Apple",
+              "slug": "apple"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-10",
       "generated_at": "2026-09-10T13:01:05Z",
