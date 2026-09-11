@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-09-11T12:56:23Z",
-  "generatedAt": "2026-09-11T12:56:23Z",
-  "count": 122,
-  "total": 122,
+  "generated_at": "2026-09-11T22:41:15Z",
+  "generatedAt": "2026-09-11T22:41:15Z",
+  "count": 123,
+  "total": 123,
   "entries": [
+    {
+      "date": "2026-09-12",
+      "generated_at": "2026-09-11T22:41:15Z",
+      "generatedAt": "2026-09-11T22:41:15Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "ffded820",
+          "title": "产品更新：Anysite.io",
+          "title_en": "Anysite.io",
+          "url": "https://www.producthunt.com/products/anysite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/anysite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build and enrich B2B lists by chatting to your",
+          "summary_zh": "Build and enrich B2B lists by chatting to your",
+          "publishedAt": "2026-09-11T07:01:00Z",
+          "published_at": "2026-09-11T07:01:00Z",
+          "votes_count": 395,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "dbdd7f11",
+          "title": "产品更新：Loqua",
+          "title_en": "Loqua",
+          "url": "https://www.producthunt.com/products/loqua?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/loqua?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Speak naturally and move from thoughts to bein",
+          "summary_zh": "Speak naturally and move from thoughts to bein",
+          "publishedAt": "2026-09-11T07:01:00Z",
+          "published_at": "2026-09-11T07:01:00Z",
+          "votes_count": 349,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1a600dba",
+          "title": "产品更新：Raycast 2.0",
+          "title_en": "Raycast 2.0",
+          "url": "https://www.producthunt.com/products/raycast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/raycast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The next generation of Raycast is here Raycast",
+          "summary_zh": "The next generation of Raycast is here Raycast",
+          "publishedAt": "2026-09-11T07:01:00Z",
+          "published_at": "2026-09-11T07:01:00Z",
+          "votes_count": 274,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-11",
       "generated_at": "2026-09-11T12:56:23Z",

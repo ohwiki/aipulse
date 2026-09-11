@@ -1,0 +1,503 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-11T22:41:15Z",
+  "generatedAt": "2026-09-11T22:41:15Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "ffded820",
+          "title": "产品更新：Anysite.io",
+          "title_en": "Anysite.io",
+          "url": "https://www.producthunt.com/products/anysite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/anysite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Build and enrich B2B lists by chatting to your",
+          "summary_zh": "Build and enrich B2B lists by chatting to your",
+          "publishedAt": "2026-09-11T07:01:00Z",
+          "published_at": "2026-09-11T07:01:00Z",
+          "votes_count": 395,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "dbdd7f11",
+          "title": "产品更新：Loqua",
+          "title_en": "Loqua",
+          "url": "https://www.producthunt.com/products/loqua?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/loqua?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Speak naturally and move from thoughts to bein",
+          "summary_zh": "Speak naturally and move from thoughts to bein",
+          "publishedAt": "2026-09-11T07:01:00Z",
+          "published_at": "2026-09-11T07:01:00Z",
+          "votes_count": 349,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1a600dba",
+          "title": "产品更新：Raycast 2.0",
+          "title_en": "Raycast 2.0",
+          "url": "https://www.producthunt.com/products/raycast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/raycast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The next generation of Raycast is here Raycast",
+          "summary_zh": "The next generation of Raycast is here Raycast",
+          "publishedAt": "2026-09-11T07:01:00Z",
+          "published_at": "2026-09-11T07:01:00Z",
+          "votes_count": 274,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ed605dda",
+          "title": "产品更新：Wisry",
+          "title_en": "Wisry",
+          "url": "https://www.producthunt.com/products/wisry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wisry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Clone the ads already winning in your market,",
+          "summary_zh": "Clone the ads already winning in your market,",
+          "publishedAt": "2026-09-11T07:01:00Z",
+          "published_at": "2026-09-11T07:01:00Z",
+          "votes_count": 246,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "cfa55836",
+          "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/487055.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/487055.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞  闻乐 2026-09-11 08:55:01  来源：量子位   15秒视频，50秒出片   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  MiniMax H3是真强也是真火啊。 开源还能打，在AI视频圈也算是独一份了。  模型底座强成这样，开发者们自然也闲不住，开始琢磨怎么把它玩得更爽。 所以MiniMax前脚刚把H3开源，后脚各种工作流、ComfyUI节点、垂直优化玩法就已经冒了出来。 这不，一站式AIGC创作平台RunningHub就盯上了一个大家都特《急急急》的事儿： 让H3跑快点。 咋说呢，模型越好用人越忍不住多抽几次，结果一抽一个大等待。 灵感一上头，创意改起来只要十几秒，下一版都已经在脑子里剪完了，结果屏幕上的这一版还在转……  于是乎，RunningHub干脆给H3踩了脚油门，直接朝着等待时间砍了一刀。 同样生成5秒、1344×768的视频，在4张RTX 6000D上，原始BF16 50步方案耗时348.8秒，差不多6分钟。 RunningHub H3 Lightning完",
+          "summary_zh": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞  闻乐 2026-09-11 08:55:01  来源：量子位   15秒视频，50秒出片   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  MiniMax H3是真强也是真火啊。 开源还能打，在AI视频圈也算是独一份了。  模型底座强成这样，开发者们自然也闲不住，开始琢磨怎么把它玩得更爽。 所以MiniMax前脚刚把H3开源，后脚各种工作流、ComfyUI节点、垂直优化玩法就已经冒了出来。 这不，一站式AIGC创作平台RunningHub就盯上了一个大家都特《急急急》的事儿： 让H3跑快点。 咋说呢，模型越好用人越忍不住多抽几次，结果一抽一个大等待。 灵感一上头，创意改起来只要十几秒，下一版都已经在脑子里剪完了，结果屏幕上的这一版还在转……  于是乎，RunningHub干脆给H3踩了脚油门，直接朝着等待时间砍了一刀。 同样生成5秒、1344×768的视频，在4张RTX 6000D上，原始BF16 50步方案耗时348.8秒，差不多6分钟。 RunningHub H3 Lightning完",
+          "publishedAt": "2026-09-11T00:55:01Z",
+          "published_at": "2026-09-11T00:55:01Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "8a8546e4",
+          "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/487092.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/487092.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。  一水 2026-09-11 09:46:55  来源：量子位   爆料直指霍奇猜想  OpenAI的纳维-斯托克斯方程连续剧，居然还没完。。。 《纽约时报》最新追访，补出了这场冲突中此前没有披露的细节。 其中最关键的一条，是OpenAI更新了关于用户数据的说法：  Buckmaster过去两个月的Codex提示词，绝不可能以任何方式影响内部模型。7月3日之后的任何用户输入，也不可能进入这套系统。  这比OpenAI此前“无法完全排除匿名用户数据曾帮助改进模型”的表态明确得多，也给8月研究成果是否进入模型划出了一条时间线。 不过这仍然是OpenAI单方面给出的说法，目前没有公开技术材料可供外界独立核查。     数据争议还没落地，OpenAI又扔下一枚炸弹： 攻克纳维-斯托克斯之后，公司又在另一道千禧年大奖难题上取得“实质性进展”，正在准备公布结果。 而最新传闻指向的，正是霍奇猜想。 好家伙，第一道题的论文还在接受审查，第二道题已经要交卷了。 “你为什么要毁掉自己的职业生涯？” 简单回顾一下这场争议始末以及最新爆料。 纽约大学",
+          "summary_zh": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。  一水 2026-09-11 09:46:55  来源：量子位   爆料直指霍奇猜想  OpenAI的纳维-斯托克斯方程连续剧，居然还没完。。。 《纽约时报》最新追访，补出了这场冲突中此前没有披露的细节。 其中最关键的一条，是OpenAI更新了关于用户数据的说法：  Buckmaster过去两个月的Codex提示词，绝不可能以任何方式影响内部模型。7月3日之后的任何用户输入，也不可能进入这套系统。  这比OpenAI此前“无法完全排除匿名用户数据曾帮助改进模型”的表态明确得多，也给8月研究成果是否进入模型划出了一条时间线。 不过这仍然是OpenAI单方面给出的说法，目前没有公开技术材料可供外界独立核查。     数据争议还没落地，OpenAI又扔下一枚炸弹： 攻克纳维-斯托克斯之后，公司又在另一道千禧年大奖难题上取得“实质性进展”，正在准备公布结果。 而最新传闻指向的，正是霍奇猜想。 好家伙，第一道题的论文还在接受审查，第二道题已经要交卷了。 “你为什么要毁掉自己的职业生涯？” 简单回顾一下这场争议始末以及最新爆料。 纽约大学",
+          "publishedAt": "2026-09-11T01:46:55Z",
+          "published_at": "2026-09-11T01:46:55Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "7cec8bff",
+          "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/487176.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/487176.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中  量子位的朋友们 2026-09-11 11:57:32  来源：量子位   今年12月，北京，MEET2027智能未来大会！  MEET组委会 发自 凹非寺    量子位 | 公众号 QbitAI  AI，正变得前所未有的“能干”。 以前我们用AI，大多只是打开对话框提问；如今变化早已发生在对话框之外——  智能体能自主拆解目标、调度工具、跑完整条任务流程，中途出错还能折回修正； 机器人从实验室演示视频走进产线、仓库和门店，开始承担真实作业； 世界模型教会机器理解物理规律，而不仅仅把语料拟合得更像人话。  也正因如此，衡量AI好不好用，也就不能比谁在榜单上多拿几分，现在要看它能不能在真实环境里把活干完、干稳、干得敢交付。 而AI一旦开始替人做决定、动手执行，可靠性、可控性、安全边界这些关键词，就成了产业和社会都绕不开的问题。 我们与其说是在等一个未来到来，不如说是在学着怎么驾驭它。 于是，在如此背景之下，我们将以「智行合一，驭见未来」为主题，正式启动MEET2027智能未来大会！承袭MEET系列年度行业观察的视角，诚邀科",
+          "summary_zh": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中  量子位的朋友们 2026-09-11 11:57:32  来源：量子位   今年12月，北京，MEET2027智能未来大会！  MEET组委会 发自 凹非寺    量子位 | 公众号 QbitAI  AI，正变得前所未有的“能干”。 以前我们用AI，大多只是打开对话框提问；如今变化早已发生在对话框之外——  智能体能自主拆解目标、调度工具、跑完整条任务流程，中途出错还能折回修正； 机器人从实验室演示视频走进产线、仓库和门店，开始承担真实作业； 世界模型教会机器理解物理规律，而不仅仅把语料拟合得更像人话。  也正因如此，衡量AI好不好用，也就不能比谁在榜单上多拿几分，现在要看它能不能在真实环境里把活干完、干稳、干得敢交付。 而AI一旦开始替人做决定、动手执行，可靠性、可控性、安全边界这些关键词，就成了产业和社会都绕不开的问题。 我们与其说是在等一个未来到来，不如说是在学着怎么驾驭它。 于是，在如此背景之下，我们将以「智行合一，驭见未来」为主题，正式启动MEET2027智能未来大会！承袭MEET系列年度行业观察的视角，诚邀科",
+          "publishedAt": "2026-09-11T03:57:32Z",
+          "published_at": "2026-09-11T03:57:32Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "a608fbf5",
+          "title": "Nature封面 | 面向流体动力学",
+          "title_en": "Nature封面 | 面向流体动力学的强化学习平台，华盛顿大学等提出HydroGym",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Nature封面 | 面向流体动力学的强化学习平台，华盛顿大学等提出HydroGym",
+          "summary_zh": "Nature封面 | 面向流体动力学的强化学习平台，华盛顿大学等提出HydroGym",
+          "publishedAt": "2026-09-11T22:40:20Z",
+          "published_at": "2026-09-11T22:40:20Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "ffded820",
+      "title": "产品更新：Anysite.io",
+      "title_en": "Anysite.io",
+      "url": "https://www.producthunt.com/products/anysite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/anysite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build and enrich B2B lists by chatting to your",
+      "summary_zh": "Build and enrich B2B lists by chatting to your",
+      "publishedAt": "2026-09-11T07:01:00Z",
+      "published_at": "2026-09-11T07:01:00Z",
+      "votes_count": 395,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "dbdd7f11",
+      "title": "产品更新：Loqua",
+      "title_en": "Loqua",
+      "url": "https://www.producthunt.com/products/loqua?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/loqua?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Speak naturally and move from thoughts to bein",
+      "summary_zh": "Speak naturally and move from thoughts to bein",
+      "publishedAt": "2026-09-11T07:01:00Z",
+      "published_at": "2026-09-11T07:01:00Z",
+      "votes_count": 349,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1a600dba",
+      "title": "产品更新：Raycast 2.0",
+      "title_en": "Raycast 2.0",
+      "url": "https://www.producthunt.com/products/raycast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/raycast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The next generation of Raycast is here Raycast",
+      "summary_zh": "The next generation of Raycast is here Raycast",
+      "publishedAt": "2026-09-11T07:01:00Z",
+      "published_at": "2026-09-11T07:01:00Z",
+      "votes_count": 274,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ed605dda",
+      "title": "产品更新：Wisry",
+      "title_en": "Wisry",
+      "url": "https://www.producthunt.com/products/wisry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/wisry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Clone the ads already winning in your market,",
+      "summary_zh": "Clone the ads already winning in your market,",
+      "publishedAt": "2026-09-11T07:01:00Z",
+      "published_at": "2026-09-11T07:01:00Z",
+      "votes_count": 246,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "278",
+          "name": "E-Commerce",
+          "slug": "e-commerce"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "cfa55836",
+      "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/487055.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/487055.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞  闻乐 2026-09-11 08:55:01  来源：量子位   15秒视频，50秒出片   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  MiniMax H3是真强也是真火啊。 开源还能打，在AI视频圈也算是独一份了。  模型底座强成这样，开发者们自然也闲不住，开始琢磨怎么把它玩得更爽。 所以MiniMax前脚刚把H3开源，后脚各种工作流、ComfyUI节点、垂直优化玩法就已经冒了出来。 这不，一站式AIGC创作平台RunningHub就盯上了一个大家都特《急急急》的事儿： 让H3跑快点。 咋说呢，模型越好用人越忍不住多抽几次，结果一抽一个大等待。 灵感一上头，创意改起来只要十几秒，下一版都已经在脑子里剪完了，结果屏幕上的这一版还在转……  于是乎，RunningHub干脆给H3踩了脚油门，直接朝着等待时间砍了一刀。 同样生成5秒、1344×768的视频，在4张RTX 6000D上，原始BF16 50步方案耗时348.8秒，差不多6分钟。 RunningHub H3 Lightning完",
+      "summary_zh": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞  闻乐 2026-09-11 08:55:01  来源：量子位   15秒视频，50秒出片   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  MiniMax H3是真强也是真火啊。 开源还能打，在AI视频圈也算是独一份了。  模型底座强成这样，开发者们自然也闲不住，开始琢磨怎么把它玩得更爽。 所以MiniMax前脚刚把H3开源，后脚各种工作流、ComfyUI节点、垂直优化玩法就已经冒了出来。 这不，一站式AIGC创作平台RunningHub就盯上了一个大家都特《急急急》的事儿： 让H3跑快点。 咋说呢，模型越好用人越忍不住多抽几次，结果一抽一个大等待。 灵感一上头，创意改起来只要十几秒，下一版都已经在脑子里剪完了，结果屏幕上的这一版还在转……  于是乎，RunningHub干脆给H3踩了脚油门，直接朝着等待时间砍了一刀。 同样生成5秒、1344×768的视频，在4张RTX 6000D上，原始BF16 50步方案耗时348.8秒，差不多6分钟。 RunningHub H3 Lightning完",
+      "publishedAt": "2026-09-11T00:55:01Z",
+      "published_at": "2026-09-11T00:55:01Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "8a8546e4",
+      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/487092.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/487092.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。  一水 2026-09-11 09:46:55  来源：量子位   爆料直指霍奇猜想  OpenAI的纳维-斯托克斯方程连续剧，居然还没完。。。 《纽约时报》最新追访，补出了这场冲突中此前没有披露的细节。 其中最关键的一条，是OpenAI更新了关于用户数据的说法：  Buckmaster过去两个月的Codex提示词，绝不可能以任何方式影响内部模型。7月3日之后的任何用户输入，也不可能进入这套系统。  这比OpenAI此前“无法完全排除匿名用户数据曾帮助改进模型”的表态明确得多，也给8月研究成果是否进入模型划出了一条时间线。 不过这仍然是OpenAI单方面给出的说法，目前没有公开技术材料可供外界独立核查。     数据争议还没落地，OpenAI又扔下一枚炸弹： 攻克纳维-斯托克斯之后，公司又在另一道千禧年大奖难题上取得“实质性进展”，正在准备公布结果。 而最新传闻指向的，正是霍奇猜想。 好家伙，第一道题的论文还在接受审查，第二道题已经要交卷了。 “你为什么要毁掉自己的职业生涯？” 简单回顾一下这场争议始末以及最新爆料。 纽约大学",
+      "summary_zh": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。  一水 2026-09-11 09:46:55  来源：量子位   爆料直指霍奇猜想  OpenAI的纳维-斯托克斯方程连续剧，居然还没完。。。 《纽约时报》最新追访，补出了这场冲突中此前没有披露的细节。 其中最关键的一条，是OpenAI更新了关于用户数据的说法：  Buckmaster过去两个月的Codex提示词，绝不可能以任何方式影响内部模型。7月3日之后的任何用户输入，也不可能进入这套系统。  这比OpenAI此前“无法完全排除匿名用户数据曾帮助改进模型”的表态明确得多，也给8月研究成果是否进入模型划出了一条时间线。 不过这仍然是OpenAI单方面给出的说法，目前没有公开技术材料可供外界独立核查。     数据争议还没落地，OpenAI又扔下一枚炸弹： 攻克纳维-斯托克斯之后，公司又在另一道千禧年大奖难题上取得“实质性进展”，正在准备公布结果。 而最新传闻指向的，正是霍奇猜想。 好家伙，第一道题的论文还在接受审查，第二道题已经要交卷了。 “你为什么要毁掉自己的职业生涯？” 简单回顾一下这场争议始末以及最新爆料。 纽约大学",
+      "publishedAt": "2026-09-11T01:46:55Z",
+      "published_at": "2026-09-11T01:46:55Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "7cec8bff",
+      "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/487176.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/487176.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中  量子位的朋友们 2026-09-11 11:57:32  来源：量子位   今年12月，北京，MEET2027智能未来大会！  MEET组委会 发自 凹非寺    量子位 | 公众号 QbitAI  AI，正变得前所未有的“能干”。 以前我们用AI，大多只是打开对话框提问；如今变化早已发生在对话框之外——  智能体能自主拆解目标、调度工具、跑完整条任务流程，中途出错还能折回修正； 机器人从实验室演示视频走进产线、仓库和门店，开始承担真实作业； 世界模型教会机器理解物理规律，而不仅仅把语料拟合得更像人话。  也正因如此，衡量AI好不好用，也就不能比谁在榜单上多拿几分，现在要看它能不能在真实环境里把活干完、干稳、干得敢交付。 而AI一旦开始替人做决定、动手执行，可靠性、可控性、安全边界这些关键词，就成了产业和社会都绕不开的问题。 我们与其说是在等一个未来到来，不如说是在学着怎么驾驭它。 于是，在如此背景之下，我们将以「智行合一，驭见未来」为主题，正式启动MEET2027智能未来大会！承袭MEET系列年度行业观察的视角，诚邀科",
+      "summary_zh": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中  量子位的朋友们 2026-09-11 11:57:32  来源：量子位   今年12月，北京，MEET2027智能未来大会！  MEET组委会 发自 凹非寺    量子位 | 公众号 QbitAI  AI，正变得前所未有的“能干”。 以前我们用AI，大多只是打开对话框提问；如今变化早已发生在对话框之外——  智能体能自主拆解目标、调度工具、跑完整条任务流程，中途出错还能折回修正； 机器人从实验室演示视频走进产线、仓库和门店，开始承担真实作业； 世界模型教会机器理解物理规律，而不仅仅把语料拟合得更像人话。  也正因如此，衡量AI好不好用，也就不能比谁在榜单上多拿几分，现在要看它能不能在真实环境里把活干完、干稳、干得敢交付。 而AI一旦开始替人做决定、动手执行，可靠性、可控性、安全边界这些关键词，就成了产业和社会都绕不开的问题。 我们与其说是在等一个未来到来，不如说是在学着怎么驾驭它。 于是，在如此背景之下，我们将以「智行合一，驭见未来」为主题，正式启动MEET2027智能未来大会！承袭MEET系列年度行业观察的视角，诚邀科",
+      "publishedAt": "2026-09-11T03:57:32Z",
+      "published_at": "2026-09-11T03:57:32Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "a608fbf5",
+      "title": "Nature封面 | 面向流体动力学",
+      "title_en": "Nature封面 | 面向流体动力学的强化学习平台，华盛顿大学等提出HydroGym",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Nature封面 | 面向流体动力学的强化学习平台，华盛顿大学等提出HydroGym",
+      "summary_zh": "Nature封面 | 面向流体动力学的强化学习平台，华盛顿大学等提出HydroGym",
+      "publishedAt": "2026-09-11T22:40:20Z",
+      "published_at": "2026-09-11T22:40:20Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T12:56:23Z",
-  "generatedAt": "2026-09-11T12:56:23Z",
+  "generated_at": "2026-09-11T22:41:15Z",
+  "generatedAt": "2026-09-11T22:41:15Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "Build and enrich B2B lists by chatting to your",
       "publishedAt": "2026-09-11T07:01:00Z",
       "published_at": "2026-09-11T07:01:00Z",
-      "votes_count": 258,
+      "votes_count": 395,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Speak naturally and move from thoughts to bein",
       "publishedAt": "2026-09-11T07:01:00Z",
       "published_at": "2026-09-11T07:01:00Z",
-      "votes_count": 241,
+      "votes_count": 349,
       "featured": true,
       "topics": [
         {
@@ -82,44 +82,6 @@
       "score_details": null
     },
     {
-      "id": "ed605dda",
-      "title": "产品更新：Wisry",
-      "title_en": "Wisry",
-      "url": "https://www.producthunt.com/products/wisry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/wisry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Clone the ads already winning in your market -",
-      "summary_zh": "Clone the ads already winning in your market -",
-      "publishedAt": "2026-09-11T07:01:00Z",
-      "published_at": "2026-09-11T07:01:00Z",
-      "votes_count": 181,
-      "featured": true,
-      "topics": [
-        {
-          "id": "164",
-          "name": "Marketing",
-          "slug": "marketing"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "278",
-          "name": "E-Commerce",
-          "slug": "e-commerce"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "1a600dba",
       "title": "产品更新：Raycast 2.0",
       "title_en": "Raycast 2.0",
@@ -136,7 +98,7 @@
       "summary_zh": "The next generation of Raycast is here Raycast",
       "publishedAt": "2026-09-11T07:01:00Z",
       "published_at": "2026-09-11T07:01:00Z",
-      "votes_count": 174,
+      "votes_count": 274,
       "featured": true,
       "topics": [
         {
@@ -153,6 +115,44 @@
           "id": "267",
           "name": "Developer Tools",
           "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ed605dda",
+      "title": "产品更新：Wisry",
+      "title_en": "Wisry",
+      "url": "https://www.producthunt.com/products/wisry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/wisry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Clone the ads already winning in your market,",
+      "summary_zh": "Clone the ads already winning in your market,",
+      "publishedAt": "2026-09-11T07:01:00Z",
+      "published_at": "2026-09-11T07:01:00Z",
+      "votes_count": 246,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "278",
+          "name": "E-Commerce",
+          "slug": "e-commerce"
         }
       ],
       "score_details": null
@@ -238,8 +238,8 @@
       "rankingScore": 5.0,
       "summary": "Nature封面 | 面向流体动力学的强化学习平台，华盛顿大学等提出HydroGym",
       "summary_zh": "Nature封面 | 面向流体动力学的强化学习平台，华盛顿大学等提出HydroGym",
-      "publishedAt": "2026-09-11T12:55:06Z",
-      "published_at": "2026-09-11T12:55:06Z",
+      "publishedAt": "2026-09-11T22:40:20Z",
+      "published_at": "2026-09-11T22:40:20Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
