@@ -1,128 +1,101 @@
 {
-  "generated_at": "2026-09-11T22:41:15Z",
-  "generatedAt": "2026-09-11T22:41:15Z",
+  "generated_at": "2026-09-12T12:18:01Z",
+  "generatedAt": "2026-09-12T12:18:01Z",
   "count": 123,
   "total": 123,
   "entries": [
     {
       "date": "2026-09-12",
-      "generated_at": "2026-09-11T22:41:15Z",
-      "generatedAt": "2026-09-11T22:41:15Z",
-      "total": 8,
+      "generated_at": "2026-09-12T12:18:01Z",
+      "generatedAt": "2026-09-12T12:18:01Z",
+      "total": 5,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "ffded820",
-          "title": "产品更新：Anysite.io",
-          "title_en": "Anysite.io",
-          "url": "https://www.producthunt.com/products/anysite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "69cc2fe6",
+          "title": "产品更新：Cortex",
+          "title_en": "Cortex",
+          "url": "https://www.producthunt.com/products/cortex-25?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/anysite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/cortex-25?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Build and enrich B2B lists by chatting to your",
-          "summary_zh": "Build and enrich B2B lists by chatting to your",
-          "publishedAt": "2026-09-11T07:01:00Z",
-          "published_at": "2026-09-11T07:01:00Z",
-          "votes_count": 395,
+          "summary": "Turn API specs into docs, SDKs, and MCP server",
+          "summary_zh": "Turn API specs into docs, SDKs, and MCP server",
+          "publishedAt": "2026-09-12T07:01:00Z",
+          "published_at": "2026-09-12T07:01:00Z",
+          "votes_count": 150,
           "featured": true,
           "topics": [
             {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
             },
             {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
             },
             {
               "id": "267",
               "name": "Developer Tools",
               "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
             }
           ],
           "score_details": null
         },
         {
-          "id": "dbdd7f11",
-          "title": "产品更新：Loqua",
-          "title_en": "Loqua",
-          "url": "https://www.producthunt.com/products/loqua?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "7c9112a7",
+          "title": "灵影正式发布，蚂蚁加码AI终端开放生",
+          "title_en": "灵影正式发布，蚂蚁加码AI终端开放生态",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/loqua?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Speak naturally and move from thoughts to bein",
-          "summary_zh": "Speak naturally and move from thoughts to bein",
-          "publishedAt": "2026-09-11T07:01:00Z",
-          "published_at": "2026-09-11T07:01:00Z",
-          "votes_count": 349,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "471",
-              "name": "Audio",
-              "slug": "audio"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "灵影正式发布，蚂蚁加码AI终端开放生态",
+          "summary_zh": "灵影正式发布，蚂蚁加码AI终端开放生态",
+          "publishedAt": "2026-09-12T12:15:51Z",
+          "published_at": "2026-09-12T12:15:51Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "1a600dba",
-          "title": "产品更新：Raycast 2.0",
-          "title_en": "Raycast 2.0",
-          "url": "https://www.producthunt.com/products/raycast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "0f8ea7ad",
+          "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/487631.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/raycast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The next generation of Raycast is here Raycast",
-          "summary_zh": "The next generation of Raycast is here Raycast",
-          "publishedAt": "2026-09-11T07:01:00Z",
-          "published_at": "2026-09-11T07:01:00Z",
-          "votes_count": 274,
-          "featured": true,
-          "topics": [
-            {
-              "id": "19",
-              "name": "Mac",
-              "slug": "mac"
-            },
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/487631.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭  Jay 2026-09-12 02:02:36  来源：量子位   看清「一个真正的人」   Jay 发自 凹非寺 量子位 | 公众号QbitAI  过去只有大企业才有的专属金融服务，AI Agent正在把它送到小微经营者的聊天框里。 一个小微商家想开第二家餐饮店，在聊天框说了句：「想把额度提一提」。 10分钟后，他拿到了一笔40万、可按开店进度分笔支用的融资方案。 10分钟本身不算稀奇。互联网金融这些年，早就把小微贷款的速度卷到了极致。 但速度背后，通常是一个标准化产品：额度不会太大，方案也不会太贴合具体生意。 客户如果想要一笔真正匹配自己经营节奏的钱，往往还得跑几个入口、登记好几个产品，最后东拼西凑半天也不一定够。 如今终于有个性化的解决方案了。 这是网商银行在2026外滩大会上首次披露的AI银行落地进展：  后台：AI全面进入风控、人审、营销、产研等核心生产环节 前台：全球首个小微普惠金融Agent百灵2.0，已面向4200万小微商家开放  要知道，银行大概是全宇宙转移成本最高的行业之一，传统业务流程的惯性是",
+          "summary_zh": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭  Jay 2026-09-12 02:02:36  来源：量子位   看清「一个真正的人」   Jay 发自 凹非寺 量子位 | 公众号QbitAI  过去只有大企业才有的专属金融服务，AI Agent正在把它送到小微经营者的聊天框里。 一个小微商家想开第二家餐饮店，在聊天框说了句：「想把额度提一提」。 10分钟后，他拿到了一笔40万、可按开店进度分笔支用的融资方案。 10分钟本身不算稀奇。互联网金融这些年，早就把小微贷款的速度卷到了极致。 但速度背后，通常是一个标准化产品：额度不会太大，方案也不会太贴合具体生意。 客户如果想要一笔真正匹配自己经营节奏的钱，往往还得跑几个入口、登记好几个产品，最后东拼西凑半天也不一定够。 如今终于有个性化的解决方案了。 这是网商银行在2026外滩大会上首次披露的AI银行落地进展：  后台：AI全面进入风控、人审、营销、产研等核心生产环节 前台：全球首个小微普惠金融Agent百灵2.0，已面向4200万小微商家开放  要知道，银行大概是全宇宙转移成本最高的行业之一，传统业务流程的惯性是",
+          "publishedAt": "2026-09-11T18:02:36Z",
+          "published_at": "2026-09-11T18:02:36Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
