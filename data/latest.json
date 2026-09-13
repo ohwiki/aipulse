@@ -1,10 +1,48 @@
 {
-  "generated_at": "2026-09-13T13:27:22Z",
-  "generatedAt": "2026-09-13T13:27:22Z",
+  "generated_at": "2026-09-13T22:30:53Z",
+  "generatedAt": "2026-09-13T22:30:53Z",
   "days": 7,
   "total": 7,
   "count": 7,
   "items": [
+    {
+      "id": "7cb45d1e",
+      "title": "产品更新：Resurf",
+      "title_en": "Resurf",
+      "url": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A Personal Context Library for Mac Resurf is a",
+      "summary_zh": "A Personal Context Library for Mac Resurf is a",
+      "publishedAt": "2026-09-13T07:01:00Z",
+      "published_at": "2026-09-13T07:01:00Z",
+      "votes_count": 219,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "6f90ebc8",
       "title": "产品更新：Perplexity Hybr",
@@ -22,51 +60,13 @@
       "summary_zh": "Splitting AI tasks: Cloud for research, Mac fo",
       "publishedAt": "2026-09-13T07:01:00Z",
       "published_at": "2026-09-13T07:01:00Z",
-      "votes_count": 135,
+      "votes_count": 180,
       "featured": true,
       "topics": [
         {
           "id": "19",
           "name": "Mac",
           "slug": "mac"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "7cb45d1e",
-      "title": "产品更新：Resurf",
-      "title_en": "Resurf",
-      "url": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "A Personal Context App Resurf is a personal co",
-      "summary_zh": "A Personal Context App Resurf is a personal co",
-      "publishedAt": "2026-09-13T07:01:00Z",
-      "published_at": "2026-09-13T07:01:00Z",
-      "votes_count": 135,
-      "featured": true,
-      "topics": [
-        {
-          "id": "44",
-          "name": "Design Tools",
-          "slug": "design-tools"
-        },
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
         },
         {
           "id": "268",
@@ -93,7 +93,7 @@
       "summary_zh": "Cognition's coding model, 64% cheaper than Fab",
       "publishedAt": "2026-09-13T07:01:00Z",
       "published_at": "2026-09-13T07:01:00Z",
-      "votes_count": 121,
+      "votes_count": 153,
       "featured": true,
       "topics": [
         {
@@ -185,8 +185,8 @@
       "rankingScore": 5.0,
       "summary": "Astra写的代码，人类已经看不懂了",
       "summary_zh": "Astra写的代码，人类已经看不懂了",
-      "publishedAt": "2026-09-13T13:23:00Z",
-      "published_at": "2026-09-13T13:23:00Z",
+      "publishedAt": "2026-09-13T22:29:08Z",
+      "published_at": "2026-09-13T22:29:08Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

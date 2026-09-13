@@ -1,0 +1,397 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-13T22:30:53Z",
+  "generatedAt": "2026-09-13T22:30:53Z",
+  "total": 7,
+  "count": 7,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "7cb45d1e",
+          "title": "产品更新：Resurf",
+          "title_en": "Resurf",
+          "url": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A Personal Context Library for Mac Resurf is a",
+          "summary_zh": "A Personal Context Library for Mac Resurf is a",
+          "publishedAt": "2026-09-13T07:01:00Z",
+          "published_at": "2026-09-13T07:01:00Z",
+          "votes_count": 219,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6f90ebc8",
+          "title": "产品更新：Perplexity Hybr",
+          "title_en": "Perplexity Hybrid Compute",
+          "url": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Splitting AI tasks: Cloud for research, Mac fo",
+          "summary_zh": "Splitting AI tasks: Cloud for research, Mac fo",
+          "publishedAt": "2026-09-13T07:01:00Z",
+          "published_at": "2026-09-13T07:01:00Z",
+          "votes_count": 180,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "effd2918",
+          "title": "产品更新：Cognition's SWE",
+          "title_en": "Cognition's SWE-2",
+          "url": "https://www.producthunt.com/products/cognition-s-swe-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cognition-s-swe-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Cognition's coding model, 64% cheaper than Fab",
+          "summary_zh": "Cognition's coding model, 64% cheaper than Fab",
+          "publishedAt": "2026-09-13T07:01:00Z",
+          "published_at": "2026-09-13T07:01:00Z",
+          "votes_count": 153,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "43c28549",
+          "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/488380.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/488380.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了  克雷西 2026-09-13 11:13:00  来源：量子位   RSI太危险，得管！   克雷西 发自 凹非寺 量子位 | 公众号 QbitAI  Dario和奥特曼终于「握手」了？ 而且一同握手的还有奥特曼的死对头马斯克。  起因是Dario在个人博客贴出了一篇万字长文，呼吁所有头部AI公司主动降速，别急着冲下一代模型。  文章一出，AI圈罕见地放下了各种爱恨纠葛，纷纷都来响应。 除了奥特曼和马斯克，还有哈萨比斯、卡帕西等一派大佬也表示支持，AI圈有头有脸的人物来了一大波。  上一次出现这种场面，还要追溯到2023年那封由Future of Life Institute发起的公开信。 当时上千名研究者和科技界人士联名呼吁，暂停训练比GPT-4更强的AI系统至少六个月。 但这一次不一样的是，喊停的人，自己就在创造AI的前沿。 「6到12个月，可能是留给我们的全部时间」 Dario在文章里画了一条时间线。 他的核心判断是，AI正在逼近一个临界点——RSI（递归自我改进）。 什么意思呢？RSI意味着AI模型开始具",
+          "summary_zh": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了  克雷西 2026-09-13 11:13:00  来源：量子位   RSI太危险，得管！   克雷西 发自 凹非寺 量子位 | 公众号 QbitAI  Dario和奥特曼终于「握手」了？ 而且一同握手的还有奥特曼的死对头马斯克。  起因是Dario在个人博客贴出了一篇万字长文，呼吁所有头部AI公司主动降速，别急着冲下一代模型。  文章一出，AI圈罕见地放下了各种爱恨纠葛，纷纷都来响应。 除了奥特曼和马斯克，还有哈萨比斯、卡帕西等一派大佬也表示支持，AI圈有头有脸的人物来了一大波。  上一次出现这种场面，还要追溯到2023年那封由Future of Life Institute发起的公开信。 当时上千名研究者和科技界人士联名呼吁，暂停训练比GPT-4更强的AI系统至少六个月。 但这一次不一样的是，喊停的人，自己就在创造AI的前沿。 「6到12个月，可能是留给我们的全部时间」 Dario在文章里画了一条时间线。 他的核心判断是，AI正在逼近一个临界点——RSI（递归自我改进）。 什么意思呢？RSI意味着AI模型开始具",
+          "publishedAt": "2026-09-13T03:13:00Z",
+          "published_at": "2026-09-13T03:13:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "975098c1",
+          "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/488447.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/488447.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你  鹭羽 2026-09-13 14:40:25  来源：量子位   Agent的下一步是关系型生产力   鹭羽 发自 凹非寺 量子位 | 公众号 QbitAI  还得是外滩大会，真！热！闹！啊！ 一个个Agent都动了起来：有能歌善舞的，也有猛扎进产业里干活的…… 这时，新问题也随之冒出来，AI动起来了，然后呢？ 任务总有交付的时刻。交付之后，用户为什么还会回来？下一次，为什么还找你？     同样在外滩，在与上海交大联合攒的路演局上，我们找到了答案。 上海米羊科技创始人徐奕成——或者说博主「洛小山」——现场回答了七个字： 关系型生产力Agent。     老实说，这个词还挺陌生的。 单看「关系型」，我们约莫可以理解为陪伴AI；「生产力Agent」大致就是当下的Claude Code、WorkBuddy这类产品。 可两者组合在一起，又是啥？ 我们不妨从产品侧来理解，米羊科技最近做了一款桌面Agent，名为白艾莉（Alice）。 她比一般陪伴产品更懂行，写作生图一应俱全，也比纯干活的Agent更懂用户，有自己的人格，还会发朋友圈",
+          "summary_zh": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你  鹭羽 2026-09-13 14:40:25  来源：量子位   Agent的下一步是关系型生产力   鹭羽 发自 凹非寺 量子位 | 公众号 QbitAI  还得是外滩大会，真！热！闹！啊！ 一个个Agent都动了起来：有能歌善舞的，也有猛扎进产业里干活的…… 这时，新问题也随之冒出来，AI动起来了，然后呢？ 任务总有交付的时刻。交付之后，用户为什么还会回来？下一次，为什么还找你？     同样在外滩，在与上海交大联合攒的路演局上，我们找到了答案。 上海米羊科技创始人徐奕成——或者说博主「洛小山」——现场回答了七个字： 关系型生产力Agent。     老实说，这个词还挺陌生的。 单看「关系型」，我们约莫可以理解为陪伴AI；「生产力Agent」大致就是当下的Claude Code、WorkBuddy这类产品。 可两者组合在一起，又是啥？ 我们不妨从产品侧来理解，米羊科技最近做了一款桌面Agent，名为白艾莉（Alice）。 她比一般陪伴产品更懂行，写作生图一应俱全，也比纯干活的Agent更懂用户，有自己的人格，还会发朋友圈",
+          "publishedAt": "2026-09-13T06:40:25Z",
+          "published_at": "2026-09-13T06:40:25Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "458f15fa",
+          "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/488519.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/488519.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "GitHub三榜第一背后，一个“专升本”工程师的十年  文婷 2026-09-13 15:20:19  来源：量子位   出身寒微不是耻辱，放弃自己才是。  文婷 发自 凹非寺 量子位 | 公众号 QbitAI 一位曾在16岁辍学的年轻人，干出了一个GitHub三榜第一！ 他就是画图Agent Archify的开发者——涂少坤。 截至发稿，Archify单日最高新增5000Star，总揽3.8kFork、5.88万Star； 同时，Archify项目本身和开发者涂少坤双双登顶GitHub热榜榜首（一周3天），获Github周榜第一。  我们线上对话了Archify的开发者、现任小红书AI native工程师的涂少坤，请他向大家讲讲Archify和他一路走来的心路历程。 重点笔记如下： 1、我觉得做开源，不需要在刚开始做或者正在做的时候就把回报看得那么重要；只要你的项目真正帮到了人，自然会收获同样真诚的反馈。 2、无论在哪里，都有积极向上、认真生活的人。在工厂和专科校园里，我也遇到了很多值得学习的人；每个人的处境、经历和长处各不相同，不该仅凭工作或学历，就否定一个人。 3、做出产品只是第",
+          "summary_zh": "GitHub三榜第一背后，一个“专升本”工程师的十年  文婷 2026-09-13 15:20:19  来源：量子位   出身寒微不是耻辱，放弃自己才是。  文婷 发自 凹非寺 量子位 | 公众号 QbitAI 一位曾在16岁辍学的年轻人，干出了一个GitHub三榜第一！ 他就是画图Agent Archify的开发者——涂少坤。 截至发稿，Archify单日最高新增5000Star，总揽3.8kFork、5.88万Star； 同时，Archify项目本身和开发者涂少坤双双登顶GitHub热榜榜首（一周3天），获Github周榜第一。  我们线上对话了Archify的开发者、现任小红书AI native工程师的涂少坤，请他向大家讲讲Archify和他一路走来的心路历程。 重点笔记如下： 1、我觉得做开源，不需要在刚开始做或者正在做的时候就把回报看得那么重要；只要你的项目真正帮到了人，自然会收获同样真诚的反馈。 2、无论在哪里，都有积极向上、认真生活的人。在工厂和专科校园里，我也遇到了很多值得学习的人；每个人的处境、经历和长处各不相同，不该仅凭工作或学历，就否定一个人。 3、做出产品只是第",
+          "publishedAt": "2026-09-13T07:20:19Z",
+          "published_at": "2026-09-13T07:20:19Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "39281c2b",
+          "title": "Astra写的代码，人类已经看不懂了",
+          "title_en": null,
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Astra写的代码，人类已经看不懂了",
+          "summary_zh": "Astra写的代码，人类已经看不懂了",
+          "publishedAt": "2026-09-13T22:29:08Z",
+          "published_at": "2026-09-13T22:29:08Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "7cb45d1e",
+      "title": "产品更新：Resurf",
+      "title_en": "Resurf",
+      "url": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A Personal Context Library for Mac Resurf is a",
+      "summary_zh": "A Personal Context Library for Mac Resurf is a",
+      "publishedAt": "2026-09-13T07:01:00Z",
+      "published_at": "2026-09-13T07:01:00Z",
+      "votes_count": 219,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6f90ebc8",
+      "title": "产品更新：Perplexity Hybr",
+      "title_en": "Perplexity Hybrid Compute",
+      "url": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Splitting AI tasks: Cloud for research, Mac fo",
+      "summary_zh": "Splitting AI tasks: Cloud for research, Mac fo",
+      "publishedAt": "2026-09-13T07:01:00Z",
+      "published_at": "2026-09-13T07:01:00Z",
+      "votes_count": 180,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "effd2918",
+      "title": "产品更新：Cognition's SWE",
+      "title_en": "Cognition's SWE-2",
+      "url": "https://www.producthunt.com/products/cognition-s-swe-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cognition-s-swe-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Cognition's coding model, 64% cheaper than Fab",
+      "summary_zh": "Cognition's coding model, 64% cheaper than Fab",
+      "publishedAt": "2026-09-13T07:01:00Z",
+      "published_at": "2026-09-13T07:01:00Z",
+      "votes_count": 153,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "43c28549",
+      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/488380.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/488380.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了  克雷西 2026-09-13 11:13:00  来源：量子位   RSI太危险，得管！   克雷西 发自 凹非寺 量子位 | 公众号 QbitAI  Dario和奥特曼终于「握手」了？ 而且一同握手的还有奥特曼的死对头马斯克。  起因是Dario在个人博客贴出了一篇万字长文，呼吁所有头部AI公司主动降速，别急着冲下一代模型。  文章一出，AI圈罕见地放下了各种爱恨纠葛，纷纷都来响应。 除了奥特曼和马斯克，还有哈萨比斯、卡帕西等一派大佬也表示支持，AI圈有头有脸的人物来了一大波。  上一次出现这种场面，还要追溯到2023年那封由Future of Life Institute发起的公开信。 当时上千名研究者和科技界人士联名呼吁，暂停训练比GPT-4更强的AI系统至少六个月。 但这一次不一样的是，喊停的人，自己就在创造AI的前沿。 「6到12个月，可能是留给我们的全部时间」 Dario在文章里画了一条时间线。 他的核心判断是，AI正在逼近一个临界点——RSI（递归自我改进）。 什么意思呢？RSI意味着AI模型开始具",
+      "summary_zh": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了  克雷西 2026-09-13 11:13:00  来源：量子位   RSI太危险，得管！   克雷西 发自 凹非寺 量子位 | 公众号 QbitAI  Dario和奥特曼终于「握手」了？ 而且一同握手的还有奥特曼的死对头马斯克。  起因是Dario在个人博客贴出了一篇万字长文，呼吁所有头部AI公司主动降速，别急着冲下一代模型。  文章一出，AI圈罕见地放下了各种爱恨纠葛，纷纷都来响应。 除了奥特曼和马斯克，还有哈萨比斯、卡帕西等一派大佬也表示支持，AI圈有头有脸的人物来了一大波。  上一次出现这种场面，还要追溯到2023年那封由Future of Life Institute发起的公开信。 当时上千名研究者和科技界人士联名呼吁，暂停训练比GPT-4更强的AI系统至少六个月。 但这一次不一样的是，喊停的人，自己就在创造AI的前沿。 「6到12个月，可能是留给我们的全部时间」 Dario在文章里画了一条时间线。 他的核心判断是，AI正在逼近一个临界点——RSI（递归自我改进）。 什么意思呢？RSI意味着AI模型开始具",
+      "publishedAt": "2026-09-13T03:13:00Z",
+      "published_at": "2026-09-13T03:13:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "975098c1",
+      "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/488447.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/488447.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你  鹭羽 2026-09-13 14:40:25  来源：量子位   Agent的下一步是关系型生产力   鹭羽 发自 凹非寺 量子位 | 公众号 QbitAI  还得是外滩大会，真！热！闹！啊！ 一个个Agent都动了起来：有能歌善舞的，也有猛扎进产业里干活的…… 这时，新问题也随之冒出来，AI动起来了，然后呢？ 任务总有交付的时刻。交付之后，用户为什么还会回来？下一次，为什么还找你？     同样在外滩，在与上海交大联合攒的路演局上，我们找到了答案。 上海米羊科技创始人徐奕成——或者说博主「洛小山」——现场回答了七个字： 关系型生产力Agent。     老实说，这个词还挺陌生的。 单看「关系型」，我们约莫可以理解为陪伴AI；「生产力Agent」大致就是当下的Claude Code、WorkBuddy这类产品。 可两者组合在一起，又是啥？ 我们不妨从产品侧来理解，米羊科技最近做了一款桌面Agent，名为白艾莉（Alice）。 她比一般陪伴产品更懂行，写作生图一应俱全，也比纯干活的Agent更懂用户，有自己的人格，还会发朋友圈",
+      "summary_zh": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你  鹭羽 2026-09-13 14:40:25  来源：量子位   Agent的下一步是关系型生产力   鹭羽 发自 凹非寺 量子位 | 公众号 QbitAI  还得是外滩大会，真！热！闹！啊！ 一个个Agent都动了起来：有能歌善舞的，也有猛扎进产业里干活的…… 这时，新问题也随之冒出来，AI动起来了，然后呢？ 任务总有交付的时刻。交付之后，用户为什么还会回来？下一次，为什么还找你？     同样在外滩，在与上海交大联合攒的路演局上，我们找到了答案。 上海米羊科技创始人徐奕成——或者说博主「洛小山」——现场回答了七个字： 关系型生产力Agent。     老实说，这个词还挺陌生的。 单看「关系型」，我们约莫可以理解为陪伴AI；「生产力Agent」大致就是当下的Claude Code、WorkBuddy这类产品。 可两者组合在一起，又是啥？ 我们不妨从产品侧来理解，米羊科技最近做了一款桌面Agent，名为白艾莉（Alice）。 她比一般陪伴产品更懂行，写作生图一应俱全，也比纯干活的Agent更懂用户，有自己的人格，还会发朋友圈",
+      "publishedAt": "2026-09-13T06:40:25Z",
+      "published_at": "2026-09-13T06:40:25Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "458f15fa",
+      "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/488519.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/488519.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "GitHub三榜第一背后，一个“专升本”工程师的十年  文婷 2026-09-13 15:20:19  来源：量子位   出身寒微不是耻辱，放弃自己才是。  文婷 发自 凹非寺 量子位 | 公众号 QbitAI 一位曾在16岁辍学的年轻人，干出了一个GitHub三榜第一！ 他就是画图Agent Archify的开发者——涂少坤。 截至发稿，Archify单日最高新增5000Star，总揽3.8kFork、5.88万Star； 同时，Archify项目本身和开发者涂少坤双双登顶GitHub热榜榜首（一周3天），获Github周榜第一。  我们线上对话了Archify的开发者、现任小红书AI native工程师的涂少坤，请他向大家讲讲Archify和他一路走来的心路历程。 重点笔记如下： 1、我觉得做开源，不需要在刚开始做或者正在做的时候就把回报看得那么重要；只要你的项目真正帮到了人，自然会收获同样真诚的反馈。 2、无论在哪里，都有积极向上、认真生活的人。在工厂和专科校园里，我也遇到了很多值得学习的人；每个人的处境、经历和长处各不相同，不该仅凭工作或学历，就否定一个人。 3、做出产品只是第",
+      "summary_zh": "GitHub三榜第一背后，一个“专升本”工程师的十年  文婷 2026-09-13 15:20:19  来源：量子位   出身寒微不是耻辱，放弃自己才是。  文婷 发自 凹非寺 量子位 | 公众号 QbitAI 一位曾在16岁辍学的年轻人，干出了一个GitHub三榜第一！ 他就是画图Agent Archify的开发者——涂少坤。 截至发稿，Archify单日最高新增5000Star，总揽3.8kFork、5.88万Star； 同时，Archify项目本身和开发者涂少坤双双登顶GitHub热榜榜首（一周3天），获Github周榜第一。  我们线上对话了Archify的开发者、现任小红书AI native工程师的涂少坤，请他向大家讲讲Archify和他一路走来的心路历程。 重点笔记如下： 1、我觉得做开源，不需要在刚开始做或者正在做的时候就把回报看得那么重要；只要你的项目真正帮到了人，自然会收获同样真诚的反馈。 2、无论在哪里，都有积极向上、认真生活的人。在工厂和专科校园里，我也遇到了很多值得学习的人；每个人的处境、经历和长处各不相同，不该仅凭工作或学历，就否定一个人。 3、做出产品只是第",
+      "publishedAt": "2026-09-13T07:20:19Z",
+      "published_at": "2026-09-13T07:20:19Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "39281c2b",
+      "title": "Astra写的代码，人类已经看不懂了",
+      "title_en": null,
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Astra写的代码，人类已经看不懂了",
+      "summary_zh": "Astra写的代码，人类已经看不懂了",
+      "publishedAt": "2026-09-13T22:29:08Z",
+      "published_at": "2026-09-13T22:29:08Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

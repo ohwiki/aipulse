@@ -1,9 +1,117 @@
 {
-  "generated_at": "2026-09-13T13:27:22Z",
-  "generatedAt": "2026-09-13T13:27:22Z",
-  "count": 124,
-  "total": 124,
+  "generated_at": "2026-09-13T22:30:53Z",
+  "generatedAt": "2026-09-13T22:30:53Z",
+  "count": 125,
+  "total": 125,
   "entries": [
+    {
+      "date": "2026-09-14",
+      "generated_at": "2026-09-13T22:30:53Z",
+      "generatedAt": "2026-09-13T22:30:53Z",
+      "total": 7,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "7cb45d1e",
+          "title": "产品更新：Resurf",
+          "title_en": "Resurf",
+          "url": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A Personal Context Library for Mac Resurf is a",
+          "summary_zh": "A Personal Context Library for Mac Resurf is a",
+          "publishedAt": "2026-09-13T07:01:00Z",
+          "published_at": "2026-09-13T07:01:00Z",
+          "votes_count": 219,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6f90ebc8",
+          "title": "产品更新：Perplexity Hybr",
+          "title_en": "Perplexity Hybrid Compute",
+          "url": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Splitting AI tasks: Cloud for research, Mac fo",
+          "summary_zh": "Splitting AI tasks: Cloud for research, Mac fo",
+          "publishedAt": "2026-09-13T07:01:00Z",
+          "published_at": "2026-09-13T07:01:00Z",
+          "votes_count": 180,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "effd2918",
+          "title": "产品更新：Cognition's SWE",
+          "title_en": "Cognition's SWE-2",
+          "url": "https://www.producthunt.com/products/cognition-s-swe-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cognition-s-swe-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Cognition's coding model, 64% cheaper than Fab",
+          "summary_zh": "Cognition's coding model, 64% cheaper than Fab",
+          "publishedAt": "2026-09-13T07:01:00Z",
+          "published_at": "2026-09-13T07:01:00Z",
+          "votes_count": 153,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-13",
       "generated_at": "2026-09-13T13:27:22Z",
