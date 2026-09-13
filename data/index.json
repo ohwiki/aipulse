@@ -1,117 +1,113 @@
 {
-  "generated_at": "2026-09-12T22:26:36Z",
-  "generatedAt": "2026-09-12T22:26:36Z",
+  "generated_at": "2026-09-13T13:27:22Z",
+  "generatedAt": "2026-09-13T13:27:22Z",
   "count": 124,
   "total": 124,
   "entries": [
     {
       "date": "2026-09-13",
-      "generated_at": "2026-09-12T22:26:36Z",
-      "generatedAt": "2026-09-12T22:26:36Z",
-      "total": 6,
+      "generated_at": "2026-09-13T13:27:22Z",
+      "generatedAt": "2026-09-13T13:27:22Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "69cc2fe6",
-          "title": "产品更新：Cortex",
-          "title_en": "Cortex",
-          "url": "https://www.producthunt.com/products/cortex-25?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "6f90ebc8",
+          "title": "产品更新：Perplexity Hybr",
+          "title_en": "Perplexity Hybrid Compute",
+          "url": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/cortex-25?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Turn API specs into docs, SDKs, and MCP server",
-          "summary_zh": "Turn API specs into docs, SDKs, and MCP server",
-          "publishedAt": "2026-09-12T07:01:00Z",
-          "published_at": "2026-09-12T07:01:00Z",
-          "votes_count": 254,
+          "summary": "Splitting AI tasks: Cloud for research, Mac fo",
+          "summary_zh": "Splitting AI tasks: Cloud for research, Mac fo",
+          "publishedAt": "2026-09-13T07:01:00Z",
+          "published_at": "2026-09-13T07:01:00Z",
+          "votes_count": 135,
           "featured": true,
           "topics": [
             {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "787b0172",
-          "title": "产品更新：QApilot MCP for",
-          "title_en": "QApilot MCP for Android",
-          "url": "https://www.producthunt.com/products/qapilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/qapilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Android app testing inside your coding agent Q",
-          "summary_zh": "Android app testing inside your coding agent Q",
-          "publishedAt": "2026-09-12T07:01:00Z",
-          "published_at": "2026-09-12T07:01:00Z",
-          "votes_count": 174,
-          "featured": true,
-          "topics": [
-            {
-              "id": "247",
-              "name": "Software Engineering",
-              "slug": "software-engineering"
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "589",
-              "name": "Development",
-              "slug": "development"
             }
           ],
           "score_details": null
         },
         {
-          "id": "ba726e47",
-          "title": "GPT-5.6 Sol跑量子实验，A",
-          "title_en": "GPT-5.6 Sol跑量子实验，AI直连实验室实现自主决策",
-          "url": "https://www.jiqizhixin.com/articles",
-          "source": "机器之心",
+          "id": "7cb45d1e",
+          "title": "产品更新：Resurf",
+          "title_en": "Resurf",
+          "url": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
           "source_type": null,
-          "sourceName": "机器之心",
-          "sourceUrl": "https://www.jiqizhixin.com/articles",
-          "category": "cn-media",
-          "score": 5,
-          "rank_score": 5,
-          "rankingScore": 5,
-          "summary": "GPT-5.6 Sol跑量子实验，AI直连实验室实现自主决策",
-          "summary_zh": "GPT-5.6 Sol跑量子实验，AI直连实验室实现自主决策",
-          "publishedAt": "2026-09-12T22:24:17Z",
-          "published_at": "2026-09-12T22:24:17Z",
-          "votes_count": null,
-          "featured": null,
-          "topics": [],
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A Personal Context App Resurf is a personal co",
+          "summary_zh": "A Personal Context App Resurf is a personal co",
+          "publishedAt": "2026-09-13T07:01:00Z",
+          "published_at": "2026-09-13T07:01:00Z",
+          "votes_count": 135,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "effd2918",
+          "title": "产品更新：Cognition's SWE",
+          "title_en": "Cognition's SWE-2",
+          "url": "https://www.producthunt.com/products/cognition-s-swe-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cognition-s-swe-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Cognition's coding model, 64% cheaper than Fab",
+          "summary_zh": "Cognition's coding model, 64% cheaper than Fab",
+          "publishedAt": "2026-09-13T07:01:00Z",
+          "published_at": "2026-09-13T07:01:00Z",
+          "votes_count": 121,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
           "score_details": null
         }
       ]
