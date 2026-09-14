@@ -1,0 +1,459 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-14T23:15:24Z",
+  "generatedAt": "2026-09-14T23:15:24Z",
+  "total": 7,
+  "count": 7,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "0ee4d706",
+          "title": "产品更新：Naoma AI Demo A",
+          "title_en": "Naoma AI Demo Agent V2",
+          "url": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Turns website traffic into booked, qualified m",
+          "summary_zh": "Turns website traffic into booked, qualified m",
+          "publishedAt": "2026-09-14T07:01:00Z",
+          "published_at": "2026-09-14T07:01:00Z",
+          "votes_count": 439,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "839",
+              "name": "Marketing automation",
+              "slug": "marketing-automation"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "04729699",
+          "title": "AI资讯更新：Web Search Ag",
+          "title_en": "Web Search Agents by Nimble",
+          "url": "https://www.producthunt.com/products/nimbleway?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/nimbleway?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Self-learning agents automate web research + r",
+          "summary_zh": "Self-learning agents automate web research + r",
+          "publishedAt": "2026-09-14T07:01:00Z",
+          "published_at": "2026-09-14T07:01:00Z",
+          "votes_count": 297,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "459d570a",
+          "title": "产品更新：Hello Inbox",
+          "title_en": "Hello Inbox",
+          "url": "https://www.producthunt.com/products/helloinbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/helloinbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Get more marketing emails into the inbox Hello",
+          "summary_zh": "Get more marketing emails into the inbox Hello",
+          "publishedAt": "2026-09-14T07:01:00Z",
+          "published_at": "2026-09-14T07:01:00Z",
+          "votes_count": 239,
+          "featured": true,
+          "topics": [
+            {
+              "id": "128",
+              "name": "Email Marketing",
+              "slug": "email-marketing"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "76b7f25a",
+          "title": "产品更新：Slashy Assistan",
+          "title_en": "Slashy Assistant",
+          "url": "https://www.producthunt.com/products/slashy-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/slashy-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The AI assistant that does email for you Slash",
+          "summary_zh": "The AI assistant that does email for you Slash",
+          "publishedAt": "2026-09-14T07:01:00Z",
+          "published_at": "2026-09-14T07:01:00Z",
+          "votes_count": 224,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "5674c17e",
+          "title": "「人类造的最后一个AI」还有多远？一",
+          "title_en": "「人类造的最后一个AI」还有多远？一张图看懂OpenAI、Anthropic等大厂的RSI进度",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "「人类造的最后一个AI」还有多远？一张图看懂OpenAI、Anthropic等大厂的RSI进",
+          "summary_zh": "「人类造的最后一个AI」还有多远？一张图看懂OpenAI、Anthropic等大厂的RSI进",
+          "publishedAt": "2026-09-14T23:13:45Z",
+          "published_at": "2026-09-14T23:13:45Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "3ac1b533",
+          "title": "当AI幻觉开始操作电脑：深大、港科大",
+          "title_en": "当AI幻觉开始操作电脑：深大、港科大提出ECA，让Agent行动前先验证证据",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "当AI幻觉开始操作电脑：深大、港科大提出ECA，让Agent行动前先验证证据",
+          "summary_zh": "当AI幻觉开始操作电脑：深大、港科大提出ECA，让Agent行动前先验证证据",
+          "publishedAt": "2026-09-14T23:13:45Z",
+          "published_at": "2026-09-14T23:13:45Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "7eec0d47",
+          "title": "AI资讯更新：ECA（Evidence-",
+          "title_en": "ECA（Evidence-Carrying Multimodal Agents）",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "ECA（Evidence-Carrying Multimodal Agents）",
+          "summary_zh": "ECA（Evidence-Carrying Multimodal Agents）",
+          "publishedAt": "2026-09-14T23:13:45Z",
+          "published_at": "2026-09-14T23:13:45Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "0ee4d706",
+      "title": "产品更新：Naoma AI Demo A",
+      "title_en": "Naoma AI Demo Agent V2",
+      "url": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turns website traffic into booked, qualified m",
+      "summary_zh": "Turns website traffic into booked, qualified m",
+      "publishedAt": "2026-09-14T07:01:00Z",
+      "published_at": "2026-09-14T07:01:00Z",
+      "votes_count": 439,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "839",
+          "name": "Marketing automation",
+          "slug": "marketing-automation"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "04729699",
+      "title": "AI资讯更新：Web Search Ag",
+      "title_en": "Web Search Agents by Nimble",
+      "url": "https://www.producthunt.com/products/nimbleway?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/nimbleway?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Self-learning agents automate web research + r",
+      "summary_zh": "Self-learning agents automate web research + r",
+      "publishedAt": "2026-09-14T07:01:00Z",
+      "published_at": "2026-09-14T07:01:00Z",
+      "votes_count": 297,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "459d570a",
+      "title": "产品更新：Hello Inbox",
+      "title_en": "Hello Inbox",
+      "url": "https://www.producthunt.com/products/helloinbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/helloinbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Get more marketing emails into the inbox Hello",
+      "summary_zh": "Get more marketing emails into the inbox Hello",
+      "publishedAt": "2026-09-14T07:01:00Z",
+      "published_at": "2026-09-14T07:01:00Z",
+      "votes_count": 239,
+      "featured": true,
+      "topics": [
+        {
+          "id": "128",
+          "name": "Email Marketing",
+          "slug": "email-marketing"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "76b7f25a",
+      "title": "产品更新：Slashy Assistan",
+      "title_en": "Slashy Assistant",
+      "url": "https://www.producthunt.com/products/slashy-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/slashy-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI assistant that does email for you Slash",
+      "summary_zh": "The AI assistant that does email for you Slash",
+      "publishedAt": "2026-09-14T07:01:00Z",
+      "published_at": "2026-09-14T07:01:00Z",
+      "votes_count": 224,
+      "featured": true,
+      "topics": [
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5674c17e",
+      "title": "「人类造的最后一个AI」还有多远？一",
+      "title_en": "「人类造的最后一个AI」还有多远？一张图看懂OpenAI、Anthropic等大厂的RSI进度",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "「人类造的最后一个AI」还有多远？一张图看懂OpenAI、Anthropic等大厂的RSI进",
+      "summary_zh": "「人类造的最后一个AI」还有多远？一张图看懂OpenAI、Anthropic等大厂的RSI进",
+      "publishedAt": "2026-09-14T23:13:45Z",
+      "published_at": "2026-09-14T23:13:45Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "3ac1b533",
+      "title": "当AI幻觉开始操作电脑：深大、港科大",
+      "title_en": "当AI幻觉开始操作电脑：深大、港科大提出ECA，让Agent行动前先验证证据",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "当AI幻觉开始操作电脑：深大、港科大提出ECA，让Agent行动前先验证证据",
+      "summary_zh": "当AI幻觉开始操作电脑：深大、港科大提出ECA，让Agent行动前先验证证据",
+      "publishedAt": "2026-09-14T23:13:45Z",
+      "published_at": "2026-09-14T23:13:45Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "7eec0d47",
+      "title": "AI资讯更新：ECA（Evidence-",
+      "title_en": "ECA（Evidence-Carrying Multimodal Agents）",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "ECA（Evidence-Carrying Multimodal Agents）",
+      "summary_zh": "ECA（Evidence-Carrying Multimodal Agents）",
+      "publishedAt": "2026-09-14T23:13:45Z",
+      "published_at": "2026-09-14T23:13:45Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

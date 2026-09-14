@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-09-14T15:10:37Z",
-  "generatedAt": "2026-09-14T15:10:37Z",
-  "count": 125,
-  "total": 125,
+  "generated_at": "2026-09-14T23:15:24Z",
+  "generatedAt": "2026-09-14T23:15:24Z",
+  "count": 126,
+  "total": 126,
   "entries": [
+    {
+      "date": "2026-09-15",
+      "generated_at": "2026-09-14T23:15:24Z",
+      "generatedAt": "2026-09-14T23:15:24Z",
+      "total": 7,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "0ee4d706",
+          "title": "产品更新：Naoma AI Demo A",
+          "title_en": "Naoma AI Demo Agent V2",
+          "url": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/naoma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turns website traffic into booked, qualified m",
+          "summary_zh": "Turns website traffic into booked, qualified m",
+          "publishedAt": "2026-09-14T07:01:00Z",
+          "published_at": "2026-09-14T07:01:00Z",
+          "votes_count": 439,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "839",
+              "name": "Marketing automation",
+              "slug": "marketing-automation"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "04729699",
+          "title": "AI资讯更新：Web Search Ag",
+          "title_en": "Web Search Agents by Nimble",
+          "url": "https://www.producthunt.com/products/nimbleway?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/nimbleway?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Self-learning agents automate web research + r",
+          "summary_zh": "Self-learning agents automate web research + r",
+          "publishedAt": "2026-09-14T07:01:00Z",
+          "published_at": "2026-09-14T07:01:00Z",
+          "votes_count": 297,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "459d570a",
+          "title": "产品更新：Hello Inbox",
+          "title_en": "Hello Inbox",
+          "url": "https://www.producthunt.com/products/helloinbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/helloinbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Get more marketing emails into the inbox Hello",
+          "summary_zh": "Get more marketing emails into the inbox Hello",
+          "publishedAt": "2026-09-14T07:01:00Z",
+          "published_at": "2026-09-14T07:01:00Z",
+          "votes_count": 239,
+          "featured": true,
+          "topics": [
+            {
+              "id": "128",
+              "name": "Email Marketing",
+              "slug": "email-marketing"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-14",
       "generated_at": "2026-09-14T15:10:37Z",
