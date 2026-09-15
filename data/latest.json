@@ -1,48 +1,10 @@
 {
-  "generated_at": "2026-09-15T13:45:57Z",
-  "generatedAt": "2026-09-15T13:45:57Z",
+  "generated_at": "2026-09-15T22:59:35Z",
+  "generatedAt": "2026-09-15T22:59:35Z",
   "days": 7,
   "total": 8,
   "count": 8,
   "items": [
-    {
-      "id": "b3294c09",
-      "title": "产品更新：Kilo Code for i",
-      "title_en": "Kilo Code for iOS and Android",
-      "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Start coding agents, control sessions, review",
-      "summary_zh": "Start coding agents, control sessions, review",
-      "publishedAt": "2026-09-15T07:01:00Z",
-      "published_at": "2026-09-15T07:01:00Z",
-      "votes_count": 276,
-      "featured": true,
-      "topics": [
-        {
-          "id": "2",
-          "name": "Android",
-          "slug": "android"
-        },
-        {
-          "id": "8",
-          "name": "iOS",
-          "slug": "ios"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        }
-      ],
-      "score_details": null
-    },
     {
       "id": "e94a6c8a",
       "title": "产品更新：tiun.",
@@ -60,7 +22,7 @@
       "summary_zh": "Auth, billing, and payments for AI builders On",
       "publishedAt": "2026-09-15T07:01:00Z",
       "published_at": "2026-09-15T07:01:00Z",
-      "votes_count": 263,
+      "votes_count": 432,
       "featured": true,
       "topics": [
         {
@@ -82,6 +44,44 @@
       "score_details": null
     },
     {
+      "id": "b3294c09",
+      "title": "产品更新：Kilo Code for i",
+      "title_en": "Kilo Code for iOS and Android",
+      "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Start coding agents, control sessions, review",
+      "summary_zh": "Start coding agents, control sessions, review",
+      "publishedAt": "2026-09-15T07:01:00Z",
+      "published_at": "2026-09-15T07:01:00Z",
+      "votes_count": 384,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
       "id": "6735a1a9",
       "title": "产品更新：Voiskey",
       "title_en": "Voiskey",
@@ -98,7 +98,7 @@
       "summary_zh": "AI voice typing that sounds right in every app",
       "publishedAt": "2026-09-15T07:01:00Z",
       "published_at": "2026-09-15T07:01:00Z",
-      "votes_count": 240,
+      "votes_count": 348,
       "featured": true,
       "topics": [
         {
@@ -136,7 +136,7 @@
       "summary_zh": "Turn AI noise into better business decisions B",
       "publishedAt": "2026-09-15T07:01:00Z",
       "published_at": "2026-09-15T07:01:00Z",
-      "votes_count": 177,
+      "votes_count": 221,
       "featured": true,
       "topics": [
         {
@@ -155,28 +155,6 @@
           "slug": "business"
         }
       ],
-      "score_details": null
-    },
-    {
-      "id": "f9f9cf24",
-      "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/489227.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/489227.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开  思邈 2026-09-15 10:17:34  来源：量子位   几百个Agent参与研发，AI开始造AI   允中 发自 凹非寺 量子位 | 公众号QbitAI  北京中关村学院7名博士生，用一个暑假，从零训练出了一个7B大模型——ZGCM-1。 随后，他们把各阶段训练数据和配方、模型权重、训练代码、中间checkpoint和日志也开放出来，让每一位感兴趣的研究者都可以追溯、复现整个流程。 在多项通用评测中，ZGCM-1与Qwen3-8B等同规模模型表现相近；在部分数学推理和搜索评测中，它也能与Qwen3-235B-A22B、GLM-5.1等更大规模的模型比较。 但比最终分数更让人好奇的是，数据、训练、集群、评测这一整套工程，在大厂通常需要几百人的团队协作完成，七个人怎么做得过来？ 他们给自己组建了一支几百个Agent的团队，分头处理数据、跑实验、看日志、做评测，亲手实践「AI4AI」研发范式。 模型训完后，团队还对整个模型研发流程中Agent的实际表现做了一次评级，希望基于本次完整的大模型训练实践，为RSI现状提",
-      "summary_zh": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开  思邈 2026-09-15 10:17:34  来源：量子位   几百个Agent参与研发，AI开始造AI   允中 发自 凹非寺 量子位 | 公众号QbitAI  北京中关村学院7名博士生，用一个暑假，从零训练出了一个7B大模型——ZGCM-1。 随后，他们把各阶段训练数据和配方、模型权重、训练代码、中间checkpoint和日志也开放出来，让每一位感兴趣的研究者都可以追溯、复现整个流程。 在多项通用评测中，ZGCM-1与Qwen3-8B等同规模模型表现相近；在部分数学推理和搜索评测中，它也能与Qwen3-235B-A22B、GLM-5.1等更大规模的模型比较。 但比最终分数更让人好奇的是，数据、训练、集群、评测这一整套工程，在大厂通常需要几百人的团队协作完成，七个人怎么做得过来？ 他们给自己组建了一支几百个Agent的团队，分头处理数据、跑实验、看日志、做评测，亲手实践「AI4AI」研发范式。 模型训完后，团队还对整个模型研发流程中Agent的实际表现做了一次评级，希望基于本次完整的大模型训练实践，为RSI现状提",
-      "publishedAt": "2026-09-15T02:17:34Z",
-      "published_at": "2026-09-15T02:17:34Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
       "score_details": null
     },
     {
@@ -224,9 +202,31 @@
       "score_details": null
     },
     {
-      "id": "b6fb4a92",
-      "title": "卡位具身智能规模化落地“最后一公里”",
-      "title_en": "卡位具身智能规模化落地“最后一公里”！无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
+      "id": "6a31b5f2",
+      "title": "Meta新研究：字节模型蒸馏后，天花板破了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/489337.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/489337.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Meta新研究：字节模型蒸馏后，天花板破了  henry 2026-09-15 14:37:16  来源：量子位    henry 发自 凹非寺 量子位 | 公众号 QbitAI  Token词元替代了Byte字节，但不意味着大模型都得是Token。 字节模型，特别是蒸馏后，有点儿新说法。 最近，来自Meta FAIR和华盛顿大学的论文《突破Token天花板：蒸馏出更小、更强的字节模型》，提出了一个很有趣的想法—— 蒸馏的时候，能不能把学习单位从词元（Token）换成字节，让学生模型直接从字节（byte）级别的概率分布学起？  结果还真可以～ 团队给每个Token加上结束标记，把教师的Token概率分布完整转换到字节级别。在以Llama 3-8B为教师的蒸馏实验中，团队根据缩放定律预测： 随着训练计算量增加，字节级蒸馏将反超Token级蒸馏，下游平均准确率上限高出4个百分点。  传统蒸馏让学生学习教师在庞大Token词表上的概率分布。相比之下，字节只有256种基础取值，单个位置的预测空间更小，基础取值也不随分词器改变。 换句话说，学习的基本单位反而更小了，模型最终能学到的能力上限却更高",
+      "summary_zh": "Meta新研究：字节模型蒸馏后，天花板破了  henry 2026-09-15 14:37:16  来源：量子位    henry 发自 凹非寺 量子位 | 公众号 QbitAI  Token词元替代了Byte字节，但不意味着大模型都得是Token。 字节模型，特别是蒸馏后，有点儿新说法。 最近，来自Meta FAIR和华盛顿大学的论文《突破Token天花板：蒸馏出更小、更强的字节模型》，提出了一个很有趣的想法—— 蒸馏的时候，能不能把学习单位从词元（Token）换成字节，让学生模型直接从字节（byte）级别的概率分布学起？  结果还真可以～ 团队给每个Token加上结束标记，把教师的Token概率分布完整转换到字节级别。在以Llama 3-8B为教师的蒸馏实验中，团队根据缩放定律预测： 随着训练计算量增加，字节级蒸馏将反超Token级蒸馏，下游平均准确率上限高出4个百分点。  传统蒸馏让学生学习教师在庞大Token词表上的概率分布。相比之下，字节只有256种基础取值，单个位置的预测空间更小，基础取值也不随分词器改变。 换句话说，学习的基本单位反而更小了，模型最终能学到的能力上限却更高",
+      "publishedAt": "2026-09-15T06:37:16Z",
+      "published_at": "2026-09-15T06:37:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "e629e911",
+      "title": "「天赐之物」与「道德风险」，Mu2e",
+      "title_en": "「天赐之物」与「道德风险」，Mu2e项目物理学家谈AI的能与不能",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -236,10 +236,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "卡位具身智能规模化落地“最后一公里”！无问芯穹联合清华、上交正式开源具身端侧推理引擎APXI",
-      "summary_zh": "卡位具身智能规模化落地“最后一公里”！无问芯穹联合清华、上交正式开源具身端侧推理引擎APXI",
-      "publishedAt": "2026-09-15T13:44:42Z",
-      "published_at": "2026-09-15T13:44:42Z",
+      "summary": "「天赐之物」与「道德风险」，Mu2e项目物理学家谈AI的能与不能",
+      "summary_zh": "「天赐之物」与「道德风险」，Mu2e项目物理学家谈AI的能与不能",
+      "publishedAt": "2026-09-15T22:58:45Z",
+      "published_at": "2026-09-15T22:58:45Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
