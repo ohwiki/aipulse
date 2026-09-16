@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-15T22:59:35Z",
-  "generatedAt": "2026-09-15T22:59:35Z",
+  "generated_at": "2026-09-16T13:37:56Z",
+  "generatedAt": "2026-09-16T13:37:56Z",
   "count": 127,
   "total": 127,
   "entries": [
     {
       "date": "2026-09-16",
-      "generated_at": "2026-09-15T22:59:35Z",
-      "generatedAt": "2026-09-15T22:59:35Z",
-      "total": 8,
+      "generated_at": "2026-09-16T13:37:56Z",
+      "generatedAt": "2026-09-16T13:37:56Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "e94a6c8a",
-          "title": "产品更新：tiun.",
-          "title_en": "tiun.",
-          "url": "https://www.producthunt.com/products/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "fe53b98e",
+          "title": "产品更新：Weave Router 2.",
+          "title_en": "Weave Router 2.0",
+          "url": "https://www.producthunt.com/products/weave?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/tiun-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/weave?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Auth, billing, and payments for AI builders On",
-          "summary_zh": "Auth, billing, and payments for AI builders On",
-          "publishedAt": "2026-09-15T07:01:00Z",
-          "published_at": "2026-09-15T07:01:00Z",
-          "votes_count": 432,
+          "summary": "Subscription Aware Coding Agent Router (GPT-6",
+          "summary_zh": "Subscription Aware Coding Agent Router (GPT-6",
+          "publishedAt": "2026-09-16T07:01:00Z",
+          "published_at": "2026-09-16T07:01:00Z",
+          "votes_count": 168,
           "featured": true,
           "topics": [
             {
-              "id": "119",
-              "name": "Payments",
-              "slug": "payments"
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
             },
             {
               "id": "267",
@@ -50,61 +50,66 @@
           "score_details": null
         },
         {
-          "id": "b3294c09",
-          "title": "产品更新：Kilo Code for i",
-          "title_en": "Kilo Code for iOS and Android",
-          "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "216acc2d",
+          "title": "产品更新：Appwrite 2.0",
+          "title_en": "Appwrite 2.0",
+          "url": "https://www.producthunt.com/products/appwrite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/appwrite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Start coding agents, control sessions, review",
-          "summary_zh": "Start coding agents, control sessions, review",
-          "publishedAt": "2026-09-15T07:01:00Z",
-          "published_at": "2026-09-15T07:01:00Z",
-          "votes_count": 384,
+          "summary": "The open-source cloud for agents and developer",
+          "summary_zh": "The open-source cloud for agents and developer",
+          "publishedAt": "2026-09-16T07:01:00Z",
+          "published_at": "2026-09-16T07:01:00Z",
+          "votes_count": 146,
           "featured": true,
           "topics": [
             {
-              "id": "2",
-              "name": "Android",
-              "slug": "android"
-            },
-            {
-              "id": "8",
-              "name": "iOS",
-              "slug": "ios"
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
             },
             {
               "id": "267",
               "name": "Developer Tools",
               "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
             }
           ],
           "score_details": null
         },
         {
-          "id": "6735a1a9",
-          "title": "产品更新：Voiskey",
-          "title_en": "Voiskey",
-          "url": "https://www.producthunt.com/products/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "14109ba9",
+          "title": "产品更新：Toki Coordinati",
+          "title_en": "Toki Coordination",
+          "url": "https://www.producthunt.com/products/toki-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/voiskey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/toki-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "AI voice typing that sounds right in every app",
-          "summary_zh": "AI voice typing that sounds right in every app",
-          "publishedAt": "2026-09-15T07:01:00Z",
-          "published_at": "2026-09-15T07:01:00Z",
-          "votes_count": 348,
+          "summary": "Your personal assistant to schedule + follow u",
+          "summary_zh": "Your personal assistant to schedule + follow u",
+          "publishedAt": "2026-09-16T07:01:00Z",
+          "published_at": "2026-09-16T07:01:00Z",
+          "votes_count": 124,
           "featured": true,
           "topics": [
             {
@@ -113,14 +118,14 @@
               "slug": "productivity"
             },
             {
+              "id": "256",
+              "name": "Calendar",
+              "slug": "calendar"
+            },
+            {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "471",
-              "name": "Audio",
-              "slug": "audio"
             }
           ],
           "score_details": null
