@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-09-16T13:37:56Z",
-  "generatedAt": "2026-09-16T13:37:56Z",
-  "count": 127,
-  "total": 127,
+  "generated_at": "2026-09-16T23:03:26Z",
+  "generatedAt": "2026-09-16T23:03:26Z",
+  "count": 128,
+  "total": 128,
   "entries": [
+    {
+      "date": "2026-09-17",
+      "generated_at": "2026-09-16T23:03:26Z",
+      "generatedAt": "2026-09-16T23:03:26Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "fe53b98e",
+          "title": "产品更新：Weave Router 2.",
+          "title_en": "Weave Router 2.0",
+          "url": "https://www.producthunt.com/products/weave?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/weave?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Subscription aware coding agent router Use Cla",
+          "summary_zh": "Subscription aware coding agent router Use Cla",
+          "publishedAt": "2026-09-16T07:01:00Z",
+          "published_at": "2026-09-16T07:01:00Z",
+          "votes_count": 294,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "216acc2d",
+          "title": "产品更新：Appwrite 2.0",
+          "title_en": "Appwrite 2.0",
+          "url": "https://www.producthunt.com/products/appwrite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/appwrite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The open-source cloud for agents and developer",
+          "summary_zh": "The open-source cloud for agents and developer",
+          "publishedAt": "2026-09-16T07:01:00Z",
+          "published_at": "2026-09-16T07:01:00Z",
+          "votes_count": 213,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "14109ba9",
+          "title": "产品更新：Toki Coordinati",
+          "title_en": "Toki Coordination",
+          "url": "https://www.producthunt.com/products/toki-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/toki-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your personal assistant to schedule + follow u",
+          "summary_zh": "Your personal assistant to schedule + follow u",
+          "publishedAt": "2026-09-16T07:01:00Z",
+          "published_at": "2026-09-16T07:01:00Z",
+          "votes_count": 164,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "256",
+              "name": "Calendar",
+              "slug": "calendar"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-16",
       "generated_at": "2026-09-16T13:37:56Z",

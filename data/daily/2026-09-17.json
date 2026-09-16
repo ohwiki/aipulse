@@ -1,0 +1,513 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-16T23:03:26Z",
+  "generatedAt": "2026-09-16T23:03:26Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "fe53b98e",
+          "title": "产品更新：Weave Router 2.",
+          "title_en": "Weave Router 2.0",
+          "url": "https://www.producthunt.com/products/weave?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/weave?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Subscription aware coding agent router Use Cla",
+          "summary_zh": "Subscription aware coding agent router Use Cla",
+          "publishedAt": "2026-09-16T07:01:00Z",
+          "published_at": "2026-09-16T07:01:00Z",
+          "votes_count": 294,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "216acc2d",
+          "title": "产品更新：Appwrite 2.0",
+          "title_en": "Appwrite 2.0",
+          "url": "https://www.producthunt.com/products/appwrite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/appwrite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The open-source cloud for agents and developer",
+          "summary_zh": "The open-source cloud for agents and developer",
+          "publishedAt": "2026-09-16T07:01:00Z",
+          "published_at": "2026-09-16T07:01:00Z",
+          "votes_count": 213,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "14109ba9",
+          "title": "产品更新：Toki Coordinati",
+          "title_en": "Toki Coordination",
+          "url": "https://www.producthunt.com/products/toki-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/toki-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your personal assistant to schedule + follow u",
+          "summary_zh": "Your personal assistant to schedule + follow u",
+          "publishedAt": "2026-09-16T07:01:00Z",
+          "published_at": "2026-09-16T07:01:00Z",
+          "votes_count": 164,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "256",
+              "name": "Calendar",
+              "slug": "calendar"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f2e88b0c",
+          "title": "产品更新：CAT ME app",
+          "title_en": "CAT ME app",
+          "url": "https://www.producthunt.com/products/cat-me-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cat-me-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "See yourself or your friends as cats The Cat M",
+          "summary_zh": "See yourself or your friends as cats The Cat M",
+          "publishedAt": "2026-09-16T07:01:00Z",
+          "published_at": "2026-09-16T07:01:00Z",
+          "votes_count": 141,
+          "featured": true,
+          "topics": [
+            {
+              "id": "198",
+              "name": "Cats",
+              "slug": "cats"
+            },
+            {
+              "id": "251",
+              "name": "Photography",
+              "slug": "photography"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "912b0c25",
+          "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/490185.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/490185.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」  杰西卡 2026-09-16 11:40:35  来源：量子位   从想法到结果，一次对话实现   杰西卡 发自 凹非寺 量子位 | 公众号 QbitAI  AI for Science的竞争，正在向科研闭环延伸。 以蛋白设计为例，尽管蛋白模型越来越强，但真正想设计一个分子，研究人员还需要找文献、查结构，再下载权重、配置环境，把计算任务送上服务器。 等模型给出结果，还要换个工具看结构、做筛选，判断哪些候选值得继续……一次计算跑完，下一步从哪里开始，往往仍靠研究人员把各个环节接起来。 现在，这些隐藏在模型前后的工作，开始被AI公司重新审视。 今年4月，OpenAI推出面向生命科学的GPT-Rosalind；6月，Anthropic发布Claude Science；8月，Anthropic又公布Agent参与蛋白质设计、衔接外部实验验证的研究。 这些进展指向同一个变化：AI不再只负责模型本身的计算环节，也开始参与模型前后的研究工作，可以分析结果、调整方案，继续推进任务。 国内，也已经有团队走到了类似的交叉路口。",
+          "summary_zh": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」  杰西卡 2026-09-16 11:40:35  来源：量子位   从想法到结果，一次对话实现   杰西卡 发自 凹非寺 量子位 | 公众号 QbitAI  AI for Science的竞争，正在向科研闭环延伸。 以蛋白设计为例，尽管蛋白模型越来越强，但真正想设计一个分子，研究人员还需要找文献、查结构，再下载权重、配置环境，把计算任务送上服务器。 等模型给出结果，还要换个工具看结构、做筛选，判断哪些候选值得继续……一次计算跑完，下一步从哪里开始，往往仍靠研究人员把各个环节接起来。 现在，这些隐藏在模型前后的工作，开始被AI公司重新审视。 今年4月，OpenAI推出面向生命科学的GPT-Rosalind；6月，Anthropic发布Claude Science；8月，Anthropic又公布Agent参与蛋白质设计、衔接外部实验验证的研究。 这些进展指向同一个变化：AI不再只负责模型本身的计算环节，也开始参与模型前后的研究工作，可以分析结果、调整方案，继续推进任务。 国内，也已经有团队走到了类似的交叉路口。",
+          "publishedAt": "2026-09-16T03:40:35Z",
+          "published_at": "2026-09-16T03:40:35Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "00800a77",
+          "title": "量子位2026人工智能年度榜单，正式启动！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/490329.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/490329.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "量子位2026人工智能年度榜单，正式启动！  量子位的朋友们 2026-09-16 12:16:10  来源：量子位   报名通道已开启，欢迎参与！  2026年，人工智能行至从技术验证到规模化落地的分水岭，技术不再只用参数衡量，而是看它能不能在真实场景里交付结果。当行业从“能想”迈入“能干”，谁在用技术解决真问题？谁在让行业建立新标准？谁在使AI真正创造价值？ 量子位人工智能年度榜单连续9年再次启动，从企业、产品、人物三大维度设立五类奖项，寻找这些有意义的答案。 我们相信，这既是一份年度观察笔记，更是引领AI进程的坐标——它梳理这一年的技术演进与产业实践，为行业提供可参考的样本，为决策者提供可判断的依据，让每一次创新都成为推动产业前行的力量。 这是对2026年AI行业的一份记录，也是对那些锐意进取的先锋者的一次致敬—— 让他们的思想被更多人看到，让他们的判断启发更多同行的人。 欢迎报名！  企业榜  2026 人工智能年度领航企业 2026 人工智能年度潜力创业公司  产品榜  2026 人工智能年度杰出产品 2026 人工智能年度杰出解决方案  人物榜  2026 人工智能年度创业",
+          "summary_zh": "量子位2026人工智能年度榜单，正式启动！  量子位的朋友们 2026-09-16 12:16:10  来源：量子位   报名通道已开启，欢迎参与！  2026年，人工智能行至从技术验证到规模化落地的分水岭，技术不再只用参数衡量，而是看它能不能在真实场景里交付结果。当行业从“能想”迈入“能干”，谁在用技术解决真问题？谁在让行业建立新标准？谁在使AI真正创造价值？ 量子位人工智能年度榜单连续9年再次启动，从企业、产品、人物三大维度设立五类奖项，寻找这些有意义的答案。 我们相信，这既是一份年度观察笔记，更是引领AI进程的坐标——它梳理这一年的技术演进与产业实践，为行业提供可参考的样本，为决策者提供可判断的依据，让每一次创新都成为推动产业前行的力量。 这是对2026年AI行业的一份记录，也是对那些锐意进取的先锋者的一次致敬—— 让他们的思想被更多人看到，让他们的判断启发更多同行的人。 欢迎报名！  企业榜  2026 人工智能年度领航企业 2026 人工智能年度潜力创业公司  产品榜  2026 人工智能年度杰出产品 2026 人工智能年度杰出解决方案  人物榜  2026 人工智能年度创业",
+          "publishedAt": "2026-09-16T04:16:10Z",
+          "published_at": "2026-09-16T04:16:10Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "4f56864e",
+          "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/490396.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/490396.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首  量子位的朋友们 2026-09-16 14:23:05  来源：量子位   9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。  #B站AI无限竞技场# 9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。GPT-6 Astra在10个UP主测评中拿下榜首，打败GLM-5.3获得榜首次数冠军；前五名中，国产大模型占据三席。 「AI无限竞技场」是一个汇集了B站UP主AI大模型测评的竞技广场，由各领域UP主对上百个大模型的真实场景实测构成，涵盖代码、推理、协作、知识等多种测评主题。 不同于传统跑分评测，B站AI无限竞技场不设主题或测评维度限制，来自各个分区的UP主们以真实工作流、专业应用、趣味脑洞等自主命题，在同题PK中直观呈现各模型的实际表现差异。首期榜单现已涵盖DeepSeek、Kimi、ChatGPT、Claude、Gemini、豆包、千问、Hy、MiniMax…等主流模型对比测评。 过去一年，B站AI生态迎来爆发式增长。AI知识内容消费时长同比增长72%，月均观看A",
+          "summary_zh": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首  量子位的朋友们 2026-09-16 14:23:05  来源：量子位   9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。  #B站AI无限竞技场# 9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。GPT-6 Astra在10个UP主测评中拿下榜首，打败GLM-5.3获得榜首次数冠军；前五名中，国产大模型占据三席。 「AI无限竞技场」是一个汇集了B站UP主AI大模型测评的竞技广场，由各领域UP主对上百个大模型的真实场景实测构成，涵盖代码、推理、协作、知识等多种测评主题。 不同于传统跑分评测，B站AI无限竞技场不设主题或测评维度限制，来自各个分区的UP主们以真实工作流、专业应用、趣味脑洞等自主命题，在同题PK中直观呈现各模型的实际表现差异。首期榜单现已涵盖DeepSeek、Kimi、ChatGPT、Claude、Gemini、豆包、千问、Hy、MiniMax…等主流模型对比测评。 过去一年，B站AI生态迎来爆发式增长。AI知识内容消费时长同比增长72%，月均观看A",
+          "publishedAt": "2026-09-16T06:23:05Z",
+          "published_at": "2026-09-16T06:23:05Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "ebca95af",
+          "title": "OpenAI百亿投入砸向具身，机器人",
+          "title_en": "OpenAI百亿投入砸向具身，机器人竞争进入数据与算力时代",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "OpenAI百亿投入砸向具身，机器人竞争进入数据与算力时代",
+          "summary_zh": "OpenAI百亿投入砸向具身，机器人竞争进入数据与算力时代",
+          "publishedAt": "2026-09-16T23:02:58Z",
+          "published_at": "2026-09-16T23:02:58Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "fe53b98e",
+      "title": "产品更新：Weave Router 2.",
+      "title_en": "Weave Router 2.0",
+      "url": "https://www.producthunt.com/products/weave?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/weave?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Subscription aware coding agent router Use Cla",
+      "summary_zh": "Subscription aware coding agent router Use Cla",
+      "publishedAt": "2026-09-16T07:01:00Z",
+      "published_at": "2026-09-16T07:01:00Z",
+      "votes_count": 294,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "216acc2d",
+      "title": "产品更新：Appwrite 2.0",
+      "title_en": "Appwrite 2.0",
+      "url": "https://www.producthunt.com/products/appwrite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/appwrite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The open-source cloud for agents and developer",
+      "summary_zh": "The open-source cloud for agents and developer",
+      "publishedAt": "2026-09-16T07:01:00Z",
+      "published_at": "2026-09-16T07:01:00Z",
+      "votes_count": 213,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "14109ba9",
+      "title": "产品更新：Toki Coordinati",
+      "title_en": "Toki Coordination",
+      "url": "https://www.producthunt.com/products/toki-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/toki-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your personal assistant to schedule + follow u",
+      "summary_zh": "Your personal assistant to schedule + follow u",
+      "publishedAt": "2026-09-16T07:01:00Z",
+      "published_at": "2026-09-16T07:01:00Z",
+      "votes_count": 164,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "256",
+          "name": "Calendar",
+          "slug": "calendar"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "f2e88b0c",
+      "title": "产品更新：CAT ME app",
+      "title_en": "CAT ME app",
+      "url": "https://www.producthunt.com/products/cat-me-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cat-me-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "See yourself or your friends as cats The Cat M",
+      "summary_zh": "See yourself or your friends as cats The Cat M",
+      "publishedAt": "2026-09-16T07:01:00Z",
+      "published_at": "2026-09-16T07:01:00Z",
+      "votes_count": 141,
+      "featured": true,
+      "topics": [
+        {
+          "id": "198",
+          "name": "Cats",
+          "slug": "cats"
+        },
+        {
+          "id": "251",
+          "name": "Photography",
+          "slug": "photography"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "912b0c25",
+      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/490185.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/490185.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」  杰西卡 2026-09-16 11:40:35  来源：量子位   从想法到结果，一次对话实现   杰西卡 发自 凹非寺 量子位 | 公众号 QbitAI  AI for Science的竞争，正在向科研闭环延伸。 以蛋白设计为例，尽管蛋白模型越来越强，但真正想设计一个分子，研究人员还需要找文献、查结构，再下载权重、配置环境，把计算任务送上服务器。 等模型给出结果，还要换个工具看结构、做筛选，判断哪些候选值得继续……一次计算跑完，下一步从哪里开始，往往仍靠研究人员把各个环节接起来。 现在，这些隐藏在模型前后的工作，开始被AI公司重新审视。 今年4月，OpenAI推出面向生命科学的GPT-Rosalind；6月，Anthropic发布Claude Science；8月，Anthropic又公布Agent参与蛋白质设计、衔接外部实验验证的研究。 这些进展指向同一个变化：AI不再只负责模型本身的计算环节，也开始参与模型前后的研究工作，可以分析结果、调整方案，继续推进任务。 国内，也已经有团队走到了类似的交叉路口。",
+      "summary_zh": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」  杰西卡 2026-09-16 11:40:35  来源：量子位   从想法到结果，一次对话实现   杰西卡 发自 凹非寺 量子位 | 公众号 QbitAI  AI for Science的竞争，正在向科研闭环延伸。 以蛋白设计为例，尽管蛋白模型越来越强，但真正想设计一个分子，研究人员还需要找文献、查结构，再下载权重、配置环境，把计算任务送上服务器。 等模型给出结果，还要换个工具看结构、做筛选，判断哪些候选值得继续……一次计算跑完，下一步从哪里开始，往往仍靠研究人员把各个环节接起来。 现在，这些隐藏在模型前后的工作，开始被AI公司重新审视。 今年4月，OpenAI推出面向生命科学的GPT-Rosalind；6月，Anthropic发布Claude Science；8月，Anthropic又公布Agent参与蛋白质设计、衔接外部实验验证的研究。 这些进展指向同一个变化：AI不再只负责模型本身的计算环节，也开始参与模型前后的研究工作，可以分析结果、调整方案，继续推进任务。 国内，也已经有团队走到了类似的交叉路口。",
+      "publishedAt": "2026-09-16T03:40:35Z",
+      "published_at": "2026-09-16T03:40:35Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "00800a77",
+      "title": "量子位2026人工智能年度榜单，正式启动！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/490329.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/490329.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "量子位2026人工智能年度榜单，正式启动！  量子位的朋友们 2026-09-16 12:16:10  来源：量子位   报名通道已开启，欢迎参与！  2026年，人工智能行至从技术验证到规模化落地的分水岭，技术不再只用参数衡量，而是看它能不能在真实场景里交付结果。当行业从“能想”迈入“能干”，谁在用技术解决真问题？谁在让行业建立新标准？谁在使AI真正创造价值？ 量子位人工智能年度榜单连续9年再次启动，从企业、产品、人物三大维度设立五类奖项，寻找这些有意义的答案。 我们相信，这既是一份年度观察笔记，更是引领AI进程的坐标——它梳理这一年的技术演进与产业实践，为行业提供可参考的样本，为决策者提供可判断的依据，让每一次创新都成为推动产业前行的力量。 这是对2026年AI行业的一份记录，也是对那些锐意进取的先锋者的一次致敬—— 让他们的思想被更多人看到，让他们的判断启发更多同行的人。 欢迎报名！  企业榜  2026 人工智能年度领航企业 2026 人工智能年度潜力创业公司  产品榜  2026 人工智能年度杰出产品 2026 人工智能年度杰出解决方案  人物榜  2026 人工智能年度创业",
+      "summary_zh": "量子位2026人工智能年度榜单，正式启动！  量子位的朋友们 2026-09-16 12:16:10  来源：量子位   报名通道已开启，欢迎参与！  2026年，人工智能行至从技术验证到规模化落地的分水岭，技术不再只用参数衡量，而是看它能不能在真实场景里交付结果。当行业从“能想”迈入“能干”，谁在用技术解决真问题？谁在让行业建立新标准？谁在使AI真正创造价值？ 量子位人工智能年度榜单连续9年再次启动，从企业、产品、人物三大维度设立五类奖项，寻找这些有意义的答案。 我们相信，这既是一份年度观察笔记，更是引领AI进程的坐标——它梳理这一年的技术演进与产业实践，为行业提供可参考的样本，为决策者提供可判断的依据，让每一次创新都成为推动产业前行的力量。 这是对2026年AI行业的一份记录，也是对那些锐意进取的先锋者的一次致敬—— 让他们的思想被更多人看到，让他们的判断启发更多同行的人。 欢迎报名！  企业榜  2026 人工智能年度领航企业 2026 人工智能年度潜力创业公司  产品榜  2026 人工智能年度杰出产品 2026 人工智能年度杰出解决方案  人物榜  2026 人工智能年度创业",
+      "publishedAt": "2026-09-16T04:16:10Z",
+      "published_at": "2026-09-16T04:16:10Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4f56864e",
+      "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/490396.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/490396.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首  量子位的朋友们 2026-09-16 14:23:05  来源：量子位   9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。  #B站AI无限竞技场# 9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。GPT-6 Astra在10个UP主测评中拿下榜首，打败GLM-5.3获得榜首次数冠军；前五名中，国产大模型占据三席。 「AI无限竞技场」是一个汇集了B站UP主AI大模型测评的竞技广场，由各领域UP主对上百个大模型的真实场景实测构成，涵盖代码、推理、协作、知识等多种测评主题。 不同于传统跑分评测，B站AI无限竞技场不设主题或测评维度限制，来自各个分区的UP主们以真实工作流、专业应用、趣味脑洞等自主命题，在同题PK中直观呈现各模型的实际表现差异。首期榜单现已涵盖DeepSeek、Kimi、ChatGPT、Claude、Gemini、豆包、千问、Hy、MiniMax…等主流模型对比测评。 过去一年，B站AI生态迎来爆发式增长。AI知识内容消费时长同比增长72%，月均观看A",
+      "summary_zh": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首  量子位的朋友们 2026-09-16 14:23:05  来源：量子位   9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。  #B站AI无限竞技场# 9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。GPT-6 Astra在10个UP主测评中拿下榜首，打败GLM-5.3获得榜首次数冠军；前五名中，国产大模型占据三席。 「AI无限竞技场」是一个汇集了B站UP主AI大模型测评的竞技广场，由各领域UP主对上百个大模型的真实场景实测构成，涵盖代码、推理、协作、知识等多种测评主题。 不同于传统跑分评测，B站AI无限竞技场不设主题或测评维度限制，来自各个分区的UP主们以真实工作流、专业应用、趣味脑洞等自主命题，在同题PK中直观呈现各模型的实际表现差异。首期榜单现已涵盖DeepSeek、Kimi、ChatGPT、Claude、Gemini、豆包、千问、Hy、MiniMax…等主流模型对比测评。 过去一年，B站AI生态迎来爆发式增长。AI知识内容消费时长同比增长72%，月均观看A",
+      "publishedAt": "2026-09-16T06:23:05Z",
+      "published_at": "2026-09-16T06:23:05Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ebca95af",
+      "title": "OpenAI百亿投入砸向具身，机器人",
+      "title_en": "OpenAI百亿投入砸向具身，机器人竞争进入数据与算力时代",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "OpenAI百亿投入砸向具身，机器人竞争进入数据与算力时代",
+      "summary_zh": "OpenAI百亿投入砸向具身，机器人竞争进入数据与算力时代",
+      "publishedAt": "2026-09-16T23:02:58Z",
+      "published_at": "2026-09-16T23:02:58Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

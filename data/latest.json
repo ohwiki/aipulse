@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T13:37:56Z",
-  "generatedAt": "2026-09-16T13:37:56Z",
+  "generated_at": "2026-09-16T23:03:26Z",
+  "generatedAt": "2026-09-16T23:03:26Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "fe53b98e",
@@ -18,11 +18,11 @@
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Subscription Aware Coding Agent Router (GPT-6",
-      "summary_zh": "Subscription Aware Coding Agent Router (GPT-6",
+      "summary": "Subscription aware coding agent router Use Cla",
+      "summary_zh": "Subscription aware coding agent router Use Cla",
       "publishedAt": "2026-09-16T07:01:00Z",
       "published_at": "2026-09-16T07:01:00Z",
-      "votes_count": 168,
+      "votes_count": 294,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "The open-source cloud for agents and developer",
       "publishedAt": "2026-09-16T07:01:00Z",
       "published_at": "2026-09-16T07:01:00Z",
-      "votes_count": 146,
+      "votes_count": 213,
       "featured": true,
       "topics": [
         {
@@ -103,7 +103,7 @@
       "summary_zh": "Your personal assistant to schedule + follow u",
       "publishedAt": "2026-09-16T07:01:00Z",
       "published_at": "2026-09-16T07:01:00Z",
-      "votes_count": 124,
+      "votes_count": 164,
       "featured": true,
       "topics": [
         {
@@ -115,6 +115,44 @@
           "id": "256",
           "name": "Calendar",
           "slug": "calendar"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "f2e88b0c",
+      "title": "产品更新：CAT ME app",
+      "title_en": "CAT ME app",
+      "url": "https://www.producthunt.com/products/cat-me-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cat-me-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "See yourself or your friends as cats The Cat M",
+      "summary_zh": "See yourself or your friends as cats The Cat M",
+      "publishedAt": "2026-09-16T07:01:00Z",
+      "published_at": "2026-09-16T07:01:00Z",
+      "votes_count": 141,
+      "featured": true,
+      "topics": [
+        {
+          "id": "198",
+          "name": "Cats",
+          "slug": "cats"
+        },
+        {
+          "id": "251",
+          "name": "Photography",
+          "slug": "photography"
         },
         {
           "id": "268",
@@ -205,8 +243,8 @@
       "rankingScore": 5.0,
       "summary": "OpenAI百亿投入砸向具身，机器人竞争进入数据与算力时代",
       "summary_zh": "OpenAI百亿投入砸向具身，机器人竞争进入数据与算力时代",
-      "publishedAt": "2026-09-16T13:37:28Z",
-      "published_at": "2026-09-16T13:37:28Z",
+      "publishedAt": "2026-09-16T23:02:58Z",
+      "published_at": "2026-09-16T23:02:58Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
