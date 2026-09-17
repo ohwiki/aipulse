@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T13:40:43Z",
-  "generatedAt": "2026-09-17T13:40:43Z",
+  "generated_at": "2026-09-17T22:55:47Z",
+  "generatedAt": "2026-09-17T22:55:47Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -18,11 +18,11 @@
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Build with AI. Sell and Grow with CREEM. - Cre",
-      "summary_zh": "Build with AI. Sell and Grow with CREEM. - Cre",
+      "summary": "Sell and grow your AI built products - Creem 2",
+      "summary_zh": "Sell and grow your AI built products - Creem 2",
       "publishedAt": "2026-09-17T07:01:00Z",
       "published_at": "2026-09-17T07:01:00Z",
-      "votes_count": 350,
+      "votes_count": 477,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Cloud Macs your coding agents can actually bui",
       "publishedAt": "2026-09-17T07:01:00Z",
       "published_at": "2026-09-17T07:01:00Z",
-      "votes_count": 178,
+      "votes_count": 286,
       "featured": true,
       "topics": [
         {
@@ -82,6 +82,44 @@
       "score_details": null
     },
     {
+      "id": "2da764ac",
+      "title": "产品更新：Modaal for Andr",
+      "title_en": "Modaal for Android",
+      "url": "https://www.producthunt.com/products/modaal-ai-agent-for-ios-android-native?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/modaal-ai-agent-for-ios-android-native?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Ship on both stores from one project using Swi",
+      "summary_zh": "Ship on both stores from one project using Swi",
+      "publishedAt": "2026-09-17T07:01:00Z",
+      "published_at": "2026-09-17T07:01:00Z",
+      "votes_count": 243,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        },
+        {
+          "id": "1194",
+          "name": "Vibe coding",
+          "slug": "vibe-coding"
+        }
+      ],
+      "score_details": null
+    },
+    {
       "id": "3a7d0158",
       "title": "产品更新：Text Agent Stor",
       "title_en": "Text Agent Store",
@@ -98,7 +136,7 @@
       "summary_zh": "A marketplace for AI agents you can text Meet",
       "publishedAt": "2026-09-17T07:01:00Z",
       "published_at": "2026-09-17T07:01:00Z",
-      "votes_count": 162,
+      "votes_count": 228,
       "featured": true,
       "topics": [
         {
@@ -115,44 +153,6 @@
           "id": "351",
           "name": "iMessage Apps",
           "slug": "imessage-apps"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "0cd0c7b4",
-      "title": "产品更新：NovaSynth by No",
-      "title_en": "NovaSynth by Noveum",
-      "url": "https://www.producthunt.com/products/novasynth-by-noveum?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/novasynth-by-noveum?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Test your voice agent on the callers you can’t",
-      "summary_zh": "Test your voice agent on the callers you can’t",
-      "publishedAt": "2026-09-17T07:01:00Z",
-      "published_at": "2026-09-17T07:01:00Z",
-      "votes_count": 133,
-      "featured": true,
-      "topics": [
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "471",
-          "name": "Audio",
-          "slug": "audio"
         }
       ],
       "score_details": null
@@ -238,8 +238,8 @@
       "rankingScore": 5.0,
       "summary": "Nature封面 | 打破高分辨率限制，谷歌AI气象模型精准预测台风路径",
       "summary_zh": "Nature封面 | 打破高分辨率限制，谷歌AI气象模型精准预测台风路径",
-      "publishedAt": "2026-09-17T13:40:05Z",
-      "published_at": "2026-09-17T13:40:05Z",
+      "publishedAt": "2026-09-17T22:55:15Z",
+      "published_at": "2026-09-17T22:55:15Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

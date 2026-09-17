@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-09-17T13:40:43Z",
-  "generatedAt": "2026-09-17T13:40:43Z",
-  "count": 128,
-  "total": 128,
+  "generated_at": "2026-09-17T22:55:47Z",
+  "generatedAt": "2026-09-17T22:55:47Z",
+  "count": 129,
+  "total": 129,
   "entries": [
+    {
+      "date": "2026-09-18",
+      "generated_at": "2026-09-17T22:55:47Z",
+      "generatedAt": "2026-09-17T22:55:47Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "b802ebca",
+          "title": "产品更新：CREEM 2.0",
+          "title_en": "CREEM 2.0",
+          "url": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Sell and grow your AI built products - Creem 2",
+          "summary_zh": "Sell and grow your AI built products - Creem 2",
+          "publishedAt": "2026-09-17T07:01:00Z",
+          "published_at": "2026-09-17T07:01:00Z",
+          "votes_count": 477,
+          "featured": true,
+          "topics": [
+            {
+              "id": "94",
+              "name": "Fintech",
+              "slug": "fintech"
+            },
+            {
+              "id": "119",
+              "name": "Payments",
+              "slug": "payments"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f8e28dbd",
+          "title": "产品更新：Bitrise Remote",
+          "title_en": "Bitrise Remote Dev Environments",
+          "url": "https://www.producthunt.com/products/bitrise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/bitrise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Cloud Macs your coding agents can actually bui",
+          "summary_zh": "Cloud Macs your coding agents can actually bui",
+          "publishedAt": "2026-09-17T07:01:00Z",
+          "published_at": "2026-09-17T07:01:00Z",
+          "votes_count": 286,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2da764ac",
+          "title": "产品更新：Modaal for Andr",
+          "title_en": "Modaal for Android",
+          "url": "https://www.producthunt.com/products/modaal-ai-agent-for-ios-android-native?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/modaal-ai-agent-for-ios-android-native?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Ship on both stores from one project using Swi",
+          "summary_zh": "Ship on both stores from one project using Swi",
+          "publishedAt": "2026-09-17T07:01:00Z",
+          "published_at": "2026-09-17T07:01:00Z",
+          "votes_count": 243,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-17",
       "generated_at": "2026-09-17T13:40:43Z",

@@ -1,0 +1,503 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-17T22:55:47Z",
+  "generatedAt": "2026-09-17T22:55:47Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "b802ebca",
+          "title": "产品更新：CREEM 2.0",
+          "title_en": "CREEM 2.0",
+          "url": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Sell and grow your AI built products - Creem 2",
+          "summary_zh": "Sell and grow your AI built products - Creem 2",
+          "publishedAt": "2026-09-17T07:01:00Z",
+          "published_at": "2026-09-17T07:01:00Z",
+          "votes_count": 477,
+          "featured": true,
+          "topics": [
+            {
+              "id": "94",
+              "name": "Fintech",
+              "slug": "fintech"
+            },
+            {
+              "id": "119",
+              "name": "Payments",
+              "slug": "payments"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f8e28dbd",
+          "title": "产品更新：Bitrise Remote",
+          "title_en": "Bitrise Remote Dev Environments",
+          "url": "https://www.producthunt.com/products/bitrise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/bitrise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Cloud Macs your coding agents can actually bui",
+          "summary_zh": "Cloud Macs your coding agents can actually bui",
+          "publishedAt": "2026-09-17T07:01:00Z",
+          "published_at": "2026-09-17T07:01:00Z",
+          "votes_count": 286,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2da764ac",
+          "title": "产品更新：Modaal for Andr",
+          "title_en": "Modaal for Android",
+          "url": "https://www.producthunt.com/products/modaal-ai-agent-for-ios-android-native?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/modaal-ai-agent-for-ios-android-native?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Ship on both stores from one project using Swi",
+          "summary_zh": "Ship on both stores from one project using Swi",
+          "publishedAt": "2026-09-17T07:01:00Z",
+          "published_at": "2026-09-17T07:01:00Z",
+          "votes_count": 243,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3a7d0158",
+          "title": "产品更新：Text Agent Stor",
+          "title_en": "Text Agent Store",
+          "url": "https://www.producthunt.com/products/text-agent-store?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/text-agent-store?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A marketplace for AI agents you can text Meet",
+          "summary_zh": "A marketplace for AI agents you can text Meet",
+          "publishedAt": "2026-09-17T07:01:00Z",
+          "published_at": "2026-09-17T07:01:00Z",
+          "votes_count": 228,
+          "featured": true,
+          "topics": [
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "351",
+              "name": "iMessage Apps",
+              "slug": "imessage-apps"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "abf71f0c",
+          "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/491062.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/491062.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌  量子位的朋友们 2026-09-17 10:01:15  来源：量子位   9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行  9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行，各地迪粉欢聚一堂，同心同行见证比亚迪力量。比亚迪集团品牌及公关处总经理李云飞发表主题演讲，围绕三个核心问题，与现场迪粉及媒体分享了比亚迪的最新思考与实践。提及中国汽车首登世界第一时，他自豪地说：“这份荣耀，属于所有中国汽车品牌！” 全球汽车工业走过一百多年，从燃油车时代到新能源时代，全球产业格局迎来了颠覆性的变革。回顾历史，全球汽车市场的主导权长期由美国和日本品牌轮流掌握。直到2025年，这一历史格局被彻底打破——中国汽车品牌全年销量接近2700万辆，首次成为全球第一。  从过去的追赶者成长为行业引领者，中国汽车的跨越式突破并非一朝一夕之功。过去几十年间，中国汽车产业在技术研发、高端制造、供应链协同及全球化布局上实现了深厚积淀。从传统燃油车时代的学习与追赶，到新能源时代的技术创新与引领，中国汽车正逐步从全球竞争的参与者，转变为汽",
+          "summary_zh": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌  量子位的朋友们 2026-09-17 10:01:15  来源：量子位   9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行  9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行，各地迪粉欢聚一堂，同心同行见证比亚迪力量。比亚迪集团品牌及公关处总经理李云飞发表主题演讲，围绕三个核心问题，与现场迪粉及媒体分享了比亚迪的最新思考与实践。提及中国汽车首登世界第一时，他自豪地说：“这份荣耀，属于所有中国汽车品牌！” 全球汽车工业走过一百多年，从燃油车时代到新能源时代，全球产业格局迎来了颠覆性的变革。回顾历史，全球汽车市场的主导权长期由美国和日本品牌轮流掌握。直到2025年，这一历史格局被彻底打破——中国汽车品牌全年销量接近2700万辆，首次成为全球第一。  从过去的追赶者成长为行业引领者，中国汽车的跨越式突破并非一朝一夕之功。过去几十年间，中国汽车产业在技术研发、高端制造、供应链协同及全球化布局上实现了深厚积淀。从传统燃油车时代的学习与追赶，到新能源时代的技术创新与引领，中国汽车正逐步从全球竞争的参与者，转变为汽",
+          "publishedAt": "2026-09-17T02:01:15Z",
+          "published_at": "2026-09-17T02:01:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "fc90565a",
+          "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/491091.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/491091.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "国产RSI模型交卷！Flash模型靠它反打旗舰  一水 2026-09-17 11:26:21  来源：量子位   1亿Tokens人人免费领  RSI，彻底火了。 从硅谷一路烧到国内，「让模型参与训练下一版自己」几乎一夜之间成了AI圈最热的叙事。 不过热闹归热闹，目前真正拿模型交卷的还屈指可数。 而就在这一当口，「港股AGI第一股」云知声正式发布U2-Flash，率先交出一份国产RSI早期答卷。     △图源：云知声 在U2-Flash的后训练闭环里，模型已经开始深度参与自身演进： 从生成训练数据、分析执行轨迹，到巡检和修复训练系统。 然后，反常识的部分来了。 按行业惯例，Flash一般默认是「旗舰平替」，通常更快、更便宜，但能力相对打折。 结果U2-Flash呢？ 速度和省钱能力的提升确实没含糊。相比U2，其生成速度提升2.1倍，Agent任务完成时间缩短35%，任务迭代步数和Token消耗也降低了20%至30%。 但能力不仅没打折，反而把上一代U2甩在了身后：  DeepSWE v1.1从上一代U2的32分冲到64.6分，直接翻倍； TerminalBench 3.0从2.7分",
+          "summary_zh": "国产RSI模型交卷！Flash模型靠它反打旗舰  一水 2026-09-17 11:26:21  来源：量子位   1亿Tokens人人免费领  RSI，彻底火了。 从硅谷一路烧到国内，「让模型参与训练下一版自己」几乎一夜之间成了AI圈最热的叙事。 不过热闹归热闹，目前真正拿模型交卷的还屈指可数。 而就在这一当口，「港股AGI第一股」云知声正式发布U2-Flash，率先交出一份国产RSI早期答卷。     △图源：云知声 在U2-Flash的后训练闭环里，模型已经开始深度参与自身演进： 从生成训练数据、分析执行轨迹，到巡检和修复训练系统。 然后，反常识的部分来了。 按行业惯例，Flash一般默认是「旗舰平替」，通常更快、更便宜，但能力相对打折。 结果U2-Flash呢？ 速度和省钱能力的提升确实没含糊。相比U2，其生成速度提升2.1倍，Agent任务完成时间缩短35%，任务迭代步数和Token消耗也降低了20%至30%。 但能力不仅没打折，反而把上一代U2甩在了身后：  DeepSWE v1.1从上一代U2的32分冲到64.6分，直接翻倍； TerminalBench 3.0从2.7分",
+          "publishedAt": "2026-09-17T03:26:21Z",
+          "published_at": "2026-09-17T03:26:21Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "68ee4649",
+          "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/491147.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/491147.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利  量子位的朋友们 2026-09-17 11:39:43  来源：量子位   从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动  做一部AI短剧，团队要解决的远不只是“把画面生成出来”。 持续生产，首先要控制算力成本；作品完成后，还要获得足够的发行流量；当团队具备成熟产能，又需要找到真正的商业项目，让制作能力转化为收入。 为了回馈用户的热爱，从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动：天工工作台联合昆仑万维旗下、全球短剧App下载量Top 3的DramaWave APP，推出三重创作与出海福利：  Seedance 2.5专属积分，首购加赠70%； 每消耗20万积分，可兑换一部短剧的DramaWave 4倍流量加持； 单笔充值50万元，可获得一部DramaWave AI短剧承制权益。  从降低创作成本，到帮助作品触达海外观众，再到连接真实承制机会，S",
+          "summary_zh": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利  量子位的朋友们 2026-09-17 11:39:43  来源：量子位   从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动  做一部AI短剧，团队要解决的远不只是“把画面生成出来”。 持续生产，首先要控制算力成本；作品完成后，还要获得足够的发行流量；当团队具备成熟产能，又需要找到真正的商业项目，让制作能力转化为收入。 为了回馈用户的热爱，从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动：天工工作台联合昆仑万维旗下、全球短剧App下载量Top 3的DramaWave APP，推出三重创作与出海福利：  Seedance 2.5专属积分，首购加赠70%； 每消耗20万积分，可兑换一部短剧的DramaWave 4倍流量加持； 单笔充值50万元，可获得一部DramaWave AI短剧承制权益。  从降低创作成本，到帮助作品触达海外观众，再到连接真实承制机会，S",
+          "publishedAt": "2026-09-17T03:39:43Z",
+          "published_at": "2026-09-17T03:39:43Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "5abf7af6",
+          "title": "Nature封面 | 打破高分辨率限",
+          "title_en": "Nature封面 | 打破高分辨率限制，谷歌AI气象模型精准预测台风路径",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Nature封面 | 打破高分辨率限制，谷歌AI气象模型精准预测台风路径",
+          "summary_zh": "Nature封面 | 打破高分辨率限制，谷歌AI气象模型精准预测台风路径",
+          "publishedAt": "2026-09-17T22:55:15Z",
+          "published_at": "2026-09-17T22:55:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "b802ebca",
+      "title": "产品更新：CREEM 2.0",
+      "title_en": "CREEM 2.0",
+      "url": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Sell and grow your AI built products - Creem 2",
+      "summary_zh": "Sell and grow your AI built products - Creem 2",
+      "publishedAt": "2026-09-17T07:01:00Z",
+      "published_at": "2026-09-17T07:01:00Z",
+      "votes_count": 477,
+      "featured": true,
+      "topics": [
+        {
+          "id": "94",
+          "name": "Fintech",
+          "slug": "fintech"
+        },
+        {
+          "id": "119",
+          "name": "Payments",
+          "slug": "payments"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "f8e28dbd",
+      "title": "产品更新：Bitrise Remote",
+      "title_en": "Bitrise Remote Dev Environments",
+      "url": "https://www.producthunt.com/products/bitrise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/bitrise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Cloud Macs your coding agents can actually bui",
+      "summary_zh": "Cloud Macs your coding agents can actually bui",
+      "publishedAt": "2026-09-17T07:01:00Z",
+      "published_at": "2026-09-17T07:01:00Z",
+      "votes_count": 286,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "2da764ac",
+      "title": "产品更新：Modaal for Andr",
+      "title_en": "Modaal for Android",
+      "url": "https://www.producthunt.com/products/modaal-ai-agent-for-ios-android-native?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/modaal-ai-agent-for-ios-android-native?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Ship on both stores from one project using Swi",
+      "summary_zh": "Ship on both stores from one project using Swi",
+      "publishedAt": "2026-09-17T07:01:00Z",
+      "published_at": "2026-09-17T07:01:00Z",
+      "votes_count": 243,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        },
+        {
+          "id": "1194",
+          "name": "Vibe coding",
+          "slug": "vibe-coding"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3a7d0158",
+      "title": "产品更新：Text Agent Stor",
+      "title_en": "Text Agent Store",
+      "url": "https://www.producthunt.com/products/text-agent-store?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/text-agent-store?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A marketplace for AI agents you can text Meet",
+      "summary_zh": "A marketplace for AI agents you can text Meet",
+      "publishedAt": "2026-09-17T07:01:00Z",
+      "published_at": "2026-09-17T07:01:00Z",
+      "votes_count": 228,
+      "featured": true,
+      "topics": [
+        {
+          "id": "60",
+          "name": "Messaging",
+          "slug": "messaging"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "351",
+          "name": "iMessage Apps",
+          "slug": "imessage-apps"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "abf71f0c",
+      "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/491062.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/491062.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌  量子位的朋友们 2026-09-17 10:01:15  来源：量子位   9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行  9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行，各地迪粉欢聚一堂，同心同行见证比亚迪力量。比亚迪集团品牌及公关处总经理李云飞发表主题演讲，围绕三个核心问题，与现场迪粉及媒体分享了比亚迪的最新思考与实践。提及中国汽车首登世界第一时，他自豪地说：“这份荣耀，属于所有中国汽车品牌！” 全球汽车工业走过一百多年，从燃油车时代到新能源时代，全球产业格局迎来了颠覆性的变革。回顾历史，全球汽车市场的主导权长期由美国和日本品牌轮流掌握。直到2025年，这一历史格局被彻底打破——中国汽车品牌全年销量接近2700万辆，首次成为全球第一。  从过去的追赶者成长为行业引领者，中国汽车的跨越式突破并非一朝一夕之功。过去几十年间，中国汽车产业在技术研发、高端制造、供应链协同及全球化布局上实现了深厚积淀。从传统燃油车时代的学习与追赶，到新能源时代的技术创新与引领，中国汽车正逐步从全球竞争的参与者，转变为汽",
+      "summary_zh": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌  量子位的朋友们 2026-09-17 10:01:15  来源：量子位   9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行  9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行，各地迪粉欢聚一堂，同心同行见证比亚迪力量。比亚迪集团品牌及公关处总经理李云飞发表主题演讲，围绕三个核心问题，与现场迪粉及媒体分享了比亚迪的最新思考与实践。提及中国汽车首登世界第一时，他自豪地说：“这份荣耀，属于所有中国汽车品牌！” 全球汽车工业走过一百多年，从燃油车时代到新能源时代，全球产业格局迎来了颠覆性的变革。回顾历史，全球汽车市场的主导权长期由美国和日本品牌轮流掌握。直到2025年，这一历史格局被彻底打破——中国汽车品牌全年销量接近2700万辆，首次成为全球第一。  从过去的追赶者成长为行业引领者，中国汽车的跨越式突破并非一朝一夕之功。过去几十年间，中国汽车产业在技术研发、高端制造、供应链协同及全球化布局上实现了深厚积淀。从传统燃油车时代的学习与追赶，到新能源时代的技术创新与引领，中国汽车正逐步从全球竞争的参与者，转变为汽",
+      "publishedAt": "2026-09-17T02:01:15Z",
+      "published_at": "2026-09-17T02:01:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "fc90565a",
+      "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/491091.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/491091.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "国产RSI模型交卷！Flash模型靠它反打旗舰  一水 2026-09-17 11:26:21  来源：量子位   1亿Tokens人人免费领  RSI，彻底火了。 从硅谷一路烧到国内，「让模型参与训练下一版自己」几乎一夜之间成了AI圈最热的叙事。 不过热闹归热闹，目前真正拿模型交卷的还屈指可数。 而就在这一当口，「港股AGI第一股」云知声正式发布U2-Flash，率先交出一份国产RSI早期答卷。     △图源：云知声 在U2-Flash的后训练闭环里，模型已经开始深度参与自身演进： 从生成训练数据、分析执行轨迹，到巡检和修复训练系统。 然后，反常识的部分来了。 按行业惯例，Flash一般默认是「旗舰平替」，通常更快、更便宜，但能力相对打折。 结果U2-Flash呢？ 速度和省钱能力的提升确实没含糊。相比U2，其生成速度提升2.1倍，Agent任务完成时间缩短35%，任务迭代步数和Token消耗也降低了20%至30%。 但能力不仅没打折，反而把上一代U2甩在了身后：  DeepSWE v1.1从上一代U2的32分冲到64.6分，直接翻倍； TerminalBench 3.0从2.7分",
+      "summary_zh": "国产RSI模型交卷！Flash模型靠它反打旗舰  一水 2026-09-17 11:26:21  来源：量子位   1亿Tokens人人免费领  RSI，彻底火了。 从硅谷一路烧到国内，「让模型参与训练下一版自己」几乎一夜之间成了AI圈最热的叙事。 不过热闹归热闹，目前真正拿模型交卷的还屈指可数。 而就在这一当口，「港股AGI第一股」云知声正式发布U2-Flash，率先交出一份国产RSI早期答卷。     △图源：云知声 在U2-Flash的后训练闭环里，模型已经开始深度参与自身演进： 从生成训练数据、分析执行轨迹，到巡检和修复训练系统。 然后，反常识的部分来了。 按行业惯例，Flash一般默认是「旗舰平替」，通常更快、更便宜，但能力相对打折。 结果U2-Flash呢？ 速度和省钱能力的提升确实没含糊。相比U2，其生成速度提升2.1倍，Agent任务完成时间缩短35%，任务迭代步数和Token消耗也降低了20%至30%。 但能力不仅没打折，反而把上一代U2甩在了身后：  DeepSWE v1.1从上一代U2的32分冲到64.6分，直接翻倍； TerminalBench 3.0从2.7分",
+      "publishedAt": "2026-09-17T03:26:21Z",
+      "published_at": "2026-09-17T03:26:21Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "68ee4649",
+      "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/491147.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/491147.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利  量子位的朋友们 2026-09-17 11:39:43  来源：量子位   从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动  做一部AI短剧，团队要解决的远不只是“把画面生成出来”。 持续生产，首先要控制算力成本；作品完成后，还要获得足够的发行流量；当团队具备成熟产能，又需要找到真正的商业项目，让制作能力转化为收入。 为了回馈用户的热爱，从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动：天工工作台联合昆仑万维旗下、全球短剧App下载量Top 3的DramaWave APP，推出三重创作与出海福利：  Seedance 2.5专属积分，首购加赠70%； 每消耗20万积分，可兑换一部短剧的DramaWave 4倍流量加持； 单笔充值50万元，可获得一部DramaWave AI短剧承制权益。  从降低创作成本，到帮助作品触达海外观众，再到连接真实承制机会，S",
+      "summary_zh": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利  量子位的朋友们 2026-09-17 11:39:43  来源：量子位   从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动  做一部AI短剧，团队要解决的远不只是“把画面生成出来”。 持续生产，首先要控制算力成本；作品完成后，还要获得足够的发行流量；当团队具备成熟产能，又需要找到真正的商业项目，让制作能力转化为收入。 为了回馈用户的热爱，从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动：天工工作台联合昆仑万维旗下、全球短剧App下载量Top 3的DramaWave APP，推出三重创作与出海福利：  Seedance 2.5专属积分，首购加赠70%； 每消耗20万积分，可兑换一部短剧的DramaWave 4倍流量加持； 单笔充值50万元，可获得一部DramaWave AI短剧承制权益。  从降低创作成本，到帮助作品触达海外观众，再到连接真实承制机会，S",
+      "publishedAt": "2026-09-17T03:39:43Z",
+      "published_at": "2026-09-17T03:39:43Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "5abf7af6",
+      "title": "Nature封面 | 打破高分辨率限",
+      "title_en": "Nature封面 | 打破高分辨率限制，谷歌AI气象模型精准预测台风路径",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Nature封面 | 打破高分辨率限制，谷歌AI气象模型精准预测台风路径",
+      "summary_zh": "Nature封面 | 打破高分辨率限制，谷歌AI气象模型精准预测台风路径",
+      "publishedAt": "2026-09-17T22:55:15Z",
+      "published_at": "2026-09-17T22:55:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
