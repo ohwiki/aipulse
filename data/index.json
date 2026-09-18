@@ -1,9 +1,147 @@
 {
-  "generated_at": "2026-09-18T13:03:55Z",
-  "generatedAt": "2026-09-18T13:03:55Z",
-  "count": 129,
-  "total": 129,
+  "generated_at": "2026-09-18T22:41:27Z",
+  "generatedAt": "2026-09-18T22:41:27Z",
+  "count": 130,
+  "total": 130,
   "entries": [
+    {
+      "date": "2026-09-19",
+      "generated_at": "2026-09-18T22:41:27Z",
+      "generatedAt": "2026-09-18T22:41:27Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "e2cd666a",
+          "title": "产品更新：Ami AI",
+          "title_en": "Ami AI",
+          "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Lovable for getting customers Most outbound di",
+          "summary_zh": "Lovable for getting customers Most outbound di",
+          "publishedAt": "2026-09-18T07:01:00Z",
+          "published_at": "2026-09-18T07:01:00Z",
+          "votes_count": 430,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1491",
+              "name": "OpenAI Day",
+              "slug": "openai-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "87f0e91c",
+          "title": "产品更新：AINA",
+          "title_en": "AINA",
+          "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Find your job search blind spots with an AI co",
+          "summary_zh": "Find your job search blind spots with an AI co",
+          "publishedAt": "2026-09-18T07:01:00Z",
+          "published_at": "2026-09-18T07:01:00Z",
+          "votes_count": 398,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "835",
+              "name": "Career",
+              "slug": "career"
+            },
+            {
+              "id": "1491",
+              "name": "OpenAI Day",
+              "slug": "openai-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "70424f11",
+          "title": "产品更新：MosMos",
+          "title_en": "MosMos",
+          "url": "https://www.producthunt.com/products/mosmos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/mosmos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Voice writing that works before, during, and a",
+          "summary_zh": "Voice writing that works before, during, and a",
+          "publishedAt": "2026-09-18T07:01:00Z",
+          "published_at": "2026-09-18T07:01:00Z",
+          "votes_count": 342,
+          "featured": true,
+          "topics": [
+            {
+              "id": "90",
+              "name": "Writing",
+              "slug": "writing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            },
+            {
+              "id": "1491",
+              "name": "OpenAI Day",
+              "slug": "openai-day"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-18",
       "generated_at": "2026-09-18T13:03:55Z",

@@ -1,0 +1,533 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-18T22:41:27Z",
+  "generatedAt": "2026-09-18T22:41:27Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "e2cd666a",
+          "title": "产品更新：Ami AI",
+          "title_en": "Ami AI",
+          "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Lovable for getting customers Most outbound di",
+          "summary_zh": "Lovable for getting customers Most outbound di",
+          "publishedAt": "2026-09-18T07:01:00Z",
+          "published_at": "2026-09-18T07:01:00Z",
+          "votes_count": 430,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1491",
+              "name": "OpenAI Day",
+              "slug": "openai-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "87f0e91c",
+          "title": "产品更新：AINA",
+          "title_en": "AINA",
+          "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Find your job search blind spots with an AI co",
+          "summary_zh": "Find your job search blind spots with an AI co",
+          "publishedAt": "2026-09-18T07:01:00Z",
+          "published_at": "2026-09-18T07:01:00Z",
+          "votes_count": 398,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "835",
+              "name": "Career",
+              "slug": "career"
+            },
+            {
+              "id": "1491",
+              "name": "OpenAI Day",
+              "slug": "openai-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "70424f11",
+          "title": "产品更新：MosMos",
+          "title_en": "MosMos",
+          "url": "https://www.producthunt.com/products/mosmos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/mosmos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Voice writing that works before, during, and a",
+          "summary_zh": "Voice writing that works before, during, and a",
+          "publishedAt": "2026-09-18T07:01:00Z",
+          "published_at": "2026-09-18T07:01:00Z",
+          "votes_count": 342,
+          "featured": true,
+          "topics": [
+            {
+              "id": "90",
+              "name": "Writing",
+              "slug": "writing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            },
+            {
+              "id": "1491",
+              "name": "OpenAI Day",
+              "slug": "openai-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cedefee1",
+          "title": "产品更新：ProductBridge",
+          "title_en": "ProductBridge",
+          "url": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI-native customer support and feedback agent",
+          "summary_zh": "AI-native customer support and feedback agent",
+          "publishedAt": "2026-09-18T07:01:00Z",
+          "published_at": "2026-09-18T07:01:00Z",
+          "votes_count": 320,
+          "featured": true,
+          "topics": [
+            {
+              "id": "55",
+              "name": "Customer Success",
+              "slug": "customer-success"
+            },
+            {
+              "id": "123",
+              "name": "Customer Communication",
+              "slug": "customer-communication"
+            },
+            {
+              "id": "1491",
+              "name": "OpenAI Day",
+              "slug": "openai-day"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "1210d62e",
+          "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/491711.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/491711.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放  Jay 2026-09-18 08:34:34  来源：量子位   Git白学了？？？  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 多人云端Coding的时代，来了。 刚刚，Claude Code的项目功能迎来全面重构，原生支持多Agent玩法。 用户下达目标，Claude在云端派生多条Git分支并行干活，写完直接提PR。 此外，A社还新增了共享记忆，保证Agent之间的上下文对齐。 可以说是彻底超进化了，Project不再只是个放提示词和文档的文件夹。  同一时间，在Anthropic披露的最新报告中，也已看到这项能力的上限： 他们内部研发平台，每天同时跑着3万个AI Agent，在云端疯狂写代码、调模型、跑测试。 是的，3万个。。。 结果就是，自家核心的AI研发工作，现在已经有整整26%由Claude主导，来到L4级别。 半年前，这个数字还不到1%。  一人带一个Agent军团，Claude Code大重构 最新亮相的Claude Code Projects重构版，彻底终结了把Projects当",
+          "summary_zh": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放  Jay 2026-09-18 08:34:34  来源：量子位   Git白学了？？？  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 多人云端Coding的时代，来了。 刚刚，Claude Code的项目功能迎来全面重构，原生支持多Agent玩法。 用户下达目标，Claude在云端派生多条Git分支并行干活，写完直接提PR。 此外，A社还新增了共享记忆，保证Agent之间的上下文对齐。 可以说是彻底超进化了，Project不再只是个放提示词和文档的文件夹。  同一时间，在Anthropic披露的最新报告中，也已看到这项能力的上限： 他们内部研发平台，每天同时跑着3万个AI Agent，在云端疯狂写代码、调模型、跑测试。 是的，3万个。。。 结果就是，自家核心的AI研发工作，现在已经有整整26%由Claude主导，来到L4级别。 半年前，这个数字还不到1%。  一人带一个Agent军团，Claude Code大重构 最新亮相的Claude Code Projects重构版，彻底终结了把Projects当",
+          "publishedAt": "2026-09-18T00:34:34Z",
+          "published_at": "2026-09-18T00:34:34Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "38d54883",
+          "title": "Manus重生第17天，估值居然就翻倍了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/491764.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/491764.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Manus重生第17天，估值居然就翻倍了  衡宇 2026-09-18 08:37:13  来源：量子位   作价40亿美元推进新融资  衡宇 发自 凹非寺 量子位 | 公众号QbitAI Manus恢复自由身才半个多月，“突然”身价倍增了？！ 最新消息，Manus正在推进新一轮约5亿美元融资，目标估值约40亿美元。 这是它与Meta完成拆分、恢复独立运营后的第一轮融资。 据彭博援引知情人士消息，这轮融资已经接近完成，但谈判仍在进行，最终金额和条款仍可能发生变化。 目前，最新新资方身份尚未披露，腾讯、HSG和真格基金等现有股东也没有公开确认是否继续加码。  就在9月1日，Manus才刚刚正式宣布恢复独立运营。 再往前不到一个月，腾讯、真格基金、HSG等Manus老股东刚以约20亿美元的价格——这也是卖给Meta时候的价格——将这家公司买回来。 如果最新一轮融资最终按照40亿美元估值完成，Manus恢复独立运营仅17天，新一轮融资估值就可能比此前回购时翻上一倍。 过去一年半，Manus的身价从5亿美元一路走到20亿美元，再到如今瞄准40亿美元。 中间还经历了一场收购、监管叫停、业务拆分和",
+          "summary_zh": "Manus重生第17天，估值居然就翻倍了  衡宇 2026-09-18 08:37:13  来源：量子位   作价40亿美元推进新融资  衡宇 发自 凹非寺 量子位 | 公众号QbitAI Manus恢复自由身才半个多月，“突然”身价倍增了？！ 最新消息，Manus正在推进新一轮约5亿美元融资，目标估值约40亿美元。 这是它与Meta完成拆分、恢复独立运营后的第一轮融资。 据彭博援引知情人士消息，这轮融资已经接近完成，但谈判仍在进行，最终金额和条款仍可能发生变化。 目前，最新新资方身份尚未披露，腾讯、HSG和真格基金等现有股东也没有公开确认是否继续加码。  就在9月1日，Manus才刚刚正式宣布恢复独立运营。 再往前不到一个月，腾讯、真格基金、HSG等Manus老股东刚以约20亿美元的价格——这也是卖给Meta时候的价格——将这家公司买回来。 如果最新一轮融资最终按照40亿美元估值完成，Manus恢复独立运营仅17天，新一轮融资估值就可能比此前回购时翻上一倍。 过去一年半，Manus的身价从5亿美元一路走到20亿美元，再到如今瞄准40亿美元。 中间还经历了一场收购、监管叫停、业务拆分和",
+          "publishedAt": "2026-09-18T00:37:13Z",
+          "published_at": "2026-09-18T00:37:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "7a40aa24",
+          "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/491875.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/491875.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线  克雷西 2026-09-18 14:11:06  来源：量子位   用通用AI去啃最硬的骨头，这条路走得通  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI AI正在横扫一切，但有块硬骨头，迟迟攻不下来，让无数人希望落空。 2016年，Hinton老爷子就预言：“人们现在就应该停止培养放射科医生。”他甚至认为，五年内，AI就会在医疗影像识别上超过放射科医生。 老爷子一生谨慎，但历史和他开了个玩笑。十年过去了，人们离AGI已经越来越近，但在医疗场景里，即使图像识别这样的AI新手村任务，依然是hard模式。 如果从IBM的Watson算起，在医疗上遭遇滑铁卢的AI专家数不胜数。 为什么医疗成了AI的阿喀琉斯之踵？ ——对模型精度的极高要求，在别的领域，模型幻觉可以一笑了之，但在这里却是人命关天。 这也导致了医疗影像AI长期困在专用模型里。 直到今天，学术期刊的“王者”Science正式刊发一项来自中国的重磅研究： DAMO RADAR，据介绍是全球首个专家级的通用影像AI模型。  这个模型，能看腹部18",
+          "summary_zh": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线  克雷西 2026-09-18 14:11:06  来源：量子位   用通用AI去啃最硬的骨头，这条路走得通  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI AI正在横扫一切，但有块硬骨头，迟迟攻不下来，让无数人希望落空。 2016年，Hinton老爷子就预言：“人们现在就应该停止培养放射科医生。”他甚至认为，五年内，AI就会在医疗影像识别上超过放射科医生。 老爷子一生谨慎，但历史和他开了个玩笑。十年过去了，人们离AGI已经越来越近，但在医疗场景里，即使图像识别这样的AI新手村任务，依然是hard模式。 如果从IBM的Watson算起，在医疗上遭遇滑铁卢的AI专家数不胜数。 为什么医疗成了AI的阿喀琉斯之踵？ ——对模型精度的极高要求，在别的领域，模型幻觉可以一笑了之，但在这里却是人命关天。 这也导致了医疗影像AI长期困在专用模型里。 直到今天，学术期刊的“王者”Science正式刊发一项来自中国的重磅研究： DAMO RADAR，据介绍是全球首个专家级的通用影像AI模型。  这个模型，能看腹部18",
+          "publishedAt": "2026-09-18T06:11:06Z",
+          "published_at": "2026-09-18T06:11:06Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "8983ee22",
+          "title": "刚刚，Claude四周重写30个生物",
+          "title_en": "刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家",
+          "summary_zh": "刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家",
+          "publishedAt": "2026-09-18T22:40:47Z",
+          "published_at": "2026-09-18T22:40:47Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "e2cd666a",
+      "title": "产品更新：Ami AI",
+      "title_en": "Ami AI",
+      "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Lovable for getting customers Most outbound di",
+      "summary_zh": "Lovable for getting customers Most outbound di",
+      "publishedAt": "2026-09-18T07:01:00Z",
+      "published_at": "2026-09-18T07:01:00Z",
+      "votes_count": 430,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "1491",
+          "name": "OpenAI Day",
+          "slug": "openai-day"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "87f0e91c",
+      "title": "产品更新：AINA",
+      "title_en": "AINA",
+      "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Find your job search blind spots with an AI co",
+      "summary_zh": "Find your job search blind spots with an AI co",
+      "publishedAt": "2026-09-18T07:01:00Z",
+      "published_at": "2026-09-18T07:01:00Z",
+      "votes_count": 398,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "835",
+          "name": "Career",
+          "slug": "career"
+        },
+        {
+          "id": "1491",
+          "name": "OpenAI Day",
+          "slug": "openai-day"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "70424f11",
+      "title": "产品更新：MosMos",
+      "title_en": "MosMos",
+      "url": "https://www.producthunt.com/products/mosmos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/mosmos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Voice writing that works before, during, and a",
+      "summary_zh": "Voice writing that works before, during, and a",
+      "publishedAt": "2026-09-18T07:01:00Z",
+      "published_at": "2026-09-18T07:01:00Z",
+      "votes_count": 342,
+      "featured": true,
+      "topics": [
+        {
+          "id": "90",
+          "name": "Writing",
+          "slug": "writing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        },
+        {
+          "id": "1491",
+          "name": "OpenAI Day",
+          "slug": "openai-day"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "cedefee1",
+      "title": "产品更新：ProductBridge",
+      "title_en": "ProductBridge",
+      "url": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI-native customer support and feedback agent",
+      "summary_zh": "AI-native customer support and feedback agent",
+      "publishedAt": "2026-09-18T07:01:00Z",
+      "published_at": "2026-09-18T07:01:00Z",
+      "votes_count": 320,
+      "featured": true,
+      "topics": [
+        {
+          "id": "55",
+          "name": "Customer Success",
+          "slug": "customer-success"
+        },
+        {
+          "id": "123",
+          "name": "Customer Communication",
+          "slug": "customer-communication"
+        },
+        {
+          "id": "1491",
+          "name": "OpenAI Day",
+          "slug": "openai-day"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1210d62e",
+      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/491711.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/491711.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放  Jay 2026-09-18 08:34:34  来源：量子位   Git白学了？？？  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 多人云端Coding的时代，来了。 刚刚，Claude Code的项目功能迎来全面重构，原生支持多Agent玩法。 用户下达目标，Claude在云端派生多条Git分支并行干活，写完直接提PR。 此外，A社还新增了共享记忆，保证Agent之间的上下文对齐。 可以说是彻底超进化了，Project不再只是个放提示词和文档的文件夹。  同一时间，在Anthropic披露的最新报告中，也已看到这项能力的上限： 他们内部研发平台，每天同时跑着3万个AI Agent，在云端疯狂写代码、调模型、跑测试。 是的，3万个。。。 结果就是，自家核心的AI研发工作，现在已经有整整26%由Claude主导，来到L4级别。 半年前，这个数字还不到1%。  一人带一个Agent军团，Claude Code大重构 最新亮相的Claude Code Projects重构版，彻底终结了把Projects当",
+      "summary_zh": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放  Jay 2026-09-18 08:34:34  来源：量子位   Git白学了？？？  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 多人云端Coding的时代，来了。 刚刚，Claude Code的项目功能迎来全面重构，原生支持多Agent玩法。 用户下达目标，Claude在云端派生多条Git分支并行干活，写完直接提PR。 此外，A社还新增了共享记忆，保证Agent之间的上下文对齐。 可以说是彻底超进化了，Project不再只是个放提示词和文档的文件夹。  同一时间，在Anthropic披露的最新报告中，也已看到这项能力的上限： 他们内部研发平台，每天同时跑着3万个AI Agent，在云端疯狂写代码、调模型、跑测试。 是的，3万个。。。 结果就是，自家核心的AI研发工作，现在已经有整整26%由Claude主导，来到L4级别。 半年前，这个数字还不到1%。  一人带一个Agent军团，Claude Code大重构 最新亮相的Claude Code Projects重构版，彻底终结了把Projects当",
+      "publishedAt": "2026-09-18T00:34:34Z",
+      "published_at": "2026-09-18T00:34:34Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "38d54883",
+      "title": "Manus重生第17天，估值居然就翻倍了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/491764.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/491764.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Manus重生第17天，估值居然就翻倍了  衡宇 2026-09-18 08:37:13  来源：量子位   作价40亿美元推进新融资  衡宇 发自 凹非寺 量子位 | 公众号QbitAI Manus恢复自由身才半个多月，“突然”身价倍增了？！ 最新消息，Manus正在推进新一轮约5亿美元融资，目标估值约40亿美元。 这是它与Meta完成拆分、恢复独立运营后的第一轮融资。 据彭博援引知情人士消息，这轮融资已经接近完成，但谈判仍在进行，最终金额和条款仍可能发生变化。 目前，最新新资方身份尚未披露，腾讯、HSG和真格基金等现有股东也没有公开确认是否继续加码。  就在9月1日，Manus才刚刚正式宣布恢复独立运营。 再往前不到一个月，腾讯、真格基金、HSG等Manus老股东刚以约20亿美元的价格——这也是卖给Meta时候的价格——将这家公司买回来。 如果最新一轮融资最终按照40亿美元估值完成，Manus恢复独立运营仅17天，新一轮融资估值就可能比此前回购时翻上一倍。 过去一年半，Manus的身价从5亿美元一路走到20亿美元，再到如今瞄准40亿美元。 中间还经历了一场收购、监管叫停、业务拆分和",
+      "summary_zh": "Manus重生第17天，估值居然就翻倍了  衡宇 2026-09-18 08:37:13  来源：量子位   作价40亿美元推进新融资  衡宇 发自 凹非寺 量子位 | 公众号QbitAI Manus恢复自由身才半个多月，“突然”身价倍增了？！ 最新消息，Manus正在推进新一轮约5亿美元融资，目标估值约40亿美元。 这是它与Meta完成拆分、恢复独立运营后的第一轮融资。 据彭博援引知情人士消息，这轮融资已经接近完成，但谈判仍在进行，最终金额和条款仍可能发生变化。 目前，最新新资方身份尚未披露，腾讯、HSG和真格基金等现有股东也没有公开确认是否继续加码。  就在9月1日，Manus才刚刚正式宣布恢复独立运营。 再往前不到一个月，腾讯、真格基金、HSG等Manus老股东刚以约20亿美元的价格——这也是卖给Meta时候的价格——将这家公司买回来。 如果最新一轮融资最终按照40亿美元估值完成，Manus恢复独立运营仅17天，新一轮融资估值就可能比此前回购时翻上一倍。 过去一年半，Manus的身价从5亿美元一路走到20亿美元，再到如今瞄准40亿美元。 中间还经历了一场收购、监管叫停、业务拆分和",
+      "publishedAt": "2026-09-18T00:37:13Z",
+      "published_at": "2026-09-18T00:37:13Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "7a40aa24",
+      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/491875.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/491875.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线  克雷西 2026-09-18 14:11:06  来源：量子位   用通用AI去啃最硬的骨头，这条路走得通  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI AI正在横扫一切，但有块硬骨头，迟迟攻不下来，让无数人希望落空。 2016年，Hinton老爷子就预言：“人们现在就应该停止培养放射科医生。”他甚至认为，五年内，AI就会在医疗影像识别上超过放射科医生。 老爷子一生谨慎，但历史和他开了个玩笑。十年过去了，人们离AGI已经越来越近，但在医疗场景里，即使图像识别这样的AI新手村任务，依然是hard模式。 如果从IBM的Watson算起，在医疗上遭遇滑铁卢的AI专家数不胜数。 为什么医疗成了AI的阿喀琉斯之踵？ ——对模型精度的极高要求，在别的领域，模型幻觉可以一笑了之，但在这里却是人命关天。 这也导致了医疗影像AI长期困在专用模型里。 直到今天，学术期刊的“王者”Science正式刊发一项来自中国的重磅研究： DAMO RADAR，据介绍是全球首个专家级的通用影像AI模型。  这个模型，能看腹部18",
+      "summary_zh": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线  克雷西 2026-09-18 14:11:06  来源：量子位   用通用AI去啃最硬的骨头，这条路走得通  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI AI正在横扫一切，但有块硬骨头，迟迟攻不下来，让无数人希望落空。 2016年，Hinton老爷子就预言：“人们现在就应该停止培养放射科医生。”他甚至认为，五年内，AI就会在医疗影像识别上超过放射科医生。 老爷子一生谨慎，但历史和他开了个玩笑。十年过去了，人们离AGI已经越来越近，但在医疗场景里，即使图像识别这样的AI新手村任务，依然是hard模式。 如果从IBM的Watson算起，在医疗上遭遇滑铁卢的AI专家数不胜数。 为什么医疗成了AI的阿喀琉斯之踵？ ——对模型精度的极高要求，在别的领域，模型幻觉可以一笑了之，但在这里却是人命关天。 这也导致了医疗影像AI长期困在专用模型里。 直到今天，学术期刊的“王者”Science正式刊发一项来自中国的重磅研究： DAMO RADAR，据介绍是全球首个专家级的通用影像AI模型。  这个模型，能看腹部18",
+      "publishedAt": "2026-09-18T06:11:06Z",
+      "published_at": "2026-09-18T06:11:06Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "8983ee22",
+      "title": "刚刚，Claude四周重写30个生物",
+      "title_en": "刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家",
+      "summary_zh": "刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家",
+      "publishedAt": "2026-09-18T22:40:47Z",
+      "published_at": "2026-09-18T22:40:47Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

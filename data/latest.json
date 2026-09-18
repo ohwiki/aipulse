@@ -1,10 +1,53 @@
 {
-  "generated_at": "2026-09-18T13:03:55Z",
-  "generatedAt": "2026-09-18T13:03:55Z",
+  "generated_at": "2026-09-18T22:41:27Z",
+  "generatedAt": "2026-09-18T22:41:27Z",
   "days": 7,
   "total": 8,
   "count": 8,
   "items": [
+    {
+      "id": "e2cd666a",
+      "title": "产品更新：Ami AI",
+      "title_en": "Ami AI",
+      "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Lovable for getting customers Most outbound di",
+      "summary_zh": "Lovable for getting customers Most outbound di",
+      "publishedAt": "2026-09-18T07:01:00Z",
+      "published_at": "2026-09-18T07:01:00Z",
+      "votes_count": 430,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "1491",
+          "name": "OpenAI Day",
+          "slug": "openai-day"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "87f0e91c",
       "title": "产品更新：AINA",
@@ -22,7 +65,7 @@
       "summary_zh": "Find your job search blind spots with an AI co",
       "publishedAt": "2026-09-18T07:01:00Z",
       "published_at": "2026-09-18T07:01:00Z",
-      "votes_count": 254,
+      "votes_count": 398,
       "featured": true,
       "topics": [
         {
@@ -65,7 +108,7 @@
       "summary_zh": "Voice writing that works before, during, and a",
       "publishedAt": "2026-09-18T07:01:00Z",
       "published_at": "2026-09-18T07:01:00Z",
-      "votes_count": 235,
+      "votes_count": 342,
       "featured": true,
       "topics": [
         {
@@ -92,82 +135,34 @@
       "score_details": null
     },
     {
-      "id": "2cb111b9",
-      "title": "产品更新：Sider Omni Side",
-      "title_en": "Sider Omni Sidebar",
-      "url": "https://www.producthunt.com/products/sider-omni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "cedefee1",
+      "title": "产品更新：ProductBridge",
+      "title_en": "ProductBridge",
+      "url": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/sider-omni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Give every Mac app an Agent Sidebar An AI agen",
-      "summary_zh": "Give every Mac app an Agent Sidebar An AI agen",
+      "summary": "AI-native customer support and feedback agent",
+      "summary_zh": "AI-native customer support and feedback agent",
       "publishedAt": "2026-09-18T07:01:00Z",
       "published_at": "2026-09-18T07:01:00Z",
-      "votes_count": 215,
+      "votes_count": 320,
       "featured": true,
       "topics": [
         {
-          "id": "19",
-          "name": "Mac",
-          "slug": "mac"
+          "id": "55",
+          "name": "Customer Success",
+          "slug": "customer-success"
         },
         {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "1491",
-          "name": "OpenAI Day",
-          "slug": "openai-day"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "0990cd9a",
-      "title": "产品更新：Keysake",
-      "title_en": "Keysake",
-      "url": "https://www.producthunt.com/products/keysake-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/keysake-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Learn English as you type Chinese Learn Englis",
-      "summary_zh": "Learn English as you type Chinese Learn Englis",
-      "publishedAt": "2026-09-18T07:01:00Z",
-      "published_at": "2026-09-18T07:01:00Z",
-      "votes_count": 191,
-      "featured": true,
-      "topics": [
-        {
-          "id": "204",
-          "name": "Education",
-          "slug": "education"
-        },
-        {
-          "id": "209",
-          "name": "Languages",
-          "slug": "languages"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
+          "id": "123",
+          "name": "Customer Communication",
+          "slug": "customer-communication"
         },
         {
           "id": "1491",
@@ -258,8 +253,8 @@
       "rankingScore": 5.0,
       "summary": "刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家",
       "summary_zh": "刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家",
-      "publishedAt": "2026-09-18T13:03:21Z",
-      "published_at": "2026-09-18T13:03:21Z",
+      "publishedAt": "2026-09-18T22:40:47Z",
+      "published_at": "2026-09-18T22:40:47Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
