@@ -1,248 +1,75 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-18T22:41:27Z",
-  "generatedAt": "2026-09-18T22:41:27Z",
-  "total": 8,
-  "count": 8,
+  "generated_at": "2026-09-19T12:37:08Z",
+  "generatedAt": "2026-09-19T12:37:08Z",
+  "total": 4,
+  "count": 4,
   "sections": [
-    {
-      "category": "ai-products",
-      "label": "产品发布/更新",
-      "items": [
-        {
-          "id": "e2cd666a",
-          "title": "产品更新：Ami AI",
-          "title_en": "Ami AI",
-          "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Lovable for getting customers Most outbound di",
-          "summary_zh": "Lovable for getting customers Most outbound di",
-          "publishedAt": "2026-09-18T07:01:00Z",
-          "published_at": "2026-09-18T07:01:00Z",
-          "votes_count": 430,
-          "featured": true,
-          "topics": [
-            {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "1491",
-              "name": "OpenAI Day",
-              "slug": "openai-day"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "87f0e91c",
-          "title": "产品更新：AINA",
-          "title_en": "AINA",
-          "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Find your job search blind spots with an AI co",
-          "summary_zh": "Find your job search blind spots with an AI co",
-          "publishedAt": "2026-09-18T07:01:00Z",
-          "published_at": "2026-09-18T07:01:00Z",
-          "votes_count": 398,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "835",
-              "name": "Career",
-              "slug": "career"
-            },
-            {
-              "id": "1491",
-              "name": "OpenAI Day",
-              "slug": "openai-day"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "70424f11",
-          "title": "产品更新：MosMos",
-          "title_en": "MosMos",
-          "url": "https://www.producthunt.com/products/mosmos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/mosmos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Voice writing that works before, during, and a",
-          "summary_zh": "Voice writing that works before, during, and a",
-          "publishedAt": "2026-09-18T07:01:00Z",
-          "published_at": "2026-09-18T07:01:00Z",
-          "votes_count": 342,
-          "featured": true,
-          "topics": [
-            {
-              "id": "90",
-              "name": "Writing",
-              "slug": "writing"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "471",
-              "name": "Audio",
-              "slug": "audio"
-            },
-            {
-              "id": "1491",
-              "name": "OpenAI Day",
-              "slug": "openai-day"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "cedefee1",
-          "title": "产品更新：ProductBridge",
-          "title_en": "ProductBridge",
-          "url": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "AI-native customer support and feedback agent",
-          "summary_zh": "AI-native customer support and feedback agent",
-          "publishedAt": "2026-09-18T07:01:00Z",
-          "published_at": "2026-09-18T07:01:00Z",
-          "votes_count": 320,
-          "featured": true,
-          "topics": [
-            {
-              "id": "55",
-              "name": "Customer Success",
-              "slug": "customer-success"
-            },
-            {
-              "id": "123",
-              "name": "Customer Communication",
-              "slug": "customer-communication"
-            },
-            {
-              "id": "1491",
-              "name": "OpenAI Day",
-              "slug": "openai-day"
-            }
-          ],
-          "score_details": null
-        }
-      ]
-    },
     {
       "category": "cn-media",
       "label": "中文媒体精选",
       "items": [
         {
-          "id": "1210d62e",
-          "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+          "id": "3364f27b",
+          "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/09/491711.html",
+          "url": "https://www.qbitai.com/2026/09/492421.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/09/491711.html",
+          "sourceUrl": "https://www.qbitai.com/2026/09/492421.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放  Jay 2026-09-18 08:34:34  来源：量子位   Git白学了？？？  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 多人云端Coding的时代，来了。 刚刚，Claude Code的项目功能迎来全面重构，原生支持多Agent玩法。 用户下达目标，Claude在云端派生多条Git分支并行干活，写完直接提PR。 此外，A社还新增了共享记忆，保证Agent之间的上下文对齐。 可以说是彻底超进化了，Project不再只是个放提示词和文档的文件夹。  同一时间，在Anthropic披露的最新报告中，也已看到这项能力的上限： 他们内部研发平台，每天同时跑着3万个AI Agent，在云端疯狂写代码、调模型、跑测试。 是的，3万个。。。 结果就是，自家核心的AI研发工作，现在已经有整整26%由Claude主导，来到L4级别。 半年前，这个数字还不到1%。  一人带一个Agent军团，Claude Code大重构 最新亮相的Claude Code Projects重构版，彻底终结了把Projects当",
-          "summary_zh": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放  Jay 2026-09-18 08:34:34  来源：量子位   Git白学了？？？  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 多人云端Coding的时代，来了。 刚刚，Claude Code的项目功能迎来全面重构，原生支持多Agent玩法。 用户下达目标，Claude在云端派生多条Git分支并行干活，写完直接提PR。 此外，A社还新增了共享记忆，保证Agent之间的上下文对齐。 可以说是彻底超进化了，Project不再只是个放提示词和文档的文件夹。  同一时间，在Anthropic披露的最新报告中，也已看到这项能力的上限： 他们内部研发平台，每天同时跑着3万个AI Agent，在云端疯狂写代码、调模型、跑测试。 是的，3万个。。。 结果就是，自家核心的AI研发工作，现在已经有整整26%由Claude主导，来到L4级别。 半年前，这个数字还不到1%。  一人带一个Agent军团，Claude Code大重构 最新亮相的Claude Code Projects重构版，彻底终结了把Projects当",
-          "publishedAt": "2026-09-18T00:34:34Z",
-          "published_at": "2026-09-18T00:34:34Z",
+          "summary": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布  量子位的朋友们 2026-09-18 23:50:20  来源：量子位   成果中唯一聚焦算电协同全链路运营的AI技术产品  9月15日-17日，2026能源绿色发展大会・国际数字能源展在深圳举办。展会首次以“一会一展”深度融合模式打造全球数字能源产业盛会，集中发布近百项前沿创新成果。达卯科技自主研发的「算电协同2.0平台・AIDC绿电直连能源运营操作系统」成功入选重大成果发布，也是成果中唯一聚焦算电协同全链路运营的AI技术产品。    本届展会规格高、链条全，超五万平米展览和会议空间围绕跨界、协同、融合主线，全景呈现能源产业数字化智能化前景。50余个国家和地区近400家企业参展参会，专业观众超7万人次。 人工智能产业爆发式增长，算力与能源的协同发展成为本次展会聚焦的核心产业议题。在政策体系持续迭代完善下，绿电直连模式为算力基础设施的建设发展打开全新格局。新型算力中心通过与新能源场站直连对接，既保障能源供给，缓解电网整体容量压力，又能推动高增长算力负荷的清洁低碳转型，实现系统能源利用最大化。然而，绿电直连当前却也普遍面",
+          "summary_zh": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布  量子位的朋友们 2026-09-18 23:50:20  来源：量子位   成果中唯一聚焦算电协同全链路运营的AI技术产品  9月15日-17日，2026能源绿色发展大会・国际数字能源展在深圳举办。展会首次以“一会一展”深度融合模式打造全球数字能源产业盛会，集中发布近百项前沿创新成果。达卯科技自主研发的「算电协同2.0平台・AIDC绿电直连能源运营操作系统」成功入选重大成果发布，也是成果中唯一聚焦算电协同全链路运营的AI技术产品。    本届展会规格高、链条全，超五万平米展览和会议空间围绕跨界、协同、融合主线，全景呈现能源产业数字化智能化前景。50余个国家和地区近400家企业参展参会，专业观众超7万人次。 人工智能产业爆发式增长，算力与能源的协同发展成为本次展会聚焦的核心产业议题。在政策体系持续迭代完善下，绿电直连模式为算力基础设施的建设发展打开全新格局。新型算力中心通过与新能源场站直连对接，既保障能源供给，缓解电网整体容量压力，又能推动高增长算力负荷的清洁低碳转型，实现系统能源利用最大化。然而，绿电直连当前却也普遍面",
+          "publishedAt": "2026-09-18T15:50:20Z",
+          "published_at": "2026-09-18T15:50:20Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "38d54883",
-          "title": "Manus重生第17天，估值居然就翻倍了",
+          "id": "1cf79159",
+          "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/09/491764.html",
+          "url": "https://www.qbitai.com/2026/09/492426.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/09/491764.html",
+          "sourceUrl": "https://www.qbitai.com/2026/09/492426.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "Manus重生第17天，估值居然就翻倍了  衡宇 2026-09-18 08:37:13  来源：量子位   作价40亿美元推进新融资  衡宇 发自 凹非寺 量子位 | 公众号QbitAI Manus恢复自由身才半个多月，“突然”身价倍增了？！ 最新消息，Manus正在推进新一轮约5亿美元融资，目标估值约40亿美元。 这是它与Meta完成拆分、恢复独立运营后的第一轮融资。 据彭博援引知情人士消息，这轮融资已经接近完成，但谈判仍在进行，最终金额和条款仍可能发生变化。 目前，最新新资方身份尚未披露，腾讯、HSG和真格基金等现有股东也没有公开确认是否继续加码。  就在9月1日，Manus才刚刚正式宣布恢复独立运营。 再往前不到一个月，腾讯、真格基金、HSG等Manus老股东刚以约20亿美元的价格——这也是卖给Meta时候的价格——将这家公司买回来。 如果最新一轮融资最终按照40亿美元估值完成，Manus恢复独立运营仅17天，新一轮融资估值就可能比此前回购时翻上一倍。 过去一年半，Manus的身价从5亿美元一路走到20亿美元，再到如今瞄准40亿美元。 中间还经历了一场收购、监管叫停、业务拆分和",
-          "summary_zh": "Manus重生第17天，估值居然就翻倍了  衡宇 2026-09-18 08:37:13  来源：量子位   作价40亿美元推进新融资  衡宇 发自 凹非寺 量子位 | 公众号QbitAI Manus恢复自由身才半个多月，“突然”身价倍增了？！ 最新消息，Manus正在推进新一轮约5亿美元融资，目标估值约40亿美元。 这是它与Meta完成拆分、恢复独立运营后的第一轮融资。 据彭博援引知情人士消息，这轮融资已经接近完成，但谈判仍在进行，最终金额和条款仍可能发生变化。 目前，最新新资方身份尚未披露，腾讯、HSG和真格基金等现有股东也没有公开确认是否继续加码。  就在9月1日，Manus才刚刚正式宣布恢复独立运营。 再往前不到一个月，腾讯、真格基金、HSG等Manus老股东刚以约20亿美元的价格——这也是卖给Meta时候的价格——将这家公司买回来。 如果最新一轮融资最终按照40亿美元估值完成，Manus恢复独立运营仅17天，新一轮融资估值就可能比此前回购时翻上一倍。 过去一年半，Manus的身价从5亿美元一路走到20亿美元，再到如今瞄准40亿美元。 中间还经历了一场收购、监管叫停、业务拆分和",
-          "publishedAt": "2026-09-18T00:37:13Z",
-          "published_at": "2026-09-18T00:37:13Z",
+          "summary": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向  量子位的朋友们 2026-09-18 23:58:21  来源：量子位   协同布局AI基础设施  9月17日，上海无问芯穹智能科技股份有限公司（以下简称“无问芯穹”）与北京华环电子股份有限公司（以下简称“华环电子”）签署战略合作框架协议。双方将结合各自产业与技术优势，围绕AI基础设施创新与产业应用深化合作，共同探索算力与网络协同发展新模式。此次签约标志着双方在AI基础设施领域的协同进入新阶段，将推动计算、网络与AI原生基础设施深度融合，为人工智能规模化应用提供更加高效、稳定和开放的基础设施支撑。    华环电子党总支书记、董事长郭萌，无问芯穹上海总经理曾书霖代表签约； 清控集团党委书记、董事长甄佳，清华大学电子工程系长聘教授、IEEE Fellow汪玉，无问芯穹CTO李伯勋见证签约。 优势互补，协同布局AI基础设施 随着大模型和智能体应用加速发展，AI基础设施正从单一算力资源为中心，转向计算、网络、软件平台与模型服务的系统协同。华环电子是国家级专精特新重点“小巨人”企业，与清华大学电子工程系、清华科技产业体系有",
+          "summary_zh": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向  量子位的朋友们 2026-09-18 23:58:21  来源：量子位   协同布局AI基础设施  9月17日，上海无问芯穹智能科技股份有限公司（以下简称“无问芯穹”）与北京华环电子股份有限公司（以下简称“华环电子”）签署战略合作框架协议。双方将结合各自产业与技术优势，围绕AI基础设施创新与产业应用深化合作，共同探索算力与网络协同发展新模式。此次签约标志着双方在AI基础设施领域的协同进入新阶段，将推动计算、网络与AI原生基础设施深度融合，为人工智能规模化应用提供更加高效、稳定和开放的基础设施支撑。    华环电子党总支书记、董事长郭萌，无问芯穹上海总经理曾书霖代表签约； 清控集团党委书记、董事长甄佳，清华大学电子工程系长聘教授、IEEE Fellow汪玉，无问芯穹CTO李伯勋见证签约。 优势互补，协同布局AI基础设施 随着大模型和智能体应用加速发展，AI基础设施正从单一算力资源为中心，转向计算、网络、软件平台与模型服务的系统协同。华环电子是国家级专精特新重点“小巨人”企业，与清华大学电子工程系、清华科技产业体系有",
+          "publishedAt": "2026-09-18T15:58:21Z",
+          "published_at": "2026-09-18T15:58:21Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "7a40aa24",
-          "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+          "id": "e3ad47cf",
+          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/09/491875.html",
+          "url": "https://www.qbitai.com/2026/09/492429.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/09/491875.html",
+          "sourceUrl": "https://www.qbitai.com/2026/09/492429.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线  克雷西 2026-09-18 14:11:06  来源：量子位   用通用AI去啃最硬的骨头，这条路走得通  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI AI正在横扫一切，但有块硬骨头，迟迟攻不下来，让无数人希望落空。 2016年，Hinton老爷子就预言：“人们现在就应该停止培养放射科医生。”他甚至认为，五年内，AI就会在医疗影像识别上超过放射科医生。 老爷子一生谨慎，但历史和他开了个玩笑。十年过去了，人们离AGI已经越来越近，但在医疗场景里，即使图像识别这样的AI新手村任务，依然是hard模式。 如果从IBM的Watson算起，在医疗上遭遇滑铁卢的AI专家数不胜数。 为什么医疗成了AI的阿喀琉斯之踵？ ——对模型精度的极高要求，在别的领域，模型幻觉可以一笑了之，但在这里却是人命关天。 这也导致了医疗影像AI长期困在专用模型里。 直到今天，学术期刊的“王者”Science正式刊发一项来自中国的重磅研究： DAMO RADAR，据介绍是全球首个专家级的通用影像AI模型。  这个模型，能看腹部18",
-          "summary_zh": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线  克雷西 2026-09-18 14:11:06  来源：量子位   用通用AI去啃最硬的骨头，这条路走得通  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI AI正在横扫一切，但有块硬骨头，迟迟攻不下来，让无数人希望落空。 2016年，Hinton老爷子就预言：“人们现在就应该停止培养放射科医生。”他甚至认为，五年内，AI就会在医疗影像识别上超过放射科医生。 老爷子一生谨慎，但历史和他开了个玩笑。十年过去了，人们离AGI已经越来越近，但在医疗场景里，即使图像识别这样的AI新手村任务，依然是hard模式。 如果从IBM的Watson算起，在医疗上遭遇滑铁卢的AI专家数不胜数。 为什么医疗成了AI的阿喀琉斯之踵？ ——对模型精度的极高要求，在别的领域，模型幻觉可以一笑了之，但在这里却是人命关天。 这也导致了医疗影像AI长期困在专用模型里。 直到今天，学术期刊的“王者”Science正式刊发一项来自中国的重磅研究： DAMO RADAR，据介绍是全球首个专家级的通用影像AI模型。  这个模型，能看腹部18",
-          "publishedAt": "2026-09-18T06:11:06Z",
-          "published_at": "2026-09-18T06:11:06Z",
+          "summary": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水  梦瑶 2026-09-19 14:39:32  来源：量子位   同一预测核心，跨七类系统验证  衡宇 发自 凹非寺 量子位 | 公众号 QbitAI 一篇技术报告中居然出现了两个看起来风马牛不相及的研究对象，跟着AI真是见世面。 一个是患者来源的类器官，另一个则跨越到了宏观宇宙…… 先说前者。研究者利用模型学到的内部因子，提出了细胞因子联合抗体阻断的干预方案，并经细胞系、类器官、小鼠实验层层验证。 至于后者，研究者把模拟的行星位置和速度轨迹喂给模型，不告诉它开普勒定律。 等它学完后分析其内部的预测模式，提取出的“轨道频率-半长轴”关系拟合斜率达-1.4991（开普勒第三定律理论值为-1.5），且R²=0.99999999。 肿瘤研究和行星轨道计算两个八竿子打不着的领域，居然能用同一种预测学习方法来搞定。 大千世界千差万别，天气、分子、细胞、病人、机器人乃至行星，各自遵循完全不同的规律。 但AI在理解它们“如何变化”时，有没有可能共享一套更底层的方法？ 最近，PhAI Labs联合牛津、斯坦福、普林斯顿、港中文等高校团队最新发布",
+          "summary_zh": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水  梦瑶 2026-09-19 14:39:32  来源：量子位   同一预测核心，跨七类系统验证  衡宇 发自 凹非寺 量子位 | 公众号 QbitAI 一篇技术报告中居然出现了两个看起来风马牛不相及的研究对象，跟着AI真是见世面。 一个是患者来源的类器官，另一个则跨越到了宏观宇宙…… 先说前者。研究者利用模型学到的内部因子，提出了细胞因子联合抗体阻断的干预方案，并经细胞系、类器官、小鼠实验层层验证。 至于后者，研究者把模拟的行星位置和速度轨迹喂给模型，不告诉它开普勒定律。 等它学完后分析其内部的预测模式，提取出的“轨道频率-半长轴”关系拟合斜率达-1.4991（开普勒第三定律理论值为-1.5），且R²=0.99999999。 肿瘤研究和行星轨道计算两个八竿子打不着的领域，居然能用同一种预测学习方法来搞定。 大千世界千差万别，天气、分子、细胞、病人、机器人乃至行星，各自遵循完全不同的规律。 但AI在理解它们“如何变化”时，有没有可能共享一套更底层的方法？ 最近，PhAI Labs联合牛津、斯坦福、普林斯顿、港中文等高校团队最新发布",
+          "publishedAt": "2026-09-19T06:39:32Z",
+          "published_at": "2026-09-19T06:39:32Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -263,8 +90,8 @@
           "rankingScore": 5.0,
           "summary": "刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家",
           "summary_zh": "刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家",
-          "publishedAt": "2026-09-18T22:40:47Z",
-          "published_at": "2026-09-18T22:40:47Z",
+          "publishedAt": "2026-09-19T12:36:22Z",
+          "published_at": "2026-09-19T12:36:22Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -275,233 +102,66 @@
   ],
   "items": [
     {
-      "id": "e2cd666a",
-      "title": "产品更新：Ami AI",
-      "title_en": "Ami AI",
-      "url": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/ami-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Lovable for getting customers Most outbound di",
-      "summary_zh": "Lovable for getting customers Most outbound di",
-      "publishedAt": "2026-09-18T07:01:00Z",
-      "published_at": "2026-09-18T07:01:00Z",
-      "votes_count": 430,
-      "featured": true,
-      "topics": [
-        {
-          "id": "71",
-          "name": "Sales",
-          "slug": "sales"
-        },
-        {
-          "id": "164",
-          "name": "Marketing",
-          "slug": "marketing"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "1491",
-          "name": "OpenAI Day",
-          "slug": "openai-day"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "87f0e91c",
-      "title": "产品更新：AINA",
-      "title_en": "AINA",
-      "url": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/aina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Find your job search blind spots with an AI co",
-      "summary_zh": "Find your job search blind spots with an AI co",
-      "publishedAt": "2026-09-18T07:01:00Z",
-      "published_at": "2026-09-18T07:01:00Z",
-      "votes_count": 398,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "835",
-          "name": "Career",
-          "slug": "career"
-        },
-        {
-          "id": "1491",
-          "name": "OpenAI Day",
-          "slug": "openai-day"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "70424f11",
-      "title": "产品更新：MosMos",
-      "title_en": "MosMos",
-      "url": "https://www.producthunt.com/products/mosmos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/mosmos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Voice writing that works before, during, and a",
-      "summary_zh": "Voice writing that works before, during, and a",
-      "publishedAt": "2026-09-18T07:01:00Z",
-      "published_at": "2026-09-18T07:01:00Z",
-      "votes_count": 342,
-      "featured": true,
-      "topics": [
-        {
-          "id": "90",
-          "name": "Writing",
-          "slug": "writing"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "471",
-          "name": "Audio",
-          "slug": "audio"
-        },
-        {
-          "id": "1491",
-          "name": "OpenAI Day",
-          "slug": "openai-day"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "cedefee1",
-      "title": "产品更新：ProductBridge",
-      "title_en": "ProductBridge",
-      "url": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "AI-native customer support and feedback agent",
-      "summary_zh": "AI-native customer support and feedback agent",
-      "publishedAt": "2026-09-18T07:01:00Z",
-      "published_at": "2026-09-18T07:01:00Z",
-      "votes_count": 320,
-      "featured": true,
-      "topics": [
-        {
-          "id": "55",
-          "name": "Customer Success",
-          "slug": "customer-success"
-        },
-        {
-          "id": "123",
-          "name": "Customer Communication",
-          "slug": "customer-communication"
-        },
-        {
-          "id": "1491",
-          "name": "OpenAI Day",
-          "slug": "openai-day"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "1210d62e",
-      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "id": "3364f27b",
+      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/491711.html",
+      "url": "https://www.qbitai.com/2026/09/492421.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/491711.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/492421.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放  Jay 2026-09-18 08:34:34  来源：量子位   Git白学了？？？  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 多人云端Coding的时代，来了。 刚刚，Claude Code的项目功能迎来全面重构，原生支持多Agent玩法。 用户下达目标，Claude在云端派生多条Git分支并行干活，写完直接提PR。 此外，A社还新增了共享记忆，保证Agent之间的上下文对齐。 可以说是彻底超进化了，Project不再只是个放提示词和文档的文件夹。  同一时间，在Anthropic披露的最新报告中，也已看到这项能力的上限： 他们内部研发平台，每天同时跑着3万个AI Agent，在云端疯狂写代码、调模型、跑测试。 是的，3万个。。。 结果就是，自家核心的AI研发工作，现在已经有整整26%由Claude主导，来到L4级别。 半年前，这个数字还不到1%。  一人带一个Agent军团，Claude Code大重构 最新亮相的Claude Code Projects重构版，彻底终结了把Projects当",
-      "summary_zh": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放  Jay 2026-09-18 08:34:34  来源：量子位   Git白学了？？？  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 多人云端Coding的时代，来了。 刚刚，Claude Code的项目功能迎来全面重构，原生支持多Agent玩法。 用户下达目标，Claude在云端派生多条Git分支并行干活，写完直接提PR。 此外，A社还新增了共享记忆，保证Agent之间的上下文对齐。 可以说是彻底超进化了，Project不再只是个放提示词和文档的文件夹。  同一时间，在Anthropic披露的最新报告中，也已看到这项能力的上限： 他们内部研发平台，每天同时跑着3万个AI Agent，在云端疯狂写代码、调模型、跑测试。 是的，3万个。。。 结果就是，自家核心的AI研发工作，现在已经有整整26%由Claude主导，来到L4级别。 半年前，这个数字还不到1%。  一人带一个Agent军团，Claude Code大重构 最新亮相的Claude Code Projects重构版，彻底终结了把Projects当",
-      "publishedAt": "2026-09-18T00:34:34Z",
-      "published_at": "2026-09-18T00:34:34Z",
+      "summary": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布  量子位的朋友们 2026-09-18 23:50:20  来源：量子位   成果中唯一聚焦算电协同全链路运营的AI技术产品  9月15日-17日，2026能源绿色发展大会・国际数字能源展在深圳举办。展会首次以“一会一展”深度融合模式打造全球数字能源产业盛会，集中发布近百项前沿创新成果。达卯科技自主研发的「算电协同2.0平台・AIDC绿电直连能源运营操作系统」成功入选重大成果发布，也是成果中唯一聚焦算电协同全链路运营的AI技术产品。    本届展会规格高、链条全，超五万平米展览和会议空间围绕跨界、协同、融合主线，全景呈现能源产业数字化智能化前景。50余个国家和地区近400家企业参展参会，专业观众超7万人次。 人工智能产业爆发式增长，算力与能源的协同发展成为本次展会聚焦的核心产业议题。在政策体系持续迭代完善下，绿电直连模式为算力基础设施的建设发展打开全新格局。新型算力中心通过与新能源场站直连对接，既保障能源供给，缓解电网整体容量压力，又能推动高增长算力负荷的清洁低碳转型，实现系统能源利用最大化。然而，绿电直连当前却也普遍面",
+      "summary_zh": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布  量子位的朋友们 2026-09-18 23:50:20  来源：量子位   成果中唯一聚焦算电协同全链路运营的AI技术产品  9月15日-17日，2026能源绿色发展大会・国际数字能源展在深圳举办。展会首次以“一会一展”深度融合模式打造全球数字能源产业盛会，集中发布近百项前沿创新成果。达卯科技自主研发的「算电协同2.0平台・AIDC绿电直连能源运营操作系统」成功入选重大成果发布，也是成果中唯一聚焦算电协同全链路运营的AI技术产品。    本届展会规格高、链条全，超五万平米展览和会议空间围绕跨界、协同、融合主线，全景呈现能源产业数字化智能化前景。50余个国家和地区近400家企业参展参会，专业观众超7万人次。 人工智能产业爆发式增长，算力与能源的协同发展成为本次展会聚焦的核心产业议题。在政策体系持续迭代完善下，绿电直连模式为算力基础设施的建设发展打开全新格局。新型算力中心通过与新能源场站直连对接，既保障能源供给，缓解电网整体容量压力，又能推动高增长算力负荷的清洁低碳转型，实现系统能源利用最大化。然而，绿电直连当前却也普遍面",
+      "publishedAt": "2026-09-18T15:50:20Z",
+      "published_at": "2026-09-18T15:50:20Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "38d54883",
-      "title": "Manus重生第17天，估值居然就翻倍了",
+      "id": "1cf79159",
+      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/491764.html",
+      "url": "https://www.qbitai.com/2026/09/492426.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/491764.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/492426.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "Manus重生第17天，估值居然就翻倍了  衡宇 2026-09-18 08:37:13  来源：量子位   作价40亿美元推进新融资  衡宇 发自 凹非寺 量子位 | 公众号QbitAI Manus恢复自由身才半个多月，“突然”身价倍增了？！ 最新消息，Manus正在推进新一轮约5亿美元融资，目标估值约40亿美元。 这是它与Meta完成拆分、恢复独立运营后的第一轮融资。 据彭博援引知情人士消息，这轮融资已经接近完成，但谈判仍在进行，最终金额和条款仍可能发生变化。 目前，最新新资方身份尚未披露，腾讯、HSG和真格基金等现有股东也没有公开确认是否继续加码。  就在9月1日，Manus才刚刚正式宣布恢复独立运营。 再往前不到一个月，腾讯、真格基金、HSG等Manus老股东刚以约20亿美元的价格——这也是卖给Meta时候的价格——将这家公司买回来。 如果最新一轮融资最终按照40亿美元估值完成，Manus恢复独立运营仅17天，新一轮融资估值就可能比此前回购时翻上一倍。 过去一年半，Manus的身价从5亿美元一路走到20亿美元，再到如今瞄准40亿美元。 中间还经历了一场收购、监管叫停、业务拆分和",
-      "summary_zh": "Manus重生第17天，估值居然就翻倍了  衡宇 2026-09-18 08:37:13  来源：量子位   作价40亿美元推进新融资  衡宇 发自 凹非寺 量子位 | 公众号QbitAI Manus恢复自由身才半个多月，“突然”身价倍增了？！ 最新消息，Manus正在推进新一轮约5亿美元融资，目标估值约40亿美元。 这是它与Meta完成拆分、恢复独立运营后的第一轮融资。 据彭博援引知情人士消息，这轮融资已经接近完成，但谈判仍在进行，最终金额和条款仍可能发生变化。 目前，最新新资方身份尚未披露，腾讯、HSG和真格基金等现有股东也没有公开确认是否继续加码。  就在9月1日，Manus才刚刚正式宣布恢复独立运营。 再往前不到一个月，腾讯、真格基金、HSG等Manus老股东刚以约20亿美元的价格——这也是卖给Meta时候的价格——将这家公司买回来。 如果最新一轮融资最终按照40亿美元估值完成，Manus恢复独立运营仅17天，新一轮融资估值就可能比此前回购时翻上一倍。 过去一年半，Manus的身价从5亿美元一路走到20亿美元，再到如今瞄准40亿美元。 中间还经历了一场收购、监管叫停、业务拆分和",
-      "publishedAt": "2026-09-18T00:37:13Z",
-      "published_at": "2026-09-18T00:37:13Z",
+      "summary": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向  量子位的朋友们 2026-09-18 23:58:21  来源：量子位   协同布局AI基础设施  9月17日，上海无问芯穹智能科技股份有限公司（以下简称“无问芯穹”）与北京华环电子股份有限公司（以下简称“华环电子”）签署战略合作框架协议。双方将结合各自产业与技术优势，围绕AI基础设施创新与产业应用深化合作，共同探索算力与网络协同发展新模式。此次签约标志着双方在AI基础设施领域的协同进入新阶段，将推动计算、网络与AI原生基础设施深度融合，为人工智能规模化应用提供更加高效、稳定和开放的基础设施支撑。    华环电子党总支书记、董事长郭萌，无问芯穹上海总经理曾书霖代表签约； 清控集团党委书记、董事长甄佳，清华大学电子工程系长聘教授、IEEE Fellow汪玉，无问芯穹CTO李伯勋见证签约。 优势互补，协同布局AI基础设施 随着大模型和智能体应用加速发展，AI基础设施正从单一算力资源为中心，转向计算、网络、软件平台与模型服务的系统协同。华环电子是国家级专精特新重点“小巨人”企业，与清华大学电子工程系、清华科技产业体系有",
+      "summary_zh": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向  量子位的朋友们 2026-09-18 23:58:21  来源：量子位   协同布局AI基础设施  9月17日，上海无问芯穹智能科技股份有限公司（以下简称“无问芯穹”）与北京华环电子股份有限公司（以下简称“华环电子”）签署战略合作框架协议。双方将结合各自产业与技术优势，围绕AI基础设施创新与产业应用深化合作，共同探索算力与网络协同发展新模式。此次签约标志着双方在AI基础设施领域的协同进入新阶段，将推动计算、网络与AI原生基础设施深度融合，为人工智能规模化应用提供更加高效、稳定和开放的基础设施支撑。    华环电子党总支书记、董事长郭萌，无问芯穹上海总经理曾书霖代表签约； 清控集团党委书记、董事长甄佳，清华大学电子工程系长聘教授、IEEE Fellow汪玉，无问芯穹CTO李伯勋见证签约。 优势互补，协同布局AI基础设施 随着大模型和智能体应用加速发展，AI基础设施正从单一算力资源为中心，转向计算、网络、软件平台与模型服务的系统协同。华环电子是国家级专精特新重点“小巨人”企业，与清华大学电子工程系、清华科技产业体系有",
+      "publishedAt": "2026-09-18T15:58:21Z",
+      "published_at": "2026-09-18T15:58:21Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "7a40aa24",
-      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+      "id": "e3ad47cf",
+      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/491875.html",
+      "url": "https://www.qbitai.com/2026/09/492429.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/491875.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/492429.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线  克雷西 2026-09-18 14:11:06  来源：量子位   用通用AI去啃最硬的骨头，这条路走得通  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI AI正在横扫一切，但有块硬骨头，迟迟攻不下来，让无数人希望落空。 2016年，Hinton老爷子就预言：“人们现在就应该停止培养放射科医生。”他甚至认为，五年内，AI就会在医疗影像识别上超过放射科医生。 老爷子一生谨慎，但历史和他开了个玩笑。十年过去了，人们离AGI已经越来越近，但在医疗场景里，即使图像识别这样的AI新手村任务，依然是hard模式。 如果从IBM的Watson算起，在医疗上遭遇滑铁卢的AI专家数不胜数。 为什么医疗成了AI的阿喀琉斯之踵？ ——对模型精度的极高要求，在别的领域，模型幻觉可以一笑了之，但在这里却是人命关天。 这也导致了医疗影像AI长期困在专用模型里。 直到今天，学术期刊的“王者”Science正式刊发一项来自中国的重磅研究： DAMO RADAR，据介绍是全球首个专家级的通用影像AI模型。  这个模型，能看腹部18",
-      "summary_zh": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线  克雷西 2026-09-18 14:11:06  来源：量子位   用通用AI去啃最硬的骨头，这条路走得通  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI AI正在横扫一切，但有块硬骨头，迟迟攻不下来，让无数人希望落空。 2016年，Hinton老爷子就预言：“人们现在就应该停止培养放射科医生。”他甚至认为，五年内，AI就会在医疗影像识别上超过放射科医生。 老爷子一生谨慎，但历史和他开了个玩笑。十年过去了，人们离AGI已经越来越近，但在医疗场景里，即使图像识别这样的AI新手村任务，依然是hard模式。 如果从IBM的Watson算起，在医疗上遭遇滑铁卢的AI专家数不胜数。 为什么医疗成了AI的阿喀琉斯之踵？ ——对模型精度的极高要求，在别的领域，模型幻觉可以一笑了之，但在这里却是人命关天。 这也导致了医疗影像AI长期困在专用模型里。 直到今天，学术期刊的“王者”Science正式刊发一项来自中国的重磅研究： DAMO RADAR，据介绍是全球首个专家级的通用影像AI模型。  这个模型，能看腹部18",
-      "publishedAt": "2026-09-18T06:11:06Z",
-      "published_at": "2026-09-18T06:11:06Z",
+      "summary": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水  梦瑶 2026-09-19 14:39:32  来源：量子位   同一预测核心，跨七类系统验证  衡宇 发自 凹非寺 量子位 | 公众号 QbitAI 一篇技术报告中居然出现了两个看起来风马牛不相及的研究对象，跟着AI真是见世面。 一个是患者来源的类器官，另一个则跨越到了宏观宇宙…… 先说前者。研究者利用模型学到的内部因子，提出了细胞因子联合抗体阻断的干预方案，并经细胞系、类器官、小鼠实验层层验证。 至于后者，研究者把模拟的行星位置和速度轨迹喂给模型，不告诉它开普勒定律。 等它学完后分析其内部的预测模式，提取出的“轨道频率-半长轴”关系拟合斜率达-1.4991（开普勒第三定律理论值为-1.5），且R²=0.99999999。 肿瘤研究和行星轨道计算两个八竿子打不着的领域，居然能用同一种预测学习方法来搞定。 大千世界千差万别，天气、分子、细胞、病人、机器人乃至行星，各自遵循完全不同的规律。 但AI在理解它们“如何变化”时，有没有可能共享一套更底层的方法？ 最近，PhAI Labs联合牛津、斯坦福、普林斯顿、港中文等高校团队最新发布",
+      "summary_zh": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水  梦瑶 2026-09-19 14:39:32  来源：量子位   同一预测核心，跨七类系统验证  衡宇 发自 凹非寺 量子位 | 公众号 QbitAI 一篇技术报告中居然出现了两个看起来风马牛不相及的研究对象，跟着AI真是见世面。 一个是患者来源的类器官，另一个则跨越到了宏观宇宙…… 先说前者。研究者利用模型学到的内部因子，提出了细胞因子联合抗体阻断的干预方案，并经细胞系、类器官、小鼠实验层层验证。 至于后者，研究者把模拟的行星位置和速度轨迹喂给模型，不告诉它开普勒定律。 等它学完后分析其内部的预测模式，提取出的“轨道频率-半长轴”关系拟合斜率达-1.4991（开普勒第三定律理论值为-1.5），且R²=0.99999999。 肿瘤研究和行星轨道计算两个八竿子打不着的领域，居然能用同一种预测学习方法来搞定。 大千世界千差万别，天气、分子、细胞、病人、机器人乃至行星，各自遵循完全不同的规律。 但AI在理解它们“如何变化”时，有没有可能共享一套更底层的方法？ 最近，PhAI Labs联合牛津、斯坦福、普林斯顿、港中文等高校团队最新发布",
+      "publishedAt": "2026-09-19T06:39:32Z",
+      "published_at": "2026-09-19T06:39:32Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -522,8 +182,8 @@
       "rankingScore": 5.0,
       "summary": "刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家",
       "summary_zh": "刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家",
-      "publishedAt": "2026-09-18T22:40:47Z",
-      "published_at": "2026-09-18T22:40:47Z",
+      "publishedAt": "2026-09-19T12:36:22Z",
+      "published_at": "2026-09-19T12:36:22Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
