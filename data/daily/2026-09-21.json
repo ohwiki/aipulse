@@ -1,0 +1,493 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-20T22:34:03Z",
+  "generatedAt": "2026-09-20T22:34:03Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "ceb96fa2",
+          "title": "产品更新：Minicart",
+          "title_en": "Minicart",
+          "url": "https://www.producthunt.com/products/minicart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/minicart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Launch your store. Let AI run the busywork. Mi",
+          "summary_zh": "Launch your store. Let AI run the busywork. Mi",
+          "publishedAt": "2026-09-20T07:01:00Z",
+          "published_at": "2026-09-20T07:01:00Z",
+          "votes_count": 176,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "388663ca",
+          "title": "产品更新：Morsa Signals",
+          "title_en": "Morsa Signals",
+          "url": "https://www.producthunt.com/products/morsa-signals?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/morsa-signals?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "GTM and AI visibility workflows for developer",
+          "summary_zh": "GTM and AI visibility workflows for developer",
+          "publishedAt": "2026-09-20T07:01:00Z",
+          "published_at": "2026-09-20T07:01:00Z",
+          "votes_count": 135,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8d752821",
+          "title": "产品更新：Harbor",
+          "title_en": "Harbor",
+          "url": "https://www.producthunt.com/products/harbor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/harbor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The Evernote alternative that puts its price i",
+          "summary_zh": "The Evernote alternative that puts its price i",
+          "publishedAt": "2026-09-20T07:01:00Z",
+          "published_at": "2026-09-20T07:01:00Z",
+          "votes_count": 129,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "96",
+              "name": "Notes",
+              "slug": "notes"
+            },
+            {
+              "id": "248",
+              "name": "Privacy",
+              "slug": "privacy"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "0f1afef3",
+          "title": "产品更新：Termphin",
+          "title_en": "Termphin",
+          "url": "https://www.producthunt.com/products/termphin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/termphin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "SSH client with sessions that never drop. SSH",
+          "summary_zh": "SSH client with sessions that never drop. SSH",
+          "publishedAt": "2026-09-20T07:01:00Z",
+          "published_at": "2026-09-20T07:01:00Z",
+          "votes_count": 121,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "54508388",
+          "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/492849.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/492849.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上  量子位的朋友们 2026-09-20 10:48:18  来源：量子位   9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布  AI能够独立完成的任务正在迅速变长。人工智能评测机构METR的研究显示，前沿AI模型能够胜任的复杂任务正在快速变长：以人类专家完成任务所需时间衡量，模型在50%成功率下可完成的任务时长大约每7个月翻一番。 当AI独立工作的时间越来越长，能够访问的数据和获得的系统权限越来越多，如何确保它不受恶意指令操纵、不突破权限边界，也成为必须回答的问题。 AI能力快速进化，安全能力能否同步跟上？ 9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》（以下简称“报告”）正式发布，对AI时代网络安全人才的分布、实战能力、培养和评价进行了系统分析。 报告是网络安全人才实战能力研究系列继“攻防实战能力篇”“人才评价篇”“安全测试评估篇”之后推出的第四篇章。报告由国务院学位委员会学科评议组（网络空间安全组）、教育部高等学校网",
+          "summary_zh": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上  量子位的朋友们 2026-09-20 10:48:18  来源：量子位   9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布  AI能够独立完成的任务正在迅速变长。人工智能评测机构METR的研究显示，前沿AI模型能够胜任的复杂任务正在快速变长：以人类专家完成任务所需时间衡量，模型在50%成功率下可完成的任务时长大约每7个月翻一番。 当AI独立工作的时间越来越长，能够访问的数据和获得的系统权限越来越多，如何确保它不受恶意指令操纵、不突破权限边界，也成为必须回答的问题。 AI能力快速进化，安全能力能否同步跟上？ 9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》（以下简称“报告”）正式发布，对AI时代网络安全人才的分布、实战能力、培养和评价进行了系统分析。 报告是网络安全人才实战能力研究系列继“攻防实战能力篇”“人才评价篇”“安全测试评估篇”之后推出的第四篇章。报告由国务院学位委员会学科评议组（网络空间安全组）、教育部高等学校网",
+          "publishedAt": "2026-09-20T02:48:18Z",
+          "published_at": "2026-09-20T02:48:18Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "feb34112",
+          "title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/492873.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/492873.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店  量子位的朋友们 2026-09-20 15:51:09  来源：量子位   腾势Z9S迎来成都车展首秀  近日，腾势汽车宣布，腾势 Z9S 展车现已抵达全国 166 城 334 家门店。8月21日，腾势汽车携全系产品亮相成都车展9号展馆，其中已经开启预售的科技豪华智能轿车——腾势Z9S迎来成都车展首秀。自8月3日开启预售以来，其凭借超美颜值、超长续航、超强驾控和超级智能的四大超级实力，受到消费者热烈追捧，并在成都车展当中得到了充分的验证，大批专业媒体和观众驻足体验、拍照咨询，成为展馆最具人气的焦点车型之一。  超美颜值，懂你的审美和舒适 腾势Z9S以“优雅之势”原创设计勾勒轿跑姿态，流星主题车灯隐藏浪漫寓意，七款外观、三套内饰配色适配不同人群审美。日常通勤停在写字楼、周末打卡网红营地都自带高级氛围感。车内前排双零重力座椅搭配细腻Nappa真皮，高定奢享麂皮顶棚包裹座舱，近5.1米车身带来舒展乘坐空间，后排电动调节座椅搭配集成7英寸扶手屏的豪华大扶手，乘坐起来豪华奢享质感拉满。120L超大前备厢搭配470L",
+          "summary_zh": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店  量子位的朋友们 2026-09-20 15:51:09  来源：量子位   腾势Z9S迎来成都车展首秀  近日，腾势汽车宣布，腾势 Z9S 展车现已抵达全国 166 城 334 家门店。8月21日，腾势汽车携全系产品亮相成都车展9号展馆，其中已经开启预售的科技豪华智能轿车——腾势Z9S迎来成都车展首秀。自8月3日开启预售以来，其凭借超美颜值、超长续航、超强驾控和超级智能的四大超级实力，受到消费者热烈追捧，并在成都车展当中得到了充分的验证，大批专业媒体和观众驻足体验、拍照咨询，成为展馆最具人气的焦点车型之一。  超美颜值，懂你的审美和舒适 腾势Z9S以“优雅之势”原创设计勾勒轿跑姿态，流星主题车灯隐藏浪漫寓意，七款外观、三套内饰配色适配不同人群审美。日常通勤停在写字楼、周末打卡网红营地都自带高级氛围感。车内前排双零重力座椅搭配细腻Nappa真皮，高定奢享麂皮顶棚包裹座舱，近5.1米车身带来舒展乘坐空间，后排电动调节座椅搭配集成7英寸扶手屏的豪华大扶手，乘坐起来豪华奢享质感拉满。120L超大前备厢搭配470L",
+          "publishedAt": "2026-09-20T07:51:09Z",
+          "published_at": "2026-09-20T07:51:09Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f6882834",
+          "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/492912.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/492912.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！  十三 2026-09-20 16:01:13  来源：量子位   亚马逊云科技给企业安全用Agent打了个样   金磊 发自 凹非寺 量子位 | 公众号 QbitAI  AI要是荒谬起来，到底能有多离谱呢？ 来，一起看下Gemini新鲜出炉的事故。 事情的起因，是一家名叫Irregular的AI安全公司，组织了一场“夺旗”（Capture the Flag）演练，要求是让模型从一家虚构的公司系统里拿到一段秘密信息。 而这个测试环境原本不应该具备联网能力的，但问题也恰恰出在了这里。由于一些bug，公网访问被意外打开了；更巧的是，演练里设定的那家虚构公司，和现实中一家真实企业重名。 于是，Gemini就这样水灵灵地直接访问了三家真实公司的系统……在三次测试中，其中一次是Gemini通过反复猜测密码拿到访问权限，另外两次则是从公开的代码仓库里找到凭证，再用这些凭证登录。 不过谷歌对此也是及时给出了回应，官方表示Gemini在三次测试过程中，判断出自己碰到的是真实公司之后都停了下来，以及相关的三家机构也已被谷歌告知详情。   △图片由AI",
+          "summary_zh": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！  十三 2026-09-20 16:01:13  来源：量子位   亚马逊云科技给企业安全用Agent打了个样   金磊 发自 凹非寺 量子位 | 公众号 QbitAI  AI要是荒谬起来，到底能有多离谱呢？ 来，一起看下Gemini新鲜出炉的事故。 事情的起因，是一家名叫Irregular的AI安全公司，组织了一场“夺旗”（Capture the Flag）演练，要求是让模型从一家虚构的公司系统里拿到一段秘密信息。 而这个测试环境原本不应该具备联网能力的，但问题也恰恰出在了这里。由于一些bug，公网访问被意外打开了；更巧的是，演练里设定的那家虚构公司，和现实中一家真实企业重名。 于是，Gemini就这样水灵灵地直接访问了三家真实公司的系统……在三次测试中，其中一次是Gemini通过反复猜测密码拿到访问权限，另外两次则是从公开的代码仓库里找到凭证，再用这些凭证登录。 不过谷歌对此也是及时给出了回应，官方表示Gemini在三次测试过程中，判断出自己碰到的是真实公司之后都停了下来，以及相关的三家机构也已被谷歌告知详情。   △图片由AI",
+          "publishedAt": "2026-09-20T08:01:13Z",
+          "published_at": "2026-09-20T08:01:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "8f895bd7",
+          "title": "拿下开源生图第一，千问Qwen-Im",
+          "title_en": "拿下开源生图第一，千问Qwen-Image-2.1把生图卷出新高度",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "拿下开源生图第一，千问Qwen-Image-2.1把生图卷出新高度",
+          "summary_zh": "拿下开源生图第一，千问Qwen-Image-2.1把生图卷出新高度",
+          "publishedAt": "2026-09-20T22:33:25Z",
+          "published_at": "2026-09-20T22:33:25Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "ceb96fa2",
+      "title": "产品更新：Minicart",
+      "title_en": "Minicart",
+      "url": "https://www.producthunt.com/products/minicart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/minicart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Launch your store. Let AI run the busywork. Mi",
+      "summary_zh": "Launch your store. Let AI run the busywork. Mi",
+      "publishedAt": "2026-09-20T07:01:00Z",
+      "published_at": "2026-09-20T07:01:00Z",
+      "votes_count": 176,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "278",
+          "name": "E-Commerce",
+          "slug": "e-commerce"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "388663ca",
+      "title": "产品更新：Morsa Signals",
+      "title_en": "Morsa Signals",
+      "url": "https://www.producthunt.com/products/morsa-signals?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/morsa-signals?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "GTM and AI visibility workflows for developer",
+      "summary_zh": "GTM and AI visibility workflows for developer",
+      "publishedAt": "2026-09-20T07:01:00Z",
+      "published_at": "2026-09-20T07:01:00Z",
+      "votes_count": 135,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "231",
+          "name": "SEO",
+          "slug": "seo"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8d752821",
+      "title": "产品更新：Harbor",
+      "title_en": "Harbor",
+      "url": "https://www.producthunt.com/products/harbor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/harbor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The Evernote alternative that puts its price i",
+      "summary_zh": "The Evernote alternative that puts its price i",
+      "publishedAt": "2026-09-20T07:01:00Z",
+      "published_at": "2026-09-20T07:01:00Z",
+      "votes_count": 129,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "96",
+          "name": "Notes",
+          "slug": "notes"
+        },
+        {
+          "id": "248",
+          "name": "Privacy",
+          "slug": "privacy"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "0f1afef3",
+      "title": "产品更新：Termphin",
+      "title_en": "Termphin",
+      "url": "https://www.producthunt.com/products/termphin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/termphin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "SSH client with sessions that never drop. SSH",
+      "summary_zh": "SSH client with sessions that never drop. SSH",
+      "publishedAt": "2026-09-20T07:01:00Z",
+      "published_at": "2026-09-20T07:01:00Z",
+      "votes_count": 121,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "54508388",
+      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/492849.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/492849.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上  量子位的朋友们 2026-09-20 10:48:18  来源：量子位   9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布  AI能够独立完成的任务正在迅速变长。人工智能评测机构METR的研究显示，前沿AI模型能够胜任的复杂任务正在快速变长：以人类专家完成任务所需时间衡量，模型在50%成功率下可完成的任务时长大约每7个月翻一番。 当AI独立工作的时间越来越长，能够访问的数据和获得的系统权限越来越多，如何确保它不受恶意指令操纵、不突破权限边界，也成为必须回答的问题。 AI能力快速进化，安全能力能否同步跟上？ 9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》（以下简称“报告”）正式发布，对AI时代网络安全人才的分布、实战能力、培养和评价进行了系统分析。 报告是网络安全人才实战能力研究系列继“攻防实战能力篇”“人才评价篇”“安全测试评估篇”之后推出的第四篇章。报告由国务院学位委员会学科评议组（网络空间安全组）、教育部高等学校网",
+      "summary_zh": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上  量子位的朋友们 2026-09-20 10:48:18  来源：量子位   9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布  AI能够独立完成的任务正在迅速变长。人工智能评测机构METR的研究显示，前沿AI模型能够胜任的复杂任务正在快速变长：以人类专家完成任务所需时间衡量，模型在50%成功率下可完成的任务时长大约每7个月翻一番。 当AI独立工作的时间越来越长，能够访问的数据和获得的系统权限越来越多，如何确保它不受恶意指令操纵、不突破权限边界，也成为必须回答的问题。 AI能力快速进化，安全能力能否同步跟上？ 9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》（以下简称“报告”）正式发布，对AI时代网络安全人才的分布、实战能力、培养和评价进行了系统分析。 报告是网络安全人才实战能力研究系列继“攻防实战能力篇”“人才评价篇”“安全测试评估篇”之后推出的第四篇章。报告由国务院学位委员会学科评议组（网络空间安全组）、教育部高等学校网",
+      "publishedAt": "2026-09-20T02:48:18Z",
+      "published_at": "2026-09-20T02:48:18Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "feb34112",
+      "title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/492873.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/492873.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店  量子位的朋友们 2026-09-20 15:51:09  来源：量子位   腾势Z9S迎来成都车展首秀  近日，腾势汽车宣布，腾势 Z9S 展车现已抵达全国 166 城 334 家门店。8月21日，腾势汽车携全系产品亮相成都车展9号展馆，其中已经开启预售的科技豪华智能轿车——腾势Z9S迎来成都车展首秀。自8月3日开启预售以来，其凭借超美颜值、超长续航、超强驾控和超级智能的四大超级实力，受到消费者热烈追捧，并在成都车展当中得到了充分的验证，大批专业媒体和观众驻足体验、拍照咨询，成为展馆最具人气的焦点车型之一。  超美颜值，懂你的审美和舒适 腾势Z9S以“优雅之势”原创设计勾勒轿跑姿态，流星主题车灯隐藏浪漫寓意，七款外观、三套内饰配色适配不同人群审美。日常通勤停在写字楼、周末打卡网红营地都自带高级氛围感。车内前排双零重力座椅搭配细腻Nappa真皮，高定奢享麂皮顶棚包裹座舱，近5.1米车身带来舒展乘坐空间，后排电动调节座椅搭配集成7英寸扶手屏的豪华大扶手，乘坐起来豪华奢享质感拉满。120L超大前备厢搭配470L",
+      "summary_zh": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店  量子位的朋友们 2026-09-20 15:51:09  来源：量子位   腾势Z9S迎来成都车展首秀  近日，腾势汽车宣布，腾势 Z9S 展车现已抵达全国 166 城 334 家门店。8月21日，腾势汽车携全系产品亮相成都车展9号展馆，其中已经开启预售的科技豪华智能轿车——腾势Z9S迎来成都车展首秀。自8月3日开启预售以来，其凭借超美颜值、超长续航、超强驾控和超级智能的四大超级实力，受到消费者热烈追捧，并在成都车展当中得到了充分的验证，大批专业媒体和观众驻足体验、拍照咨询，成为展馆最具人气的焦点车型之一。  超美颜值，懂你的审美和舒适 腾势Z9S以“优雅之势”原创设计勾勒轿跑姿态，流星主题车灯隐藏浪漫寓意，七款外观、三套内饰配色适配不同人群审美。日常通勤停在写字楼、周末打卡网红营地都自带高级氛围感。车内前排双零重力座椅搭配细腻Nappa真皮，高定奢享麂皮顶棚包裹座舱，近5.1米车身带来舒展乘坐空间，后排电动调节座椅搭配集成7英寸扶手屏的豪华大扶手，乘坐起来豪华奢享质感拉满。120L超大前备厢搭配470L",
+      "publishedAt": "2026-09-20T07:51:09Z",
+      "published_at": "2026-09-20T07:51:09Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f6882834",
+      "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/492912.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/492912.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！  十三 2026-09-20 16:01:13  来源：量子位   亚马逊云科技给企业安全用Agent打了个样   金磊 发自 凹非寺 量子位 | 公众号 QbitAI  AI要是荒谬起来，到底能有多离谱呢？ 来，一起看下Gemini新鲜出炉的事故。 事情的起因，是一家名叫Irregular的AI安全公司，组织了一场“夺旗”（Capture the Flag）演练，要求是让模型从一家虚构的公司系统里拿到一段秘密信息。 而这个测试环境原本不应该具备联网能力的，但问题也恰恰出在了这里。由于一些bug，公网访问被意外打开了；更巧的是，演练里设定的那家虚构公司，和现实中一家真实企业重名。 于是，Gemini就这样水灵灵地直接访问了三家真实公司的系统……在三次测试中，其中一次是Gemini通过反复猜测密码拿到访问权限，另外两次则是从公开的代码仓库里找到凭证，再用这些凭证登录。 不过谷歌对此也是及时给出了回应，官方表示Gemini在三次测试过程中，判断出自己碰到的是真实公司之后都停了下来，以及相关的三家机构也已被谷歌告知详情。   △图片由AI",
+      "summary_zh": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！  十三 2026-09-20 16:01:13  来源：量子位   亚马逊云科技给企业安全用Agent打了个样   金磊 发自 凹非寺 量子位 | 公众号 QbitAI  AI要是荒谬起来，到底能有多离谱呢？ 来，一起看下Gemini新鲜出炉的事故。 事情的起因，是一家名叫Irregular的AI安全公司，组织了一场“夺旗”（Capture the Flag）演练，要求是让模型从一家虚构的公司系统里拿到一段秘密信息。 而这个测试环境原本不应该具备联网能力的，但问题也恰恰出在了这里。由于一些bug，公网访问被意外打开了；更巧的是，演练里设定的那家虚构公司，和现实中一家真实企业重名。 于是，Gemini就这样水灵灵地直接访问了三家真实公司的系统……在三次测试中，其中一次是Gemini通过反复猜测密码拿到访问权限，另外两次则是从公开的代码仓库里找到凭证，再用这些凭证登录。 不过谷歌对此也是及时给出了回应，官方表示Gemini在三次测试过程中，判断出自己碰到的是真实公司之后都停了下来，以及相关的三家机构也已被谷歌告知详情。   △图片由AI",
+      "publishedAt": "2026-09-20T08:01:13Z",
+      "published_at": "2026-09-20T08:01:13Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "8f895bd7",
+      "title": "拿下开源生图第一，千问Qwen-Im",
+      "title_en": "拿下开源生图第一，千问Qwen-Image-2.1把生图卷出新高度",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "拿下开源生图第一，千问Qwen-Image-2.1把生图卷出新高度",
+      "summary_zh": "拿下开源生图第一，千问Qwen-Image-2.1把生图卷出新高度",
+      "publishedAt": "2026-09-20T22:33:25Z",
+      "published_at": "2026-09-20T22:33:25Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

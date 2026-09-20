@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-09-20T13:09:13Z",
-  "generatedAt": "2026-09-20T13:09:13Z",
-  "count": 131,
-  "total": 131,
+  "generated_at": "2026-09-20T22:34:03Z",
+  "generatedAt": "2026-09-20T22:34:03Z",
+  "count": 132,
+  "total": 132,
   "entries": [
+    {
+      "date": "2026-09-21",
+      "generated_at": "2026-09-20T22:34:03Z",
+      "generatedAt": "2026-09-20T22:34:03Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "ceb96fa2",
+          "title": "产品更新：Minicart",
+          "title_en": "Minicart",
+          "url": "https://www.producthunt.com/products/minicart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/minicart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Launch your store. Let AI run the busywork. Mi",
+          "summary_zh": "Launch your store. Let AI run the busywork. Mi",
+          "publishedAt": "2026-09-20T07:01:00Z",
+          "published_at": "2026-09-20T07:01:00Z",
+          "votes_count": 176,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "388663ca",
+          "title": "产品更新：Morsa Signals",
+          "title_en": "Morsa Signals",
+          "url": "https://www.producthunt.com/products/morsa-signals?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/morsa-signals?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "GTM and AI visibility workflows for developer",
+          "summary_zh": "GTM and AI visibility workflows for developer",
+          "publishedAt": "2026-09-20T07:01:00Z",
+          "published_at": "2026-09-20T07:01:00Z",
+          "votes_count": 135,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8d752821",
+          "title": "产品更新：Harbor",
+          "title_en": "Harbor",
+          "url": "https://www.producthunt.com/products/harbor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/harbor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The Evernote alternative that puts its price i",
+          "summary_zh": "The Evernote alternative that puts its price i",
+          "publishedAt": "2026-09-20T07:01:00Z",
+          "published_at": "2026-09-20T07:01:00Z",
+          "votes_count": 129,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "96",
+              "name": "Notes",
+              "slug": "notes"
+            },
+            {
+              "id": "248",
+              "name": "Privacy",
+              "slug": "privacy"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-20",
       "generated_at": "2026-09-20T13:09:13Z",

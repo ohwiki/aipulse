@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-20T13:09:13Z",
-  "generatedAt": "2026-09-20T13:09:13Z",
+  "generated_at": "2026-09-20T22:34:03Z",
+  "generatedAt": "2026-09-20T22:34:03Z",
   "days": 7,
-  "total": 5,
-  "count": 5,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "ceb96fa2",
@@ -22,7 +22,7 @@
       "summary_zh": "Launch your store. Let AI run the busywork. Mi",
       "publishedAt": "2026-09-20T07:01:00Z",
       "published_at": "2026-09-20T07:01:00Z",
-      "votes_count": 126,
+      "votes_count": 176,
       "featured": true,
       "topics": [
         {
@@ -34,6 +34,120 @@
           "id": "278",
           "name": "E-Commerce",
           "slug": "e-commerce"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "388663ca",
+      "title": "产品更新：Morsa Signals",
+      "title_en": "Morsa Signals",
+      "url": "https://www.producthunt.com/products/morsa-signals?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/morsa-signals?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "GTM and AI visibility workflows for developer",
+      "summary_zh": "GTM and AI visibility workflows for developer",
+      "publishedAt": "2026-09-20T07:01:00Z",
+      "published_at": "2026-09-20T07:01:00Z",
+      "votes_count": 135,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "231",
+          "name": "SEO",
+          "slug": "seo"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8d752821",
+      "title": "产品更新：Harbor",
+      "title_en": "Harbor",
+      "url": "https://www.producthunt.com/products/harbor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/harbor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The Evernote alternative that puts its price i",
+      "summary_zh": "The Evernote alternative that puts its price i",
+      "publishedAt": "2026-09-20T07:01:00Z",
+      "published_at": "2026-09-20T07:01:00Z",
+      "votes_count": 129,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "96",
+          "name": "Notes",
+          "slug": "notes"
+        },
+        {
+          "id": "248",
+          "name": "Privacy",
+          "slug": "privacy"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "0f1afef3",
+      "title": "产品更新：Termphin",
+      "title_en": "Termphin",
+      "url": "https://www.producthunt.com/products/termphin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/termphin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "SSH client with sessions that never drop. SSH",
+      "summary_zh": "SSH client with sessions that never drop. SSH",
+      "publishedAt": "2026-09-20T07:01:00Z",
+      "published_at": "2026-09-20T07:01:00Z",
+      "votes_count": 121,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
         }
       ],
       "score_details": null
@@ -105,9 +219,9 @@
       "score_details": null
     },
     {
-      "id": "465d3f30",
-      "title": "荣登ECCV！全球首个可仿真的人–场",
-      "title_en": "荣登ECCV！全球首个可仿真的人–场景交互重建框架：大晓 HSImul3R 让人类视频变成机器人技能",
+      "id": "8f895bd7",
+      "title": "拿下开源生图第一，千问Qwen-Im",
+      "title_en": "拿下开源生图第一，千问Qwen-Image-2.1把生图卷出新高度",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -117,10 +231,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "荣登ECCV！全球首个可仿真的人–场景交互重建框架：大晓 HSImul3R 让人类视频变成机",
-      "summary_zh": "荣登ECCV！全球首个可仿真的人–场景交互重建框架：大晓 HSImul3R 让人类视频变成机",
-      "publishedAt": "2026-09-20T13:08:41Z",
-      "published_at": "2026-09-20T13:08:41Z",
+      "summary": "拿下开源生图第一，千问Qwen-Image-2.1把生图卷出新高度",
+      "summary_zh": "拿下开源生图第一，千问Qwen-Image-2.1把生图卷出新高度",
+      "publishedAt": "2026-09-20T22:33:25Z",
+      "published_at": "2026-09-20T22:33:25Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
