@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T15:14:54Z",
-  "generatedAt": "2026-09-21T15:14:54Z",
+  "generated_at": "2026-09-21T23:24:08Z",
+  "generatedAt": "2026-09-21T23:24:08Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "Your coding agents, now in your pocket Orchest",
       "publishedAt": "2026-09-21T07:01:00Z",
       "published_at": "2026-09-21T07:01:00Z",
-      "votes_count": 308,
+      "votes_count": 410,
       "featured": true,
       "topics": [
         {
@@ -44,44 +44,6 @@
       "score_details": null
     },
     {
-      "id": "6614ef82",
-      "title": "AI资讯更新：Arcjet",
-      "title_en": "Arcjet",
-      "url": "https://www.producthunt.com/products/arcjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/arcjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Secure the AI agents you're building at runtim",
-      "summary_zh": "Secure the AI agents you're building at runtim",
-      "publishedAt": "2026-09-21T07:01:00Z",
-      "published_at": "2026-09-21T07:01:00Z",
-      "votes_count": 239,
-      "featured": true,
-      "topics": [
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "778",
-          "name": "SDK",
-          "slug": "sdk"
-        },
-        {
-          "id": "865",
-          "name": "Security",
-          "slug": "security"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "6809f1b5",
       "title": "模型更新：Jev",
       "title_en": "Jev",
@@ -98,7 +60,7 @@
       "summary_zh": "Fast, structured AI decisions for software aut",
       "publishedAt": "2026-09-21T07:01:00Z",
       "published_at": "2026-09-21T07:01:00Z",
-      "votes_count": 238,
+      "votes_count": 390,
       "featured": true,
       "topics": [
         {
@@ -120,6 +82,44 @@
       "score_details": null
     },
     {
+      "id": "6614ef82",
+      "title": "AI资讯更新：Arcjet",
+      "title_en": "Arcjet",
+      "url": "https://www.producthunt.com/products/arcjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/arcjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Secure the AI agents you're building at runtim",
+      "summary_zh": "Secure the AI agents you're building at runtim",
+      "publishedAt": "2026-09-21T07:01:00Z",
+      "published_at": "2026-09-21T07:01:00Z",
+      "votes_count": 331,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "778",
+          "name": "SDK",
+          "slug": "sdk"
+        },
+        {
+          "id": "865",
+          "name": "Security",
+          "slug": "security"
+        }
+      ],
+      "score_details": null
+    },
+    {
       "id": "fab48e9b",
       "title": "产品更新：Sai",
       "title_en": "Sai",
@@ -136,7 +136,7 @@
       "summary_zh": "The autonomous computer fleet at your command",
       "publishedAt": "2026-09-21T07:01:00Z",
       "published_at": "2026-09-21T07:01:00Z",
-      "votes_count": 230,
+      "votes_count": 301,
       "featured": true,
       "topics": [
         {
@@ -233,8 +233,8 @@
       "rankingScore": 5.0,
       "summary": "ICLR 2027投稿冲到6万，比过去十几年加起来都多......",
       "summary_zh": "ICLR 2027投稿冲到6万，比过去十几年加起来都多......",
-      "publishedAt": "2026-09-21T15:14:13Z",
-      "published_at": "2026-09-21T15:14:13Z",
+      "publishedAt": "2026-09-21T23:23:34Z",
+      "published_at": "2026-09-21T23:23:34Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
