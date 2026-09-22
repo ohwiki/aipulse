@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T13:34:11Z",
-  "generatedAt": "2026-09-22T13:34:11Z",
+  "generated_at": "2026-09-22T23:03:31Z",
+  "generatedAt": "2026-09-22T23:03:31Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "Create and edit videos by chatting Make videos",
       "publishedAt": "2026-09-22T07:01:00Z",
       "published_at": "2026-09-22T07:01:00Z",
-      "votes_count": 271,
+      "votes_count": 411,
       "featured": true,
       "topics": [
         {
@@ -44,44 +44,6 @@
       "score_details": null
     },
     {
-      "id": "80c401f9",
-      "title": "AI资讯更新：WZRD",
-      "title_en": "WZRD",
-      "url": "https://www.producthunt.com/products/wzrd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/wzrd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "AI-native documents, slides, forms and sheets",
-      "summary_zh": "AI-native documents, slides, forms and sheets",
-      "publishedAt": "2026-09-22T07:01:00Z",
-      "published_at": "2026-09-22T07:01:00Z",
-      "votes_count": 164,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "470",
-          "name": "No-Code",
-          "slug": "no-code"
-        },
-        {
-          "id": "802",
-          "name": "Design",
-          "slug": "design"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "44bea358",
       "title": "产品更新：Anomalo",
       "title_en": "Anomalo",
@@ -98,7 +60,7 @@
       "summary_zh": "Your data is always talking. Don't miss what i",
       "publishedAt": "2026-09-22T07:01:00Z",
       "published_at": "2026-09-22T07:01:00Z",
-      "votes_count": 163,
+      "votes_count": 259,
       "featured": true,
       "topics": [
         {
@@ -120,104 +82,147 @@
       "score_details": null
     },
     {
-      "id": "ee0dd2ff",
-      "title": "产品更新：thestory.run",
-      "title_en": "thestory.run",
-      "url": "https://www.producthunt.com/products/thestory-run?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "80c401f9",
+      "title": "AI资讯更新：WZRD",
+      "title_en": "WZRD",
+      "url": "https://www.producthunt.com/products/wzrd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/thestory-run?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/wzrd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "A writing coach for corporate influencers. You",
-      "summary_zh": "A writing coach for corporate influencers. You",
+      "summary": "AI-native documents, slides, forms and sheets",
+      "summary_zh": "AI-native documents, slides, forms and sheets",
       "publishedAt": "2026-09-22T07:01:00Z",
       "published_at": "2026-09-22T07:01:00Z",
-      "votes_count": 120,
+      "votes_count": 239,
       "featured": true,
       "topics": [
         {
-          "id": "90",
-          "name": "Writing",
-          "slug": "writing"
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
         },
         {
-          "id": "104",
-          "name": "Social Media",
-          "slug": "social-media"
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
         },
         {
-          "id": "845",
-          "name": "Social media marketing",
-          "slug": "social-media-marketing"
+          "id": "802",
+          "name": "Design",
+          "slug": "design"
         }
       ],
       "score_details": null
     },
     {
-      "id": "266dbb54",
-      "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+      "id": "05560401",
+      "title": "产品更新：SereneDB",
+      "title_en": "SereneDB",
+      "url": "https://www.producthunt.com/products/serenedb-krummelanke?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/serenedb-krummelanke?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Ultra-Fast Search & Analytics Database, Agenti",
+      "summary_zh": "Ultra-Fast Search & Analytics Database, Agenti",
+      "publishedAt": "2026-09-22T07:01:00Z",
+      "published_at": "2026-09-22T07:01:00Z",
+      "votes_count": 193,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "772",
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3fe77d5a",
+      "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/493502.html",
+      "url": "https://www.qbitai.com/2026/09/493819.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/493502.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/493819.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石  量子位的朋友们 2026-09-22 10:59:29  来源：量子位   吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。  9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭表示，机器正在成为思考的主力，「思考」将像工业革命中的「动力」一样，成为规模化供给的商品。未来机器思考总量将是人类的1000倍，而今天这一比例不到3%，至少还有几万倍的增长空间。 吴泳铭认为，今天机器动力已经承担了99.9%的物理工作，未来人类的思考总量还会继续增长，但机器思考将以更快的速度扩张，预期将会承担99.9%的思考工作。顶级思考将从奢侈品变成可规模化供给的商品，每个细分领域都可以拥有上百万量级的AI科学家和专家，将给人类社会带来巨大的改变。 机器思考能够规模化供给的前提，是AI基础设施足够完善、足够发达，就像当年各类电器得以普及，第一步是建设足够多的发电站和电网。1900年前后，已有不少电器进入家庭，当时全世界一整年的发电量，放到今天只够用两个小时。 吴泳铭表示，AI模",
-      "summary_zh": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石  量子位的朋友们 2026-09-22 10:59:29  来源：量子位   吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。  9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭表示，机器正在成为思考的主力，「思考」将像工业革命中的「动力」一样，成为规模化供给的商品。未来机器思考总量将是人类的1000倍，而今天这一比例不到3%，至少还有几万倍的增长空间。 吴泳铭认为，今天机器动力已经承担了99.9%的物理工作，未来人类的思考总量还会继续增长，但机器思考将以更快的速度扩张，预期将会承担99.9%的思考工作。顶级思考将从奢侈品变成可规模化供给的商品，每个细分领域都可以拥有上百万量级的AI科学家和专家，将给人类社会带来巨大的改变。 机器思考能够规模化供给的前提，是AI基础设施足够完善、足够发达，就像当年各类电器得以普及，第一步是建设足够多的发电站和电网。1900年前后，已有不少电器进入家庭，当时全世界一整年的发电量，放到今天只够用两个小时。 吴泳铭表示，AI模",
-      "publishedAt": "2026-09-22T02:59:29Z",
-      "published_at": "2026-09-22T02:59:29Z",
+      "summary": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求  量子位的朋友们 2026-09-22 16:35:24  来源：量子位   9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行  9月21日，首届中央企业量子人才科创空间产业应用创新大赛（以下简称“量子产业应用创新大赛”）发布会在合肥举行，赛事正式进入报名和项目征集阶段。记者从发布会现场获悉，本次大赛由中央企业量子人才科创空间主办，中国航空工业集团有限公司、国家电网有限公司、中国电信集团有限公司、中国五矿集团有限公司、招商局集团有限公司五家央企联合承办，设置通讯、两用技术、能源、金融、勘探五大赛道，面向全国征集优质量子科技项目，获奖项目将纳入量子科创营开展为期6个月的孵化培育，打通“赛事—孵化—产业落地”全链条。  据介绍，这是国内首次由多家特大型央企联合承办的量子领域专业赛事。大赛面向量子科技领域各类创新主体开放报名，旨在发现一批兼具前沿技术创新与真实应用价值的量子科技项目，推动量子技术从实验室走向产业一线。 首届大赛五大赛道以量子技术融入真实场景为主线，分别对接关系国计民生",
+      "summary_zh": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求  量子位的朋友们 2026-09-22 16:35:24  来源：量子位   9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行  9月21日，首届中央企业量子人才科创空间产业应用创新大赛（以下简称“量子产业应用创新大赛”）发布会在合肥举行，赛事正式进入报名和项目征集阶段。记者从发布会现场获悉，本次大赛由中央企业量子人才科创空间主办，中国航空工业集团有限公司、国家电网有限公司、中国电信集团有限公司、中国五矿集团有限公司、招商局集团有限公司五家央企联合承办，设置通讯、两用技术、能源、金融、勘探五大赛道，面向全国征集优质量子科技项目，获奖项目将纳入量子科创营开展为期6个月的孵化培育，打通“赛事—孵化—产业落地”全链条。  据介绍，这是国内首次由多家特大型央企联合承办的量子领域专业赛事。大赛面向量子科技领域各类创新主体开放报名，旨在发现一批兼具前沿技术创新与真实应用价值的量子科技项目，推动量子技术从实验室走向产业一线。 首届大赛五大赛道以量子技术融入真实场景为主线，分别对接关系国计民生",
+      "publishedAt": "2026-09-22T08:35:24Z",
+      "published_at": "2026-09-22T08:35:24Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "88b7690a",
-      "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
+      "id": "eec5eabb",
+      "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/493510.html",
+      "url": "https://www.qbitai.com/2026/09/493865.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/493510.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/493865.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远  量子位的朋友们 2026-09-22 11:13:44  来源：量子位   “潮起之时，靠岸相见”  2026年，出海的关键词正在从“增量”转向“经营”，企业关注的重点也从抢占机会，转向本地团队、供应链、渠道、品牌与合规等一整套长期能力的建设。36氪以“潮起之时，靠岸相见”为主题举办2026 East Forward出海大会，邀请来自消费、科技、制造等不同领域的出海企业，以及投资机构与全球化服务商，共同讨论企业走出去之后，如何在复杂多变的全球市场中建立更稳固的经营能力，找到长期经营与增长的路径。 2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。 过去几年，汽车、新能源、跨境电商、AI应用……越来越多中国企业进入全球市场。然而，一次市场突破、一轮业绩增长，并不意味着全球化已经完成。当出海从试水走向常态，真正的挑战也开始从“怎么出去”，转向“怎么留下来”。规则与市场环境持续变化，供应链、渠道和本地团队需要重新搭建，品牌也要面对不同文化和消费习惯的考验。过去行业反复讨论“要不要出海”，今天",
-      "summary_zh": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远  量子位的朋友们 2026-09-22 11:13:44  来源：量子位   “潮起之时，靠岸相见”  2026年，出海的关键词正在从“增量”转向“经营”，企业关注的重点也从抢占机会，转向本地团队、供应链、渠道、品牌与合规等一整套长期能力的建设。36氪以“潮起之时，靠岸相见”为主题举办2026 East Forward出海大会，邀请来自消费、科技、制造等不同领域的出海企业，以及投资机构与全球化服务商，共同讨论企业走出去之后，如何在复杂多变的全球市场中建立更稳固的经营能力，找到长期经营与增长的路径。 2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。 过去几年，汽车、新能源、跨境电商、AI应用……越来越多中国企业进入全球市场。然而，一次市场突破、一轮业绩增长，并不意味着全球化已经完成。当出海从试水走向常态，真正的挑战也开始从“怎么出去”，转向“怎么留下来”。规则与市场环境持续变化，供应链、渠道和本地团队需要重新搭建，品牌也要面对不同文化和消费习惯的考验。过去行业反复讨论“要不要出海”，今天",
-      "publishedAt": "2026-09-22T03:13:44Z",
-      "published_at": "2026-09-22T03:13:44Z",
+      "summary": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建  量子位的朋友们 2026-09-22 16:49:12  来源：量子位   9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”  9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”，帮助创作者减少AI生成视频无效抽卡，实现制作全程精准可控，并支持大型团队、多工种协作，提升组织效率。虎鲸文娱集团CTO杜颜龙透露，鲸锐AI计划于10月正式开启内测，首批内测名额将面向专业影视创作者及制作团队开放申请。 “伴随着我国AI技术迅速发展、AI人才爆发增长，文娱产业正迎来换道超车好莱坞的时代机遇。文娱产业真正的机会，不是用AI生产多少内容，而是参与定义新一代内容工业的生产标准。虎鲸文娱推出鲸锐AI，就是希望以这样一套AI新基建，助力中国文娱产业生产力跃迁，让更多创作者用AI讲出好故事。”杜颜龙表示。  图说：虎鲸文娱集团CTO杜颜龙发布鲸锐AI AI时代不缺模型能力，缺全链路管理生产系统 过去",
+      "summary_zh": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建  量子位的朋友们 2026-09-22 16:49:12  来源：量子位   9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”  9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”，帮助创作者减少AI生成视频无效抽卡，实现制作全程精准可控，并支持大型团队、多工种协作，提升组织效率。虎鲸文娱集团CTO杜颜龙透露，鲸锐AI计划于10月正式开启内测，首批内测名额将面向专业影视创作者及制作团队开放申请。 “伴随着我国AI技术迅速发展、AI人才爆发增长，文娱产业正迎来换道超车好莱坞的时代机遇。文娱产业真正的机会，不是用AI生产多少内容，而是参与定义新一代内容工业的生产标准。虎鲸文娱推出鲸锐AI，就是希望以这样一套AI新基建，助力中国文娱产业生产力跃迁，让更多创作者用AI讲出好故事。”杜颜龙表示。  图说：虎鲸文娱集团CTO杜颜龙发布鲸锐AI AI时代不缺模型能力，缺全链路管理生产系统 过去",
+      "publishedAt": "2026-09-22T08:49:12Z",
+      "published_at": "2026-09-22T08:49:12Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "aaad8302",
-      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+      "id": "1d290a5a",
+      "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/493625.html",
+      "url": "https://www.qbitai.com/2026/09/494043.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/493625.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/494043.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中  量子位的朋友们 2026-09-22 11:42:43  来源：量子位   9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。  9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。在大语言模型LLM领域，Qwen3.8-Max在编程（Coding）和办公（Cowork）领域表现强劲，发布后斩获Artificial Analysis Agentic智能体第一、CodeArena前端编程第一；基于下一代架构的Qwen4已投入训练，未来Qwen4.5、Qwen5等后续版本模型参数将扩展至5到10万亿。在多模态领域，Qwen-Image-3.1性能有望逼近最强GPT-Image 系列，跻身全球前列；Qwen-Audio-3.1在ASR、TTS以及Realtime三个核心语音赛道均位列国际第一梯队、国内第一，超越Gemini 3.1 TTS等国际顶尖模型；世界模型HappyOyster-2.0-Preview全新亮相，推动世界模型从实验室走向真实可用；视频生成模型Wan3.0斩获Artificial An",
-      "summary_zh": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中  量子位的朋友们 2026-09-22 11:42:43  来源：量子位   9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。  9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。在大语言模型LLM领域，Qwen3.8-Max在编程（Coding）和办公（Cowork）领域表现强劲，发布后斩获Artificial Analysis Agentic智能体第一、CodeArena前端编程第一；基于下一代架构的Qwen4已投入训练，未来Qwen4.5、Qwen5等后续版本模型参数将扩展至5到10万亿。在多模态领域，Qwen-Image-3.1性能有望逼近最强GPT-Image 系列，跻身全球前列；Qwen-Audio-3.1在ASR、TTS以及Realtime三个核心语音赛道均位列国际第一梯队、国内第一，超越Gemini 3.1 TTS等国际顶尖模型；世界模型HappyOyster-2.0-Preview全新亮相，推动世界模型从实验室走向真实可用；视频生成模型Wan3.0斩获Artificial An",
-      "publishedAt": "2026-09-22T03:42:43Z",
-      "published_at": "2026-09-22T03:42:43Z",
+      "summary": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检  量子位的朋友们 2026-09-22 18:01:53  来源：量子位   上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。  一部短剧剪完、导出，团队最不愿面对的往往是下一步：逐集看片。 字幕里藏没藏同音错字？人物开口了，字幕跟得上吗？中间有没有闪一下的黑屏、突然炸响的背景音乐？画面里有没有露出 AI 标识、水印、抹除痕迹？更要命的，有没有哪个镜头擦到黄暴红线，一旦送审被打回，整部剧的排期全乱。 这些活儿细、碎、还不能出错。做十集，就得盯十遍；做十部，人就不够用了。制作端靠 AI 把效率拉满，验收端却还卡在人眼上——这是今天几乎每个 AI 短剧团队的真实处境。 在喜迎中秋国庆佳节、折上折活动正如火如荼开展的喜庆氛围里，9月22日，SkyProduction（天工工作台）又上线了短剧质检功能来回馈大家——上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。这是一项业界主流竞品目前都还没有上线的能力，SkyProduction",
+      "summary_zh": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检  量子位的朋友们 2026-09-22 18:01:53  来源：量子位   上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。  一部短剧剪完、导出，团队最不愿面对的往往是下一步：逐集看片。 字幕里藏没藏同音错字？人物开口了，字幕跟得上吗？中间有没有闪一下的黑屏、突然炸响的背景音乐？画面里有没有露出 AI 标识、水印、抹除痕迹？更要命的，有没有哪个镜头擦到黄暴红线，一旦送审被打回，整部剧的排期全乱。 这些活儿细、碎、还不能出错。做十集，就得盯十遍；做十部，人就不够用了。制作端靠 AI 把效率拉满，验收端却还卡在人眼上——这是今天几乎每个 AI 短剧团队的真实处境。 在喜迎中秋国庆佳节、折上折活动正如火如荼开展的喜庆氛围里，9月22日，SkyProduction（天工工作台）又上线了短剧质检功能来回馈大家——上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。这是一项业界主流竞品目前都还没有上线的能力，SkyProduction",
+      "publishedAt": "2026-09-22T10:01:53Z",
+      "published_at": "2026-09-22T10:01:53Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -238,8 +243,8 @@
       "rankingScore": 5.0,
       "summary": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
       "summary_zh": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
-      "publishedAt": "2026-09-22T13:33:16Z",
-      "published_at": "2026-09-22T13:33:16Z",
+      "publishedAt": "2026-09-22T23:02:52Z",
+      "published_at": "2026-09-22T23:02:52Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

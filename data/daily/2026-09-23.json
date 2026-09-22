@@ -1,0 +1,513 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-22T23:03:31Z",
+  "generatedAt": "2026-09-22T23:03:31Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "89c01a10",
+          "title": "产品更新：Clueso MCP",
+          "title_en": "Clueso MCP",
+          "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Create and edit videos by chatting Make videos",
+          "summary_zh": "Create and edit videos by chatting Make videos",
+          "publishedAt": "2026-09-22T07:01:00Z",
+          "published_at": "2026-09-22T07:01:00Z",
+          "votes_count": 411,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "811",
+              "name": "Animation",
+              "slug": "animation"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "44bea358",
+          "title": "产品更新：Anomalo",
+          "title_en": "Anomalo",
+          "url": "https://www.producthunt.com/products/anomalo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/anomalo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your data is always talking. Don't miss what i",
+          "summary_zh": "Your data is always talking. Don't miss what i",
+          "publishedAt": "2026-09-22T07:01:00Z",
+          "published_at": "2026-09-22T07:01:00Z",
+          "votes_count": 259,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
+            },
+            {
+              "id": "774",
+              "name": "Business Intelligence",
+              "slug": "business-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "80c401f9",
+          "title": "AI资讯更新：WZRD",
+          "title_en": "WZRD",
+          "url": "https://www.producthunt.com/products/wzrd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wzrd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI-native documents, slides, forms and sheets",
+          "summary_zh": "AI-native documents, slides, forms and sheets",
+          "publishedAt": "2026-09-22T07:01:00Z",
+          "published_at": "2026-09-22T07:01:00Z",
+          "votes_count": 239,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            },
+            {
+              "id": "802",
+              "name": "Design",
+              "slug": "design"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "05560401",
+          "title": "产品更新：SereneDB",
+          "title_en": "SereneDB",
+          "url": "https://www.producthunt.com/products/serenedb-krummelanke?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/serenedb-krummelanke?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Ultra-Fast Search & Analytics Database, Agenti",
+          "summary_zh": "Ultra-Fast Search & Analytics Database, Agenti",
+          "publishedAt": "2026-09-22T07:01:00Z",
+          "published_at": "2026-09-22T07:01:00Z",
+          "votes_count": 193,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "772",
+              "name": "Database",
+              "slug": "database"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "3fe77d5a",
+          "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/493819.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/493819.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求  量子位的朋友们 2026-09-22 16:35:24  来源：量子位   9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行  9月21日，首届中央企业量子人才科创空间产业应用创新大赛（以下简称“量子产业应用创新大赛”）发布会在合肥举行，赛事正式进入报名和项目征集阶段。记者从发布会现场获悉，本次大赛由中央企业量子人才科创空间主办，中国航空工业集团有限公司、国家电网有限公司、中国电信集团有限公司、中国五矿集团有限公司、招商局集团有限公司五家央企联合承办，设置通讯、两用技术、能源、金融、勘探五大赛道，面向全国征集优质量子科技项目，获奖项目将纳入量子科创营开展为期6个月的孵化培育，打通“赛事—孵化—产业落地”全链条。  据介绍，这是国内首次由多家特大型央企联合承办的量子领域专业赛事。大赛面向量子科技领域各类创新主体开放报名，旨在发现一批兼具前沿技术创新与真实应用价值的量子科技项目，推动量子技术从实验室走向产业一线。 首届大赛五大赛道以量子技术融入真实场景为主线，分别对接关系国计民生",
+          "summary_zh": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求  量子位的朋友们 2026-09-22 16:35:24  来源：量子位   9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行  9月21日，首届中央企业量子人才科创空间产业应用创新大赛（以下简称“量子产业应用创新大赛”）发布会在合肥举行，赛事正式进入报名和项目征集阶段。记者从发布会现场获悉，本次大赛由中央企业量子人才科创空间主办，中国航空工业集团有限公司、国家电网有限公司、中国电信集团有限公司、中国五矿集团有限公司、招商局集团有限公司五家央企联合承办，设置通讯、两用技术、能源、金融、勘探五大赛道，面向全国征集优质量子科技项目，获奖项目将纳入量子科创营开展为期6个月的孵化培育，打通“赛事—孵化—产业落地”全链条。  据介绍，这是国内首次由多家特大型央企联合承办的量子领域专业赛事。大赛面向量子科技领域各类创新主体开放报名，旨在发现一批兼具前沿技术创新与真实应用价值的量子科技项目，推动量子技术从实验室走向产业一线。 首届大赛五大赛道以量子技术融入真实场景为主线，分别对接关系国计民生",
+          "publishedAt": "2026-09-22T08:35:24Z",
+          "published_at": "2026-09-22T08:35:24Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "eec5eabb",
+          "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/493865.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/493865.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建  量子位的朋友们 2026-09-22 16:49:12  来源：量子位   9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”  9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”，帮助创作者减少AI生成视频无效抽卡，实现制作全程精准可控，并支持大型团队、多工种协作，提升组织效率。虎鲸文娱集团CTO杜颜龙透露，鲸锐AI计划于10月正式开启内测，首批内测名额将面向专业影视创作者及制作团队开放申请。 “伴随着我国AI技术迅速发展、AI人才爆发增长，文娱产业正迎来换道超车好莱坞的时代机遇。文娱产业真正的机会，不是用AI生产多少内容，而是参与定义新一代内容工业的生产标准。虎鲸文娱推出鲸锐AI，就是希望以这样一套AI新基建，助力中国文娱产业生产力跃迁，让更多创作者用AI讲出好故事。”杜颜龙表示。  图说：虎鲸文娱集团CTO杜颜龙发布鲸锐AI AI时代不缺模型能力，缺全链路管理生产系统 过去",
+          "summary_zh": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建  量子位的朋友们 2026-09-22 16:49:12  来源：量子位   9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”  9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”，帮助创作者减少AI生成视频无效抽卡，实现制作全程精准可控，并支持大型团队、多工种协作，提升组织效率。虎鲸文娱集团CTO杜颜龙透露，鲸锐AI计划于10月正式开启内测，首批内测名额将面向专业影视创作者及制作团队开放申请。 “伴随着我国AI技术迅速发展、AI人才爆发增长，文娱产业正迎来换道超车好莱坞的时代机遇。文娱产业真正的机会，不是用AI生产多少内容，而是参与定义新一代内容工业的生产标准。虎鲸文娱推出鲸锐AI，就是希望以这样一套AI新基建，助力中国文娱产业生产力跃迁，让更多创作者用AI讲出好故事。”杜颜龙表示。  图说：虎鲸文娱集团CTO杜颜龙发布鲸锐AI AI时代不缺模型能力，缺全链路管理生产系统 过去",
+          "publishedAt": "2026-09-22T08:49:12Z",
+          "published_at": "2026-09-22T08:49:12Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "1d290a5a",
+          "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/494043.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/494043.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检  量子位的朋友们 2026-09-22 18:01:53  来源：量子位   上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。  一部短剧剪完、导出，团队最不愿面对的往往是下一步：逐集看片。 字幕里藏没藏同音错字？人物开口了，字幕跟得上吗？中间有没有闪一下的黑屏、突然炸响的背景音乐？画面里有没有露出 AI 标识、水印、抹除痕迹？更要命的，有没有哪个镜头擦到黄暴红线，一旦送审被打回，整部剧的排期全乱。 这些活儿细、碎、还不能出错。做十集，就得盯十遍；做十部，人就不够用了。制作端靠 AI 把效率拉满，验收端却还卡在人眼上——这是今天几乎每个 AI 短剧团队的真实处境。 在喜迎中秋国庆佳节、折上折活动正如火如荼开展的喜庆氛围里，9月22日，SkyProduction（天工工作台）又上线了短剧质检功能来回馈大家——上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。这是一项业界主流竞品目前都还没有上线的能力，SkyProduction",
+          "summary_zh": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检  量子位的朋友们 2026-09-22 18:01:53  来源：量子位   上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。  一部短剧剪完、导出，团队最不愿面对的往往是下一步：逐集看片。 字幕里藏没藏同音错字？人物开口了，字幕跟得上吗？中间有没有闪一下的黑屏、突然炸响的背景音乐？画面里有没有露出 AI 标识、水印、抹除痕迹？更要命的，有没有哪个镜头擦到黄暴红线，一旦送审被打回，整部剧的排期全乱。 这些活儿细、碎、还不能出错。做十集，就得盯十遍；做十部，人就不够用了。制作端靠 AI 把效率拉满，验收端却还卡在人眼上——这是今天几乎每个 AI 短剧团队的真实处境。 在喜迎中秋国庆佳节、折上折活动正如火如荼开展的喜庆氛围里，9月22日，SkyProduction（天工工作台）又上线了短剧质检功能来回馈大家——上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。这是一项业界主流竞品目前都还没有上线的能力，SkyProduction",
+          "publishedAt": "2026-09-22T10:01:53Z",
+          "published_at": "2026-09-22T10:01:53Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "8fd6caea",
+          "title": "虎鲸文娱推出“鲸锐AI”影视制作与管",
+          "title_en": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+          "summary_zh": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+          "publishedAt": "2026-09-22T23:02:52Z",
+          "published_at": "2026-09-22T23:02:52Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "89c01a10",
+      "title": "产品更新：Clueso MCP",
+      "title_en": "Clueso MCP",
+      "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Create and edit videos by chatting Make videos",
+      "summary_zh": "Create and edit videos by chatting Make videos",
+      "publishedAt": "2026-09-22T07:01:00Z",
+      "published_at": "2026-09-22T07:01:00Z",
+      "votes_count": 411,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "811",
+          "name": "Animation",
+          "slug": "animation"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "44bea358",
+      "title": "产品更新：Anomalo",
+      "title_en": "Anomalo",
+      "url": "https://www.producthunt.com/products/anomalo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/anomalo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your data is always talking. Don't miss what i",
+      "summary_zh": "Your data is always talking. Don't miss what i",
+      "publishedAt": "2026-09-22T07:01:00Z",
+      "published_at": "2026-09-22T07:01:00Z",
+      "votes_count": 259,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "582",
+          "name": "Data & Analytics",
+          "slug": "data-analytics"
+        },
+        {
+          "id": "774",
+          "name": "Business Intelligence",
+          "slug": "business-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "80c401f9",
+      "title": "AI资讯更新：WZRD",
+      "title_en": "WZRD",
+      "url": "https://www.producthunt.com/products/wzrd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/wzrd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI-native documents, slides, forms and sheets",
+      "summary_zh": "AI-native documents, slides, forms and sheets",
+      "publishedAt": "2026-09-22T07:01:00Z",
+      "published_at": "2026-09-22T07:01:00Z",
+      "votes_count": 239,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        },
+        {
+          "id": "802",
+          "name": "Design",
+          "slug": "design"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "05560401",
+      "title": "产品更新：SereneDB",
+      "title_en": "SereneDB",
+      "url": "https://www.producthunt.com/products/serenedb-krummelanke?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/serenedb-krummelanke?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Ultra-Fast Search & Analytics Database, Agenti",
+      "summary_zh": "Ultra-Fast Search & Analytics Database, Agenti",
+      "publishedAt": "2026-09-22T07:01:00Z",
+      "published_at": "2026-09-22T07:01:00Z",
+      "votes_count": 193,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "772",
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3fe77d5a",
+      "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/493819.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/493819.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求  量子位的朋友们 2026-09-22 16:35:24  来源：量子位   9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行  9月21日，首届中央企业量子人才科创空间产业应用创新大赛（以下简称“量子产业应用创新大赛”）发布会在合肥举行，赛事正式进入报名和项目征集阶段。记者从发布会现场获悉，本次大赛由中央企业量子人才科创空间主办，中国航空工业集团有限公司、国家电网有限公司、中国电信集团有限公司、中国五矿集团有限公司、招商局集团有限公司五家央企联合承办，设置通讯、两用技术、能源、金融、勘探五大赛道，面向全国征集优质量子科技项目，获奖项目将纳入量子科创营开展为期6个月的孵化培育，打通“赛事—孵化—产业落地”全链条。  据介绍，这是国内首次由多家特大型央企联合承办的量子领域专业赛事。大赛面向量子科技领域各类创新主体开放报名，旨在发现一批兼具前沿技术创新与真实应用价值的量子科技项目，推动量子技术从实验室走向产业一线。 首届大赛五大赛道以量子技术融入真实场景为主线，分别对接关系国计民生",
+      "summary_zh": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求  量子位的朋友们 2026-09-22 16:35:24  来源：量子位   9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行  9月21日，首届中央企业量子人才科创空间产业应用创新大赛（以下简称“量子产业应用创新大赛”）发布会在合肥举行，赛事正式进入报名和项目征集阶段。记者从发布会现场获悉，本次大赛由中央企业量子人才科创空间主办，中国航空工业集团有限公司、国家电网有限公司、中国电信集团有限公司、中国五矿集团有限公司、招商局集团有限公司五家央企联合承办，设置通讯、两用技术、能源、金融、勘探五大赛道，面向全国征集优质量子科技项目，获奖项目将纳入量子科创营开展为期6个月的孵化培育，打通“赛事—孵化—产业落地”全链条。  据介绍，这是国内首次由多家特大型央企联合承办的量子领域专业赛事。大赛面向量子科技领域各类创新主体开放报名，旨在发现一批兼具前沿技术创新与真实应用价值的量子科技项目，推动量子技术从实验室走向产业一线。 首届大赛五大赛道以量子技术融入真实场景为主线，分别对接关系国计民生",
+      "publishedAt": "2026-09-22T08:35:24Z",
+      "published_at": "2026-09-22T08:35:24Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "eec5eabb",
+      "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/493865.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/493865.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建  量子位的朋友们 2026-09-22 16:49:12  来源：量子位   9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”  9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”，帮助创作者减少AI生成视频无效抽卡，实现制作全程精准可控，并支持大型团队、多工种协作，提升组织效率。虎鲸文娱集团CTO杜颜龙透露，鲸锐AI计划于10月正式开启内测，首批内测名额将面向专业影视创作者及制作团队开放申请。 “伴随着我国AI技术迅速发展、AI人才爆发增长，文娱产业正迎来换道超车好莱坞的时代机遇。文娱产业真正的机会，不是用AI生产多少内容，而是参与定义新一代内容工业的生产标准。虎鲸文娱推出鲸锐AI，就是希望以这样一套AI新基建，助力中国文娱产业生产力跃迁，让更多创作者用AI讲出好故事。”杜颜龙表示。  图说：虎鲸文娱集团CTO杜颜龙发布鲸锐AI AI时代不缺模型能力，缺全链路管理生产系统 过去",
+      "summary_zh": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建  量子位的朋友们 2026-09-22 16:49:12  来源：量子位   9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”  9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”，帮助创作者减少AI生成视频无效抽卡，实现制作全程精准可控，并支持大型团队、多工种协作，提升组织效率。虎鲸文娱集团CTO杜颜龙透露，鲸锐AI计划于10月正式开启内测，首批内测名额将面向专业影视创作者及制作团队开放申请。 “伴随着我国AI技术迅速发展、AI人才爆发增长，文娱产业正迎来换道超车好莱坞的时代机遇。文娱产业真正的机会，不是用AI生产多少内容，而是参与定义新一代内容工业的生产标准。虎鲸文娱推出鲸锐AI，就是希望以这样一套AI新基建，助力中国文娱产业生产力跃迁，让更多创作者用AI讲出好故事。”杜颜龙表示。  图说：虎鲸文娱集团CTO杜颜龙发布鲸锐AI AI时代不缺模型能力，缺全链路管理生产系统 过去",
+      "publishedAt": "2026-09-22T08:49:12Z",
+      "published_at": "2026-09-22T08:49:12Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "1d290a5a",
+      "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/494043.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/494043.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检  量子位的朋友们 2026-09-22 18:01:53  来源：量子位   上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。  一部短剧剪完、导出，团队最不愿面对的往往是下一步：逐集看片。 字幕里藏没藏同音错字？人物开口了，字幕跟得上吗？中间有没有闪一下的黑屏、突然炸响的背景音乐？画面里有没有露出 AI 标识、水印、抹除痕迹？更要命的，有没有哪个镜头擦到黄暴红线，一旦送审被打回，整部剧的排期全乱。 这些活儿细、碎、还不能出错。做十集，就得盯十遍；做十部，人就不够用了。制作端靠 AI 把效率拉满，验收端却还卡在人眼上——这是今天几乎每个 AI 短剧团队的真实处境。 在喜迎中秋国庆佳节、折上折活动正如火如荼开展的喜庆氛围里，9月22日，SkyProduction（天工工作台）又上线了短剧质检功能来回馈大家——上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。这是一项业界主流竞品目前都还没有上线的能力，SkyProduction",
+      "summary_zh": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检  量子位的朋友们 2026-09-22 18:01:53  来源：量子位   上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。  一部短剧剪完、导出，团队最不愿面对的往往是下一步：逐集看片。 字幕里藏没藏同音错字？人物开口了，字幕跟得上吗？中间有没有闪一下的黑屏、突然炸响的背景音乐？画面里有没有露出 AI 标识、水印、抹除痕迹？更要命的，有没有哪个镜头擦到黄暴红线，一旦送审被打回，整部剧的排期全乱。 这些活儿细、碎、还不能出错。做十集，就得盯十遍；做十部，人就不够用了。制作端靠 AI 把效率拉满，验收端却还卡在人眼上——这是今天几乎每个 AI 短剧团队的真实处境。 在喜迎中秋国庆佳节、折上折活动正如火如荼开展的喜庆氛围里，9月22日，SkyProduction（天工工作台）又上线了短剧质检功能来回馈大家——上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。这是一项业界主流竞品目前都还没有上线的能力，SkyProduction",
+      "publishedAt": "2026-09-22T10:01:53Z",
+      "published_at": "2026-09-22T10:01:53Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "8fd6caea",
+      "title": "虎鲸文娱推出“鲸锐AI”影视制作与管",
+      "title_en": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+      "summary_zh": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+      "publishedAt": "2026-09-22T23:02:52Z",
+      "published_at": "2026-09-22T23:02:52Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
