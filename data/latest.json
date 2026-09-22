@@ -1,142 +1,66 @@
 {
-  "generated_at": "2026-09-21T23:24:08Z",
-  "generatedAt": "2026-09-21T23:24:08Z",
+  "generated_at": "2026-09-22T13:34:11Z",
+  "generatedAt": "2026-09-22T13:34:11Z",
   "days": 7,
   "total": 8,
   "count": 8,
   "items": [
     {
-      "id": "8c7107d4",
-      "title": "产品更新：Superset Mobile",
-      "title_en": "Superset Mobile",
-      "url": "https://www.producthunt.com/products/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "89c01a10",
+      "title": "产品更新：Clueso MCP",
+      "title_en": "Clueso MCP",
+      "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Your coding agents, now in your pocket Orchest",
-      "summary_zh": "Your coding agents, now in your pocket Orchest",
-      "publishedAt": "2026-09-21T07:01:00Z",
-      "published_at": "2026-09-21T07:01:00Z",
-      "votes_count": 410,
+      "summary": "Create and edit videos by chatting Make videos",
+      "summary_zh": "Create and edit videos by chatting Make videos",
+      "publishedAt": "2026-09-22T07:01:00Z",
+      "published_at": "2026-09-22T07:01:00Z",
+      "votes_count": 271,
       "featured": true,
       "topics": [
-        {
-          "id": "8",
-          "name": "iOS",
-          "slug": "ios"
-        },
         {
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
         },
         {
-          "id": "589",
-          "name": "Development",
-          "slug": "development"
+          "id": "811",
+          "name": "Animation",
+          "slug": "animation"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
         }
       ],
       "score_details": null
     },
     {
-      "id": "6809f1b5",
-      "title": "模型更新：Jev",
-      "title_en": "Jev",
-      "url": "https://www.producthunt.com/products/jev-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "80c401f9",
+      "title": "AI资讯更新：WZRD",
+      "title_en": "WZRD",
+      "url": "https://www.producthunt.com/products/wzrd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/jev-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/wzrd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Fast, structured AI decisions for software aut",
-      "summary_zh": "Fast, structured AI decisions for software aut",
-      "publishedAt": "2026-09-21T07:01:00Z",
-      "published_at": "2026-09-21T07:01:00Z",
-      "votes_count": 390,
-      "featured": true,
-      "topics": [
-        {
-          "id": "88",
-          "name": "API",
-          "slug": "api-1"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "6614ef82",
-      "title": "AI资讯更新：Arcjet",
-      "title_en": "Arcjet",
-      "url": "https://www.producthunt.com/products/arcjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/arcjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Secure the AI agents you're building at runtim",
-      "summary_zh": "Secure the AI agents you're building at runtim",
-      "publishedAt": "2026-09-21T07:01:00Z",
-      "published_at": "2026-09-21T07:01:00Z",
-      "votes_count": 331,
-      "featured": true,
-      "topics": [
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "778",
-          "name": "SDK",
-          "slug": "sdk"
-        },
-        {
-          "id": "865",
-          "name": "Security",
-          "slug": "security"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "fab48e9b",
-      "title": "产品更新：Sai",
-      "title_en": "Sai",
-      "url": "https://www.producthunt.com/products/simular?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/simular?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "The autonomous computer fleet at your command",
-      "summary_zh": "The autonomous computer fleet at your command",
-      "publishedAt": "2026-09-21T07:01:00Z",
-      "published_at": "2026-09-21T07:01:00Z",
-      "votes_count": 301,
+      "summary": "AI-native documents, slides, forms and sheets",
+      "summary_zh": "AI-native documents, slides, forms and sheets",
+      "publishedAt": "2026-09-22T07:01:00Z",
+      "published_at": "2026-09-22T07:01:00Z",
+      "votes_count": 164,
       "featured": true,
       "topics": [
         {
@@ -145,83 +69,164 @@
           "slug": "productivity"
         },
         {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        },
+        {
+          "id": "802",
+          "name": "Design",
+          "slug": "design"
         }
       ],
       "score_details": null
     },
     {
-      "id": "1704de63",
-      "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
+      "id": "44bea358",
+      "title": "产品更新：Anomalo",
+      "title_en": "Anomalo",
+      "url": "https://www.producthunt.com/products/anomalo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/anomalo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your data is always talking. Don't miss what i",
+      "summary_zh": "Your data is always talking. Don't miss what i",
+      "publishedAt": "2026-09-22T07:01:00Z",
+      "published_at": "2026-09-22T07:01:00Z",
+      "votes_count": 163,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "582",
+          "name": "Data & Analytics",
+          "slug": "data-analytics"
+        },
+        {
+          "id": "774",
+          "name": "Business Intelligence",
+          "slug": "business-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ee0dd2ff",
+      "title": "产品更新：thestory.run",
+      "title_en": "thestory.run",
+      "url": "https://www.producthunt.com/products/thestory-run?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/thestory-run?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A writing coach for corporate influencers. You",
+      "summary_zh": "A writing coach for corporate influencers. You",
+      "publishedAt": "2026-09-22T07:01:00Z",
+      "published_at": "2026-09-22T07:01:00Z",
+      "votes_count": 120,
+      "featured": true,
+      "topics": [
+        {
+          "id": "90",
+          "name": "Writing",
+          "slug": "writing"
+        },
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "845",
+          "name": "Social media marketing",
+          "slug": "social-media-marketing"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "266dbb54",
+      "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/493091.html",
+      "url": "https://www.qbitai.com/2026/09/493502.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/493091.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/493502.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA  量子位的朋友们 2026-09-21 09:48:50  来源：量子位   近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上  近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上。依托开放生态战略，比亚迪率先完成从 APP 时代到AI智能体时代的关键跨越，重构汽车智能体验。比亚迪集团高级副总裁、汽车新技术研究院院长杨冬生出席发布会，并对迪迪虾进行深度技术解读。  迪迪虾基于比亚迪“舱、驾、电一体”的璇玑架构2.0，将智能座舱全面升级为AI OS，可实现端云协同，端侧车控瞬间响应，小事秒回；云侧深度思考推理，大事想透，并拥有能听、能看、能感受的多模态感知系统，可按需调用的工具系统，可复用的技能系统和越用越懂你的记忆系统，加上开放的生态，让科技智能体验触手可及。  凭借“玩得转、搞得定、聊得来”的能力，迪迪虾具备多场景办事、自然深度对话能力，区别于传统车载助手，为新能源汽车智能化发展带来全新范式。  首先是玩得转。比亚迪打造了生态智能体开放平台，支持A2A、MCP标准协议，让全",
-      "summary_zh": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA  量子位的朋友们 2026-09-21 09:48:50  来源：量子位   近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上  近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上。依托开放生态战略，比亚迪率先完成从 APP 时代到AI智能体时代的关键跨越，重构汽车智能体验。比亚迪集团高级副总裁、汽车新技术研究院院长杨冬生出席发布会，并对迪迪虾进行深度技术解读。  迪迪虾基于比亚迪“舱、驾、电一体”的璇玑架构2.0，将智能座舱全面升级为AI OS，可实现端云协同，端侧车控瞬间响应，小事秒回；云侧深度思考推理，大事想透，并拥有能听、能看、能感受的多模态感知系统，可按需调用的工具系统，可复用的技能系统和越用越懂你的记忆系统，加上开放的生态，让科技智能体验触手可及。  凭借“玩得转、搞得定、聊得来”的能力，迪迪虾具备多场景办事、自然深度对话能力，区别于传统车载助手，为新能源汽车智能化发展带来全新范式。  首先是玩得转。比亚迪打造了生态智能体开放平台，支持A2A、MCP标准协议，让全",
-      "publishedAt": "2026-09-21T01:48:50Z",
-      "published_at": "2026-09-21T01:48:50Z",
+      "summary": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石  量子位的朋友们 2026-09-22 10:59:29  来源：量子位   吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。  9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭表示，机器正在成为思考的主力，「思考」将像工业革命中的「动力」一样，成为规模化供给的商品。未来机器思考总量将是人类的1000倍，而今天这一比例不到3%，至少还有几万倍的增长空间。 吴泳铭认为，今天机器动力已经承担了99.9%的物理工作，未来人类的思考总量还会继续增长，但机器思考将以更快的速度扩张，预期将会承担99.9%的思考工作。顶级思考将从奢侈品变成可规模化供给的商品，每个细分领域都可以拥有上百万量级的AI科学家和专家，将给人类社会带来巨大的改变。 机器思考能够规模化供给的前提，是AI基础设施足够完善、足够发达，就像当年各类电器得以普及，第一步是建设足够多的发电站和电网。1900年前后，已有不少电器进入家庭，当时全世界一整年的发电量，放到今天只够用两个小时。 吴泳铭表示，AI模",
+      "summary_zh": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石  量子位的朋友们 2026-09-22 10:59:29  来源：量子位   吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。  9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭表示，机器正在成为思考的主力，「思考」将像工业革命中的「动力」一样，成为规模化供给的商品。未来机器思考总量将是人类的1000倍，而今天这一比例不到3%，至少还有几万倍的增长空间。 吴泳铭认为，今天机器动力已经承担了99.9%的物理工作，未来人类的思考总量还会继续增长，但机器思考将以更快的速度扩张，预期将会承担99.9%的思考工作。顶级思考将从奢侈品变成可规模化供给的商品，每个细分领域都可以拥有上百万量级的AI科学家和专家，将给人类社会带来巨大的改变。 机器思考能够规模化供给的前提，是AI基础设施足够完善、足够发达，就像当年各类电器得以普及，第一步是建设足够多的发电站和电网。1900年前后，已有不少电器进入家庭，当时全世界一整年的发电量，放到今天只够用两个小时。 吴泳铭表示，AI模",
+      "publishedAt": "2026-09-22T02:59:29Z",
+      "published_at": "2026-09-22T02:59:29Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "0e812292",
-      "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
+      "id": "88b7690a",
+      "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/493109.html",
+      "url": "https://www.qbitai.com/2026/09/493510.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/493109.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/493510.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一  量子位的朋友们 2026-09-21 10:17:33  来源：量子位   范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。  【北京，2026年9月21日】全球知名的科技市场研究机构IDC发布最新《中国AI算力管理平台技术能力评估，2026》，对中国市场多家主流AI算力管理平台技术提供商进行全面评估。范式智能（6682.HK）凭借在异构算力纳管、GPU细粒度虚拟化及面向智能体的算力服务化等方面的技术积累，成为在算力资源管理、算力运维、技术架构、交付服务四个维度均获满分的厂商，综合评分位列第一。 IDC在报告中指出，随着AI应用进入规模化落地阶段，智能体技术和应用的持续深化正在重塑云基础设施的核心范式，AI基础设施正从基础算力平台逐渐演进为驱动企业智能化转型的核心IT基础设施。本次评估围绕算力资源管理、算力服务管理、算力运维、技术架构、业务场景支撑及交付服务六大维度展开，旨在为企业平台选型提供借鉴参考。 范式创始人兼CEO 戴文渊博士表示：“AI产业正从‘模型竞赛’迈向‘规模化落地’的",
-      "summary_zh": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一  量子位的朋友们 2026-09-21 10:17:33  来源：量子位   范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。  【北京，2026年9月21日】全球知名的科技市场研究机构IDC发布最新《中国AI算力管理平台技术能力评估，2026》，对中国市场多家主流AI算力管理平台技术提供商进行全面评估。范式智能（6682.HK）凭借在异构算力纳管、GPU细粒度虚拟化及面向智能体的算力服务化等方面的技术积累，成为在算力资源管理、算力运维、技术架构、交付服务四个维度均获满分的厂商，综合评分位列第一。 IDC在报告中指出，随着AI应用进入规模化落地阶段，智能体技术和应用的持续深化正在重塑云基础设施的核心范式，AI基础设施正从基础算力平台逐渐演进为驱动企业智能化转型的核心IT基础设施。本次评估围绕算力资源管理、算力服务管理、算力运维、技术架构、业务场景支撑及交付服务六大维度展开，旨在为企业平台选型提供借鉴参考。 范式创始人兼CEO 戴文渊博士表示：“AI产业正从‘模型竞赛’迈向‘规模化落地’的",
-      "publishedAt": "2026-09-21T02:17:33Z",
-      "published_at": "2026-09-21T02:17:33Z",
+      "summary": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远  量子位的朋友们 2026-09-22 11:13:44  来源：量子位   “潮起之时，靠岸相见”  2026年，出海的关键词正在从“增量”转向“经营”，企业关注的重点也从抢占机会，转向本地团队、供应链、渠道、品牌与合规等一整套长期能力的建设。36氪以“潮起之时，靠岸相见”为主题举办2026 East Forward出海大会，邀请来自消费、科技、制造等不同领域的出海企业，以及投资机构与全球化服务商，共同讨论企业走出去之后，如何在复杂多变的全球市场中建立更稳固的经营能力，找到长期经营与增长的路径。 2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。 过去几年，汽车、新能源、跨境电商、AI应用……越来越多中国企业进入全球市场。然而，一次市场突破、一轮业绩增长，并不意味着全球化已经完成。当出海从试水走向常态，真正的挑战也开始从“怎么出去”，转向“怎么留下来”。规则与市场环境持续变化，供应链、渠道和本地团队需要重新搭建，品牌也要面对不同文化和消费习惯的考验。过去行业反复讨论“要不要出海”，今天",
+      "summary_zh": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远  量子位的朋友们 2026-09-22 11:13:44  来源：量子位   “潮起之时，靠岸相见”  2026年，出海的关键词正在从“增量”转向“经营”，企业关注的重点也从抢占机会，转向本地团队、供应链、渠道、品牌与合规等一整套长期能力的建设。36氪以“潮起之时，靠岸相见”为主题举办2026 East Forward出海大会，邀请来自消费、科技、制造等不同领域的出海企业，以及投资机构与全球化服务商，共同讨论企业走出去之后，如何在复杂多变的全球市场中建立更稳固的经营能力，找到长期经营与增长的路径。 2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。 过去几年，汽车、新能源、跨境电商、AI应用……越来越多中国企业进入全球市场。然而，一次市场突破、一轮业绩增长，并不意味着全球化已经完成。当出海从试水走向常态，真正的挑战也开始从“怎么出去”，转向“怎么留下来”。规则与市场环境持续变化，供应链、渠道和本地团队需要重新搭建，品牌也要面对不同文化和消费习惯的考验。过去行业反复讨论“要不要出海”，今天",
+      "publishedAt": "2026-09-22T03:13:44Z",
+      "published_at": "2026-09-22T03:13:44Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "d7df6962",
-      "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+      "id": "aaad8302",
+      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/493114.html",
+      "url": "https://www.qbitai.com/2026/09/493625.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/493114.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/493625.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布  量子位的朋友们 2026-09-21 10:28:46  来源：量子位   《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。  9 月 21 日，由百曜科技发起，《麻省理工科技评论》中国团队调研并撰写的《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。该报告在中关村科学城管理委员会指导下完成。 百曜科技发起这项研究，并非只是为了描述一个新兴技术方向，更希望推动行业共同回答一个实际问题：AIVC 如何从论文中的能力指标，走向药物研发和生命科学产业中的真实基础设施？ 报告立足全球视角，通过对全球数十家科研机构、技术企业与制药企业的深度调研，明确定义 AIVC 为 AI 时代生命科学的新型基础设施，同时梳理了 AIVC 的技术路线、产业格局与未来趋势，为促进科研机构、产业伙伴、投资和政府机构之间协同合作，推动 AIVC 从概念探索走向规模应用提供系统性参考框架。  复制打开以下链",
-      "summary_zh": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布  量子位的朋友们 2026-09-21 10:28:46  来源：量子位   《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。  9 月 21 日，由百曜科技发起，《麻省理工科技评论》中国团队调研并撰写的《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。该报告在中关村科学城管理委员会指导下完成。 百曜科技发起这项研究，并非只是为了描述一个新兴技术方向，更希望推动行业共同回答一个实际问题：AIVC 如何从论文中的能力指标，走向药物研发和生命科学产业中的真实基础设施？ 报告立足全球视角，通过对全球数十家科研机构、技术企业与制药企业的深度调研，明确定义 AIVC 为 AI 时代生命科学的新型基础设施，同时梳理了 AIVC 的技术路线、产业格局与未来趋势，为促进科研机构、产业伙伴、投资和政府机构之间协同合作，推动 AIVC 从概念探索走向规模应用提供系统性参考框架。  复制打开以下链",
-      "publishedAt": "2026-09-21T02:28:46Z",
-      "published_at": "2026-09-21T02:28:46Z",
+      "summary": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中  量子位的朋友们 2026-09-22 11:42:43  来源：量子位   9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。  9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。在大语言模型LLM领域，Qwen3.8-Max在编程（Coding）和办公（Cowork）领域表现强劲，发布后斩获Artificial Analysis Agentic智能体第一、CodeArena前端编程第一；基于下一代架构的Qwen4已投入训练，未来Qwen4.5、Qwen5等后续版本模型参数将扩展至5到10万亿。在多模态领域，Qwen-Image-3.1性能有望逼近最强GPT-Image 系列，跻身全球前列；Qwen-Audio-3.1在ASR、TTS以及Realtime三个核心语音赛道均位列国际第一梯队、国内第一，超越Gemini 3.1 TTS等国际顶尖模型；世界模型HappyOyster-2.0-Preview全新亮相，推动世界模型从实验室走向真实可用；视频生成模型Wan3.0斩获Artificial An",
+      "summary_zh": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中  量子位的朋友们 2026-09-22 11:42:43  来源：量子位   9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。  9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。在大语言模型LLM领域，Qwen3.8-Max在编程（Coding）和办公（Cowork）领域表现强劲，发布后斩获Artificial Analysis Agentic智能体第一、CodeArena前端编程第一；基于下一代架构的Qwen4已投入训练，未来Qwen4.5、Qwen5等后续版本模型参数将扩展至5到10万亿。在多模态领域，Qwen-Image-3.1性能有望逼近最强GPT-Image 系列，跻身全球前列；Qwen-Audio-3.1在ASR、TTS以及Realtime三个核心语音赛道均位列国际第一梯队、国内第一，超越Gemini 3.1 TTS等国际顶尖模型；世界模型HappyOyster-2.0-Preview全新亮相，推动世界模型从实验室走向真实可用；视频生成模型Wan3.0斩获Artificial An",
+      "publishedAt": "2026-09-22T03:42:43Z",
+      "published_at": "2026-09-22T03:42:43Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "6912b402",
-      "title": "ICLR 2027投稿冲到6万，比过",
-      "title_en": "ICLR 2027投稿冲到6万，比过去十几年加起来都多......",
+      "id": "8fd6caea",
+      "title": "虎鲸文娱推出“鲸锐AI”影视制作与管",
+      "title_en": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -231,10 +236,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "ICLR 2027投稿冲到6万，比过去十几年加起来都多......",
-      "summary_zh": "ICLR 2027投稿冲到6万，比过去十几年加起来都多......",
-      "publishedAt": "2026-09-21T23:23:34Z",
-      "published_at": "2026-09-21T23:23:34Z",
+      "summary": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+      "summary_zh": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+      "publishedAt": "2026-09-22T13:33:16Z",
+      "published_at": "2026-09-22T13:33:16Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

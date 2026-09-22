@@ -1,126 +1,126 @@
 {
-  "generated_at": "2026-09-21T23:24:08Z",
-  "generatedAt": "2026-09-21T23:24:08Z",
+  "generated_at": "2026-09-22T13:34:11Z",
+  "generatedAt": "2026-09-22T13:34:11Z",
   "count": 133,
   "total": 133,
   "entries": [
     {
       "date": "2026-09-22",
-      "generated_at": "2026-09-21T23:24:08Z",
-      "generatedAt": "2026-09-21T23:24:08Z",
+      "generated_at": "2026-09-22T13:34:11Z",
+      "generatedAt": "2026-09-22T13:34:11Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "8c7107d4",
-          "title": "产品更新：Superset Mobile",
-          "title_en": "Superset Mobile",
-          "url": "https://www.producthunt.com/products/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "89c01a10",
+          "title": "产品更新：Clueso MCP",
+          "title_en": "Clueso MCP",
+          "url": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/superset-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/clueso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Your coding agents, now in your pocket Orchest",
-          "summary_zh": "Your coding agents, now in your pocket Orchest",
-          "publishedAt": "2026-09-21T07:01:00Z",
-          "published_at": "2026-09-21T07:01:00Z",
-          "votes_count": 410,
+          "summary": "Create and edit videos by chatting Make videos",
+          "summary_zh": "Create and edit videos by chatting Make videos",
+          "publishedAt": "2026-09-22T07:01:00Z",
+          "published_at": "2026-09-22T07:01:00Z",
+          "votes_count": 271,
           "featured": true,
           "topics": [
-            {
-              "id": "8",
-              "name": "iOS",
-              "slug": "ios"
-            },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
             },
             {
-              "id": "589",
-              "name": "Development",
-              "slug": "development"
+              "id": "811",
+              "name": "Animation",
+              "slug": "animation"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
             }
           ],
           "score_details": null
         },
         {
-          "id": "6809f1b5",
-          "title": "模型更新：Jev",
-          "title_en": "Jev",
-          "url": "https://www.producthunt.com/products/jev-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "80c401f9",
+          "title": "AI资讯更新：WZRD",
+          "title_en": "WZRD",
+          "url": "https://www.producthunt.com/products/wzrd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/jev-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/wzrd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Fast, structured AI decisions for software aut",
-          "summary_zh": "Fast, structured AI decisions for software aut",
-          "publishedAt": "2026-09-21T07:01:00Z",
-          "published_at": "2026-09-21T07:01:00Z",
-          "votes_count": 390,
+          "summary": "AI-native documents, slides, forms and sheets",
+          "summary_zh": "AI-native documents, slides, forms and sheets",
+          "publishedAt": "2026-09-22T07:01:00Z",
+          "published_at": "2026-09-22T07:01:00Z",
+          "votes_count": 164,
           "featured": true,
           "topics": [
             {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
             },
+            {
+              "id": "802",
+              "name": "Design",
+              "slug": "design"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "44bea358",
+          "title": "产品更新：Anomalo",
+          "title_en": "Anomalo",
+          "url": "https://www.producthunt.com/products/anomalo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/anomalo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your data is always talking. Don't miss what i",
+          "summary_zh": "Your data is always talking. Don't miss what i",
+          "publishedAt": "2026-09-22T07:01:00Z",
+          "published_at": "2026-09-22T07:01:00Z",
+          "votes_count": 163,
+          "featured": true,
+          "topics": [
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "6614ef82",
-          "title": "AI资讯更新：Arcjet",
-          "title_en": "Arcjet",
-          "url": "https://www.producthunt.com/products/arcjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/arcjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Secure the AI agents you're building at runtim",
-          "summary_zh": "Secure the AI agents you're building at runtim",
-          "publishedAt": "2026-09-21T07:01:00Z",
-          "published_at": "2026-09-21T07:01:00Z",
-          "votes_count": 331,
-          "featured": true,
-          "topics": [
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
             },
             {
-              "id": "778",
-              "name": "SDK",
-              "slug": "sdk"
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
             },
             {
-              "id": "865",
-              "name": "Security",
-              "slug": "security"
+              "id": "774",
+              "name": "Business Intelligence",
+              "slug": "business-intelligence"
             }
           ],
           "score_details": null
