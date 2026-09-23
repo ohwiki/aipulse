@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-23T13:46:46Z",
-  "generatedAt": "2026-09-23T13:46:46Z",
+  "generated_at": "2026-09-23T23:00:52Z",
+  "generatedAt": "2026-09-23T23:00:52Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "aae70a50",
@@ -22,7 +22,7 @@
       "summary_zh": "Agents with their own computers, accounts, and",
       "publishedAt": "2026-09-23T07:01:00Z",
       "published_at": "2026-09-23T07:01:00Z",
-      "votes_count": 290,
+      "votes_count": 392,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Autonomous marketing agents that actually exec",
       "publishedAt": "2026-09-23T07:01:00Z",
       "published_at": "2026-09-23T07:01:00Z",
-      "votes_count": 230,
+      "votes_count": 321,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "Anthropic's first model in their new Claude 5.",
       "publishedAt": "2026-09-23T07:01:00Z",
       "published_at": "2026-09-23T07:01:00Z",
-      "votes_count": 166,
+      "votes_count": 262,
       "featured": true,
       "topics": [
         {
@@ -115,6 +115,44 @@
           "id": "589",
           "name": "Development",
           "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "2b3dc3ea",
+      "title": "产品更新：Pactto",
+      "title_en": "Pactto",
+      "url": "https://www.producthunt.com/products/pactto-replay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/pactto-replay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The room where creative teams align and AI tak",
+      "summary_zh": "The room where creative teams align and AI tak",
+      "publishedAt": "2026-09-23T07:01:00Z",
+      "published_at": "2026-09-23T07:01:00Z",
+      "votes_count": 150,
+      "featured": true,
+      "topics": [
+        {
+          "id": "252",
+          "name": "Meetings",
+          "slug": "meetings"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
         }
       ],
       "score_details": null
@@ -186,9 +224,9 @@
       "score_details": null
     },
     {
-      "id": "385e5328",
-      "title": "蚂蚁密算发布企业级可信智能云服务平台",
-      "title_en": "蚂蚁密算发布企业级可信智能云服务平台“密算一号”，启动首批定向邀测",
+      "id": "f6f5b413",
+      "title": "用微生物在火星「建城」？Pionee",
+      "title_en": "用微生物在火星「建城」？Pioneer Labs培育新型细菌：吃火星土壤、产建筑塑料",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -198,10 +236,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "蚂蚁密算发布企业级可信智能云服务平台“密算一号”，启动首批定向邀测",
-      "summary_zh": "蚂蚁密算发布企业级可信智能云服务平台“密算一号”，启动首批定向邀测",
-      "publishedAt": "2026-09-23T13:45:44Z",
-      "published_at": "2026-09-23T13:45:44Z",
+      "summary": "用微生物在火星「建城」？Pioneer Labs培育新型细菌：吃火星土壤、产建筑塑料",
+      "summary_zh": "用微生物在火星「建城」？Pioneer Labs培育新型细菌：吃火星土壤、产建筑塑料",
+      "publishedAt": "2026-09-23T23:00:13Z",
+      "published_at": "2026-09-23T23:00:13Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

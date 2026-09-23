@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-09-23T13:46:46Z",
-  "generatedAt": "2026-09-23T13:46:46Z",
-  "count": 134,
-  "total": 134,
+  "generated_at": "2026-09-23T23:00:52Z",
+  "generatedAt": "2026-09-23T23:00:52Z",
+  "count": 135,
+  "total": 135,
   "entries": [
+    {
+      "date": "2026-09-24",
+      "generated_at": "2026-09-23T23:00:52Z",
+      "generatedAt": "2026-09-23T23:00:52Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "aae70a50",
+          "title": "产品更新：Solid",
+          "title_en": "Solid",
+          "url": "https://www.producthunt.com/products/solid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/solid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Agents with their own computers, accounts, and",
+          "summary_zh": "Agents with their own computers, accounts, and",
+          "publishedAt": "2026-09-23T07:01:00Z",
+          "published_at": "2026-09-23T07:01:00Z",
+          "votes_count": 392,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "38a8df1c",
+          "title": "AI资讯更新：Naise AI",
+          "title_en": "Naise AI",
+          "url": "https://www.producthunt.com/products/naise-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/naise-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Autonomous marketing agents that actually exec",
+          "summary_zh": "Autonomous marketing agents that actually exec",
+          "publishedAt": "2026-09-23T07:01:00Z",
+          "published_at": "2026-09-23T07:01:00Z",
+          "votes_count": 321,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d6cefe7a",
+          "title": "产品更新：Claude Opus 5.5",
+          "title_en": "Claude Opus 5.5",
+          "url": "https://www.producthunt.com/products/claude-fable-5-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/claude-fable-5-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Anthropic's first model in their new Claude 5.",
+          "summary_zh": "Anthropic's first model in their new Claude 5.",
+          "publishedAt": "2026-09-23T07:01:00Z",
+          "published_at": "2026-09-23T07:01:00Z",
+          "votes_count": 262,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "generated_at": "2026-09-23T13:46:46Z",

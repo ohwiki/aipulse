@@ -1,0 +1,503 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-23T23:00:52Z",
+  "generatedAt": "2026-09-23T23:00:52Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "aae70a50",
+          "title": "产品更新：Solid",
+          "title_en": "Solid",
+          "url": "https://www.producthunt.com/products/solid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/solid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Agents with their own computers, accounts, and",
+          "summary_zh": "Agents with their own computers, accounts, and",
+          "publishedAt": "2026-09-23T07:01:00Z",
+          "published_at": "2026-09-23T07:01:00Z",
+          "votes_count": 392,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "38a8df1c",
+          "title": "AI资讯更新：Naise AI",
+          "title_en": "Naise AI",
+          "url": "https://www.producthunt.com/products/naise-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/naise-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Autonomous marketing agents that actually exec",
+          "summary_zh": "Autonomous marketing agents that actually exec",
+          "publishedAt": "2026-09-23T07:01:00Z",
+          "published_at": "2026-09-23T07:01:00Z",
+          "votes_count": 321,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d6cefe7a",
+          "title": "产品更新：Claude Opus 5.5",
+          "title_en": "Claude Opus 5.5",
+          "url": "https://www.producthunt.com/products/claude-fable-5-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/claude-fable-5-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Anthropic's first model in their new Claude 5.",
+          "summary_zh": "Anthropic's first model in their new Claude 5.",
+          "publishedAt": "2026-09-23T07:01:00Z",
+          "published_at": "2026-09-23T07:01:00Z",
+          "votes_count": 262,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2b3dc3ea",
+          "title": "产品更新：Pactto",
+          "title_en": "Pactto",
+          "url": "https://www.producthunt.com/products/pactto-replay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pactto-replay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The room where creative teams align and AI tak",
+          "summary_zh": "The room where creative teams align and AI tak",
+          "publishedAt": "2026-09-23T07:01:00Z",
+          "published_at": "2026-09-23T07:01:00Z",
+          "votes_count": 150,
+          "featured": true,
+          "topics": [
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "8b42136c",
+          "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/496329.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/496329.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！  梦瑶 2026-09-23 14:08:50  来源：量子位   实时性和通用能力，世界模型可以全都要  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 这年头，实时生成的世界模型越来越会「造世界」了。 画面更夯，控制更细，但一旦走到实时生成这一步，继续往上做能力，就会有个很难绕开的坎： 能力越强，实时越难守，整个行业也因此苦既要又要的增长难题久矣。 更麻烦的是，实时世界模型还得面对世界模型的共性难题，相比LLM，能力想沿着稳定路径持续增长也没那么容易。 然而，这个困扰行业多年的实时世界模型的老bug，如今，已经有厂商用实际模型完成验证并跑出了答案—— 实时性和通用能力，世界模型可以全都要。     这个玩家的名字大家应该不陌生：爱诗科技。 其实今年1月的时候，爱诗就发布了首个通用实时世界模型R1，主打持续生成能力，当时直接在网上火出圈了一波。 就在这两天，全新的实时世界模型PixVerse R2，也上线了。 甚至一经上线，模型就直接冲到了X平台的热度总榜——     这回，R2直接把LLM里那套规模继续加、能力继",
+          "summary_zh": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！  梦瑶 2026-09-23 14:08:50  来源：量子位   实时性和通用能力，世界模型可以全都要  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 这年头，实时生成的世界模型越来越会「造世界」了。 画面更夯，控制更细，但一旦走到实时生成这一步，继续往上做能力，就会有个很难绕开的坎： 能力越强，实时越难守，整个行业也因此苦既要又要的增长难题久矣。 更麻烦的是，实时世界模型还得面对世界模型的共性难题，相比LLM，能力想沿着稳定路径持续增长也没那么容易。 然而，这个困扰行业多年的实时世界模型的老bug，如今，已经有厂商用实际模型完成验证并跑出了答案—— 实时性和通用能力，世界模型可以全都要。     这个玩家的名字大家应该不陌生：爱诗科技。 其实今年1月的时候，爱诗就发布了首个通用实时世界模型R1，主打持续生成能力，当时直接在网上火出圈了一波。 就在这两天，全新的实时世界模型PixVerse R2，也上线了。 甚至一经上线，模型就直接冲到了X平台的热度总榜——     这回，R2直接把LLM里那套规模继续加、能力继",
+          "publishedAt": "2026-09-23T06:08:50Z",
+          "published_at": "2026-09-23T06:08:50Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0d31c96d",
+          "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/496352.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/496352.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Jev vs Decitron：同为决策AI，为什么不是一回事？  思邈 2026-09-23 14:38:07  来源：量子位   对复杂现实进行推演与决策   允中 发自 凹非寺 量子位 | 公众号QbitAI  最近，一个叫Jev的新模型突然火了。 它来自TypeSafe AI。这支有OpenAI背景的团队没有继续卷生成和推理，而是换了个方向：让AI直接做判断。 他们甚至把口号直接写成：Decisions, not strings（要决策，不要文本）。 Jev的走红，也让“Decision”（决策）重新成为AI圈的热门词。 但如果把时间线往前拨几个月，会发现这条趋势并不是今天才出现。 在Jev受到关注之前，国内已经出现了一条“决策AI”路线。今年6月，中科闻歌（此前被部分媒体称为“决策大模型第一股”）发布了通用决策大模型Decitron决策机，尝试将世界模型、多智能体推演、博弈与求解纳入统一的决策框架。 那么问题来了：同样都在讲“决策AI”，Jev和Decitron，到底是不是一回事？  答案是否定的。Jev和Decitron都在讲Decision，但对“决策”这件事的理解并不相",
+          "summary_zh": "Jev vs Decitron：同为决策AI，为什么不是一回事？  思邈 2026-09-23 14:38:07  来源：量子位   对复杂现实进行推演与决策   允中 发自 凹非寺 量子位 | 公众号QbitAI  最近，一个叫Jev的新模型突然火了。 它来自TypeSafe AI。这支有OpenAI背景的团队没有继续卷生成和推理，而是换了个方向：让AI直接做判断。 他们甚至把口号直接写成：Decisions, not strings（要决策，不要文本）。 Jev的走红，也让“Decision”（决策）重新成为AI圈的热门词。 但如果把时间线往前拨几个月，会发现这条趋势并不是今天才出现。 在Jev受到关注之前，国内已经出现了一条“决策AI”路线。今年6月，中科闻歌（此前被部分媒体称为“决策大模型第一股”）发布了通用决策大模型Decitron决策机，尝试将世界模型、多智能体推演、博弈与求解纳入统一的决策框架。 那么问题来了：同样都在讲“决策AI”，Jev和Decitron，到底是不是一回事？  答案是否定的。Jev和Decitron都在讲Decision，但对“决策”这件事的理解并不相",
+          "publishedAt": "2026-09-23T06:38:07Z",
+          "published_at": "2026-09-23T06:38:07Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "59635e33",
+          "title": "Qwen一号位定了！刘大一恒接棒",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/496384.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/496384.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Qwen一号位定了！刘大一恒接棒  鹭羽 2026-09-23 15:27:49  来源：量子位   与稚晖君同届天才少年   鹭羽 发自 凹非寺 量子位 | 公众号QbitAI  定了！林俊旸离职半年，新任千问负责人终于就位—— 前华为天才少年刘大一恒。     阿里云栖大会已经在官网嘉宾一栏中，将他挂在了C位。 紧随蔡崇信、吴泳铭之后，title是： 阿里巴巴ATH事业群Token Foundry Qwen LLM项目负责人。 开幕式上，他也刚刚在吴泳铭主旨演讲之后，带来15分钟的主题演讲，标题是「Qwen：迈向真实世界智能体」。     重视程度不言而喻。。。 so为什么是他？ 这位新帅的来头，可能比外界预想的更有料。 前华为天才少年接棒 刘大一恒，四川自贡人，本硕博均就读于四川大学计算机学院。 师从吕建成教授，研究方向集中在自然语言生成与理解。 曾在ACL、ICML、NeurIPS、EMNLP、AAAI等顶会及其它期刊发表论文共计百余篇，谷歌学术引用超六万次，并以通讯作者身份获得了NeurIPS 2025最佳论文奖。 另一位通讯作者正是前任负责人林俊旸。     刘大一恒同时也",
+          "summary_zh": "Qwen一号位定了！刘大一恒接棒  鹭羽 2026-09-23 15:27:49  来源：量子位   与稚晖君同届天才少年   鹭羽 发自 凹非寺 量子位 | 公众号QbitAI  定了！林俊旸离职半年，新任千问负责人终于就位—— 前华为天才少年刘大一恒。     阿里云栖大会已经在官网嘉宾一栏中，将他挂在了C位。 紧随蔡崇信、吴泳铭之后，title是： 阿里巴巴ATH事业群Token Foundry Qwen LLM项目负责人。 开幕式上，他也刚刚在吴泳铭主旨演讲之后，带来15分钟的主题演讲，标题是「Qwen：迈向真实世界智能体」。     重视程度不言而喻。。。 so为什么是他？ 这位新帅的来头，可能比外界预想的更有料。 前华为天才少年接棒 刘大一恒，四川自贡人，本硕博均就读于四川大学计算机学院。 师从吕建成教授，研究方向集中在自然语言生成与理解。 曾在ACL、ICML、NeurIPS、EMNLP、AAAI等顶会及其它期刊发表论文共计百余篇，谷歌学术引用超六万次，并以通讯作者身份获得了NeurIPS 2025最佳论文奖。 另一位通讯作者正是前任负责人林俊旸。     刘大一恒同时也",
+          "publishedAt": "2026-09-23T07:27:49Z",
+          "published_at": "2026-09-23T07:27:49Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f6f5b413",
+          "title": "用微生物在火星「建城」？Pionee",
+          "title_en": "用微生物在火星「建城」？Pioneer Labs培育新型细菌：吃火星土壤、产建筑塑料",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "用微生物在火星「建城」？Pioneer Labs培育新型细菌：吃火星土壤、产建筑塑料",
+          "summary_zh": "用微生物在火星「建城」？Pioneer Labs培育新型细菌：吃火星土壤、产建筑塑料",
+          "publishedAt": "2026-09-23T23:00:13Z",
+          "published_at": "2026-09-23T23:00:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "aae70a50",
+      "title": "产品更新：Solid",
+      "title_en": "Solid",
+      "url": "https://www.producthunt.com/products/solid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/solid-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Agents with their own computers, accounts, and",
+      "summary_zh": "Agents with their own computers, accounts, and",
+      "publishedAt": "2026-09-23T07:01:00Z",
+      "published_at": "2026-09-23T07:01:00Z",
+      "votes_count": 392,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "38a8df1c",
+      "title": "AI资讯更新：Naise AI",
+      "title_en": "Naise AI",
+      "url": "https://www.producthunt.com/products/naise-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/naise-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Autonomous marketing agents that actually exec",
+      "summary_zh": "Autonomous marketing agents that actually exec",
+      "publishedAt": "2026-09-23T07:01:00Z",
+      "published_at": "2026-09-23T07:01:00Z",
+      "votes_count": 321,
+      "featured": true,
+      "topics": [
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d6cefe7a",
+      "title": "产品更新：Claude Opus 5.5",
+      "title_en": "Claude Opus 5.5",
+      "url": "https://www.producthunt.com/products/claude-fable-5-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/claude-fable-5-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Anthropic's first model in their new Claude 5.",
+      "summary_zh": "Anthropic's first model in their new Claude 5.",
+      "publishedAt": "2026-09-23T07:01:00Z",
+      "published_at": "2026-09-23T07:01:00Z",
+      "votes_count": 262,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "2b3dc3ea",
+      "title": "产品更新：Pactto",
+      "title_en": "Pactto",
+      "url": "https://www.producthunt.com/products/pactto-replay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/pactto-replay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The room where creative teams align and AI tak",
+      "summary_zh": "The room where creative teams align and AI tak",
+      "publishedAt": "2026-09-23T07:01:00Z",
+      "published_at": "2026-09-23T07:01:00Z",
+      "votes_count": 150,
+      "featured": true,
+      "topics": [
+        {
+          "id": "252",
+          "name": "Meetings",
+          "slug": "meetings"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8b42136c",
+      "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/496329.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/496329.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！  梦瑶 2026-09-23 14:08:50  来源：量子位   实时性和通用能力，世界模型可以全都要  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 这年头，实时生成的世界模型越来越会「造世界」了。 画面更夯，控制更细，但一旦走到实时生成这一步，继续往上做能力，就会有个很难绕开的坎： 能力越强，实时越难守，整个行业也因此苦既要又要的增长难题久矣。 更麻烦的是，实时世界模型还得面对世界模型的共性难题，相比LLM，能力想沿着稳定路径持续增长也没那么容易。 然而，这个困扰行业多年的实时世界模型的老bug，如今，已经有厂商用实际模型完成验证并跑出了答案—— 实时性和通用能力，世界模型可以全都要。     这个玩家的名字大家应该不陌生：爱诗科技。 其实今年1月的时候，爱诗就发布了首个通用实时世界模型R1，主打持续生成能力，当时直接在网上火出圈了一波。 就在这两天，全新的实时世界模型PixVerse R2，也上线了。 甚至一经上线，模型就直接冲到了X平台的热度总榜——     这回，R2直接把LLM里那套规模继续加、能力继",
+      "summary_zh": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！  梦瑶 2026-09-23 14:08:50  来源：量子位   实时性和通用能力，世界模型可以全都要  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 这年头，实时生成的世界模型越来越会「造世界」了。 画面更夯，控制更细，但一旦走到实时生成这一步，继续往上做能力，就会有个很难绕开的坎： 能力越强，实时越难守，整个行业也因此苦既要又要的增长难题久矣。 更麻烦的是，实时世界模型还得面对世界模型的共性难题，相比LLM，能力想沿着稳定路径持续增长也没那么容易。 然而，这个困扰行业多年的实时世界模型的老bug，如今，已经有厂商用实际模型完成验证并跑出了答案—— 实时性和通用能力，世界模型可以全都要。     这个玩家的名字大家应该不陌生：爱诗科技。 其实今年1月的时候，爱诗就发布了首个通用实时世界模型R1，主打持续生成能力，当时直接在网上火出圈了一波。 就在这两天，全新的实时世界模型PixVerse R2，也上线了。 甚至一经上线，模型就直接冲到了X平台的热度总榜——     这回，R2直接把LLM里那套规模继续加、能力继",
+      "publishedAt": "2026-09-23T06:08:50Z",
+      "published_at": "2026-09-23T06:08:50Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0d31c96d",
+      "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/496352.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/496352.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Jev vs Decitron：同为决策AI，为什么不是一回事？  思邈 2026-09-23 14:38:07  来源：量子位   对复杂现实进行推演与决策   允中 发自 凹非寺 量子位 | 公众号QbitAI  最近，一个叫Jev的新模型突然火了。 它来自TypeSafe AI。这支有OpenAI背景的团队没有继续卷生成和推理，而是换了个方向：让AI直接做判断。 他们甚至把口号直接写成：Decisions, not strings（要决策，不要文本）。 Jev的走红，也让“Decision”（决策）重新成为AI圈的热门词。 但如果把时间线往前拨几个月，会发现这条趋势并不是今天才出现。 在Jev受到关注之前，国内已经出现了一条“决策AI”路线。今年6月，中科闻歌（此前被部分媒体称为“决策大模型第一股”）发布了通用决策大模型Decitron决策机，尝试将世界模型、多智能体推演、博弈与求解纳入统一的决策框架。 那么问题来了：同样都在讲“决策AI”，Jev和Decitron，到底是不是一回事？  答案是否定的。Jev和Decitron都在讲Decision，但对“决策”这件事的理解并不相",
+      "summary_zh": "Jev vs Decitron：同为决策AI，为什么不是一回事？  思邈 2026-09-23 14:38:07  来源：量子位   对复杂现实进行推演与决策   允中 发自 凹非寺 量子位 | 公众号QbitAI  最近，一个叫Jev的新模型突然火了。 它来自TypeSafe AI。这支有OpenAI背景的团队没有继续卷生成和推理，而是换了个方向：让AI直接做判断。 他们甚至把口号直接写成：Decisions, not strings（要决策，不要文本）。 Jev的走红，也让“Decision”（决策）重新成为AI圈的热门词。 但如果把时间线往前拨几个月，会发现这条趋势并不是今天才出现。 在Jev受到关注之前，国内已经出现了一条“决策AI”路线。今年6月，中科闻歌（此前被部分媒体称为“决策大模型第一股”）发布了通用决策大模型Decitron决策机，尝试将世界模型、多智能体推演、博弈与求解纳入统一的决策框架。 那么问题来了：同样都在讲“决策AI”，Jev和Decitron，到底是不是一回事？  答案是否定的。Jev和Decitron都在讲Decision，但对“决策”这件事的理解并不相",
+      "publishedAt": "2026-09-23T06:38:07Z",
+      "published_at": "2026-09-23T06:38:07Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "59635e33",
+      "title": "Qwen一号位定了！刘大一恒接棒",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/496384.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/496384.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Qwen一号位定了！刘大一恒接棒  鹭羽 2026-09-23 15:27:49  来源：量子位   与稚晖君同届天才少年   鹭羽 发自 凹非寺 量子位 | 公众号QbitAI  定了！林俊旸离职半年，新任千问负责人终于就位—— 前华为天才少年刘大一恒。     阿里云栖大会已经在官网嘉宾一栏中，将他挂在了C位。 紧随蔡崇信、吴泳铭之后，title是： 阿里巴巴ATH事业群Token Foundry Qwen LLM项目负责人。 开幕式上，他也刚刚在吴泳铭主旨演讲之后，带来15分钟的主题演讲，标题是「Qwen：迈向真实世界智能体」。     重视程度不言而喻。。。 so为什么是他？ 这位新帅的来头，可能比外界预想的更有料。 前华为天才少年接棒 刘大一恒，四川自贡人，本硕博均就读于四川大学计算机学院。 师从吕建成教授，研究方向集中在自然语言生成与理解。 曾在ACL、ICML、NeurIPS、EMNLP、AAAI等顶会及其它期刊发表论文共计百余篇，谷歌学术引用超六万次，并以通讯作者身份获得了NeurIPS 2025最佳论文奖。 另一位通讯作者正是前任负责人林俊旸。     刘大一恒同时也",
+      "summary_zh": "Qwen一号位定了！刘大一恒接棒  鹭羽 2026-09-23 15:27:49  来源：量子位   与稚晖君同届天才少年   鹭羽 发自 凹非寺 量子位 | 公众号QbitAI  定了！林俊旸离职半年，新任千问负责人终于就位—— 前华为天才少年刘大一恒。     阿里云栖大会已经在官网嘉宾一栏中，将他挂在了C位。 紧随蔡崇信、吴泳铭之后，title是： 阿里巴巴ATH事业群Token Foundry Qwen LLM项目负责人。 开幕式上，他也刚刚在吴泳铭主旨演讲之后，带来15分钟的主题演讲，标题是「Qwen：迈向真实世界智能体」。     重视程度不言而喻。。。 so为什么是他？ 这位新帅的来头，可能比外界预想的更有料。 前华为天才少年接棒 刘大一恒，四川自贡人，本硕博均就读于四川大学计算机学院。 师从吕建成教授，研究方向集中在自然语言生成与理解。 曾在ACL、ICML、NeurIPS、EMNLP、AAAI等顶会及其它期刊发表论文共计百余篇，谷歌学术引用超六万次，并以通讯作者身份获得了NeurIPS 2025最佳论文奖。 另一位通讯作者正是前任负责人林俊旸。     刘大一恒同时也",
+      "publishedAt": "2026-09-23T07:27:49Z",
+      "published_at": "2026-09-23T07:27:49Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f6f5b413",
+      "title": "用微生物在火星「建城」？Pionee",
+      "title_en": "用微生物在火星「建城」？Pioneer Labs培育新型细菌：吃火星土壤、产建筑塑料",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "用微生物在火星「建城」？Pioneer Labs培育新型细菌：吃火星土壤、产建筑塑料",
+      "summary_zh": "用微生物在火星「建城」？Pioneer Labs培育新型细菌：吃火星土壤、产建筑塑料",
+      "publishedAt": "2026-09-23T23:00:13Z",
+      "published_at": "2026-09-23T23:00:13Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
