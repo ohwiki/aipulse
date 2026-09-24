@@ -1,0 +1,503 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-24T23:16:22Z",
+  "generatedAt": "2026-09-24T23:16:22Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "df6e2654",
+          "title": "AI资讯更新：Scholé Learn",
+          "title_en": "Scholé Learn by Building",
+          "url": "https://www.producthunt.com/products/schole-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/schole-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Learning should be more than \"click next\" Lear",
+          "summary_zh": "Learning should be more than \"click next\" Lear",
+          "publishedAt": "2026-09-24T07:01:00Z",
+          "published_at": "2026-09-24T07:01:00Z",
+          "votes_count": 300,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "35e36de4",
+          "title": "产品更新：Floot MCP",
+          "title_en": "Floot MCP",
+          "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Build and ship web and mobile apps inside Clau",
+          "summary_zh": "Build and ship web and mobile apps inside Clau",
+          "publishedAt": "2026-09-24T07:01:00Z",
+          "published_at": "2026-09-24T07:01:00Z",
+          "votes_count": 289,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2f1654eb",
+          "title": "产品更新：CtrlOps 1.0",
+          "title_en": "CtrlOps 1.0",
+          "url": "https://www.producthunt.com/products/ctrlops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ctrlops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your server. Audited, managed, and deployed wi",
+          "summary_zh": "Your server. Audited, managed, and deployed wi",
+          "publishedAt": "2026-09-24T07:01:00Z",
+          "published_at": "2026-09-24T07:01:00Z",
+          "votes_count": 237,
+          "featured": true,
+          "topics": [
+            {
+              "id": "13",
+              "name": "Linux",
+              "slug": "linux"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9fe02b70",
+          "title": "产品更新：NOAN",
+          "title_en": "NOAN",
+          "url": "https://www.producthunt.com/products/noan-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/noan-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The fact layer for your AI agents Your company",
+          "summary_zh": "The fact layer for your AI agents Your company",
+          "publishedAt": "2026-09-24T07:01:00Z",
+          "published_at": "2026-09-24T07:01:00Z",
+          "votes_count": 226,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "5eece3ea",
+          "title": "成立九年，中科类脑把积累装进Token工厂",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/496615.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/496615.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "成立九年，中科类脑把积累装进Token工厂  衡宇 2026-09-24 08:48:02  来源：量子位   乔不迟 发自 凹非寺 量子位 | 公众号 QbitAI 过去评价一座数据中心，行业习惯看三个指标： 卡数、算力规模和PUE（电能利用效率）。 大模型进入规模化推理阶段后，这套标准开始转向产出端。 同样一批芯片、同样一度电，最终能生成多少满足质量、时延和稳定性要求的Token（词元）。 芯片通电，只代表生产开始。 计算、存储、网络、模型部署和任务调度，只要有一个环节卡住，昂贵的芯片仍可能低效空转。 中科类脑瞄准的，正是这段从资源到智能产出的转化过程，让同样的芯片、同样的电，产出更多、成本更低、质量更稳定的Token。  它将自己的体系称为“算电协同型Token工厂”，把异构芯片、模型、用户任务和电力放进同一套系统调度，用更少的资源产出更多有效Token。 对外，这套能力落在BitaHub彼塔云平台； 对内，由一个决策大脑统筹，电力、算力、Token三个子系统共同驱动。 算力之上，交付Token 中科类脑合伙人、副总经理常峰，给我们算了一笔价值账，来解释“Token工厂”。 一度",
+          "summary_zh": "成立九年，中科类脑把积累装进Token工厂  衡宇 2026-09-24 08:48:02  来源：量子位   乔不迟 发自 凹非寺 量子位 | 公众号 QbitAI 过去评价一座数据中心，行业习惯看三个指标： 卡数、算力规模和PUE（电能利用效率）。 大模型进入规模化推理阶段后，这套标准开始转向产出端。 同样一批芯片、同样一度电，最终能生成多少满足质量、时延和稳定性要求的Token（词元）。 芯片通电，只代表生产开始。 计算、存储、网络、模型部署和任务调度，只要有一个环节卡住，昂贵的芯片仍可能低效空转。 中科类脑瞄准的，正是这段从资源到智能产出的转化过程，让同样的芯片、同样的电，产出更多、成本更低、质量更稳定的Token。  它将自己的体系称为“算电协同型Token工厂”，把异构芯片、模型、用户任务和电力放进同一套系统调度，用更少的资源产出更多有效Token。 对外，这套能力落在BitaHub彼塔云平台； 对内，由一个决策大脑统筹，电力、算力、Token三个子系统共同驱动。 算力之上，交付Token 中科类脑合伙人、副总经理常峰，给我们算了一笔价值账，来解释“Token工厂”。 一度",
+          "publishedAt": "2026-09-24T00:48:02Z",
+          "published_at": "2026-09-24T00:48:02Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "8b93b4b5",
+          "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/496647.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/496647.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT  Jay 2026-09-24 10:23:12  来源：量子位   美国也开启了全民养虾狂潮  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 谁能想到，大半年过去，美国也开启了全民养虾狂潮。 Meta版OpenClaw——Meta Muse，杀疯了。 需要取消保险？ Muse拨打客服电话、扯皮、搞定。 怒省700刀。  车险被坑了？ 有老哥去健身房撸铁，随手把现有的车险账单丢给Muse，让它去全网找更便宜的投保方案。 15分钟后一组卧推刚练完，Muse直接帮他把保费砍掉了1156美元。  需要退货？ 起送，Muse要求商家全额退款+上门取件，成了。 用户甚至都忘了自己之前提过这事，直到快递小哥敲门才想起来。  太多了太多了，完全说不完…… 然后，我转头看了眼北美App Store—— 登顶了。 而且只花了13天。。。 非常恐怖的速度，横向对比的话，已经超过了2022年末刚上线时的ChatGPT。 华尔街反应更能说明问题，直接给跪了—— Meta股价周一暴涨11%，创下近一年来最大单日涨幅",
+          "summary_zh": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT  Jay 2026-09-24 10:23:12  来源：量子位   美国也开启了全民养虾狂潮  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 谁能想到，大半年过去，美国也开启了全民养虾狂潮。 Meta版OpenClaw——Meta Muse，杀疯了。 需要取消保险？ Muse拨打客服电话、扯皮、搞定。 怒省700刀。  车险被坑了？ 有老哥去健身房撸铁，随手把现有的车险账单丢给Muse，让它去全网找更便宜的投保方案。 15分钟后一组卧推刚练完，Muse直接帮他把保费砍掉了1156美元。  需要退货？ 起送，Muse要求商家全额退款+上门取件，成了。 用户甚至都忘了自己之前提过这事，直到快递小哥敲门才想起来。  太多了太多了，完全说不完…… 然后，我转头看了眼北美App Store—— 登顶了。 而且只花了13天。。。 非常恐怖的速度，横向对比的话，已经超过了2022年末刚上线时的ChatGPT。 华尔街反应更能说明问题，直接给跪了—— Meta股价周一暴涨11%，创下近一年来最大单日涨幅",
+          "publishedAt": "2026-09-24T02:23:12Z",
+          "published_at": "2026-09-24T02:23:12Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "03dec8de",
+          "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/496658.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/496658.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶  量子位的朋友们 2026-09-24 10:51:18  来源：量子位   9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布  9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布，覆盖75英寸、85英寸和100英寸三个尺寸。E7S Pro+此次将核心升级聚焦于两个方向：更真实的色彩，以及更完整的旗舰体验。全球首发杜比视界第二代MAX，最高XDR Pro 6000nits真彩高亮，并率先搭载行业首个家庭智能伴侣级AIOS——JUOS。从底层显示技术到内容呈现与AI交互，E7S Pro+正在进一步拓展RGB-Mini LED性能旗舰的能力边界。  RGB-Mini LED加速普及，“原生真彩”成为画质进阶关键 从2025年1月海信全球首发RGB-Mini LED，到如今市场上已有11个品牌、95款产品，一年多时间，RGB-Mini LED迅速从创新技术走向高端电视市场的重要技术",
+          "summary_zh": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶  量子位的朋友们 2026-09-24 10:51:18  来源：量子位   9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布  9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布，覆盖75英寸、85英寸和100英寸三个尺寸。E7S Pro+此次将核心升级聚焦于两个方向：更真实的色彩，以及更完整的旗舰体验。全球首发杜比视界第二代MAX，最高XDR Pro 6000nits真彩高亮，并率先搭载行业首个家庭智能伴侣级AIOS——JUOS。从底层显示技术到内容呈现与AI交互，E7S Pro+正在进一步拓展RGB-Mini LED性能旗舰的能力边界。  RGB-Mini LED加速普及，“原生真彩”成为画质进阶关键 从2025年1月海信全球首发RGB-Mini LED，到如今市场上已有11个品牌、95款产品，一年多时间，RGB-Mini LED迅速从创新技术走向高端电视市场的重要技术",
+          "publishedAt": "2026-09-24T02:51:18Z",
+          "published_at": "2026-09-24T02:51:18Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "d510bafd",
+          "title": "高通这一代骁龙：手机芯片，开始为Ag",
+          "title_en": "高通这一代骁龙：手机芯片，开始为Agent重新设计",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "高通这一代骁龙：手机芯片，开始为Agent重新设计",
+          "summary_zh": "高通这一代骁龙：手机芯片，开始为Agent重新设计",
+          "publishedAt": "2026-09-24T23:15:42Z",
+          "published_at": "2026-09-24T23:15:42Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "df6e2654",
+      "title": "AI资讯更新：Scholé Learn",
+      "title_en": "Scholé Learn by Building",
+      "url": "https://www.producthunt.com/products/schole-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/schole-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Learning should be more than \"click next\" Lear",
+      "summary_zh": "Learning should be more than \"click next\" Lear",
+      "publishedAt": "2026-09-24T07:01:00Z",
+      "published_at": "2026-09-24T07:01:00Z",
+      "votes_count": 300,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "204",
+          "name": "Education",
+          "slug": "education"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "35e36de4",
+      "title": "产品更新：Floot MCP",
+      "title_en": "Floot MCP",
+      "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build and ship web and mobile apps inside Clau",
+      "summary_zh": "Build and ship web and mobile apps inside Clau",
+      "publishedAt": "2026-09-24T07:01:00Z",
+      "published_at": "2026-09-24T07:01:00Z",
+      "votes_count": 289,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "2f1654eb",
+      "title": "产品更新：CtrlOps 1.0",
+      "title_en": "CtrlOps 1.0",
+      "url": "https://www.producthunt.com/products/ctrlops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ctrlops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your server. Audited, managed, and deployed wi",
+      "summary_zh": "Your server. Audited, managed, and deployed wi",
+      "publishedAt": "2026-09-24T07:01:00Z",
+      "published_at": "2026-09-24T07:01:00Z",
+      "votes_count": 237,
+      "featured": true,
+      "topics": [
+        {
+          "id": "13",
+          "name": "Linux",
+          "slug": "linux"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "865",
+          "name": "Security",
+          "slug": "security"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9fe02b70",
+      "title": "产品更新：NOAN",
+      "title_en": "NOAN",
+      "url": "https://www.producthunt.com/products/noan-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/noan-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The fact layer for your AI agents Your company",
+      "summary_zh": "The fact layer for your AI agents Your company",
+      "publishedAt": "2026-09-24T07:01:00Z",
+      "published_at": "2026-09-24T07:01:00Z",
+      "votes_count": 226,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5eece3ea",
+      "title": "成立九年，中科类脑把积累装进Token工厂",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/496615.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/496615.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "成立九年，中科类脑把积累装进Token工厂  衡宇 2026-09-24 08:48:02  来源：量子位   乔不迟 发自 凹非寺 量子位 | 公众号 QbitAI 过去评价一座数据中心，行业习惯看三个指标： 卡数、算力规模和PUE（电能利用效率）。 大模型进入规模化推理阶段后，这套标准开始转向产出端。 同样一批芯片、同样一度电，最终能生成多少满足质量、时延和稳定性要求的Token（词元）。 芯片通电，只代表生产开始。 计算、存储、网络、模型部署和任务调度，只要有一个环节卡住，昂贵的芯片仍可能低效空转。 中科类脑瞄准的，正是这段从资源到智能产出的转化过程，让同样的芯片、同样的电，产出更多、成本更低、质量更稳定的Token。  它将自己的体系称为“算电协同型Token工厂”，把异构芯片、模型、用户任务和电力放进同一套系统调度，用更少的资源产出更多有效Token。 对外，这套能力落在BitaHub彼塔云平台； 对内，由一个决策大脑统筹，电力、算力、Token三个子系统共同驱动。 算力之上，交付Token 中科类脑合伙人、副总经理常峰，给我们算了一笔价值账，来解释“Token工厂”。 一度",
+      "summary_zh": "成立九年，中科类脑把积累装进Token工厂  衡宇 2026-09-24 08:48:02  来源：量子位   乔不迟 发自 凹非寺 量子位 | 公众号 QbitAI 过去评价一座数据中心，行业习惯看三个指标： 卡数、算力规模和PUE（电能利用效率）。 大模型进入规模化推理阶段后，这套标准开始转向产出端。 同样一批芯片、同样一度电，最终能生成多少满足质量、时延和稳定性要求的Token（词元）。 芯片通电，只代表生产开始。 计算、存储、网络、模型部署和任务调度，只要有一个环节卡住，昂贵的芯片仍可能低效空转。 中科类脑瞄准的，正是这段从资源到智能产出的转化过程，让同样的芯片、同样的电，产出更多、成本更低、质量更稳定的Token。  它将自己的体系称为“算电协同型Token工厂”，把异构芯片、模型、用户任务和电力放进同一套系统调度，用更少的资源产出更多有效Token。 对外，这套能力落在BitaHub彼塔云平台； 对内，由一个决策大脑统筹，电力、算力、Token三个子系统共同驱动。 算力之上，交付Token 中科类脑合伙人、副总经理常峰，给我们算了一笔价值账，来解释“Token工厂”。 一度",
+      "publishedAt": "2026-09-24T00:48:02Z",
+      "published_at": "2026-09-24T00:48:02Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "8b93b4b5",
+      "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/496647.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/496647.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT  Jay 2026-09-24 10:23:12  来源：量子位   美国也开启了全民养虾狂潮  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 谁能想到，大半年过去，美国也开启了全民养虾狂潮。 Meta版OpenClaw——Meta Muse，杀疯了。 需要取消保险？ Muse拨打客服电话、扯皮、搞定。 怒省700刀。  车险被坑了？ 有老哥去健身房撸铁，随手把现有的车险账单丢给Muse，让它去全网找更便宜的投保方案。 15分钟后一组卧推刚练完，Muse直接帮他把保费砍掉了1156美元。  需要退货？ 起送，Muse要求商家全额退款+上门取件，成了。 用户甚至都忘了自己之前提过这事，直到快递小哥敲门才想起来。  太多了太多了，完全说不完…… 然后，我转头看了眼北美App Store—— 登顶了。 而且只花了13天。。。 非常恐怖的速度，横向对比的话，已经超过了2022年末刚上线时的ChatGPT。 华尔街反应更能说明问题，直接给跪了—— Meta股价周一暴涨11%，创下近一年来最大单日涨幅",
+      "summary_zh": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT  Jay 2026-09-24 10:23:12  来源：量子位   美国也开启了全民养虾狂潮  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 谁能想到，大半年过去，美国也开启了全民养虾狂潮。 Meta版OpenClaw——Meta Muse，杀疯了。 需要取消保险？ Muse拨打客服电话、扯皮、搞定。 怒省700刀。  车险被坑了？ 有老哥去健身房撸铁，随手把现有的车险账单丢给Muse，让它去全网找更便宜的投保方案。 15分钟后一组卧推刚练完，Muse直接帮他把保费砍掉了1156美元。  需要退货？ 起送，Muse要求商家全额退款+上门取件，成了。 用户甚至都忘了自己之前提过这事，直到快递小哥敲门才想起来。  太多了太多了，完全说不完…… 然后，我转头看了眼北美App Store—— 登顶了。 而且只花了13天。。。 非常恐怖的速度，横向对比的话，已经超过了2022年末刚上线时的ChatGPT。 华尔街反应更能说明问题，直接给跪了—— Meta股价周一暴涨11%，创下近一年来最大单日涨幅",
+      "publishedAt": "2026-09-24T02:23:12Z",
+      "published_at": "2026-09-24T02:23:12Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "03dec8de",
+      "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/496658.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/496658.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶  量子位的朋友们 2026-09-24 10:51:18  来源：量子位   9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布  9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布，覆盖75英寸、85英寸和100英寸三个尺寸。E7S Pro+此次将核心升级聚焦于两个方向：更真实的色彩，以及更完整的旗舰体验。全球首发杜比视界第二代MAX，最高XDR Pro 6000nits真彩高亮，并率先搭载行业首个家庭智能伴侣级AIOS——JUOS。从底层显示技术到内容呈现与AI交互，E7S Pro+正在进一步拓展RGB-Mini LED性能旗舰的能力边界。  RGB-Mini LED加速普及，“原生真彩”成为画质进阶关键 从2025年1月海信全球首发RGB-Mini LED，到如今市场上已有11个品牌、95款产品，一年多时间，RGB-Mini LED迅速从创新技术走向高端电视市场的重要技术",
+      "summary_zh": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶  量子位的朋友们 2026-09-24 10:51:18  来源：量子位   9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布  9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布，覆盖75英寸、85英寸和100英寸三个尺寸。E7S Pro+此次将核心升级聚焦于两个方向：更真实的色彩，以及更完整的旗舰体验。全球首发杜比视界第二代MAX，最高XDR Pro 6000nits真彩高亮，并率先搭载行业首个家庭智能伴侣级AIOS——JUOS。从底层显示技术到内容呈现与AI交互，E7S Pro+正在进一步拓展RGB-Mini LED性能旗舰的能力边界。  RGB-Mini LED加速普及，“原生真彩”成为画质进阶关键 从2025年1月海信全球首发RGB-Mini LED，到如今市场上已有11个品牌、95款产品，一年多时间，RGB-Mini LED迅速从创新技术走向高端电视市场的重要技术",
+      "publishedAt": "2026-09-24T02:51:18Z",
+      "published_at": "2026-09-24T02:51:18Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "d510bafd",
+      "title": "高通这一代骁龙：手机芯片，开始为Ag",
+      "title_en": "高通这一代骁龙：手机芯片，开始为Agent重新设计",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "高通这一代骁龙：手机芯片，开始为Agent重新设计",
+      "summary_zh": "高通这一代骁龙：手机芯片，开始为Agent重新设计",
+      "publishedAt": "2026-09-24T23:15:42Z",
+      "published_at": "2026-09-24T23:15:42Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

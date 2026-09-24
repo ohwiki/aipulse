@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-09-24T13:41:05Z",
-  "generatedAt": "2026-09-24T13:41:05Z",
-  "count": 135,
-  "total": 135,
+  "generated_at": "2026-09-24T23:16:22Z",
+  "generatedAt": "2026-09-24T23:16:22Z",
+  "count": 136,
+  "total": 136,
   "entries": [
+    {
+      "date": "2026-09-25",
+      "generated_at": "2026-09-24T23:16:22Z",
+      "generatedAt": "2026-09-24T23:16:22Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "df6e2654",
+          "title": "AI资讯更新：Scholé Learn",
+          "title_en": "Scholé Learn by Building",
+          "url": "https://www.producthunt.com/products/schole-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/schole-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Learning should be more than \"click next\" Lear",
+          "summary_zh": "Learning should be more than \"click next\" Lear",
+          "publishedAt": "2026-09-24T07:01:00Z",
+          "published_at": "2026-09-24T07:01:00Z",
+          "votes_count": 300,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "35e36de4",
+          "title": "产品更新：Floot MCP",
+          "title_en": "Floot MCP",
+          "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build and ship web and mobile apps inside Clau",
+          "summary_zh": "Build and ship web and mobile apps inside Clau",
+          "publishedAt": "2026-09-24T07:01:00Z",
+          "published_at": "2026-09-24T07:01:00Z",
+          "votes_count": 289,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2f1654eb",
+          "title": "产品更新：CtrlOps 1.0",
+          "title_en": "CtrlOps 1.0",
+          "url": "https://www.producthunt.com/products/ctrlops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ctrlops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your server. Audited, managed, and deployed wi",
+          "summary_zh": "Your server. Audited, managed, and deployed wi",
+          "publishedAt": "2026-09-24T07:01:00Z",
+          "published_at": "2026-09-24T07:01:00Z",
+          "votes_count": 237,
+          "featured": true,
+          "topics": [
+            {
+              "id": "13",
+              "name": "Linux",
+              "slug": "linux"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-24",
       "generated_at": "2026-09-24T13:41:05Z",
