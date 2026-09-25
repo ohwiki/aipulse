@@ -1,9 +1,147 @@
 {
-  "generated_at": "2026-09-25T14:03:06Z",
-  "generatedAt": "2026-09-25T14:03:06Z",
-  "count": 136,
-  "total": 136,
+  "generated_at": "2026-09-25T23:21:38Z",
+  "generatedAt": "2026-09-25T23:21:38Z",
+  "count": 137,
+  "total": 137,
   "entries": [
+    {
+      "date": "2026-09-26",
+      "generated_at": "2026-09-25T23:21:38Z",
+      "generatedAt": "2026-09-25T23:21:38Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "2c06a690",
+          "title": "产品更新：PixVerse R2",
+          "title_en": "PixVerse R2",
+          "url": "https://www.producthunt.com/products/pixverse-r2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pixverse-r2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A real-time world model you can explore and ch",
+          "summary_zh": "A real-time world model you can explore and ch",
+          "publishedAt": "2026-09-25T07:01:00Z",
+          "published_at": "2026-09-25T07:01:00Z",
+          "votes_count": 331,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2610abee",
+          "title": "产品更新：Bleetz Network",
+          "title_en": "Bleetz Network",
+          "url": "https://www.producthunt.com/products/bleetz-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/bleetz-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI agent-to-agent VC fundraising & scouting ne",
+          "summary_zh": "AI agent-to-agent VC fundraising & scouting ne",
+          "publishedAt": "2026-09-25T07:01:00Z",
+          "published_at": "2026-09-25T07:01:00Z",
+          "votes_count": 248,
+          "featured": true,
+          "topics": [
+            {
+              "id": "208",
+              "name": "Venture Capital",
+              "slug": "venture-capital"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "791",
+              "name": "Fundraising",
+              "slug": "fundraising"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d89f761a",
+          "title": "产品更新：Quiver GTM",
+          "title_en": "Quiver GTM",
+          "url": "https://www.producthunt.com/products/quiver-gtm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/quiver-gtm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Run developer marketing like an engineering sy",
+          "summary_zh": "Run developer marketing like an engineering sy",
+          "publishedAt": "2026-09-25T07:01:00Z",
+          "published_at": "2026-09-25T07:01:00Z",
+          "votes_count": 163,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-25",
       "generated_at": "2026-09-25T14:03:06Z",

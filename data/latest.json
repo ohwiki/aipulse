@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-25T14:03:06Z",
-  "generatedAt": "2026-09-25T14:03:06Z",
+  "generated_at": "2026-09-25T23:21:38Z",
+  "generatedAt": "2026-09-25T23:21:38Z",
   "days": 7,
-  "total": 6,
-  "count": 6,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "2c06a690",
@@ -22,7 +22,7 @@
       "summary_zh": "A real-time world model you can explore and ch",
       "publishedAt": "2026-09-25T07:01:00Z",
       "published_at": "2026-09-25T07:01:00Z",
-      "votes_count": 250,
+      "votes_count": 331,
       "featured": true,
       "topics": [
         {
@@ -65,7 +65,7 @@
       "summary_zh": "AI agent-to-agent VC fundraising & scouting ne",
       "publishedAt": "2026-09-25T07:01:00Z",
       "published_at": "2026-09-25T07:01:00Z",
-      "votes_count": 195,
+      "votes_count": 248,
       "featured": true,
       "topics": [
         {
@@ -92,47 +92,84 @@
       "score_details": null
     },
     {
-      "id": "11337004",
-      "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/496925.html",
-      "source": "量子位",
+      "id": "d89f761a",
+      "title": "产品更新：Quiver GTM",
+      "title_en": "Quiver GTM",
+      "url": "https://www.producthunt.com/products/quiver-gtm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/496925.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍  思邈 2026-09-24 22:17:48  来源：量子位   1.5台6000D跑赢1台B300！   允中 发自 凹非寺 量子位 | 公众号QbitAI  随着大模型对算力需求持续攀升，GPU卡的采购成本、供给约束持续加剧。 AI推理的竞争正在悄然发生转向：不再单纯比拼“谁能够买到性能最顶级的硬件”，而是转向“谁可以把手中已有的算力资源用得更值”。 很多GPU卡，开源框架能够完成模型加载、权重下载、服务拉起，实现“能跑起来”，但实际压测性能往往远低于官方宣传水平。模型本身没有缺陷，硬件也可正常工作，性能损失的核心，来自模型框架与硬件之间存在的性能鸿沟。 这类GPU卡没有高速卡间互联，同时不在主流开源框架官方验证矩阵中。直接使用社区默认部署方案，会出现算子自动回退至低效通用实现、集合通信沿用NVLink硬件的调优参数、显存与并行配置沿用其他硬件默认值等一系列问题。硬件本身具备的算力潜力，被软件层的适配短板所禁锢。 是石科技（METASTONE）是一家“独立第三方全栈算力运营商”的科技企业。不绑定任何特定大",
-      "summary_zh": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍  思邈 2026-09-24 22:17:48  来源：量子位   1.5台6000D跑赢1台B300！   允中 发自 凹非寺 量子位 | 公众号QbitAI  随着大模型对算力需求持续攀升，GPU卡的采购成本、供给约束持续加剧。 AI推理的竞争正在悄然发生转向：不再单纯比拼“谁能够买到性能最顶级的硬件”，而是转向“谁可以把手中已有的算力资源用得更值”。 很多GPU卡，开源框架能够完成模型加载、权重下载、服务拉起，实现“能跑起来”，但实际压测性能往往远低于官方宣传水平。模型本身没有缺陷，硬件也可正常工作，性能损失的核心，来自模型框架与硬件之间存在的性能鸿沟。 这类GPU卡没有高速卡间互联，同时不在主流开源框架官方验证矩阵中。直接使用社区默认部署方案，会出现算子自动回退至低效通用实现、集合通信沿用NVLink硬件的调优参数、显存与并行配置沿用其他硬件默认值等一系列问题。硬件本身具备的算力潜力，被软件层的适配短板所禁锢。 是石科技（METASTONE）是一家“独立第三方全栈算力运营商”的科技企业。不绑定任何特定大",
-      "publishedAt": "2026-09-24T14:17:48Z",
-      "published_at": "2026-09-24T14:17:48Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/quiver-gtm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Run developer marketing like an engineering sy",
+      "summary_zh": "Run developer marketing like an engineering sy",
+      "publishedAt": "2026-09-25T07:01:00Z",
+      "published_at": "2026-09-25T07:01:00Z",
+      "votes_count": 163,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "1359",
+          "name": "Vercel Day",
+          "slug": "vercel-day"
+        }
+      ],
       "score_details": null
     },
     {
-      "id": "e80d725c",
-      "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/496961.html",
-      "source": "量子位",
+      "id": "072747ce",
+      "title": "产品更新：10xJoy",
+      "title_en": "10xJoy",
+      "url": "https://www.producthunt.com/products/10xjoy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/496961.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意  思邈 2026-09-24 22:20:14  来源：量子位   懂出海，能记忆，自进化   允中 发自 凹非寺 量子位 | 公众号 QbitAI  AI办公赛道，率先进入“集团军作战”阶段。 8月末字节跳动正式发布“豆包工作”，将TRAE、扣子（Coze）整体并入豆包体系，并以飞书组织能力为底座；阿里巴巴已于8月初整合QoderWork、悟空、MuleRun三款智能体推出“千问办公”，全面瞄准钉钉生态的企业级市场；腾讯则通过整合QClaw团队，将WorkBuddy打造为国内用户规模领先的AI原生桌面办公智能体。 竞争焦点，已从“谁能答得更准”升级为“谁能把事办好”。 海外，前沿研究的重心同样指向“自主性与进化能力”。 Anthropic近期发布关于递归自我改进（RSI）的系统论述，指出AI系统正沿“人类写代码—AI辅助编程—自主Agent—闭环自我进化”的连续谱系演进；学界与产业界围绕自进化智能体（Self-Evolving Agents）的探索密集落地——从DeepMind在算法发现上的自我改进，到以验证",
-      "summary_zh": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意  思邈 2026-09-24 22:20:14  来源：量子位   懂出海，能记忆，自进化   允中 发自 凹非寺 量子位 | 公众号 QbitAI  AI办公赛道，率先进入“集团军作战”阶段。 8月末字节跳动正式发布“豆包工作”，将TRAE、扣子（Coze）整体并入豆包体系，并以飞书组织能力为底座；阿里巴巴已于8月初整合QoderWork、悟空、MuleRun三款智能体推出“千问办公”，全面瞄准钉钉生态的企业级市场；腾讯则通过整合QClaw团队，将WorkBuddy打造为国内用户规模领先的AI原生桌面办公智能体。 竞争焦点，已从“谁能答得更准”升级为“谁能把事办好”。 海外，前沿研究的重心同样指向“自主性与进化能力”。 Anthropic近期发布关于递归自我改进（RSI）的系统论述，指出AI系统正沿“人类写代码—AI辅助编程—自主Agent—闭环自我进化”的连续谱系演进；学界与产业界围绕自进化智能体（Self-Evolving Agents）的探索密集落地——从DeepMind在算法发现上的自我改进，到以验证",
-      "publishedAt": "2026-09-24T14:20:14Z",
-      "published_at": "2026-09-24T14:20:14Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/10xjoy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Discover desired outcomes + connect w/ builder",
+      "summary_zh": "Discover desired outcomes + connect w/ builder",
+      "publishedAt": "2026-09-25T07:01:00Z",
+      "published_at": "2026-09-25T07:01:00Z",
+      "votes_count": 142,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "1359",
+          "name": "Vercel Day",
+          "slug": "vercel-day"
+        }
+      ],
       "score_details": null
     },
     {
@@ -158,6 +195,50 @@
       "score_details": null
     },
     {
+      "id": "6c84995f",
+      "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/497060.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/497060.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "呃…小扎「自研Manus」刚成Meta太子，就塌房了  Jay 2026-09-25 14:11:10  来源：量子位   人工外包团队   Jay 发自 凹非寺量子位 | 公众号 QbitAI  这这这，Meta自研的Manus，咋直接在内部晋升「太子」了啊？？ 刚刚结束的Connect大会上，扎克伯格带着Meta全家桶，集体给Meta Muse作陪。 软件层面，狂叠Buff，发了一堆新功能： Computer Use、独立专属邮箱、实时视频数字分身； 硬件层面，扎总更是亲手把全套装备端了上来—— 专属口袋硬件，Muse Charm，安排！ 此外，Meta AI眼镜全系入驻，全部给我充当Muse的操作台！！ 这资源倾斜力度，可以说是彻底起飞了。 泪目了，Manus，这盛世本该属于你o(╥﹏╥)o（bushi）。 不过小扎，还是先别着急挤牙膏了，你加Muse刚火没几天，好像有点塌房了啊—— 路透社爆料，Meta正为Muse内测「真人客服」功能。 当用户让Muse拨打电话时，系统会自动把请求转交给呼叫中心经过培训的人工外包团队，由真人承包商替用户打电话沟通。    小Muse起飞了 这只",
+      "summary_zh": "呃…小扎「自研Manus」刚成Meta太子，就塌房了  Jay 2026-09-25 14:11:10  来源：量子位   人工外包团队   Jay 发自 凹非寺量子位 | 公众号 QbitAI  这这这，Meta自研的Manus，咋直接在内部晋升「太子」了啊？？ 刚刚结束的Connect大会上，扎克伯格带着Meta全家桶，集体给Meta Muse作陪。 软件层面，狂叠Buff，发了一堆新功能： Computer Use、独立专属邮箱、实时视频数字分身； 硬件层面，扎总更是亲手把全套装备端了上来—— 专属口袋硬件，Muse Charm，安排！ 此外，Meta AI眼镜全系入驻，全部给我充当Muse的操作台！！ 这资源倾斜力度，可以说是彻底起飞了。 泪目了，Manus，这盛世本该属于你o(╥﹏╥)o（bushi）。 不过小扎，还是先别着急挤牙膏了，你加Muse刚火没几天，好像有点塌房了啊—— 路透社爆料，Meta正为Muse内测「真人客服」功能。 当用户让Muse拨打电话时，系统会自动把请求转交给呼叫中心经过培训的人工外包团队，由真人承包商替用户打电话沟通。    小Muse起飞了 这只",
+      "publishedAt": "2026-09-25T06:11:10Z",
+      "published_at": "2026-09-25T06:11:10Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4e721d09",
+      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/497070.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/497070.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "华为大模型双子星联手创业，要找物理世界的Scaling Law  Jay 2026-09-25 14:14:07  来源：量子位   一场物理世界的基模实验   程浅 发自 凹非寺 量子位 | 公众号 QbitAI  数亿元资金，投向了一场物理世界的基模实验。 Physical AI创业公司息壤开物宣布，公司已经连续完成数亿元种子轮及天使轮融资。 由敦鸿资产领投，华控基金、三花控股、银杏谷资本、泽然资本、本坚基金、天使基石、标朴投资等知名机构跟投，估值达5亿美金。 而站在息壤开物背后的，是华为大模型双子星： 创始人、CEO李寅，前华为云大模型CTO，华为大模型0-1阶段核心成员； 联合创始人张含望教授，前华为多模态首席科学家。 二人此番联手，瞄准了一个具身智能至今尚未解决的底层难题。 “大语言模型之后，面向物理世界的下一阶段，是否仍然需要一个基础模型？” 过去几年，LLM已经通过海量文本预训练，将问答、写作、编程收进了同一个模型。 相较之下，机器人仍重度依赖特定本体、场景和任务做数据采集和增训。 为此，息壤要做LPM（Large Physics Model）。 即先从海量视频、机器人轨",
+      "summary_zh": "华为大模型双子星联手创业，要找物理世界的Scaling Law  Jay 2026-09-25 14:14:07  来源：量子位   一场物理世界的基模实验   程浅 发自 凹非寺 量子位 | 公众号 QbitAI  数亿元资金，投向了一场物理世界的基模实验。 Physical AI创业公司息壤开物宣布，公司已经连续完成数亿元种子轮及天使轮融资。 由敦鸿资产领投，华控基金、三花控股、银杏谷资本、泽然资本、本坚基金、天使基石、标朴投资等知名机构跟投，估值达5亿美金。 而站在息壤开物背后的，是华为大模型双子星： 创始人、CEO李寅，前华为云大模型CTO，华为大模型0-1阶段核心成员； 联合创始人张含望教授，前华为多模态首席科学家。 二人此番联手，瞄准了一个具身智能至今尚未解决的底层难题。 “大语言模型之后，面向物理世界的下一阶段，是否仍然需要一个基础模型？” 过去几年，LLM已经通过海量文本预训练，将问答、写作、编程收进了同一个模型。 相较之下，机器人仍重度依赖特定本体、场景和任务做数据采集和增训。 为此，息壤要做LPM（Large Physics Model）。 即先从海量视频、机器人轨",
+      "publishedAt": "2026-09-25T06:14:07Z",
+      "published_at": "2026-09-25T06:14:07Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
       "id": "a8382909",
       "title": "从机器鸭乐高、宜家说明书到《塞尔达》",
       "title_en": "从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding",
@@ -172,8 +253,8 @@
       "rankingScore": 5.0,
       "summary": "从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding",
       "summary_zh": "从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding",
-      "publishedAt": "2026-09-25T14:02:13Z",
-      "published_at": "2026-09-25T14:02:13Z",
+      "publishedAt": "2026-09-25T23:21:03Z",
+      "published_at": "2026-09-25T23:21:03Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
