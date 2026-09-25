@@ -1,72 +1,34 @@
 {
-  "generated_at": "2026-09-24T23:16:22Z",
-  "generatedAt": "2026-09-24T23:16:22Z",
+  "generated_at": "2026-09-25T14:03:06Z",
+  "generatedAt": "2026-09-25T14:03:06Z",
   "count": 136,
   "total": 136,
   "entries": [
     {
       "date": "2026-09-25",
-      "generated_at": "2026-09-24T23:16:22Z",
-      "generatedAt": "2026-09-24T23:16:22Z",
-      "total": 8,
+      "generated_at": "2026-09-25T14:03:06Z",
+      "generatedAt": "2026-09-25T14:03:06Z",
+      "total": 6,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "df6e2654",
-          "title": "AI资讯更新：Scholé Learn",
-          "title_en": "Scholé Learn by Building",
-          "url": "https://www.producthunt.com/products/schole-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "2c06a690",
+          "title": "产品更新：PixVerse R2",
+          "title_en": "PixVerse R2",
+          "url": "https://www.producthunt.com/products/pixverse-r2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/schole-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/pixverse-r2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Learning should be more than \"click next\" Lear",
-          "summary_zh": "Learning should be more than \"click next\" Lear",
-          "publishedAt": "2026-09-24T07:01:00Z",
-          "published_at": "2026-09-24T07:01:00Z",
-          "votes_count": 300,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "204",
-              "name": "Education",
-              "slug": "education"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "35e36de4",
-          "title": "产品更新：Floot MCP",
-          "title_en": "Floot MCP",
-          "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Build and ship web and mobile apps inside Clau",
-          "summary_zh": "Build and ship web and mobile apps inside Clau",
-          "publishedAt": "2026-09-24T07:01:00Z",
-          "published_at": "2026-09-24T07:01:00Z",
-          "votes_count": 289,
+          "summary": "A real-time world model you can explore and ch",
+          "summary_zh": "A real-time world model you can explore and ch",
+          "publishedAt": "2026-09-25T07:01:00Z",
+          "published_at": "2026-09-25T07:01:00Z",
+          "votes_count": 250,
           "featured": true,
           "topics": [
             {
@@ -80,49 +42,81 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "470",
-              "name": "No-Code",
-              "slug": "no-code"
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
             }
           ],
           "score_details": null
         },
         {
-          "id": "2f1654eb",
-          "title": "产品更新：CtrlOps 1.0",
-          "title_en": "CtrlOps 1.0",
-          "url": "https://www.producthunt.com/products/ctrlops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "2610abee",
+          "title": "产品更新：Bleetz Network",
+          "title_en": "Bleetz Network",
+          "url": "https://www.producthunt.com/products/bleetz-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/ctrlops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/bleetz-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Your server. Audited, managed, and deployed wi",
-          "summary_zh": "Your server. Audited, managed, and deployed wi",
-          "publishedAt": "2026-09-24T07:01:00Z",
-          "published_at": "2026-09-24T07:01:00Z",
-          "votes_count": 237,
+          "summary": "AI agent-to-agent VC fundraising & scouting ne",
+          "summary_zh": "AI agent-to-agent VC fundraising & scouting ne",
+          "publishedAt": "2026-09-25T07:01:00Z",
+          "published_at": "2026-09-25T07:01:00Z",
+          "votes_count": 195,
           "featured": true,
           "topics": [
             {
-              "id": "13",
-              "name": "Linux",
-              "slug": "linux"
+              "id": "208",
+              "name": "Venture Capital",
+              "slug": "venture-capital"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             },
             {
-              "id": "865",
-              "name": "Security",
-              "slug": "security"
+              "id": "791",
+              "name": "Fundraising",
+              "slug": "fundraising"
+            },
+            {
+              "id": "1359",
+              "name": "Vercel Day",
+              "slug": "vercel-day"
             }
           ],
+          "score_details": null
+        },
+        {
+          "id": "a8382909",
+          "title": "从机器鸭乐高、宜家说明书到《塞尔达》",
+          "title_en": "从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding",
+          "summary_zh": "从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding",
+          "publishedAt": "2026-09-25T14:02:13Z",
+          "published_at": "2026-09-25T14:02:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
