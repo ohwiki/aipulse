@@ -1,161 +1,32 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-25T23:21:38Z",
-  "generatedAt": "2026-09-25T23:21:38Z",
-  "total": 8,
-  "count": 8,
+  "generated_at": "2026-09-26T13:17:29Z",
+  "generatedAt": "2026-09-26T13:17:29Z",
+  "total": 6,
+  "count": 6,
   "sections": [
     {
       "category": "ai-products",
       "label": "产品发布/更新",
       "items": [
         {
-          "id": "2c06a690",
-          "title": "产品更新：PixVerse R2",
-          "title_en": "PixVerse R2",
-          "url": "https://www.producthunt.com/products/pixverse-r2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "1ccd51e6",
+          "title": "产品更新：Hemory",
+          "title_en": "Hemory",
+          "url": "https://www.producthunt.com/products/hemory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/pixverse-r2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/hemory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "A real-time world model you can explore and ch",
-          "summary_zh": "A real-time world model you can explore and ch",
-          "publishedAt": "2026-09-25T07:01:00Z",
-          "published_at": "2026-09-25T07:01:00Z",
-          "votes_count": 331,
-          "featured": true,
-          "topics": [
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "353",
-              "name": "Games",
-              "slug": "games"
-            },
-            {
-              "id": "1359",
-              "name": "Vercel Day",
-              "slug": "vercel-day"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "2610abee",
-          "title": "产品更新：Bleetz Network",
-          "title_en": "Bleetz Network",
-          "url": "https://www.producthunt.com/products/bleetz-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/bleetz-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "AI agent-to-agent VC fundraising & scouting ne",
-          "summary_zh": "AI agent-to-agent VC fundraising & scouting ne",
-          "publishedAt": "2026-09-25T07:01:00Z",
-          "published_at": "2026-09-25T07:01:00Z",
-          "votes_count": 248,
-          "featured": true,
-          "topics": [
-            {
-              "id": "208",
-              "name": "Venture Capital",
-              "slug": "venture-capital"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "791",
-              "name": "Fundraising",
-              "slug": "fundraising"
-            },
-            {
-              "id": "1359",
-              "name": "Vercel Day",
-              "slug": "vercel-day"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "d89f761a",
-          "title": "产品更新：Quiver GTM",
-          "title_en": "Quiver GTM",
-          "url": "https://www.producthunt.com/products/quiver-gtm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/quiver-gtm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Run developer marketing like an engineering sy",
-          "summary_zh": "Run developer marketing like an engineering sy",
-          "publishedAt": "2026-09-25T07:01:00Z",
-          "published_at": "2026-09-25T07:01:00Z",
-          "votes_count": 163,
-          "featured": true,
-          "topics": [
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "1359",
-              "name": "Vercel Day",
-              "slug": "vercel-day"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "072747ce",
-          "title": "产品更新：10xJoy",
-          "title_en": "10xJoy",
-          "url": "https://www.producthunt.com/products/10xjoy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/10xjoy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Discover desired outcomes + connect w/ builder",
-          "summary_zh": "Discover desired outcomes + connect w/ builder",
-          "publishedAt": "2026-09-25T07:01:00Z",
-          "published_at": "2026-09-25T07:01:00Z",
-          "votes_count": 142,
+          "summary": "Keep listening. Searchable memory for your AI",
+          "summary_zh": "Keep listening. Searchable memory for your AI",
+          "publishedAt": "2026-09-26T07:01:00Z",
+          "published_at": "2026-09-26T07:01:00Z",
+          "votes_count": 217,
           "featured": true,
           "topics": [
             {
@@ -169,9 +40,85 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "1359",
-              "name": "Vercel Day",
-              "slug": "vercel-day"
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2b135265",
+          "title": "产品更新：Eclatira",
+          "title_en": "Eclatira",
+          "url": "https://www.producthunt.com/products/eclatira?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/eclatira?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Conversational Video Agent That Plugs Into Any",
+          "summary_zh": "Conversational Video Agent That Plugs Into Any",
+          "publishedAt": "2026-09-26T07:01:00Z",
+          "published_at": "2026-09-26T07:01:00Z",
+          "votes_count": 208,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "524b48d5",
+          "title": "产品更新：Chit",
+          "title_en": "Chit",
+          "url": "https://www.producthunt.com/products/chit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/chit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A printed receipt of your day in Claude Code C",
+          "summary_zh": "A printed receipt of your day in Claude Code C",
+          "publishedAt": "2026-09-26T07:01:00Z",
+          "published_at": "2026-09-26T07:01:00Z",
+          "votes_count": 124,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             }
           ],
           "score_details": null
@@ -183,75 +130,9 @@
       "label": "中文媒体精选",
       "items": [
         {
-          "id": "be711a00",
-          "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
-          "title_en": null,
-          "url": "https://www.qbitai.com/2026/09/497012.html",
-          "source": "量子位",
-          "source_type": null,
-          "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/09/497012.html",
-          "category": "cn-media",
-          "score": 5,
-          "rank_score": 5.0,
-          "rankingScore": 5.0,
-          "summary": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了  林, 方舟 2026-09-25 13:52:18  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  叮咚～众包骑手，哦不，众包数采员来新单了！ 一边干着家务或上着班，一边轻松地采集具身数据，结束了还能赚一笔外快，真有这样的好事吗？ 答案是肯定的。上个月，Figure推出了机器人训练数据众包平台Index，如今，“中国版Index”也来了。 9月23日，觅蜂科技打造的“觅蜂派”亮相，“硬件+App+数据引擎”三位一体，自称是“全球首个全品类高质量物理AI数据众包服务平台”。     普通人下载“觅蜂派”手机软件，申领一台采集设备，领取采集任务，便可以接单采数据了。用户不用额外付出时间，不影响正常的工作和生活。这些数据经治理、分级后，再被售卖，用于机器人训练。 外卖、网约车等行业都靠众包模式取得了成功，甚至连自媒体在某种程度上也是一种众包，那么在天花板更高的具身智能领域，众包数采能跑通吗？ 2万台设备，百万小时数据 一条机器人训练的无本体数据，从采集到使用，一共分为几步？ 作为一家具身数据服务商，",
-          "summary_zh": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了  林, 方舟 2026-09-25 13:52:18  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  叮咚～众包骑手，哦不，众包数采员来新单了！ 一边干着家务或上着班，一边轻松地采集具身数据，结束了还能赚一笔外快，真有这样的好事吗？ 答案是肯定的。上个月，Figure推出了机器人训练数据众包平台Index，如今，“中国版Index”也来了。 9月23日，觅蜂科技打造的“觅蜂派”亮相，“硬件+App+数据引擎”三位一体，自称是“全球首个全品类高质量物理AI数据众包服务平台”。     普通人下载“觅蜂派”手机软件，申领一台采集设备，领取采集任务，便可以接单采数据了。用户不用额外付出时间，不影响正常的工作和生活。这些数据经治理、分级后，再被售卖，用于机器人训练。 外卖、网约车等行业都靠众包模式取得了成功，甚至连自媒体在某种程度上也是一种众包，那么在天花板更高的具身智能领域，众包数采能跑通吗？ 2万台设备，百万小时数据 一条机器人训练的无本体数据，从采集到使用，一共分为几步？ 作为一家具身数据服务商，",
-          "publishedAt": "2026-09-25T05:52:18Z",
-          "published_at": "2026-09-25T05:52:18Z",
-          "votes_count": null,
-          "featured": null,
-          "topics": [],
-          "score_details": null
-        },
-        {
-          "id": "6c84995f",
-          "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
-          "title_en": null,
-          "url": "https://www.qbitai.com/2026/09/497060.html",
-          "source": "量子位",
-          "source_type": null,
-          "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/09/497060.html",
-          "category": "cn-media",
-          "score": 5,
-          "rank_score": 5.0,
-          "rankingScore": 5.0,
-          "summary": "呃…小扎「自研Manus」刚成Meta太子，就塌房了  Jay 2026-09-25 14:11:10  来源：量子位   人工外包团队   Jay 发自 凹非寺量子位 | 公众号 QbitAI  这这这，Meta自研的Manus，咋直接在内部晋升「太子」了啊？？ 刚刚结束的Connect大会上，扎克伯格带着Meta全家桶，集体给Meta Muse作陪。 软件层面，狂叠Buff，发了一堆新功能： Computer Use、独立专属邮箱、实时视频数字分身； 硬件层面，扎总更是亲手把全套装备端了上来—— 专属口袋硬件，Muse Charm，安排！ 此外，Meta AI眼镜全系入驻，全部给我充当Muse的操作台！！ 这资源倾斜力度，可以说是彻底起飞了。 泪目了，Manus，这盛世本该属于你o(╥﹏╥)o（bushi）。 不过小扎，还是先别着急挤牙膏了，你加Muse刚火没几天，好像有点塌房了啊—— 路透社爆料，Meta正为Muse内测「真人客服」功能。 当用户让Muse拨打电话时，系统会自动把请求转交给呼叫中心经过培训的人工外包团队，由真人承包商替用户打电话沟通。    小Muse起飞了 这只",
-          "summary_zh": "呃…小扎「自研Manus」刚成Meta太子，就塌房了  Jay 2026-09-25 14:11:10  来源：量子位   人工外包团队   Jay 发自 凹非寺量子位 | 公众号 QbitAI  这这这，Meta自研的Manus，咋直接在内部晋升「太子」了啊？？ 刚刚结束的Connect大会上，扎克伯格带着Meta全家桶，集体给Meta Muse作陪。 软件层面，狂叠Buff，发了一堆新功能： Computer Use、独立专属邮箱、实时视频数字分身； 硬件层面，扎总更是亲手把全套装备端了上来—— 专属口袋硬件，Muse Charm，安排！ 此外，Meta AI眼镜全系入驻，全部给我充当Muse的操作台！！ 这资源倾斜力度，可以说是彻底起飞了。 泪目了，Manus，这盛世本该属于你o(╥﹏╥)o（bushi）。 不过小扎，还是先别着急挤牙膏了，你加Muse刚火没几天，好像有点塌房了啊—— 路透社爆料，Meta正为Muse内测「真人客服」功能。 当用户让Muse拨打电话时，系统会自动把请求转交给呼叫中心经过培训的人工外包团队，由真人承包商替用户打电话沟通。    小Muse起飞了 这只",
-          "publishedAt": "2026-09-25T06:11:10Z",
-          "published_at": "2026-09-25T06:11:10Z",
-          "votes_count": null,
-          "featured": null,
-          "topics": [],
-          "score_details": null
-        },
-        {
-          "id": "4e721d09",
-          "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
-          "title_en": null,
-          "url": "https://www.qbitai.com/2026/09/497070.html",
-          "source": "量子位",
-          "source_type": null,
-          "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/09/497070.html",
-          "category": "cn-media",
-          "score": 5,
-          "rank_score": 5.0,
-          "rankingScore": 5.0,
-          "summary": "华为大模型双子星联手创业，要找物理世界的Scaling Law  Jay 2026-09-25 14:14:07  来源：量子位   一场物理世界的基模实验   程浅 发自 凹非寺 量子位 | 公众号 QbitAI  数亿元资金，投向了一场物理世界的基模实验。 Physical AI创业公司息壤开物宣布，公司已经连续完成数亿元种子轮及天使轮融资。 由敦鸿资产领投，华控基金、三花控股、银杏谷资本、泽然资本、本坚基金、天使基石、标朴投资等知名机构跟投，估值达5亿美金。 而站在息壤开物背后的，是华为大模型双子星： 创始人、CEO李寅，前华为云大模型CTO，华为大模型0-1阶段核心成员； 联合创始人张含望教授，前华为多模态首席科学家。 二人此番联手，瞄准了一个具身智能至今尚未解决的底层难题。 “大语言模型之后，面向物理世界的下一阶段，是否仍然需要一个基础模型？” 过去几年，LLM已经通过海量文本预训练，将问答、写作、编程收进了同一个模型。 相较之下，机器人仍重度依赖特定本体、场景和任务做数据采集和增训。 为此，息壤要做LPM（Large Physics Model）。 即先从海量视频、机器人轨",
-          "summary_zh": "华为大模型双子星联手创业，要找物理世界的Scaling Law  Jay 2026-09-25 14:14:07  来源：量子位   一场物理世界的基模实验   程浅 发自 凹非寺 量子位 | 公众号 QbitAI  数亿元资金，投向了一场物理世界的基模实验。 Physical AI创业公司息壤开物宣布，公司已经连续完成数亿元种子轮及天使轮融资。 由敦鸿资产领投，华控基金、三花控股、银杏谷资本、泽然资本、本坚基金、天使基石、标朴投资等知名机构跟投，估值达5亿美金。 而站在息壤开物背后的，是华为大模型双子星： 创始人、CEO李寅，前华为云大模型CTO，华为大模型0-1阶段核心成员； 联合创始人张含望教授，前华为多模态首席科学家。 二人此番联手，瞄准了一个具身智能至今尚未解决的底层难题。 “大语言模型之后，面向物理世界的下一阶段，是否仍然需要一个基础模型？” 过去几年，LLM已经通过海量文本预训练，将问答、写作、编程收进了同一个模型。 相较之下，机器人仍重度依赖特定本体、场景和任务做数据采集和增训。 为此，息壤要做LPM（Large Physics Model）。 即先从海量视频、机器人轨",
-          "publishedAt": "2026-09-25T06:14:07Z",
-          "published_at": "2026-09-25T06:14:07Z",
-          "votes_count": null,
-          "featured": null,
-          "topics": [],
-          "score_details": null
-        },
-        {
-          "id": "a8382909",
-          "title": "从机器鸭乐高、宜家说明书到《塞尔达》",
-          "title_en": "从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding",
+          "id": "8ba4e54a",
+          "title": "NASA给月亮造了个AI：用月面数据",
+          "title_en": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
           "url": "https://www.jiqizhixin.com/articles",
           "source": "机器之心",
           "source_type": null,
@@ -261,10 +142,54 @@
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding",
-          "summary_zh": "从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding",
-          "publishedAt": "2026-09-25T23:21:03Z",
-          "published_at": "2026-09-25T23:21:03Z",
+          "summary": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
+          "summary_zh": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
+          "publishedAt": "2026-09-26T13:17:01Z",
+          "published_at": "2026-09-26T13:17:01Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "251d15f9",
+          "title": "计算机科学学术界死了吗？AI博士生该",
+          "title_en": "计算机科学学术界死了吗？AI博士生该何去何从",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "计算机科学学术界死了吗？AI博士生该何去何从",
+          "summary_zh": "计算机科学学术界死了吗？AI博士生该何去何从",
+          "publishedAt": "2026-09-26T13:17:01Z",
+          "published_at": "2026-09-26T13:17:01Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "3ecbfec5",
+          "title": "答对了，理由却错了：港科大提出Lex",
+          "title_en": "答对了，理由却错了：港科大提出LexAgentHallu，追踪智能体的「隐性幻觉」",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "答对了，理由却错了：港科大提出LexAgentHallu，追踪智能体的「隐性幻觉」",
+          "summary_zh": "答对了，理由却错了：港科大提出LexAgentHallu，追踪智能体的「隐性幻觉」",
+          "publishedAt": "2026-09-26T13:17:01Z",
+          "published_at": "2026-09-26T13:17:01Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -275,152 +200,23 @@
   ],
   "items": [
     {
-      "id": "2c06a690",
-      "title": "产品更新：PixVerse R2",
-      "title_en": "PixVerse R2",
-      "url": "https://www.producthunt.com/products/pixverse-r2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "1ccd51e6",
+      "title": "产品更新：Hemory",
+      "title_en": "Hemory",
+      "url": "https://www.producthunt.com/products/hemory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/pixverse-r2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/hemory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "A real-time world model you can explore and ch",
-      "summary_zh": "A real-time world model you can explore and ch",
-      "publishedAt": "2026-09-25T07:01:00Z",
-      "published_at": "2026-09-25T07:01:00Z",
-      "votes_count": 331,
-      "featured": true,
-      "topics": [
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "353",
-          "name": "Games",
-          "slug": "games"
-        },
-        {
-          "id": "1359",
-          "name": "Vercel Day",
-          "slug": "vercel-day"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "2610abee",
-      "title": "产品更新：Bleetz Network",
-      "title_en": "Bleetz Network",
-      "url": "https://www.producthunt.com/products/bleetz-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/bleetz-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "AI agent-to-agent VC fundraising & scouting ne",
-      "summary_zh": "AI agent-to-agent VC fundraising & scouting ne",
-      "publishedAt": "2026-09-25T07:01:00Z",
-      "published_at": "2026-09-25T07:01:00Z",
-      "votes_count": 248,
-      "featured": true,
-      "topics": [
-        {
-          "id": "208",
-          "name": "Venture Capital",
-          "slug": "venture-capital"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "791",
-          "name": "Fundraising",
-          "slug": "fundraising"
-        },
-        {
-          "id": "1359",
-          "name": "Vercel Day",
-          "slug": "vercel-day"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "d89f761a",
-      "title": "产品更新：Quiver GTM",
-      "title_en": "Quiver GTM",
-      "url": "https://www.producthunt.com/products/quiver-gtm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/quiver-gtm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Run developer marketing like an engineering sy",
-      "summary_zh": "Run developer marketing like an engineering sy",
-      "publishedAt": "2026-09-25T07:01:00Z",
-      "published_at": "2026-09-25T07:01:00Z",
-      "votes_count": 163,
-      "featured": true,
-      "topics": [
-        {
-          "id": "164",
-          "name": "Marketing",
-          "slug": "marketing"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "1359",
-          "name": "Vercel Day",
-          "slug": "vercel-day"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "072747ce",
-      "title": "产品更新：10xJoy",
-      "title_en": "10xJoy",
-      "url": "https://www.producthunt.com/products/10xjoy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/10xjoy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Discover desired outcomes + connect w/ builder",
-      "summary_zh": "Discover desired outcomes + connect w/ builder",
-      "publishedAt": "2026-09-25T07:01:00Z",
-      "published_at": "2026-09-25T07:01:00Z",
-      "votes_count": 142,
+      "summary": "Keep listening. Searchable memory for your AI",
+      "summary_zh": "Keep listening. Searchable memory for your AI",
+      "publishedAt": "2026-09-26T07:01:00Z",
+      "published_at": "2026-09-26T07:01:00Z",
+      "votes_count": 217,
       "featured": true,
       "topics": [
         {
@@ -434,83 +230,93 @@
           "slug": "artificial-intelligence"
         },
         {
-          "id": "1359",
-          "name": "Vercel Day",
-          "slug": "vercel-day"
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
         }
       ],
       "score_details": null
     },
     {
-      "id": "be711a00",
-      "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/497012.html",
-      "source": "量子位",
+      "id": "2b135265",
+      "title": "产品更新：Eclatira",
+      "title_en": "Eclatira",
+      "url": "https://www.producthunt.com/products/eclatira?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/497012.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了  林, 方舟 2026-09-25 13:52:18  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  叮咚～众包骑手，哦不，众包数采员来新单了！ 一边干着家务或上着班，一边轻松地采集具身数据，结束了还能赚一笔外快，真有这样的好事吗？ 答案是肯定的。上个月，Figure推出了机器人训练数据众包平台Index，如今，“中国版Index”也来了。 9月23日，觅蜂科技打造的“觅蜂派”亮相，“硬件+App+数据引擎”三位一体，自称是“全球首个全品类高质量物理AI数据众包服务平台”。     普通人下载“觅蜂派”手机软件，申领一台采集设备，领取采集任务，便可以接单采数据了。用户不用额外付出时间，不影响正常的工作和生活。这些数据经治理、分级后，再被售卖，用于机器人训练。 外卖、网约车等行业都靠众包模式取得了成功，甚至连自媒体在某种程度上也是一种众包，那么在天花板更高的具身智能领域，众包数采能跑通吗？ 2万台设备，百万小时数据 一条机器人训练的无本体数据，从采集到使用，一共分为几步？ 作为一家具身数据服务商，",
-      "summary_zh": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了  林, 方舟 2026-09-25 13:52:18  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  叮咚～众包骑手，哦不，众包数采员来新单了！ 一边干着家务或上着班，一边轻松地采集具身数据，结束了还能赚一笔外快，真有这样的好事吗？ 答案是肯定的。上个月，Figure推出了机器人训练数据众包平台Index，如今，“中国版Index”也来了。 9月23日，觅蜂科技打造的“觅蜂派”亮相，“硬件+App+数据引擎”三位一体，自称是“全球首个全品类高质量物理AI数据众包服务平台”。     普通人下载“觅蜂派”手机软件，申领一台采集设备，领取采集任务，便可以接单采数据了。用户不用额外付出时间，不影响正常的工作和生活。这些数据经治理、分级后，再被售卖，用于机器人训练。 外卖、网约车等行业都靠众包模式取得了成功，甚至连自媒体在某种程度上也是一种众包，那么在天花板更高的具身智能领域，众包数采能跑通吗？ 2万台设备，百万小时数据 一条机器人训练的无本体数据，从采集到使用，一共分为几步？ 作为一家具身数据服务商，",
-      "publishedAt": "2026-09-25T05:52:18Z",
-      "published_at": "2026-09-25T05:52:18Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/eclatira?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Conversational Video Agent That Plugs Into Any",
+      "summary_zh": "Conversational Video Agent That Plugs Into Any",
+      "publishedAt": "2026-09-26T07:01:00Z",
+      "published_at": "2026-09-26T07:01:00Z",
+      "votes_count": 208,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
       "score_details": null
     },
     {
-      "id": "6c84995f",
-      "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/497060.html",
-      "source": "量子位",
+      "id": "524b48d5",
+      "title": "产品更新：Chit",
+      "title_en": "Chit",
+      "url": "https://www.producthunt.com/products/chit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/497060.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "呃…小扎「自研Manus」刚成Meta太子，就塌房了  Jay 2026-09-25 14:11:10  来源：量子位   人工外包团队   Jay 发自 凹非寺量子位 | 公众号 QbitAI  这这这，Meta自研的Manus，咋直接在内部晋升「太子」了啊？？ 刚刚结束的Connect大会上，扎克伯格带着Meta全家桶，集体给Meta Muse作陪。 软件层面，狂叠Buff，发了一堆新功能： Computer Use、独立专属邮箱、实时视频数字分身； 硬件层面，扎总更是亲手把全套装备端了上来—— 专属口袋硬件，Muse Charm，安排！ 此外，Meta AI眼镜全系入驻，全部给我充当Muse的操作台！！ 这资源倾斜力度，可以说是彻底起飞了。 泪目了，Manus，这盛世本该属于你o(╥﹏╥)o（bushi）。 不过小扎，还是先别着急挤牙膏了，你加Muse刚火没几天，好像有点塌房了啊—— 路透社爆料，Meta正为Muse内测「真人客服」功能。 当用户让Muse拨打电话时，系统会自动把请求转交给呼叫中心经过培训的人工外包团队，由真人承包商替用户打电话沟通。    小Muse起飞了 这只",
-      "summary_zh": "呃…小扎「自研Manus」刚成Meta太子，就塌房了  Jay 2026-09-25 14:11:10  来源：量子位   人工外包团队   Jay 发自 凹非寺量子位 | 公众号 QbitAI  这这这，Meta自研的Manus，咋直接在内部晋升「太子」了啊？？ 刚刚结束的Connect大会上，扎克伯格带着Meta全家桶，集体给Meta Muse作陪。 软件层面，狂叠Buff，发了一堆新功能： Computer Use、独立专属邮箱、实时视频数字分身； 硬件层面，扎总更是亲手把全套装备端了上来—— 专属口袋硬件，Muse Charm，安排！ 此外，Meta AI眼镜全系入驻，全部给我充当Muse的操作台！！ 这资源倾斜力度，可以说是彻底起飞了。 泪目了，Manus，这盛世本该属于你o(╥﹏╥)o（bushi）。 不过小扎，还是先别着急挤牙膏了，你加Muse刚火没几天，好像有点塌房了啊—— 路透社爆料，Meta正为Muse内测「真人客服」功能。 当用户让Muse拨打电话时，系统会自动把请求转交给呼叫中心经过培训的人工外包团队，由真人承包商替用户打电话沟通。    小Muse起飞了 这只",
-      "publishedAt": "2026-09-25T06:11:10Z",
-      "published_at": "2026-09-25T06:11:10Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/chit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A printed receipt of your day in Claude Code C",
+      "summary_zh": "A printed receipt of your day in Claude Code C",
+      "publishedAt": "2026-09-26T07:01:00Z",
+      "published_at": "2026-09-26T07:01:00Z",
+      "votes_count": 124,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
       "score_details": null
     },
     {
-      "id": "4e721d09",
-      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/497070.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/497070.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "华为大模型双子星联手创业，要找物理世界的Scaling Law  Jay 2026-09-25 14:14:07  来源：量子位   一场物理世界的基模实验   程浅 发自 凹非寺 量子位 | 公众号 QbitAI  数亿元资金，投向了一场物理世界的基模实验。 Physical AI创业公司息壤开物宣布，公司已经连续完成数亿元种子轮及天使轮融资。 由敦鸿资产领投，华控基金、三花控股、银杏谷资本、泽然资本、本坚基金、天使基石、标朴投资等知名机构跟投，估值达5亿美金。 而站在息壤开物背后的，是华为大模型双子星： 创始人、CEO李寅，前华为云大模型CTO，华为大模型0-1阶段核心成员； 联合创始人张含望教授，前华为多模态首席科学家。 二人此番联手，瞄准了一个具身智能至今尚未解决的底层难题。 “大语言模型之后，面向物理世界的下一阶段，是否仍然需要一个基础模型？” 过去几年，LLM已经通过海量文本预训练，将问答、写作、编程收进了同一个模型。 相较之下，机器人仍重度依赖特定本体、场景和任务做数据采集和增训。 为此，息壤要做LPM（Large Physics Model）。 即先从海量视频、机器人轨",
-      "summary_zh": "华为大模型双子星联手创业，要找物理世界的Scaling Law  Jay 2026-09-25 14:14:07  来源：量子位   一场物理世界的基模实验   程浅 发自 凹非寺 量子位 | 公众号 QbitAI  数亿元资金，投向了一场物理世界的基模实验。 Physical AI创业公司息壤开物宣布，公司已经连续完成数亿元种子轮及天使轮融资。 由敦鸿资产领投，华控基金、三花控股、银杏谷资本、泽然资本、本坚基金、天使基石、标朴投资等知名机构跟投，估值达5亿美金。 而站在息壤开物背后的，是华为大模型双子星： 创始人、CEO李寅，前华为云大模型CTO，华为大模型0-1阶段核心成员； 联合创始人张含望教授，前华为多模态首席科学家。 二人此番联手，瞄准了一个具身智能至今尚未解决的底层难题。 “大语言模型之后，面向物理世界的下一阶段，是否仍然需要一个基础模型？” 过去几年，LLM已经通过海量文本预训练，将问答、写作、编程收进了同一个模型。 相较之下，机器人仍重度依赖特定本体、场景和任务做数据采集和增训。 为此，息壤要做LPM（Large Physics Model）。 即先从海量视频、机器人轨",
-      "publishedAt": "2026-09-25T06:14:07Z",
-      "published_at": "2026-09-25T06:14:07Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": null
-    },
-    {
-      "id": "a8382909",
-      "title": "从机器鸭乐高、宜家说明书到《塞尔达》",
-      "title_en": "从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding",
+      "id": "8ba4e54a",
+      "title": "NASA给月亮造了个AI：用月面数据",
+      "title_en": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -520,10 +326,54 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding",
-      "summary_zh": "从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding",
-      "publishedAt": "2026-09-25T23:21:03Z",
-      "published_at": "2026-09-25T23:21:03Z",
+      "summary": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
+      "summary_zh": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
+      "publishedAt": "2026-09-26T13:17:01Z",
+      "published_at": "2026-09-26T13:17:01Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "251d15f9",
+      "title": "计算机科学学术界死了吗？AI博士生该",
+      "title_en": "计算机科学学术界死了吗？AI博士生该何去何从",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "计算机科学学术界死了吗？AI博士生该何去何从",
+      "summary_zh": "计算机科学学术界死了吗？AI博士生该何去何从",
+      "publishedAt": "2026-09-26T13:17:01Z",
+      "published_at": "2026-09-26T13:17:01Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "3ecbfec5",
+      "title": "答对了，理由却错了：港科大提出Lex",
+      "title_en": "答对了，理由却错了：港科大提出LexAgentHallu，追踪智能体的「隐性幻觉」",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "答对了，理由却错了：港科大提出LexAgentHallu，追踪智能体的「隐性幻觉」",
+      "summary_zh": "答对了，理由却错了：港科大提出LexAgentHallu，追踪智能体的「隐性幻觉」",
+      "publishedAt": "2026-09-26T13:17:01Z",
+      "published_at": "2026-09-26T13:17:01Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
