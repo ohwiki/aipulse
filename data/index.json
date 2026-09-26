@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-09-26T13:17:29Z",
-  "generatedAt": "2026-09-26T13:17:29Z",
-  "count": 137,
-  "total": 137,
+  "generated_at": "2026-09-26T23:00:22Z",
+  "generatedAt": "2026-09-26T23:00:22Z",
+  "count": 138,
+  "total": 138,
   "entries": [
+    {
+      "date": "2026-09-27",
+      "generated_at": "2026-09-26T23:00:22Z",
+      "generatedAt": "2026-09-26T23:00:22Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "1ccd51e6",
+          "title": "产品更新：Hemory",
+          "title_en": "Hemory",
+          "url": "https://www.producthunt.com/products/hemory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/hemory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Keep listening. Searchable memory for your AI",
+          "summary_zh": "Keep listening. Searchable memory for your AI",
+          "publishedAt": "2026-09-26T07:01:00Z",
+          "published_at": "2026-09-26T07:01:00Z",
+          "votes_count": 318,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2b135265",
+          "title": "产品更新：Eclatira",
+          "title_en": "Eclatira",
+          "url": "https://www.producthunt.com/products/eclatira?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/eclatira?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Conversational Video Agent That Plugs Into Any",
+          "summary_zh": "Conversational Video Agent That Plugs Into Any",
+          "publishedAt": "2026-09-26T07:01:00Z",
+          "published_at": "2026-09-26T07:01:00Z",
+          "votes_count": 288,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "524b48d5",
+          "title": "产品更新：Chit",
+          "title_en": "Chit",
+          "url": "https://www.producthunt.com/products/chit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/chit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A printed receipt of your day in Claude Code C",
+          "summary_zh": "A printed receipt of your day in Claude Code C",
+          "publishedAt": "2026-09-26T07:01:00Z",
+          "published_at": "2026-09-26T07:01:00Z",
+          "votes_count": 183,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-26",
       "generated_at": "2026-09-26T13:17:29Z",

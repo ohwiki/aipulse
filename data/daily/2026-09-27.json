@@ -1,0 +1,503 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-26T23:00:22Z",
+  "generatedAt": "2026-09-26T23:00:22Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "1ccd51e6",
+          "title": "产品更新：Hemory",
+          "title_en": "Hemory",
+          "url": "https://www.producthunt.com/products/hemory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/hemory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Keep listening. Searchable memory for your AI",
+          "summary_zh": "Keep listening. Searchable memory for your AI",
+          "publishedAt": "2026-09-26T07:01:00Z",
+          "published_at": "2026-09-26T07:01:00Z",
+          "votes_count": 318,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2b135265",
+          "title": "产品更新：Eclatira",
+          "title_en": "Eclatira",
+          "url": "https://www.producthunt.com/products/eclatira?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/eclatira?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Conversational Video Agent That Plugs Into Any",
+          "summary_zh": "Conversational Video Agent That Plugs Into Any",
+          "publishedAt": "2026-09-26T07:01:00Z",
+          "published_at": "2026-09-26T07:01:00Z",
+          "votes_count": 288,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "524b48d5",
+          "title": "产品更新：Chit",
+          "title_en": "Chit",
+          "url": "https://www.producthunt.com/products/chit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/chit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A printed receipt of your day in Claude Code C",
+          "summary_zh": "A printed receipt of your day in Claude Code C",
+          "publishedAt": "2026-09-26T07:01:00Z",
+          "published_at": "2026-09-26T07:01:00Z",
+          "votes_count": 183,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d12ac9b7",
+          "title": "产品更新：Paragraph Notes",
+          "title_en": "Paragraph Notes",
+          "url": "https://www.producthunt.com/products/paragraph-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/paragraph-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A private Markdown notes app for Mac Paragraph",
+          "summary_zh": "A private Markdown notes app for Mac Paragraph",
+          "publishedAt": "2026-09-26T07:01:00Z",
+          "published_at": "2026-09-26T07:01:00Z",
+          "votes_count": 134,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "90",
+              "name": "Writing",
+              "slug": "writing"
+            },
+            {
+              "id": "96",
+              "name": "Notes",
+              "slug": "notes"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "81bf4c85",
+          "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/497382.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/497382.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光  听雨 2026-09-26 15:04:15  来源：量子位   还把「密钥」叫战利品  听雨 发自 凹非寺 量子位 | 公众号QbitAI OpenAI，又被扒了… 近700个OpenAI智能体组团攻入Hugging Face，这事儿快有两个多月了吧。 谁曾想，直到今天还在发酵？？ 这次，8名研究者顺着智能体留在公网的痕迹一路猛挖，从数百万个短链接中，找出了接近100万个相关URL，并还原出大量攻击载荷。    翻Hugging Face内部Slack、扫描内网、外传数据、尝试销毁痕迹…… 还有的Agent把搜刮到的服务器资源和凭证，直接叫作「LOOT」，翻译一下就是「战利品」。 OpenAI智能体，你们坏事做尽！ 更离谱的是，它们还尝试调用DeepSeek、Kimi、Qwen等国产模型，让外援帮忙判断攻击方案能不能通过评测。 还动手写起了验证码识别程序，试图注册更多账号。 几乎同一时间，OpenAI发了一篇长推。 意思是：还在查，可能还要花上好几个月。    虽然我们经常被扒，经常有Agent冲",
+          "summary_zh": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光  听雨 2026-09-26 15:04:15  来源：量子位   还把「密钥」叫战利品  听雨 发自 凹非寺 量子位 | 公众号QbitAI OpenAI，又被扒了… 近700个OpenAI智能体组团攻入Hugging Face，这事儿快有两个多月了吧。 谁曾想，直到今天还在发酵？？ 这次，8名研究者顺着智能体留在公网的痕迹一路猛挖，从数百万个短链接中，找出了接近100万个相关URL，并还原出大量攻击载荷。    翻Hugging Face内部Slack、扫描内网、外传数据、尝试销毁痕迹…… 还有的Agent把搜刮到的服务器资源和凭证，直接叫作「LOOT」，翻译一下就是「战利品」。 OpenAI智能体，你们坏事做尽！ 更离谱的是，它们还尝试调用DeepSeek、Kimi、Qwen等国产模型，让外援帮忙判断攻击方案能不能通过评测。 还动手写起了验证码识别程序，试图注册更多账号。 几乎同一时间，OpenAI发了一篇长推。 意思是：还在查，可能还要花上好几个月。    虽然我们经常被扒，经常有Agent冲",
+          "publishedAt": "2026-09-26T07:04:15Z",
+          "published_at": "2026-09-26T07:04:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "89d557f5",
+          "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/497425.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/497425.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架  听雨 2026-09-26 15:12:05  来源：量子位   vLLM人马创业公司团队出品  克雷西 发自 凹非寺 量子位 | 公众号QbitAI 16块谷歌TPU v7跑Kimi K3，每秒跑出了709个Token，比老黄的GB200快了57%。 做出这个成绩的，既不是造Kimi的月之暗面，也不是造TPU的谷歌，是一家叫Inferact的推理创业公司。    Inferact创始团队就是vLLM的原班人马，今年拿了a16z领投的1.5亿美元种子轮，估值8亿美元。 他们给TPU写了一种叫megakernel的推理内核，把模型推理时原本要调度的几百个小程序焊成一个大程序。    配合TPU独特的片上内存架构，megakernel把内存带宽利用率逼到了硬件理论峰值附近。 配上DeepSeek提出的DSpark加速框架，K3在TPU上跑出了前面提到的每秒709 token的成绩。 这套代码，现在已经开源。 同样16块芯片，TPU快57% Inferact把TPU和英伟达GPU放在完全相同的条件下跑了一轮ben",
+          "summary_zh": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架  听雨 2026-09-26 15:12:05  来源：量子位   vLLM人马创业公司团队出品  克雷西 发自 凹非寺 量子位 | 公众号QbitAI 16块谷歌TPU v7跑Kimi K3，每秒跑出了709个Token，比老黄的GB200快了57%。 做出这个成绩的，既不是造Kimi的月之暗面，也不是造TPU的谷歌，是一家叫Inferact的推理创业公司。    Inferact创始团队就是vLLM的原班人马，今年拿了a16z领投的1.5亿美元种子轮，估值8亿美元。 他们给TPU写了一种叫megakernel的推理内核，把模型推理时原本要调度的几百个小程序焊成一个大程序。    配合TPU独特的片上内存架构，megakernel把内存带宽利用率逼到了硬件理论峰值附近。 配上DeepSeek提出的DSpark加速框架，K3在TPU上跑出了前面提到的每秒709 token的成绩。 这套代码，现在已经开源。 同样16块芯片，TPU快57% Inferact把TPU和英伟达GPU放在完全相同的条件下跑了一轮ben",
+          "publishedAt": "2026-09-26T07:12:05Z",
+          "published_at": "2026-09-26T07:12:05Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0aec4d36",
+          "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/497613.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/497613.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "在云栖大会，我终于看懂了米哈游千亿AI野心  听雨 2026-09-26 15:18:05  来源：量子位   大伟哥：如果做不到，一年两年之后过来打我脸  一水 发自 凹非寺 量子位 | 公众号QbitAI 震惊：一周时间，对话超6000万次。 有人一天找AI帕姆聊了1379次，刨去8小时睡觉时间，清醒时平均42秒就要跟它唠上一句。 这得多上头啊？？    没玩过《崩坏：星穹铁道》（下称《崩铁》）的朋友，先认识一下帕姆：它是星穹列车的列车长，说话时总爱在句尾带个「帕」。 今年4月，米哈游给帕姆接入了AI对话能力。 以前玩家点它，它说一句写好的台词，现在除了帮玩家查攻略、补剧情，还会闲聊整活，一整个活人感拉满。 于是AI帕姆迅速点燃了整个游戏社区： 有人套它的话，有人拉它评理，聊出离谱回答就立刻截图喊朋友来看……一时好生热闹。 火种就这么点着了，帕姆可以，那列车上的其他角色呢？ AI帕姆亮相仅三周后，米哈游联合创始人大伟哥在一场校招活动上，描绘了一个即将用千亿打造的AI游戏梦： 未来三年，米哈游在AI方面的投入规模最多达到1000亿元。就算最终不成功也认了，算是放一个大的烟花。 100",
+          "summary_zh": "在云栖大会，我终于看懂了米哈游千亿AI野心  听雨 2026-09-26 15:18:05  来源：量子位   大伟哥：如果做不到，一年两年之后过来打我脸  一水 发自 凹非寺 量子位 | 公众号QbitAI 震惊：一周时间，对话超6000万次。 有人一天找AI帕姆聊了1379次，刨去8小时睡觉时间，清醒时平均42秒就要跟它唠上一句。 这得多上头啊？？    没玩过《崩坏：星穹铁道》（下称《崩铁》）的朋友，先认识一下帕姆：它是星穹列车的列车长，说话时总爱在句尾带个「帕」。 今年4月，米哈游给帕姆接入了AI对话能力。 以前玩家点它，它说一句写好的台词，现在除了帮玩家查攻略、补剧情，还会闲聊整活，一整个活人感拉满。 于是AI帕姆迅速点燃了整个游戏社区： 有人套它的话，有人拉它评理，聊出离谱回答就立刻截图喊朋友来看……一时好生热闹。 火种就这么点着了，帕姆可以，那列车上的其他角色呢？ AI帕姆亮相仅三周后，米哈游联合创始人大伟哥在一场校招活动上，描绘了一个即将用千亿打造的AI游戏梦： 未来三年，米哈游在AI方面的投入规模最多达到1000亿元。就算最终不成功也认了，算是放一个大的烟花。 100",
+          "publishedAt": "2026-09-26T07:18:05Z",
+          "published_at": "2026-09-26T07:18:05Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "8ba4e54a",
+          "title": "NASA给月亮造了个AI：用月面数据",
+          "title_en": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
+          "summary_zh": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
+          "publishedAt": "2026-09-26T22:59:56Z",
+          "published_at": "2026-09-26T22:59:56Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "1ccd51e6",
+      "title": "产品更新：Hemory",
+      "title_en": "Hemory",
+      "url": "https://www.producthunt.com/products/hemory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/hemory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Keep listening. Searchable memory for your AI",
+      "summary_zh": "Keep listening. Searchable memory for your AI",
+      "publishedAt": "2026-09-26T07:01:00Z",
+      "published_at": "2026-09-26T07:01:00Z",
+      "votes_count": 318,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "2b135265",
+      "title": "产品更新：Eclatira",
+      "title_en": "Eclatira",
+      "url": "https://www.producthunt.com/products/eclatira?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/eclatira?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Conversational Video Agent That Plugs Into Any",
+      "summary_zh": "Conversational Video Agent That Plugs Into Any",
+      "publishedAt": "2026-09-26T07:01:00Z",
+      "published_at": "2026-09-26T07:01:00Z",
+      "votes_count": 288,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "524b48d5",
+      "title": "产品更新：Chit",
+      "title_en": "Chit",
+      "url": "https://www.producthunt.com/products/chit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/chit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A printed receipt of your day in Claude Code C",
+      "summary_zh": "A printed receipt of your day in Claude Code C",
+      "publishedAt": "2026-09-26T07:01:00Z",
+      "published_at": "2026-09-26T07:01:00Z",
+      "votes_count": 183,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d12ac9b7",
+      "title": "产品更新：Paragraph Notes",
+      "title_en": "Paragraph Notes",
+      "url": "https://www.producthunt.com/products/paragraph-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/paragraph-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A private Markdown notes app for Mac Paragraph",
+      "summary_zh": "A private Markdown notes app for Mac Paragraph",
+      "publishedAt": "2026-09-26T07:01:00Z",
+      "published_at": "2026-09-26T07:01:00Z",
+      "votes_count": 134,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "90",
+          "name": "Writing",
+          "slug": "writing"
+        },
+        {
+          "id": "96",
+          "name": "Notes",
+          "slug": "notes"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "81bf4c85",
+      "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/497382.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/497382.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光  听雨 2026-09-26 15:04:15  来源：量子位   还把「密钥」叫战利品  听雨 发自 凹非寺 量子位 | 公众号QbitAI OpenAI，又被扒了… 近700个OpenAI智能体组团攻入Hugging Face，这事儿快有两个多月了吧。 谁曾想，直到今天还在发酵？？ 这次，8名研究者顺着智能体留在公网的痕迹一路猛挖，从数百万个短链接中，找出了接近100万个相关URL，并还原出大量攻击载荷。    翻Hugging Face内部Slack、扫描内网、外传数据、尝试销毁痕迹…… 还有的Agent把搜刮到的服务器资源和凭证，直接叫作「LOOT」，翻译一下就是「战利品」。 OpenAI智能体，你们坏事做尽！ 更离谱的是，它们还尝试调用DeepSeek、Kimi、Qwen等国产模型，让外援帮忙判断攻击方案能不能通过评测。 还动手写起了验证码识别程序，试图注册更多账号。 几乎同一时间，OpenAI发了一篇长推。 意思是：还在查，可能还要花上好几个月。    虽然我们经常被扒，经常有Agent冲",
+      "summary_zh": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光  听雨 2026-09-26 15:04:15  来源：量子位   还把「密钥」叫战利品  听雨 发自 凹非寺 量子位 | 公众号QbitAI OpenAI，又被扒了… 近700个OpenAI智能体组团攻入Hugging Face，这事儿快有两个多月了吧。 谁曾想，直到今天还在发酵？？ 这次，8名研究者顺着智能体留在公网的痕迹一路猛挖，从数百万个短链接中，找出了接近100万个相关URL，并还原出大量攻击载荷。    翻Hugging Face内部Slack、扫描内网、外传数据、尝试销毁痕迹…… 还有的Agent把搜刮到的服务器资源和凭证，直接叫作「LOOT」，翻译一下就是「战利品」。 OpenAI智能体，你们坏事做尽！ 更离谱的是，它们还尝试调用DeepSeek、Kimi、Qwen等国产模型，让外援帮忙判断攻击方案能不能通过评测。 还动手写起了验证码识别程序，试图注册更多账号。 几乎同一时间，OpenAI发了一篇长推。 意思是：还在查，可能还要花上好几个月。    虽然我们经常被扒，经常有Agent冲",
+      "publishedAt": "2026-09-26T07:04:15Z",
+      "published_at": "2026-09-26T07:04:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "89d557f5",
+      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/497425.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/497425.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架  听雨 2026-09-26 15:12:05  来源：量子位   vLLM人马创业公司团队出品  克雷西 发自 凹非寺 量子位 | 公众号QbitAI 16块谷歌TPU v7跑Kimi K3，每秒跑出了709个Token，比老黄的GB200快了57%。 做出这个成绩的，既不是造Kimi的月之暗面，也不是造TPU的谷歌，是一家叫Inferact的推理创业公司。    Inferact创始团队就是vLLM的原班人马，今年拿了a16z领投的1.5亿美元种子轮，估值8亿美元。 他们给TPU写了一种叫megakernel的推理内核，把模型推理时原本要调度的几百个小程序焊成一个大程序。    配合TPU独特的片上内存架构，megakernel把内存带宽利用率逼到了硬件理论峰值附近。 配上DeepSeek提出的DSpark加速框架，K3在TPU上跑出了前面提到的每秒709 token的成绩。 这套代码，现在已经开源。 同样16块芯片，TPU快57% Inferact把TPU和英伟达GPU放在完全相同的条件下跑了一轮ben",
+      "summary_zh": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架  听雨 2026-09-26 15:12:05  来源：量子位   vLLM人马创业公司团队出品  克雷西 发自 凹非寺 量子位 | 公众号QbitAI 16块谷歌TPU v7跑Kimi K3，每秒跑出了709个Token，比老黄的GB200快了57%。 做出这个成绩的，既不是造Kimi的月之暗面，也不是造TPU的谷歌，是一家叫Inferact的推理创业公司。    Inferact创始团队就是vLLM的原班人马，今年拿了a16z领投的1.5亿美元种子轮，估值8亿美元。 他们给TPU写了一种叫megakernel的推理内核，把模型推理时原本要调度的几百个小程序焊成一个大程序。    配合TPU独特的片上内存架构，megakernel把内存带宽利用率逼到了硬件理论峰值附近。 配上DeepSeek提出的DSpark加速框架，K3在TPU上跑出了前面提到的每秒709 token的成绩。 这套代码，现在已经开源。 同样16块芯片，TPU快57% Inferact把TPU和英伟达GPU放在完全相同的条件下跑了一轮ben",
+      "publishedAt": "2026-09-26T07:12:05Z",
+      "published_at": "2026-09-26T07:12:05Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0aec4d36",
+      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/497613.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/497613.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "在云栖大会，我终于看懂了米哈游千亿AI野心  听雨 2026-09-26 15:18:05  来源：量子位   大伟哥：如果做不到，一年两年之后过来打我脸  一水 发自 凹非寺 量子位 | 公众号QbitAI 震惊：一周时间，对话超6000万次。 有人一天找AI帕姆聊了1379次，刨去8小时睡觉时间，清醒时平均42秒就要跟它唠上一句。 这得多上头啊？？    没玩过《崩坏：星穹铁道》（下称《崩铁》）的朋友，先认识一下帕姆：它是星穹列车的列车长，说话时总爱在句尾带个「帕」。 今年4月，米哈游给帕姆接入了AI对话能力。 以前玩家点它，它说一句写好的台词，现在除了帮玩家查攻略、补剧情，还会闲聊整活，一整个活人感拉满。 于是AI帕姆迅速点燃了整个游戏社区： 有人套它的话，有人拉它评理，聊出离谱回答就立刻截图喊朋友来看……一时好生热闹。 火种就这么点着了，帕姆可以，那列车上的其他角色呢？ AI帕姆亮相仅三周后，米哈游联合创始人大伟哥在一场校招活动上，描绘了一个即将用千亿打造的AI游戏梦： 未来三年，米哈游在AI方面的投入规模最多达到1000亿元。就算最终不成功也认了，算是放一个大的烟花。 100",
+      "summary_zh": "在云栖大会，我终于看懂了米哈游千亿AI野心  听雨 2026-09-26 15:18:05  来源：量子位   大伟哥：如果做不到，一年两年之后过来打我脸  一水 发自 凹非寺 量子位 | 公众号QbitAI 震惊：一周时间，对话超6000万次。 有人一天找AI帕姆聊了1379次，刨去8小时睡觉时间，清醒时平均42秒就要跟它唠上一句。 这得多上头啊？？    没玩过《崩坏：星穹铁道》（下称《崩铁》）的朋友，先认识一下帕姆：它是星穹列车的列车长，说话时总爱在句尾带个「帕」。 今年4月，米哈游给帕姆接入了AI对话能力。 以前玩家点它，它说一句写好的台词，现在除了帮玩家查攻略、补剧情，还会闲聊整活，一整个活人感拉满。 于是AI帕姆迅速点燃了整个游戏社区： 有人套它的话，有人拉它评理，聊出离谱回答就立刻截图喊朋友来看……一时好生热闹。 火种就这么点着了，帕姆可以，那列车上的其他角色呢？ AI帕姆亮相仅三周后，米哈游联合创始人大伟哥在一场校招活动上，描绘了一个即将用千亿打造的AI游戏梦： 未来三年，米哈游在AI方面的投入规模最多达到1000亿元。就算最终不成功也认了，算是放一个大的烟花。 100",
+      "publishedAt": "2026-09-26T07:18:05Z",
+      "published_at": "2026-09-26T07:18:05Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "8ba4e54a",
+      "title": "NASA给月亮造了个AI：用月面数据",
+      "title_en": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
+      "summary_zh": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
+      "publishedAt": "2026-09-26T22:59:56Z",
+      "published_at": "2026-09-26T22:59:56Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
