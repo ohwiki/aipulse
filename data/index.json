@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-09-27T14:10:56Z",
-  "generatedAt": "2026-09-27T14:10:56Z",
-  "count": 138,
-  "total": 138,
+  "generated_at": "2026-09-27T23:10:45Z",
+  "generatedAt": "2026-09-27T23:10:45Z",
+  "count": 139,
+  "total": 139,
   "entries": [
+    {
+      "date": "2026-09-28",
+      "generated_at": "2026-09-27T23:10:45Z",
+      "generatedAt": "2026-09-27T23:10:45Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "6e212fcf",
+          "title": "AI资讯更新：GPT-6 Sol & L",
+          "title_en": "GPT-6 Sol & Luna",
+          "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Frontier AI intelligence, now at half the pric",
+          "summary_zh": "Frontier AI intelligence, now at half the pric",
+          "publishedAt": "2026-09-27T07:01:00Z",
+          "published_at": "2026-09-27T07:01:00Z",
+          "votes_count": 269,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1e8d923f",
+          "title": "产品更新：Humalike x GTA",
+          "title_en": "Humalike x GTA RP",
+          "url": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI NPCs that talk, remember & act on their own",
+          "summary_zh": "AI NPCs that talk, remember & act on their own",
+          "publishedAt": "2026-09-27T07:01:00Z",
+          "published_at": "2026-09-27T07:01:00Z",
+          "votes_count": 249,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "50776c54",
+          "title": "产品更新：Cuey",
+          "title_en": "Cuey",
+          "url": "https://www.producthunt.com/products/cuey-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cuey-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Compare ChatGPT, Claude & Gemini answers in on",
+          "summary_zh": "Compare ChatGPT, Claude & Gemini answers in on",
+          "publishedAt": "2026-09-27T07:01:00Z",
+          "published_at": "2026-09-27T07:01:00Z",
+          "votes_count": 200,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-27",
       "generated_at": "2026-09-27T14:10:56Z",

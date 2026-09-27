@@ -1,0 +1,493 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-27T23:10:45Z",
+  "generatedAt": "2026-09-27T23:10:45Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "6e212fcf",
+          "title": "AI资讯更新：GPT-6 Sol & L",
+          "title_en": "GPT-6 Sol & Luna",
+          "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Frontier AI intelligence, now at half the pric",
+          "summary_zh": "Frontier AI intelligence, now at half the pric",
+          "publishedAt": "2026-09-27T07:01:00Z",
+          "published_at": "2026-09-27T07:01:00Z",
+          "votes_count": 269,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1e8d923f",
+          "title": "产品更新：Humalike x GTA",
+          "title_en": "Humalike x GTA RP",
+          "url": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI NPCs that talk, remember & act on their own",
+          "summary_zh": "AI NPCs that talk, remember & act on their own",
+          "publishedAt": "2026-09-27T07:01:00Z",
+          "published_at": "2026-09-27T07:01:00Z",
+          "votes_count": 249,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "50776c54",
+          "title": "产品更新：Cuey",
+          "title_en": "Cuey",
+          "url": "https://www.producthunt.com/products/cuey-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/cuey-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Compare ChatGPT, Claude & Gemini answers in on",
+          "summary_zh": "Compare ChatGPT, Claude & Gemini answers in on",
+          "publishedAt": "2026-09-27T07:01:00Z",
+          "published_at": "2026-09-27T07:01:00Z",
+          "votes_count": 200,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "eee55256",
+          "title": "产品更新：Superhuman Go",
+          "title_en": "Superhuman Go",
+          "url": "https://www.producthunt.com/products/superhuman-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/superhuman-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The AI assistant that works where you do Go wo",
+          "summary_zh": "The AI assistant that works where you do Go wo",
+          "publishedAt": "2026-09-27T07:01:00Z",
+          "published_at": "2026-09-27T07:01:00Z",
+          "votes_count": 168,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "631d681a",
+          "title": "啥题啊能干崩OpenAI最强模型训练…",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/498546.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/498546.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "啥题啊能干崩OpenAI最强模型训练…  文婷 2026-09-27 17:44:16  来源：量子位    文婷 发自 凹非寺   量子位 | 公众号 QbitAI  一道没搜出答案的找人题，竟然把OpenAI最强模型的相关训练干停了！ 事情有多离谱呢？请看大屏幕——OpenAI一款正在进行RL训练的内部研究模型，本来的任务是凭几份履历、博客定位某人。 常规搜索碰壁后，它没有放弃，竟把本该查地址的DNS，改造成突破断网沙箱的聊天窗口。 （DNS原本相当于互联网的“通讯录”：用户输入一个域名，DNS负责查询这个域名对应的网络地址。） 更抓马的是，它费了这么大劲最后还是没找到人，反倒先把OpenAI沙箱里的漏洞给揪出来了…    消息传回OpenAI，警报随即拉响。 约两个半小时后，这次训练被人工叫停。 OpenAI随后宣布，这次事件暴露了他们在网络限制管理方面的漏洞，因此，他们将暂停最强模型中所有涉及工具调用的训练、评测和推理任务。    @OpenAI，ber，你们最近有点忙啊。（吃瓜）    AI拿DNS当电话线，训练被按下暂停键 事情发生在9月20日。 当时，模型接到的任务本身风",
+          "summary_zh": "啥题啊能干崩OpenAI最强模型训练…  文婷 2026-09-27 17:44:16  来源：量子位    文婷 发自 凹非寺   量子位 | 公众号 QbitAI  一道没搜出答案的找人题，竟然把OpenAI最强模型的相关训练干停了！ 事情有多离谱呢？请看大屏幕——OpenAI一款正在进行RL训练的内部研究模型，本来的任务是凭几份履历、博客定位某人。 常规搜索碰壁后，它没有放弃，竟把本该查地址的DNS，改造成突破断网沙箱的聊天窗口。 （DNS原本相当于互联网的“通讯录”：用户输入一个域名，DNS负责查询这个域名对应的网络地址。） 更抓马的是，它费了这么大劲最后还是没找到人，反倒先把OpenAI沙箱里的漏洞给揪出来了…    消息传回OpenAI，警报随即拉响。 约两个半小时后，这次训练被人工叫停。 OpenAI随后宣布，这次事件暴露了他们在网络限制管理方面的漏洞，因此，他们将暂停最强模型中所有涉及工具调用的训练、评测和推理任务。    @OpenAI，ber，你们最近有点忙啊。（吃瓜）    AI拿DNS当电话线，训练被按下暂停键 事情发生在9月20日。 当时，模型接到的任务本身风",
+          "publishedAt": "2026-09-27T09:44:16Z",
+          "published_at": "2026-09-27T09:44:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "e61ef7ed",
+          "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/498584.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/498584.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录  衡宇 2026-09-27 21:40:02  来源：量子位   中秋假期文具OpenRouter调用日榜榜首  衡宇 发自 凹非寺 量子位 | 公众号QbitAI 服都服了，又是哪家模型搞匿名啊，大过节的搁这儿杀出来冲榜？！ 说的就是你，Space Bunny。 一个没留神，它在短短几天里经历了突然出现->突然热度飙升->突然干到OpenRouter、OpenCode双榜调用日榜第一->突然讨论热度也飙升。  扫了一眼，推特和Reddit上目前的整体风向是这样的： 有说unbelievable的（be like@CoderGeeta）。  不少用户反馈输出效果不错（be like@Fei2411）。  还有夸速度快，“打败了Astra”的（be like@marcthecreatorr）。  真的吗？ 我不信。 所以在迷人又珍贵的中秋假期最后一天，我做了一个违背祖宗的决定——管他是谁家的匿名模型，先测了再说吧。 猜它是谁干嘛，快开蹬啊 先跟大家说一声，我是从OpenRouter上拿的API，接到了DeepSeek H",
+          "summary_zh": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录  衡宇 2026-09-27 21:40:02  来源：量子位   中秋假期文具OpenRouter调用日榜榜首  衡宇 发自 凹非寺 量子位 | 公众号QbitAI 服都服了，又是哪家模型搞匿名啊，大过节的搁这儿杀出来冲榜？！ 说的就是你，Space Bunny。 一个没留神，它在短短几天里经历了突然出现->突然热度飙升->突然干到OpenRouter、OpenCode双榜调用日榜第一->突然讨论热度也飙升。  扫了一眼，推特和Reddit上目前的整体风向是这样的： 有说unbelievable的（be like@CoderGeeta）。  不少用户反馈输出效果不错（be like@Fei2411）。  还有夸速度快，“打败了Astra”的（be like@marcthecreatorr）。  真的吗？ 我不信。 所以在迷人又珍贵的中秋假期最后一天，我做了一个违背祖宗的决定——管他是谁家的匿名模型，先测了再说吧。 猜它是谁干嘛，快开蹬啊 先跟大家说一声，我是从OpenRouter上拿的API，接到了DeepSeek H",
+          "publishedAt": "2026-09-27T13:40:02Z",
+          "published_at": "2026-09-27T13:40:02Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "28e31d01",
+          "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/498605.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/498605.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门  衡宇 2026-09-27 21:57:57  来源：量子位   想让开发者“说句话就能跑量子计算”  允中 发自 凹非寺量子位 | 公众号QbitAI 量子计算大概是眼下最难上手的前沿技术之一。 想跑通一个量子算法，你得先懂量子线路，会写专用代码，用量子模拟器配合GPU加速运算或者连接真机平台计算。数据要不要传到云上，也需要额外考量。这么高的门槛，把大多数开发者挡在了外面。 9月20日，上海漕河泾会议中心，酉术量子举办了一场发布会，主题叫“酉核有术·叠加万象”。这家公司由上海交通大学的科研团队孵化，当天全球首发了异构计算硬件底座UnitarySpark，同时上线了UnitaryLab 2.5公测版，一个用自然语言驱动的量子科学计算平台。 它想做的事其实很朴素：你用大白话把一个科学问题讲清楚，剩下的交给机器，让它替你去跑量子计算。    量子计算为什么“用不起来” 这几年，量子计算的新闻几乎都围着“比特数”转。 可对真想拿它解决问题的人来说，卡住他们的往往不是比特数，而是“到底怎么用”。 工程和科学里的真实问题，如流体、热传导、",
+          "summary_zh": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门  衡宇 2026-09-27 21:57:57  来源：量子位   想让开发者“说句话就能跑量子计算”  允中 发自 凹非寺量子位 | 公众号QbitAI 量子计算大概是眼下最难上手的前沿技术之一。 想跑通一个量子算法，你得先懂量子线路，会写专用代码，用量子模拟器配合GPU加速运算或者连接真机平台计算。数据要不要传到云上，也需要额外考量。这么高的门槛，把大多数开发者挡在了外面。 9月20日，上海漕河泾会议中心，酉术量子举办了一场发布会，主题叫“酉核有术·叠加万象”。这家公司由上海交通大学的科研团队孵化，当天全球首发了异构计算硬件底座UnitarySpark，同时上线了UnitaryLab 2.5公测版，一个用自然语言驱动的量子科学计算平台。 它想做的事其实很朴素：你用大白话把一个科学问题讲清楚，剩下的交给机器，让它替你去跑量子计算。    量子计算为什么“用不起来” 这几年，量子计算的新闻几乎都围着“比特数”转。 可对真想拿它解决问题的人来说，卡住他们的往往不是比特数，而是“到底怎么用”。 工程和科学里的真实问题，如流体、热传导、",
+          "publishedAt": "2026-09-27T13:57:57Z",
+          "published_at": "2026-09-27T13:57:57Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "042f6ed4",
+          "title": "Plan Mode才成标配，就有人宣",
+          "title_en": "Plan Mode才成标配，就有人宣布它「已死」",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Plan Mode才成标配，就有人宣布它「已死」",
+          "summary_zh": "Plan Mode才成标配，就有人宣布它「已死」",
+          "publishedAt": "2026-09-27T23:10:06Z",
+          "published_at": "2026-09-27T23:10:06Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "6e212fcf",
+      "title": "AI资讯更新：GPT-6 Sol & L",
+      "title_en": "GPT-6 Sol & Luna",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Frontier AI intelligence, now at half the pric",
+      "summary_zh": "Frontier AI intelligence, now at half the pric",
+      "publishedAt": "2026-09-27T07:01:00Z",
+      "published_at": "2026-09-27T07:01:00Z",
+      "votes_count": 269,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1e8d923f",
+      "title": "产品更新：Humalike x GTA",
+      "title_en": "Humalike x GTA RP",
+      "url": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI NPCs that talk, remember & act on their own",
+      "summary_zh": "AI NPCs that talk, remember & act on their own",
+      "publishedAt": "2026-09-27T07:01:00Z",
+      "published_at": "2026-09-27T07:01:00Z",
+      "votes_count": 249,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "353",
+          "name": "Games",
+          "slug": "games"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "50776c54",
+      "title": "产品更新：Cuey",
+      "title_en": "Cuey",
+      "url": "https://www.producthunt.com/products/cuey-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/cuey-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Compare ChatGPT, Claude & Gemini answers in on",
+      "summary_zh": "Compare ChatGPT, Claude & Gemini answers in on",
+      "publishedAt": "2026-09-27T07:01:00Z",
+      "published_at": "2026-09-27T07:01:00Z",
+      "votes_count": 200,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "eee55256",
+      "title": "产品更新：Superhuman Go",
+      "title_en": "Superhuman Go",
+      "url": "https://www.producthunt.com/products/superhuman-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/superhuman-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI assistant that works where you do Go wo",
+      "summary_zh": "The AI assistant that works where you do Go wo",
+      "publishedAt": "2026-09-27T07:01:00Z",
+      "published_at": "2026-09-27T07:01:00Z",
+      "votes_count": 168,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "631d681a",
+      "title": "啥题啊能干崩OpenAI最强模型训练…",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/498546.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/498546.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "啥题啊能干崩OpenAI最强模型训练…  文婷 2026-09-27 17:44:16  来源：量子位    文婷 发自 凹非寺   量子位 | 公众号 QbitAI  一道没搜出答案的找人题，竟然把OpenAI最强模型的相关训练干停了！ 事情有多离谱呢？请看大屏幕——OpenAI一款正在进行RL训练的内部研究模型，本来的任务是凭几份履历、博客定位某人。 常规搜索碰壁后，它没有放弃，竟把本该查地址的DNS，改造成突破断网沙箱的聊天窗口。 （DNS原本相当于互联网的“通讯录”：用户输入一个域名，DNS负责查询这个域名对应的网络地址。） 更抓马的是，它费了这么大劲最后还是没找到人，反倒先把OpenAI沙箱里的漏洞给揪出来了…    消息传回OpenAI，警报随即拉响。 约两个半小时后，这次训练被人工叫停。 OpenAI随后宣布，这次事件暴露了他们在网络限制管理方面的漏洞，因此，他们将暂停最强模型中所有涉及工具调用的训练、评测和推理任务。    @OpenAI，ber，你们最近有点忙啊。（吃瓜）    AI拿DNS当电话线，训练被按下暂停键 事情发生在9月20日。 当时，模型接到的任务本身风",
+      "summary_zh": "啥题啊能干崩OpenAI最强模型训练…  文婷 2026-09-27 17:44:16  来源：量子位    文婷 发自 凹非寺   量子位 | 公众号 QbitAI  一道没搜出答案的找人题，竟然把OpenAI最强模型的相关训练干停了！ 事情有多离谱呢？请看大屏幕——OpenAI一款正在进行RL训练的内部研究模型，本来的任务是凭几份履历、博客定位某人。 常规搜索碰壁后，它没有放弃，竟把本该查地址的DNS，改造成突破断网沙箱的聊天窗口。 （DNS原本相当于互联网的“通讯录”：用户输入一个域名，DNS负责查询这个域名对应的网络地址。） 更抓马的是，它费了这么大劲最后还是没找到人，反倒先把OpenAI沙箱里的漏洞给揪出来了…    消息传回OpenAI，警报随即拉响。 约两个半小时后，这次训练被人工叫停。 OpenAI随后宣布，这次事件暴露了他们在网络限制管理方面的漏洞，因此，他们将暂停最强模型中所有涉及工具调用的训练、评测和推理任务。    @OpenAI，ber，你们最近有点忙啊。（吃瓜）    AI拿DNS当电话线，训练被按下暂停键 事情发生在9月20日。 当时，模型接到的任务本身风",
+      "publishedAt": "2026-09-27T09:44:16Z",
+      "published_at": "2026-09-27T09:44:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "e61ef7ed",
+      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/498584.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/498584.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录  衡宇 2026-09-27 21:40:02  来源：量子位   中秋假期文具OpenRouter调用日榜榜首  衡宇 发自 凹非寺 量子位 | 公众号QbitAI 服都服了，又是哪家模型搞匿名啊，大过节的搁这儿杀出来冲榜？！ 说的就是你，Space Bunny。 一个没留神，它在短短几天里经历了突然出现->突然热度飙升->突然干到OpenRouter、OpenCode双榜调用日榜第一->突然讨论热度也飙升。  扫了一眼，推特和Reddit上目前的整体风向是这样的： 有说unbelievable的（be like@CoderGeeta）。  不少用户反馈输出效果不错（be like@Fei2411）。  还有夸速度快，“打败了Astra”的（be like@marcthecreatorr）。  真的吗？ 我不信。 所以在迷人又珍贵的中秋假期最后一天，我做了一个违背祖宗的决定——管他是谁家的匿名模型，先测了再说吧。 猜它是谁干嘛，快开蹬啊 先跟大家说一声，我是从OpenRouter上拿的API，接到了DeepSeek H",
+      "summary_zh": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录  衡宇 2026-09-27 21:40:02  来源：量子位   中秋假期文具OpenRouter调用日榜榜首  衡宇 发自 凹非寺 量子位 | 公众号QbitAI 服都服了，又是哪家模型搞匿名啊，大过节的搁这儿杀出来冲榜？！ 说的就是你，Space Bunny。 一个没留神，它在短短几天里经历了突然出现->突然热度飙升->突然干到OpenRouter、OpenCode双榜调用日榜第一->突然讨论热度也飙升。  扫了一眼，推特和Reddit上目前的整体风向是这样的： 有说unbelievable的（be like@CoderGeeta）。  不少用户反馈输出效果不错（be like@Fei2411）。  还有夸速度快，“打败了Astra”的（be like@marcthecreatorr）。  真的吗？ 我不信。 所以在迷人又珍贵的中秋假期最后一天，我做了一个违背祖宗的决定——管他是谁家的匿名模型，先测了再说吧。 猜它是谁干嘛，快开蹬啊 先跟大家说一声，我是从OpenRouter上拿的API，接到了DeepSeek H",
+      "publishedAt": "2026-09-27T13:40:02Z",
+      "published_at": "2026-09-27T13:40:02Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "28e31d01",
+      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/498605.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/498605.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门  衡宇 2026-09-27 21:57:57  来源：量子位   想让开发者“说句话就能跑量子计算”  允中 发自 凹非寺量子位 | 公众号QbitAI 量子计算大概是眼下最难上手的前沿技术之一。 想跑通一个量子算法，你得先懂量子线路，会写专用代码，用量子模拟器配合GPU加速运算或者连接真机平台计算。数据要不要传到云上，也需要额外考量。这么高的门槛，把大多数开发者挡在了外面。 9月20日，上海漕河泾会议中心，酉术量子举办了一场发布会，主题叫“酉核有术·叠加万象”。这家公司由上海交通大学的科研团队孵化，当天全球首发了异构计算硬件底座UnitarySpark，同时上线了UnitaryLab 2.5公测版，一个用自然语言驱动的量子科学计算平台。 它想做的事其实很朴素：你用大白话把一个科学问题讲清楚，剩下的交给机器，让它替你去跑量子计算。    量子计算为什么“用不起来” 这几年，量子计算的新闻几乎都围着“比特数”转。 可对真想拿它解决问题的人来说，卡住他们的往往不是比特数，而是“到底怎么用”。 工程和科学里的真实问题，如流体、热传导、",
+      "summary_zh": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门  衡宇 2026-09-27 21:57:57  来源：量子位   想让开发者“说句话就能跑量子计算”  允中 发自 凹非寺量子位 | 公众号QbitAI 量子计算大概是眼下最难上手的前沿技术之一。 想跑通一个量子算法，你得先懂量子线路，会写专用代码，用量子模拟器配合GPU加速运算或者连接真机平台计算。数据要不要传到云上，也需要额外考量。这么高的门槛，把大多数开发者挡在了外面。 9月20日，上海漕河泾会议中心，酉术量子举办了一场发布会，主题叫“酉核有术·叠加万象”。这家公司由上海交通大学的科研团队孵化，当天全球首发了异构计算硬件底座UnitarySpark，同时上线了UnitaryLab 2.5公测版，一个用自然语言驱动的量子科学计算平台。 它想做的事其实很朴素：你用大白话把一个科学问题讲清楚，剩下的交给机器，让它替你去跑量子计算。    量子计算为什么“用不起来” 这几年，量子计算的新闻几乎都围着“比特数”转。 可对真想拿它解决问题的人来说，卡住他们的往往不是比特数，而是“到底怎么用”。 工程和科学里的真实问题，如流体、热传导、",
+      "publishedAt": "2026-09-27T13:57:57Z",
+      "published_at": "2026-09-27T13:57:57Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "042f6ed4",
+      "title": "Plan Mode才成标配，就有人宣",
+      "title_en": "Plan Mode才成标配，就有人宣布它「已死」",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Plan Mode才成标配，就有人宣布它「已死」",
+      "summary_zh": "Plan Mode才成标配，就有人宣布它「已死」",
+      "publishedAt": "2026-09-27T23:10:06Z",
+      "published_at": "2026-09-27T23:10:06Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T14:10:56Z",
-  "generatedAt": "2026-09-27T14:10:56Z",
+  "generated_at": "2026-09-27T23:10:45Z",
+  "generatedAt": "2026-09-27T23:10:45Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "Frontier AI intelligence, now at half the pric",
       "publishedAt": "2026-09-27T07:01:00Z",
       "published_at": "2026-09-27T07:01:00Z",
-      "votes_count": 183,
+      "votes_count": 269,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "AI NPCs that talk, remember & act on their own",
       "publishedAt": "2026-09-27T07:01:00Z",
       "published_at": "2026-09-27T07:01:00Z",
-      "votes_count": 155,
+      "votes_count": 249,
       "featured": true,
       "topics": [
         {
@@ -82,39 +82,6 @@
       "score_details": null
     },
     {
-      "id": "eee55256",
-      "title": "产品更新：Superhuman Go",
-      "title_en": "Superhuman Go",
-      "url": "https://www.producthunt.com/products/superhuman-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/superhuman-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "The AI assistant that works where you do Go wo",
-      "summary_zh": "The AI assistant that works where you do Go wo",
-      "publishedAt": "2026-09-27T07:01:00Z",
-      "published_at": "2026-09-27T07:01:00Z",
-      "votes_count": 131,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "50776c54",
       "title": "产品更新：Cuey",
       "title_en": "Cuey",
@@ -131,7 +98,7 @@
       "summary_zh": "Compare ChatGPT, Claude & Gemini answers in on",
       "publishedAt": "2026-09-27T07:01:00Z",
       "published_at": "2026-09-27T07:01:00Z",
-      "votes_count": 124,
+      "votes_count": 200,
       "featured": true,
       "topics": [
         {
@@ -148,6 +115,39 @@
           "id": "352",
           "name": "Tech",
           "slug": "tech"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "eee55256",
+      "title": "产品更新：Superhuman Go",
+      "title_en": "Superhuman Go",
+      "url": "https://www.producthunt.com/products/superhuman-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/superhuman-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI assistant that works where you do Go wo",
+      "summary_zh": "The AI assistant that works where you do Go wo",
+      "publishedAt": "2026-09-27T07:01:00Z",
+      "published_at": "2026-09-27T07:01:00Z",
+      "votes_count": 168,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         }
       ],
       "score_details": null
@@ -219,9 +219,9 @@
       "score_details": null
     },
     {
-      "id": "8ba4e54a",
-      "title": "NASA给月亮造了个AI：用月面数据",
-      "title_en": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
+      "id": "042f6ed4",
+      "title": "Plan Mode才成标配，就有人宣",
+      "title_en": "Plan Mode才成标配，就有人宣布它「已死」",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -231,10 +231,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
-      "summary_zh": "NASA给月亮造了个AI：用月面数据训练可复用基础模型",
-      "publishedAt": "2026-09-27T14:10:28Z",
-      "published_at": "2026-09-27T14:10:28Z",
+      "summary": "Plan Mode才成标配，就有人宣布它「已死」",
+      "summary_zh": "Plan Mode才成标配，就有人宣布它「已死」",
+      "publishedAt": "2026-09-27T23:10:06Z",
+      "published_at": "2026-09-27T23:10:06Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
