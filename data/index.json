@@ -1,72 +1,34 @@
 {
-  "generated_at": "2026-09-26T23:00:22Z",
-  "generatedAt": "2026-09-26T23:00:22Z",
+  "generated_at": "2026-09-27T14:10:56Z",
+  "generatedAt": "2026-09-27T14:10:56Z",
   "count": 138,
   "total": 138,
   "entries": [
     {
       "date": "2026-09-27",
-      "generated_at": "2026-09-26T23:00:22Z",
-      "generatedAt": "2026-09-26T23:00:22Z",
+      "generated_at": "2026-09-27T14:10:56Z",
+      "generatedAt": "2026-09-27T14:10:56Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "1ccd51e6",
-          "title": "产品更新：Hemory",
-          "title_en": "Hemory",
-          "url": "https://www.producthunt.com/products/hemory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "6e212fcf",
+          "title": "AI资讯更新：GPT-6 Sol & L",
+          "title_en": "GPT-6 Sol & Luna",
+          "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/hemory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Keep listening. Searchable memory for your AI",
-          "summary_zh": "Keep listening. Searchable memory for your AI",
-          "publishedAt": "2026-09-26T07:01:00Z",
-          "published_at": "2026-09-26T07:01:00Z",
-          "votes_count": 318,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "471",
-              "name": "Audio",
-              "slug": "audio"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "2b135265",
-          "title": "产品更新：Eclatira",
-          "title_en": "Eclatira",
-          "url": "https://www.producthunt.com/products/eclatira?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/eclatira?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Conversational Video Agent That Plugs Into Any",
-          "summary_zh": "Conversational Video Agent That Plugs Into Any",
-          "publishedAt": "2026-09-26T07:01:00Z",
-          "published_at": "2026-09-26T07:01:00Z",
-          "votes_count": 288,
+          "summary": "Frontier AI intelligence, now at half the pric",
+          "summary_zh": "Frontier AI intelligence, now at half the pric",
+          "publishedAt": "2026-09-27T07:01:00Z",
+          "published_at": "2026-09-27T07:01:00Z",
+          "votes_count": 183,
           "featured": true,
           "topics": [
             {
@@ -88,39 +50,72 @@
           "score_details": null
         },
         {
-          "id": "524b48d5",
-          "title": "产品更新：Chit",
-          "title_en": "Chit",
-          "url": "https://www.producthunt.com/products/chit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "1e8d923f",
+          "title": "产品更新：Humalike x GTA",
+          "title_en": "Humalike x GTA RP",
+          "url": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/chit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "A printed receipt of your day in Claude Code C",
-          "summary_zh": "A printed receipt of your day in Claude Code C",
-          "publishedAt": "2026-09-26T07:01:00Z",
-          "published_at": "2026-09-26T07:01:00Z",
-          "votes_count": 183,
+          "summary": "AI NPCs that talk, remember & act on their own",
+          "summary_zh": "AI NPCs that talk, remember & act on their own",
+          "publishedAt": "2026-09-27T07:01:00Z",
+          "published_at": "2026-09-27T07:01:00Z",
+          "votes_count": 155,
           "featured": true,
           "topics": [
             {
-              "id": "19",
-              "name": "Mac",
-              "slug": "mac"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "eee55256",
+          "title": "产品更新：Superhuman Go",
+          "title_en": "Superhuman Go",
+          "url": "https://www.producthunt.com/products/superhuman-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/superhuman-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The AI assistant that works where you do Go wo",
+          "summary_zh": "The AI assistant that works where you do Go wo",
+          "publishedAt": "2026-09-27T07:01:00Z",
+          "published_at": "2026-09-27T07:01:00Z",
+          "votes_count": 131,
+          "featured": true,
+          "topics": [
             {
               "id": "46",
               "name": "Productivity",
               "slug": "productivity"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
