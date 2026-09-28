@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-09-27T23:10:45Z",
-  "generatedAt": "2026-09-27T23:10:45Z",
-  "count": 139,
-  "total": 139,
+  "generated_at": "2026-09-28T16:52:31Z",
+  "generatedAt": "2026-09-28T16:52:31Z",
+  "count": 140,
+  "total": 140,
   "entries": [
+    {
+      "date": "2026-09-29",
+      "generated_at": "2026-09-28T16:52:31Z",
+      "generatedAt": "2026-09-28T16:52:31Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "adcc0e35",
+          "title": "产品更新：MCP Connectors",
+          "title_en": "MCP Connectors by Databox",
+          "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Give your AI Analyst context to explain perfor",
+          "summary_zh": "Give your AI Analyst context to explain perfor",
+          "publishedAt": "2026-09-28T07:01:00Z",
+          "published_at": "2026-09-28T07:01:00Z",
+          "votes_count": 328,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "03521186",
+          "title": "产品更新：Statable Analyt",
+          "title_en": "Statable Analytics",
+          "url": "https://www.producthunt.com/products/statable-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/statable-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Web analytics built for you and your AI agents",
+          "summary_zh": "Web analytics built for you and your AI agents",
+          "publishedAt": "2026-09-28T07:01:00Z",
+          "published_at": "2026-09-28T07:01:00Z",
+          "votes_count": 219,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "eee26b64",
+          "title": "产品更新：SaleSmartly",
+          "title_en": "SaleSmartly",
+          "url": "https://www.producthunt.com/products/salesmartly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/salesmartly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turn conversations across every channel into c",
+          "summary_zh": "Turn conversations across every channel into c",
+          "publishedAt": "2026-09-28T07:01:00Z",
+          "published_at": "2026-09-28T07:01:00Z",
+          "votes_count": 213,
+          "featured": true,
+          "topics": [
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            },
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-09-28",
       "generated_at": "2026-09-27T23:10:45Z",

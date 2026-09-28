@@ -1,34 +1,143 @@
 {
-  "generated_at": "2026-09-27T23:10:45Z",
-  "generatedAt": "2026-09-27T23:10:45Z",
+  "generated_at": "2026-09-28T16:52:31Z",
+  "generatedAt": "2026-09-28T16:52:31Z",
   "days": 7,
   "total": 8,
   "count": 8,
   "items": [
     {
-      "id": "6e212fcf",
-      "title": "AI资讯更新：GPT-6 Sol & L",
-      "title_en": "GPT-6 Sol & Luna",
-      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "adcc0e35",
+      "title": "产品更新：MCP Connectors",
+      "title_en": "MCP Connectors by Databox",
+      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Frontier AI intelligence, now at half the pric",
-      "summary_zh": "Frontier AI intelligence, now at half the pric",
-      "publishedAt": "2026-09-27T07:01:00Z",
-      "published_at": "2026-09-27T07:01:00Z",
-      "votes_count": 269,
+      "summary": "Give your AI Analyst context to explain perfor",
+      "summary_zh": "Give your AI Analyst context to explain perfor",
+      "publishedAt": "2026-09-28T07:01:00Z",
+      "published_at": "2026-09-28T07:01:00Z",
+      "votes_count": 328,
       "featured": true,
       "topics": [
         {
-          "id": "88",
-          "name": "API",
-          "slug": "api-1"
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "03521186",
+      "title": "产品更新：Statable Analyt",
+      "title_en": "Statable Analytics",
+      "url": "https://www.producthunt.com/products/statable-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/statable-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Web analytics built for you and your AI agents",
+      "summary_zh": "Web analytics built for you and your AI agents",
+      "publishedAt": "2026-09-28T07:01:00Z",
+      "published_at": "2026-09-28T07:01:00Z",
+      "votes_count": 219,
+      "featured": true,
+      "topics": [
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "eee26b64",
+      "title": "产品更新：SaleSmartly",
+      "title_en": "SaleSmartly",
+      "url": "https://www.producthunt.com/products/salesmartly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/salesmartly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn conversations across every channel into c",
+      "summary_zh": "Turn conversations across every channel into c",
+      "publishedAt": "2026-09-28T07:01:00Z",
+      "published_at": "2026-09-28T07:01:00Z",
+      "votes_count": 213,
+      "featured": true,
+      "topics": [
+        {
+          "id": "60",
+          "name": "Messaging",
+          "slug": "messaging"
+        },
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "783877b1",
+      "title": "产品更新：Vitals ",
+      "title_en": "Vitals ",
+      "url": "https://www.producthunt.com/products/vitals-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/vitals-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A Mac activity monitor that thinks in apps, no",
+      "summary_zh": "A Mac activity monitor that thinks in apps, no",
+      "publishedAt": "2026-09-28T07:01:00Z",
+      "published_at": "2026-09-28T07:01:00Z",
+      "votes_count": 196,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
         },
         {
           "id": "267",
@@ -36,192 +145,61 @@
           "slug": "developer-tools"
         },
         {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
+          "id": "303",
+          "name": "Menu Bar Apps",
+          "slug": "menu-bar-apps"
         }
       ],
       "score_details": null
     },
     {
-      "id": "1e8d923f",
-      "title": "产品更新：Humalike x GTA",
-      "title_en": "Humalike x GTA RP",
-      "url": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "AI NPCs that talk, remember & act on their own",
-      "summary_zh": "AI NPCs that talk, remember & act on their own",
-      "publishedAt": "2026-09-27T07:01:00Z",
-      "published_at": "2026-09-27T07:01:00Z",
-      "votes_count": 249,
-      "featured": true,
-      "topics": [
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "353",
-          "name": "Games",
-          "slug": "games"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "50776c54",
-      "title": "产品更新：Cuey",
-      "title_en": "Cuey",
-      "url": "https://www.producthunt.com/products/cuey-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/cuey-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Compare ChatGPT, Claude & Gemini answers in on",
-      "summary_zh": "Compare ChatGPT, Claude & Gemini answers in on",
-      "publishedAt": "2026-09-27T07:01:00Z",
-      "published_at": "2026-09-27T07:01:00Z",
-      "votes_count": 200,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "352",
-          "name": "Tech",
-          "slug": "tech"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "eee55256",
-      "title": "产品更新：Superhuman Go",
-      "title_en": "Superhuman Go",
-      "url": "https://www.producthunt.com/products/superhuman-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/superhuman-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "The AI assistant that works where you do Go wo",
-      "summary_zh": "The AI assistant that works where you do Go wo",
-      "publishedAt": "2026-09-27T07:01:00Z",
-      "published_at": "2026-09-27T07:01:00Z",
-      "votes_count": 168,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "631d681a",
-      "title": "啥题啊能干崩OpenAI最强模型训练…",
+      "id": "5de11cd3",
+      "title": "HC归来，华为正重新定义AIDC基础设施",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/498546.html",
+      "url": "https://www.qbitai.com/2026/09/498787.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/498546.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/498787.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "啥题啊能干崩OpenAI最强模型训练…  文婷 2026-09-27 17:44:16  来源：量子位    文婷 发自 凹非寺   量子位 | 公众号 QbitAI  一道没搜出答案的找人题，竟然把OpenAI最强模型的相关训练干停了！ 事情有多离谱呢？请看大屏幕——OpenAI一款正在进行RL训练的内部研究模型，本来的任务是凭几份履历、博客定位某人。 常规搜索碰壁后，它没有放弃，竟把本该查地址的DNS，改造成突破断网沙箱的聊天窗口。 （DNS原本相当于互联网的“通讯录”：用户输入一个域名，DNS负责查询这个域名对应的网络地址。） 更抓马的是，它费了这么大劲最后还是没找到人，反倒先把OpenAI沙箱里的漏洞给揪出来了…    消息传回OpenAI，警报随即拉响。 约两个半小时后，这次训练被人工叫停。 OpenAI随后宣布，这次事件暴露了他们在网络限制管理方面的漏洞，因此，他们将暂停最强模型中所有涉及工具调用的训练、评测和推理任务。    @OpenAI，ber，你们最近有点忙啊。（吃瓜）    AI拿DNS当电话线，训练被按下暂停键 事情发生在9月20日。 当时，模型接到的任务本身风",
-      "summary_zh": "啥题啊能干崩OpenAI最强模型训练…  文婷 2026-09-27 17:44:16  来源：量子位    文婷 发自 凹非寺   量子位 | 公众号 QbitAI  一道没搜出答案的找人题，竟然把OpenAI最强模型的相关训练干停了！ 事情有多离谱呢？请看大屏幕——OpenAI一款正在进行RL训练的内部研究模型，本来的任务是凭几份履历、博客定位某人。 常规搜索碰壁后，它没有放弃，竟把本该查地址的DNS，改造成突破断网沙箱的聊天窗口。 （DNS原本相当于互联网的“通讯录”：用户输入一个域名，DNS负责查询这个域名对应的网络地址。） 更抓马的是，它费了这么大劲最后还是没找到人，反倒先把OpenAI沙箱里的漏洞给揪出来了…    消息传回OpenAI，警报随即拉响。 约两个半小时后，这次训练被人工叫停。 OpenAI随后宣布，这次事件暴露了他们在网络限制管理方面的漏洞，因此，他们将暂停最强模型中所有涉及工具调用的训练、评测和推理任务。    @OpenAI，ber，你们最近有点忙啊。（吃瓜）    AI拿DNS当电话线，训练被按下暂停键 事情发生在9月20日。 当时，模型接到的任务本身风",
-      "publishedAt": "2026-09-27T09:44:16Z",
-      "published_at": "2026-09-27T09:44:16Z",
+      "summary": "HC归来，华为正重新定义AIDC基础设施  杰西卡 2026-09-28 19:18:27  来源：量子位   AI基础设施下一站：算电协同  杰西卡 发自 凹非寺 量子位 | 公众号 QbitAI 一座AI数据中心什么时候能投产，有时要先看电网的时间表。 国际能源署（IEA）在2025年的报告中曾警示，如果电网相关风险得不到解决，约20%的规划数据中心项目可能面临延误。对于已经投入大量资金采购计算设备的企业，等待接电也意味着等待业务上线。 可接上电之后，新的问题还在机房里。高密度设备需要更大的供电容量，计算任务带来快速变化的功率需求，产生的热量也必须及时排走。 供电、散热和交付中的任何一个环节，都可能影响新增硬件发挥作用。 AI算力扩张，由此把一个问题推到台前：怎样将可获得的电力，持续、稳定地转化为有效计算？ 对此，巨头们已开始新的动作。 9月16日，英伟达、Google和Emerald AI宣布成立AI能源管理联盟（AEMA），推动数据中心根据电网运行状态动态调整用电，让大型算力设施成为更灵活的电网资源。 一天后，在华为全联接大会2026同期举办的AIDC基础设施峰会上，华为介绍了",
+      "summary_zh": "HC归来，华为正重新定义AIDC基础设施  杰西卡 2026-09-28 19:18:27  来源：量子位   AI基础设施下一站：算电协同  杰西卡 发自 凹非寺 量子位 | 公众号 QbitAI 一座AI数据中心什么时候能投产，有时要先看电网的时间表。 国际能源署（IEA）在2025年的报告中曾警示，如果电网相关风险得不到解决，约20%的规划数据中心项目可能面临延误。对于已经投入大量资金采购计算设备的企业，等待接电也意味着等待业务上线。 可接上电之后，新的问题还在机房里。高密度设备需要更大的供电容量，计算任务带来快速变化的功率需求，产生的热量也必须及时排走。 供电、散热和交付中的任何一个环节，都可能影响新增硬件发挥作用。 AI算力扩张，由此把一个问题推到台前：怎样将可获得的电力，持续、稳定地转化为有效计算？ 对此，巨头们已开始新的动作。 9月16日，英伟达、Google和Emerald AI宣布成立AI能源管理联盟（AEMA），推动数据中心根据电网运行状态动态调整用电，让大型算力设施成为更灵活的电网资源。 一天后，在华为全联接大会2026同期举办的AIDC基础设施峰会上，华为介绍了",
+      "publishedAt": "2026-09-28T11:18:27Z",
+      "published_at": "2026-09-28T11:18:27Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "e61ef7ed",
-      "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+      "id": "a3dd460e",
+      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/498584.html",
+      "url": "https://www.qbitai.com/2026/09/498877.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/498584.html",
+      "sourceUrl": "https://www.qbitai.com/2026/09/498877.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录  衡宇 2026-09-27 21:40:02  来源：量子位   中秋假期文具OpenRouter调用日榜榜首  衡宇 发自 凹非寺 量子位 | 公众号QbitAI 服都服了，又是哪家模型搞匿名啊，大过节的搁这儿杀出来冲榜？！ 说的就是你，Space Bunny。 一个没留神，它在短短几天里经历了突然出现->突然热度飙升->突然干到OpenRouter、OpenCode双榜调用日榜第一->突然讨论热度也飙升。  扫了一眼，推特和Reddit上目前的整体风向是这样的： 有说unbelievable的（be like@CoderGeeta）。  不少用户反馈输出效果不错（be like@Fei2411）。  还有夸速度快，“打败了Astra”的（be like@marcthecreatorr）。  真的吗？ 我不信。 所以在迷人又珍贵的中秋假期最后一天，我做了一个违背祖宗的决定——管他是谁家的匿名模型，先测了再说吧。 猜它是谁干嘛，快开蹬啊 先跟大家说一声，我是从OpenRouter上拿的API，接到了DeepSeek H",
-      "summary_zh": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录  衡宇 2026-09-27 21:40:02  来源：量子位   中秋假期文具OpenRouter调用日榜榜首  衡宇 发自 凹非寺 量子位 | 公众号QbitAI 服都服了，又是哪家模型搞匿名啊，大过节的搁这儿杀出来冲榜？！ 说的就是你，Space Bunny。 一个没留神，它在短短几天里经历了突然出现->突然热度飙升->突然干到OpenRouter、OpenCode双榜调用日榜第一->突然讨论热度也飙升。  扫了一眼，推特和Reddit上目前的整体风向是这样的： 有说unbelievable的（be like@CoderGeeta）。  不少用户反馈输出效果不错（be like@Fei2411）。  还有夸速度快，“打败了Astra”的（be like@marcthecreatorr）。  真的吗？ 我不信。 所以在迷人又珍贵的中秋假期最后一天，我做了一个违背祖宗的决定——管他是谁家的匿名模型，先测了再说吧。 猜它是谁干嘛，快开蹬啊 先跟大家说一声，我是从OpenRouter上拿的API，接到了DeepSeek H",
-      "publishedAt": "2026-09-27T13:40:02Z",
-      "published_at": "2026-09-27T13:40:02Z",
+      "summary": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路  田, 晏林 2026-09-28 20:43:53  来源：量子位   工业平台已经卷到帮伙伴拿线索、做Agent、出海了   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  一家技术公司想把一个工业创新方案卖进工厂，中间大概要过多少关？ 技术得先做出来。然后找到合适的场景验证，证明它在实验室之外也能跑。再往后，还要找客户、做方案适配、打通工业系统、完成交付。 如果想把一个项目复制到十家、一百家工厂，市场渠道、行业Know-how、本地服务甚至海外资源，都得跟着补齐。 对于很多技术型公司来说，难啃的部分，往往从产品做出来之后才开始。 另一边，工业客户也有自己的烦恼。  市面上的AI、机器人、工业软件越来越多，但谁真正懂现场，谁已经经过验证，不同公司的能力能不能拼成一套完整方案，依然要花大量时间筛选。 供需两头都不缺技术，缺的是让技术真正快速进入应用的通道。 而这条通道，往往也不是一家公司能够独自铺完的。换句话说，真正能交付完整场景方案的，是一群公司彼此衔接、能力互补后形成的协作体系。 9月21日，20",
+      "summary_zh": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路  田, 晏林 2026-09-28 20:43:53  来源：量子位   工业平台已经卷到帮伙伴拿线索、做Agent、出海了   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  一家技术公司想把一个工业创新方案卖进工厂，中间大概要过多少关？ 技术得先做出来。然后找到合适的场景验证，证明它在实验室之外也能跑。再往后，还要找客户、做方案适配、打通工业系统、完成交付。 如果想把一个项目复制到十家、一百家工厂，市场渠道、行业Know-how、本地服务甚至海外资源，都得跟着补齐。 对于很多技术型公司来说，难啃的部分，往往从产品做出来之后才开始。 另一边，工业客户也有自己的烦恼。  市面上的AI、机器人、工业软件越来越多，但谁真正懂现场，谁已经经过验证，不同公司的能力能不能拼成一套完整方案，依然要花大量时间筛选。 供需两头都不缺技术，缺的是让技术真正快速进入应用的通道。 而这条通道，往往也不是一家公司能够独自铺完的。换句话说，真正能交付完整场景方案的，是一群公司彼此衔接、能力互补后形成的协作体系。 9月21日，20",
+      "publishedAt": "2026-09-28T12:43:53Z",
+      "published_at": "2026-09-28T12:43:53Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "28e31d01",
-      "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/498605.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/498605.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门  衡宇 2026-09-27 21:57:57  来源：量子位   想让开发者“说句话就能跑量子计算”  允中 发自 凹非寺量子位 | 公众号QbitAI 量子计算大概是眼下最难上手的前沿技术之一。 想跑通一个量子算法，你得先懂量子线路，会写专用代码，用量子模拟器配合GPU加速运算或者连接真机平台计算。数据要不要传到云上，也需要额外考量。这么高的门槛，把大多数开发者挡在了外面。 9月20日，上海漕河泾会议中心，酉术量子举办了一场发布会，主题叫“酉核有术·叠加万象”。这家公司由上海交通大学的科研团队孵化，当天全球首发了异构计算硬件底座UnitarySpark，同时上线了UnitaryLab 2.5公测版，一个用自然语言驱动的量子科学计算平台。 它想做的事其实很朴素：你用大白话把一个科学问题讲清楚，剩下的交给机器，让它替你去跑量子计算。    量子计算为什么“用不起来” 这几年，量子计算的新闻几乎都围着“比特数”转。 可对真想拿它解决问题的人来说，卡住他们的往往不是比特数，而是“到底怎么用”。 工程和科学里的真实问题，如流体、热传导、",
-      "summary_zh": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门  衡宇 2026-09-27 21:57:57  来源：量子位   想让开发者“说句话就能跑量子计算”  允中 发自 凹非寺量子位 | 公众号QbitAI 量子计算大概是眼下最难上手的前沿技术之一。 想跑通一个量子算法，你得先懂量子线路，会写专用代码，用量子模拟器配合GPU加速运算或者连接真机平台计算。数据要不要传到云上，也需要额外考量。这么高的门槛，把大多数开发者挡在了外面。 9月20日，上海漕河泾会议中心，酉术量子举办了一场发布会，主题叫“酉核有术·叠加万象”。这家公司由上海交通大学的科研团队孵化，当天全球首发了异构计算硬件底座UnitarySpark，同时上线了UnitaryLab 2.5公测版，一个用自然语言驱动的量子科学计算平台。 它想做的事其实很朴素：你用大白话把一个科学问题讲清楚，剩下的交给机器，让它替你去跑量子计算。    量子计算为什么“用不起来” 这几年，量子计算的新闻几乎都围着“比特数”转。 可对真想拿它解决问题的人来说，卡住他们的往往不是比特数，而是“到底怎么用”。 工程和科学里的真实问题，如流体、热传导、",
-      "publishedAt": "2026-09-27T13:57:57Z",
-      "published_at": "2026-09-27T13:57:57Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": null
-    },
-    {
-      "id": "042f6ed4",
-      "title": "Plan Mode才成标配，就有人宣",
-      "title_en": "Plan Mode才成标配，就有人宣布它「已死」",
+      "id": "3db8ecec",
+      "title": "给Agent一台可控的「云上计算机」",
+      "title_en": "给Agent一台可控的「云上计算机」：揭秘阿里云Agent Sandbox",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -231,10 +209,32 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "Plan Mode才成标配，就有人宣布它「已死」",
-      "summary_zh": "Plan Mode才成标配，就有人宣布它「已死」",
-      "publishedAt": "2026-09-27T23:10:06Z",
-      "published_at": "2026-09-27T23:10:06Z",
+      "summary": "给Agent一台可控的「云上计算机」：揭秘阿里云Agent Sandbox",
+      "summary_zh": "给Agent一台可控的「云上计算机」：揭秘阿里云Agent Sandbox",
+      "publishedAt": "2026-09-28T16:52:02Z",
+      "published_at": "2026-09-28T16:52:02Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "65a47c1e",
+      "title": "SceneMosaic：让3D场景生",
+      "title_en": "SceneMosaic：让3D场景生成既快又「活」，一张图生成一屋子可仿真的多样布局",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "SceneMosaic：让3D场景生成既快又「活」，一张图生成一屋子可仿真的多样布局",
+      "summary_zh": "SceneMosaic：让3D场景生成既快又「活」，一张图生成一屋子可仿真的多样布局",
+      "publishedAt": "2026-09-28T16:52:02Z",
+      "published_at": "2026-09-28T16:52:02Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

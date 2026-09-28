@@ -1,0 +1,493 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-28T16:52:31Z",
+  "generatedAt": "2026-09-28T16:52:31Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "adcc0e35",
+          "title": "产品更新：MCP Connectors",
+          "title_en": "MCP Connectors by Databox",
+          "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Give your AI Analyst context to explain perfor",
+          "summary_zh": "Give your AI Analyst context to explain perfor",
+          "publishedAt": "2026-09-28T07:01:00Z",
+          "published_at": "2026-09-28T07:01:00Z",
+          "votes_count": 328,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "03521186",
+          "title": "产品更新：Statable Analyt",
+          "title_en": "Statable Analytics",
+          "url": "https://www.producthunt.com/products/statable-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/statable-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Web analytics built for you and your AI agents",
+          "summary_zh": "Web analytics built for you and your AI agents",
+          "publishedAt": "2026-09-28T07:01:00Z",
+          "published_at": "2026-09-28T07:01:00Z",
+          "votes_count": 219,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "eee26b64",
+          "title": "产品更新：SaleSmartly",
+          "title_en": "SaleSmartly",
+          "url": "https://www.producthunt.com/products/salesmartly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/salesmartly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Turn conversations across every channel into c",
+          "summary_zh": "Turn conversations across every channel into c",
+          "publishedAt": "2026-09-28T07:01:00Z",
+          "published_at": "2026-09-28T07:01:00Z",
+          "votes_count": 213,
+          "featured": true,
+          "topics": [
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            },
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "783877b1",
+          "title": "产品更新：Vitals ",
+          "title_en": "Vitals ",
+          "url": "https://www.producthunt.com/products/vitals-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vitals-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A Mac activity monitor that thinks in apps, no",
+          "summary_zh": "A Mac activity monitor that thinks in apps, no",
+          "publishedAt": "2026-09-28T07:01:00Z",
+          "published_at": "2026-09-28T07:01:00Z",
+          "votes_count": 196,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "303",
+              "name": "Menu Bar Apps",
+              "slug": "menu-bar-apps"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "5de11cd3",
+          "title": "HC归来，华为正重新定义AIDC基础设施",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/498787.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/498787.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "HC归来，华为正重新定义AIDC基础设施  杰西卡 2026-09-28 19:18:27  来源：量子位   AI基础设施下一站：算电协同  杰西卡 发自 凹非寺 量子位 | 公众号 QbitAI 一座AI数据中心什么时候能投产，有时要先看电网的时间表。 国际能源署（IEA）在2025年的报告中曾警示，如果电网相关风险得不到解决，约20%的规划数据中心项目可能面临延误。对于已经投入大量资金采购计算设备的企业，等待接电也意味着等待业务上线。 可接上电之后，新的问题还在机房里。高密度设备需要更大的供电容量，计算任务带来快速变化的功率需求，产生的热量也必须及时排走。 供电、散热和交付中的任何一个环节，都可能影响新增硬件发挥作用。 AI算力扩张，由此把一个问题推到台前：怎样将可获得的电力，持续、稳定地转化为有效计算？ 对此，巨头们已开始新的动作。 9月16日，英伟达、Google和Emerald AI宣布成立AI能源管理联盟（AEMA），推动数据中心根据电网运行状态动态调整用电，让大型算力设施成为更灵活的电网资源。 一天后，在华为全联接大会2026同期举办的AIDC基础设施峰会上，华为介绍了",
+          "summary_zh": "HC归来，华为正重新定义AIDC基础设施  杰西卡 2026-09-28 19:18:27  来源：量子位   AI基础设施下一站：算电协同  杰西卡 发自 凹非寺 量子位 | 公众号 QbitAI 一座AI数据中心什么时候能投产，有时要先看电网的时间表。 国际能源署（IEA）在2025年的报告中曾警示，如果电网相关风险得不到解决，约20%的规划数据中心项目可能面临延误。对于已经投入大量资金采购计算设备的企业，等待接电也意味着等待业务上线。 可接上电之后，新的问题还在机房里。高密度设备需要更大的供电容量，计算任务带来快速变化的功率需求，产生的热量也必须及时排走。 供电、散热和交付中的任何一个环节，都可能影响新增硬件发挥作用。 AI算力扩张，由此把一个问题推到台前：怎样将可获得的电力，持续、稳定地转化为有效计算？ 对此，巨头们已开始新的动作。 9月16日，英伟达、Google和Emerald AI宣布成立AI能源管理联盟（AEMA），推动数据中心根据电网运行状态动态调整用电，让大型算力设施成为更灵活的电网资源。 一天后，在华为全联接大会2026同期举办的AIDC基础设施峰会上，华为介绍了",
+          "publishedAt": "2026-09-28T11:18:27Z",
+          "published_at": "2026-09-28T11:18:27Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "a3dd460e",
+          "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/09/498877.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/09/498877.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路  田, 晏林 2026-09-28 20:43:53  来源：量子位   工业平台已经卷到帮伙伴拿线索、做Agent、出海了   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  一家技术公司想把一个工业创新方案卖进工厂，中间大概要过多少关？ 技术得先做出来。然后找到合适的场景验证，证明它在实验室之外也能跑。再往后，还要找客户、做方案适配、打通工业系统、完成交付。 如果想把一个项目复制到十家、一百家工厂，市场渠道、行业Know-how、本地服务甚至海外资源，都得跟着补齐。 对于很多技术型公司来说，难啃的部分，往往从产品做出来之后才开始。 另一边，工业客户也有自己的烦恼。  市面上的AI、机器人、工业软件越来越多，但谁真正懂现场，谁已经经过验证，不同公司的能力能不能拼成一套完整方案，依然要花大量时间筛选。 供需两头都不缺技术，缺的是让技术真正快速进入应用的通道。 而这条通道，往往也不是一家公司能够独自铺完的。换句话说，真正能交付完整场景方案的，是一群公司彼此衔接、能力互补后形成的协作体系。 9月21日，20",
+          "summary_zh": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路  田, 晏林 2026-09-28 20:43:53  来源：量子位   工业平台已经卷到帮伙伴拿线索、做Agent、出海了   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  一家技术公司想把一个工业创新方案卖进工厂，中间大概要过多少关？ 技术得先做出来。然后找到合适的场景验证，证明它在实验室之外也能跑。再往后，还要找客户、做方案适配、打通工业系统、完成交付。 如果想把一个项目复制到十家、一百家工厂，市场渠道、行业Know-how、本地服务甚至海外资源，都得跟着补齐。 对于很多技术型公司来说，难啃的部分，往往从产品做出来之后才开始。 另一边，工业客户也有自己的烦恼。  市面上的AI、机器人、工业软件越来越多，但谁真正懂现场，谁已经经过验证，不同公司的能力能不能拼成一套完整方案，依然要花大量时间筛选。 供需两头都不缺技术，缺的是让技术真正快速进入应用的通道。 而这条通道，往往也不是一家公司能够独自铺完的。换句话说，真正能交付完整场景方案的，是一群公司彼此衔接、能力互补后形成的协作体系。 9月21日，20",
+          "publishedAt": "2026-09-28T12:43:53Z",
+          "published_at": "2026-09-28T12:43:53Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "3db8ecec",
+          "title": "给Agent一台可控的「云上计算机」",
+          "title_en": "给Agent一台可控的「云上计算机」：揭秘阿里云Agent Sandbox",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "给Agent一台可控的「云上计算机」：揭秘阿里云Agent Sandbox",
+          "summary_zh": "给Agent一台可控的「云上计算机」：揭秘阿里云Agent Sandbox",
+          "publishedAt": "2026-09-28T16:52:02Z",
+          "published_at": "2026-09-28T16:52:02Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "65a47c1e",
+          "title": "SceneMosaic：让3D场景生",
+          "title_en": "SceneMosaic：让3D场景生成既快又「活」，一张图生成一屋子可仿真的多样布局",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "SceneMosaic：让3D场景生成既快又「活」，一张图生成一屋子可仿真的多样布局",
+          "summary_zh": "SceneMosaic：让3D场景生成既快又「活」，一张图生成一屋子可仿真的多样布局",
+          "publishedAt": "2026-09-28T16:52:02Z",
+          "published_at": "2026-09-28T16:52:02Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "adcc0e35",
+      "title": "产品更新：MCP Connectors",
+      "title_en": "MCP Connectors by Databox",
+      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Give your AI Analyst context to explain perfor",
+      "summary_zh": "Give your AI Analyst context to explain perfor",
+      "publishedAt": "2026-09-28T07:01:00Z",
+      "published_at": "2026-09-28T07:01:00Z",
+      "votes_count": 328,
+      "featured": true,
+      "topics": [
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "03521186",
+      "title": "产品更新：Statable Analyt",
+      "title_en": "Statable Analytics",
+      "url": "https://www.producthunt.com/products/statable-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/statable-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Web analytics built for you and your AI agents",
+      "summary_zh": "Web analytics built for you and your AI agents",
+      "publishedAt": "2026-09-28T07:01:00Z",
+      "published_at": "2026-09-28T07:01:00Z",
+      "votes_count": 219,
+      "featured": true,
+      "topics": [
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "eee26b64",
+      "title": "产品更新：SaleSmartly",
+      "title_en": "SaleSmartly",
+      "url": "https://www.producthunt.com/products/salesmartly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/salesmartly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn conversations across every channel into c",
+      "summary_zh": "Turn conversations across every channel into c",
+      "publishedAt": "2026-09-28T07:01:00Z",
+      "published_at": "2026-09-28T07:01:00Z",
+      "votes_count": 213,
+      "featured": true,
+      "topics": [
+        {
+          "id": "60",
+          "name": "Messaging",
+          "slug": "messaging"
+        },
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "783877b1",
+      "title": "产品更新：Vitals ",
+      "title_en": "Vitals ",
+      "url": "https://www.producthunt.com/products/vitals-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/vitals-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A Mac activity monitor that thinks in apps, no",
+      "summary_zh": "A Mac activity monitor that thinks in apps, no",
+      "publishedAt": "2026-09-28T07:01:00Z",
+      "published_at": "2026-09-28T07:01:00Z",
+      "votes_count": 196,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "303",
+          "name": "Menu Bar Apps",
+          "slug": "menu-bar-apps"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5de11cd3",
+      "title": "HC归来，华为正重新定义AIDC基础设施",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/498787.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/498787.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "HC归来，华为正重新定义AIDC基础设施  杰西卡 2026-09-28 19:18:27  来源：量子位   AI基础设施下一站：算电协同  杰西卡 发自 凹非寺 量子位 | 公众号 QbitAI 一座AI数据中心什么时候能投产，有时要先看电网的时间表。 国际能源署（IEA）在2025年的报告中曾警示，如果电网相关风险得不到解决，约20%的规划数据中心项目可能面临延误。对于已经投入大量资金采购计算设备的企业，等待接电也意味着等待业务上线。 可接上电之后，新的问题还在机房里。高密度设备需要更大的供电容量，计算任务带来快速变化的功率需求，产生的热量也必须及时排走。 供电、散热和交付中的任何一个环节，都可能影响新增硬件发挥作用。 AI算力扩张，由此把一个问题推到台前：怎样将可获得的电力，持续、稳定地转化为有效计算？ 对此，巨头们已开始新的动作。 9月16日，英伟达、Google和Emerald AI宣布成立AI能源管理联盟（AEMA），推动数据中心根据电网运行状态动态调整用电，让大型算力设施成为更灵活的电网资源。 一天后，在华为全联接大会2026同期举办的AIDC基础设施峰会上，华为介绍了",
+      "summary_zh": "HC归来，华为正重新定义AIDC基础设施  杰西卡 2026-09-28 19:18:27  来源：量子位   AI基础设施下一站：算电协同  杰西卡 发自 凹非寺 量子位 | 公众号 QbitAI 一座AI数据中心什么时候能投产，有时要先看电网的时间表。 国际能源署（IEA）在2025年的报告中曾警示，如果电网相关风险得不到解决，约20%的规划数据中心项目可能面临延误。对于已经投入大量资金采购计算设备的企业，等待接电也意味着等待业务上线。 可接上电之后，新的问题还在机房里。高密度设备需要更大的供电容量，计算任务带来快速变化的功率需求，产生的热量也必须及时排走。 供电、散热和交付中的任何一个环节，都可能影响新增硬件发挥作用。 AI算力扩张，由此把一个问题推到台前：怎样将可获得的电力，持续、稳定地转化为有效计算？ 对此，巨头们已开始新的动作。 9月16日，英伟达、Google和Emerald AI宣布成立AI能源管理联盟（AEMA），推动数据中心根据电网运行状态动态调整用电，让大型算力设施成为更灵活的电网资源。 一天后，在华为全联接大会2026同期举办的AIDC基础设施峰会上，华为介绍了",
+      "publishedAt": "2026-09-28T11:18:27Z",
+      "published_at": "2026-09-28T11:18:27Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "a3dd460e",
+      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/498877.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/498877.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路  田, 晏林 2026-09-28 20:43:53  来源：量子位   工业平台已经卷到帮伙伴拿线索、做Agent、出海了   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  一家技术公司想把一个工业创新方案卖进工厂，中间大概要过多少关？ 技术得先做出来。然后找到合适的场景验证，证明它在实验室之外也能跑。再往后，还要找客户、做方案适配、打通工业系统、完成交付。 如果想把一个项目复制到十家、一百家工厂，市场渠道、行业Know-how、本地服务甚至海外资源，都得跟着补齐。 对于很多技术型公司来说，难啃的部分，往往从产品做出来之后才开始。 另一边，工业客户也有自己的烦恼。  市面上的AI、机器人、工业软件越来越多，但谁真正懂现场，谁已经经过验证，不同公司的能力能不能拼成一套完整方案，依然要花大量时间筛选。 供需两头都不缺技术，缺的是让技术真正快速进入应用的通道。 而这条通道，往往也不是一家公司能够独自铺完的。换句话说，真正能交付完整场景方案的，是一群公司彼此衔接、能力互补后形成的协作体系。 9月21日，20",
+      "summary_zh": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路  田, 晏林 2026-09-28 20:43:53  来源：量子位   工业平台已经卷到帮伙伴拿线索、做Agent、出海了   田晏林 发自 凹非寺 量子位 | 公众号 QbitAI  一家技术公司想把一个工业创新方案卖进工厂，中间大概要过多少关？ 技术得先做出来。然后找到合适的场景验证，证明它在实验室之外也能跑。再往后，还要找客户、做方案适配、打通工业系统、完成交付。 如果想把一个项目复制到十家、一百家工厂，市场渠道、行业Know-how、本地服务甚至海外资源，都得跟着补齐。 对于很多技术型公司来说，难啃的部分，往往从产品做出来之后才开始。 另一边，工业客户也有自己的烦恼。  市面上的AI、机器人、工业软件越来越多，但谁真正懂现场，谁已经经过验证，不同公司的能力能不能拼成一套完整方案，依然要花大量时间筛选。 供需两头都不缺技术，缺的是让技术真正快速进入应用的通道。 而这条通道，往往也不是一家公司能够独自铺完的。换句话说，真正能交付完整场景方案的，是一群公司彼此衔接、能力互补后形成的协作体系。 9月21日，20",
+      "publishedAt": "2026-09-28T12:43:53Z",
+      "published_at": "2026-09-28T12:43:53Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "3db8ecec",
+      "title": "给Agent一台可控的「云上计算机」",
+      "title_en": "给Agent一台可控的「云上计算机」：揭秘阿里云Agent Sandbox",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "给Agent一台可控的「云上计算机」：揭秘阿里云Agent Sandbox",
+      "summary_zh": "给Agent一台可控的「云上计算机」：揭秘阿里云Agent Sandbox",
+      "publishedAt": "2026-09-28T16:52:02Z",
+      "published_at": "2026-09-28T16:52:02Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "65a47c1e",
+      "title": "SceneMosaic：让3D场景生",
+      "title_en": "SceneMosaic：让3D场景生成既快又「活」，一张图生成一屋子可仿真的多样布局",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "SceneMosaic：让3D场景生成既快又「活」，一张图生成一屋子可仿真的多样布局",
+      "summary_zh": "SceneMosaic：让3D场景生成既快又「活」，一张图生成一屋子可仿真的多样布局",
+      "publishedAt": "2026-09-28T16:52:02Z",
+      "published_at": "2026-09-28T16:52:02Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
