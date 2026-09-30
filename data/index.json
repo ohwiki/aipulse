@@ -1,45 +1,83 @@
 {
-  "generated_at": "2026-09-29T23:48:31Z",
-  "generatedAt": "2026-09-29T23:48:31Z",
+  "generated_at": "2026-09-30T15:05:25Z",
+  "generatedAt": "2026-09-30T15:05:25Z",
   "count": 141,
   "total": 141,
   "entries": [
     {
       "date": "2026-09-30",
-      "generated_at": "2026-09-29T23:48:31Z",
-      "generatedAt": "2026-09-29T23:48:31Z",
+      "generated_at": "2026-09-30T15:05:25Z",
+      "generatedAt": "2026-09-30T15:05:25Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "3867ee21",
-          "title": "产品更新：iFixAi",
-          "title_en": "iFixAi",
-          "url": "https://www.producthunt.com/products/ifixai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "7e3b6be6",
+          "title": "产品更新：Pexo",
+          "title_en": "Pexo",
+          "url": "https://www.producthunt.com/products/pexo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/ifixai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/pexo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Independent auditing of AI agents to uncover m",
-          "summary_zh": "Independent auditing of AI agents to uncover m",
-          "publishedAt": "2026-09-29T07:01:00Z",
-          "published_at": "2026-09-29T07:01:00Z",
-          "votes_count": 339,
+          "summary": "Produce pitch perfect launch videos with preci",
+          "summary_zh": "Produce pitch perfect launch videos with preci",
+          "publishedAt": "2026-09-30T07:01:00Z",
+          "published_at": "2026-09-30T07:01:00Z",
+          "votes_count": 272,
           "featured": true,
           "topics": [
             {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c505274f",
+          "title": "产品更新：Ferndesk",
+          "title_en": "Ferndesk",
+          "url": "https://www.producthunt.com/products/ferndesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ferndesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The help center that never goes out of date Fe",
+          "summary_zh": "The help center that never goes out of date Fe",
+          "publishedAt": "2026-09-30T07:01:00Z",
+          "published_at": "2026-09-30T07:01:00Z",
+          "votes_count": 249,
+          "featured": true,
+          "topics": [
+            {
+              "id": "55",
+              "name": "Customer Success",
+              "slug": "customer-success"
+            },
+            {
+              "id": "123",
+              "name": "Customer Communication",
+              "slug": "customer-communication"
             },
             {
               "id": "268",
@@ -50,62 +88,29 @@
           "score_details": null
         },
         {
-          "id": "b2eabd8a",
-          "title": "产品更新：LUCI Desktop",
-          "title_en": "LUCI Desktop",
-          "url": "https://www.producthunt.com/products/luci-desktop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "f9be0d20",
+          "title": "产品更新：Autonomyware",
+          "title_en": "Autonomyware",
+          "url": "https://www.producthunt.com/products/autonomyware?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/luci-desktop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/autonomyware?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Let your AI agents remember what you've seen L",
-          "summary_zh": "Let your AI agents remember what you've seen L",
-          "publishedAt": "2026-09-29T07:01:00Z",
-          "published_at": "2026-09-29T07:01:00Z",
-          "votes_count": 305,
+          "summary": "Idea to physical product, engineer anything yo",
+          "summary_zh": "Idea to physical product, engineer anything yo",
+          "publishedAt": "2026-09-30T07:01:00Z",
+          "published_at": "2026-09-30T07:01:00Z",
+          "votes_count": 182,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "87879b4a",
-          "title": "产品更新：ZenABM",
-          "title_en": "ZenABM",
-          "url": "https://www.producthunt.com/products/zena-by-zenabm-linkedin-ads-ai-chatbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/zena-by-zenabm-linkedin-ads-ai-chatbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Create, optimize & report on LinkedIn Ads from",
-          "summary_zh": "Create, optimize & report on LinkedIn Ads from",
-          "publishedAt": "2026-09-29T07:01:00Z",
-          "published_at": "2026-09-29T07:01:00Z",
-          "votes_count": 278,
-          "featured": true,
-          "topics": [
-            {
-              "id": "207",
-              "name": "Advertising",
-              "slug": "advertising"
+              "id": "125",
+              "name": "Hardware",
+              "slug": "hardware"
             },
             {
               "id": "268",
@@ -113,9 +118,9 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "343",
-              "name": "LinkedIn",
-              "slug": "linkedin"
+              "id": "803",
+              "name": "3D Modeling",
+              "slug": "3d-modeling"
             }
           ],
           "score_details": null
