@@ -1,28 +1,142 @@
 {
-  "generated_at": "2026-10-01T00:00:03Z",
-  "generatedAt": "2026-10-01T00:00:03Z",
+  "generated_at": "2026-10-01T15:34:37Z",
+  "generatedAt": "2026-10-01T15:34:37Z",
   "days": 7,
   "total": 8,
   "count": 8,
   "items": [
     {
-      "id": "7e3b6be6",
-      "title": "产品更新：Pexo",
-      "title_en": "Pexo",
-      "url": "https://www.producthunt.com/products/pexo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "0f88d7a6",
+      "title": "产品更新：Monospace from",
+      "title_en": "Monospace from Directus",
+      "url": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/pexo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Produce pitch perfect launch videos with preci",
-      "summary_zh": "Produce pitch perfect launch videos with preci",
-      "publishedAt": "2026-09-30T07:01:00Z",
-      "published_at": "2026-09-30T07:01:00Z",
-      "votes_count": 345,
+      "summary": "The governed API layer for every app, person,",
+      "summary_zh": "The governed API layer for every app, person,",
+      "publishedAt": "2026-10-01T07:01:00Z",
+      "published_at": "2026-10-01T07:01:00Z",
+      "votes_count": 309,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "771",
+          "name": "Data",
+          "slug": "data"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "4c764de3",
+      "title": "产品更新：Yedric.ai",
+      "title_en": "Yedric.ai",
+      "url": "https://www.producthunt.com/products/yedric-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/yedric-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Let users control your SaaS with natural langu",
+      "summary_zh": "Let users control your SaaS with natural langu",
+      "publishedAt": "2026-10-01T07:01:00Z",
+      "published_at": "2026-10-01T07:01:00Z",
+      "votes_count": 208,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "19aa1a0c",
+      "title": "产品更新：Dots by OpenAI",
+      "title_en": "Dots by OpenAI",
+      "url": "https://www.producthunt.com/products/dots-by-openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/dots-by-openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Always on agents built to handle everything Do",
+      "summary_zh": "Always on agents built to handle everything Do",
+      "publishedAt": "2026-10-01T07:01:00Z",
+      "published_at": "2026-10-01T07:01:00Z",
+      "votes_count": 181,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9854b933",
+      "title": "AI资讯更新：Omnia Agent",
+      "title_en": "Omnia Agent",
+      "url": "https://www.producthunt.com/products/omnia-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/omnia-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI Agent that does 95% of your GEO work Ev",
+      "summary_zh": "The AI Agent that does 95% of your GEO work Ev",
+      "publishedAt": "2026-10-01T07:01:00Z",
+      "published_at": "2026-10-01T07:01:00Z",
+      "votes_count": 150,
       "featured": true,
       "topics": [
         {
@@ -31,47 +145,9 @@
           "slug": "marketing"
         },
         {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "857",
-          "name": "Video",
-          "slug": "video"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "c505274f",
-      "title": "产品更新：Ferndesk",
-      "title_en": "Ferndesk",
-      "url": "https://www.producthunt.com/products/ferndesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/ferndesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "The help center that never goes out of date Fe",
-      "summary_zh": "The help center that never goes out of date Fe",
-      "publishedAt": "2026-09-30T07:01:00Z",
-      "published_at": "2026-09-30T07:01:00Z",
-      "votes_count": 334,
-      "featured": true,
-      "topics": [
-        {
-          "id": "55",
-          "name": "Customer Success",
-          "slug": "customer-success"
-        },
-        {
-          "id": "123",
-          "name": "Customer Communication",
-          "slug": "customer-communication"
+          "id": "231",
+          "name": "SEO",
+          "slug": "seo"
         },
         {
           "id": "268",
@@ -82,156 +158,53 @@
       "score_details": null
     },
     {
-      "id": "f9be0d20",
-      "title": "产品更新：Autonomyware",
-      "title_en": "Autonomyware",
-      "url": "https://www.producthunt.com/products/autonomyware?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/autonomyware?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Idea to physical product, engineer anything yo",
-      "summary_zh": "Idea to physical product, engineer anything yo",
-      "publishedAt": "2026-09-30T07:01:00Z",
-      "published_at": "2026-09-30T07:01:00Z",
-      "votes_count": 199,
-      "featured": true,
-      "topics": [
-        {
-          "id": "125",
-          "name": "Hardware",
-          "slug": "hardware"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "803",
-          "name": "3D Modeling",
-          "slug": "3d-modeling"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "6ee8f175",
-      "title": "产品更新：GitBot",
-      "title_en": "GitBot",
-      "url": "https://www.producthunt.com/products/gitbot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/gitbot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Build bots on the coding agent you already use",
-      "summary_zh": "Build bots on the coding agent you already use",
-      "publishedAt": "2026-09-30T07:01:00Z",
-      "published_at": "2026-09-30T07:01:00Z",
-      "votes_count": 170,
-      "featured": true,
-      "topics": [
-        {
-          "id": "89",
-          "name": "Open Source",
-          "slug": "open-source"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "272",
-          "name": "GitHub",
-          "slug": "github"
-        },
-        {
-          "id": "342",
-          "name": "Bots",
-          "slug": "bots"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "283d83a4",
-      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+      "id": "a06a0636",
+      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/499263.html",
+      "url": "https://www.qbitai.com/2026/10/499663.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/499263.html",
+      "sourceUrl": "https://www.qbitai.com/2026/10/499663.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态  量子位的朋友们 2026-09-30 10:53:17  来源：量子位   9月30日，DeepSeek 正式开源面向昇腾算力平台的基础设施组件，涵盖 TileLang 高级语言编译工具、高性能计算库与分布式通信库，与此前面向GPU平台开源的组件一一对应。Deepseek团队面向华为昇腾平台开源发布基础设施加速库，对中国 AI 软件生态具有里程碑意义，为算力平台提供了新的选择。 本次开源，DeepSeek发布了DeepGEMM、FlashMLA、TileKernel、DeepSelect等高性能昇腾算子库组件和DeepEP分布式通信库。昇腾提供了稳定、开放的Ascend C API接口，使能用户对访存路径及计算流水线进行深度调优，完成高性能算子开发。同时依托开放 Ascend C 编程接口与 PTO ISA 底层指令体系，支持了DeepSeek的TileLang编程开源工作。昇腾生态兼顾不同开发范式，既支持资深开发者进行精细的手工调优，也支持 TileLang 等高级语言的编译对接。 华为向DeepSeek团",
-      "summary_zh": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态  量子位的朋友们 2026-09-30 10:53:17  来源：量子位   9月30日，DeepSeek 正式开源面向昇腾算力平台的基础设施组件，涵盖 TileLang 高级语言编译工具、高性能计算库与分布式通信库，与此前面向GPU平台开源的组件一一对应。Deepseek团队面向华为昇腾平台开源发布基础设施加速库，对中国 AI 软件生态具有里程碑意义，为算力平台提供了新的选择。 本次开源，DeepSeek发布了DeepGEMM、FlashMLA、TileKernel、DeepSelect等高性能昇腾算子库组件和DeepEP分布式通信库。昇腾提供了稳定、开放的Ascend C API接口，使能用户对访存路径及计算流水线进行深度调优，完成高性能算子开发。同时依托开放 Ascend C 编程接口与 PTO ISA 底层指令体系，支持了DeepSeek的TileLang编程开源工作。昇腾生态兼顾不同开发范式，既支持资深开发者进行精细的手工调优，也支持 TileLang 等高级语言的编译对接。 华为向DeepSeek团",
-      "publishedAt": "2026-09-30T02:53:17Z",
-      "published_at": "2026-09-30T02:53:17Z",
+      "summary": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让  鹭羽 2026-10-01 23:02:14  来源：量子位   价格只有Astra一半   鹭羽 发自 凹非寺 量子位 | 公众号QbitAI  哎呦喂，谷歌终于也是蹬起来了。。。 假期第一天，谷歌携Gemini 4 Argon空降多榜单第一。 拳打Opus 5.5，脚踢GPT-6 Astra。 更夸张的还在后头，单项任务成本最低可至1.99美元，直接是Astra费用砍半。 最高百万Token输出上限，面向编程、金融和法律等复杂工作流，而且划重点，网络安全防御能力超牛掰。 这波等等党要赢麻了。     不过吧，咱普通用户现在只可远观，暂时还吃不上。 Gemini 4 Argon目前只开放给部分经过筛选的网络安全团队使用，其它订阅用户得一步步来。 倒是谷歌内部对新一代旗舰模型的态度还挺有意思的。 劈柴哥、哈萨比斯还有接班人Koray Kavukcuoglu，纷纷一键三连为其站台：谷歌is back！ DeepMind研究员Zirui Wang发帖直言：  RSI来了！我已做无可做，是时候追逐我的咖啡师梦想了：)",
+      "summary_zh": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让  鹭羽 2026-10-01 23:02:14  来源：量子位   价格只有Astra一半   鹭羽 发自 凹非寺 量子位 | 公众号QbitAI  哎呦喂，谷歌终于也是蹬起来了。。。 假期第一天，谷歌携Gemini 4 Argon空降多榜单第一。 拳打Opus 5.5，脚踢GPT-6 Astra。 更夸张的还在后头，单项任务成本最低可至1.99美元，直接是Astra费用砍半。 最高百万Token输出上限，面向编程、金融和法律等复杂工作流，而且划重点，网络安全防御能力超牛掰。 这波等等党要赢麻了。     不过吧，咱普通用户现在只可远观，暂时还吃不上。 Gemini 4 Argon目前只开放给部分经过筛选的网络安全团队使用，其它订阅用户得一步步来。 倒是谷歌内部对新一代旗舰模型的态度还挺有意思的。 劈柴哥、哈萨比斯还有接班人Koray Kavukcuoglu，纷纷一键三连为其站台：谷歌is back！ DeepMind研究员Zirui Wang发帖直言：  RSI来了！我已做无可做，是时候追逐我的咖啡师梦想了：)",
+      "publishedAt": "2026-10-01T15:02:14Z",
+      "published_at": "2026-10-01T15:02:14Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "15ed007d",
-      "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+      "id": "833edfdf",
+      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/499308.html",
+      "url": "https://www.qbitai.com/2026/10/499812.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/499308.html",
+      "sourceUrl": "https://www.qbitai.com/2026/10/499812.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec  量子位的朋友们 2026-09-30 13:18:05  来源：量子位   DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）  近日，DeepSeek在知乎独家发布技术长文，首次系统阐释了支撑DeepSeek-V4全部训练、评测与数据预处理流程的沙盒基础设施——DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）。文章基于的技术报告《DeepSeek弹性计算（DSec）：面向大规模智能体训练的高效沙箱基础设施（DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale）》已公开至arXiv，由DeepSeek联合清华大学发布，作者团队超过130人，梁文锋也位列其中。  以下为DeepSeek知乎原文：https://zhuanlan.zhihu.",
-      "summary_zh": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec  量子位的朋友们 2026-09-30 13:18:05  来源：量子位   DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）  近日，DeepSeek在知乎独家发布技术长文，首次系统阐释了支撑DeepSeek-V4全部训练、评测与数据预处理流程的沙盒基础设施——DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）。文章基于的技术报告《DeepSeek弹性计算（DSec）：面向大规模智能体训练的高效沙箱基础设施（DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale）》已公开至arXiv，由DeepSeek联合清华大学发布，作者团队超过130人，梁文锋也位列其中。  以下为DeepSeek知乎原文：https://zhuanlan.zhihu.",
-      "publishedAt": "2026-09-30T05:18:05Z",
-      "published_at": "2026-09-30T05:18:05Z",
+      "summary": "何恺明团队新作：看猫片就能学会ARC挑战  鹭羽 2026-10-01 23:06:30  来源：量子位   用ImageNet训练encoder   克雷西 发自 凹非寺 量子位 | 公众号QbitAI  教会AI做ARC抽象推理题的，竟然是猫猫？     何恺明团队最新论文提出了NAT-ARC，一套纯视觉的ARC解题方案。 它不靠LLM，用ImageNet上的猫狗花草做预训练，让模型学会「看」，再迁移到抽象格子推理上。 结果，NAT-ARC表现最好的单模型在ARC-1上跑出了63.4%的pass@2分数，集成后达到70.2%。     这是纯视觉方案首次逼近专用LLM系统的水平。 ARC，公认最难的AI视觉智力测验之一，给你几个彩色格子的输入输出示例，让你推断背后隐藏的变换规则，再应用到新格子上。 过去的主流解法清一色把格子翻译成文字或符号，交给LLM推理。 这篇论文偏不，甚至预训练阶段连ARC格子都没用上。 模型看真实世界学来的视觉能力，就水灵灵地迁移到了完全抽象的彩色格子推理上。 ARC赛道，视觉方案崛起 ARC全称Abstraction and Reasoning Corpu",
+      "summary_zh": "何恺明团队新作：看猫片就能学会ARC挑战  鹭羽 2026-10-01 23:06:30  来源：量子位   用ImageNet训练encoder   克雷西 发自 凹非寺 量子位 | 公众号QbitAI  教会AI做ARC抽象推理题的，竟然是猫猫？     何恺明团队最新论文提出了NAT-ARC，一套纯视觉的ARC解题方案。 它不靠LLM，用ImageNet上的猫狗花草做预训练，让模型学会「看」，再迁移到抽象格子推理上。 结果，NAT-ARC表现最好的单模型在ARC-1上跑出了63.4%的pass@2分数，集成后达到70.2%。     这是纯视觉方案首次逼近专用LLM系统的水平。 ARC，公认最难的AI视觉智力测验之一，给你几个彩色格子的输入输出示例，让你推断背后隐藏的变换规则，再应用到新格子上。 过去的主流解法清一色把格子翻译成文字或符号，交给LLM推理。 这篇论文偏不，甚至预训练阶段连ARC格子都没用上。 模型看真实世界学来的视觉能力，就水灵灵地迁移到了完全抽象的彩色格子推理上。 ARC赛道，视觉方案崛起 ARC全称Abstraction and Reasoning Corpu",
+      "publishedAt": "2026-10-01T15:06:30Z",
+      "published_at": "2026-10-01T15:06:30Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "e8f04c04",
-      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+      "id": "6e9b9e46",
+      "title": "汽车之后，安徽开始让车企跨界「造人」",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/499493.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/499493.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！  henry 2026-09-30 15:54:54  来源：量子位   让GPT把机器人技能当工具调用   henry 发自 凹非寺 量子位 | 公众号 QbitAI  机器人的GPT时刻，还真得靠GPT（doge）！ 刚刚，GPT-6 Astra接上宇树G1，进厨房干活了～ 在斯坦福团队的最新项目HomeBody中，宇树G1先探索一个从来没见过的厨房，随后就能根据语言指令，收拾物品、丢掉纸盒，甚至把不在眼前的药找出来，递到人手里。 比如，让它把咖啡袋集中放到中间，再丢掉指定的牛奶和橙汁纸盒。 G1就会在厨房里来回搬运，把咖啡袋归拢到岛台上，再处理要丢弃的纸盒。 再比如，一句「帮我把药拿来」。 即使药不在当前视野里，它也能从之前保存的画面中找到线索，走到对应抽屉前，打开抽屉、取出药，再递给人，期间还能把丢纸盒的任务一并完成。 可以说，从Robocurve此前让GPT和Claude控制机械臂，完成桌面抓放测试，到这次G1走进厨房，大模型控制机器人的任务范围，又往外扩了一圈。 这一次，机器人不只要判断眼前抓什么，还得记住东西在哪，",
-      "summary_zh": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！  henry 2026-09-30 15:54:54  来源：量子位   让GPT把机器人技能当工具调用   henry 发自 凹非寺 量子位 | 公众号 QbitAI  机器人的GPT时刻，还真得靠GPT（doge）！ 刚刚，GPT-6 Astra接上宇树G1，进厨房干活了～ 在斯坦福团队的最新项目HomeBody中，宇树G1先探索一个从来没见过的厨房，随后就能根据语言指令，收拾物品、丢掉纸盒，甚至把不在眼前的药找出来，递到人手里。 比如，让它把咖啡袋集中放到中间，再丢掉指定的牛奶和橙汁纸盒。 G1就会在厨房里来回搬运，把咖啡袋归拢到岛台上，再处理要丢弃的纸盒。 再比如，一句「帮我把药拿来」。 即使药不在当前视野里，它也能从之前保存的画面中找到线索，走到对应抽屉前，打开抽屉、取出药，再递给人，期间还能把丢纸盒的任务一并完成。 可以说，从Robocurve此前让GPT和Claude控制机械臂，完成桌面抓放测试，到这次G1走进厨房，大模型控制机器人的任务范围，又往外扩了一圈。 这一次，机器人不只要判断眼前抓什么，还得记住东西在哪，",
-      "publishedAt": "2026-09-30T07:54:54Z",
-      "published_at": "2026-09-30T07:54:54Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": null
-    },
-    {
-      "id": "ade7a353",
-      "title": "192 米电子束贯通，合肥先进光源：",
-      "title_en": "192 米电子束贯通，合肥先进光源：工程落地后，产业转化才是核心命题",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -241,10 +214,32 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "192 米电子束贯通，合肥先进光源：工程落地后，产业转化才是核心命题",
-      "summary_zh": "192 米电子束贯通，合肥先进光源：工程落地后，产业转化才是核心命题",
-      "publishedAt": "2026-09-30T23:59:31Z",
-      "published_at": "2026-09-30T23:59:31Z",
+      "summary": "汽车之后，安徽开始让车企跨界「造人」",
+      "summary_zh": "汽车之后，安徽开始让车企跨界「造人」",
+      "publishedAt": "2026-10-01T15:33:42Z",
+      "published_at": "2026-10-01T15:33:42Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "e5cc77b3",
+      "title": "OpenAI们被嫌死贵，美国大厂转向",
+      "title_en": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
+      "summary_zh": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
+      "publishedAt": "2026-10-01T15:33:42Z",
+      "published_at": "2026-10-01T15:33:42Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
