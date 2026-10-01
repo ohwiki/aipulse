@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-10-01T15:34:37Z",
-  "generatedAt": "2026-10-01T15:34:37Z",
-  "count": 142,
-  "total": 142,
+  "generated_at": "2026-10-01T23:58:56Z",
+  "generatedAt": "2026-10-01T23:58:56Z",
+  "count": 143,
+  "total": 143,
   "entries": [
+    {
+      "date": "2026-10-02",
+      "generated_at": "2026-10-01T23:58:56Z",
+      "generatedAt": "2026-10-01T23:58:56Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "0f88d7a6",
+          "title": "产品更新：Monospace from",
+          "title_en": "Monospace from Directus",
+          "url": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The governed API layer for every app, person,",
+          "summary_zh": "The governed API layer for every app, person,",
+          "publishedAt": "2026-10-01T07:01:00Z",
+          "published_at": "2026-10-01T07:01:00Z",
+          "votes_count": 394,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "771",
+              "name": "Data",
+              "slug": "data"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4c764de3",
+          "title": "产品更新：Yedric.ai",
+          "title_en": "Yedric.ai",
+          "url": "https://www.producthunt.com/products/yedric-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/yedric-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Let users control your SaaS with natural langu",
+          "summary_zh": "Let users control your SaaS with natural langu",
+          "publishedAt": "2026-10-01T07:01:00Z",
+          "published_at": "2026-10-01T07:01:00Z",
+          "votes_count": 247,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "19aa1a0c",
+          "title": "产品更新：Dots by OpenAI",
+          "title_en": "Dots by OpenAI",
+          "url": "https://www.producthunt.com/products/dots-by-openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/dots-by-openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Always on agents built to handle everything Do",
+          "summary_zh": "Always on agents built to handle everything Do",
+          "publishedAt": "2026-10-01T07:01:00Z",
+          "published_at": "2026-10-01T07:01:00Z",
+          "votes_count": 246,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-01",
       "generated_at": "2026-10-01T15:34:37Z",
