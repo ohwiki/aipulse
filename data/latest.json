@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T15:05:25Z",
-  "generatedAt": "2026-09-30T15:05:25Z",
+  "generated_at": "2026-10-01T00:00:03Z",
+  "generatedAt": "2026-10-01T00:00:03Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "Produce pitch perfect launch videos with preci",
       "publishedAt": "2026-09-30T07:01:00Z",
       "published_at": "2026-09-30T07:01:00Z",
-      "votes_count": 272,
+      "votes_count": 345,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "The help center that never goes out of date Fe",
       "publishedAt": "2026-09-30T07:01:00Z",
       "published_at": "2026-09-30T07:01:00Z",
-      "votes_count": 249,
+      "votes_count": 334,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "Idea to physical product, engineer anything yo",
       "publishedAt": "2026-09-30T07:01:00Z",
       "published_at": "2026-09-30T07:01:00Z",
-      "votes_count": 182,
+      "votes_count": 199,
       "featured": true,
       "topics": [
         {
@@ -120,63 +120,46 @@
       "score_details": null
     },
     {
-      "id": "4e0395a1",
-      "title": "产品更新：CrawlRaven MCP",
-      "title_en": "CrawlRaven MCP",
-      "url": "https://www.producthunt.com/products/crawlraven-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "6ee8f175",
+      "title": "产品更新：GitBot",
+      "title_en": "GitBot",
+      "url": "https://www.producthunt.com/products/gitbot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/crawlraven-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/gitbot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Your SEO work, done from your AI agent CrawlRa",
-      "summary_zh": "Your SEO work, done from your AI agent CrawlRa",
+      "summary": "Build bots on the coding agent you already use",
+      "summary_zh": "Build bots on the coding agent you already use",
       "publishedAt": "2026-09-30T07:01:00Z",
       "published_at": "2026-09-30T07:01:00Z",
-      "votes_count": 135,
+      "votes_count": 170,
       "featured": true,
       "topics": [
         {
-          "id": "108",
-          "name": "Analytics",
-          "slug": "analytics"
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
         },
         {
-          "id": "164",
-          "name": "Marketing",
-          "slug": "marketing"
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         },
         {
-          "id": "231",
-          "name": "SEO",
-          "slug": "seo"
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "342",
+          "name": "Bots",
+          "slug": "bots"
         }
       ],
-      "score_details": null
-    },
-    {
-      "id": "5c652176",
-      "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/499246.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/09/499246.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了  衡宇 2026-09-30 07:01:05  来源：量子位   今年devday牙膏挤爆  衡宇 发自 凹非寺量子位 | 公众号QbitAI 今天凌晨，OpenAI在旧金山举行DevDay 2026，一口气公布25项更新，横跨ChatGPT、Codex、GPT-6模型和API等等 最重点的几条我们速速列一下： 最最重磅的新产品是Dots，一个always-on agent，我愿称之为更广泛意义上的“个人Agent” 新模型GPT-6.1 Sol来了，重点加强了Agentic Coding、computer use和专业工作能力 官方称6.1 Sol在上述任务上的能力接近GPT-6 Astra，但API标准输入、输出Token价格只有后者的1/5 重新开放了每月200美元的Pro套餐，同时新增每月500美元的Pro 500 配套更新Ultrafast，能氪金来买更快的模型速度，譬如Codex最高可以达到300 tokens/s，大约8倍速度；API最高约6倍 GPT-6 Astra先支持Ultrafast，后面",
-      "summary_zh": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了  衡宇 2026-09-30 07:01:05  来源：量子位   今年devday牙膏挤爆  衡宇 发自 凹非寺量子位 | 公众号QbitAI 今天凌晨，OpenAI在旧金山举行DevDay 2026，一口气公布25项更新，横跨ChatGPT、Codex、GPT-6模型和API等等 最重点的几条我们速速列一下： 最最重磅的新产品是Dots，一个always-on agent，我愿称之为更广泛意义上的“个人Agent” 新模型GPT-6.1 Sol来了，重点加强了Agentic Coding、computer use和专业工作能力 官方称6.1 Sol在上述任务上的能力接近GPT-6 Astra，但API标准输入、输出Token价格只有后者的1/5 重新开放了每月200美元的Pro套餐，同时新增每月500美元的Pro 500 配套更新Ultrafast，能氪金来买更快的模型速度，譬如Codex最高可以达到300 tokens/s，大约8倍速度；API最高约6倍 GPT-6 Astra先支持Ultrafast，后面",
-      "publishedAt": "2026-09-29T23:01:05Z",
-      "published_at": "2026-09-29T23:01:05Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
       "score_details": null
     },
     {
@@ -224,9 +207,31 @@
       "score_details": null
     },
     {
-      "id": "14cb22a3",
-      "title": "已追踪 AI 发展 0 天，0 篇原",
-      "title_en": "已追踪 AI 发展 0 天，0 篇原创内容",
+      "id": "e8f04c04",
+      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/499493.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/09/499493.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！  henry 2026-09-30 15:54:54  来源：量子位   让GPT把机器人技能当工具调用   henry 发自 凹非寺 量子位 | 公众号 QbitAI  机器人的GPT时刻，还真得靠GPT（doge）！ 刚刚，GPT-6 Astra接上宇树G1，进厨房干活了～ 在斯坦福团队的最新项目HomeBody中，宇树G1先探索一个从来没见过的厨房，随后就能根据语言指令，收拾物品、丢掉纸盒，甚至把不在眼前的药找出来，递到人手里。 比如，让它把咖啡袋集中放到中间，再丢掉指定的牛奶和橙汁纸盒。 G1就会在厨房里来回搬运，把咖啡袋归拢到岛台上，再处理要丢弃的纸盒。 再比如，一句「帮我把药拿来」。 即使药不在当前视野里，它也能从之前保存的画面中找到线索，走到对应抽屉前，打开抽屉、取出药，再递给人，期间还能把丢纸盒的任务一并完成。 可以说，从Robocurve此前让GPT和Claude控制机械臂，完成桌面抓放测试，到这次G1走进厨房，大模型控制机器人的任务范围，又往外扩了一圈。 这一次，机器人不只要判断眼前抓什么，还得记住东西在哪，",
+      "summary_zh": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！  henry 2026-09-30 15:54:54  来源：量子位   让GPT把机器人技能当工具调用   henry 发自 凹非寺 量子位 | 公众号 QbitAI  机器人的GPT时刻，还真得靠GPT（doge）！ 刚刚，GPT-6 Astra接上宇树G1，进厨房干活了～ 在斯坦福团队的最新项目HomeBody中，宇树G1先探索一个从来没见过的厨房，随后就能根据语言指令，收拾物品、丢掉纸盒，甚至把不在眼前的药找出来，递到人手里。 比如，让它把咖啡袋集中放到中间，再丢掉指定的牛奶和橙汁纸盒。 G1就会在厨房里来回搬运，把咖啡袋归拢到岛台上，再处理要丢弃的纸盒。 再比如，一句「帮我把药拿来」。 即使药不在当前视野里，它也能从之前保存的画面中找到线索，走到对应抽屉前，打开抽屉、取出药，再递给人，期间还能把丢纸盒的任务一并完成。 可以说，从Robocurve此前让GPT和Claude控制机械臂，完成桌面抓放测试，到这次G1走进厨房，大模型控制机器人的任务范围，又往外扩了一圈。 这一次，机器人不只要判断眼前抓什么，还得记住东西在哪，",
+      "publishedAt": "2026-09-30T07:54:54Z",
+      "published_at": "2026-09-30T07:54:54Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ade7a353",
+      "title": "192 米电子束贯通，合肥先进光源：",
+      "title_en": "192 米电子束贯通，合肥先进光源：工程落地后，产业转化才是核心命题",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -236,10 +241,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "已追踪 AI 发展 0 天，0 篇原创内容",
-      "summary_zh": "已追踪 AI 发展 0 天，0 篇原创内容",
-      "publishedAt": "2026-09-30T15:04:20Z",
-      "published_at": "2026-09-30T15:04:20Z",
+      "summary": "192 米电子束贯通，合肥先进光源：工程落地后，产业转化才是核心命题",
+      "summary_zh": "192 米电子束贯通，合肥先进光源：工程落地后，产业转化才是核心命题",
+      "publishedAt": "2026-09-30T23:59:31Z",
+      "published_at": "2026-09-30T23:59:31Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
