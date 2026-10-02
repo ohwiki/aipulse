@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-01T23:58:56Z",
-  "generatedAt": "2026-10-01T23:58:56Z",
+  "generated_at": "2026-10-02T14:52:35Z",
+  "generatedAt": "2026-10-02T14:52:35Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -10,153 +10,153 @@
       "label": "产品发布/更新",
       "items": [
         {
-          "id": "0f88d7a6",
-          "title": "产品更新：Monospace from",
-          "title_en": "Monospace from Directus",
-          "url": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "2346af55",
+          "title": "产品更新：Gauth Unlimited",
+          "title_en": "Gauth Unlimited Digital Canvas",
+          "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "The governed API layer for every app, person,",
-          "summary_zh": "The governed API layer for every app, person,",
-          "publishedAt": "2026-10-01T07:01:00Z",
-          "published_at": "2026-10-01T07:01:00Z",
-          "votes_count": 394,
+          "summary": "An AI tutor on an infinite whiteboard, not a c",
+          "summary_zh": "An AI tutor on an infinite whiteboard, not a c",
+          "publishedAt": "2026-10-02T07:01:00Z",
+          "published_at": "2026-10-02T07:01:00Z",
+          "votes_count": 341,
           "featured": true,
           "topics": [
             {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "771",
-              "name": "Data",
-              "slug": "data"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "4c764de3",
-          "title": "产品更新：Yedric.ai",
-          "title_en": "Yedric.ai",
-          "url": "https://www.producthunt.com/products/yedric-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/yedric-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Let users control your SaaS with natural langu",
-          "summary_zh": "Let users control your SaaS with natural langu",
-          "publishedAt": "2026-10-01T07:01:00Z",
-          "published_at": "2026-10-01T07:01:00Z",
-          "votes_count": 247,
-          "featured": true,
-          "topics": [
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "782",
+              "name": "Online Learning",
+              "slug": "online-learning"
             }
           ],
           "score_details": null
         },
         {
-          "id": "19aa1a0c",
-          "title": "产品更新：Dots by OpenAI",
-          "title_en": "Dots by OpenAI",
-          "url": "https://www.producthunt.com/products/dots-by-openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "c01eda7b",
+          "title": "产品更新：Veltrix AI for",
+          "title_en": "Veltrix AI for E-commerce",
+          "url": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/dots-by-openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "Always on agents built to handle everything Do",
-          "summary_zh": "Always on agents built to handle everything Do",
-          "publishedAt": "2026-10-01T07:01:00Z",
-          "published_at": "2026-10-01T07:01:00Z",
-          "votes_count": 246,
+          "summary": "Find how your e-commerce business could earn m",
+          "summary_zh": "Find how your e-commerce business could earn m",
+          "publishedAt": "2026-10-02T07:01:00Z",
+          "published_at": "2026-10-02T07:01:00Z",
+          "votes_count": 188,
           "featured": true,
           "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "48",
-              "name": "Task Management",
-              "slug": "task-management"
-            },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            },
+            {
+              "id": "570",
+              "name": "Business",
+              "slug": "business"
             }
           ],
           "score_details": null
         },
         {
-          "id": "9854b933",
-          "title": "AI资讯更新：Omnia Agent",
-          "title_en": "Omnia Agent",
-          "url": "https://www.producthunt.com/products/omnia-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "f7a9bb2c",
+          "title": "产品更新：Famulor",
+          "title_en": "Famulor",
+          "url": "https://www.producthunt.com/products/famulor-telephony-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/omnia-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/famulor-telephony-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "The AI Agent that does 95% of your GEO work Ev",
-          "summary_zh": "The AI Agent that does 95% of your GEO work Ev",
-          "publishedAt": "2026-10-01T07:01:00Z",
-          "published_at": "2026-10-01T07:01:00Z",
-          "votes_count": 186,
+          "summary": "Your agent to answer calls and follow ups on W",
+          "summary_zh": "Your agent to answer calls and follow ups on W",
+          "publishedAt": "2026-10-02T07:01:00Z",
+          "published_at": "2026-10-02T07:01:00Z",
+          "votes_count": 149,
           "featured": true,
           "topics": [
             {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
             },
             {
-              "id": "231",
-              "name": "SEO",
-              "slug": "seo"
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "92b2ccfc",
+          "title": "AI资讯更新：Teachoo",
+          "title_en": "Teachoo",
+          "url": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI that helps you learn anything and everythin",
+          "summary_zh": "AI that helps you learn anything and everythin",
+          "publishedAt": "2026-10-02T07:01:00Z",
+          "published_at": "2026-10-02T07:01:00Z",
+          "votes_count": 135,
+          "featured": true,
+          "topics": [
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "782",
+              "name": "Online Learning",
+              "slug": "online-learning"
             }
           ],
           "score_details": null
@@ -212,31 +212,31 @@
           "score_details": null
         },
         {
-          "id": "6e9b9e46",
-          "title": "汽车之后，安徽开始让车企跨界「造人」",
+          "id": "090bb4f3",
+          "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
           "title_en": null,
-          "url": "https://www.jiqizhixin.com/articles",
-          "source": "机器之心",
+          "url": "https://www.qbitai.com/2026/10/499958.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "机器之心",
-          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/499958.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "汽车之后，安徽开始让车企跨界「造人」",
-          "summary_zh": "汽车之后，安徽开始让车企跨界「造人」",
-          "publishedAt": "2026-10-01T23:58:21Z",
-          "published_at": "2026-10-01T23:58:21Z",
+          "summary": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度  闻乐 2026-10-02 14:46:32  来源：量子位   换区也没用   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  论文现在也开始限流了…… 刚刚，arXiv给所有投稿人上了一道新规： 每人每月，最多提交两篇论文。 而且不是只卡最近论文爆炸的AI领域，所有作者、所有分类，一视同仁。  两篇用完怎么办—— 下个月再来。 更狠的是，这里算的还是“提交次数”，不是最后成功挂到arXiv上的论文数量。 也就是说，一篇论文交上去之后哪怕被拒了，这个月的一次额度照样没了。 如果两篇都被拒…… 恭喜，本月arXiv投稿进度已完成100%。  除此之外，arXiv还保留了从2024年开始实行的另一道限制： 任何时候，最多只能有3篇处于active状态的投稿。 新规已经从2026年10月1日开始执行。 至于为什么突然开始卡投稿量，arXiv文章标题就直接把一个关键词摆了出来： AI。  论文，实在太多了。 两年翻一倍，AI区直接涨超6倍 2016年9月，arXiv一个月收到9869篇投稿。 2024年9月，这个数字已经来到2",
+          "summary_zh": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度  闻乐 2026-10-02 14:46:32  来源：量子位   换区也没用   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  论文现在也开始限流了…… 刚刚，arXiv给所有投稿人上了一道新规： 每人每月，最多提交两篇论文。 而且不是只卡最近论文爆炸的AI领域，所有作者、所有分类，一视同仁。  两篇用完怎么办—— 下个月再来。 更狠的是，这里算的还是“提交次数”，不是最后成功挂到arXiv上的论文数量。 也就是说，一篇论文交上去之后哪怕被拒了，这个月的一次额度照样没了。 如果两篇都被拒…… 恭喜，本月arXiv投稿进度已完成100%。  除此之外，arXiv还保留了从2024年开始实行的另一道限制： 任何时候，最多只能有3篇处于active状态的投稿。 新规已经从2026年10月1日开始执行。 至于为什么突然开始卡投稿量，arXiv文章标题就直接把一个关键词摆了出来： AI。  论文，实在太多了。 两年翻一倍，AI区直接涨超6倍 2016年9月，arXiv一个月收到9869篇投稿。 2024年9月，这个数字已经来到2",
+          "publishedAt": "2026-10-02T06:46:32Z",
+          "published_at": "2026-10-02T06:46:32Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "e5cc77b3",
-          "title": "OpenAI们被嫌死贵，美国大厂转向",
-          "title_en": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
+          "id": "96537930",
+          "title": "生物医学基础模型越来越强，但我们真的",
+          "title_en": "生物医学基础模型越来越强，但我们真的知道它学会了什么吗？",
           "url": "https://www.jiqizhixin.com/articles",
           "source": "机器之心",
           "source_type": null,
@@ -246,10 +246,10 @@
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
-          "summary_zh": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
-          "publishedAt": "2026-10-01T23:58:21Z",
-          "published_at": "2026-10-01T23:58:21Z",
+          "summary": "生物医学基础模型越来越强，但我们真的知道它学会了什么吗？",
+          "summary_zh": "生物医学基础模型越来越强，但我们真的知道它学会了什么吗？",
+          "publishedAt": "2026-10-02T14:51:27Z",
+          "published_at": "2026-10-02T14:51:27Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -260,153 +260,153 @@
   ],
   "items": [
     {
-      "id": "0f88d7a6",
-      "title": "产品更新：Monospace from",
-      "title_en": "Monospace from Directus",
-      "url": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "2346af55",
+      "title": "产品更新：Gauth Unlimited",
+      "title_en": "Gauth Unlimited Digital Canvas",
+      "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/directus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "The governed API layer for every app, person,",
-      "summary_zh": "The governed API layer for every app, person,",
-      "publishedAt": "2026-10-01T07:01:00Z",
-      "published_at": "2026-10-01T07:01:00Z",
-      "votes_count": 394,
+      "summary": "An AI tutor on an infinite whiteboard, not a c",
+      "summary_zh": "An AI tutor on an infinite whiteboard, not a c",
+      "publishedAt": "2026-10-02T07:01:00Z",
+      "published_at": "2026-10-02T07:01:00Z",
+      "votes_count": 341,
       "featured": true,
       "topics": [
         {
-          "id": "88",
-          "name": "API",
-          "slug": "api-1"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "771",
-          "name": "Data",
-          "slug": "data"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "4c764de3",
-      "title": "产品更新：Yedric.ai",
-      "title_en": "Yedric.ai",
-      "url": "https://www.producthunt.com/products/yedric-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/yedric-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Let users control your SaaS with natural langu",
-      "summary_zh": "Let users control your SaaS with natural langu",
-      "publishedAt": "2026-10-01T07:01:00Z",
-      "published_at": "2026-10-01T07:01:00Z",
-      "votes_count": 247,
-      "featured": true,
-      "topics": [
-        {
-          "id": "237",
-          "name": "SaaS",
-          "slug": "saas"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
+          "id": "204",
+          "name": "Education",
+          "slug": "education"
         },
         {
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
+        },
+        {
+          "id": "782",
+          "name": "Online Learning",
+          "slug": "online-learning"
         }
       ],
       "score_details": null
     },
     {
-      "id": "19aa1a0c",
-      "title": "产品更新：Dots by OpenAI",
-      "title_en": "Dots by OpenAI",
-      "url": "https://www.producthunt.com/products/dots-by-openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "c01eda7b",
+      "title": "产品更新：Veltrix AI for",
+      "title_en": "Veltrix AI for E-commerce",
+      "url": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/dots-by-openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Always on agents built to handle everything Do",
-      "summary_zh": "Always on agents built to handle everything Do",
-      "publishedAt": "2026-10-01T07:01:00Z",
-      "published_at": "2026-10-01T07:01:00Z",
-      "votes_count": 246,
+      "summary": "Find how your e-commerce business could earn m",
+      "summary_zh": "Find how your e-commerce business could earn m",
+      "publishedAt": "2026-10-02T07:01:00Z",
+      "published_at": "2026-10-02T07:01:00Z",
+      "votes_count": 188,
       "featured": true,
       "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "48",
-          "name": "Task Management",
-          "slug": "task-management"
-        },
         {
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
+        },
+        {
+          "id": "278",
+          "name": "E-Commerce",
+          "slug": "e-commerce"
+        },
+        {
+          "id": "570",
+          "name": "Business",
+          "slug": "business"
         }
       ],
       "score_details": null
     },
     {
-      "id": "9854b933",
-      "title": "AI资讯更新：Omnia Agent",
-      "title_en": "Omnia Agent",
-      "url": "https://www.producthunt.com/products/omnia-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "f7a9bb2c",
+      "title": "产品更新：Famulor",
+      "title_en": "Famulor",
+      "url": "https://www.producthunt.com/products/famulor-telephony-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/omnia-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/famulor-telephony-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "The AI Agent that does 95% of your GEO work Ev",
-      "summary_zh": "The AI Agent that does 95% of your GEO work Ev",
-      "publishedAt": "2026-10-01T07:01:00Z",
-      "published_at": "2026-10-01T07:01:00Z",
-      "votes_count": 186,
+      "summary": "Your agent to answer calls and follow ups on W",
+      "summary_zh": "Your agent to answer calls and follow ups on W",
+      "publishedAt": "2026-10-02T07:01:00Z",
+      "published_at": "2026-10-02T07:01:00Z",
+      "votes_count": 149,
       "featured": true,
       "topics": [
         {
-          "id": "164",
-          "name": "Marketing",
-          "slug": "marketing"
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
         },
         {
-          "id": "231",
-          "name": "SEO",
-          "slug": "seo"
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "60",
+          "name": "Messaging",
+          "slug": "messaging"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "92b2ccfc",
+      "title": "AI资讯更新：Teachoo",
+      "title_en": "Teachoo",
+      "url": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI that helps you learn anything and everythin",
+      "summary_zh": "AI that helps you learn anything and everythin",
+      "publishedAt": "2026-10-02T07:01:00Z",
+      "published_at": "2026-10-02T07:01:00Z",
+      "votes_count": 135,
+      "featured": true,
+      "topics": [
+        {
+          "id": "204",
+          "name": "Education",
+          "slug": "education"
         },
         {
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
+        },
+        {
+          "id": "782",
+          "name": "Online Learning",
+          "slug": "online-learning"
         }
       ],
       "score_details": null
@@ -456,31 +456,31 @@
       "score_details": null
     },
     {
-      "id": "6e9b9e46",
-      "title": "汽车之后，安徽开始让车企跨界「造人」",
+      "id": "090bb4f3",
+      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
       "title_en": null,
-      "url": "https://www.jiqizhixin.com/articles",
-      "source": "机器之心",
+      "url": "https://www.qbitai.com/2026/10/499958.html",
+      "source": "量子位",
       "source_type": null,
-      "sourceName": "机器之心",
-      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/499958.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "汽车之后，安徽开始让车企跨界「造人」",
-      "summary_zh": "汽车之后，安徽开始让车企跨界「造人」",
-      "publishedAt": "2026-10-01T23:58:21Z",
-      "published_at": "2026-10-01T23:58:21Z",
+      "summary": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度  闻乐 2026-10-02 14:46:32  来源：量子位   换区也没用   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  论文现在也开始限流了…… 刚刚，arXiv给所有投稿人上了一道新规： 每人每月，最多提交两篇论文。 而且不是只卡最近论文爆炸的AI领域，所有作者、所有分类，一视同仁。  两篇用完怎么办—— 下个月再来。 更狠的是，这里算的还是“提交次数”，不是最后成功挂到arXiv上的论文数量。 也就是说，一篇论文交上去之后哪怕被拒了，这个月的一次额度照样没了。 如果两篇都被拒…… 恭喜，本月arXiv投稿进度已完成100%。  除此之外，arXiv还保留了从2024年开始实行的另一道限制： 任何时候，最多只能有3篇处于active状态的投稿。 新规已经从2026年10月1日开始执行。 至于为什么突然开始卡投稿量，arXiv文章标题就直接把一个关键词摆了出来： AI。  论文，实在太多了。 两年翻一倍，AI区直接涨超6倍 2016年9月，arXiv一个月收到9869篇投稿。 2024年9月，这个数字已经来到2",
+      "summary_zh": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度  闻乐 2026-10-02 14:46:32  来源：量子位   换区也没用   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  论文现在也开始限流了…… 刚刚，arXiv给所有投稿人上了一道新规： 每人每月，最多提交两篇论文。 而且不是只卡最近论文爆炸的AI领域，所有作者、所有分类，一视同仁。  两篇用完怎么办—— 下个月再来。 更狠的是，这里算的还是“提交次数”，不是最后成功挂到arXiv上的论文数量。 也就是说，一篇论文交上去之后哪怕被拒了，这个月的一次额度照样没了。 如果两篇都被拒…… 恭喜，本月arXiv投稿进度已完成100%。  除此之外，arXiv还保留了从2024年开始实行的另一道限制： 任何时候，最多只能有3篇处于active状态的投稿。 新规已经从2026年10月1日开始执行。 至于为什么突然开始卡投稿量，arXiv文章标题就直接把一个关键词摆了出来： AI。  论文，实在太多了。 两年翻一倍，AI区直接涨超6倍 2016年9月，arXiv一个月收到9869篇投稿。 2024年9月，这个数字已经来到2",
+      "publishedAt": "2026-10-02T06:46:32Z",
+      "published_at": "2026-10-02T06:46:32Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "e5cc77b3",
-      "title": "OpenAI们被嫌死贵，美国大厂转向",
-      "title_en": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
+      "id": "96537930",
+      "title": "生物医学基础模型越来越强，但我们真的",
+      "title_en": "生物医学基础模型越来越强，但我们真的知道它学会了什么吗？",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -490,10 +490,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
-      "summary_zh": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
-      "publishedAt": "2026-10-01T23:58:21Z",
-      "published_at": "2026-10-01T23:58:21Z",
+      "summary": "生物医学基础模型越来越强，但我们真的知道它学会了什么吗？",
+      "summary_zh": "生物医学基础模型越来越强，但我们真的知道它学会了什么吗？",
+      "publishedAt": "2026-10-02T14:51:27Z",
+      "published_at": "2026-10-02T14:51:27Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
