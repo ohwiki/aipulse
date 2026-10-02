@@ -1,0 +1,503 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-02T23:52:33Z",
+  "generatedAt": "2026-10-02T23:52:33Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "2346af55",
+          "title": "产品更新：Gauth Unlimited",
+          "title_en": "Gauth Unlimited Digital Canvas",
+          "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "An AI tutor on an infinite whiteboard, not a c",
+          "summary_zh": "An AI tutor on an infinite whiteboard, not a c",
+          "publishedAt": "2026-10-02T07:01:00Z",
+          "published_at": "2026-10-02T07:01:00Z",
+          "votes_count": 402,
+          "featured": true,
+          "topics": [
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "782",
+              "name": "Online Learning",
+              "slug": "online-learning"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c01eda7b",
+          "title": "产品更新：Veltrix AI for",
+          "title_en": "Veltrix AI for E-commerce",
+          "url": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Find how your e-commerce business could earn m",
+          "summary_zh": "Find how your e-commerce business could earn m",
+          "publishedAt": "2026-10-02T07:01:00Z",
+          "published_at": "2026-10-02T07:01:00Z",
+          "votes_count": 253,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            },
+            {
+              "id": "570",
+              "name": "Business",
+              "slug": "business"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "92b2ccfc",
+          "title": "AI资讯更新：Teachoo",
+          "title_en": "Teachoo",
+          "url": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI that helps you learn anything and everythin",
+          "summary_zh": "AI that helps you learn anything and everythin",
+          "publishedAt": "2026-10-02T07:01:00Z",
+          "published_at": "2026-10-02T07:01:00Z",
+          "votes_count": 204,
+          "featured": true,
+          "topics": [
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "782",
+              "name": "Online Learning",
+              "slug": "online-learning"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f7a9bb2c",
+          "title": "产品更新：Famulor",
+          "title_en": "Famulor",
+          "url": "https://www.producthunt.com/products/famulor-telephony-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/famulor-telephony-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your agent to answer calls and follow ups on W",
+          "summary_zh": "Your agent to answer calls and follow ups on W",
+          "publishedAt": "2026-10-02T07:01:00Z",
+          "published_at": "2026-10-02T07:01:00Z",
+          "votes_count": 195,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "090bb4f3",
+          "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/499958.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/499958.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度  闻乐 2026-10-02 14:46:32  来源：量子位   换区也没用   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  论文现在也开始限流了…… 刚刚，arXiv给所有投稿人上了一道新规： 每人每月，最多提交两篇论文。 而且不是只卡最近论文爆炸的AI领域，所有作者、所有分类，一视同仁。  两篇用完怎么办—— 下个月再来。 更狠的是，这里算的还是“提交次数”，不是最后成功挂到arXiv上的论文数量。 也就是说，一篇论文交上去之后哪怕被拒了，这个月的一次额度照样没了。 如果两篇都被拒…… 恭喜，本月arXiv投稿进度已完成100%。  除此之外，arXiv还保留了从2024年开始实行的另一道限制： 任何时候，最多只能有3篇处于active状态的投稿。 新规已经从2026年10月1日开始执行。 至于为什么突然开始卡投稿量，arXiv文章标题就直接把一个关键词摆了出来： AI。  论文，实在太多了。 两年翻一倍，AI区直接涨超6倍 2016年9月，arXiv一个月收到9869篇投稿。 2024年9月，这个数字已经来到2",
+          "summary_zh": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度  闻乐 2026-10-02 14:46:32  来源：量子位   换区也没用   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  论文现在也开始限流了…… 刚刚，arXiv给所有投稿人上了一道新规： 每人每月，最多提交两篇论文。 而且不是只卡最近论文爆炸的AI领域，所有作者、所有分类，一视同仁。  两篇用完怎么办—— 下个月再来。 更狠的是，这里算的还是“提交次数”，不是最后成功挂到arXiv上的论文数量。 也就是说，一篇论文交上去之后哪怕被拒了，这个月的一次额度照样没了。 如果两篇都被拒…… 恭喜，本月arXiv投稿进度已完成100%。  除此之外，arXiv还保留了从2024年开始实行的另一道限制： 任何时候，最多只能有3篇处于active状态的投稿。 新规已经从2026年10月1日开始执行。 至于为什么突然开始卡投稿量，arXiv文章标题就直接把一个关键词摆了出来： AI。  论文，实在太多了。 两年翻一倍，AI区直接涨超6倍 2016年9月，arXiv一个月收到9869篇投稿。 2024年9月，这个数字已经来到2",
+          "publishedAt": "2026-10-02T06:46:32Z",
+          "published_at": "2026-10-02T06:46:32Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "4d235938",
+          "title": "丘成桐新论文致谢了GPT和Claude",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/499991.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/499991.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "丘成桐新论文致谢了GPT和Claude  梦晨 2026-10-02 15:27:03  来源：量子位   44年前被亲自列入问题清单  克雷西 发自 凹非寺 量子位 | 公众号QbitAI 「AI不可能对最尖端的数学家有任何影响」……吗？ 说出这句话的丘成桐，现在已经用上AI辅助研究了。  而且解决的问题，还是44年前他亲自列入自己的问题清单的。 丘成桐参与的最新论文，在致谢里感谢了GPT 6 Astra和Claude Pro，说它们帮忙探索了部分证明思路和计算。  这篇论文处理的是微分几何里的一个经典猜想。 问题关注的是七维空间，当中的球面有28种不同的「版本」，其中27种和我们熟悉的球面微妙地不同，数学上叫「怪球」。 数学家一直想知道，这些怪球能不能像普通球面一样，每个地方都均匀地向内弯。 怪球1956年就被发现了，但这个弯曲的问题悬了70年。丘成桐1982年把它列进自己的问题清单，排第二位。 现在，这篇AI辅助的论文终于给出了答案。  七维空间的27种「怪球」 1956年，美国数学家米尔诺（John Milnor）构造出了一种奇怪的东西。 它和标准的七维球面在拓扑上完全一样，你",
+          "summary_zh": "丘成桐新论文致谢了GPT和Claude  梦晨 2026-10-02 15:27:03  来源：量子位   44年前被亲自列入问题清单  克雷西 发自 凹非寺 量子位 | 公众号QbitAI 「AI不可能对最尖端的数学家有任何影响」……吗？ 说出这句话的丘成桐，现在已经用上AI辅助研究了。  而且解决的问题，还是44年前他亲自列入自己的问题清单的。 丘成桐参与的最新论文，在致谢里感谢了GPT 6 Astra和Claude Pro，说它们帮忙探索了部分证明思路和计算。  这篇论文处理的是微分几何里的一个经典猜想。 问题关注的是七维空间，当中的球面有28种不同的「版本」，其中27种和我们熟悉的球面微妙地不同，数学上叫「怪球」。 数学家一直想知道，这些怪球能不能像普通球面一样，每个地方都均匀地向内弯。 怪球1956年就被发现了，但这个弯曲的问题悬了70年。丘成桐1982年把它列进自己的问题清单，排第二位。 现在，这篇AI辅助的论文终于给出了答案。  七维空间的27种「怪球」 1956年，美国数学家米尔诺（John Milnor）构造出了一种奇怪的东西。 它和标准的七维球面在拓扑上完全一样，你",
+          "publishedAt": "2026-10-02T07:27:03Z",
+          "published_at": "2026-10-02T07:27:03Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "35ff85a1",
+          "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/500098.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/500098.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗  梦晨 2026-10-02 15:34:15  来源：量子位   让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择  允中 发自 凹非寺 量子位 | 公众号QbitAI 不是所有任务都需要最强的模型。让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择。 你有没有想过，你的Agent可能一直在“用力过猛” 先做一个思想实验。 你问AI助手一个再简单不过的问题：“帮我把这句话翻译成英文。” 它调用的，是一个参数量千亿、跑在云端最贵算力上的模型。你问它一个需要通盘推演、写五十行代码、还要自己debug三轮的难题，它调用的还是同一个模型。 这是今天绝大多数AI应用的真实状态：一个模型包打天下。 问题还不止于“贵”。真实场景里，一个Agent往往同时握着本地模型、云端模型，以及来自不同厂商的多种服务。当可选模型越来越多，新的麻烦随之出现： 简单任务用昂贵模型，带来不必要的成本； 复杂任务交给轻量模型，效果不稳定； 依赖固定规则做选择，很难跟上业务",
+          "summary_zh": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗  梦晨 2026-10-02 15:34:15  来源：量子位   让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择  允中 发自 凹非寺 量子位 | 公众号QbitAI 不是所有任务都需要最强的模型。让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择。 你有没有想过，你的Agent可能一直在“用力过猛” 先做一个思想实验。 你问AI助手一个再简单不过的问题：“帮我把这句话翻译成英文。” 它调用的，是一个参数量千亿、跑在云端最贵算力上的模型。你问它一个需要通盘推演、写五十行代码、还要自己debug三轮的难题，它调用的还是同一个模型。 这是今天绝大多数AI应用的真实状态：一个模型包打天下。 问题还不止于“贵”。真实场景里，一个Agent往往同时握着本地模型、云端模型，以及来自不同厂商的多种服务。当可选模型越来越多，新的麻烦随之出现： 简单任务用昂贵模型，带来不必要的成本； 复杂任务交给轻量模型，效果不稳定； 依赖固定规则做选择，很难跟上业务",
+          "publishedAt": "2026-10-02T07:34:15Z",
+          "published_at": "2026-10-02T07:34:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "96537930",
+          "title": "生物医学基础模型越来越强，但我们真的",
+          "title_en": "生物医学基础模型越来越强，但我们真的知道它学会了什么吗？",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "生物医学基础模型越来越强，但我们真的知道它学会了什么吗？",
+          "summary_zh": "生物医学基础模型越来越强，但我们真的知道它学会了什么吗？",
+          "publishedAt": "2026-10-02T23:52:03Z",
+          "published_at": "2026-10-02T23:52:03Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "2346af55",
+      "title": "产品更新：Gauth Unlimited",
+      "title_en": "Gauth Unlimited Digital Canvas",
+      "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "An AI tutor on an infinite whiteboard, not a c",
+      "summary_zh": "An AI tutor on an infinite whiteboard, not a c",
+      "publishedAt": "2026-10-02T07:01:00Z",
+      "published_at": "2026-10-02T07:01:00Z",
+      "votes_count": 402,
+      "featured": true,
+      "topics": [
+        {
+          "id": "204",
+          "name": "Education",
+          "slug": "education"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "782",
+          "name": "Online Learning",
+          "slug": "online-learning"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "c01eda7b",
+      "title": "产品更新：Veltrix AI for",
+      "title_en": "Veltrix AI for E-commerce",
+      "url": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Find how your e-commerce business could earn m",
+      "summary_zh": "Find how your e-commerce business could earn m",
+      "publishedAt": "2026-10-02T07:01:00Z",
+      "published_at": "2026-10-02T07:01:00Z",
+      "votes_count": 253,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "278",
+          "name": "E-Commerce",
+          "slug": "e-commerce"
+        },
+        {
+          "id": "570",
+          "name": "Business",
+          "slug": "business"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "92b2ccfc",
+      "title": "AI资讯更新：Teachoo",
+      "title_en": "Teachoo",
+      "url": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI that helps you learn anything and everythin",
+      "summary_zh": "AI that helps you learn anything and everythin",
+      "publishedAt": "2026-10-02T07:01:00Z",
+      "published_at": "2026-10-02T07:01:00Z",
+      "votes_count": 204,
+      "featured": true,
+      "topics": [
+        {
+          "id": "204",
+          "name": "Education",
+          "slug": "education"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "782",
+          "name": "Online Learning",
+          "slug": "online-learning"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "f7a9bb2c",
+      "title": "产品更新：Famulor",
+      "title_en": "Famulor",
+      "url": "https://www.producthunt.com/products/famulor-telephony-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/famulor-telephony-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your agent to answer calls and follow ups on W",
+      "summary_zh": "Your agent to answer calls and follow ups on W",
+      "publishedAt": "2026-10-02T07:01:00Z",
+      "published_at": "2026-10-02T07:01:00Z",
+      "votes_count": 195,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "60",
+          "name": "Messaging",
+          "slug": "messaging"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "090bb4f3",
+      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/499958.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/499958.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度  闻乐 2026-10-02 14:46:32  来源：量子位   换区也没用   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  论文现在也开始限流了…… 刚刚，arXiv给所有投稿人上了一道新规： 每人每月，最多提交两篇论文。 而且不是只卡最近论文爆炸的AI领域，所有作者、所有分类，一视同仁。  两篇用完怎么办—— 下个月再来。 更狠的是，这里算的还是“提交次数”，不是最后成功挂到arXiv上的论文数量。 也就是说，一篇论文交上去之后哪怕被拒了，这个月的一次额度照样没了。 如果两篇都被拒…… 恭喜，本月arXiv投稿进度已完成100%。  除此之外，arXiv还保留了从2024年开始实行的另一道限制： 任何时候，最多只能有3篇处于active状态的投稿。 新规已经从2026年10月1日开始执行。 至于为什么突然开始卡投稿量，arXiv文章标题就直接把一个关键词摆了出来： AI。  论文，实在太多了。 两年翻一倍，AI区直接涨超6倍 2016年9月，arXiv一个月收到9869篇投稿。 2024年9月，这个数字已经来到2",
+      "summary_zh": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度  闻乐 2026-10-02 14:46:32  来源：量子位   换区也没用   闻乐 发自 凹非寺 量子位 | 公众号 QbitAI  论文现在也开始限流了…… 刚刚，arXiv给所有投稿人上了一道新规： 每人每月，最多提交两篇论文。 而且不是只卡最近论文爆炸的AI领域，所有作者、所有分类，一视同仁。  两篇用完怎么办—— 下个月再来。 更狠的是，这里算的还是“提交次数”，不是最后成功挂到arXiv上的论文数量。 也就是说，一篇论文交上去之后哪怕被拒了，这个月的一次额度照样没了。 如果两篇都被拒…… 恭喜，本月arXiv投稿进度已完成100%。  除此之外，arXiv还保留了从2024年开始实行的另一道限制： 任何时候，最多只能有3篇处于active状态的投稿。 新规已经从2026年10月1日开始执行。 至于为什么突然开始卡投稿量，arXiv文章标题就直接把一个关键词摆了出来： AI。  论文，实在太多了。 两年翻一倍，AI区直接涨超6倍 2016年9月，arXiv一个月收到9869篇投稿。 2024年9月，这个数字已经来到2",
+      "publishedAt": "2026-10-02T06:46:32Z",
+      "published_at": "2026-10-02T06:46:32Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4d235938",
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/499991.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/499991.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "丘成桐新论文致谢了GPT和Claude  梦晨 2026-10-02 15:27:03  来源：量子位   44年前被亲自列入问题清单  克雷西 发自 凹非寺 量子位 | 公众号QbitAI 「AI不可能对最尖端的数学家有任何影响」……吗？ 说出这句话的丘成桐，现在已经用上AI辅助研究了。  而且解决的问题，还是44年前他亲自列入自己的问题清单的。 丘成桐参与的最新论文，在致谢里感谢了GPT 6 Astra和Claude Pro，说它们帮忙探索了部分证明思路和计算。  这篇论文处理的是微分几何里的一个经典猜想。 问题关注的是七维空间，当中的球面有28种不同的「版本」，其中27种和我们熟悉的球面微妙地不同，数学上叫「怪球」。 数学家一直想知道，这些怪球能不能像普通球面一样，每个地方都均匀地向内弯。 怪球1956年就被发现了，但这个弯曲的问题悬了70年。丘成桐1982年把它列进自己的问题清单，排第二位。 现在，这篇AI辅助的论文终于给出了答案。  七维空间的27种「怪球」 1956年，美国数学家米尔诺（John Milnor）构造出了一种奇怪的东西。 它和标准的七维球面在拓扑上完全一样，你",
+      "summary_zh": "丘成桐新论文致谢了GPT和Claude  梦晨 2026-10-02 15:27:03  来源：量子位   44年前被亲自列入问题清单  克雷西 发自 凹非寺 量子位 | 公众号QbitAI 「AI不可能对最尖端的数学家有任何影响」……吗？ 说出这句话的丘成桐，现在已经用上AI辅助研究了。  而且解决的问题，还是44年前他亲自列入自己的问题清单的。 丘成桐参与的最新论文，在致谢里感谢了GPT 6 Astra和Claude Pro，说它们帮忙探索了部分证明思路和计算。  这篇论文处理的是微分几何里的一个经典猜想。 问题关注的是七维空间，当中的球面有28种不同的「版本」，其中27种和我们熟悉的球面微妙地不同，数学上叫「怪球」。 数学家一直想知道，这些怪球能不能像普通球面一样，每个地方都均匀地向内弯。 怪球1956年就被发现了，但这个弯曲的问题悬了70年。丘成桐1982年把它列进自己的问题清单，排第二位。 现在，这篇AI辅助的论文终于给出了答案。  七维空间的27种「怪球」 1956年，美国数学家米尔诺（John Milnor）构造出了一种奇怪的东西。 它和标准的七维球面在拓扑上完全一样，你",
+      "publishedAt": "2026-10-02T07:27:03Z",
+      "published_at": "2026-10-02T07:27:03Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "35ff85a1",
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/500098.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/500098.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗  梦晨 2026-10-02 15:34:15  来源：量子位   让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择  允中 发自 凹非寺 量子位 | 公众号QbitAI 不是所有任务都需要最强的模型。让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择。 你有没有想过，你的Agent可能一直在“用力过猛” 先做一个思想实验。 你问AI助手一个再简单不过的问题：“帮我把这句话翻译成英文。” 它调用的，是一个参数量千亿、跑在云端最贵算力上的模型。你问它一个需要通盘推演、写五十行代码、还要自己debug三轮的难题，它调用的还是同一个模型。 这是今天绝大多数AI应用的真实状态：一个模型包打天下。 问题还不止于“贵”。真实场景里，一个Agent往往同时握着本地模型、云端模型，以及来自不同厂商的多种服务。当可选模型越来越多，新的麻烦随之出现： 简单任务用昂贵模型，带来不必要的成本； 复杂任务交给轻量模型，效果不稳定； 依赖固定规则做选择，很难跟上业务",
+      "summary_zh": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗  梦晨 2026-10-02 15:34:15  来源：量子位   让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择  允中 发自 凹非寺 量子位 | 公众号QbitAI 不是所有任务都需要最强的模型。让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择。 你有没有想过，你的Agent可能一直在“用力过猛” 先做一个思想实验。 你问AI助手一个再简单不过的问题：“帮我把这句话翻译成英文。” 它调用的，是一个参数量千亿、跑在云端最贵算力上的模型。你问它一个需要通盘推演、写五十行代码、还要自己debug三轮的难题，它调用的还是同一个模型。 这是今天绝大多数AI应用的真实状态：一个模型包打天下。 问题还不止于“贵”。真实场景里，一个Agent往往同时握着本地模型、云端模型，以及来自不同厂商的多种服务。当可选模型越来越多，新的麻烦随之出现： 简单任务用昂贵模型，带来不必要的成本； 复杂任务交给轻量模型，效果不稳定； 依赖固定规则做选择，很难跟上业务",
+      "publishedAt": "2026-10-02T07:34:15Z",
+      "published_at": "2026-10-02T07:34:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "96537930",
+      "title": "生物医学基础模型越来越强，但我们真的",
+      "title_en": "生物医学基础模型越来越强，但我们真的知道它学会了什么吗？",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "生物医学基础模型越来越强，但我们真的知道它学会了什么吗？",
+      "summary_zh": "生物医学基础模型越来越强，但我们真的知道它学会了什么吗？",
+      "publishedAt": "2026-10-02T23:52:03Z",
+      "published_at": "2026-10-02T23:52:03Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

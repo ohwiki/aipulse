@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-10-02T14:52:35Z",
-  "generatedAt": "2026-10-02T14:52:35Z",
-  "count": 143,
-  "total": 143,
+  "generated_at": "2026-10-02T23:52:33Z",
+  "generatedAt": "2026-10-02T23:52:33Z",
+  "count": 144,
+  "total": 144,
   "entries": [
+    {
+      "date": "2026-10-03",
+      "generated_at": "2026-10-02T23:52:33Z",
+      "generatedAt": "2026-10-02T23:52:33Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "2346af55",
+          "title": "产品更新：Gauth Unlimited",
+          "title_en": "Gauth Unlimited Digital Canvas",
+          "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "An AI tutor on an infinite whiteboard, not a c",
+          "summary_zh": "An AI tutor on an infinite whiteboard, not a c",
+          "publishedAt": "2026-10-02T07:01:00Z",
+          "published_at": "2026-10-02T07:01:00Z",
+          "votes_count": 402,
+          "featured": true,
+          "topics": [
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "782",
+              "name": "Online Learning",
+              "slug": "online-learning"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c01eda7b",
+          "title": "产品更新：Veltrix AI for",
+          "title_en": "Veltrix AI for E-commerce",
+          "url": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Find how your e-commerce business could earn m",
+          "summary_zh": "Find how your e-commerce business could earn m",
+          "publishedAt": "2026-10-02T07:01:00Z",
+          "published_at": "2026-10-02T07:01:00Z",
+          "votes_count": 253,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            },
+            {
+              "id": "570",
+              "name": "Business",
+              "slug": "business"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "92b2ccfc",
+          "title": "AI资讯更新：Teachoo",
+          "title_en": "Teachoo",
+          "url": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI that helps you learn anything and everythin",
+          "summary_zh": "AI that helps you learn anything and everythin",
+          "publishedAt": "2026-10-02T07:01:00Z",
+          "published_at": "2026-10-02T07:01:00Z",
+          "votes_count": 204,
+          "featured": true,
+          "topics": [
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "782",
+              "name": "Online Learning",
+              "slug": "online-learning"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-02",
       "generated_at": "2026-10-02T14:52:35Z",
