@@ -1,128 +1,112 @@
 {
-  "generated_at": "2026-10-02T23:52:33Z",
-  "generatedAt": "2026-10-02T23:52:33Z",
+  "generated_at": "2026-10-03T13:35:43Z",
+  "generatedAt": "2026-10-03T13:35:43Z",
   "count": 144,
   "total": 144,
   "entries": [
     {
       "date": "2026-10-03",
-      "generated_at": "2026-10-02T23:52:33Z",
-      "generatedAt": "2026-10-02T23:52:33Z",
-      "total": 8,
+      "generated_at": "2026-10-03T13:35:43Z",
+      "generatedAt": "2026-10-03T13:35:43Z",
+      "total": 6,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "2346af55",
-          "title": "产品更新：Gauth Unlimited",
-          "title_en": "Gauth Unlimited Digital Canvas",
-          "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "28b4f2bb",
+          "title": "产品更新：ZooWork",
+          "title_en": "ZooWork",
+          "url": "https://www.producthunt.com/products/zoowork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/zoowork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "An AI tutor on an infinite whiteboard, not a c",
-          "summary_zh": "An AI tutor on an infinite whiteboard, not a c",
-          "publishedAt": "2026-10-02T07:01:00Z",
-          "published_at": "2026-10-02T07:01:00Z",
-          "votes_count": 402,
+          "summary": "The AI agent delivery platform for FDEs and do",
+          "summary_zh": "The AI agent delivery platform for FDEs and do",
+          "publishedAt": "2026-10-03T07:01:00Z",
+          "published_at": "2026-10-03T07:01:00Z",
+          "votes_count": 193,
           "featured": true,
           "topics": [
             {
-              "id": "204",
-              "name": "Education",
-              "slug": "education"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "782",
-              "name": "Online Learning",
-              "slug": "online-learning"
             }
           ],
           "score_details": null
         },
         {
-          "id": "c01eda7b",
-          "title": "产品更新：Veltrix AI for",
-          "title_en": "Veltrix AI for E-commerce",
-          "url": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "317e5b54",
+          "title": "产品更新：miso.com",
+          "title_en": "miso.com",
+          "url": "https://www.producthunt.com/products/miso-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/miso-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Find how your e-commerce business could earn m",
-          "summary_zh": "Find how your e-commerce business could earn m",
-          "publishedAt": "2026-10-02T07:01:00Z",
-          "published_at": "2026-10-02T07:01:00Z",
-          "votes_count": 253,
+          "summary": "Book flights and hotels through iMessage Stop",
+          "summary_zh": "Book flights and hotels through iMessage Stop",
+          "publishedAt": "2026-10-03T07:01:00Z",
+          "published_at": "2026-10-03T07:01:00Z",
+          "votes_count": 163,
           "featured": true,
           "topics": [
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
             },
             {
-              "id": "278",
-              "name": "E-Commerce",
-              "slug": "e-commerce"
-            },
-            {
-              "id": "570",
-              "name": "Business",
-              "slug": "business"
+              "id": "351",
+              "name": "iMessage Apps",
+              "slug": "imessage-apps"
             }
           ],
           "score_details": null
         },
         {
-          "id": "92b2ccfc",
-          "title": "AI资讯更新：Teachoo",
-          "title_en": "Teachoo",
-          "url": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "fae7e26a",
+          "title": "Karpathy的新玩法！40年前的",
+          "title_en": "Karpathy的新玩法！40年前的航空规范，救了爱说废话的AI",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI that helps you learn anything and everythin",
-          "summary_zh": "AI that helps you learn anything and everythin",
-          "publishedAt": "2026-10-02T07:01:00Z",
-          "published_at": "2026-10-02T07:01:00Z",
-          "votes_count": 204,
-          "featured": true,
-          "topics": [
-            {
-              "id": "204",
-              "name": "Education",
-              "slug": "education"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "782",
-              "name": "Online Learning",
-              "slug": "online-learning"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "Karpathy的新玩法！40年前的航空规范，救了爱说废话的AI",
+          "summary_zh": "Karpathy的新玩法！40年前的航空规范，救了爱说废话的AI",
+          "publishedAt": "2026-10-03T13:35:07Z",
+          "published_at": "2026-10-03T13:35:07Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
