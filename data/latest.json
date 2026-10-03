@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-03T13:35:43Z",
-  "generatedAt": "2026-10-03T13:35:43Z",
+  "generated_at": "2026-10-03T23:12:01Z",
+  "generatedAt": "2026-10-03T23:12:01Z",
   "days": 7,
-  "total": 6,
-  "count": 6,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "28b4f2bb",
@@ -22,7 +22,7 @@
       "summary_zh": "The AI agent delivery platform for FDEs and do",
       "publishedAt": "2026-10-03T07:01:00Z",
       "published_at": "2026-10-03T07:01:00Z",
-      "votes_count": 193,
+      "votes_count": 284,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Book flights and hotels through iMessage Stop",
       "publishedAt": "2026-10-03T07:01:00Z",
       "published_at": "2026-10-03T07:01:00Z",
-      "votes_count": 163,
+      "votes_count": 210,
       "featured": true,
       "topics": [
         {
@@ -77,6 +77,87 @@
           "id": "351",
           "name": "iMessage Apps",
           "slug": "imessage-apps"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "202e5c15",
+      "title": "产品更新：Prefer",
+      "title_en": "Prefer",
+      "url": "https://www.producthunt.com/products/prefer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/prefer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The execution layer for AEO AEO should not be",
+      "summary_zh": "The execution layer for AEO AEO should not be",
+      "publishedAt": "2026-10-03T07:01:00Z",
+      "published_at": "2026-10-03T07:01:00Z",
+      "votes_count": 162,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "231",
+          "name": "SEO",
+          "slug": "seo"
+        },
+        {
+          "id": "361",
+          "name": "Search",
+          "slug": "search"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "2a547381",
+      "title": "产品更新：Muse Gadgets",
+      "title_en": "Muse Gadgets",
+      "url": "https://www.producthunt.com/products/muse-22?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/muse-22?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Meta's open-source kit for building your own A",
+      "summary_zh": "Meta's open-source kit for building your own A",
+      "publishedAt": "2026-10-03T07:01:00Z",
+      "published_at": "2026-10-03T07:01:00Z",
+      "votes_count": 151,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "125",
+          "name": "Hardware",
+          "slug": "hardware"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
         }
       ],
       "score_details": null
@@ -162,8 +243,8 @@
       "rankingScore": 5.0,
       "summary": "Karpathy的新玩法！40年前的航空规范，救了爱说废话的AI",
       "summary_zh": "Karpathy的新玩法！40年前的航空规范，救了爱说废话的AI",
-      "publishedAt": "2026-10-03T13:35:07Z",
-      "published_at": "2026-10-03T13:35:07Z",
+      "publishedAt": "2026-10-03T23:10:53Z",
+      "published_at": "2026-10-03T23:10:53Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
