@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-04T14:14:31Z",
-  "generatedAt": "2026-10-04T14:14:31Z",
+  "generated_at": "2026-10-04T23:18:55Z",
+  "generatedAt": "2026-10-04T23:18:55Z",
   "days": 7,
-  "total": 6,
-  "count": 6,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "6e6b2434",
@@ -22,7 +22,7 @@
       "summary_zh": "One MCP for everything your agents need: apps,",
       "publishedAt": "2026-10-04T07:01:00Z",
       "published_at": "2026-10-04T07:01:00Z",
-      "votes_count": 193,
+      "votes_count": 276,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Google's frontier model for careful reasoning",
       "publishedAt": "2026-10-04T07:01:00Z",
       "published_at": "2026-10-04T07:01:00Z",
-      "votes_count": 146,
+      "votes_count": 232,
       "featured": true,
       "topics": [
         {
@@ -77,6 +77,82 @@
           "id": "611",
           "name": "Finance",
           "slug": "finance"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9aba4dff",
+      "title": "产品更新：Blume 2.0",
+      "title_en": "Blume 2.0",
+      "url": "https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The open-source docs framework for humans and",
+      "summary_zh": "The open-source docs framework for humans and",
+      "publishedAt": "2026-10-04T07:01:00Z",
+      "published_at": "2026-10-04T07:01:00Z",
+      "votes_count": 161,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "fcac7929",
+      "title": "产品更新：ChatGPT Space",
+      "title_en": "ChatGPT Space",
+      "url": "https://www.producthunt.com/products/chatgpt-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/chatgpt-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Create, collaborate, and build together with A",
+      "summary_zh": "Create, collaborate, and build together with A",
+      "publishedAt": "2026-10-04T07:01:00Z",
+      "published_at": "2026-10-04T07:01:00Z",
+      "votes_count": 142,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         }
       ],
       "score_details": null
@@ -162,8 +238,8 @@
       "rankingScore": 5.0,
       "summary": "AlphaGo核心作者：十年了，LLM还没学到那场棋局「神之一手」的精华",
       "summary_zh": "AlphaGo核心作者：十年了，LLM还没学到那场棋局「神之一手」的精华",
-      "publishedAt": "2026-10-04T14:14:08Z",
-      "published_at": "2026-10-04T14:14:08Z",
+      "publishedAt": "2026-10-04T23:18:38Z",
+      "published_at": "2026-10-04T23:18:38Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
