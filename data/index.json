@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-10-03T23:12:01Z",
-  "generatedAt": "2026-10-03T23:12:01Z",
+  "generated_at": "2026-10-04T14:14:31Z",
+  "generatedAt": "2026-10-04T14:14:31Z",
   "count": 145,
   "total": 145,
   "entries": [
     {
       "date": "2026-10-04",
-      "generated_at": "2026-10-03T23:12:01Z",
-      "generatedAt": "2026-10-03T23:12:01Z",
-      "total": 8,
+      "generated_at": "2026-10-04T14:14:31Z",
+      "generatedAt": "2026-10-04T14:14:31Z",
+      "total": 6,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "28b4f2bb",
-          "title": "产品更新：ZooWork",
-          "title_en": "ZooWork",
-          "url": "https://www.producthunt.com/products/zoowork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "6e6b2434",
+          "title": "产品更新：CoreSpeed",
+          "title_en": "CoreSpeed",
+          "url": "https://www.producthunt.com/products/corespeed?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/zoowork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/corespeed?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "The AI agent delivery platform for FDEs and do",
-          "summary_zh": "The AI agent delivery platform for FDEs and do",
-          "publishedAt": "2026-10-03T07:01:00Z",
-          "published_at": "2026-10-03T07:01:00Z",
-          "votes_count": 284,
+          "summary": "One MCP for everything your agents need: apps,",
+          "summary_zh": "One MCP for everything your agents need: apps,",
+          "publishedAt": "2026-10-04T07:01:00Z",
+          "published_at": "2026-10-04T07:01:00Z",
+          "votes_count": 193,
           "featured": true,
           "topics": [
             {
@@ -37,92 +37,76 @@
               "slug": "productivity"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "317e5b54",
-          "title": "产品更新：miso.com",
-          "title_en": "miso.com",
-          "url": "https://www.producthunt.com/products/miso-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/miso-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Book flights and hotels through iMessage Stop",
-          "summary_zh": "Book flights and hotels through iMessage Stop",
-          "publishedAt": "2026-10-03T07:01:00Z",
-          "published_at": "2026-10-03T07:01:00Z",
-          "votes_count": 210,
-          "featured": true,
-          "topics": [
-            {
-              "id": "60",
-              "name": "Messaging",
-              "slug": "messaging"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "351",
-              "name": "iMessage Apps",
-              "slug": "imessage-apps"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "202e5c15",
-          "title": "产品更新：Prefer",
-          "title_en": "Prefer",
-          "url": "https://www.producthunt.com/products/prefer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/prefer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The execution layer for AEO AEO should not be",
-          "summary_zh": "The execution layer for AEO AEO should not be",
-          "publishedAt": "2026-10-03T07:01:00Z",
-          "published_at": "2026-10-03T07:01:00Z",
-          "votes_count": 162,
-          "featured": true,
-          "topics": [
-            {
               "id": "164",
               "name": "Marketing",
               "slug": "marketing"
             },
             {
-              "id": "231",
-              "name": "SEO",
-              "slug": "seo"
-            },
-            {
-              "id": "361",
-              "name": "Search",
-              "slug": "search"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             }
           ],
+          "score_details": null
+        },
+        {
+          "id": "e8c4173d",
+          "title": "产品更新：Gemini 4 Argon",
+          "title_en": "Gemini 4 Argon",
+          "url": "https://www.producthunt.com/products/gemini-4-argon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gemini-4-argon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Google's frontier model for careful reasoning",
+          "summary_zh": "Google's frontier model for careful reasoning",
+          "publishedAt": "2026-10-04T07:01:00Z",
+          "published_at": "2026-10-04T07:01:00Z",
+          "votes_count": 146,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "259",
+              "name": "Legal",
+              "slug": "legal"
+            },
+            {
+              "id": "611",
+              "name": "Finance",
+              "slug": "finance"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9641f786",
+          "title": "AlphaGo核心作者：十年了，LL",
+          "title_en": "AlphaGo核心作者：十年了，LLM还没学到那场棋局「神之一手」的精华",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "AlphaGo核心作者：十年了，LLM还没学到那场棋局「神之一手」的精华",
+          "summary_zh": "AlphaGo核心作者：十年了，LLM还没学到那场棋局「神之一手」的精华",
+          "publishedAt": "2026-10-04T14:14:08Z",
+          "published_at": "2026-10-04T14:14:08Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
