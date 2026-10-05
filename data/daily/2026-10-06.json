@@ -1,0 +1,513 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-05T17:16:55Z",
+  "generatedAt": "2026-10-05T17:16:55Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "0d646817",
+          "title": "模型更新：FastRouter.ai",
+          "title_en": "FastRouter.ai",
+          "url": "https://www.producthunt.com/products/fastrouter-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fastrouter-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Route requests to the right LLM for cost, late",
+          "summary_zh": "Route requests to the right LLM for cost, late",
+          "publishedAt": "2026-10-05T07:01:00Z",
+          "published_at": "2026-10-05T07:01:00Z",
+          "votes_count": 265,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "dea6bfca",
+          "title": "产品更新：Spira Maxima",
+          "title_en": "Spira Maxima",
+          "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Video model that turns script into viral socia",
+          "summary_zh": "Video model that turns script into viral socia",
+          "publishedAt": "2026-10-05T07:01:00Z",
+          "published_at": "2026-10-05T07:01:00Z",
+          "votes_count": 264,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9cb7e400",
+          "title": "产品更新：Opengeni",
+          "title_en": "Opengeni",
+          "url": "https://www.producthunt.com/products/opengeni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/opengeni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Ship AI agents within minutes. Infrastructure",
+          "summary_zh": "Ship AI agents within minutes. Infrastructure",
+          "publishedAt": "2026-10-05T07:01:00Z",
+          "published_at": "2026-10-05T07:01:00Z",
+          "votes_count": 220,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "0e838696",
+          "title": "产品更新：Invofox Self Se",
+          "title_en": "Invofox Self Serve",
+          "url": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "99% accurate document extraction, SLA guarante",
+          "summary_zh": "99% accurate document extraction, SLA guarante",
+          "publishedAt": "2026-10-05T07:01:00Z",
+          "published_at": "2026-10-05T07:01:00Z",
+          "votes_count": 214,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "d0a21cd5",
+          "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/501700.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/501700.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus  henry 2026-10-05 10:50:46  来源：量子位   有改进就体验，没改进就重置，横竖不亏。   henry 发自 凹非寺 量子位 | 公众号 QbitAI  要我说，OpenAI（SI）已经疯掉了！专挑在放假的时候整活～ 刚刚，赛博义父、OpenAI Codex负责人Tibo放话：接下来的28天，每天都要二选一： 要么交付一项对大多数Codex/Work用户明显有用的改进，要么来一次完整的额度重置。  有一说一，额度重置很好理解，但“改进”这俩字嘛，就很灵性，它有可能是新发布，也可能就是简简单单地修Bug。 不过，先甭管每天端上来的是什么，至少按照这个说法，咱们起码有个保底： 有改进就体验，没改进就重置，横竖不亏。 而且如果你看得多了，就会发现，这种二选一已经成了Tibo的一套公式化打法。 凭良心说，对于用户来，新功能也好，额度重置也罢，总归都是好事。 只是重置得这么频繁，一来，额度未必用得完；二来，也难免让人嘀咕： OpenAI这么着急哄用户开心，到底是服务意识拉满，还是对自家产品没那么有底气了？",
+          "summary_zh": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus  henry 2026-10-05 10:50:46  来源：量子位   有改进就体验，没改进就重置，横竖不亏。   henry 发自 凹非寺 量子位 | 公众号 QbitAI  要我说，OpenAI（SI）已经疯掉了！专挑在放假的时候整活～ 刚刚，赛博义父、OpenAI Codex负责人Tibo放话：接下来的28天，每天都要二选一： 要么交付一项对大多数Codex/Work用户明显有用的改进，要么来一次完整的额度重置。  有一说一，额度重置很好理解，但“改进”这俩字嘛，就很灵性，它有可能是新发布，也可能就是简简单单地修Bug。 不过，先甭管每天端上来的是什么，至少按照这个说法，咱们起码有个保底： 有改进就体验，没改进就重置，横竖不亏。 而且如果你看得多了，就会发现，这种二选一已经成了Tibo的一套公式化打法。 凭良心说，对于用户来，新功能也好，额度重置也罢，总归都是好事。 只是重置得这么频繁，一来，额度未必用得完；二来，也难免让人嘀咕： OpenAI这么着急哄用户开心，到底是服务意识拉满，还是对自家产品没那么有底气了？",
+          "publishedAt": "2026-10-05T02:50:46Z",
+          "published_at": "2026-10-05T02:50:46Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "d3da2334",
+          "title": "刚刚，Hinton发了首篇RSI论文",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/501705.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/501705.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "刚刚，Hinton发了首篇RSI论文  梦瑶 2026-10-05 12:42:52  来源：量子位   AI已经开始真正进入「造下一代AI」的流水线  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  当AI开始参与研发下一代AI，人类可能已经站到「智能爆炸」前夜。  亏贼！最近超超超超火的递归自我改进（RSI），连AI教父辛顿都亲自下场了？？    咱诺贝尔物理学奖、图灵奖得主Hinton的首篇RSI的论文，上来就研究一个相当炸裂的问题： 如果AI开始大规模参与造下一代AI。 然后，下一代AI再回来继续加速研发。 这么一轮轮滚下去…会不会直接跑出一条智能爆炸曲线啊？       论文名叫《What if automating AI R&D triggers an intelligence explosion?》。 参与撰写论文的作者也堪称AI学界全明星阵容： 22位作者里，包括两位AI教父Geoffrey Hinton、Yoshua Bengio，强化学习先驱Andrew Barto，OpenAI首席科学家Jakub Pachocki等一众研究者。 这么多AI大牛凑在一起，讨",
+          "summary_zh": "刚刚，Hinton发了首篇RSI论文  梦瑶 2026-10-05 12:42:52  来源：量子位   AI已经开始真正进入「造下一代AI」的流水线  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  当AI开始参与研发下一代AI，人类可能已经站到「智能爆炸」前夜。  亏贼！最近超超超超火的递归自我改进（RSI），连AI教父辛顿都亲自下场了？？    咱诺贝尔物理学奖、图灵奖得主Hinton的首篇RSI的论文，上来就研究一个相当炸裂的问题： 如果AI开始大规模参与造下一代AI。 然后，下一代AI再回来继续加速研发。 这么一轮轮滚下去…会不会直接跑出一条智能爆炸曲线啊？       论文名叫《What if automating AI R&D triggers an intelligence explosion?》。 参与撰写论文的作者也堪称AI学界全明星阵容： 22位作者里，包括两位AI教父Geoffrey Hinton、Yoshua Bengio，强化学习先驱Andrew Barto，OpenAI首席科学家Jakub Pachocki等一众研究者。 这么多AI大牛凑在一起，讨",
+          "publishedAt": "2026-10-05T04:42:52Z",
+          "published_at": "2026-10-05T04:42:52Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "bf1c90c2",
+          "title": "刚刚，诺贝尔奖颁给光遗传学！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/501720.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/501720.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "刚刚，诺贝尔奖颁给光遗传学！  梦瑶 2026-10-05 18:37:01  来源：量子位   从绿藻里的光开关，到控制神经元  梦瑶 henry 发自 凹非寺 量子位 | 公众号 QbitAI 刚刚，2026年诺贝尔生理学或医学奖揭晓！ Karl Deisseroth、Peter Hegemann和Georg Nagel三位科学家共同获奖。 诺贝尔委员会给出的获奖理由是——表彰他们在光控离子通道和光遗传学方面的发现。     三位获奖者共同奠定的，是过去20年神经科学最重要的方法学突破之一：光遗传学（Optogenetics）。 其最核心的突破，是让科学家能够借助光，在毫秒级时间尺度上精准激活或抑制特定类型的神经元。 过去，研究人员往往只能观察到，某片脑区、某一群神经元，会在记忆形成、情绪变化、运动控制或某种行为出现时同步活跃。 光遗传学改变了这一点。 研究人员可以主动操控特定神经元的活动，再观察行为是否随之发生、减弱或消失，由此把很多问题从相关性观察推进到因果关系验证。 这套方法后来迅速成为研究神经回路的重要工具，并被广泛用于记忆、奖赏、成瘾、运动控制，以及多类神经和精神疾病机制",
+          "summary_zh": "刚刚，诺贝尔奖颁给光遗传学！  梦瑶 2026-10-05 18:37:01  来源：量子位   从绿藻里的光开关，到控制神经元  梦瑶 henry 发自 凹非寺 量子位 | 公众号 QbitAI 刚刚，2026年诺贝尔生理学或医学奖揭晓！ Karl Deisseroth、Peter Hegemann和Georg Nagel三位科学家共同获奖。 诺贝尔委员会给出的获奖理由是——表彰他们在光控离子通道和光遗传学方面的发现。     三位获奖者共同奠定的，是过去20年神经科学最重要的方法学突破之一：光遗传学（Optogenetics）。 其最核心的突破，是让科学家能够借助光，在毫秒级时间尺度上精准激活或抑制特定类型的神经元。 过去，研究人员往往只能观察到，某片脑区、某一群神经元，会在记忆形成、情绪变化、运动控制或某种行为出现时同步活跃。 光遗传学改变了这一点。 研究人员可以主动操控特定神经元的活动，再观察行为是否随之发生、减弱或消失，由此把很多问题从相关性观察推进到因果关系验证。 这套方法后来迅速成为研究神经回路的重要工具，并被广泛用于记忆、奖赏、成瘾、运动控制，以及多类神经和精神疾病机制",
+          "publishedAt": "2026-10-05T10:37:01Z",
+          "published_at": "2026-10-05T10:37:01Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "7a32777c",
+          "title": "CMAME | 面向功能梯度超材料力",
+          "title_en": "CMAME | 面向功能梯度超材料力学-声学协同逆向设计的兼容性感知形态学习方法",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "CMAME | 面向功能梯度超材料力学-声学协同逆向设计的兼容性感知形态学习方法",
+          "summary_zh": "CMAME | 面向功能梯度超材料力学-声学协同逆向设计的兼容性感知形态学习方法",
+          "publishedAt": "2026-10-05T17:16:33Z",
+          "published_at": "2026-10-05T17:16:33Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "0d646817",
+      "title": "模型更新：FastRouter.ai",
+      "title_en": "FastRouter.ai",
+      "url": "https://www.producthunt.com/products/fastrouter-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/fastrouter-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Route requests to the right LLM for cost, late",
+      "summary_zh": "Route requests to the right LLM for cost, late",
+      "publishedAt": "2026-10-05T07:01:00Z",
+      "published_at": "2026-10-05T07:01:00Z",
+      "votes_count": 265,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "dea6bfca",
+      "title": "产品更新：Spira Maxima",
+      "title_en": "Spira Maxima",
+      "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Video model that turns script into viral socia",
+      "summary_zh": "Video model that turns script into viral socia",
+      "publishedAt": "2026-10-05T07:01:00Z",
+      "published_at": "2026-10-05T07:01:00Z",
+      "votes_count": 264,
+      "featured": true,
+      "topics": [
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9cb7e400",
+      "title": "产品更新：Opengeni",
+      "title_en": "Opengeni",
+      "url": "https://www.producthunt.com/products/opengeni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/opengeni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Ship AI agents within minutes. Infrastructure",
+      "summary_zh": "Ship AI agents within minutes. Infrastructure",
+      "publishedAt": "2026-10-05T07:01:00Z",
+      "published_at": "2026-10-05T07:01:00Z",
+      "votes_count": 220,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "0e838696",
+      "title": "产品更新：Invofox Self Se",
+      "title_en": "Invofox Self Serve",
+      "url": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "99% accurate document extraction, SLA guarante",
+      "summary_zh": "99% accurate document extraction, SLA guarante",
+      "publishedAt": "2026-10-05T07:01:00Z",
+      "published_at": "2026-10-05T07:01:00Z",
+      "votes_count": 214,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d0a21cd5",
+      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/501700.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501700.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus  henry 2026-10-05 10:50:46  来源：量子位   有改进就体验，没改进就重置，横竖不亏。   henry 发自 凹非寺 量子位 | 公众号 QbitAI  要我说，OpenAI（SI）已经疯掉了！专挑在放假的时候整活～ 刚刚，赛博义父、OpenAI Codex负责人Tibo放话：接下来的28天，每天都要二选一： 要么交付一项对大多数Codex/Work用户明显有用的改进，要么来一次完整的额度重置。  有一说一，额度重置很好理解，但“改进”这俩字嘛，就很灵性，它有可能是新发布，也可能就是简简单单地修Bug。 不过，先甭管每天端上来的是什么，至少按照这个说法，咱们起码有个保底： 有改进就体验，没改进就重置，横竖不亏。 而且如果你看得多了，就会发现，这种二选一已经成了Tibo的一套公式化打法。 凭良心说，对于用户来，新功能也好，额度重置也罢，总归都是好事。 只是重置得这么频繁，一来，额度未必用得完；二来，也难免让人嘀咕： OpenAI这么着急哄用户开心，到底是服务意识拉满，还是对自家产品没那么有底气了？",
+      "summary_zh": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus  henry 2026-10-05 10:50:46  来源：量子位   有改进就体验，没改进就重置，横竖不亏。   henry 发自 凹非寺 量子位 | 公众号 QbitAI  要我说，OpenAI（SI）已经疯掉了！专挑在放假的时候整活～ 刚刚，赛博义父、OpenAI Codex负责人Tibo放话：接下来的28天，每天都要二选一： 要么交付一项对大多数Codex/Work用户明显有用的改进，要么来一次完整的额度重置。  有一说一，额度重置很好理解，但“改进”这俩字嘛，就很灵性，它有可能是新发布，也可能就是简简单单地修Bug。 不过，先甭管每天端上来的是什么，至少按照这个说法，咱们起码有个保底： 有改进就体验，没改进就重置，横竖不亏。 而且如果你看得多了，就会发现，这种二选一已经成了Tibo的一套公式化打法。 凭良心说，对于用户来，新功能也好，额度重置也罢，总归都是好事。 只是重置得这么频繁，一来，额度未必用得完；二来，也难免让人嘀咕： OpenAI这么着急哄用户开心，到底是服务意识拉满，还是对自家产品没那么有底气了？",
+      "publishedAt": "2026-10-05T02:50:46Z",
+      "published_at": "2026-10-05T02:50:46Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "d3da2334",
+      "title": "刚刚，Hinton发了首篇RSI论文",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/501705.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501705.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "刚刚，Hinton发了首篇RSI论文  梦瑶 2026-10-05 12:42:52  来源：量子位   AI已经开始真正进入「造下一代AI」的流水线  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  当AI开始参与研发下一代AI，人类可能已经站到「智能爆炸」前夜。  亏贼！最近超超超超火的递归自我改进（RSI），连AI教父辛顿都亲自下场了？？    咱诺贝尔物理学奖、图灵奖得主Hinton的首篇RSI的论文，上来就研究一个相当炸裂的问题： 如果AI开始大规模参与造下一代AI。 然后，下一代AI再回来继续加速研发。 这么一轮轮滚下去…会不会直接跑出一条智能爆炸曲线啊？       论文名叫《What if automating AI R&D triggers an intelligence explosion?》。 参与撰写论文的作者也堪称AI学界全明星阵容： 22位作者里，包括两位AI教父Geoffrey Hinton、Yoshua Bengio，强化学习先驱Andrew Barto，OpenAI首席科学家Jakub Pachocki等一众研究者。 这么多AI大牛凑在一起，讨",
+      "summary_zh": "刚刚，Hinton发了首篇RSI论文  梦瑶 2026-10-05 12:42:52  来源：量子位   AI已经开始真正进入「造下一代AI」的流水线  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  当AI开始参与研发下一代AI，人类可能已经站到「智能爆炸」前夜。  亏贼！最近超超超超火的递归自我改进（RSI），连AI教父辛顿都亲自下场了？？    咱诺贝尔物理学奖、图灵奖得主Hinton的首篇RSI的论文，上来就研究一个相当炸裂的问题： 如果AI开始大规模参与造下一代AI。 然后，下一代AI再回来继续加速研发。 这么一轮轮滚下去…会不会直接跑出一条智能爆炸曲线啊？       论文名叫《What if automating AI R&D triggers an intelligence explosion?》。 参与撰写论文的作者也堪称AI学界全明星阵容： 22位作者里，包括两位AI教父Geoffrey Hinton、Yoshua Bengio，强化学习先驱Andrew Barto，OpenAI首席科学家Jakub Pachocki等一众研究者。 这么多AI大牛凑在一起，讨",
+      "publishedAt": "2026-10-05T04:42:52Z",
+      "published_at": "2026-10-05T04:42:52Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "bf1c90c2",
+      "title": "刚刚，诺贝尔奖颁给光遗传学！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/501720.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501720.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "刚刚，诺贝尔奖颁给光遗传学！  梦瑶 2026-10-05 18:37:01  来源：量子位   从绿藻里的光开关，到控制神经元  梦瑶 henry 发自 凹非寺 量子位 | 公众号 QbitAI 刚刚，2026年诺贝尔生理学或医学奖揭晓！ Karl Deisseroth、Peter Hegemann和Georg Nagel三位科学家共同获奖。 诺贝尔委员会给出的获奖理由是——表彰他们在光控离子通道和光遗传学方面的发现。     三位获奖者共同奠定的，是过去20年神经科学最重要的方法学突破之一：光遗传学（Optogenetics）。 其最核心的突破，是让科学家能够借助光，在毫秒级时间尺度上精准激活或抑制特定类型的神经元。 过去，研究人员往往只能观察到，某片脑区、某一群神经元，会在记忆形成、情绪变化、运动控制或某种行为出现时同步活跃。 光遗传学改变了这一点。 研究人员可以主动操控特定神经元的活动，再观察行为是否随之发生、减弱或消失，由此把很多问题从相关性观察推进到因果关系验证。 这套方法后来迅速成为研究神经回路的重要工具，并被广泛用于记忆、奖赏、成瘾、运动控制，以及多类神经和精神疾病机制",
+      "summary_zh": "刚刚，诺贝尔奖颁给光遗传学！  梦瑶 2026-10-05 18:37:01  来源：量子位   从绿藻里的光开关，到控制神经元  梦瑶 henry 发自 凹非寺 量子位 | 公众号 QbitAI 刚刚，2026年诺贝尔生理学或医学奖揭晓！ Karl Deisseroth、Peter Hegemann和Georg Nagel三位科学家共同获奖。 诺贝尔委员会给出的获奖理由是——表彰他们在光控离子通道和光遗传学方面的发现。     三位获奖者共同奠定的，是过去20年神经科学最重要的方法学突破之一：光遗传学（Optogenetics）。 其最核心的突破，是让科学家能够借助光，在毫秒级时间尺度上精准激活或抑制特定类型的神经元。 过去，研究人员往往只能观察到，某片脑区、某一群神经元，会在记忆形成、情绪变化、运动控制或某种行为出现时同步活跃。 光遗传学改变了这一点。 研究人员可以主动操控特定神经元的活动，再观察行为是否随之发生、减弱或消失，由此把很多问题从相关性观察推进到因果关系验证。 这套方法后来迅速成为研究神经回路的重要工具，并被广泛用于记忆、奖赏、成瘾、运动控制，以及多类神经和精神疾病机制",
+      "publishedAt": "2026-10-05T10:37:01Z",
+      "published_at": "2026-10-05T10:37:01Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "7a32777c",
+      "title": "CMAME | 面向功能梯度超材料力",
+      "title_en": "CMAME | 面向功能梯度超材料力学-声学协同逆向设计的兼容性感知形态学习方法",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "CMAME | 面向功能梯度超材料力学-声学协同逆向设计的兼容性感知形态学习方法",
+      "summary_zh": "CMAME | 面向功能梯度超材料力学-声学协同逆向设计的兼容性感知形态学习方法",
+      "publishedAt": "2026-10-05T17:16:33Z",
+      "published_at": "2026-10-05T17:16:33Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

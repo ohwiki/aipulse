@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-10-04T23:18:55Z",
-  "generatedAt": "2026-10-04T23:18:55Z",
-  "count": 146,
-  "total": 146,
+  "generated_at": "2026-10-05T17:16:55Z",
+  "generatedAt": "2026-10-05T17:16:55Z",
+  "count": 147,
+  "total": 147,
   "entries": [
+    {
+      "date": "2026-10-06",
+      "generated_at": "2026-10-05T17:16:55Z",
+      "generatedAt": "2026-10-05T17:16:55Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "0d646817",
+          "title": "模型更新：FastRouter.ai",
+          "title_en": "FastRouter.ai",
+          "url": "https://www.producthunt.com/products/fastrouter-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fastrouter-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Route requests to the right LLM for cost, late",
+          "summary_zh": "Route requests to the right LLM for cost, late",
+          "publishedAt": "2026-10-05T07:01:00Z",
+          "published_at": "2026-10-05T07:01:00Z",
+          "votes_count": 265,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "dea6bfca",
+          "title": "产品更新：Spira Maxima",
+          "title_en": "Spira Maxima",
+          "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Video model that turns script into viral socia",
+          "summary_zh": "Video model that turns script into viral socia",
+          "publishedAt": "2026-10-05T07:01:00Z",
+          "published_at": "2026-10-05T07:01:00Z",
+          "votes_count": 264,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9cb7e400",
+          "title": "产品更新：Opengeni",
+          "title_en": "Opengeni",
+          "url": "https://www.producthunt.com/products/opengeni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/opengeni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Ship AI agents within minutes. Infrastructure",
+          "summary_zh": "Ship AI agents within minutes. Infrastructure",
+          "publishedAt": "2026-10-05T07:01:00Z",
+          "published_at": "2026-10-05T07:01:00Z",
+          "votes_count": 220,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-05",
       "generated_at": "2026-10-04T23:18:55Z",
