@@ -1,79 +1,36 @@
 {
-  "generated_at": "2026-10-06T01:20:57Z",
-  "generatedAt": "2026-10-06T01:20:57Z",
+  "generated_at": "2026-10-06T15:21:59Z",
+  "generatedAt": "2026-10-06T15:21:59Z",
   "count": 147,
   "total": 147,
   "entries": [
     {
       "date": "2026-10-06",
-      "generated_at": "2026-10-06T01:20:57Z",
-      "generatedAt": "2026-10-06T01:20:57Z",
+      "generated_at": "2026-10-06T15:21:59Z",
+      "generatedAt": "2026-10-06T15:21:59Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "dea6bfca",
-          "title": "产品更新：Spira Maxima",
-          "title_en": "Spira Maxima",
-          "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "d85c0850",
+          "title": "产品更新：Rill Browser",
+          "title_en": "Rill Browser",
+          "url": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Video model that turns script into viral socia",
-          "summary_zh": "Video model that turns script into viral socia",
-          "publishedAt": "2026-10-05T07:01:00Z",
-          "published_at": "2026-10-05T07:01:00Z",
-          "votes_count": 327,
+          "summary": "The browser where Claude Code and Codex work b",
+          "summary_zh": "The browser where Claude Code and Codex work b",
+          "publishedAt": "2026-10-06T07:01:00Z",
+          "published_at": "2026-10-06T07:01:00Z",
+          "votes_count": 289,
           "featured": true,
           "topics": [
-            {
-              "id": "104",
-              "name": "Social Media",
-              "slug": "social-media"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "0d646817",
-          "title": "模型更新：FastRouter.ai",
-          "title_en": "FastRouter.ai",
-          "url": "https://www.producthunt.com/products/fastrouter-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/fastrouter-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Route requests to the right LLM for cost, late",
-          "summary_zh": "Route requests to the right LLM for cost, late",
-          "publishedAt": "2026-10-05T07:01:00Z",
-          "published_at": "2026-10-05T07:01:00Z",
-          "votes_count": 308,
-          "featured": true,
-          "topics": [
-            {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
             {
               "id": "267",
               "name": "Developer Tools",
@@ -88,29 +45,29 @@
           "score_details": null
         },
         {
-          "id": "0e838696",
-          "title": "产品更新：Invofox Self Se",
-          "title_en": "Invofox Self Serve",
-          "url": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "6c22355e",
+          "title": "产品更新：AUDR by Chargeb",
+          "title_en": "AUDR by Chargebee",
+          "url": "https://www.producthunt.com/products/chargebee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/chargebee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "99% accurate document extraction, SLA guarante",
-          "summary_zh": "99% accurate document extraction, SLA guarante",
-          "publishedAt": "2026-10-05T07:01:00Z",
-          "published_at": "2026-10-05T07:01:00Z",
-          "votes_count": 272,
+          "summary": "Open standard for tracking agent run costs AUD",
+          "summary_zh": "Open standard for tracking agent run costs AUD",
+          "publishedAt": "2026-10-06T07:01:00Z",
+          "published_at": "2026-10-06T07:01:00Z",
+          "votes_count": 219,
           "featured": true,
           "topics": [
             {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
             },
             {
               "id": "267",
@@ -118,9 +75,52 @@
               "slug": "developer-tools"
             },
             {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cc05a5a8",
+          "title": "产品更新：OpenBot",
+          "title_en": "OpenBot",
+          "url": "https://www.producthunt.com/products/openbot-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openbot-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Grok Bot alternative: free, local, open-source",
+          "summary_zh": "Grok Bot alternative: free, local, open-source",
+          "publishedAt": "2026-10-06T07:01:00Z",
+          "published_at": "2026-10-06T07:01:00Z",
+          "votes_count": 213,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
             }
           ],
           "score_details": null
