@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
-  "generated_at": "2026-10-05T17:16:55Z",
-  "generatedAt": "2026-10-05T17:16:55Z",
+  "generated_at": "2026-10-06T01:20:57Z",
+  "generatedAt": "2026-10-06T01:20:57Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -9,6 +9,44 @@
       "category": "ai-products",
       "label": "产品发布/更新",
       "items": [
+        {
+          "id": "dea6bfca",
+          "title": "产品更新：Spira Maxima",
+          "title_en": "Spira Maxima",
+          "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Video model that turns script into viral socia",
+          "summary_zh": "Video model that turns script into viral socia",
+          "publishedAt": "2026-10-05T07:01:00Z",
+          "published_at": "2026-10-05T07:01:00Z",
+          "votes_count": 327,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
         {
           "id": "0d646817",
           "title": "模型更新：FastRouter.ai",
@@ -26,7 +64,7 @@
           "summary_zh": "Route requests to the right LLM for cost, late",
           "publishedAt": "2026-10-05T07:01:00Z",
           "published_at": "2026-10-05T07:01:00Z",
-          "votes_count": 265,
+          "votes_count": 308,
           "featured": true,
           "topics": [
             {
@@ -48,34 +86,34 @@
           "score_details": null
         },
         {
-          "id": "dea6bfca",
-          "title": "产品更新：Spira Maxima",
-          "title_en": "Spira Maxima",
-          "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "0e838696",
+          "title": "产品更新：Invofox Self Se",
+          "title_en": "Invofox Self Serve",
+          "url": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "Video model that turns script into viral socia",
-          "summary_zh": "Video model that turns script into viral socia",
+          "summary": "99% accurate document extraction, SLA guarante",
+          "summary_zh": "99% accurate document extraction, SLA guarante",
           "publishedAt": "2026-10-05T07:01:00Z",
           "published_at": "2026-10-05T07:01:00Z",
-          "votes_count": 264,
+          "votes_count": 272,
           "featured": true,
           "topics": [
             {
-              "id": "104",
-              "name": "Social Media",
-              "slug": "social-media"
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
             },
             {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
             {
               "id": "268",
@@ -102,7 +140,7 @@
           "summary_zh": "Ship AI agents within minutes. Infrastructure",
           "publishedAt": "2026-10-05T07:01:00Z",
           "published_at": "2026-10-05T07:01:00Z",
-          "votes_count": 220,
+          "votes_count": 265,
           "featured": true,
           "topics": [
             {
@@ -124,44 +162,6 @@
               "id": "272",
               "name": "GitHub",
               "slug": "github"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "0e838696",
-          "title": "产品更新：Invofox Self Se",
-          "title_en": "Invofox Self Serve",
-          "url": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "99% accurate document extraction, SLA guarante",
-          "summary_zh": "99% accurate document extraction, SLA guarante",
-          "publishedAt": "2026-10-05T07:01:00Z",
-          "published_at": "2026-10-05T07:01:00Z",
-          "votes_count": 214,
-          "featured": true,
-          "topics": [
-            {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
@@ -253,8 +253,8 @@
           "rankingScore": 5.0,
           "summary": "CMAME | 面向功能梯度超材料力学-声学协同逆向设计的兼容性感知形态学习方法",
           "summary_zh": "CMAME | 面向功能梯度超材料力学-声学协同逆向设计的兼容性感知形态学习方法",
-          "publishedAt": "2026-10-05T17:16:33Z",
-          "published_at": "2026-10-05T17:16:33Z",
+          "publishedAt": "2026-10-06T01:20:28Z",
+          "published_at": "2026-10-06T01:20:28Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -264,6 +264,44 @@
     }
   ],
   "items": [
+    {
+      "id": "dea6bfca",
+      "title": "产品更新：Spira Maxima",
+      "title_en": "Spira Maxima",
+      "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Video model that turns script into viral socia",
+      "summary_zh": "Video model that turns script into viral socia",
+      "publishedAt": "2026-10-05T07:01:00Z",
+      "published_at": "2026-10-05T07:01:00Z",
+      "votes_count": 327,
+      "featured": true,
+      "topics": [
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "0d646817",
       "title": "模型更新：FastRouter.ai",
@@ -281,7 +319,7 @@
       "summary_zh": "Route requests to the right LLM for cost, late",
       "publishedAt": "2026-10-05T07:01:00Z",
       "published_at": "2026-10-05T07:01:00Z",
-      "votes_count": 265,
+      "votes_count": 308,
       "featured": true,
       "topics": [
         {
@@ -303,34 +341,34 @@
       "score_details": null
     },
     {
-      "id": "dea6bfca",
-      "title": "产品更新：Spira Maxima",
-      "title_en": "Spira Maxima",
-      "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "0e838696",
+      "title": "产品更新：Invofox Self Se",
+      "title_en": "Invofox Self Serve",
+      "url": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Video model that turns script into viral socia",
-      "summary_zh": "Video model that turns script into viral socia",
+      "summary": "99% accurate document extraction, SLA guarante",
+      "summary_zh": "99% accurate document extraction, SLA guarante",
       "publishedAt": "2026-10-05T07:01:00Z",
       "published_at": "2026-10-05T07:01:00Z",
-      "votes_count": 264,
+      "votes_count": 272,
       "featured": true,
       "topics": [
         {
-          "id": "104",
-          "name": "Social Media",
-          "slug": "social-media"
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
         },
         {
-          "id": "164",
-          "name": "Marketing",
-          "slug": "marketing"
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
         },
         {
           "id": "268",
@@ -357,7 +395,7 @@
       "summary_zh": "Ship AI agents within minutes. Infrastructure",
       "publishedAt": "2026-10-05T07:01:00Z",
       "published_at": "2026-10-05T07:01:00Z",
-      "votes_count": 220,
+      "votes_count": 265,
       "featured": true,
       "topics": [
         {
@@ -379,44 +417,6 @@
           "id": "272",
           "name": "GitHub",
           "slug": "github"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "0e838696",
-      "title": "产品更新：Invofox Self Se",
-      "title_en": "Invofox Self Serve",
-      "url": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "99% accurate document extraction, SLA guarante",
-      "summary_zh": "99% accurate document extraction, SLA guarante",
-      "publishedAt": "2026-10-05T07:01:00Z",
-      "published_at": "2026-10-05T07:01:00Z",
-      "votes_count": 214,
-      "featured": true,
-      "topics": [
-        {
-          "id": "88",
-          "name": "API",
-          "slug": "api-1"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
         }
       ],
       "score_details": null
@@ -502,8 +502,8 @@
       "rankingScore": 5.0,
       "summary": "CMAME | 面向功能梯度超材料力学-声学协同逆向设计的兼容性感知形态学习方法",
       "summary_zh": "CMAME | 面向功能梯度超材料力学-声学协同逆向设计的兼容性感知形态学习方法",
-      "publishedAt": "2026-10-05T17:16:33Z",
-      "published_at": "2026-10-05T17:16:33Z",
+      "publishedAt": "2026-10-06T01:20:28Z",
+      "published_at": "2026-10-06T01:20:28Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
