@@ -1,0 +1,503 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-06T23:54:52Z",
+  "generatedAt": "2026-10-06T23:54:52Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "d85c0850",
+          "title": "产品更新：Rill Browser",
+          "title_en": "Rill Browser",
+          "url": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The browser where Claude Code and Codex work b",
+          "summary_zh": "The browser where Claude Code and Codex work b",
+          "publishedAt": "2026-10-06T07:01:00Z",
+          "published_at": "2026-10-06T07:01:00Z",
+          "votes_count": 356,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6c22355e",
+          "title": "产品更新：AUDR by Chargeb",
+          "title_en": "AUDR by Chargebee",
+          "url": "https://www.producthunt.com/products/chargebee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/chargebee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Open standard for tracking agent run costs AUD",
+          "summary_zh": "Open standard for tracking agent run costs AUD",
+          "publishedAt": "2026-10-06T07:01:00Z",
+          "published_at": "2026-10-06T07:01:00Z",
+          "votes_count": 284,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cc05a5a8",
+          "title": "产品更新：OpenBot",
+          "title_en": "OpenBot",
+          "url": "https://www.producthunt.com/products/openbot-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openbot-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Grok Bot alternative: free, local, open-source",
+          "summary_zh": "Grok Bot alternative: free, local, open-source",
+          "publishedAt": "2026-10-06T07:01:00Z",
+          "published_at": "2026-10-06T07:01:00Z",
+          "votes_count": 268,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ad20e80c",
+          "title": "产品更新：Incredible",
+          "title_en": "Incredible",
+          "url": "https://www.producthunt.com/products/incredible?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/incredible?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Vibe computing. Control your computer with you",
+          "summary_zh": "Vibe computing. Control your computer with you",
+          "publishedAt": "2026-10-06T07:01:00Z",
+          "published_at": "2026-10-06T07:01:00Z",
+          "votes_count": 241,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "303",
+              "name": "Menu Bar Apps",
+              "slug": "menu-bar-apps"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "38e9f19d",
+          "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/501726.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/501726.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "OpenAI「疯狂28天」首日，这都发了些啥啊…  林, 方舟 2026-10-06 14:45:40  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  事情真的有点荒诞。 赛博义父、Codex负责人Tibo昨天刚说完，接下来的28天里，他们每天要么交付一项Codex/Work的改进，要么来一次完整的额度重置。   今天，是Codex“疯狂28天”的第一天。Tibo兴冲冲地跑出来发推宣布：  GPT-6 Astra和GPT-6.1 Sol的默认推理速度提升了约50% 按理说官方发福利、模型大提速，评论区本该是一片欢腾。 结果点开评论区，直接给我整不会了。 清一色的翻车，无人在意提速，满屏都是网友的冷嘲热讽。。。 28天“惩罚游戏”第一天 事情的起因，是Tibo在X上发布的28天“军令状”。 全员重置额度成为了一种“惩罚”，发布体验改进成为了“免受惩罚的筹码”。（doge） 第一天，大家本以为怎么也得来个重磅炸弹，结果Tibo宣布的成果是：速度优化。。。 按照官方说法，无论是通过官方订阅，还是用Sign in with ChatGPT接入的第三方生态（比如O",
+          "summary_zh": "OpenAI「疯狂28天」首日，这都发了些啥啊…  林, 方舟 2026-10-06 14:45:40  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  事情真的有点荒诞。 赛博义父、Codex负责人Tibo昨天刚说完，接下来的28天里，他们每天要么交付一项Codex/Work的改进，要么来一次完整的额度重置。   今天，是Codex“疯狂28天”的第一天。Tibo兴冲冲地跑出来发推宣布：  GPT-6 Astra和GPT-6.1 Sol的默认推理速度提升了约50% 按理说官方发福利、模型大提速，评论区本该是一片欢腾。 结果点开评论区，直接给我整不会了。 清一色的翻车，无人在意提速，满屏都是网友的冷嘲热讽。。。 28天“惩罚游戏”第一天 事情的起因，是Tibo在X上发布的28天“军令状”。 全员重置额度成为了一种“惩罚”，发布体验改进成为了“免受惩罚的筹码”。（doge） 第一天，大家本以为怎么也得来个重磅炸弹，结果Tibo宣布的成果是：速度优化。。。 按照官方说法，无论是通过官方订阅，还是用Sign in with ChatGPT接入的第三方生态（比如O",
+          "publishedAt": "2026-10-06T06:45:40Z",
+          "published_at": "2026-10-06T06:45:40Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "32fad2b8",
+          "title": "不er，咋陶哲轩也成AI减速派了？？",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/501736.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/501736.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "不er，咋陶哲轩也成AI减速派了？？  林, 方舟 2026-10-06 15:59:17  来源：量子位    Jay 发自 凹非寺 量子位 | 公众号 QbitAI  不er，陶哲轩咋成AI减速派了？？ 是的，就是那个曾经最爱AI、逢人就安利AI工具的男人，一夜之间，漂移到了AI数学的对立面。。。 SAIR最新演讲，陶哲轩正式向模型公司开火：  简直是疯了，AI公司无休止地加速，却对那之后会发生什么一无所知。 必须慢下来。完全没理由这么快，一点理由都没有。  更关键的是，感受到危机的，远不止陶哲轩一人。 而且陶哲轩还算反应比较淡定的。 你的菲尔兹奖得主Cédric Villani，在看到OpenAI拿下千禧难题后，直接瘫软了。。。  我大受震撼…… 简直跟世界末日一样，这是数学界有史以来从未见过的浩劫。   但我往前翻了下发现，仅仅在3个月前，这哥们对AI的态度还是嗤之以鼻啊。  LLM根本没有智能，连洗车问题都会答错，只不过是统计学复读机。   洪水是一视同仁的。 面对光速迭代的大模型，即便站在人类智能金字塔尖的天才数学家们，也终于感受到了核弹爆炸的威力。 （bushi）  从拥",
+          "summary_zh": "不er，咋陶哲轩也成AI减速派了？？  林, 方舟 2026-10-06 15:59:17  来源：量子位    Jay 发自 凹非寺 量子位 | 公众号 QbitAI  不er，陶哲轩咋成AI减速派了？？ 是的，就是那个曾经最爱AI、逢人就安利AI工具的男人，一夜之间，漂移到了AI数学的对立面。。。 SAIR最新演讲，陶哲轩正式向模型公司开火：  简直是疯了，AI公司无休止地加速，却对那之后会发生什么一无所知。 必须慢下来。完全没理由这么快，一点理由都没有。  更关键的是，感受到危机的，远不止陶哲轩一人。 而且陶哲轩还算反应比较淡定的。 你的菲尔兹奖得主Cédric Villani，在看到OpenAI拿下千禧难题后，直接瘫软了。。。  我大受震撼…… 简直跟世界末日一样，这是数学界有史以来从未见过的浩劫。   但我往前翻了下发现，仅仅在3个月前，这哥们对AI的态度还是嗤之以鼻啊。  LLM根本没有智能，连洗车问题都会答错，只不过是统计学复读机。   洪水是一视同仁的。 面对光速迭代的大模型，即便站在人类智能金字塔尖的天才数学家们，也终于感受到了核弹爆炸的威力。 （bushi）  从拥",
+          "publishedAt": "2026-10-06T07:59:17Z",
+          "published_at": "2026-10-06T07:59:17Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "6039fbb0",
+          "title": "刚刚，诺贝尔物理奖一人独揽！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/501746.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/501746.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "刚刚，诺贝尔物理奖一人独揽！  Jay 2026-10-06 18:44:58  来源：量子位   南极洲甚至有一座高地以他名字命名  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 刚刚，诺贝尔物理学奖公布。 这一次没有任何并列，得主只有一个人，来自美国威斯康星大学麦迪逊分校的Francis Halzen（弗朗西斯·哈尔岑）。 如果你不知道这个大学，你应该也会知道它有个知名的中国科技互联网领域的校友—— 拼多多创始人，黄峥。  所以，Francis究竟为何获奖？ 官方是这么说的： 表彰他对南极冰立方中微子天文台（IceCube）的决定性贡献，以及对天体物理起源高能中微子的发现。 具体而言就是，他把南极地下2000多米深处的1立方公里纯净冰层，硬生生改造成一台捕捉宇宙幽灵粒子的超级望远镜。。。 如今，南极洲甚至有一座高地，就是以他名字命名的，叫做Halzen Mesa。 为什么要在南极深冰里抓“幽灵”？ 宇宙里一直有个困扰物理学界百年的终极谜题：那些能量高到离谱的宇宙射线，到底是从哪儿发射出来的？ 宇宙中存在天然的粒子加速器，喷射出的质子能量比地球实验室里最强加速器还要高出上百",
+          "summary_zh": "刚刚，诺贝尔物理奖一人独揽！  Jay 2026-10-06 18:44:58  来源：量子位   南极洲甚至有一座高地以他名字命名  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 刚刚，诺贝尔物理学奖公布。 这一次没有任何并列，得主只有一个人，来自美国威斯康星大学麦迪逊分校的Francis Halzen（弗朗西斯·哈尔岑）。 如果你不知道这个大学，你应该也会知道它有个知名的中国科技互联网领域的校友—— 拼多多创始人，黄峥。  所以，Francis究竟为何获奖？ 官方是这么说的： 表彰他对南极冰立方中微子天文台（IceCube）的决定性贡献，以及对天体物理起源高能中微子的发现。 具体而言就是，他把南极地下2000多米深处的1立方公里纯净冰层，硬生生改造成一台捕捉宇宙幽灵粒子的超级望远镜。。。 如今，南极洲甚至有一座高地，就是以他名字命名的，叫做Halzen Mesa。 为什么要在南极深冰里抓“幽灵”？ 宇宙里一直有个困扰物理学界百年的终极谜题：那些能量高到离谱的宇宙射线，到底是从哪儿发射出来的？ 宇宙中存在天然的粒子加速器，喷射出的质子能量比地球实验室里最强加速器还要高出上百",
+          "publishedAt": "2026-10-06T10:44:58Z",
+          "published_at": "2026-10-06T10:44:58Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "3a835551",
+          "title": "刚刚，诺贝尔物理学奖给到中微子天文学",
+          "title_en": "刚刚，诺贝尔物理学奖给到中微子天文学，IceCube之父Francis Halzen独享",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "刚刚，诺贝尔物理学奖给到中微子天文学，IceCube之父Francis Halzen独享",
+          "summary_zh": "刚刚，诺贝尔物理学奖给到中微子天文学，IceCube之父Francis Halzen独享",
+          "publishedAt": "2026-10-06T23:54:15Z",
+          "published_at": "2026-10-06T23:54:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "d85c0850",
+      "title": "产品更新：Rill Browser",
+      "title_en": "Rill Browser",
+      "url": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The browser where Claude Code and Codex work b",
+      "summary_zh": "The browser where Claude Code and Codex work b",
+      "publishedAt": "2026-10-06T07:01:00Z",
+      "published_at": "2026-10-06T07:01:00Z",
+      "votes_count": 356,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6c22355e",
+      "title": "产品更新：AUDR by Chargeb",
+      "title_en": "AUDR by Chargebee",
+      "url": "https://www.producthunt.com/products/chargebee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/chargebee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Open standard for tracking agent run costs AUD",
+      "summary_zh": "Open standard for tracking agent run costs AUD",
+      "publishedAt": "2026-10-06T07:01:00Z",
+      "published_at": "2026-10-06T07:01:00Z",
+      "votes_count": 284,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "cc05a5a8",
+      "title": "产品更新：OpenBot",
+      "title_en": "OpenBot",
+      "url": "https://www.producthunt.com/products/openbot-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openbot-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Grok Bot alternative: free, local, open-source",
+      "summary_zh": "Grok Bot alternative: free, local, open-source",
+      "publishedAt": "2026-10-06T07:01:00Z",
+      "published_at": "2026-10-06T07:01:00Z",
+      "votes_count": 268,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ad20e80c",
+      "title": "产品更新：Incredible",
+      "title_en": "Incredible",
+      "url": "https://www.producthunt.com/products/incredible?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/incredible?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Vibe computing. Control your computer with you",
+      "summary_zh": "Vibe computing. Control your computer with you",
+      "publishedAt": "2026-10-06T07:01:00Z",
+      "published_at": "2026-10-06T07:01:00Z",
+      "votes_count": 241,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "303",
+          "name": "Menu Bar Apps",
+          "slug": "menu-bar-apps"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "38e9f19d",
+      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/501726.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501726.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "OpenAI「疯狂28天」首日，这都发了些啥啊…  林, 方舟 2026-10-06 14:45:40  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  事情真的有点荒诞。 赛博义父、Codex负责人Tibo昨天刚说完，接下来的28天里，他们每天要么交付一项Codex/Work的改进，要么来一次完整的额度重置。   今天，是Codex“疯狂28天”的第一天。Tibo兴冲冲地跑出来发推宣布：  GPT-6 Astra和GPT-6.1 Sol的默认推理速度提升了约50% 按理说官方发福利、模型大提速，评论区本该是一片欢腾。 结果点开评论区，直接给我整不会了。 清一色的翻车，无人在意提速，满屏都是网友的冷嘲热讽。。。 28天“惩罚游戏”第一天 事情的起因，是Tibo在X上发布的28天“军令状”。 全员重置额度成为了一种“惩罚”，发布体验改进成为了“免受惩罚的筹码”。（doge） 第一天，大家本以为怎么也得来个重磅炸弹，结果Tibo宣布的成果是：速度优化。。。 按照官方说法，无论是通过官方订阅，还是用Sign in with ChatGPT接入的第三方生态（比如O",
+      "summary_zh": "OpenAI「疯狂28天」首日，这都发了些啥啊…  林, 方舟 2026-10-06 14:45:40  来源：量子位    林方舟 发自 凹非寺 量子位 | 公众号 QbitAI  事情真的有点荒诞。 赛博义父、Codex负责人Tibo昨天刚说完，接下来的28天里，他们每天要么交付一项Codex/Work的改进，要么来一次完整的额度重置。   今天，是Codex“疯狂28天”的第一天。Tibo兴冲冲地跑出来发推宣布：  GPT-6 Astra和GPT-6.1 Sol的默认推理速度提升了约50% 按理说官方发福利、模型大提速，评论区本该是一片欢腾。 结果点开评论区，直接给我整不会了。 清一色的翻车，无人在意提速，满屏都是网友的冷嘲热讽。。。 28天“惩罚游戏”第一天 事情的起因，是Tibo在X上发布的28天“军令状”。 全员重置额度成为了一种“惩罚”，发布体验改进成为了“免受惩罚的筹码”。（doge） 第一天，大家本以为怎么也得来个重磅炸弹，结果Tibo宣布的成果是：速度优化。。。 按照官方说法，无论是通过官方订阅，还是用Sign in with ChatGPT接入的第三方生态（比如O",
+      "publishedAt": "2026-10-06T06:45:40Z",
+      "published_at": "2026-10-06T06:45:40Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "32fad2b8",
+      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/501736.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501736.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "不er，咋陶哲轩也成AI减速派了？？  林, 方舟 2026-10-06 15:59:17  来源：量子位    Jay 发自 凹非寺 量子位 | 公众号 QbitAI  不er，陶哲轩咋成AI减速派了？？ 是的，就是那个曾经最爱AI、逢人就安利AI工具的男人，一夜之间，漂移到了AI数学的对立面。。。 SAIR最新演讲，陶哲轩正式向模型公司开火：  简直是疯了，AI公司无休止地加速，却对那之后会发生什么一无所知。 必须慢下来。完全没理由这么快，一点理由都没有。  更关键的是，感受到危机的，远不止陶哲轩一人。 而且陶哲轩还算反应比较淡定的。 你的菲尔兹奖得主Cédric Villani，在看到OpenAI拿下千禧难题后，直接瘫软了。。。  我大受震撼…… 简直跟世界末日一样，这是数学界有史以来从未见过的浩劫。   但我往前翻了下发现，仅仅在3个月前，这哥们对AI的态度还是嗤之以鼻啊。  LLM根本没有智能，连洗车问题都会答错，只不过是统计学复读机。   洪水是一视同仁的。 面对光速迭代的大模型，即便站在人类智能金字塔尖的天才数学家们，也终于感受到了核弹爆炸的威力。 （bushi）  从拥",
+      "summary_zh": "不er，咋陶哲轩也成AI减速派了？？  林, 方舟 2026-10-06 15:59:17  来源：量子位    Jay 发自 凹非寺 量子位 | 公众号 QbitAI  不er，陶哲轩咋成AI减速派了？？ 是的，就是那个曾经最爱AI、逢人就安利AI工具的男人，一夜之间，漂移到了AI数学的对立面。。。 SAIR最新演讲，陶哲轩正式向模型公司开火：  简直是疯了，AI公司无休止地加速，却对那之后会发生什么一无所知。 必须慢下来。完全没理由这么快，一点理由都没有。  更关键的是，感受到危机的，远不止陶哲轩一人。 而且陶哲轩还算反应比较淡定的。 你的菲尔兹奖得主Cédric Villani，在看到OpenAI拿下千禧难题后，直接瘫软了。。。  我大受震撼…… 简直跟世界末日一样，这是数学界有史以来从未见过的浩劫。   但我往前翻了下发现，仅仅在3个月前，这哥们对AI的态度还是嗤之以鼻啊。  LLM根本没有智能，连洗车问题都会答错，只不过是统计学复读机。   洪水是一视同仁的。 面对光速迭代的大模型，即便站在人类智能金字塔尖的天才数学家们，也终于感受到了核弹爆炸的威力。 （bushi）  从拥",
+      "publishedAt": "2026-10-06T07:59:17Z",
+      "published_at": "2026-10-06T07:59:17Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "6039fbb0",
+      "title": "刚刚，诺贝尔物理奖一人独揽！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/501746.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501746.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "刚刚，诺贝尔物理奖一人独揽！  Jay 2026-10-06 18:44:58  来源：量子位   南极洲甚至有一座高地以他名字命名  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 刚刚，诺贝尔物理学奖公布。 这一次没有任何并列，得主只有一个人，来自美国威斯康星大学麦迪逊分校的Francis Halzen（弗朗西斯·哈尔岑）。 如果你不知道这个大学，你应该也会知道它有个知名的中国科技互联网领域的校友—— 拼多多创始人，黄峥。  所以，Francis究竟为何获奖？ 官方是这么说的： 表彰他对南极冰立方中微子天文台（IceCube）的决定性贡献，以及对天体物理起源高能中微子的发现。 具体而言就是，他把南极地下2000多米深处的1立方公里纯净冰层，硬生生改造成一台捕捉宇宙幽灵粒子的超级望远镜。。。 如今，南极洲甚至有一座高地，就是以他名字命名的，叫做Halzen Mesa。 为什么要在南极深冰里抓“幽灵”？ 宇宙里一直有个困扰物理学界百年的终极谜题：那些能量高到离谱的宇宙射线，到底是从哪儿发射出来的？ 宇宙中存在天然的粒子加速器，喷射出的质子能量比地球实验室里最强加速器还要高出上百",
+      "summary_zh": "刚刚，诺贝尔物理奖一人独揽！  Jay 2026-10-06 18:44:58  来源：量子位   南极洲甚至有一座高地以他名字命名  Jay 发自 凹非寺 量子位 | 公众号 QbitAI 刚刚，诺贝尔物理学奖公布。 这一次没有任何并列，得主只有一个人，来自美国威斯康星大学麦迪逊分校的Francis Halzen（弗朗西斯·哈尔岑）。 如果你不知道这个大学，你应该也会知道它有个知名的中国科技互联网领域的校友—— 拼多多创始人，黄峥。  所以，Francis究竟为何获奖？ 官方是这么说的： 表彰他对南极冰立方中微子天文台（IceCube）的决定性贡献，以及对天体物理起源高能中微子的发现。 具体而言就是，他把南极地下2000多米深处的1立方公里纯净冰层，硬生生改造成一台捕捉宇宙幽灵粒子的超级望远镜。。。 如今，南极洲甚至有一座高地，就是以他名字命名的，叫做Halzen Mesa。 为什么要在南极深冰里抓“幽灵”？ 宇宙里一直有个困扰物理学界百年的终极谜题：那些能量高到离谱的宇宙射线，到底是从哪儿发射出来的？ 宇宙中存在天然的粒子加速器，喷射出的质子能量比地球实验室里最强加速器还要高出上百",
+      "publishedAt": "2026-10-06T10:44:58Z",
+      "published_at": "2026-10-06T10:44:58Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "3a835551",
+      "title": "刚刚，诺贝尔物理学奖给到中微子天文学",
+      "title_en": "刚刚，诺贝尔物理学奖给到中微子天文学，IceCube之父Francis Halzen独享",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "刚刚，诺贝尔物理学奖给到中微子天文学，IceCube之父Francis Halzen独享",
+      "summary_zh": "刚刚，诺贝尔物理学奖给到中微子天文学，IceCube之父Francis Halzen独享",
+      "publishedAt": "2026-10-06T23:54:15Z",
+      "published_at": "2026-10-06T23:54:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

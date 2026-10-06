@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T15:21:59Z",
-  "generatedAt": "2026-10-06T15:21:59Z",
+  "generated_at": "2026-10-06T23:54:52Z",
+  "generatedAt": "2026-10-06T23:54:52Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "The browser where Claude Code and Codex work b",
       "publishedAt": "2026-10-06T07:01:00Z",
       "published_at": "2026-10-06T07:01:00Z",
-      "votes_count": 289,
+      "votes_count": 356,
       "featured": true,
       "topics": [
         {
@@ -55,7 +55,7 @@
       "summary_zh": "Open standard for tracking agent run costs AUD",
       "publishedAt": "2026-10-06T07:01:00Z",
       "published_at": "2026-10-06T07:01:00Z",
-      "votes_count": 219,
+      "votes_count": 284,
       "featured": true,
       "topics": [
         {
@@ -93,7 +93,7 @@
       "summary_zh": "Grok Bot alternative: free, local, open-source",
       "publishedAt": "2026-10-06T07:01:00Z",
       "published_at": "2026-10-06T07:01:00Z",
-      "votes_count": 213,
+      "votes_count": 268,
       "featured": true,
       "topics": [
         {
@@ -136,7 +136,7 @@
       "summary_zh": "Vibe computing. Control your computer with you",
       "publishedAt": "2026-10-06T07:01:00Z",
       "published_at": "2026-10-06T07:01:00Z",
-      "votes_count": 191,
+      "votes_count": 241,
       "featured": true,
       "topics": [
         {
@@ -238,8 +238,8 @@
       "rankingScore": 5.0,
       "summary": "刚刚，诺贝尔物理学奖给到中微子天文学，IceCube之父Francis Halzen独享",
       "summary_zh": "刚刚，诺贝尔物理学奖给到中微子天文学，IceCube之父Francis Halzen独享",
-      "publishedAt": "2026-10-06T15:21:11Z",
-      "published_at": "2026-10-06T15:21:11Z",
+      "publishedAt": "2026-10-06T23:54:15Z",
+      "published_at": "2026-10-06T23:54:15Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
