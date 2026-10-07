@@ -1,105 +1,34 @@
 {
-  "generated_at": "2026-10-06T23:54:52Z",
-  "generatedAt": "2026-10-06T23:54:52Z",
+  "generated_at": "2026-10-07T15:41:35Z",
+  "generatedAt": "2026-10-07T15:41:35Z",
   "count": 148,
   "total": 148,
   "entries": [
     {
       "date": "2026-10-07",
-      "generated_at": "2026-10-06T23:54:52Z",
-      "generatedAt": "2026-10-06T23:54:52Z",
+      "generated_at": "2026-10-07T15:41:35Z",
+      "generatedAt": "2026-10-07T15:41:35Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "d85c0850",
-          "title": "产品更新：Rill Browser",
-          "title_en": "Rill Browser",
-          "url": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "6f9079e5",
+          "title": "产品更新：Velozity",
+          "title_en": "Velozity",
+          "url": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "The browser where Claude Code and Codex work b",
-          "summary_zh": "The browser where Claude Code and Codex work b",
-          "publishedAt": "2026-10-06T07:01:00Z",
-          "published_at": "2026-10-06T07:01:00Z",
-          "votes_count": 356,
-          "featured": true,
-          "topics": [
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "6c22355e",
-          "title": "产品更新：AUDR by Chargeb",
-          "title_en": "AUDR by Chargebee",
-          "url": "https://www.producthunt.com/products/chargebee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/chargebee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Open standard for tracking agent run costs AUD",
-          "summary_zh": "Open standard for tracking agent run costs AUD",
-          "publishedAt": "2026-10-06T07:01:00Z",
-          "published_at": "2026-10-06T07:01:00Z",
-          "votes_count": 284,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "cc05a5a8",
-          "title": "产品更新：OpenBot",
-          "title_en": "OpenBot",
-          "url": "https://www.producthunt.com/products/openbot-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/openbot-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Grok Bot alternative: free, local, open-source",
-          "summary_zh": "Grok Bot alternative: free, local, open-source",
-          "publishedAt": "2026-10-06T07:01:00Z",
-          "published_at": "2026-10-06T07:01:00Z",
-          "votes_count": 268,
+          "summary": "The workspace where your team and AI agents wo",
+          "summary_zh": "The workspace where your team and AI agents wo",
+          "publishedAt": "2026-10-07T07:01:00Z",
+          "published_at": "2026-10-07T07:01:00Z",
+          "votes_count": 314,
           "featured": true,
           "topics": [
             {
@@ -108,9 +37,42 @@
               "slug": "productivity"
             },
             {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1864a8a3",
+          "title": "产品更新：IrisGo for Solo",
+          "title_en": "IrisGo for Solopreneurs",
+          "url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI workflow automation: show it once, let it r",
+          "summary_zh": "AI workflow automation: show it once, let it r",
+          "publishedAt": "2026-10-07T07:01:00Z",
+          "published_at": "2026-10-07T07:01:00Z",
+          "votes_count": 299,
+          "featured": true,
+          "topics": [
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
             },
             {
               "id": "268",
@@ -118,9 +80,47 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c3ceca91",
+          "title": "产品更新：GenPage 3.0",
+          "title_en": "GenPage 3.0",
+          "url": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build, personalize, and optimize landing pages",
+          "summary_zh": "Build, personalize, and optimize landing pages",
+          "publishedAt": "2026-10-07T07:01:00Z",
+          "published_at": "2026-10-07T07:01:00Z",
+          "votes_count": 262,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
             }
           ],
           "score_details": null
