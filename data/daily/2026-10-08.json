@@ -1,0 +1,503 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T00:16:39Z",
+  "generatedAt": "2026-10-08T00:16:39Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "6f9079e5",
+          "title": "产品更新：Velozity",
+          "title_en": "Velozity",
+          "url": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The Multiplayer AI Office where your team and",
+          "summary_zh": "The Multiplayer AI Office where your team and",
+          "publishedAt": "2026-10-07T07:01:00Z",
+          "published_at": "2026-10-07T07:01:00Z",
+          "votes_count": 384,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c3ceca91",
+          "title": "产品更新：GenPage 3.0",
+          "title_en": "GenPage 3.0",
+          "url": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Build, personalize, and optimize landing pages",
+          "summary_zh": "Build, personalize, and optimize landing pages",
+          "publishedAt": "2026-10-07T07:01:00Z",
+          "published_at": "2026-10-07T07:01:00Z",
+          "votes_count": 374,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1864a8a3",
+          "title": "产品更新：IrisGo for Solo",
+          "title_en": "IrisGo for Solopreneurs",
+          "url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI workflow automation: show it once, let it r",
+          "summary_zh": "AI workflow automation: show it once, let it r",
+          "publishedAt": "2026-10-07T07:01:00Z",
+          "published_at": "2026-10-07T07:01:00Z",
+          "votes_count": 357,
+          "featured": true,
+          "topics": [
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e4f57d05",
+          "title": "产品更新：Databench by Al",
+          "title_en": "Databench by Alkera",
+          "url": "https://www.producthunt.com/products/alkera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/alkera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Open-source collaborative agentic workspace fo",
+          "summary_zh": "Open-source collaborative agentic workspace fo",
+          "publishedAt": "2026-10-07T07:01:00Z",
+          "published_at": "2026-10-07T07:01:00Z",
+          "votes_count": 258,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "773",
+              "name": "Data Science",
+              "slug": "data-science"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "f09ac017",
+          "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/501749.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/501749.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来  听雨 2026-10-07 09:05:13  来源：量子位   三位菲尔兹奖得主：不代表认可  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 刚刚，OpenAI往数学界扔了颗重磅炸弹—— 一口气公开722篇数学手稿，全部出自一个还没发布的内部模型。  这些手稿归成372组结果。据OpenAI介绍，模型此前一共尝试了约4000个研究问题，平均每项结果消耗的算力，约相当于ChatGPT Pro思考3小时。 论文、源码、部分Lean证明，被一股脑传上了GitHub。 翻开目录，准黎曼猜想、霍奇猜想、BSD猜想、π的无理性指数……一个比一个名头大。 光是千禧难题，就沾上了三道。 再往下翻，还有自旋玻璃、量子磁性、自由群因子、相对论性弗拉索夫—麦克斯韦方程……数论、代数几何、理论计算机、统计力学，17个方向铺得满满当当。  一夜之间，数学论文堆成了山。 数学家们看了直呼：这谁读得完啊……  722篇手稿里，究竟写了什么？ 点开GitHub仓库，先看到一份巨巨巨长的目录。 有的组只有一篇主论文，有的还附了另一",
+          "summary_zh": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来  听雨 2026-10-07 09:05:13  来源：量子位   三位菲尔兹奖得主：不代表认可  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 刚刚，OpenAI往数学界扔了颗重磅炸弹—— 一口气公开722篇数学手稿，全部出自一个还没发布的内部模型。  这些手稿归成372组结果。据OpenAI介绍，模型此前一共尝试了约4000个研究问题，平均每项结果消耗的算力，约相当于ChatGPT Pro思考3小时。 论文、源码、部分Lean证明，被一股脑传上了GitHub。 翻开目录，准黎曼猜想、霍奇猜想、BSD猜想、π的无理性指数……一个比一个名头大。 光是千禧难题，就沾上了三道。 再往下翻，还有自旋玻璃、量子磁性、自由群因子、相对论性弗拉索夫—麦克斯韦方程……数论、代数几何、理论计算机、统计力学，17个方向铺得满满当当。  一夜之间，数学论文堆成了山。 数学家们看了直呼：这谁读得完啊……  722篇手稿里，究竟写了什么？ 点开GitHub仓库，先看到一份巨巨巨长的目录。 有的组只有一篇主论文，有的还附了另一",
+          "publishedAt": "2026-10-07T01:05:13Z",
+          "published_at": "2026-10-07T01:05:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "40108184",
+          "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/501791.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/501791.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司  量子位的朋友们 2026-10-07 14:39:36  来源：量子位   在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜  加州硅谷，2026 年 10 月 5 日 —— 全球领先的 AI 3D 多模态模型公司 Meshy 今日宣布，公司入选由硅谷风险投资机构 Andreessen Horowitz（a16z）发布的“消费级 AI 应用月收入Top 50”榜单。Meshy 位列第 31 名，是榜单上唯一一家 AI 3D 公司，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等企业共同上榜。  该榜单今日随 a16z 第七版《百强AI消费者应用》报告一同发布。这份报告是观察消费级 AI 市场最受关注的风向标之一。以往几版报告均按网站访问量和移动端活跃度为 AI 产品排名，本版首次新增收入榜单，依据数据分析公",
+          "summary_zh": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司  量子位的朋友们 2026-10-07 14:39:36  来源：量子位   在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜  加州硅谷，2026 年 10 月 5 日 —— 全球领先的 AI 3D 多模态模型公司 Meshy 今日宣布，公司入选由硅谷风险投资机构 Andreessen Horowitz（a16z）发布的“消费级 AI 应用月收入Top 50”榜单。Meshy 位列第 31 名，是榜单上唯一一家 AI 3D 公司，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等企业共同上榜。  该榜单今日随 a16z 第七版《百强AI消费者应用》报告一同发布。这份报告是观察消费级 AI 市场最受关注的风向标之一。以往几版报告均按网站访问量和移动端活跃度为 AI 产品排名，本版首次新增收入榜单，依据数据分析公",
+          "publishedAt": "2026-10-07T06:39:36Z",
+          "published_at": "2026-10-07T06:39:36Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "04dfc0bf",
+          "title": "晕…这年头还有说人话的AI不",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/501796.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/501796.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "晕…这年头还有说人话的AI不  衡宇 2026-10-07 16:41:13  来源：量子位   Jay发自 凹非寺 量子位 | 公众号QbitAI 不er，只有我一个人看不懂AI现在的说话方式了吗？ 早上起来打开Claude，美美验收昨晚的Vibe Coding成果，结果差点没两眼一黑晕死过去。 账本15/15全绿、单腿哑火、同波大删除…… ？？？ 啥玩意儿啊，这还是中文吗？？ 本来以为是自己智商有问题，跟不上节奏了，结果在网上逛了一圈后发现，原来大家都这样。 天下苦「不言人语」久矣，到处都是Fable的吐槽帖。 有对代码底座不满意，要换皮子的。    有刚从备忘录回来，马上就在终端窗口原地生产的。    甚至验尸官都整出来了，要来代码库抓僵尸，生化危机这一块。    △图源：小红书@Yusenthebot 力竭了。 如果你是来自古代的穿越者，不管是秦朝、唐朝还是哪个朝—— 欢迎。 全球AI表达能力集体倒退两千年，我们重新进入文言文纪元了。        AI古语鉴赏 这是前段时间在全球开发者身上每日上演的惨案。 无论是Fable还是Sol还是其他模型，但凡和Coding沾上一点关系",
+          "summary_zh": "晕…这年头还有说人话的AI不  衡宇 2026-10-07 16:41:13  来源：量子位   Jay发自 凹非寺 量子位 | 公众号QbitAI 不er，只有我一个人看不懂AI现在的说话方式了吗？ 早上起来打开Claude，美美验收昨晚的Vibe Coding成果，结果差点没两眼一黑晕死过去。 账本15/15全绿、单腿哑火、同波大删除…… ？？？ 啥玩意儿啊，这还是中文吗？？ 本来以为是自己智商有问题，跟不上节奏了，结果在网上逛了一圈后发现，原来大家都这样。 天下苦「不言人语」久矣，到处都是Fable的吐槽帖。 有对代码底座不满意，要换皮子的。    有刚从备忘录回来，马上就在终端窗口原地生产的。    甚至验尸官都整出来了，要来代码库抓僵尸，生化危机这一块。    △图源：小红书@Yusenthebot 力竭了。 如果你是来自古代的穿越者，不管是秦朝、唐朝还是哪个朝—— 欢迎。 全球AI表达能力集体倒退两千年，我们重新进入文言文纪元了。        AI古语鉴赏 这是前段时间在全球开发者身上每日上演的惨案。 无论是Fable还是Sol还是其他模型，但凡和Coding沾上一点关系",
+          "publishedAt": "2026-10-07T08:41:13Z",
+          "published_at": "2026-10-07T08:41:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "33630b71",
+          "title": "OpenAI突破纳维-斯托克斯方程之",
+          "title_en": "OpenAI突破纳维-斯托克斯方程之后，物理学中发生了什么变化",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "OpenAI突破纳维-斯托克斯方程之后，物理学中发生了什么变化",
+          "summary_zh": "OpenAI突破纳维-斯托克斯方程之后，物理学中发生了什么变化",
+          "publishedAt": "2026-10-08T00:16:07Z",
+          "published_at": "2026-10-08T00:16:07Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "6f9079e5",
+      "title": "产品更新：Velozity",
+      "title_en": "Velozity",
+      "url": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The Multiplayer AI Office where your team and",
+      "summary_zh": "The Multiplayer AI Office where your team and",
+      "publishedAt": "2026-10-07T07:01:00Z",
+      "published_at": "2026-10-07T07:01:00Z",
+      "votes_count": 384,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "252",
+          "name": "Meetings",
+          "slug": "meetings"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "c3ceca91",
+      "title": "产品更新：GenPage 3.0",
+      "title_en": "GenPage 3.0",
+      "url": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build, personalize, and optimize landing pages",
+      "summary_zh": "Build, personalize, and optimize landing pages",
+      "publishedAt": "2026-10-07T07:01:00Z",
+      "published_at": "2026-10-07T07:01:00Z",
+      "votes_count": 374,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "243",
+          "name": "Website Builder",
+          "slug": "website-builder"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1864a8a3",
+      "title": "产品更新：IrisGo for Solo",
+      "title_en": "IrisGo for Solopreneurs",
+      "url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI workflow automation: show it once, let it r",
+      "summary_zh": "AI workflow automation: show it once, let it r",
+      "publishedAt": "2026-10-07T07:01:00Z",
+      "published_at": "2026-10-07T07:01:00Z",
+      "votes_count": 357,
+      "featured": true,
+      "topics": [
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "282",
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "e4f57d05",
+      "title": "产品更新：Databench by Al",
+      "title_en": "Databench by Alkera",
+      "url": "https://www.producthunt.com/products/alkera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/alkera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Open-source collaborative agentic workspace fo",
+      "summary_zh": "Open-source collaborative agentic workspace fo",
+      "publishedAt": "2026-10-07T07:01:00Z",
+      "published_at": "2026-10-07T07:01:00Z",
+      "votes_count": 258,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "773",
+          "name": "Data Science",
+          "slug": "data-science"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "f09ac017",
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/501749.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501749.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来  听雨 2026-10-07 09:05:13  来源：量子位   三位菲尔兹奖得主：不代表认可  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 刚刚，OpenAI往数学界扔了颗重磅炸弹—— 一口气公开722篇数学手稿，全部出自一个还没发布的内部模型。  这些手稿归成372组结果。据OpenAI介绍，模型此前一共尝试了约4000个研究问题，平均每项结果消耗的算力，约相当于ChatGPT Pro思考3小时。 论文、源码、部分Lean证明，被一股脑传上了GitHub。 翻开目录，准黎曼猜想、霍奇猜想、BSD猜想、π的无理性指数……一个比一个名头大。 光是千禧难题，就沾上了三道。 再往下翻，还有自旋玻璃、量子磁性、自由群因子、相对论性弗拉索夫—麦克斯韦方程……数论、代数几何、理论计算机、统计力学，17个方向铺得满满当当。  一夜之间，数学论文堆成了山。 数学家们看了直呼：这谁读得完啊……  722篇手稿里，究竟写了什么？ 点开GitHub仓库，先看到一份巨巨巨长的目录。 有的组只有一篇主论文，有的还附了另一",
+      "summary_zh": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来  听雨 2026-10-07 09:05:13  来源：量子位   三位菲尔兹奖得主：不代表认可  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 刚刚，OpenAI往数学界扔了颗重磅炸弹—— 一口气公开722篇数学手稿，全部出自一个还没发布的内部模型。  这些手稿归成372组结果。据OpenAI介绍，模型此前一共尝试了约4000个研究问题，平均每项结果消耗的算力，约相当于ChatGPT Pro思考3小时。 论文、源码、部分Lean证明，被一股脑传上了GitHub。 翻开目录，准黎曼猜想、霍奇猜想、BSD猜想、π的无理性指数……一个比一个名头大。 光是千禧难题，就沾上了三道。 再往下翻，还有自旋玻璃、量子磁性、自由群因子、相对论性弗拉索夫—麦克斯韦方程……数论、代数几何、理论计算机、统计力学，17个方向铺得满满当当。  一夜之间，数学论文堆成了山。 数学家们看了直呼：这谁读得完啊……  722篇手稿里，究竟写了什么？ 点开GitHub仓库，先看到一份巨巨巨长的目录。 有的组只有一篇主论文，有的还附了另一",
+      "publishedAt": "2026-10-07T01:05:13Z",
+      "published_at": "2026-10-07T01:05:13Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "40108184",
+      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/501791.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501791.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司  量子位的朋友们 2026-10-07 14:39:36  来源：量子位   在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜  加州硅谷，2026 年 10 月 5 日 —— 全球领先的 AI 3D 多模态模型公司 Meshy 今日宣布，公司入选由硅谷风险投资机构 Andreessen Horowitz（a16z）发布的“消费级 AI 应用月收入Top 50”榜单。Meshy 位列第 31 名，是榜单上唯一一家 AI 3D 公司，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等企业共同上榜。  该榜单今日随 a16z 第七版《百强AI消费者应用》报告一同发布。这份报告是观察消费级 AI 市场最受关注的风向标之一。以往几版报告均按网站访问量和移动端活跃度为 AI 产品排名，本版首次新增收入榜单，依据数据分析公",
+      "summary_zh": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司  量子位的朋友们 2026-10-07 14:39:36  来源：量子位   在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜  加州硅谷，2026 年 10 月 5 日 —— 全球领先的 AI 3D 多模态模型公司 Meshy 今日宣布，公司入选由硅谷风险投资机构 Andreessen Horowitz（a16z）发布的“消费级 AI 应用月收入Top 50”榜单。Meshy 位列第 31 名，是榜单上唯一一家 AI 3D 公司，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等企业共同上榜。  该榜单今日随 a16z 第七版《百强AI消费者应用》报告一同发布。这份报告是观察消费级 AI 市场最受关注的风向标之一。以往几版报告均按网站访问量和移动端活跃度为 AI 产品排名，本版首次新增收入榜单，依据数据分析公",
+      "publishedAt": "2026-10-07T06:39:36Z",
+      "published_at": "2026-10-07T06:39:36Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "04dfc0bf",
+      "title": "晕…这年头还有说人话的AI不",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/501796.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501796.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "晕…这年头还有说人话的AI不  衡宇 2026-10-07 16:41:13  来源：量子位   Jay发自 凹非寺 量子位 | 公众号QbitAI 不er，只有我一个人看不懂AI现在的说话方式了吗？ 早上起来打开Claude，美美验收昨晚的Vibe Coding成果，结果差点没两眼一黑晕死过去。 账本15/15全绿、单腿哑火、同波大删除…… ？？？ 啥玩意儿啊，这还是中文吗？？ 本来以为是自己智商有问题，跟不上节奏了，结果在网上逛了一圈后发现，原来大家都这样。 天下苦「不言人语」久矣，到处都是Fable的吐槽帖。 有对代码底座不满意，要换皮子的。    有刚从备忘录回来，马上就在终端窗口原地生产的。    甚至验尸官都整出来了，要来代码库抓僵尸，生化危机这一块。    △图源：小红书@Yusenthebot 力竭了。 如果你是来自古代的穿越者，不管是秦朝、唐朝还是哪个朝—— 欢迎。 全球AI表达能力集体倒退两千年，我们重新进入文言文纪元了。        AI古语鉴赏 这是前段时间在全球开发者身上每日上演的惨案。 无论是Fable还是Sol还是其他模型，但凡和Coding沾上一点关系",
+      "summary_zh": "晕…这年头还有说人话的AI不  衡宇 2026-10-07 16:41:13  来源：量子位   Jay发自 凹非寺 量子位 | 公众号QbitAI 不er，只有我一个人看不懂AI现在的说话方式了吗？ 早上起来打开Claude，美美验收昨晚的Vibe Coding成果，结果差点没两眼一黑晕死过去。 账本15/15全绿、单腿哑火、同波大删除…… ？？？ 啥玩意儿啊，这还是中文吗？？ 本来以为是自己智商有问题，跟不上节奏了，结果在网上逛了一圈后发现，原来大家都这样。 天下苦「不言人语」久矣，到处都是Fable的吐槽帖。 有对代码底座不满意，要换皮子的。    有刚从备忘录回来，马上就在终端窗口原地生产的。    甚至验尸官都整出来了，要来代码库抓僵尸，生化危机这一块。    △图源：小红书@Yusenthebot 力竭了。 如果你是来自古代的穿越者，不管是秦朝、唐朝还是哪个朝—— 欢迎。 全球AI表达能力集体倒退两千年，我们重新进入文言文纪元了。        AI古语鉴赏 这是前段时间在全球开发者身上每日上演的惨案。 无论是Fable还是Sol还是其他模型，但凡和Coding沾上一点关系",
+      "publishedAt": "2026-10-07T08:41:13Z",
+      "published_at": "2026-10-07T08:41:13Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "33630b71",
+      "title": "OpenAI突破纳维-斯托克斯方程之",
+      "title_en": "OpenAI突破纳维-斯托克斯方程之后，物理学中发生了什么变化",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "OpenAI突破纳维-斯托克斯方程之后，物理学中发生了什么变化",
+      "summary_zh": "OpenAI突破纳维-斯托克斯方程之后，物理学中发生了什么变化",
+      "publishedAt": "2026-10-08T00:16:07Z",
+      "published_at": "2026-10-08T00:16:07Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

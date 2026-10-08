@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T15:41:35Z",
-  "generatedAt": "2026-10-07T15:41:35Z",
+  "generated_at": "2026-10-08T00:16:39Z",
+  "generatedAt": "2026-10-08T00:16:39Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -18,11 +18,11 @@
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "The workspace where your team and AI agents wo",
-      "summary_zh": "The workspace where your team and AI agents wo",
+      "summary": "The Multiplayer AI Office where your team and",
+      "summary_zh": "The Multiplayer AI Office where your team and",
       "publishedAt": "2026-10-07T07:01:00Z",
       "published_at": "2026-10-07T07:01:00Z",
-      "votes_count": 314,
+      "votes_count": 384,
       "featured": true,
       "topics": [
         {
@@ -44,44 +44,6 @@
       "score_details": null
     },
     {
-      "id": "1864a8a3",
-      "title": "产品更新：IrisGo for Solo",
-      "title_en": "IrisGo for Solopreneurs",
-      "url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "AI workflow automation: show it once, let it r",
-      "summary_zh": "AI workflow automation: show it once, let it r",
-      "publishedAt": "2026-10-07T07:01:00Z",
-      "published_at": "2026-10-07T07:01:00Z",
-      "votes_count": 299,
-      "featured": true,
-      "topics": [
-        {
-          "id": "48",
-          "name": "Task Management",
-          "slug": "task-management"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "282",
-          "name": "Virtual Assistants",
-          "slug": "virtual-assistants"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "c3ceca91",
       "title": "产品更新：GenPage 3.0",
       "title_en": "GenPage 3.0",
@@ -98,7 +60,7 @@
       "summary_zh": "Build, personalize, and optimize landing pages",
       "publishedAt": "2026-10-07T07:01:00Z",
       "published_at": "2026-10-07T07:01:00Z",
-      "votes_count": 262,
+      "votes_count": 374,
       "featured": true,
       "topics": [
         {
@@ -120,6 +82,44 @@
       "score_details": null
     },
     {
+      "id": "1864a8a3",
+      "title": "产品更新：IrisGo for Solo",
+      "title_en": "IrisGo for Solopreneurs",
+      "url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI workflow automation: show it once, let it r",
+      "summary_zh": "AI workflow automation: show it once, let it r",
+      "publishedAt": "2026-10-07T07:01:00Z",
+      "published_at": "2026-10-07T07:01:00Z",
+      "votes_count": 357,
+      "featured": true,
+      "topics": [
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "282",
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
+        }
+      ],
+      "score_details": null
+    },
+    {
       "id": "e4f57d05",
       "title": "产品更新：Databench by Al",
       "title_en": "Databench by Alkera",
@@ -136,7 +136,7 @@
       "summary_zh": "Open-source collaborative agentic workspace fo",
       "publishedAt": "2026-10-07T07:01:00Z",
       "published_at": "2026-10-07T07:01:00Z",
-      "votes_count": 223,
+      "votes_count": 258,
       "featured": true,
       "topics": [
         {
@@ -238,8 +238,8 @@
       "rankingScore": 5.0,
       "summary": "OpenAI突破纳维-斯托克斯方程之后，物理学中发生了什么变化",
       "summary_zh": "OpenAI突破纳维-斯托克斯方程之后，物理学中发生了什么变化",
-      "publishedAt": "2026-10-07T15:40:28Z",
-      "published_at": "2026-10-07T15:40:28Z",
+      "publishedAt": "2026-10-08T00:16:07Z",
+      "published_at": "2026-10-08T00:16:07Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

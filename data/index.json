@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-10-07T15:41:35Z",
-  "generatedAt": "2026-10-07T15:41:35Z",
-  "count": 148,
-  "total": 148,
+  "generated_at": "2026-10-08T00:16:39Z",
+  "generatedAt": "2026-10-08T00:16:39Z",
+  "count": 149,
+  "total": 149,
   "entries": [
+    {
+      "date": "2026-10-08",
+      "generated_at": "2026-10-08T00:16:39Z",
+      "generatedAt": "2026-10-08T00:16:39Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "6f9079e5",
+          "title": "产品更新：Velozity",
+          "title_en": "Velozity",
+          "url": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The Multiplayer AI Office where your team and",
+          "summary_zh": "The Multiplayer AI Office where your team and",
+          "publishedAt": "2026-10-07T07:01:00Z",
+          "published_at": "2026-10-07T07:01:00Z",
+          "votes_count": 384,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c3ceca91",
+          "title": "产品更新：GenPage 3.0",
+          "title_en": "GenPage 3.0",
+          "url": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build, personalize, and optimize landing pages",
+          "summary_zh": "Build, personalize, and optimize landing pages",
+          "publishedAt": "2026-10-07T07:01:00Z",
+          "published_at": "2026-10-07T07:01:00Z",
+          "votes_count": 374,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1864a8a3",
+          "title": "产品更新：IrisGo for Solo",
+          "title_en": "IrisGo for Solopreneurs",
+          "url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI workflow automation: show it once, let it r",
+          "summary_zh": "AI workflow automation: show it once, let it r",
+          "publishedAt": "2026-10-07T07:01:00Z",
+          "published_at": "2026-10-07T07:01:00Z",
+          "votes_count": 357,
+          "featured": true,
+          "topics": [
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "generated_at": "2026-10-07T15:41:35Z",
