@@ -1,110 +1,34 @@
 {
-  "generated_at": "2026-10-08T00:16:39Z",
-  "generatedAt": "2026-10-08T00:16:39Z",
+  "generated_at": "2026-10-08T15:47:01Z",
+  "generatedAt": "2026-10-08T15:47:01Z",
   "count": 149,
   "total": 149,
   "entries": [
     {
       "date": "2026-10-08",
-      "generated_at": "2026-10-08T00:16:39Z",
-      "generatedAt": "2026-10-08T00:16:39Z",
+      "generated_at": "2026-10-08T15:47:01Z",
+      "generatedAt": "2026-10-08T15:47:01Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "6f9079e5",
-          "title": "产品更新：Velozity",
-          "title_en": "Velozity",
-          "url": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "73a05c24",
+          "title": "产品更新：OpenSwarm",
+          "title_en": "OpenSwarm",
+          "url": "https://www.producthunt.com/products/openswarm-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/velozity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/openswarm-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "The Multiplayer AI Office where your team and",
-          "summary_zh": "The Multiplayer AI Office where your team and",
-          "publishedAt": "2026-10-07T07:01:00Z",
-          "published_at": "2026-10-07T07:01:00Z",
-          "votes_count": 384,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "252",
-              "name": "Meetings",
-              "slug": "meetings"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "c3ceca91",
-          "title": "产品更新：GenPage 3.0",
-          "title_en": "GenPage 3.0",
-          "url": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/genpage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Build, personalize, and optimize landing pages",
-          "summary_zh": "Build, personalize, and optimize landing pages",
-          "publishedAt": "2026-10-07T07:01:00Z",
-          "published_at": "2026-10-07T07:01:00Z",
-          "votes_count": 374,
-          "featured": true,
-          "topics": [
-            {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "243",
-              "name": "Website Builder",
-              "slug": "website-builder"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "1864a8a3",
-          "title": "产品更新：IrisGo for Solo",
-          "title_en": "IrisGo for Solopreneurs",
-          "url": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/irisgo-public-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "AI workflow automation: show it once, let it r",
-          "summary_zh": "AI workflow automation: show it once, let it r",
-          "publishedAt": "2026-10-07T07:01:00Z",
-          "published_at": "2026-10-07T07:01:00Z",
-          "votes_count": 357,
+          "summary": "A swarm of agents, in the same place you work",
+          "summary_zh": "A swarm of agents, in the same place you work",
+          "publishedAt": "2026-10-08T07:01:00Z",
+          "published_at": "2026-10-08T07:01:00Z",
+          "votes_count": 240,
           "featured": true,
           "topics": [
             {
@@ -113,14 +37,90 @@
               "slug": "task-management"
             },
             {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4f11c81b",
+          "title": "产品更新：Claude Haiku 5.",
+          "title_en": "Claude Haiku 5.5",
+          "url": "https://www.producthunt.com/products/claude-haiku-5-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/claude-haiku-5-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Anthropic's fastest and most capable Haiku yet",
+          "summary_zh": "Anthropic's fastest and most capable Haiku yet",
+          "publishedAt": "2026-10-08T07:01:00Z",
+          "published_at": "2026-10-08T07:01:00Z",
+          "votes_count": 218,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
             },
             {
-              "id": "282",
-              "name": "Virtual Assistants",
-              "slug": "virtual-assistants"
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b0737ae7",
+          "title": "产品更新：OpenSEO - AI Vi",
+          "title_en": "OpenSEO - AI Visibility",
+          "url": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The open source Semrush alternative Without go",
+          "summary_zh": "The open source Semrush alternative Without go",
+          "publishedAt": "2026-10-08T07:01:00Z",
+          "published_at": "2026-10-08T07:01:00Z",
+          "votes_count": 197,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
             }
           ],
           "score_details": null
