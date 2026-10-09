@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T15:47:01Z",
-  "generatedAt": "2026-10-08T15:47:01Z",
+  "generated_at": "2026-10-09T00:29:55Z",
+  "generatedAt": "2026-10-09T00:29:55Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "A swarm of agents, in the same place you work",
       "publishedAt": "2026-10-08T07:01:00Z",
       "published_at": "2026-10-08T07:01:00Z",
-      "votes_count": 240,
+      "votes_count": 315,
       "featured": true,
       "topics": [
         {
@@ -44,47 +44,9 @@
       "score_details": null
     },
     {
-      "id": "4f11c81b",
-      "title": "产品更新：Claude Haiku 5.",
-      "title_en": "Claude Haiku 5.5",
-      "url": "https://www.producthunt.com/products/claude-haiku-5-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/claude-haiku-5-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Anthropic's fastest and most capable Haiku yet",
-      "summary_zh": "Anthropic's fastest and most capable Haiku yet",
-      "publishedAt": "2026-10-08T07:01:00Z",
-      "published_at": "2026-10-08T07:01:00Z",
-      "votes_count": 218,
-      "featured": true,
-      "topics": [
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "352",
-          "name": "Tech",
-          "slug": "tech"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "b0737ae7",
-      "title": "产品更新：OpenSEO - AI Vi",
-      "title_en": "OpenSEO - AI Visibility",
+      "title": "产品更新：OpenSEO",
+      "title_en": "OpenSEO",
       "url": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
@@ -98,7 +60,7 @@
       "summary_zh": "The open source Semrush alternative Without go",
       "publishedAt": "2026-10-08T07:01:00Z",
       "published_at": "2026-10-08T07:01:00Z",
-      "votes_count": 197,
+      "votes_count": 286,
       "featured": true,
       "topics": [
         {
@@ -120,25 +82,73 @@
       "score_details": null
     },
     {
-      "id": "2a893cea",
-      "title": "产品更新：Griffin by Tavu",
-      "title_en": "Griffin by Tavus",
-      "url": "https://www.producthunt.com/products/griffin-by-tavus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "4f11c81b",
+      "title": "产品更新：Claude Haiku 5.",
+      "title_en": "Claude Haiku 5.5",
+      "url": "https://www.producthunt.com/products/claude-haiku-5-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/griffin-by-tavus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/claude-haiku-5-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "World's First Human Interaction Model Griffin",
-      "summary_zh": "World's First Human Interaction Model Griffin",
+      "summary": "Anthropic's fastest and most capable Haiku yet",
+      "summary_zh": "Anthropic's fastest and most capable Haiku yet",
       "publishedAt": "2026-10-08T07:01:00Z",
       "published_at": "2026-10-08T07:01:00Z",
-      "votes_count": 130,
+      "votes_count": 280,
       "featured": true,
       "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "411a3822",
+      "title": "产品更新：Cekura Bench",
+      "title_en": "Cekura Bench",
+      "url": "https://www.producthunt.com/products/vocera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/vocera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Speech-to-speech model benchmarks on live phon",
+      "summary_zh": "Speech-to-speech model benchmarks on live phon",
+      "publishedAt": "2026-10-08T07:01:00Z",
+      "published_at": "2026-10-08T07:01:00Z",
+      "votes_count": 143,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
         {
           "id": "268",
           "name": "Artificial Intelligence",
@@ -228,8 +238,8 @@
       "rankingScore": 5.0,
       "summary": "视频DeepSeek时刻？Vidu Q4 Preview背后的效率账与世界模型底气",
       "summary_zh": "视频DeepSeek时刻？Vidu Q4 Preview背后的效率账与世界模型底气",
-      "publishedAt": "2026-10-08T15:45:45Z",
-      "published_at": "2026-10-08T15:45:45Z",
+      "publishedAt": "2026-10-09T00:29:17Z",
+      "published_at": "2026-10-09T00:29:17Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

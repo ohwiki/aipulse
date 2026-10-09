@@ -1,0 +1,503 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T00:29:55Z",
+  "generatedAt": "2026-10-09T00:29:55Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "73a05c24",
+          "title": "产品更新：OpenSwarm",
+          "title_en": "OpenSwarm",
+          "url": "https://www.producthunt.com/products/openswarm-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openswarm-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A swarm of agents, in the same place you work",
+          "summary_zh": "A swarm of agents, in the same place you work",
+          "publishedAt": "2026-10-08T07:01:00Z",
+          "published_at": "2026-10-08T07:01:00Z",
+          "votes_count": 315,
+          "featured": true,
+          "topics": [
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b0737ae7",
+          "title": "产品更新：OpenSEO",
+          "title_en": "OpenSEO",
+          "url": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The open source Semrush alternative Without go",
+          "summary_zh": "The open source Semrush alternative Without go",
+          "publishedAt": "2026-10-08T07:01:00Z",
+          "published_at": "2026-10-08T07:01:00Z",
+          "votes_count": 286,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4f11c81b",
+          "title": "产品更新：Claude Haiku 5.",
+          "title_en": "Claude Haiku 5.5",
+          "url": "https://www.producthunt.com/products/claude-haiku-5-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/claude-haiku-5-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Anthropic's fastest and most capable Haiku yet",
+          "summary_zh": "Anthropic's fastest and most capable Haiku yet",
+          "publishedAt": "2026-10-08T07:01:00Z",
+          "published_at": "2026-10-08T07:01:00Z",
+          "votes_count": 280,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "411a3822",
+          "title": "产品更新：Cekura Bench",
+          "title_en": "Cekura Bench",
+          "url": "https://www.producthunt.com/products/vocera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vocera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Speech-to-speech model benchmarks on live phon",
+          "summary_zh": "Speech-to-speech model benchmarks on live phon",
+          "publishedAt": "2026-10-08T07:01:00Z",
+          "published_at": "2026-10-08T07:01:00Z",
+          "votes_count": 143,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "8e7f6fd6",
+          "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/501832.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/501832.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊  梦晨 2026-10-08 09:04:00  来源：量子位   小模型新守门员  梦晨 发自 凹非寺 量子位 | 公众号 QbitAI Claude Haiku 5.5发布，小模型大逆袭！ 单论跑分，直接超越两大前“斩杀线”DeepSeek V4.1Flash和GLM-5.3-Flash，成为新的小模型守门员。  一看官方跑分，好嘛，这就是冲着GPT-6 Luna来的，逐项赢过Luna。  由于鹈鹕骑自行车测试已经基本饱和了，最新干到战场的是奔跑斑马测试。  Haiku 5.5甚至价格也完全对标GPT-6 Luna。 上代Haiku 4.5还是刚好一年前出的，价格是5.5的10倍。 不过Haiku5.5的价格还有条件，提示词在10万token以内的请求（占Haiku 4.5请求量的90%），输入输出价格直接砍90%；超过10万token的部分，只砍50%。 这样一来，除了缓存命中的输入这一项，Haiku 5.5的价格也比DeepSeek-V4.1 Flash便宜了。  至此Opu",
+          "summary_zh": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊  梦晨 2026-10-08 09:04:00  来源：量子位   小模型新守门员  梦晨 发自 凹非寺 量子位 | 公众号 QbitAI Claude Haiku 5.5发布，小模型大逆袭！ 单论跑分，直接超越两大前“斩杀线”DeepSeek V4.1Flash和GLM-5.3-Flash，成为新的小模型守门员。  一看官方跑分，好嘛，这就是冲着GPT-6 Luna来的，逐项赢过Luna。  由于鹈鹕骑自行车测试已经基本饱和了，最新干到战场的是奔跑斑马测试。  Haiku 5.5甚至价格也完全对标GPT-6 Luna。 上代Haiku 4.5还是刚好一年前出的，价格是5.5的10倍。 不过Haiku5.5的价格还有条件，提示词在10万token以内的请求（占Haiku 4.5请求量的90%），输入输出价格直接砍90%；超过10万token的部分，只砍50%。 这样一来，除了缓存命中的输入这一项，Haiku 5.5的价格也比DeepSeek-V4.1 Flash便宜了。  至此Opu",
+          "publishedAt": "2026-10-08T01:04:00Z",
+          "published_at": "2026-10-08T01:04:00Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "7448d3ae",
+          "title": "GPT-6今起免费用！拒答变少，话变多了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/501834.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/501834.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "GPT-6今起免费用！拒答变少，话变多了  听雨 2026-10-08 09:07:19  来源：量子位   ChatGPT聊天框长出界面  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 免费用户也能用上GPT-6了！ OpenAI宣布，GPT-6开始向ChatGPT免费和Go用户推送，用GPT-6 Luna逐步替换此前的GPT-5.6 Luna。 Plus、Pro等付费用户，则使用GPT-6 Sol。  变化也不止于模型名称。新版ChatGPT可以根据问题生成图表、按钮和交互工具，还能一边思考，一边把答案呈现出来。 原本以文字为主的聊天框，开始变成一个随问题变化的界面。 同一天，OpenAI还放出一份24页的安全报告。 报告里有一组专门针对18岁以下用户的评测，看模型和青少年聊天时能不能守住更严格的边界。 其中“情感依赖”一项，大致是看模型会不会让青少年对它产生过度的情感依赖。 上一代GPT-5.6 Luna是0.927，而免费用户即将用上的GPT-6 Luna，掉到了0.734。 免费用户用上GPT-6 Luna GPT-6开始向ChatGPT的主聊天界面推送了。 按照Op",
+          "summary_zh": "GPT-6今起免费用！拒答变少，话变多了  听雨 2026-10-08 09:07:19  来源：量子位   ChatGPT聊天框长出界面  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 免费用户也能用上GPT-6了！ OpenAI宣布，GPT-6开始向ChatGPT免费和Go用户推送，用GPT-6 Luna逐步替换此前的GPT-5.6 Luna。 Plus、Pro等付费用户，则使用GPT-6 Sol。  变化也不止于模型名称。新版ChatGPT可以根据问题生成图表、按钮和交互工具，还能一边思考，一边把答案呈现出来。 原本以文字为主的聊天框，开始变成一个随问题变化的界面。 同一天，OpenAI还放出一份24页的安全报告。 报告里有一组专门针对18岁以下用户的评测，看模型和青少年聊天时能不能守住更严格的边界。 其中“情感依赖”一项，大致是看模型会不会让青少年对它产生过度的情感依赖。 上一代GPT-5.6 Luna是0.927，而免费用户即将用上的GPT-6 Luna，掉到了0.734。 免费用户用上GPT-6 Luna GPT-6开始向ChatGPT的主聊天界面推送了。 按照Op",
+          "publishedAt": "2026-10-08T01:07:19Z",
+          "published_at": "2026-10-08T01:07:19Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "98a871bf",
+          "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/501915.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/501915.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "大模型原生智能体手机STEPX Neo将于10月13日正式发布  量子位的朋友们 2026-10-08 10:15:37  来源：量子位   10月8日消息，阶跃终端将于10月13日在上海举办“Ready Builder One”主题发布会，推出旗下首款大模型原生智能体手机STEPX Neo。 据悉，STEPX Neo在模型、系统、硬件等方面皆为智能体原生打造，本次发布会除新品亮相外，还将公布阶跃终端在生态合作方面的最新进展。  本文由阶跃终端提供，量子位获授权转载，观点归原作者所有。  版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+          "summary_zh": "大模型原生智能体手机STEPX Neo将于10月13日正式发布  量子位的朋友们 2026-10-08 10:15:37  来源：量子位   10月8日消息，阶跃终端将于10月13日在上海举办“Ready Builder One”主题发布会，推出旗下首款大模型原生智能体手机STEPX Neo。 据悉，STEPX Neo在模型、系统、硬件等方面皆为智能体原生打造，本次发布会除新品亮相外，还将公布阶跃终端在生态合作方面的最新进展。  本文由阶跃终端提供，量子位获授权转载，观点归原作者所有。  版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+          "publishedAt": "2026-10-08T02:15:37Z",
+          "published_at": "2026-10-08T02:15:37Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "866c9a61",
+          "title": "视频DeepSeek时刻？Vidu",
+          "title_en": "视频DeepSeek时刻？Vidu Q4 Preview背后的效率账与世界模型底气",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "视频DeepSeek时刻？Vidu Q4 Preview背后的效率账与世界模型底气",
+          "summary_zh": "视频DeepSeek时刻？Vidu Q4 Preview背后的效率账与世界模型底气",
+          "publishedAt": "2026-10-09T00:29:17Z",
+          "published_at": "2026-10-09T00:29:17Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "73a05c24",
+      "title": "产品更新：OpenSwarm",
+      "title_en": "OpenSwarm",
+      "url": "https://www.producthunt.com/products/openswarm-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openswarm-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A swarm of agents, in the same place you work",
+      "summary_zh": "A swarm of agents, in the same place you work",
+      "publishedAt": "2026-10-08T07:01:00Z",
+      "published_at": "2026-10-08T07:01:00Z",
+      "votes_count": 315,
+      "featured": true,
+      "topics": [
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b0737ae7",
+      "title": "产品更新：OpenSEO",
+      "title_en": "OpenSEO",
+      "url": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The open source Semrush alternative Without go",
+      "summary_zh": "The open source Semrush alternative Without go",
+      "publishedAt": "2026-10-08T07:01:00Z",
+      "published_at": "2026-10-08T07:01:00Z",
+      "votes_count": 286,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "231",
+          "name": "SEO",
+          "slug": "seo"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "4f11c81b",
+      "title": "产品更新：Claude Haiku 5.",
+      "title_en": "Claude Haiku 5.5",
+      "url": "https://www.producthunt.com/products/claude-haiku-5-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/claude-haiku-5-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Anthropic's fastest and most capable Haiku yet",
+      "summary_zh": "Anthropic's fastest and most capable Haiku yet",
+      "publishedAt": "2026-10-08T07:01:00Z",
+      "published_at": "2026-10-08T07:01:00Z",
+      "votes_count": 280,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "411a3822",
+      "title": "产品更新：Cekura Bench",
+      "title_en": "Cekura Bench",
+      "url": "https://www.producthunt.com/products/vocera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/vocera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Speech-to-speech model benchmarks on live phon",
+      "summary_zh": "Speech-to-speech model benchmarks on live phon",
+      "publishedAt": "2026-10-08T07:01:00Z",
+      "published_at": "2026-10-08T07:01:00Z",
+      "votes_count": 143,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8e7f6fd6",
+      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/501832.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501832.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊  梦晨 2026-10-08 09:04:00  来源：量子位   小模型新守门员  梦晨 发自 凹非寺 量子位 | 公众号 QbitAI Claude Haiku 5.5发布，小模型大逆袭！ 单论跑分，直接超越两大前“斩杀线”DeepSeek V4.1Flash和GLM-5.3-Flash，成为新的小模型守门员。  一看官方跑分，好嘛，这就是冲着GPT-6 Luna来的，逐项赢过Luna。  由于鹈鹕骑自行车测试已经基本饱和了，最新干到战场的是奔跑斑马测试。  Haiku 5.5甚至价格也完全对标GPT-6 Luna。 上代Haiku 4.5还是刚好一年前出的，价格是5.5的10倍。 不过Haiku5.5的价格还有条件，提示词在10万token以内的请求（占Haiku 4.5请求量的90%），输入输出价格直接砍90%；超过10万token的部分，只砍50%。 这样一来，除了缓存命中的输入这一项，Haiku 5.5的价格也比DeepSeek-V4.1 Flash便宜了。  至此Opu",
+      "summary_zh": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊  梦晨 2026-10-08 09:04:00  来源：量子位   小模型新守门员  梦晨 发自 凹非寺 量子位 | 公众号 QbitAI Claude Haiku 5.5发布，小模型大逆袭！ 单论跑分，直接超越两大前“斩杀线”DeepSeek V4.1Flash和GLM-5.3-Flash，成为新的小模型守门员。  一看官方跑分，好嘛，这就是冲着GPT-6 Luna来的，逐项赢过Luna。  由于鹈鹕骑自行车测试已经基本饱和了，最新干到战场的是奔跑斑马测试。  Haiku 5.5甚至价格也完全对标GPT-6 Luna。 上代Haiku 4.5还是刚好一年前出的，价格是5.5的10倍。 不过Haiku5.5的价格还有条件，提示词在10万token以内的请求（占Haiku 4.5请求量的90%），输入输出价格直接砍90%；超过10万token的部分，只砍50%。 这样一来，除了缓存命中的输入这一项，Haiku 5.5的价格也比DeepSeek-V4.1 Flash便宜了。  至此Opu",
+      "publishedAt": "2026-10-08T01:04:00Z",
+      "published_at": "2026-10-08T01:04:00Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "7448d3ae",
+      "title": "GPT-6今起免费用！拒答变少，话变多了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/501834.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501834.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "GPT-6今起免费用！拒答变少，话变多了  听雨 2026-10-08 09:07:19  来源：量子位   ChatGPT聊天框长出界面  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 免费用户也能用上GPT-6了！ OpenAI宣布，GPT-6开始向ChatGPT免费和Go用户推送，用GPT-6 Luna逐步替换此前的GPT-5.6 Luna。 Plus、Pro等付费用户，则使用GPT-6 Sol。  变化也不止于模型名称。新版ChatGPT可以根据问题生成图表、按钮和交互工具，还能一边思考，一边把答案呈现出来。 原本以文字为主的聊天框，开始变成一个随问题变化的界面。 同一天，OpenAI还放出一份24页的安全报告。 报告里有一组专门针对18岁以下用户的评测，看模型和青少年聊天时能不能守住更严格的边界。 其中“情感依赖”一项，大致是看模型会不会让青少年对它产生过度的情感依赖。 上一代GPT-5.6 Luna是0.927，而免费用户即将用上的GPT-6 Luna，掉到了0.734。 免费用户用上GPT-6 Luna GPT-6开始向ChatGPT的主聊天界面推送了。 按照Op",
+      "summary_zh": "GPT-6今起免费用！拒答变少，话变多了  听雨 2026-10-08 09:07:19  来源：量子位   ChatGPT聊天框长出界面  听雨 发自 凹非寺 量子位 | 公众号 QbitAI 免费用户也能用上GPT-6了！ OpenAI宣布，GPT-6开始向ChatGPT免费和Go用户推送，用GPT-6 Luna逐步替换此前的GPT-5.6 Luna。 Plus、Pro等付费用户，则使用GPT-6 Sol。  变化也不止于模型名称。新版ChatGPT可以根据问题生成图表、按钮和交互工具，还能一边思考，一边把答案呈现出来。 原本以文字为主的聊天框，开始变成一个随问题变化的界面。 同一天，OpenAI还放出一份24页的安全报告。 报告里有一组专门针对18岁以下用户的评测，看模型和青少年聊天时能不能守住更严格的边界。 其中“情感依赖”一项，大致是看模型会不会让青少年对它产生过度的情感依赖。 上一代GPT-5.6 Luna是0.927，而免费用户即将用上的GPT-6 Luna，掉到了0.734。 免费用户用上GPT-6 Luna GPT-6开始向ChatGPT的主聊天界面推送了。 按照Op",
+      "publishedAt": "2026-10-08T01:07:19Z",
+      "published_at": "2026-10-08T01:07:19Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "98a871bf",
+      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/501915.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/501915.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "大模型原生智能体手机STEPX Neo将于10月13日正式发布  量子位的朋友们 2026-10-08 10:15:37  来源：量子位   10月8日消息，阶跃终端将于10月13日在上海举办“Ready Builder One”主题发布会，推出旗下首款大模型原生智能体手机STEPX Neo。 据悉，STEPX Neo在模型、系统、硬件等方面皆为智能体原生打造，本次发布会除新品亮相外，还将公布阶跃终端在生态合作方面的最新进展。  本文由阶跃终端提供，量子位获授权转载，观点归原作者所有。  版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+      "summary_zh": "大模型原生智能体手机STEPX Neo将于10月13日正式发布  量子位的朋友们 2026-10-08 10:15:37  来源：量子位   10月8日消息，阶跃终端将于10月13日在上海举办“Ready Builder One”主题发布会，推出旗下首款大模型原生智能体手机STEPX Neo。 据悉，STEPX Neo在模型、系统、硬件等方面皆为智能体原生打造，本次发布会除新品亮相外，还将公布阶跃终端在生态合作方面的最新进展。  本文由阶跃终端提供，量子位获授权转载，观点归原作者所有。  版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+      "publishedAt": "2026-10-08T02:15:37Z",
+      "published_at": "2026-10-08T02:15:37Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "866c9a61",
+      "title": "视频DeepSeek时刻？Vidu",
+      "title_en": "视频DeepSeek时刻？Vidu Q4 Preview背后的效率账与世界模型底气",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "视频DeepSeek时刻？Vidu Q4 Preview背后的效率账与世界模型底气",
+      "summary_zh": "视频DeepSeek时刻？Vidu Q4 Preview背后的效率账与世界模型底气",
+      "publishedAt": "2026-10-09T00:29:17Z",
+      "published_at": "2026-10-09T00:29:17Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
