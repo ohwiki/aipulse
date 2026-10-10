@@ -1,121 +1,126 @@
 {
-  "generated_at": "2026-10-10T00:08:14Z",
-  "generatedAt": "2026-10-10T00:08:14Z",
+  "generated_at": "2026-10-10T14:35:16Z",
+  "generatedAt": "2026-10-10T14:35:16Z",
   "count": 151,
   "total": 151,
   "entries": [
     {
       "date": "2026-10-10",
-      "generated_at": "2026-10-10T00:08:14Z",
-      "generatedAt": "2026-10-10T00:08:14Z",
-      "total": 8,
+      "generated_at": "2026-10-10T14:35:16Z",
+      "generatedAt": "2026-10-10T14:35:16Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "1d0ac689",
-          "title": "产品更新：Zernio",
-          "title_en": "Zernio",
-          "url": "https://www.producthunt.com/products/zernio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "8625cb89",
+          "title": "产品更新：ReSO AI",
+          "title_en": "ReSO AI",
+          "url": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/zernio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Marketing infrastructure for products and agen",
-          "summary_zh": "Marketing infrastructure for products and agen",
-          "publishedAt": "2026-10-09T07:01:00Z",
-          "published_at": "2026-10-09T07:01:00Z",
-          "votes_count": 292,
+          "summary": "Get discovered & recommended when customers as",
+          "summary_zh": "Get discovered & recommended when customers as",
+          "publishedAt": "2026-10-10T07:01:00Z",
+          "published_at": "2026-10-10T07:01:00Z",
+          "votes_count": 246,
           "featured": true,
           "topics": [
             {
-              "id": "88",
-              "name": "API",
-              "slug": "api-1"
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
             },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "ab7be25b",
-          "title": "产品更新：Busabase",
-          "title_en": "Busabase",
-          "url": "https://www.producthunt.com/products/busabase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/busabase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The general system of record for AI agents Dif",
-          "summary_zh": "The general system of record for AI agents Dif",
-          "publishedAt": "2026-10-09T07:01:00Z",
-          "published_at": "2026-10-09T07:01:00Z",
-          "votes_count": 259,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "772",
-              "name": "Database",
-              "slug": "database"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "5afc6987",
-          "title": "产品更新：Playground by G",
-          "title_en": "Playground by Google Labs",
-          "url": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Create, play, and share your own games with Go",
-          "summary_zh": "Create, play, and share your own games with Go",
-          "publishedAt": "2026-10-09T07:01:00Z",
-          "published_at": "2026-10-09T07:01:00Z",
-          "votes_count": 192,
-          "featured": true,
-          "topics": [
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
             },
             {
-              "id": "353",
-              "name": "Games",
-              "slug": "games"
+              "id": "839",
+              "name": "Marketing automation",
+              "slug": "marketing-automation"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1025c786",
+          "title": "产品更新：Onepin",
+          "title_en": "Onepin",
+          "url": "https://www.producthunt.com/products/onepin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/onepin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI voiceover with every name, price and date s",
+          "summary_zh": "AI voiceover with every name, price and date s",
+          "publishedAt": "2026-10-10T07:01:00Z",
+          "published_at": "2026-10-10T07:01:00Z",
+          "votes_count": 245,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "bb5a9388",
+          "title": "产品更新：Claude Dashboar",
+          "title_en": "Claude Dashboards & Motion",
+          "url": "https://www.producthunt.com/products/claude-dashboards-motion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/claude-dashboards-motion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Ask Claude for live dashboards and animated ex",
+          "summary_zh": "Ask Claude for live dashboards and animated ex",
+          "publishedAt": "2026-10-10T07:01:00Z",
+          "published_at": "2026-10-10T07:01:00Z",
+          "votes_count": 130,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "811",
+              "name": "Animation",
+              "slug": "animation"
             }
           ],
           "score_details": null
