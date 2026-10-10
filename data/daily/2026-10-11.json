@@ -1,0 +1,483 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-10T23:40:50Z",
+  "generatedAt": "2026-10-10T23:40:50Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "8625cb89",
+          "title": "产品更新：ReSO AI",
+          "title_en": "ReSO AI",
+          "url": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Get discovered & recommended when customers as",
+          "summary_zh": "Get discovered & recommended when customers as",
+          "publishedAt": "2026-10-10T07:01:00Z",
+          "published_at": "2026-10-10T07:01:00Z",
+          "votes_count": 353,
+          "featured": true,
+          "topics": [
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "839",
+              "name": "Marketing automation",
+              "slug": "marketing-automation"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1025c786",
+          "title": "产品更新：Onepin",
+          "title_en": "Onepin",
+          "url": "https://www.producthunt.com/products/onepin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/onepin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI voiceover with every name, price and date s",
+          "summary_zh": "AI voiceover with every name, price and date s",
+          "publishedAt": "2026-10-10T07:01:00Z",
+          "published_at": "2026-10-10T07:01:00Z",
+          "votes_count": 325,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "bb5a9388",
+          "title": "产品更新：Claude Dashboar",
+          "title_en": "Claude Dashboards & Motion",
+          "url": "https://www.producthunt.com/products/claude-dashboards-motion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/claude-dashboards-motion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Ask Claude for live dashboards and animated ex",
+          "summary_zh": "Ask Claude for live dashboards and animated ex",
+          "publishedAt": "2026-10-10T07:01:00Z",
+          "published_at": "2026-10-10T07:01:00Z",
+          "votes_count": 202,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "811",
+              "name": "Animation",
+              "slug": "animation"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d0f68dac",
+          "title": "产品更新：Microsoft-Decis",
+          "title_en": "Microsoft-Decision-1",
+          "url": "https://www.producthunt.com/products/microsoft-decision-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/microsoft-decision-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Microsoft’s decision model for agents and work",
+          "summary_zh": "Microsoft’s decision model for agents and work",
+          "publishedAt": "2026-10-10T07:01:00Z",
+          "published_at": "2026-10-10T07:01:00Z",
+          "votes_count": 137,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "a2b7cee1",
+          "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/502484.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/502484.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Nano Banana终于2.1了！4K直出，中文进步太明显  文婷 2026-10-10 16:52:16  来源：量子位   文婷 发自 凹非寺 量子位 | 公众号 QbitAI 果然夜没白熬，Google家的大香蕉终于更新了！ 凌晨，Google突然发布了新一代生图模型Nano Banana 2.1，围绕视觉设计、蒙版编辑、主体一致性和画面真实自然性实现了全面升级。  它不仅能4K直出摄影级大片，还能自由修图，一键替换背景，精准治愈设计师们“改图改到崩溃”的烦恼： △画圈保留主体并无缝替换背景 △下棋，图源推特@Fries 战绩也相当能打。 据美国知名AI评测平台Arena，相比于上一代Nano Banana 2，Nano Banana 2.1在文本转图像、多图像编辑及单张图像编辑三项功能上平均提升了约61.7分。 其中，文本转图像功能排名第四，比上一代提升了80分，仅次于GPT；  多图像编辑功能排名第五，获1328分，提升了67分；  单张图像编辑功能排名第六，共获1428分，提升了38分。  更香的是API价格。 谷歌大手一挥，将Nano Banana 2.1 1K、2K图",
+          "summary_zh": "Nano Banana终于2.1了！4K直出，中文进步太明显  文婷 2026-10-10 16:52:16  来源：量子位   文婷 发自 凹非寺 量子位 | 公众号 QbitAI 果然夜没白熬，Google家的大香蕉终于更新了！ 凌晨，Google突然发布了新一代生图模型Nano Banana 2.1，围绕视觉设计、蒙版编辑、主体一致性和画面真实自然性实现了全面升级。  它不仅能4K直出摄影级大片，还能自由修图，一键替换背景，精准治愈设计师们“改图改到崩溃”的烦恼： △画圈保留主体并无缝替换背景 △下棋，图源推特@Fries 战绩也相当能打。 据美国知名AI评测平台Arena，相比于上一代Nano Banana 2，Nano Banana 2.1在文本转图像、多图像编辑及单张图像编辑三项功能上平均提升了约61.7分。 其中，文本转图像功能排名第四，比上一代提升了80分，仅次于GPT；  多图像编辑功能排名第五，获1328分，提升了67分；  单张图像编辑功能排名第六，共获1428分，提升了38分。  更香的是API价格。 谷歌大手一挥，将Nano Banana 2.1 1K、2K图",
+          "publishedAt": "2026-10-10T08:52:16Z",
+          "published_at": "2026-10-10T08:52:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0cda7165",
+          "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/502492.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/502492.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧  文婷 2026-10-10 16:54:08  来源：量子位   文婷 发自 凹非寺 量子位 | 公众号 QbitAI 短短24天，融资额膨胀了近22倍，估值翻了37.5倍。 Jev掀起的风暴，已经变成真金白银了！  就在今天，Jev的母公司TypeSafe AI宣布完成8.7亿美元（约63.08亿元）A轮融资，投后估值达75亿美元（约543.75亿元）。 而引爆这一切的，甚至只是一个“不会聊天、只会做决定”的AI模型——Jev。 它火的方式也挺抽象的，它不聊天、不写代码，yes or no它选择or。 简单中译中一下，就是它把传统LLM的生成功能给砍了，只专心干一件事：下判断。 而且……因为新架构实在太便宜，不好计量，于是输出token永久免费，输入每百万Token也只需0.042美元（约0.3元）。 △只能说各家的Flash模型哭晕在厕所 更有趣的是，还有人连夜开源了一个“Jev聊天助手”，它可以帮你提前预判老板的预判、并搞清楚对象闹别扭到底是为了啥，并一键生成几条最合适的回复供你选择： △图源X @Ian (伊恩)， 这可",
+          "summary_zh": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧  文婷 2026-10-10 16:54:08  来源：量子位   文婷 发自 凹非寺 量子位 | 公众号 QbitAI 短短24天，融资额膨胀了近22倍，估值翻了37.5倍。 Jev掀起的风暴，已经变成真金白银了！  就在今天，Jev的母公司TypeSafe AI宣布完成8.7亿美元（约63.08亿元）A轮融资，投后估值达75亿美元（约543.75亿元）。 而引爆这一切的，甚至只是一个“不会聊天、只会做决定”的AI模型——Jev。 它火的方式也挺抽象的，它不聊天、不写代码，yes or no它选择or。 简单中译中一下，就是它把传统LLM的生成功能给砍了，只专心干一件事：下判断。 而且……因为新架构实在太便宜，不好计量，于是输出token永久免费，输入每百万Token也只需0.042美元（约0.3元）。 △只能说各家的Flash模型哭晕在厕所 更有趣的是，还有人连夜开源了一个“Jev聊天助手”，它可以帮你提前预判老板的预判、并搞清楚对象闹别扭到底是为了啥，并一键生成几条最合适的回复供你选择： △图源X @Ian (伊恩)， 这可",
+          "publishedAt": "2026-10-10T08:54:08Z",
+          "published_at": "2026-10-10T08:54:08Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "698c94a0",
+          "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/502496.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/502496.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起  量子位的朋友们 2026-10-10 17:07:43  来源：量子位   2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会  2026年9月28日，全球领先的AI终端生态公司荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会，正式发布荣耀Magic9 Pro Max、荣耀Magic9、荣耀Magic9超能版三款旗舰产品。携手百年影像传奇阿莱（ARRI），荣耀Magic9 系列将电影美学与专业创作流程带到手机影像中，打造人人皆可直出大片的掌中电影机。 创造，是荣耀Magic系列十年不变的底色；创新，则是荣耀对创造最直接的回应。荣耀CEO李健表示：“荣耀Magic9 系列是荣耀献给这个时代创作者的十年匠心之作，我们希望以科技之力，赋能每一颗热爱创作的灵魂。”作为荣耀“敢想敢不同”品牌焕新后的首款旗舰，也是荣耀Magic 系列十周年的集大成之作，荣耀Magic9 系列进一步明确“为创造而生”的系列定位，同时重新定义旗舰产品矩阵，不再",
+          "summary_zh": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起  量子位的朋友们 2026-10-10 17:07:43  来源：量子位   2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会  2026年9月28日，全球领先的AI终端生态公司荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会，正式发布荣耀Magic9 Pro Max、荣耀Magic9、荣耀Magic9超能版三款旗舰产品。携手百年影像传奇阿莱（ARRI），荣耀Magic9 系列将电影美学与专业创作流程带到手机影像中，打造人人皆可直出大片的掌中电影机。 创造，是荣耀Magic系列十年不变的底色；创新，则是荣耀对创造最直接的回应。荣耀CEO李健表示：“荣耀Magic9 系列是荣耀献给这个时代创作者的十年匠心之作，我们希望以科技之力，赋能每一颗热爱创作的灵魂。”作为荣耀“敢想敢不同”品牌焕新后的首款旗舰，也是荣耀Magic 系列十周年的集大成之作，荣耀Magic9 系列进一步明确“为创造而生”的系列定位，同时重新定义旗舰产品矩阵，不再",
+          "publishedAt": "2026-10-10T09:07:43Z",
+          "published_at": "2026-10-10T09:07:43Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "d231ca33",
+          "title": "长鑫技术新突破：4F²架构产品预计年",
+          "title_en": "长鑫技术新突破：4F²架构产品预计年底亮相",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "长鑫技术新突破：4F²架构产品预计年底亮相",
+          "summary_zh": "长鑫技术新突破：4F²架构产品预计年底亮相",
+          "publishedAt": "2026-10-10T23:40:28Z",
+          "published_at": "2026-10-10T23:40:28Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "8625cb89",
+      "title": "产品更新：ReSO AI",
+      "title_en": "ReSO AI",
+      "url": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Get discovered & recommended when customers as",
+      "summary_zh": "Get discovered & recommended when customers as",
+      "publishedAt": "2026-10-10T07:01:00Z",
+      "published_at": "2026-10-10T07:01:00Z",
+      "votes_count": 353,
+      "featured": true,
+      "topics": [
+        {
+          "id": "231",
+          "name": "SEO",
+          "slug": "seo"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "839",
+          "name": "Marketing automation",
+          "slug": "marketing-automation"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1025c786",
+      "title": "产品更新：Onepin",
+      "title_en": "Onepin",
+      "url": "https://www.producthunt.com/products/onepin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/onepin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI voiceover with every name, price and date s",
+      "summary_zh": "AI voiceover with every name, price and date s",
+      "publishedAt": "2026-10-10T07:01:00Z",
+      "published_at": "2026-10-10T07:01:00Z",
+      "votes_count": 325,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "bb5a9388",
+      "title": "产品更新：Claude Dashboar",
+      "title_en": "Claude Dashboards & Motion",
+      "url": "https://www.producthunt.com/products/claude-dashboards-motion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/claude-dashboards-motion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Ask Claude for live dashboards and animated ex",
+      "summary_zh": "Ask Claude for live dashboards and animated ex",
+      "publishedAt": "2026-10-10T07:01:00Z",
+      "published_at": "2026-10-10T07:01:00Z",
+      "votes_count": 202,
+      "featured": true,
+      "topics": [
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "811",
+          "name": "Animation",
+          "slug": "animation"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d0f68dac",
+      "title": "产品更新：Microsoft-Decis",
+      "title_en": "Microsoft-Decision-1",
+      "url": "https://www.producthunt.com/products/microsoft-decision-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/microsoft-decision-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Microsoft’s decision model for agents and work",
+      "summary_zh": "Microsoft’s decision model for agents and work",
+      "publishedAt": "2026-10-10T07:01:00Z",
+      "published_at": "2026-10-10T07:01:00Z",
+      "votes_count": 137,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a2b7cee1",
+      "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/502484.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502484.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Nano Banana终于2.1了！4K直出，中文进步太明显  文婷 2026-10-10 16:52:16  来源：量子位   文婷 发自 凹非寺 量子位 | 公众号 QbitAI 果然夜没白熬，Google家的大香蕉终于更新了！ 凌晨，Google突然发布了新一代生图模型Nano Banana 2.1，围绕视觉设计、蒙版编辑、主体一致性和画面真实自然性实现了全面升级。  它不仅能4K直出摄影级大片，还能自由修图，一键替换背景，精准治愈设计师们“改图改到崩溃”的烦恼： △画圈保留主体并无缝替换背景 △下棋，图源推特@Fries 战绩也相当能打。 据美国知名AI评测平台Arena，相比于上一代Nano Banana 2，Nano Banana 2.1在文本转图像、多图像编辑及单张图像编辑三项功能上平均提升了约61.7分。 其中，文本转图像功能排名第四，比上一代提升了80分，仅次于GPT；  多图像编辑功能排名第五，获1328分，提升了67分；  单张图像编辑功能排名第六，共获1428分，提升了38分。  更香的是API价格。 谷歌大手一挥，将Nano Banana 2.1 1K、2K图",
+      "summary_zh": "Nano Banana终于2.1了！4K直出，中文进步太明显  文婷 2026-10-10 16:52:16  来源：量子位   文婷 发自 凹非寺 量子位 | 公众号 QbitAI 果然夜没白熬，Google家的大香蕉终于更新了！ 凌晨，Google突然发布了新一代生图模型Nano Banana 2.1，围绕视觉设计、蒙版编辑、主体一致性和画面真实自然性实现了全面升级。  它不仅能4K直出摄影级大片，还能自由修图，一键替换背景，精准治愈设计师们“改图改到崩溃”的烦恼： △画圈保留主体并无缝替换背景 △下棋，图源推特@Fries 战绩也相当能打。 据美国知名AI评测平台Arena，相比于上一代Nano Banana 2，Nano Banana 2.1在文本转图像、多图像编辑及单张图像编辑三项功能上平均提升了约61.7分。 其中，文本转图像功能排名第四，比上一代提升了80分，仅次于GPT；  多图像编辑功能排名第五，获1328分，提升了67分；  单张图像编辑功能排名第六，共获1428分，提升了38分。  更香的是API价格。 谷歌大手一挥，将Nano Banana 2.1 1K、2K图",
+      "publishedAt": "2026-10-10T08:52:16Z",
+      "published_at": "2026-10-10T08:52:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0cda7165",
+      "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/502492.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502492.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧  文婷 2026-10-10 16:54:08  来源：量子位   文婷 发自 凹非寺 量子位 | 公众号 QbitAI 短短24天，融资额膨胀了近22倍，估值翻了37.5倍。 Jev掀起的风暴，已经变成真金白银了！  就在今天，Jev的母公司TypeSafe AI宣布完成8.7亿美元（约63.08亿元）A轮融资，投后估值达75亿美元（约543.75亿元）。 而引爆这一切的，甚至只是一个“不会聊天、只会做决定”的AI模型——Jev。 它火的方式也挺抽象的，它不聊天、不写代码，yes or no它选择or。 简单中译中一下，就是它把传统LLM的生成功能给砍了，只专心干一件事：下判断。 而且……因为新架构实在太便宜，不好计量，于是输出token永久免费，输入每百万Token也只需0.042美元（约0.3元）。 △只能说各家的Flash模型哭晕在厕所 更有趣的是，还有人连夜开源了一个“Jev聊天助手”，它可以帮你提前预判老板的预判、并搞清楚对象闹别扭到底是为了啥，并一键生成几条最合适的回复供你选择： △图源X @Ian (伊恩)， 这可",
+      "summary_zh": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧  文婷 2026-10-10 16:54:08  来源：量子位   文婷 发自 凹非寺 量子位 | 公众号 QbitAI 短短24天，融资额膨胀了近22倍，估值翻了37.5倍。 Jev掀起的风暴，已经变成真金白银了！  就在今天，Jev的母公司TypeSafe AI宣布完成8.7亿美元（约63.08亿元）A轮融资，投后估值达75亿美元（约543.75亿元）。 而引爆这一切的，甚至只是一个“不会聊天、只会做决定”的AI模型——Jev。 它火的方式也挺抽象的，它不聊天、不写代码，yes or no它选择or。 简单中译中一下，就是它把传统LLM的生成功能给砍了，只专心干一件事：下判断。 而且……因为新架构实在太便宜，不好计量，于是输出token永久免费，输入每百万Token也只需0.042美元（约0.3元）。 △只能说各家的Flash模型哭晕在厕所 更有趣的是，还有人连夜开源了一个“Jev聊天助手”，它可以帮你提前预判老板的预判、并搞清楚对象闹别扭到底是为了啥，并一键生成几条最合适的回复供你选择： △图源X @Ian (伊恩)， 这可",
+      "publishedAt": "2026-10-10T08:54:08Z",
+      "published_at": "2026-10-10T08:54:08Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "698c94a0",
+      "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/502496.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502496.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起  量子位的朋友们 2026-10-10 17:07:43  来源：量子位   2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会  2026年9月28日，全球领先的AI终端生态公司荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会，正式发布荣耀Magic9 Pro Max、荣耀Magic9、荣耀Magic9超能版三款旗舰产品。携手百年影像传奇阿莱（ARRI），荣耀Magic9 系列将电影美学与专业创作流程带到手机影像中，打造人人皆可直出大片的掌中电影机。 创造，是荣耀Magic系列十年不变的底色；创新，则是荣耀对创造最直接的回应。荣耀CEO李健表示：“荣耀Magic9 系列是荣耀献给这个时代创作者的十年匠心之作，我们希望以科技之力，赋能每一颗热爱创作的灵魂。”作为荣耀“敢想敢不同”品牌焕新后的首款旗舰，也是荣耀Magic 系列十周年的集大成之作，荣耀Magic9 系列进一步明确“为创造而生”的系列定位，同时重新定义旗舰产品矩阵，不再",
+      "summary_zh": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起  量子位的朋友们 2026-10-10 17:07:43  来源：量子位   2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会  2026年9月28日，全球领先的AI终端生态公司荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会，正式发布荣耀Magic9 Pro Max、荣耀Magic9、荣耀Magic9超能版三款旗舰产品。携手百年影像传奇阿莱（ARRI），荣耀Magic9 系列将电影美学与专业创作流程带到手机影像中，打造人人皆可直出大片的掌中电影机。 创造，是荣耀Magic系列十年不变的底色；创新，则是荣耀对创造最直接的回应。荣耀CEO李健表示：“荣耀Magic9 系列是荣耀献给这个时代创作者的十年匠心之作，我们希望以科技之力，赋能每一颗热爱创作的灵魂。”作为荣耀“敢想敢不同”品牌焕新后的首款旗舰，也是荣耀Magic 系列十周年的集大成之作，荣耀Magic9 系列进一步明确“为创造而生”的系列定位，同时重新定义旗舰产品矩阵，不再",
+      "publishedAt": "2026-10-10T09:07:43Z",
+      "published_at": "2026-10-10T09:07:43Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "d231ca33",
+      "title": "长鑫技术新突破：4F²架构产品预计年",
+      "title_en": "长鑫技术新突破：4F²架构产品预计年底亮相",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "长鑫技术新突破：4F²架构产品预计年底亮相",
+      "summary_zh": "长鑫技术新突破：4F²架构产品预计年底亮相",
+      "publishedAt": "2026-10-10T23:40:28Z",
+      "published_at": "2026-10-10T23:40:28Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

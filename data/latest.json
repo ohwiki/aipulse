@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-10T14:35:16Z",
-  "generatedAt": "2026-10-10T14:35:16Z",
+  "generated_at": "2026-10-10T23:40:50Z",
+  "generatedAt": "2026-10-10T23:40:50Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "8625cb89",
@@ -22,7 +22,7 @@
       "summary_zh": "Get discovered & recommended when customers as",
       "publishedAt": "2026-10-10T07:01:00Z",
       "published_at": "2026-10-10T07:01:00Z",
-      "votes_count": 246,
+      "votes_count": 353,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "AI voiceover with every name, price and date s",
       "publishedAt": "2026-10-10T07:01:00Z",
       "published_at": "2026-10-10T07:01:00Z",
-      "votes_count": 245,
+      "votes_count": 325,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "Ask Claude for live dashboards and animated ex",
       "publishedAt": "2026-10-10T07:01:00Z",
       "published_at": "2026-10-10T07:01:00Z",
-      "votes_count": 130,
+      "votes_count": 202,
       "featured": true,
       "topics": [
         {
@@ -115,6 +115,34 @@
           "id": "811",
           "name": "Animation",
           "slug": "animation"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d0f68dac",
+      "title": "产品更新：Microsoft-Decis",
+      "title_en": "Microsoft-Decision-1",
+      "url": "https://www.producthunt.com/products/microsoft-decision-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/microsoft-decision-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Microsoft’s decision model for agents and work",
+      "summary_zh": "Microsoft’s decision model for agents and work",
+      "publishedAt": "2026-10-10T07:01:00Z",
+      "published_at": "2026-10-10T07:01:00Z",
+      "votes_count": 137,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         }
       ],
       "score_details": null
@@ -200,8 +228,8 @@
       "rankingScore": 5.0,
       "summary": "长鑫技术新突破：4F²架构产品预计年底亮相",
       "summary_zh": "长鑫技术新突破：4F²架构产品预计年底亮相",
-      "publishedAt": "2026-10-10T14:34:36Z",
-      "published_at": "2026-10-10T14:34:36Z",
+      "publishedAt": "2026-10-10T23:40:28Z",
+      "published_at": "2026-10-10T23:40:28Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
