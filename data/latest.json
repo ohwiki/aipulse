@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T15:27:45Z",
-  "generatedAt": "2026-10-09T15:27:45Z",
+  "generated_at": "2026-10-10T00:08:14Z",
+  "generatedAt": "2026-10-10T00:08:14Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "Marketing infrastructure for products and agen",
       "publishedAt": "2026-10-09T07:01:00Z",
       "published_at": "2026-10-09T07:01:00Z",
-      "votes_count": 237,
+      "votes_count": 292,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "The general system of record for AI agents Dif",
       "publishedAt": "2026-10-09T07:01:00Z",
       "published_at": "2026-10-09T07:01:00Z",
-      "votes_count": 176,
+      "votes_count": 259,
       "featured": true,
       "topics": [
         {
@@ -82,44 +82,6 @@
       "score_details": null
     },
     {
-      "id": "216a0c46",
-      "title": "产品更新：Together Link",
-      "title_en": "Together Link",
-      "url": "https://www.producthunt.com/products/together-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/together-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Use open models in your harness Together Link",
-      "summary_zh": "Use open models in your harness Together Link",
-      "publishedAt": "2026-10-09T07:01:00Z",
-      "published_at": "2026-10-09T07:01:00Z",
-      "votes_count": 143,
-      "featured": true,
-      "topics": [
-        {
-          "id": "89",
-          "name": "Open Source",
-          "slug": "open-source"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "5afc6987",
       "title": "产品更新：Playground by G",
       "title_en": "Playground by Google Labs",
@@ -136,7 +98,7 @@
       "summary_zh": "Create, play, and share your own games with Go",
       "publishedAt": "2026-10-09T07:01:00Z",
       "published_at": "2026-10-09T07:01:00Z",
-      "votes_count": 136,
+      "votes_count": 192,
       "featured": true,
       "topics": [
         {
@@ -148,6 +110,44 @@
           "id": "353",
           "name": "Games",
           "slug": "games"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "216a0c46",
+      "title": "产品更新：Together Link",
+      "title_en": "Together Link",
+      "url": "https://www.producthunt.com/products/together-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/together-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Use open models in your harness Together Link",
+      "summary_zh": "Use open models in your harness Together Link",
+      "publishedAt": "2026-10-09T07:01:00Z",
+      "published_at": "2026-10-09T07:01:00Z",
+      "votes_count": 158,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         }
       ],
       "score_details": null
@@ -233,8 +233,8 @@
       "rankingScore": 5.0,
       "summary": "全球首次！人形机器人用灵巧手自主叠衣，西湖机器人做到了",
       "summary_zh": "全球首次！人形机器人用灵巧手自主叠衣，西湖机器人做到了",
-      "publishedAt": "2026-10-09T15:26:51Z",
-      "published_at": "2026-10-09T15:26:51Z",
+      "publishedAt": "2026-10-10T00:06:21Z",
+      "published_at": "2026-10-10T00:06:21Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

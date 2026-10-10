@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-10-09T15:27:45Z",
-  "generatedAt": "2026-10-09T15:27:45Z",
-  "count": 150,
-  "total": 150,
+  "generated_at": "2026-10-10T00:08:14Z",
+  "generatedAt": "2026-10-10T00:08:14Z",
+  "count": 151,
+  "total": 151,
   "entries": [
+    {
+      "date": "2026-10-10",
+      "generated_at": "2026-10-10T00:08:14Z",
+      "generatedAt": "2026-10-10T00:08:14Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "1d0ac689",
+          "title": "产品更新：Zernio",
+          "title_en": "Zernio",
+          "url": "https://www.producthunt.com/products/zernio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/zernio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Marketing infrastructure for products and agen",
+          "summary_zh": "Marketing infrastructure for products and agen",
+          "publishedAt": "2026-10-09T07:01:00Z",
+          "published_at": "2026-10-09T07:01:00Z",
+          "votes_count": 292,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ab7be25b",
+          "title": "产品更新：Busabase",
+          "title_en": "Busabase",
+          "url": "https://www.producthunt.com/products/busabase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/busabase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The general system of record for AI agents Dif",
+          "summary_zh": "The general system of record for AI agents Dif",
+          "publishedAt": "2026-10-09T07:01:00Z",
+          "published_at": "2026-10-09T07:01:00Z",
+          "votes_count": 259,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "772",
+              "name": "Database",
+              "slug": "database"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5afc6987",
+          "title": "产品更新：Playground by G",
+          "title_en": "Playground by Google Labs",
+          "url": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Create, play, and share your own games with Go",
+          "summary_zh": "Create, play, and share your own games with Go",
+          "publishedAt": "2026-10-09T07:01:00Z",
+          "published_at": "2026-10-09T07:01:00Z",
+          "votes_count": 192,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "generated_at": "2026-10-09T15:27:45Z",
