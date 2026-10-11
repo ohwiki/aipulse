@@ -1,126 +1,126 @@
 {
-  "generated_at": "2026-10-10T23:40:50Z",
-  "generatedAt": "2026-10-10T23:40:50Z",
+  "generated_at": "2026-10-11T15:00:04Z",
+  "generatedAt": "2026-10-11T15:00:04Z",
   "count": 152,
   "total": 152,
   "entries": [
     {
       "date": "2026-10-11",
-      "generated_at": "2026-10-10T23:40:50Z",
-      "generatedAt": "2026-10-10T23:40:50Z",
-      "total": 8,
+      "generated_at": "2026-10-11T15:00:04Z",
+      "generatedAt": "2026-10-11T15:00:04Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "8625cb89",
-          "title": "产品更新：ReSO AI",
-          "title_en": "ReSO AI",
-          "url": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "ad2a4955",
+          "title": "产品更新：HireKey",
+          "title_en": "HireKey",
+          "url": "https://www.producthunt.com/products/hirekey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/reso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/hirekey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Get discovered & recommended when customers as",
-          "summary_zh": "Get discovered & recommended when customers as",
-          "publishedAt": "2026-10-10T07:01:00Z",
-          "published_at": "2026-10-10T07:01:00Z",
-          "votes_count": 353,
+          "summary": "Your recruiter-informed AI copilot for tech jo",
+          "summary_zh": "Your recruiter-informed AI copilot for tech jo",
+          "publishedAt": "2026-10-11T07:01:00Z",
+          "published_at": "2026-10-11T07:01:00Z",
+          "votes_count": 214,
           "featured": true,
           "topics": [
-            {
-              "id": "231",
-              "name": "SEO",
-              "slug": "seo"
-            },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
             },
             {
-              "id": "839",
-              "name": "Marketing automation",
-              "slug": "marketing-automation"
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            },
+            {
+              "id": "835",
+              "name": "Career",
+              "slug": "career"
             }
           ],
           "score_details": null
         },
         {
-          "id": "1025c786",
-          "title": "产品更新：Onepin",
-          "title_en": "Onepin",
-          "url": "https://www.producthunt.com/products/onepin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "4dead5ac",
+          "title": "产品更新：kōdlo",
+          "title_en": "kōdlo",
+          "url": "https://www.producthunt.com/products/kodlo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/onepin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/kodlo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "AI voiceover with every name, price and date s",
-          "summary_zh": "AI voiceover with every name, price and date s",
-          "publishedAt": "2026-10-10T07:01:00Z",
-          "published_at": "2026-10-10T07:01:00Z",
-          "votes_count": 325,
+          "summary": "End-to-end sales workspace with unified contex",
+          "summary_zh": "End-to-end sales workspace with unified contex",
+          "publishedAt": "2026-10-11T07:01:00Z",
+          "published_at": "2026-10-11T07:01:00Z",
+          "votes_count": 149,
           "featured": true,
           "topics": [
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "471",
-              "name": "Audio",
-              "slug": "audio"
             }
           ],
           "score_details": null
         },
         {
-          "id": "bb5a9388",
-          "title": "产品更新：Claude Dashboar",
-          "title_en": "Claude Dashboards & Motion",
-          "url": "https://www.producthunt.com/products/claude-dashboards-motion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "6f90ebc8",
+          "title": "AI资讯更新：Automations i",
+          "title_en": "Automations in Perplexity Computer",
+          "url": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/claude-dashboards-motion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Ask Claude for live dashboards and animated ex",
-          "summary_zh": "Ask Claude for live dashboards and animated ex",
-          "publishedAt": "2026-10-10T07:01:00Z",
-          "published_at": "2026-10-10T07:01:00Z",
-          "votes_count": 202,
+          "summary": "Automations that remember, act, and keep work",
+          "summary_zh": "Automations that remember, act, and keep work",
+          "publishedAt": "2026-10-11T07:01:00Z",
+          "published_at": "2026-10-11T07:01:00Z",
+          "votes_count": 127,
           "featured": true,
           "topics": [
             {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "811",
-              "name": "Animation",
-              "slug": "animation"
             }
           ],
           "score_details": null
