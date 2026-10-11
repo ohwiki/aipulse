@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-11T15:00:04Z",
-  "generatedAt": "2026-10-11T15:00:04Z",
+  "generated_at": "2026-10-11T23:46:13Z",
+  "generatedAt": "2026-10-11T23:46:13Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "ad2a4955",
@@ -22,7 +22,7 @@
       "summary_zh": "Your recruiter-informed AI copilot for tech jo",
       "publishedAt": "2026-10-11T07:01:00Z",
       "published_at": "2026-10-11T07:01:00Z",
-      "votes_count": 214,
+      "votes_count": 245,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "End-to-end sales workspace with unified contex",
       "publishedAt": "2026-10-11T07:01:00Z",
       "published_at": "2026-10-11T07:01:00Z",
-      "votes_count": 149,
+      "votes_count": 206,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "Automations that remember, act, and keep work",
       "publishedAt": "2026-10-11T07:01:00Z",
       "published_at": "2026-10-11T07:01:00Z",
-      "votes_count": 127,
+      "votes_count": 158,
       "featured": true,
       "topics": [
         {
@@ -110,6 +110,44 @@
           "id": "48",
           "name": "Task Management",
           "slug": "task-management"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "bc56d5b3",
+      "title": "产品更新：Ghost Core",
+      "title_en": "Ghost Core",
+      "url": "https://www.producthunt.com/products/ghost-core?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ghost-core?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A personal AI computer that runs entirely on-d",
+      "summary_zh": "A personal AI computer that runs entirely on-d",
+      "publishedAt": "2026-10-11T07:01:00Z",
+      "published_at": "2026-10-11T07:01:00Z",
+      "votes_count": 142,
+      "featured": true,
+      "topics": [
+        {
+          "id": "125",
+          "name": "Hardware",
+          "slug": "hardware"
+        },
+        {
+          "id": "248",
+          "name": "Privacy",
+          "slug": "privacy"
         },
         {
           "id": "268",
@@ -200,8 +238,8 @@
       "rankingScore": 5.0,
       "summary": "ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了",
       "summary_zh": "ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了",
-      "publishedAt": "2026-10-11T14:59:34Z",
-      "published_at": "2026-10-11T14:59:34Z",
+      "publishedAt": "2026-10-11T23:45:43Z",
+      "published_at": "2026-10-11T23:45:43Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-10-11T15:00:04Z",
-  "generatedAt": "2026-10-11T15:00:04Z",
-  "count": 152,
-  "total": 152,
+  "generated_at": "2026-10-11T23:46:13Z",
+  "generatedAt": "2026-10-11T23:46:13Z",
+  "count": 153,
+  "total": 153,
   "entries": [
+    {
+      "date": "2026-10-12",
+      "generated_at": "2026-10-11T23:46:13Z",
+      "generatedAt": "2026-10-11T23:46:13Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "ad2a4955",
+          "title": "产品更新：HireKey",
+          "title_en": "HireKey",
+          "url": "https://www.producthunt.com/products/hirekey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/hirekey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your recruiter-informed AI copilot for tech jo",
+          "summary_zh": "Your recruiter-informed AI copilot for tech jo",
+          "publishedAt": "2026-10-11T07:01:00Z",
+          "published_at": "2026-10-11T07:01:00Z",
+          "votes_count": 245,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            },
+            {
+              "id": "835",
+              "name": "Career",
+              "slug": "career"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4dead5ac",
+          "title": "产品更新：kōdlo",
+          "title_en": "kōdlo",
+          "url": "https://www.producthunt.com/products/kodlo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/kodlo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "End-to-end sales workspace with unified contex",
+          "summary_zh": "End-to-end sales workspace with unified contex",
+          "publishedAt": "2026-10-11T07:01:00Z",
+          "published_at": "2026-10-11T07:01:00Z",
+          "votes_count": 206,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6f90ebc8",
+          "title": "AI资讯更新：Automations i",
+          "title_en": "Automations in Perplexity Computer",
+          "url": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Automations that remember, act, and keep work",
+          "summary_zh": "Automations that remember, act, and keep work",
+          "publishedAt": "2026-10-11T07:01:00Z",
+          "published_at": "2026-10-11T07:01:00Z",
+          "votes_count": 158,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-11",
       "generated_at": "2026-10-11T15:00:04Z",
