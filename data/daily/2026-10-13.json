@@ -1,0 +1,503 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-12T18:06:10Z",
+  "generatedAt": "2026-10-12T18:06:10Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "64f6af4f",
+          "title": "产品更新：ngram 2.0",
+          "title_en": "ngram 2.0",
+          "url": "https://www.producthunt.com/products/ngram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ngram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Create explainers, screencasts, and AI avatar",
+          "summary_zh": "Create explainers, screencasts, and AI avatar",
+          "publishedAt": "2026-10-12T07:01:00Z",
+          "published_at": "2026-10-12T07:01:00Z",
+          "votes_count": 193,
+          "featured": true,
+          "topics": [
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9fe87718",
+          "title": "产品更新：Knocket",
+          "title_en": "Knocket",
+          "url": "https://www.producthunt.com/products/knocket-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/knocket-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Chat with visitors from your website or link M",
+          "summary_zh": "Chat with visitors from your website or link M",
+          "publishedAt": "2026-10-12T07:01:00Z",
+          "published_at": "2026-10-12T07:01:00Z",
+          "votes_count": 181,
+          "featured": true,
+          "topics": [
+            {
+              "id": "55",
+              "name": "Customer Success",
+              "slug": "customer-success"
+            },
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            },
+            {
+              "id": "123",
+              "name": "Customer Communication",
+              "slug": "customer-communication"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "264cca4d",
+          "title": "产品更新：Base Code",
+          "title_en": "Base Code",
+          "url": "https://www.producthunt.com/products/base44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/base44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Let your whole team build on your product Base",
+          "summary_zh": "Let your whole team build on your product Base",
+          "publishedAt": "2026-10-12T07:01:00Z",
+          "published_at": "2026-10-12T07:01:00Z",
+          "votes_count": 164,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c559b4f5",
+          "title": "AI资讯更新：guilds.run",
+          "title_en": "guilds.run",
+          "url": "https://www.producthunt.com/products/guilds-run?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/guilds-run?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Create multi-agent workflows that you can trus",
+          "summary_zh": "Create multi-agent workflows that you can trus",
+          "publishedAt": "2026-10-12T07:01:00Z",
+          "published_at": "2026-10-12T07:01:00Z",
+          "votes_count": 139,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            },
+            {
+              "id": "342",
+              "name": "Bots",
+              "slug": "bots"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "a17f5a68",
+          "title": "智谱新模型，490 tokens/s！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/502649.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/502649.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "智谱新模型，490 tokens/s！  听雨 2026-10-12 10:37:04  来源：量子位   GLM「速度仙人」来了？  听雨 发自 凹非寺 量子位 | 公众号QbitAI 智谱上新了一个GLM-5.3-Highspeed模型，就在Zcode里。 据网友@leo114119爆料，这个新模型目前已经在Zcode 3.15.1里开放体验，订阅用户随机获得。       他晒出来的速度，甚至达到了490 tokens/s。    我也第一时间去Zcode里试了试，尝试手动添加并切换了这个模型。    但不知道是因为Lite套餐用户还不具备享受资格，还是因为没灰度到😭。。。 只能先望洋兴叹了(：з」∠) GLM-5.3高速版来了？ 既然是高速模型，那最值得关注的当然是速度了。 490TPS——这个网友晒出来的速度数字，也是相当恐怖了，接近500TPS。 TPS指的是每秒生成的token数量。如果持续保持这一速度，输出1万token，单算生成阶段约需20秒。 要知道，上个月智谱刚发布的GLM-5.3-FlashX，最高速度也才200 tokens/s。 而按照Artificial",
+          "summary_zh": "智谱新模型，490 tokens/s！  听雨 2026-10-12 10:37:04  来源：量子位   GLM「速度仙人」来了？  听雨 发自 凹非寺 量子位 | 公众号QbitAI 智谱上新了一个GLM-5.3-Highspeed模型，就在Zcode里。 据网友@leo114119爆料，这个新模型目前已经在Zcode 3.15.1里开放体验，订阅用户随机获得。       他晒出来的速度，甚至达到了490 tokens/s。    我也第一时间去Zcode里试了试，尝试手动添加并切换了这个模型。    但不知道是因为Lite套餐用户还不具备享受资格，还是因为没灰度到😭。。。 只能先望洋兴叹了(：з」∠) GLM-5.3高速版来了？ 既然是高速模型，那最值得关注的当然是速度了。 490TPS——这个网友晒出来的速度数字，也是相当恐怖了，接近500TPS。 TPS指的是每秒生成的token数量。如果持续保持这一速度，输出1万token，单算生成阶段约需20秒。 要知道，上个月智谱刚发布的GLM-5.3-FlashX，最高速度也才200 tokens/s。 而按照Artificial",
+          "publishedAt": "2026-10-12T02:37:04Z",
+          "published_at": "2026-10-12T02:37:04Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "dd2dec0a",
+          "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/502654.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/502654.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "华为AI靠RSI通关25款游戏！操作次数比人类少56%  一水 2026-10-12 13:48:36  来源：量子位   游戏打到21:0，AI甚至不用再调用大模型了  一水 发自 凹非寺 量子位 | 公众号 QbitAI 一边打游戏，一边给自己升级？ 好家伙，华为这波直接让AI学会了《边玩边变强》啊？！ 最新一项研究，华为诺亚方舟实验室联合UCL等团队拿出了一个名叫Memento 3的AI智能体系统—— 直接把ARC-AGI-3公开集里的25款游戏、183个关卡，全部打通了。  还不是靠无脑试错硬闯过去的。 人类完成同样一套关卡，需要17135次操作。 而Memento 3只用了7518次，比人类少操作约56%，最终拿下了满分100的RHAE成绩（Relative Human Action Efficiency，相对人类行动效率）。  更离谱的是，这套系统以Claude Opus 5为底模，全程没有更新模型权重，也没有针对游戏进行微调。 它就这么自己上手玩，自己琢磨规则，自己写代码，玩错了还会反思、修改。 然后就……满分通关了。 作为对比，Claude Opus 5在ARC Pri",
+          "summary_zh": "华为AI靠RSI通关25款游戏！操作次数比人类少56%  一水 2026-10-12 13:48:36  来源：量子位   游戏打到21:0，AI甚至不用再调用大模型了  一水 发自 凹非寺 量子位 | 公众号 QbitAI 一边打游戏，一边给自己升级？ 好家伙，华为这波直接让AI学会了《边玩边变强》啊？！ 最新一项研究，华为诺亚方舟实验室联合UCL等团队拿出了一个名叫Memento 3的AI智能体系统—— 直接把ARC-AGI-3公开集里的25款游戏、183个关卡，全部打通了。  还不是靠无脑试错硬闯过去的。 人类完成同样一套关卡，需要17135次操作。 而Memento 3只用了7518次，比人类少操作约56%，最终拿下了满分100的RHAE成绩（Relative Human Action Efficiency，相对人类行动效率）。  更离谱的是，这套系统以Claude Opus 5为底模，全程没有更新模型权重，也没有针对游戏进行微调。 它就这么自己上手玩，自己琢磨规则，自己写代码，玩错了还会反思、修改。 然后就……满分通关了。 作为对比，Claude Opus 5在ARC Pri",
+          "publishedAt": "2026-10-12T05:48:36Z",
+          "published_at": "2026-10-12T05:48:36Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0c9caadf",
+          "title": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/502667.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/502667.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题  鱼羊 2026-10-12 15:48:53  来源：量子位   GPT-6 Astra扫荡数学证明ing  鱼羊 发自 凹非寺量子位 | 公众号QbitAI AI现在真是开启数学证明扫荡模式了。 刚刚，又有数学爱好者用GPT-6 Astra把一个57年数学难题推进了一大步。     问题听上去倒是不复杂： 给你N个半径为1的圆盘，怎么把它们塞进一个大圆里，才能让大圆的半径尽可能小？     事实上，数学家们也确实在1969年就给出了漂亮的排列方案，只不过……57年来，谁也没能严格证明那就是最优解。 于是这一次，数学爱好者nor掏出了GPT-6 Astra……然后一口气把15、16、17、18和20这5种情况，也就是N≤20的剩余情况都给严格证明了…… 此前，只有N≤14和N=19的情况已经得到验证。 啊对了，N到20，并不是AI的极限，只是nor没想着往下证了……     卡了半个世纪的证明 咱们先把这个问题用更数学的形式来归置归置。 假设有N个半径均为1的圆盘，以及一个半径为R的大圆。 要求： 所有小圆盘必须",
+          "summary_zh": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题  鱼羊 2026-10-12 15:48:53  来源：量子位   GPT-6 Astra扫荡数学证明ing  鱼羊 发自 凹非寺量子位 | 公众号QbitAI AI现在真是开启数学证明扫荡模式了。 刚刚，又有数学爱好者用GPT-6 Astra把一个57年数学难题推进了一大步。     问题听上去倒是不复杂： 给你N个半径为1的圆盘，怎么把它们塞进一个大圆里，才能让大圆的半径尽可能小？     事实上，数学家们也确实在1969年就给出了漂亮的排列方案，只不过……57年来，谁也没能严格证明那就是最优解。 于是这一次，数学爱好者nor掏出了GPT-6 Astra……然后一口气把15、16、17、18和20这5种情况，也就是N≤20的剩余情况都给严格证明了…… 此前，只有N≤14和N=19的情况已经得到验证。 啊对了，N到20，并不是AI的极限，只是nor没想着往下证了……     卡了半个世纪的证明 咱们先把这个问题用更数学的形式来归置归置。 假设有N个半径均为1的圆盘，以及一个半径为R的大圆。 要求： 所有小圆盘必须",
+          "publishedAt": "2026-10-12T07:48:53Z",
+          "published_at": "2026-10-12T07:48:53Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "6ca97c2e",
+          "title": "刷LeetCode的时代要过去了？大",
+          "title_en": "刷LeetCode的时代要过去了？大厂面试正在转向",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "刷LeetCode的时代要过去了？大厂面试正在转向",
+          "summary_zh": "刷LeetCode的时代要过去了？大厂面试正在转向",
+          "publishedAt": "2026-10-12T18:05:34Z",
+          "published_at": "2026-10-12T18:05:34Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "64f6af4f",
+      "title": "产品更新：ngram 2.0",
+      "title_en": "ngram 2.0",
+      "url": "https://www.producthunt.com/products/ngram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ngram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Create explainers, screencasts, and AI avatar",
+      "summary_zh": "Create explainers, screencasts, and AI avatar",
+      "publishedAt": "2026-10-12T07:01:00Z",
+      "published_at": "2026-10-12T07:01:00Z",
+      "votes_count": 193,
+      "featured": true,
+      "topics": [
+        {
+          "id": "204",
+          "name": "Education",
+          "slug": "education"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9fe87718",
+      "title": "产品更新：Knocket",
+      "title_en": "Knocket",
+      "url": "https://www.producthunt.com/products/knocket-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/knocket-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Chat with visitors from your website or link M",
+      "summary_zh": "Chat with visitors from your website or link M",
+      "publishedAt": "2026-10-12T07:01:00Z",
+      "published_at": "2026-10-12T07:01:00Z",
+      "votes_count": 181,
+      "featured": true,
+      "topics": [
+        {
+          "id": "55",
+          "name": "Customer Success",
+          "slug": "customer-success"
+        },
+        {
+          "id": "60",
+          "name": "Messaging",
+          "slug": "messaging"
+        },
+        {
+          "id": "123",
+          "name": "Customer Communication",
+          "slug": "customer-communication"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "264cca4d",
+      "title": "产品更新：Base Code",
+      "title_en": "Base Code",
+      "url": "https://www.producthunt.com/products/base44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/base44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Let your whole team build on your product Base",
+      "summary_zh": "Let your whole team build on your product Base",
+      "publishedAt": "2026-10-12T07:01:00Z",
+      "published_at": "2026-10-12T07:01:00Z",
+      "votes_count": 164,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "c559b4f5",
+      "title": "AI资讯更新：guilds.run",
+      "title_en": "guilds.run",
+      "url": "https://www.producthunt.com/products/guilds-run?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/guilds-run?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Create multi-agent workflows that you can trus",
+      "summary_zh": "Create multi-agent workflows that you can trus",
+      "publishedAt": "2026-10-12T07:01:00Z",
+      "published_at": "2026-10-12T07:01:00Z",
+      "votes_count": 139,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "282",
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
+        },
+        {
+          "id": "342",
+          "name": "Bots",
+          "slug": "bots"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a17f5a68",
+      "title": "智谱新模型，490 tokens/s！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/502649.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502649.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "智谱新模型，490 tokens/s！  听雨 2026-10-12 10:37:04  来源：量子位   GLM「速度仙人」来了？  听雨 发自 凹非寺 量子位 | 公众号QbitAI 智谱上新了一个GLM-5.3-Highspeed模型，就在Zcode里。 据网友@leo114119爆料，这个新模型目前已经在Zcode 3.15.1里开放体验，订阅用户随机获得。       他晒出来的速度，甚至达到了490 tokens/s。    我也第一时间去Zcode里试了试，尝试手动添加并切换了这个模型。    但不知道是因为Lite套餐用户还不具备享受资格，还是因为没灰度到😭。。。 只能先望洋兴叹了(：з」∠) GLM-5.3高速版来了？ 既然是高速模型，那最值得关注的当然是速度了。 490TPS——这个网友晒出来的速度数字，也是相当恐怖了，接近500TPS。 TPS指的是每秒生成的token数量。如果持续保持这一速度，输出1万token，单算生成阶段约需20秒。 要知道，上个月智谱刚发布的GLM-5.3-FlashX，最高速度也才200 tokens/s。 而按照Artificial",
+      "summary_zh": "智谱新模型，490 tokens/s！  听雨 2026-10-12 10:37:04  来源：量子位   GLM「速度仙人」来了？  听雨 发自 凹非寺 量子位 | 公众号QbitAI 智谱上新了一个GLM-5.3-Highspeed模型，就在Zcode里。 据网友@leo114119爆料，这个新模型目前已经在Zcode 3.15.1里开放体验，订阅用户随机获得。       他晒出来的速度，甚至达到了490 tokens/s。    我也第一时间去Zcode里试了试，尝试手动添加并切换了这个模型。    但不知道是因为Lite套餐用户还不具备享受资格，还是因为没灰度到😭。。。 只能先望洋兴叹了(：з」∠) GLM-5.3高速版来了？ 既然是高速模型，那最值得关注的当然是速度了。 490TPS——这个网友晒出来的速度数字，也是相当恐怖了，接近500TPS。 TPS指的是每秒生成的token数量。如果持续保持这一速度，输出1万token，单算生成阶段约需20秒。 要知道，上个月智谱刚发布的GLM-5.3-FlashX，最高速度也才200 tokens/s。 而按照Artificial",
+      "publishedAt": "2026-10-12T02:37:04Z",
+      "published_at": "2026-10-12T02:37:04Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "dd2dec0a",
+      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/502654.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502654.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "华为AI靠RSI通关25款游戏！操作次数比人类少56%  一水 2026-10-12 13:48:36  来源：量子位   游戏打到21:0，AI甚至不用再调用大模型了  一水 发自 凹非寺 量子位 | 公众号 QbitAI 一边打游戏，一边给自己升级？ 好家伙，华为这波直接让AI学会了《边玩边变强》啊？！ 最新一项研究，华为诺亚方舟实验室联合UCL等团队拿出了一个名叫Memento 3的AI智能体系统—— 直接把ARC-AGI-3公开集里的25款游戏、183个关卡，全部打通了。  还不是靠无脑试错硬闯过去的。 人类完成同样一套关卡，需要17135次操作。 而Memento 3只用了7518次，比人类少操作约56%，最终拿下了满分100的RHAE成绩（Relative Human Action Efficiency，相对人类行动效率）。  更离谱的是，这套系统以Claude Opus 5为底模，全程没有更新模型权重，也没有针对游戏进行微调。 它就这么自己上手玩，自己琢磨规则，自己写代码，玩错了还会反思、修改。 然后就……满分通关了。 作为对比，Claude Opus 5在ARC Pri",
+      "summary_zh": "华为AI靠RSI通关25款游戏！操作次数比人类少56%  一水 2026-10-12 13:48:36  来源：量子位   游戏打到21:0，AI甚至不用再调用大模型了  一水 发自 凹非寺 量子位 | 公众号 QbitAI 一边打游戏，一边给自己升级？ 好家伙，华为这波直接让AI学会了《边玩边变强》啊？！ 最新一项研究，华为诺亚方舟实验室联合UCL等团队拿出了一个名叫Memento 3的AI智能体系统—— 直接把ARC-AGI-3公开集里的25款游戏、183个关卡，全部打通了。  还不是靠无脑试错硬闯过去的。 人类完成同样一套关卡，需要17135次操作。 而Memento 3只用了7518次，比人类少操作约56%，最终拿下了满分100的RHAE成绩（Relative Human Action Efficiency，相对人类行动效率）。  更离谱的是，这套系统以Claude Opus 5为底模，全程没有更新模型权重，也没有针对游戏进行微调。 它就这么自己上手玩，自己琢磨规则，自己写代码，玩错了还会反思、修改。 然后就……满分通关了。 作为对比，Claude Opus 5在ARC Pri",
+      "publishedAt": "2026-10-12T05:48:36Z",
+      "published_at": "2026-10-12T05:48:36Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0c9caadf",
+      "title": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/502667.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502667.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题  鱼羊 2026-10-12 15:48:53  来源：量子位   GPT-6 Astra扫荡数学证明ing  鱼羊 发自 凹非寺量子位 | 公众号QbitAI AI现在真是开启数学证明扫荡模式了。 刚刚，又有数学爱好者用GPT-6 Astra把一个57年数学难题推进了一大步。     问题听上去倒是不复杂： 给你N个半径为1的圆盘，怎么把它们塞进一个大圆里，才能让大圆的半径尽可能小？     事实上，数学家们也确实在1969年就给出了漂亮的排列方案，只不过……57年来，谁也没能严格证明那就是最优解。 于是这一次，数学爱好者nor掏出了GPT-6 Astra……然后一口气把15、16、17、18和20这5种情况，也就是N≤20的剩余情况都给严格证明了…… 此前，只有N≤14和N=19的情况已经得到验证。 啊对了，N到20，并不是AI的极限，只是nor没想着往下证了……     卡了半个世纪的证明 咱们先把这个问题用更数学的形式来归置归置。 假设有N个半径均为1的圆盘，以及一个半径为R的大圆。 要求： 所有小圆盘必须",
+      "summary_zh": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题  鱼羊 2026-10-12 15:48:53  来源：量子位   GPT-6 Astra扫荡数学证明ing  鱼羊 发自 凹非寺量子位 | 公众号QbitAI AI现在真是开启数学证明扫荡模式了。 刚刚，又有数学爱好者用GPT-6 Astra把一个57年数学难题推进了一大步。     问题听上去倒是不复杂： 给你N个半径为1的圆盘，怎么把它们塞进一个大圆里，才能让大圆的半径尽可能小？     事实上，数学家们也确实在1969年就给出了漂亮的排列方案，只不过……57年来，谁也没能严格证明那就是最优解。 于是这一次，数学爱好者nor掏出了GPT-6 Astra……然后一口气把15、16、17、18和20这5种情况，也就是N≤20的剩余情况都给严格证明了…… 此前，只有N≤14和N=19的情况已经得到验证。 啊对了，N到20，并不是AI的极限，只是nor没想着往下证了……     卡了半个世纪的证明 咱们先把这个问题用更数学的形式来归置归置。 假设有N个半径均为1的圆盘，以及一个半径为R的大圆。 要求： 所有小圆盘必须",
+      "publishedAt": "2026-10-12T07:48:53Z",
+      "published_at": "2026-10-12T07:48:53Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "6ca97c2e",
+      "title": "刷LeetCode的时代要过去了？大",
+      "title_en": "刷LeetCode的时代要过去了？大厂面试正在转向",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "刷LeetCode的时代要过去了？大厂面试正在转向",
+      "summary_zh": "刷LeetCode的时代要过去了？大厂面试正在转向",
+      "publishedAt": "2026-10-12T18:05:34Z",
+      "published_at": "2026-10-12T18:05:34Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

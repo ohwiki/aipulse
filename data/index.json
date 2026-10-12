@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-10-11T23:46:13Z",
-  "generatedAt": "2026-10-11T23:46:13Z",
-  "count": 153,
-  "total": 153,
+  "generated_at": "2026-10-12T18:06:10Z",
+  "generatedAt": "2026-10-12T18:06:10Z",
+  "count": 154,
+  "total": 154,
   "entries": [
+    {
+      "date": "2026-10-13",
+      "generated_at": "2026-10-12T18:06:10Z",
+      "generatedAt": "2026-10-12T18:06:10Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "64f6af4f",
+          "title": "产品更新：ngram 2.0",
+          "title_en": "ngram 2.0",
+          "url": "https://www.producthunt.com/products/ngram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ngram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Create explainers, screencasts, and AI avatar",
+          "summary_zh": "Create explainers, screencasts, and AI avatar",
+          "publishedAt": "2026-10-12T07:01:00Z",
+          "published_at": "2026-10-12T07:01:00Z",
+          "votes_count": 193,
+          "featured": true,
+          "topics": [
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9fe87718",
+          "title": "产品更新：Knocket",
+          "title_en": "Knocket",
+          "url": "https://www.producthunt.com/products/knocket-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/knocket-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Chat with visitors from your website or link M",
+          "summary_zh": "Chat with visitors from your website or link M",
+          "publishedAt": "2026-10-12T07:01:00Z",
+          "published_at": "2026-10-12T07:01:00Z",
+          "votes_count": 181,
+          "featured": true,
+          "topics": [
+            {
+              "id": "55",
+              "name": "Customer Success",
+              "slug": "customer-success"
+            },
+            {
+              "id": "60",
+              "name": "Messaging",
+              "slug": "messaging"
+            },
+            {
+              "id": "123",
+              "name": "Customer Communication",
+              "slug": "customer-communication"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "264cca4d",
+          "title": "产品更新：Base Code",
+          "title_en": "Base Code",
+          "url": "https://www.producthunt.com/products/base44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/base44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Let your whole team build on your product Base",
+          "summary_zh": "Let your whole team build on your product Base",
+          "publishedAt": "2026-10-12T07:01:00Z",
+          "published_at": "2026-10-12T07:01:00Z",
+          "votes_count": 164,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-12",
       "generated_at": "2026-10-11T23:46:13Z",
