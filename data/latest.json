@@ -1,110 +1,34 @@
 {
-  "generated_at": "2026-10-13T02:08:19Z",
-  "generatedAt": "2026-10-13T02:08:19Z",
+  "generated_at": "2026-10-13T16:13:13Z",
+  "generatedAt": "2026-10-13T16:13:13Z",
   "days": 7,
   "total": 8,
   "count": 8,
   "items": [
     {
-      "id": "64f6af4f",
-      "title": "产品更新：ngram 2.0",
-      "title_en": "ngram 2.0",
-      "url": "https://www.producthunt.com/products/ngram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "29ccc7e5",
+      "title": "产品更新：Articos MCP",
+      "title_en": "Articos MCP",
+      "url": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/ngram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Create explainers, screencasts, and AI avatar",
-      "summary_zh": "Create explainers, screencasts, and AI avatar",
-      "publishedAt": "2026-10-12T07:01:00Z",
-      "published_at": "2026-10-12T07:01:00Z",
-      "votes_count": 229,
+      "summary": "See how simulated buyers react, right in your",
+      "summary_zh": "See how simulated buyers react, right in your",
+      "publishedAt": "2026-10-13T07:01:00Z",
+      "published_at": "2026-10-13T07:01:00Z",
+      "votes_count": 267,
       "featured": true,
       "topics": [
         {
-          "id": "204",
-          "name": "Education",
-          "slug": "education"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "857",
-          "name": "Video",
-          "slug": "video"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "9fe87718",
-      "title": "产品更新：Knocket",
-      "title_en": "Knocket",
-      "url": "https://www.producthunt.com/products/knocket-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/knocket-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Chat with visitors from your website or link M",
-      "summary_zh": "Chat with visitors from your website or link M",
-      "publishedAt": "2026-10-12T07:01:00Z",
-      "published_at": "2026-10-12T07:01:00Z",
-      "votes_count": 188,
-      "featured": true,
-      "topics": [
-        {
-          "id": "55",
-          "name": "Customer Success",
-          "slug": "customer-success"
-        },
-        {
-          "id": "60",
-          "name": "Messaging",
-          "slug": "messaging"
-        },
-        {
-          "id": "123",
-          "name": "Customer Communication",
-          "slug": "customer-communication"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "264cca4d",
-      "title": "产品更新：Base Code",
-      "title_en": "Base Code",
-      "url": "https://www.producthunt.com/products/base44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/base44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Let your whole team build on your product Base",
-      "summary_zh": "Let your whole team build on your product Base",
-      "publishedAt": "2026-10-12T07:01:00Z",
-      "published_at": "2026-10-12T07:01:00Z",
-      "votes_count": 180,
-      "featured": true,
-      "topics": [
-        {
-          "id": "237",
-          "name": "SaaS",
-          "slug": "saas"
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
         },
         {
           "id": "267",
@@ -112,31 +36,31 @@
           "slug": "developer-tools"
         },
         {
-          "id": "470",
-          "name": "No-Code",
-          "slug": "no-code"
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         }
       ],
       "score_details": null
     },
     {
-      "id": "c559b4f5",
-      "title": "AI资讯更新：guilds.run",
-      "title_en": "guilds.run",
-      "url": "https://www.producthunt.com/products/guilds-run?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "46417870",
+      "title": "产品更新：OpenCode 2.0",
+      "title_en": "OpenCode 2.0",
+      "url": "https://www.producthunt.com/products/opencode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/guilds-run?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/opencode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Create multi-agent workflows that you can trus",
-      "summary_zh": "Create multi-agent workflows that you can trus",
-      "publishedAt": "2026-10-12T07:01:00Z",
-      "published_at": "2026-10-12T07:01:00Z",
-      "votes_count": 162,
+      "summary": "The open source AI coding agent OpenCode is an",
+      "summary_zh": "The open source AI coding agent OpenCode is an",
+      "publishedAt": "2026-10-13T07:01:00Z",
+      "published_at": "2026-10-13T07:01:00Z",
+      "votes_count": 191,
       "featured": true,
       "topics": [
         {
@@ -145,88 +69,159 @@
           "slug": "open-source"
         },
         {
-          "id": "282",
-          "name": "Virtual Assistants",
-          "slug": "virtual-assistants"
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
         },
         {
-          "id": "342",
-          "name": "Bots",
-          "slug": "bots"
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
         }
       ],
       "score_details": null
     },
     {
-      "id": "a17f5a68",
-      "title": "智谱新模型，490 tokens/s！",
+      "id": "24ebc488",
+      "title": "模型更新：Muse Wonder",
+      "title_en": "Muse Wonder",
+      "url": "https://www.producthunt.com/products/meta-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/meta-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Meta’s most capable models for personal agents",
+      "summary_zh": "Meta’s most capable models for personal agents",
+      "publishedAt": "2026-10-13T07:01:00Z",
+      "published_at": "2026-10-13T07:01:00Z",
+      "votes_count": 159,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "57d610bc",
+      "title": "产品更新：Kai",
+      "title_en": "Kai",
+      "url": "https://www.producthunt.com/products/hirekai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/hirekai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Autonomous assistant designed to handle meetin",
+      "summary_zh": "Autonomous assistant designed to handle meetin",
+      "publishedAt": "2026-10-13T07:01:00Z",
+      "published_at": "2026-10-13T07:01:00Z",
+      "votes_count": 143,
+      "featured": true,
+      "topics": [
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "0f3702de",
+      "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/502649.html",
+      "url": "https://www.qbitai.com/2026/10/502770.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502649.html",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502770.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "智谱新模型，490 tokens/s！  听雨 2026-10-12 10:37:04  来源：量子位   GLM「速度仙人」来了？  听雨 发自 凹非寺 量子位 | 公众号QbitAI 智谱上新了一个GLM-5.3-Highspeed模型，就在Zcode里。 据网友@leo114119爆料，这个新模型目前已经在Zcode 3.15.1里开放体验，订阅用户随机获得。       他晒出来的速度，甚至达到了490 tokens/s。    我也第一时间去Zcode里试了试，尝试手动添加并切换了这个模型。    但不知道是因为Lite套餐用户还不具备享受资格，还是因为没灰度到😭。。。 只能先望洋兴叹了(：з」∠) GLM-5.3高速版来了？ 既然是高速模型，那最值得关注的当然是速度了。 490TPS——这个网友晒出来的速度数字，也是相当恐怖了，接近500TPS。 TPS指的是每秒生成的token数量。如果持续保持这一速度，输出1万token，单算生成阶段约需20秒。 要知道，上个月智谱刚发布的GLM-5.3-FlashX，最高速度也才200 tokens/s。 而按照Artificial",
-      "summary_zh": "智谱新模型，490 tokens/s！  听雨 2026-10-12 10:37:04  来源：量子位   GLM「速度仙人」来了？  听雨 发自 凹非寺 量子位 | 公众号QbitAI 智谱上新了一个GLM-5.3-Highspeed模型，就在Zcode里。 据网友@leo114119爆料，这个新模型目前已经在Zcode 3.15.1里开放体验，订阅用户随机获得。       他晒出来的速度，甚至达到了490 tokens/s。    我也第一时间去Zcode里试了试，尝试手动添加并切换了这个模型。    但不知道是因为Lite套餐用户还不具备享受资格，还是因为没灰度到😭。。。 只能先望洋兴叹了(：з」∠) GLM-5.3高速版来了？ 既然是高速模型，那最值得关注的当然是速度了。 490TPS——这个网友晒出来的速度数字，也是相当恐怖了，接近500TPS。 TPS指的是每秒生成的token数量。如果持续保持这一速度，输出1万token，单算生成阶段约需20秒。 要知道，上个月智谱刚发布的GLM-5.3-FlashX，最高速度也才200 tokens/s。 而按照Artificial",
-      "publishedAt": "2026-10-12T02:37:04Z",
-      "published_at": "2026-10-12T02:37:04Z",
+      "summary": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一  量子位的朋友们 2026-10-13 10:01:56  来源：量子位   优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名  《财富》联合波士顿咨询（BCG）发布 2026 Fortune Future 120（全球最具未来增长潜力的 120 强企业榜单），优必选以总分 115 拿下全球第 11 名，是本次榜单里排名最高的中国企业。  这份榜单看重企业内生增长活力，围绕成长雄心、人才密度、成长文化三大维度，从全球 3500 多家企业里，筛选最具长期增长能力的 120 家企业。美国科技巨头英伟达（第 16 名）、Open AI（第 18 名）、苹果（第 55 名）、特斯拉（第 87 名）、Meta（第 120 名）上榜。中国共有 11 家企业入选，具体排名如下：  深耕具身智能与人形机器人赛道，优必选交出亮眼增长答卷。2026 上半年公司总营收 12.7 亿元，同比增长 104.2%；人形机器人整体销量同比上涨 268.3%。其中全尺寸具身智能人形机器人增",
+      "summary_zh": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一  量子位的朋友们 2026-10-13 10:01:56  来源：量子位   优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名  《财富》联合波士顿咨询（BCG）发布 2026 Fortune Future 120（全球最具未来增长潜力的 120 强企业榜单），优必选以总分 115 拿下全球第 11 名，是本次榜单里排名最高的中国企业。  这份榜单看重企业内生增长活力，围绕成长雄心、人才密度、成长文化三大维度，从全球 3500 多家企业里，筛选最具长期增长能力的 120 家企业。美国科技巨头英伟达（第 16 名）、Open AI（第 18 名）、苹果（第 55 名）、特斯拉（第 87 名）、Meta（第 120 名）上榜。中国共有 11 家企业入选，具体排名如下：  深耕具身智能与人形机器人赛道，优必选交出亮眼增长答卷。2026 上半年公司总营收 12.7 亿元，同比增长 104.2%；人形机器人整体销量同比上涨 268.3%。其中全尺寸具身智能人形机器人增",
+      "publishedAt": "2026-10-13T02:01:56Z",
+      "published_at": "2026-10-13T02:01:56Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "dd2dec0a",
-      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+      "id": "612a9b83",
+      "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/502654.html",
+      "url": "https://www.qbitai.com/2026/10/502767.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502654.html",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502767.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "华为AI靠RSI通关25款游戏！操作次数比人类少56%  一水 2026-10-12 13:48:36  来源：量子位   游戏打到21:0，AI甚至不用再调用大模型了  一水 发自 凹非寺 量子位 | 公众号 QbitAI 一边打游戏，一边给自己升级？ 好家伙，华为这波直接让AI学会了《边玩边变强》啊？！ 最新一项研究，华为诺亚方舟实验室联合UCL等团队拿出了一个名叫Memento 3的AI智能体系统—— 直接把ARC-AGI-3公开集里的25款游戏、183个关卡，全部打通了。  还不是靠无脑试错硬闯过去的。 人类完成同样一套关卡，需要17135次操作。 而Memento 3只用了7518次，比人类少操作约56%，最终拿下了满分100的RHAE成绩（Relative Human Action Efficiency，相对人类行动效率）。  更离谱的是，这套系统以Claude Opus 5为底模，全程没有更新模型权重，也没有针对游戏进行微调。 它就这么自己上手玩，自己琢磨规则，自己写代码，玩错了还会反思、修改。 然后就……满分通关了。 作为对比，Claude Opus 5在ARC Pri",
-      "summary_zh": "华为AI靠RSI通关25款游戏！操作次数比人类少56%  一水 2026-10-12 13:48:36  来源：量子位   游戏打到21:0，AI甚至不用再调用大模型了  一水 发自 凹非寺 量子位 | 公众号 QbitAI 一边打游戏，一边给自己升级？ 好家伙，华为这波直接让AI学会了《边玩边变强》啊？！ 最新一项研究，华为诺亚方舟实验室联合UCL等团队拿出了一个名叫Memento 3的AI智能体系统—— 直接把ARC-AGI-3公开集里的25款游戏、183个关卡，全部打通了。  还不是靠无脑试错硬闯过去的。 人类完成同样一套关卡，需要17135次操作。 而Memento 3只用了7518次，比人类少操作约56%，最终拿下了满分100的RHAE成绩（Relative Human Action Efficiency，相对人类行动效率）。  更离谱的是，这套系统以Claude Opus 5为底模，全程没有更新模型权重，也没有针对游戏进行微调。 它就这么自己上手玩，自己琢磨规则，自己写代码，玩错了还会反思、修改。 然后就……满分通关了。 作为对比，Claude Opus 5在ARC Pri",
-      "publishedAt": "2026-10-12T05:48:36Z",
-      "published_at": "2026-10-12T05:48:36Z",
+      "summary": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录  克雷西 2026-10-13 12:01:15  来源：量子位   算力、模型、行业，三层生意一起做  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 23亿元，AI原生基础设施服务商无问芯穹已完成C轮融资。加上前几轮，无问芯穹累计融了43亿元，单轮和累计都创下了国产AI原生基础设施赛道的新纪录。 无问芯穹自成立以来投资方阵容汇聚多方知名机构，涵盖国资机构、产业投资方、财务投资机构等多个类别。其中，国资机构包括杭州高新金投、社保中关村基金（君联资本管理）、珠海科技产业集团、厦门国兴投资、徐汇资本、孚腾资本、中保投资、国开科创等；产业投资方包括Dabanc Holding、联想、九坤创投、同歌创投、腾讯、百度等；财务投资机构则包括红杉中国、洪泰基金、惠远资本、启明创投、达晨财智、顺为资本、砺思资本等知名机构。无问芯穹已成为AI Infra赛道最受追捧的明星独角兽之一。  这家公司不训模型、不做应用，它做的是模型和芯片中间那一层，具体来说是把模型和芯片连起来，实现多种模型算法与多种芯片硬件间的极致效率与成本",
+      "summary_zh": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录  克雷西 2026-10-13 12:01:15  来源：量子位   算力、模型、行业，三层生意一起做  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 23亿元，AI原生基础设施服务商无问芯穹已完成C轮融资。加上前几轮，无问芯穹累计融了43亿元，单轮和累计都创下了国产AI原生基础设施赛道的新纪录。 无问芯穹自成立以来投资方阵容汇聚多方知名机构，涵盖国资机构、产业投资方、财务投资机构等多个类别。其中，国资机构包括杭州高新金投、社保中关村基金（君联资本管理）、珠海科技产业集团、厦门国兴投资、徐汇资本、孚腾资本、中保投资、国开科创等；产业投资方包括Dabanc Holding、联想、九坤创投、同歌创投、腾讯、百度等；财务投资机构则包括红杉中国、洪泰基金、惠远资本、启明创投、达晨财智、顺为资本、砺思资本等知名机构。无问芯穹已成为AI Infra赛道最受追捧的明星独角兽之一。  这家公司不训模型、不做应用，它做的是模型和芯片中间那一层，具体来说是把模型和芯片连起来，实现多种模型算法与多种芯片硬件间的极致效率与成本",
+      "publishedAt": "2026-10-13T04:01:15Z",
+      "published_at": "2026-10-13T04:01:15Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "0c9caadf",
-      "title": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题",
+      "id": "16399284",
+      "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/502667.html",
+      "url": "https://www.qbitai.com/2026/10/502849.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502667.html",
+      "sourceUrl": "https://www.qbitai.com/2026/10/502849.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题  鱼羊 2026-10-12 15:48:53  来源：量子位   GPT-6 Astra扫荡数学证明ing  鱼羊 发自 凹非寺量子位 | 公众号QbitAI AI现在真是开启数学证明扫荡模式了。 刚刚，又有数学爱好者用GPT-6 Astra把一个57年数学难题推进了一大步。     问题听上去倒是不复杂： 给你N个半径为1的圆盘，怎么把它们塞进一个大圆里，才能让大圆的半径尽可能小？     事实上，数学家们也确实在1969年就给出了漂亮的排列方案，只不过……57年来，谁也没能严格证明那就是最优解。 于是这一次，数学爱好者nor掏出了GPT-6 Astra……然后一口气把15、16、17、18和20这5种情况，也就是N≤20的剩余情况都给严格证明了…… 此前，只有N≤14和N=19的情况已经得到验证。 啊对了，N到20，并不是AI的极限，只是nor没想着往下证了……     卡了半个世纪的证明 咱们先把这个问题用更数学的形式来归置归置。 假设有N个半径均为1的圆盘，以及一个半径为R的大圆。 要求： 所有小圆盘必须",
-      "summary_zh": "刚刚，GPT-6 Astra联手非职业数学家，证明57年「摆圆」 难题  鱼羊 2026-10-12 15:48:53  来源：量子位   GPT-6 Astra扫荡数学证明ing  鱼羊 发自 凹非寺量子位 | 公众号QbitAI AI现在真是开启数学证明扫荡模式了。 刚刚，又有数学爱好者用GPT-6 Astra把一个57年数学难题推进了一大步。     问题听上去倒是不复杂： 给你N个半径为1的圆盘，怎么把它们塞进一个大圆里，才能让大圆的半径尽可能小？     事实上，数学家们也确实在1969年就给出了漂亮的排列方案，只不过……57年来，谁也没能严格证明那就是最优解。 于是这一次，数学爱好者nor掏出了GPT-6 Astra……然后一口气把15、16、17、18和20这5种情况，也就是N≤20的剩余情况都给严格证明了…… 此前，只有N≤14和N=19的情况已经得到验证。 啊对了，N到20，并不是AI的极限，只是nor没想着往下证了……     卡了半个世纪的证明 咱们先把这个问题用更数学的形式来归置归置。 假设有N个半径均为1的圆盘，以及一个半径为R的大圆。 要求： 所有小圆盘必须",
-      "publishedAt": "2026-10-12T07:48:53Z",
-      "published_at": "2026-10-12T07:48:53Z",
+      "summary": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管  克雷西 2026-10-13 12:04:22  来源：量子位   丢一句话进去，事儿就办完了  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 今天千问搞了个大事情。 过去这一阵，Meta发了Muse，OpenAI亮了Dots……全球最头部的AI公司集中把同一张牌拍到了桌上。 这张牌叫Personal Agent，a.k.a.代表你去办事的AI。 然后今天，千问直接把自己的答卷亮出来了：「千问Go！」 它能干嘛呢？ 部分被幸运地灰度到的用户分享了自己的体验。 整体看下来，这么说吧，像常规的机票酒店预订对它来说只能算入门操作。 那些你自己都找不到的入口，它能翻出来；那些你压根不知道存在的冷门功能，它会操作； 甚至需要的时候，它还能拿起键盘跟真人客服一轮一轮地磨。 反正就是全程你几乎什么都不用管，除非是登录账号这类没法代劳的操作。 丢一句话进去，该干嘛干嘛，回头收到一条消息，事儿就办完了。 航班延误补偿，千问替你battle 第一个案例，关于坐飞机出行。 不过可不是一般的订票值机，这对现在的Agent来说太基础了。 我们",
+      "summary_zh": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管  克雷西 2026-10-13 12:04:22  来源：量子位   丢一句话进去，事儿就办完了  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 今天千问搞了个大事情。 过去这一阵，Meta发了Muse，OpenAI亮了Dots……全球最头部的AI公司集中把同一张牌拍到了桌上。 这张牌叫Personal Agent，a.k.a.代表你去办事的AI。 然后今天，千问直接把自己的答卷亮出来了：「千问Go！」 它能干嘛呢？ 部分被幸运地灰度到的用户分享了自己的体验。 整体看下来，这么说吧，像常规的机票酒店预订对它来说只能算入门操作。 那些你自己都找不到的入口，它能翻出来；那些你压根不知道存在的冷门功能，它会操作； 甚至需要的时候，它还能拿起键盘跟真人客服一轮一轮地磨。 反正就是全程你几乎什么都不用管，除非是登录账号这类没法代劳的操作。 丢一句话进去，该干嘛干嘛，回头收到一条消息，事儿就办完了。 航班延误补偿，千问替你battle 第一个案例，关于坐飞机出行。 不过可不是一般的订票值机，这对现在的Agent来说太基础了。 我们",
+      "publishedAt": "2026-10-13T04:04:22Z",
+      "published_at": "2026-10-13T04:04:22Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "6ca97c2e",
-      "title": "刷LeetCode的时代要过去了？大",
-      "title_en": "刷LeetCode的时代要过去了？大厂面试正在转向",
+      "id": "4e5d23ca",
+      "title": "让蛋白质设计像文生图一样简单，大卫・",
+      "title_en": "让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -236,10 +231,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "刷LeetCode的时代要过去了？大厂面试正在转向",
-      "summary_zh": "刷LeetCode的时代要过去了？大厂面试正在转向",
-      "publishedAt": "2026-10-13T02:07:26Z",
-      "published_at": "2026-10-13T02:07:26Z",
+      "summary": "让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型",
+      "summary_zh": "让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型",
+      "publishedAt": "2026-10-13T16:12:29Z",
+      "published_at": "2026-10-13T16:12:29Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

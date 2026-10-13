@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-10-13T02:08:19Z",
-  "generatedAt": "2026-10-13T02:08:19Z",
-  "count": 154,
-  "total": 154,
+  "generated_at": "2026-10-13T16:13:13Z",
+  "generatedAt": "2026-10-13T16:13:13Z",
+  "count": 155,
+  "total": 155,
   "entries": [
+    {
+      "date": "2026-10-14",
+      "generated_at": "2026-10-13T16:13:13Z",
+      "generatedAt": "2026-10-13T16:13:13Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "29ccc7e5",
+          "title": "产品更新：Articos MCP",
+          "title_en": "Articos MCP",
+          "url": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "See how simulated buyers react, right in your",
+          "summary_zh": "See how simulated buyers react, right in your",
+          "publishedAt": "2026-10-13T07:01:00Z",
+          "published_at": "2026-10-13T07:01:00Z",
+          "votes_count": 267,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "46417870",
+          "title": "产品更新：OpenCode 2.0",
+          "title_en": "OpenCode 2.0",
+          "url": "https://www.producthunt.com/products/opencode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/opencode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The open source AI coding agent OpenCode is an",
+          "summary_zh": "The open source AI coding agent OpenCode is an",
+          "publishedAt": "2026-10-13T07:01:00Z",
+          "published_at": "2026-10-13T07:01:00Z",
+          "votes_count": 191,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "24ebc488",
+          "title": "模型更新：Muse Wonder",
+          "title_en": "Muse Wonder",
+          "url": "https://www.producthunt.com/products/meta-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/meta-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Meta’s most capable models for personal agents",
+          "summary_zh": "Meta’s most capable models for personal agents",
+          "publishedAt": "2026-10-13T07:01:00Z",
+          "published_at": "2026-10-13T07:01:00Z",
+          "votes_count": 159,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-13",
       "generated_at": "2026-10-13T02:08:19Z",
