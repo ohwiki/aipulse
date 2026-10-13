@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T16:13:13Z",
-  "generatedAt": "2026-10-13T16:13:13Z",
+  "generated_at": "2026-10-13T23:46:29Z",
+  "generatedAt": "2026-10-13T23:46:29Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "See how simulated buyers react, right in your",
       "publishedAt": "2026-10-13T07:01:00Z",
       "published_at": "2026-10-13T07:01:00Z",
-      "votes_count": 267,
+      "votes_count": 298,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "The open source AI coding agent OpenCode is an",
       "publishedAt": "2026-10-13T07:01:00Z",
       "published_at": "2026-10-13T07:01:00Z",
-      "votes_count": 191,
+      "votes_count": 236,
       "featured": true,
       "topics": [
         {
@@ -103,7 +103,7 @@
       "summary_zh": "Meta’s most capable models for personal agents",
       "publishedAt": "2026-10-13T07:01:00Z",
       "published_at": "2026-10-13T07:01:00Z",
-      "votes_count": 159,
+      "votes_count": 210,
       "featured": true,
       "topics": [
         {
@@ -131,7 +131,7 @@
       "summary_zh": "Autonomous assistant designed to handle meetin",
       "publishedAt": "2026-10-13T07:01:00Z",
       "published_at": "2026-10-13T07:01:00Z",
-      "votes_count": 143,
+      "votes_count": 172,
       "featured": true,
       "topics": [
         {
@@ -233,8 +233,8 @@
       "rankingScore": 5.0,
       "summary": "让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型",
       "summary_zh": "让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型",
-      "publishedAt": "2026-10-13T16:12:29Z",
-      "published_at": "2026-10-13T16:12:29Z",
+      "publishedAt": "2026-10-13T23:45:54Z",
+      "published_at": "2026-10-13T23:45:54Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

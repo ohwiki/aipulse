@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-13T16:13:13Z",
-  "generatedAt": "2026-10-13T16:13:13Z",
+  "generated_at": "2026-10-13T23:46:29Z",
+  "generatedAt": "2026-10-13T23:46:29Z",
   "count": 155,
   "total": 155,
   "entries": [
     {
       "date": "2026-10-14",
-      "generated_at": "2026-10-13T16:13:13Z",
-      "generatedAt": "2026-10-13T16:13:13Z",
+      "generated_at": "2026-10-13T23:46:29Z",
+      "generatedAt": "2026-10-13T23:46:29Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
@@ -28,7 +28,7 @@
           "summary_zh": "See how simulated buyers react, right in your",
           "publishedAt": "2026-10-13T07:01:00Z",
           "published_at": "2026-10-13T07:01:00Z",
-          "votes_count": 267,
+          "votes_count": 298,
           "featured": true,
           "topics": [
             {
@@ -66,7 +66,7 @@
           "summary_zh": "The open source AI coding agent OpenCode is an",
           "publishedAt": "2026-10-13T07:01:00Z",
           "published_at": "2026-10-13T07:01:00Z",
-          "votes_count": 191,
+          "votes_count": 236,
           "featured": true,
           "topics": [
             {
@@ -109,7 +109,7 @@
           "summary_zh": "Meta’s most capable models for personal agents",
           "publishedAt": "2026-10-13T07:01:00Z",
           "published_at": "2026-10-13T07:01:00Z",
-          "votes_count": 159,
+          "votes_count": 210,
           "featured": true,
           "topics": [
             {
