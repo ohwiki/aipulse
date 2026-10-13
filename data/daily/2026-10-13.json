@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-12T18:06:10Z",
-  "generatedAt": "2026-10-12T18:06:10Z",
+  "generated_at": "2026-10-13T02:08:19Z",
+  "generatedAt": "2026-10-13T02:08:19Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -26,7 +26,7 @@
           "summary_zh": "Create explainers, screencasts, and AI avatar",
           "publishedAt": "2026-10-12T07:01:00Z",
           "published_at": "2026-10-12T07:01:00Z",
-          "votes_count": 193,
+          "votes_count": 229,
           "featured": true,
           "topics": [
             {
@@ -64,7 +64,7 @@
           "summary_zh": "Chat with visitors from your website or link M",
           "publishedAt": "2026-10-12T07:01:00Z",
           "published_at": "2026-10-12T07:01:00Z",
-          "votes_count": 181,
+          "votes_count": 188,
           "featured": true,
           "topics": [
             {
@@ -102,7 +102,7 @@
           "summary_zh": "Let your whole team build on your product Base",
           "publishedAt": "2026-10-12T07:01:00Z",
           "published_at": "2026-10-12T07:01:00Z",
-          "votes_count": 164,
+          "votes_count": 180,
           "featured": true,
           "topics": [
             {
@@ -140,7 +140,7 @@
           "summary_zh": "Create multi-agent workflows that you can trus",
           "publishedAt": "2026-10-12T07:01:00Z",
           "published_at": "2026-10-12T07:01:00Z",
-          "votes_count": 139,
+          "votes_count": 162,
           "featured": true,
           "topics": [
             {
@@ -248,8 +248,8 @@
           "rankingScore": 5.0,
           "summary": "刷LeetCode的时代要过去了？大厂面试正在转向",
           "summary_zh": "刷LeetCode的时代要过去了？大厂面试正在转向",
-          "publishedAt": "2026-10-12T18:05:34Z",
-          "published_at": "2026-10-12T18:05:34Z",
+          "publishedAt": "2026-10-13T02:07:26Z",
+          "published_at": "2026-10-13T02:07:26Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -276,7 +276,7 @@
       "summary_zh": "Create explainers, screencasts, and AI avatar",
       "publishedAt": "2026-10-12T07:01:00Z",
       "published_at": "2026-10-12T07:01:00Z",
-      "votes_count": 193,
+      "votes_count": 229,
       "featured": true,
       "topics": [
         {
@@ -314,7 +314,7 @@
       "summary_zh": "Chat with visitors from your website or link M",
       "publishedAt": "2026-10-12T07:01:00Z",
       "published_at": "2026-10-12T07:01:00Z",
-      "votes_count": 181,
+      "votes_count": 188,
       "featured": true,
       "topics": [
         {
@@ -352,7 +352,7 @@
       "summary_zh": "Let your whole team build on your product Base",
       "publishedAt": "2026-10-12T07:01:00Z",
       "published_at": "2026-10-12T07:01:00Z",
-      "votes_count": 164,
+      "votes_count": 180,
       "featured": true,
       "topics": [
         {
@@ -390,7 +390,7 @@
       "summary_zh": "Create multi-agent workflows that you can trus",
       "publishedAt": "2026-10-12T07:01:00Z",
       "published_at": "2026-10-12T07:01:00Z",
-      "votes_count": 139,
+      "votes_count": 162,
       "featured": true,
       "topics": [
         {
@@ -492,8 +492,8 @@
       "rankingScore": 5.0,
       "summary": "刷LeetCode的时代要过去了？大厂面试正在转向",
       "summary_zh": "刷LeetCode的时代要过去了？大厂面试正在转向",
-      "publishedAt": "2026-10-12T18:05:34Z",
-      "published_at": "2026-10-12T18:05:34Z",
+      "publishedAt": "2026-10-13T02:07:26Z",
+      "published_at": "2026-10-13T02:07:26Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
