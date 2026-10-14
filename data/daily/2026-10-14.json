@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-13T23:46:29Z",
-  "generatedAt": "2026-10-13T23:46:29Z",
+  "generated_at": "2026-10-14T13:55:15Z",
+  "generatedAt": "2026-10-14T13:55:15Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -10,36 +10,74 @@
       "label": "产品发布/更新",
       "items": [
         {
-          "id": "29ccc7e5",
-          "title": "产品更新：Articos MCP",
-          "title_en": "Articos MCP",
-          "url": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "5cd9c1bd",
+          "title": "模型更新：Inferock",
+          "title_en": "Inferock",
+          "url": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "See how simulated buyers react, right in your",
-          "summary_zh": "See how simulated buyers react, right in your",
-          "publishedAt": "2026-10-13T07:01:00Z",
-          "published_at": "2026-10-13T07:01:00Z",
-          "votes_count": 298,
+          "summary": "Serverless inference, with credits back for fa",
+          "summary_zh": "Serverless inference, with credits back for fa",
+          "publishedAt": "2026-10-14T07:01:00Z",
+          "published_at": "2026-10-14T07:01:00Z",
+          "votes_count": 255,
           "featured": true,
           "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1524",
+              "name": "Google Cloud Run",
+              "slug": "google-cloud-run"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "38953e0f",
+          "title": "产品更新：Pancake",
+          "title_en": "Pancake",
+          "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The Vercel for GTM Pancake is the Vercel for G",
+          "summary_zh": "The Vercel for GTM Pancake is the Vercel for G",
+          "publishedAt": "2026-10-14T07:01:00Z",
+          "published_at": "2026-10-14T07:01:00Z",
+          "votes_count": 217,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
             {
               "id": "164",
               "name": "Marketing",
               "slug": "marketing"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
@@ -48,100 +86,29 @@
           "score_details": null
         },
         {
-          "id": "46417870",
-          "title": "产品更新：OpenCode 2.0",
-          "title_en": "OpenCode 2.0",
-          "url": "https://www.producthunt.com/products/opencode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "099c0db1",
+          "title": "产品更新：Retriever AI",
+          "title_en": "Retriever AI",
+          "url": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/opencode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "The open source AI coding agent OpenCode is an",
-          "summary_zh": "The open source AI coding agent OpenCode is an",
-          "publishedAt": "2026-10-13T07:01:00Z",
-          "published_at": "2026-10-13T07:01:00Z",
-          "votes_count": 236,
+          "summary": "Free AI browser agent: find leads, reach out,",
+          "summary_zh": "Free AI browser agent: find leads, reach out,",
+          "publishedAt": "2026-10-14T07:01:00Z",
+          "published_at": "2026-10-14T07:01:00Z",
+          "votes_count": 138,
           "featured": true,
           "topics": [
             {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "589",
-              "name": "Development",
-              "slug": "development"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "24ebc488",
-          "title": "模型更新：Muse Wonder",
-          "title_en": "Muse Wonder",
-          "url": "https://www.producthunt.com/products/meta-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/meta-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Meta’s most capable models for personal agents",
-          "summary_zh": "Meta’s most capable models for personal agents",
-          "publishedAt": "2026-10-13T07:01:00Z",
-          "published_at": "2026-10-13T07:01:00Z",
-          "votes_count": 210,
-          "featured": true,
-          "topics": [
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "57d610bc",
-          "title": "产品更新：Kai",
-          "title_en": "Kai",
-          "url": "https://www.producthunt.com/products/hirekai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/hirekai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Autonomous assistant designed to handle meetin",
-          "summary_zh": "Autonomous assistant designed to handle meetin",
-          "publishedAt": "2026-10-13T07:01:00Z",
-          "published_at": "2026-10-13T07:01:00Z",
-          "votes_count": 172,
-          "featured": true,
-          "topics": [
-            {
-              "id": "39",
-              "name": "Email",
-              "slug": "email"
+              "id": "34",
+              "name": "Chrome Extensions",
+              "slug": "chrome-extensions"
             },
             {
               "id": "46",
@@ -152,6 +119,54 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1524",
+              "name": "Google Cloud Run",
+              "slug": "google-cloud-run"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e0b32d5d",
+          "title": "AI资讯更新：AdAnt 2.0",
+          "title_en": "AdAnt 2.0",
+          "url": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Muse for Social Media Marketing AdAnt AI is yo",
+          "summary_zh": "Muse for Social Media Marketing AdAnt AI is yo",
+          "publishedAt": "2026-10-14T07:01:00Z",
+          "published_at": "2026-10-14T07:01:00Z",
+          "votes_count": 131,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1524",
+              "name": "Google Cloud Run",
+              "slug": "google-cloud-run"
             }
           ],
           "score_details": null
@@ -163,75 +178,75 @@
       "label": "中文媒体精选",
       "items": [
         {
-          "id": "0f3702de",
-          "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
+          "id": "dd4e68f3",
+          "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/10/502770.html",
+          "url": "https://www.qbitai.com/2026/10/503109.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/10/502770.html",
+          "sourceUrl": "https://www.qbitai.com/2026/10/503109.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一  量子位的朋友们 2026-10-13 10:01:56  来源：量子位   优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名  《财富》联合波士顿咨询（BCG）发布 2026 Fortune Future 120（全球最具未来增长潜力的 120 强企业榜单），优必选以总分 115 拿下全球第 11 名，是本次榜单里排名最高的中国企业。  这份榜单看重企业内生增长活力，围绕成长雄心、人才密度、成长文化三大维度，从全球 3500 多家企业里，筛选最具长期增长能力的 120 家企业。美国科技巨头英伟达（第 16 名）、Open AI（第 18 名）、苹果（第 55 名）、特斯拉（第 87 名）、Meta（第 120 名）上榜。中国共有 11 家企业入选，具体排名如下：  深耕具身智能与人形机器人赛道，优必选交出亮眼增长答卷。2026 上半年公司总营收 12.7 亿元，同比增长 104.2%；人形机器人整体销量同比上涨 268.3%。其中全尺寸具身智能人形机器人增",
-          "summary_zh": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一  量子位的朋友们 2026-10-13 10:01:56  来源：量子位   优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名  《财富》联合波士顿咨询（BCG）发布 2026 Fortune Future 120（全球最具未来增长潜力的 120 强企业榜单），优必选以总分 115 拿下全球第 11 名，是本次榜单里排名最高的中国企业。  这份榜单看重企业内生增长活力，围绕成长雄心、人才密度、成长文化三大维度，从全球 3500 多家企业里，筛选最具长期增长能力的 120 家企业。美国科技巨头英伟达（第 16 名）、Open AI（第 18 名）、苹果（第 55 名）、特斯拉（第 87 名）、Meta（第 120 名）上榜。中国共有 11 家企业入选，具体排名如下：  深耕具身智能与人形机器人赛道，优必选交出亮眼增长答卷。2026 上半年公司总营收 12.7 亿元，同比增长 104.2%；人形机器人整体销量同比上涨 268.3%。其中全尺寸具身智能人形机器人增",
-          "publishedAt": "2026-10-13T02:01:56Z",
-          "published_at": "2026-10-13T02:01:56Z",
+          "summary": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存  十三 2026-10-14 04:55:15  来源：量子位   面壁开源MiniCPM-V 4.7   金磊 发自 凹非寺 量子位 | 公众号 QbitAI  什么？35B的MoE，在手机上也能跑得很丝滑？ Yeah~It’s true. 我们直接在断网状态下，给iPhone 17 Pro Max手机上传一张数据可视化经典图——拿破仑远征俄国失败的行军路线图：     然后我们直接提问：  图里记录的最低气温是多少摄氏度，出现在哪一天，换算过程顺带讲一下。      可以看到，不到1分钟的时间，苹果手机上的模型，就从那条线上找到了零下30度的标注，判断出日期是1812年12月6日，再按1列氏度等于1.25摄氏度换算，给出了零下37.5摄氏度的答案。 而且啊，这个手机上的模型的速度，还能更快。 例如同一张路边停车标志的照片、同一个停车时间的问题，左边是没做优化的35B模型，右边是优化过后的模型：     可以看到，没优化的时候，速度每秒大概2个Token；但在优化之后，速度达到了每秒8-12个Token。即便是在断网状态下",
+          "summary_zh": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存  十三 2026-10-14 04:55:15  来源：量子位   面壁开源MiniCPM-V 4.7   金磊 发自 凹非寺 量子位 | 公众号 QbitAI  什么？35B的MoE，在手机上也能跑得很丝滑？ Yeah~It’s true. 我们直接在断网状态下，给iPhone 17 Pro Max手机上传一张数据可视化经典图——拿破仑远征俄国失败的行军路线图：     然后我们直接提问：  图里记录的最低气温是多少摄氏度，出现在哪一天，换算过程顺带讲一下。      可以看到，不到1分钟的时间，苹果手机上的模型，就从那条线上找到了零下30度的标注，判断出日期是1812年12月6日，再按1列氏度等于1.25摄氏度换算，给出了零下37.5摄氏度的答案。 而且啊，这个手机上的模型的速度，还能更快。 例如同一张路边停车标志的照片、同一个停车时间的问题，左边是没做优化的35B模型，右边是优化过后的模型：     可以看到，没优化的时候，速度每秒大概2个Token；但在优化之后，速度达到了每秒8-12个Token。即便是在断网状态下",
+          "publishedAt": "2026-10-13T20:55:15Z",
+          "published_at": "2026-10-13T20:55:15Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "612a9b83",
-          "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
+          "id": "ddb3c88c",
+          "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/10/502767.html",
+          "url": "https://www.qbitai.com/2026/10/503157.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/10/502767.html",
+          "sourceUrl": "https://www.qbitai.com/2026/10/503157.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录  克雷西 2026-10-13 12:01:15  来源：量子位   算力、模型、行业，三层生意一起做  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 23亿元，AI原生基础设施服务商无问芯穹已完成C轮融资。加上前几轮，无问芯穹累计融了43亿元，单轮和累计都创下了国产AI原生基础设施赛道的新纪录。 无问芯穹自成立以来投资方阵容汇聚多方知名机构，涵盖国资机构、产业投资方、财务投资机构等多个类别。其中，国资机构包括杭州高新金投、社保中关村基金（君联资本管理）、珠海科技产业集团、厦门国兴投资、徐汇资本、孚腾资本、中保投资、国开科创等；产业投资方包括Dabanc Holding、联想、九坤创投、同歌创投、腾讯、百度等；财务投资机构则包括红杉中国、洪泰基金、惠远资本、启明创投、达晨财智、顺为资本、砺思资本等知名机构。无问芯穹已成为AI Infra赛道最受追捧的明星独角兽之一。  这家公司不训模型、不做应用，它做的是模型和芯片中间那一层，具体来说是把模型和芯片连起来，实现多种模型算法与多种芯片硬件间的极致效率与成本",
-          "summary_zh": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录  克雷西 2026-10-13 12:01:15  来源：量子位   算力、模型、行业，三层生意一起做  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 23亿元，AI原生基础设施服务商无问芯穹已完成C轮融资。加上前几轮，无问芯穹累计融了43亿元，单轮和累计都创下了国产AI原生基础设施赛道的新纪录。 无问芯穹自成立以来投资方阵容汇聚多方知名机构，涵盖国资机构、产业投资方、财务投资机构等多个类别。其中，国资机构包括杭州高新金投、社保中关村基金（君联资本管理）、珠海科技产业集团、厦门国兴投资、徐汇资本、孚腾资本、中保投资、国开科创等；产业投资方包括Dabanc Holding、联想、九坤创投、同歌创投、腾讯、百度等；财务投资机构则包括红杉中国、洪泰基金、惠远资本、启明创投、达晨财智、顺为资本、砺思资本等知名机构。无问芯穹已成为AI Infra赛道最受追捧的明星独角兽之一。  这家公司不训模型、不做应用，它做的是模型和芯片中间那一层，具体来说是把模型和芯片连起来，实现多种模型算法与多种芯片硬件间的极致效率与成本",
-          "publishedAt": "2026-10-13T04:01:15Z",
-          "published_at": "2026-10-13T04:01:15Z",
+          "summary": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！  思邈 2026-10-14 10:14:50  来源：量子位   一次采集，反复使用   允中 发自 凹非寺 量子位 | 公众号QbitAI  让Agent写周报、分析方案，已经是许多人的日常。但每次开始，用户还得翻找资料、交代背景，智能体也要经过查找、阅读、整理等多个步骤，才能真正开始任务。换个任务，这套流程又得重来。反复处理这些已有资料，既费时间，也增加token消耗。资料越多、步骤越长，还越容易遗漏信息或出现偏差，影响任务完成的准确率。 为了解决这些问题，WorkSwarm首次原生支持个人知识空间。 “个人知识空间”基于用户配置的多个资料来源，自动采集内容，通过规则处理、规则与大模型混合处理或智能体处理，将资料整理成有目录、有联系、有出处的个人知识，并以渐进式披露的方式提供给智能体使用。 WorkSwarm将个人资料整理为可长期复用的个人知识，实现“一次采集，反复使用”，让智能体更容易找到并用好相关信息，提升任务完成的准确率，同时缩短任务准备时间，减少token消耗。 openJiu",
+          "summary_zh": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！  思邈 2026-10-14 10:14:50  来源：量子位   一次采集，反复使用   允中 发自 凹非寺 量子位 | 公众号QbitAI  让Agent写周报、分析方案，已经是许多人的日常。但每次开始，用户还得翻找资料、交代背景，智能体也要经过查找、阅读、整理等多个步骤，才能真正开始任务。换个任务，这套流程又得重来。反复处理这些已有资料，既费时间，也增加token消耗。资料越多、步骤越长，还越容易遗漏信息或出现偏差，影响任务完成的准确率。 为了解决这些问题，WorkSwarm首次原生支持个人知识空间。 “个人知识空间”基于用户配置的多个资料来源，自动采集内容，通过规则处理、规则与大模型混合处理或智能体处理，将资料整理成有目录、有联系、有出处的个人知识，并以渐进式披露的方式提供给智能体使用。 WorkSwarm将个人资料整理为可长期复用的个人知识，实现“一次采集，反复使用”，让智能体更容易找到并用好相关信息，提升任务完成的准确率，同时缩短任务准备时间，减少token消耗。 openJiu",
+          "publishedAt": "2026-10-14T02:14:50Z",
+          "published_at": "2026-10-14T02:14:50Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "16399284",
-          "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
+          "id": "ece85599",
+          "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/10/502849.html",
+          "url": "https://www.qbitai.com/2026/10/503165.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/10/502849.html",
+          "sourceUrl": "https://www.qbitai.com/2026/10/503165.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管  克雷西 2026-10-13 12:04:22  来源：量子位   丢一句话进去，事儿就办完了  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 今天千问搞了个大事情。 过去这一阵，Meta发了Muse，OpenAI亮了Dots……全球最头部的AI公司集中把同一张牌拍到了桌上。 这张牌叫Personal Agent，a.k.a.代表你去办事的AI。 然后今天，千问直接把自己的答卷亮出来了：「千问Go！」 它能干嘛呢？ 部分被幸运地灰度到的用户分享了自己的体验。 整体看下来，这么说吧，像常规的机票酒店预订对它来说只能算入门操作。 那些你自己都找不到的入口，它能翻出来；那些你压根不知道存在的冷门功能，它会操作； 甚至需要的时候，它还能拿起键盘跟真人客服一轮一轮地磨。 反正就是全程你几乎什么都不用管，除非是登录账号这类没法代劳的操作。 丢一句话进去，该干嘛干嘛，回头收到一条消息，事儿就办完了。 航班延误补偿，千问替你battle 第一个案例，关于坐飞机出行。 不过可不是一般的订票值机，这对现在的Agent来说太基础了。 我们",
-          "summary_zh": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管  克雷西 2026-10-13 12:04:22  来源：量子位   丢一句话进去，事儿就办完了  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 今天千问搞了个大事情。 过去这一阵，Meta发了Muse，OpenAI亮了Dots……全球最头部的AI公司集中把同一张牌拍到了桌上。 这张牌叫Personal Agent，a.k.a.代表你去办事的AI。 然后今天，千问直接把自己的答卷亮出来了：「千问Go！」 它能干嘛呢？ 部分被幸运地灰度到的用户分享了自己的体验。 整体看下来，这么说吧，像常规的机票酒店预订对它来说只能算入门操作。 那些你自己都找不到的入口，它能翻出来；那些你压根不知道存在的冷门功能，它会操作； 甚至需要的时候，它还能拿起键盘跟真人客服一轮一轮地磨。 反正就是全程你几乎什么都不用管，除非是登录账号这类没法代劳的操作。 丢一句话进去，该干嘛干嘛，回头收到一条消息，事儿就办完了。 航班延误补偿，千问替你battle 第一个案例，关于坐飞机出行。 不过可不是一般的订票值机，这对现在的Agent来说太基础了。 我们",
-          "publishedAt": "2026-10-13T04:04:22Z",
-          "published_at": "2026-10-13T04:04:22Z",
+          "summary": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent  量子位的朋友们 2026-10-14 11:32:48  来源：量子位   10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent  10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent。该产品基于自研开源决策模型Reflex构建Harness，并结合Continuum记忆引擎，通过模型驱动Harness核心控制逻辑，实现更高效的决策与长周期任务执行。  据APUS AI实验室实测，Reflex Agent在相关测试场景中的响应速度最快可达Claude Code、Codex等主流Agent的3倍。 与主要依赖代码和提示词组织Harness的传统方案不同，Reflex Agent由决策模型Reflex承担模型路由、技能选择、结果审查和执行监督等决策工作，并通过“决策—执行—反馈—再决策”的循环，推动任务持续向前。APUS AI将这一工作机制称为",
+          "summary_zh": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent  量子位的朋友们 2026-10-14 11:32:48  来源：量子位   10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent  10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent。该产品基于自研开源决策模型Reflex构建Harness，并结合Continuum记忆引擎，通过模型驱动Harness核心控制逻辑，实现更高效的决策与长周期任务执行。  据APUS AI实验室实测，Reflex Agent在相关测试场景中的响应速度最快可达Claude Code、Codex等主流Agent的3倍。 与主要依赖代码和提示词组织Harness的传统方案不同，Reflex Agent由决策模型Reflex承担模型路由、技能选择、结果审查和执行监督等决策工作，并通过“决策—执行—反馈—再决策”的循环，推动任务持续向前。APUS AI将这一工作机制称为",
+          "publishedAt": "2026-10-14T03:32:48Z",
+          "published_at": "2026-10-14T03:32:48Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "4e5d23ca",
-          "title": "让蛋白质设计像文生图一样简单，大卫・",
-          "title_en": "让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型",
+          "id": "a78c722f",
+          "title": "Natura-1发布：从百万小时人类",
+          "title_en": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
           "url": "https://www.jiqizhixin.com/articles",
           "source": "机器之心",
           "source_type": null,
@@ -241,10 +256,10 @@
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型",
-          "summary_zh": "让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型",
-          "publishedAt": "2026-10-13T23:45:54Z",
-          "published_at": "2026-10-13T23:45:54Z",
+          "summary": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
+          "summary_zh": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
+          "publishedAt": "2026-10-14T13:54:24Z",
+          "published_at": "2026-10-14T13:54:24Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -255,36 +270,74 @@
   ],
   "items": [
     {
-      "id": "29ccc7e5",
-      "title": "产品更新：Articos MCP",
-      "title_en": "Articos MCP",
-      "url": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "5cd9c1bd",
+      "title": "模型更新：Inferock",
+      "title_en": "Inferock",
+      "url": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/articos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "See how simulated buyers react, right in your",
-      "summary_zh": "See how simulated buyers react, right in your",
-      "publishedAt": "2026-10-13T07:01:00Z",
-      "published_at": "2026-10-13T07:01:00Z",
-      "votes_count": 298,
+      "summary": "Serverless inference, with credits back for fa",
+      "summary_zh": "Serverless inference, with credits back for fa",
+      "publishedAt": "2026-10-14T07:01:00Z",
+      "published_at": "2026-10-14T07:01:00Z",
+      "votes_count": 255,
       "featured": true,
       "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "1524",
+          "name": "Google Cloud Run",
+          "slug": "google-cloud-run"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "38953e0f",
+      "title": "产品更新：Pancake",
+      "title_en": "Pancake",
+      "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The Vercel for GTM Pancake is the Vercel for G",
+      "summary_zh": "The Vercel for GTM Pancake is the Vercel for G",
+      "publishedAt": "2026-10-14T07:01:00Z",
+      "published_at": "2026-10-14T07:01:00Z",
+      "votes_count": 217,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
         {
           "id": "164",
           "name": "Marketing",
           "slug": "marketing"
         },
         {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
@@ -293,100 +346,29 @@
       "score_details": null
     },
     {
-      "id": "46417870",
-      "title": "产品更新：OpenCode 2.0",
-      "title_en": "OpenCode 2.0",
-      "url": "https://www.producthunt.com/products/opencode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "099c0db1",
+      "title": "产品更新：Retriever AI",
+      "title_en": "Retriever AI",
+      "url": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/opencode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "The open source AI coding agent OpenCode is an",
-      "summary_zh": "The open source AI coding agent OpenCode is an",
-      "publishedAt": "2026-10-13T07:01:00Z",
-      "published_at": "2026-10-13T07:01:00Z",
-      "votes_count": 236,
+      "summary": "Free AI browser agent: find leads, reach out,",
+      "summary_zh": "Free AI browser agent: find leads, reach out,",
+      "publishedAt": "2026-10-14T07:01:00Z",
+      "published_at": "2026-10-14T07:01:00Z",
+      "votes_count": 138,
       "featured": true,
       "topics": [
         {
-          "id": "89",
-          "name": "Open Source",
-          "slug": "open-source"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "272",
-          "name": "GitHub",
-          "slug": "github"
-        },
-        {
-          "id": "589",
-          "name": "Development",
-          "slug": "development"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "24ebc488",
-      "title": "模型更新：Muse Wonder",
-      "title_en": "Muse Wonder",
-      "url": "https://www.producthunt.com/products/meta-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/meta-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Meta’s most capable models for personal agents",
-      "summary_zh": "Meta’s most capable models for personal agents",
-      "publishedAt": "2026-10-13T07:01:00Z",
-      "published_at": "2026-10-13T07:01:00Z",
-      "votes_count": 210,
-      "featured": true,
-      "topics": [
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "57d610bc",
-      "title": "产品更新：Kai",
-      "title_en": "Kai",
-      "url": "https://www.producthunt.com/products/hirekai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/hirekai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Autonomous assistant designed to handle meetin",
-      "summary_zh": "Autonomous assistant designed to handle meetin",
-      "publishedAt": "2026-10-13T07:01:00Z",
-      "published_at": "2026-10-13T07:01:00Z",
-      "votes_count": 172,
-      "featured": true,
-      "topics": [
-        {
-          "id": "39",
-          "name": "Email",
-          "slug": "email"
+          "id": "34",
+          "name": "Chrome Extensions",
+          "slug": "chrome-extensions"
         },
         {
           "id": "46",
@@ -397,80 +379,128 @@
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
+        },
+        {
+          "id": "1524",
+          "name": "Google Cloud Run",
+          "slug": "google-cloud-run"
         }
       ],
       "score_details": null
     },
     {
-      "id": "0f3702de",
-      "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
+      "id": "e0b32d5d",
+      "title": "AI资讯更新：AdAnt 2.0",
+      "title_en": "AdAnt 2.0",
+      "url": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Muse for Social Media Marketing AdAnt AI is yo",
+      "summary_zh": "Muse for Social Media Marketing AdAnt AI is yo",
+      "publishedAt": "2026-10-14T07:01:00Z",
+      "published_at": "2026-10-14T07:01:00Z",
+      "votes_count": 131,
+      "featured": true,
+      "topics": [
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "1524",
+          "name": "Google Cloud Run",
+          "slug": "google-cloud-run"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "dd4e68f3",
+      "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/502770.html",
+      "url": "https://www.qbitai.com/2026/10/503109.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502770.html",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503109.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一  量子位的朋友们 2026-10-13 10:01:56  来源：量子位   优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名  《财富》联合波士顿咨询（BCG）发布 2026 Fortune Future 120（全球最具未来增长潜力的 120 强企业榜单），优必选以总分 115 拿下全球第 11 名，是本次榜单里排名最高的中国企业。  这份榜单看重企业内生增长活力，围绕成长雄心、人才密度、成长文化三大维度，从全球 3500 多家企业里，筛选最具长期增长能力的 120 家企业。美国科技巨头英伟达（第 16 名）、Open AI（第 18 名）、苹果（第 55 名）、特斯拉（第 87 名）、Meta（第 120 名）上榜。中国共有 11 家企业入选，具体排名如下：  深耕具身智能与人形机器人赛道，优必选交出亮眼增长答卷。2026 上半年公司总营收 12.7 亿元，同比增长 104.2%；人形机器人整体销量同比上涨 268.3%。其中全尺寸具身智能人形机器人增",
-      "summary_zh": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一  量子位的朋友们 2026-10-13 10:01:56  来源：量子位   优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名  《财富》联合波士顿咨询（BCG）发布 2026 Fortune Future 120（全球最具未来增长潜力的 120 强企业榜单），优必选以总分 115 拿下全球第 11 名，是本次榜单里排名最高的中国企业。  这份榜单看重企业内生增长活力，围绕成长雄心、人才密度、成长文化三大维度，从全球 3500 多家企业里，筛选最具长期增长能力的 120 家企业。美国科技巨头英伟达（第 16 名）、Open AI（第 18 名）、苹果（第 55 名）、特斯拉（第 87 名）、Meta（第 120 名）上榜。中国共有 11 家企业入选，具体排名如下：  深耕具身智能与人形机器人赛道，优必选交出亮眼增长答卷。2026 上半年公司总营收 12.7 亿元，同比增长 104.2%；人形机器人整体销量同比上涨 268.3%。其中全尺寸具身智能人形机器人增",
-      "publishedAt": "2026-10-13T02:01:56Z",
-      "published_at": "2026-10-13T02:01:56Z",
+      "summary": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存  十三 2026-10-14 04:55:15  来源：量子位   面壁开源MiniCPM-V 4.7   金磊 发自 凹非寺 量子位 | 公众号 QbitAI  什么？35B的MoE，在手机上也能跑得很丝滑？ Yeah~It’s true. 我们直接在断网状态下，给iPhone 17 Pro Max手机上传一张数据可视化经典图——拿破仑远征俄国失败的行军路线图：     然后我们直接提问：  图里记录的最低气温是多少摄氏度，出现在哪一天，换算过程顺带讲一下。      可以看到，不到1分钟的时间，苹果手机上的模型，就从那条线上找到了零下30度的标注，判断出日期是1812年12月6日，再按1列氏度等于1.25摄氏度换算，给出了零下37.5摄氏度的答案。 而且啊，这个手机上的模型的速度，还能更快。 例如同一张路边停车标志的照片、同一个停车时间的问题，左边是没做优化的35B模型，右边是优化过后的模型：     可以看到，没优化的时候，速度每秒大概2个Token；但在优化之后，速度达到了每秒8-12个Token。即便是在断网状态下",
+      "summary_zh": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存  十三 2026-10-14 04:55:15  来源：量子位   面壁开源MiniCPM-V 4.7   金磊 发自 凹非寺 量子位 | 公众号 QbitAI  什么？35B的MoE，在手机上也能跑得很丝滑？ Yeah~It’s true. 我们直接在断网状态下，给iPhone 17 Pro Max手机上传一张数据可视化经典图——拿破仑远征俄国失败的行军路线图：     然后我们直接提问：  图里记录的最低气温是多少摄氏度，出现在哪一天，换算过程顺带讲一下。      可以看到，不到1分钟的时间，苹果手机上的模型，就从那条线上找到了零下30度的标注，判断出日期是1812年12月6日，再按1列氏度等于1.25摄氏度换算，给出了零下37.5摄氏度的答案。 而且啊，这个手机上的模型的速度，还能更快。 例如同一张路边停车标志的照片、同一个停车时间的问题，左边是没做优化的35B模型，右边是优化过后的模型：     可以看到，没优化的时候，速度每秒大概2个Token；但在优化之后，速度达到了每秒8-12个Token。即便是在断网状态下",
+      "publishedAt": "2026-10-13T20:55:15Z",
+      "published_at": "2026-10-13T20:55:15Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "612a9b83",
-      "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
+      "id": "ddb3c88c",
+      "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/502767.html",
+      "url": "https://www.qbitai.com/2026/10/503157.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502767.html",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503157.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录  克雷西 2026-10-13 12:01:15  来源：量子位   算力、模型、行业，三层生意一起做  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 23亿元，AI原生基础设施服务商无问芯穹已完成C轮融资。加上前几轮，无问芯穹累计融了43亿元，单轮和累计都创下了国产AI原生基础设施赛道的新纪录。 无问芯穹自成立以来投资方阵容汇聚多方知名机构，涵盖国资机构、产业投资方、财务投资机构等多个类别。其中，国资机构包括杭州高新金投、社保中关村基金（君联资本管理）、珠海科技产业集团、厦门国兴投资、徐汇资本、孚腾资本、中保投资、国开科创等；产业投资方包括Dabanc Holding、联想、九坤创投、同歌创投、腾讯、百度等；财务投资机构则包括红杉中国、洪泰基金、惠远资本、启明创投、达晨财智、顺为资本、砺思资本等知名机构。无问芯穹已成为AI Infra赛道最受追捧的明星独角兽之一。  这家公司不训模型、不做应用，它做的是模型和芯片中间那一层，具体来说是把模型和芯片连起来，实现多种模型算法与多种芯片硬件间的极致效率与成本",
-      "summary_zh": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录  克雷西 2026-10-13 12:01:15  来源：量子位   算力、模型、行业，三层生意一起做  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 23亿元，AI原生基础设施服务商无问芯穹已完成C轮融资。加上前几轮，无问芯穹累计融了43亿元，单轮和累计都创下了国产AI原生基础设施赛道的新纪录。 无问芯穹自成立以来投资方阵容汇聚多方知名机构，涵盖国资机构、产业投资方、财务投资机构等多个类别。其中，国资机构包括杭州高新金投、社保中关村基金（君联资本管理）、珠海科技产业集团、厦门国兴投资、徐汇资本、孚腾资本、中保投资、国开科创等；产业投资方包括Dabanc Holding、联想、九坤创投、同歌创投、腾讯、百度等；财务投资机构则包括红杉中国、洪泰基金、惠远资本、启明创投、达晨财智、顺为资本、砺思资本等知名机构。无问芯穹已成为AI Infra赛道最受追捧的明星独角兽之一。  这家公司不训模型、不做应用，它做的是模型和芯片中间那一层，具体来说是把模型和芯片连起来，实现多种模型算法与多种芯片硬件间的极致效率与成本",
-      "publishedAt": "2026-10-13T04:01:15Z",
-      "published_at": "2026-10-13T04:01:15Z",
+      "summary": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！  思邈 2026-10-14 10:14:50  来源：量子位   一次采集，反复使用   允中 发自 凹非寺 量子位 | 公众号QbitAI  让Agent写周报、分析方案，已经是许多人的日常。但每次开始，用户还得翻找资料、交代背景，智能体也要经过查找、阅读、整理等多个步骤，才能真正开始任务。换个任务，这套流程又得重来。反复处理这些已有资料，既费时间，也增加token消耗。资料越多、步骤越长，还越容易遗漏信息或出现偏差，影响任务完成的准确率。 为了解决这些问题，WorkSwarm首次原生支持个人知识空间。 “个人知识空间”基于用户配置的多个资料来源，自动采集内容，通过规则处理、规则与大模型混合处理或智能体处理，将资料整理成有目录、有联系、有出处的个人知识，并以渐进式披露的方式提供给智能体使用。 WorkSwarm将个人资料整理为可长期复用的个人知识，实现“一次采集，反复使用”，让智能体更容易找到并用好相关信息，提升任务完成的准确率，同时缩短任务准备时间，减少token消耗。 openJiu",
+      "summary_zh": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！  思邈 2026-10-14 10:14:50  来源：量子位   一次采集，反复使用   允中 发自 凹非寺 量子位 | 公众号QbitAI  让Agent写周报、分析方案，已经是许多人的日常。但每次开始，用户还得翻找资料、交代背景，智能体也要经过查找、阅读、整理等多个步骤，才能真正开始任务。换个任务，这套流程又得重来。反复处理这些已有资料，既费时间，也增加token消耗。资料越多、步骤越长，还越容易遗漏信息或出现偏差，影响任务完成的准确率。 为了解决这些问题，WorkSwarm首次原生支持个人知识空间。 “个人知识空间”基于用户配置的多个资料来源，自动采集内容，通过规则处理、规则与大模型混合处理或智能体处理，将资料整理成有目录、有联系、有出处的个人知识，并以渐进式披露的方式提供给智能体使用。 WorkSwarm将个人资料整理为可长期复用的个人知识，实现“一次采集，反复使用”，让智能体更容易找到并用好相关信息，提升任务完成的准确率，同时缩短任务准备时间，减少token消耗。 openJiu",
+      "publishedAt": "2026-10-14T02:14:50Z",
+      "published_at": "2026-10-14T02:14:50Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "16399284",
-      "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
+      "id": "ece85599",
+      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/502849.html",
+      "url": "https://www.qbitai.com/2026/10/503165.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/502849.html",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503165.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管  克雷西 2026-10-13 12:04:22  来源：量子位   丢一句话进去，事儿就办完了  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 今天千问搞了个大事情。 过去这一阵，Meta发了Muse，OpenAI亮了Dots……全球最头部的AI公司集中把同一张牌拍到了桌上。 这张牌叫Personal Agent，a.k.a.代表你去办事的AI。 然后今天，千问直接把自己的答卷亮出来了：「千问Go！」 它能干嘛呢？ 部分被幸运地灰度到的用户分享了自己的体验。 整体看下来，这么说吧，像常规的机票酒店预订对它来说只能算入门操作。 那些你自己都找不到的入口，它能翻出来；那些你压根不知道存在的冷门功能，它会操作； 甚至需要的时候，它还能拿起键盘跟真人客服一轮一轮地磨。 反正就是全程你几乎什么都不用管，除非是登录账号这类没法代劳的操作。 丢一句话进去，该干嘛干嘛，回头收到一条消息，事儿就办完了。 航班延误补偿，千问替你battle 第一个案例，关于坐飞机出行。 不过可不是一般的订票值机，这对现在的Agent来说太基础了。 我们",
-      "summary_zh": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管  克雷西 2026-10-13 12:04:22  来源：量子位   丢一句话进去，事儿就办完了  克雷西 发自 凹非寺 量子位 | 公众号 QbitAI 今天千问搞了个大事情。 过去这一阵，Meta发了Muse，OpenAI亮了Dots……全球最头部的AI公司集中把同一张牌拍到了桌上。 这张牌叫Personal Agent，a.k.a.代表你去办事的AI。 然后今天，千问直接把自己的答卷亮出来了：「千问Go！」 它能干嘛呢？ 部分被幸运地灰度到的用户分享了自己的体验。 整体看下来，这么说吧，像常规的机票酒店预订对它来说只能算入门操作。 那些你自己都找不到的入口，它能翻出来；那些你压根不知道存在的冷门功能，它会操作； 甚至需要的时候，它还能拿起键盘跟真人客服一轮一轮地磨。 反正就是全程你几乎什么都不用管，除非是登录账号这类没法代劳的操作。 丢一句话进去，该干嘛干嘛，回头收到一条消息，事儿就办完了。 航班延误补偿，千问替你battle 第一个案例，关于坐飞机出行。 不过可不是一般的订票值机，这对现在的Agent来说太基础了。 我们",
-      "publishedAt": "2026-10-13T04:04:22Z",
-      "published_at": "2026-10-13T04:04:22Z",
+      "summary": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent  量子位的朋友们 2026-10-14 11:32:48  来源：量子位   10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent  10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent。该产品基于自研开源决策模型Reflex构建Harness，并结合Continuum记忆引擎，通过模型驱动Harness核心控制逻辑，实现更高效的决策与长周期任务执行。  据APUS AI实验室实测，Reflex Agent在相关测试场景中的响应速度最快可达Claude Code、Codex等主流Agent的3倍。 与主要依赖代码和提示词组织Harness的传统方案不同，Reflex Agent由决策模型Reflex承担模型路由、技能选择、结果审查和执行监督等决策工作，并通过“决策—执行—反馈—再决策”的循环，推动任务持续向前。APUS AI将这一工作机制称为",
+      "summary_zh": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent  量子位的朋友们 2026-10-14 11:32:48  来源：量子位   10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent  10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent。该产品基于自研开源决策模型Reflex构建Harness，并结合Continuum记忆引擎，通过模型驱动Harness核心控制逻辑，实现更高效的决策与长周期任务执行。  据APUS AI实验室实测，Reflex Agent在相关测试场景中的响应速度最快可达Claude Code、Codex等主流Agent的3倍。 与主要依赖代码和提示词组织Harness的传统方案不同，Reflex Agent由决策模型Reflex承担模型路由、技能选择、结果审查和执行监督等决策工作，并通过“决策—执行—反馈—再决策”的循环，推动任务持续向前。APUS AI将这一工作机制称为",
+      "publishedAt": "2026-10-14T03:32:48Z",
+      "published_at": "2026-10-14T03:32:48Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "4e5d23ca",
-      "title": "让蛋白质设计像文生图一样简单，大卫・",
-      "title_en": "让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型",
+      "id": "a78c722f",
+      "title": "Natura-1发布：从百万小时人类",
+      "title_en": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -480,10 +510,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型",
-      "summary_zh": "让蛋白质设计像文生图一样简单，大卫・贝克团队等提出文本条件化全原子生成模型",
-      "publishedAt": "2026-10-13T23:45:54Z",
-      "published_at": "2026-10-13T23:45:54Z",
+      "summary": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
+      "summary_zh": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
+      "publishedAt": "2026-10-14T13:54:24Z",
+      "published_at": "2026-10-14T13:54:24Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
