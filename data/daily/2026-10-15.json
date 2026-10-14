@@ -1,0 +1,523 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-14T23:19:24Z",
+  "generatedAt": "2026-10-14T23:19:24Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "38953e0f",
+          "title": "产品更新：Pancake",
+          "title_en": "Pancake",
+          "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The Vercel for GTM Pancake is the Vercel for G",
+          "summary_zh": "The Vercel for GTM Pancake is the Vercel for G",
+          "publishedAt": "2026-10-14T07:01:00Z",
+          "published_at": "2026-10-14T07:01:00Z",
+          "votes_count": 487,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5cd9c1bd",
+          "title": "模型更新：Inferock",
+          "title_en": "Inferock",
+          "url": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Serverless inference, with credits back for fa",
+          "summary_zh": "Serverless inference, with credits back for fa",
+          "publishedAt": "2026-10-14T07:01:00Z",
+          "published_at": "2026-10-14T07:01:00Z",
+          "votes_count": 337,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1524",
+              "name": "Google Cloud Run",
+              "slug": "google-cloud-run"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "099c0db1",
+          "title": "产品更新：Retriever AI",
+          "title_en": "Retriever AI",
+          "url": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Free AI browser agent: find leads, reach out,",
+          "summary_zh": "Free AI browser agent: find leads, reach out,",
+          "publishedAt": "2026-10-14T07:01:00Z",
+          "published_at": "2026-10-14T07:01:00Z",
+          "votes_count": 200,
+          "featured": true,
+          "topics": [
+            {
+              "id": "34",
+              "name": "Chrome Extensions",
+              "slug": "chrome-extensions"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1524",
+              "name": "Google Cloud Run",
+              "slug": "google-cloud-run"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "34ae438a",
+          "title": "产品更新：daily.dev for a",
+          "title_en": "daily.dev for agents",
+          "url": "https://www.producthunt.com/products/daily-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/daily-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Where agents discover what's next daily.dev is",
+          "summary_zh": "Where agents discover what's next daily.dev is",
+          "publishedAt": "2026-10-14T07:01:00Z",
+          "published_at": "2026-10-14T07:01:00Z",
+          "votes_count": 165,
+          "featured": true,
+          "topics": [
+            {
+              "id": "50",
+              "name": "News",
+              "slug": "news"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1524",
+              "name": "Google Cloud Run",
+              "slug": "google-cloud-run"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "ddb3c88c",
+          "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/503157.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/503157.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！  思邈 2026-10-14 10:14:50  来源：量子位   一次采集，反复使用   允中 发自 凹非寺 量子位 | 公众号QbitAI  让Agent写周报、分析方案，已经是许多人的日常。但每次开始，用户还得翻找资料、交代背景，智能体也要经过查找、阅读、整理等多个步骤，才能真正开始任务。换个任务，这套流程又得重来。反复处理这些已有资料，既费时间，也增加token消耗。资料越多、步骤越长，还越容易遗漏信息或出现偏差，影响任务完成的准确率。 为了解决这些问题，WorkSwarm首次原生支持个人知识空间。 “个人知识空间”基于用户配置的多个资料来源，自动采集内容，通过规则处理、规则与大模型混合处理或智能体处理，将资料整理成有目录、有联系、有出处的个人知识，并以渐进式披露的方式提供给智能体使用。 WorkSwarm将个人资料整理为可长期复用的个人知识，实现“一次采集，反复使用”，让智能体更容易找到并用好相关信息，提升任务完成的准确率，同时缩短任务准备时间，减少token消耗。 openJiu",
+          "summary_zh": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！  思邈 2026-10-14 10:14:50  来源：量子位   一次采集，反复使用   允中 发自 凹非寺 量子位 | 公众号QbitAI  让Agent写周报、分析方案，已经是许多人的日常。但每次开始，用户还得翻找资料、交代背景，智能体也要经过查找、阅读、整理等多个步骤，才能真正开始任务。换个任务，这套流程又得重来。反复处理这些已有资料，既费时间，也增加token消耗。资料越多、步骤越长，还越容易遗漏信息或出现偏差，影响任务完成的准确率。 为了解决这些问题，WorkSwarm首次原生支持个人知识空间。 “个人知识空间”基于用户配置的多个资料来源，自动采集内容，通过规则处理、规则与大模型混合处理或智能体处理，将资料整理成有目录、有联系、有出处的个人知识，并以渐进式披露的方式提供给智能体使用。 WorkSwarm将个人资料整理为可长期复用的个人知识，实现“一次采集，反复使用”，让智能体更容易找到并用好相关信息，提升任务完成的准确率，同时缩短任务准备时间，减少token消耗。 openJiu",
+          "publishedAt": "2026-10-14T02:14:50Z",
+          "published_at": "2026-10-14T02:14:50Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "ece85599",
+          "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/503165.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/503165.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent  量子位的朋友们 2026-10-14 11:32:48  来源：量子位   10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent  10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent。该产品基于自研开源决策模型Reflex构建Harness，并结合Continuum记忆引擎，通过模型驱动Harness核心控制逻辑，实现更高效的决策与长周期任务执行。  据APUS AI实验室实测，Reflex Agent在相关测试场景中的响应速度最快可达Claude Code、Codex等主流Agent的3倍。 与主要依赖代码和提示词组织Harness的传统方案不同，Reflex Agent由决策模型Reflex承担模型路由、技能选择、结果审查和执行监督等决策工作，并通过“决策—执行—反馈—再决策”的循环，推动任务持续向前。APUS AI将这一工作机制称为",
+          "summary_zh": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent  量子位的朋友们 2026-10-14 11:32:48  来源：量子位   10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent  10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent。该产品基于自研开源决策模型Reflex构建Harness，并结合Continuum记忆引擎，通过模型驱动Harness核心控制逻辑，实现更高效的决策与长周期任务执行。  据APUS AI实验室实测，Reflex Agent在相关测试场景中的响应速度最快可达Claude Code、Codex等主流Agent的3倍。 与主要依赖代码和提示词组织Harness的传统方案不同，Reflex Agent由决策模型Reflex承担模型路由、技能选择、结果审查和执行监督等决策工作，并通过“决策—执行—反馈—再决策”的循环，推动任务持续向前。APUS AI将这一工作机制称为",
+          "publishedAt": "2026-10-14T03:32:48Z",
+          "published_at": "2026-10-14T03:32:48Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "cfda48be",
+          "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/503173.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/503173.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地  量子位的朋友们 2026-10-14 12:09:29  来源：量子位   从“懂空间”到“能干活”  随着超大城市治理向精细化、智能化演进，以空间智能为核心的量子城市建设，成为重塑城市治理范式、驱动治理效能升级的核心方向。 前期，由商汤大装置与上海市规划资源局联合打造的“云宇星空大模型”全面升级，进一步强化专业空间推理、复杂任务执行能力，实现模型从“会解答”到“能干活”的进化。 基于全新升级的“云宇星空大模型”，上海市规划资源局集中发布了量子城市首批政务智能体，包括“禹智河洛”防汛智能体、“美好生活掌中宝”智能体、“沪派江南行”智能体等。其中“禹智河洛“、”大略之眼“、”详规小工单”三大智能体由商汤大装置团队研发并交付，分别化身负责防汛调度、空间洞察、规划更新等工作的“数字员工”，将大模型能力进一步嵌入城市治理业务流程，探索人工智能赋能超大城市空间治理的新实践。    空间知识和推理能力再进化，让大模型真正“理解空间” 作为全国首个规划资源领域的行业基础大模型，“云宇星空大模型”定位于量子城市大模型体系的智能基座与智能中",
+          "summary_zh": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地  量子位的朋友们 2026-10-14 12:09:29  来源：量子位   从“懂空间”到“能干活”  随着超大城市治理向精细化、智能化演进，以空间智能为核心的量子城市建设，成为重塑城市治理范式、驱动治理效能升级的核心方向。 前期，由商汤大装置与上海市规划资源局联合打造的“云宇星空大模型”全面升级，进一步强化专业空间推理、复杂任务执行能力，实现模型从“会解答”到“能干活”的进化。 基于全新升级的“云宇星空大模型”，上海市规划资源局集中发布了量子城市首批政务智能体，包括“禹智河洛”防汛智能体、“美好生活掌中宝”智能体、“沪派江南行”智能体等。其中“禹智河洛“、”大略之眼“、”详规小工单”三大智能体由商汤大装置团队研发并交付，分别化身负责防汛调度、空间洞察、规划更新等工作的“数字员工”，将大模型能力进一步嵌入城市治理业务流程，探索人工智能赋能超大城市空间治理的新实践。    空间知识和推理能力再进化，让大模型真正“理解空间” 作为全国首个规划资源领域的行业基础大模型，“云宇星空大模型”定位于量子城市大模型体系的智能基座与智能中",
+          "publishedAt": "2026-10-14T04:09:29Z",
+          "published_at": "2026-10-14T04:09:29Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "a78c722f",
+          "title": "Natura-1发布：从百万小时人类",
+          "title_en": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
+          "summary_zh": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
+          "publishedAt": "2026-10-14T23:18:49Z",
+          "published_at": "2026-10-14T23:18:49Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "38953e0f",
+      "title": "产品更新：Pancake",
+      "title_en": "Pancake",
+      "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The Vercel for GTM Pancake is the Vercel for G",
+      "summary_zh": "The Vercel for GTM Pancake is the Vercel for G",
+      "publishedAt": "2026-10-14T07:01:00Z",
+      "published_at": "2026-10-14T07:01:00Z",
+      "votes_count": 487,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5cd9c1bd",
+      "title": "模型更新：Inferock",
+      "title_en": "Inferock",
+      "url": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Serverless inference, with credits back for fa",
+      "summary_zh": "Serverless inference, with credits back for fa",
+      "publishedAt": "2026-10-14T07:01:00Z",
+      "published_at": "2026-10-14T07:01:00Z",
+      "votes_count": 337,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "1524",
+          "name": "Google Cloud Run",
+          "slug": "google-cloud-run"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "099c0db1",
+      "title": "产品更新：Retriever AI",
+      "title_en": "Retriever AI",
+      "url": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Free AI browser agent: find leads, reach out,",
+      "summary_zh": "Free AI browser agent: find leads, reach out,",
+      "publishedAt": "2026-10-14T07:01:00Z",
+      "published_at": "2026-10-14T07:01:00Z",
+      "votes_count": 200,
+      "featured": true,
+      "topics": [
+        {
+          "id": "34",
+          "name": "Chrome Extensions",
+          "slug": "chrome-extensions"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "1524",
+          "name": "Google Cloud Run",
+          "slug": "google-cloud-run"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "34ae438a",
+      "title": "产品更新：daily.dev for a",
+      "title_en": "daily.dev for agents",
+      "url": "https://www.producthunt.com/products/daily-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/daily-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Where agents discover what's next daily.dev is",
+      "summary_zh": "Where agents discover what's next daily.dev is",
+      "publishedAt": "2026-10-14T07:01:00Z",
+      "published_at": "2026-10-14T07:01:00Z",
+      "votes_count": 165,
+      "featured": true,
+      "topics": [
+        {
+          "id": "50",
+          "name": "News",
+          "slug": "news"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "1524",
+          "name": "Google Cloud Run",
+          "slug": "google-cloud-run"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ddb3c88c",
+      "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/503157.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503157.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！  思邈 2026-10-14 10:14:50  来源：量子位   一次采集，反复使用   允中 发自 凹非寺 量子位 | 公众号QbitAI  让Agent写周报、分析方案，已经是许多人的日常。但每次开始，用户还得翻找资料、交代背景，智能体也要经过查找、阅读、整理等多个步骤，才能真正开始任务。换个任务，这套流程又得重来。反复处理这些已有资料，既费时间，也增加token消耗。资料越多、步骤越长，还越容易遗漏信息或出现偏差，影响任务完成的准确率。 为了解决这些问题，WorkSwarm首次原生支持个人知识空间。 “个人知识空间”基于用户配置的多个资料来源，自动采集内容，通过规则处理、规则与大模型混合处理或智能体处理，将资料整理成有目录、有联系、有出处的个人知识，并以渐进式披露的方式提供给智能体使用。 WorkSwarm将个人资料整理为可长期复用的个人知识，实现“一次采集，反复使用”，让智能体更容易找到并用好相关信息，提升任务完成的准确率，同时缩短任务准备时间，减少token消耗。 openJiu",
+      "summary_zh": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！  思邈 2026-10-14 10:14:50  来源：量子位   一次采集，反复使用   允中 发自 凹非寺 量子位 | 公众号QbitAI  让Agent写周报、分析方案，已经是许多人的日常。但每次开始，用户还得翻找资料、交代背景，智能体也要经过查找、阅读、整理等多个步骤，才能真正开始任务。换个任务，这套流程又得重来。反复处理这些已有资料，既费时间，也增加token消耗。资料越多、步骤越长，还越容易遗漏信息或出现偏差，影响任务完成的准确率。 为了解决这些问题，WorkSwarm首次原生支持个人知识空间。 “个人知识空间”基于用户配置的多个资料来源，自动采集内容，通过规则处理、规则与大模型混合处理或智能体处理，将资料整理成有目录、有联系、有出处的个人知识，并以渐进式披露的方式提供给智能体使用。 WorkSwarm将个人资料整理为可长期复用的个人知识，实现“一次采集，反复使用”，让智能体更容易找到并用好相关信息，提升任务完成的准确率，同时缩短任务准备时间，减少token消耗。 openJiu",
+      "publishedAt": "2026-10-14T02:14:50Z",
+      "published_at": "2026-10-14T02:14:50Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ece85599",
+      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/503165.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503165.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent  量子位的朋友们 2026-10-14 11:32:48  来源：量子位   10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent  10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent。该产品基于自研开源决策模型Reflex构建Harness，并结合Continuum记忆引擎，通过模型驱动Harness核心控制逻辑，实现更高效的决策与长周期任务执行。  据APUS AI实验室实测，Reflex Agent在相关测试场景中的响应速度最快可达Claude Code、Codex等主流Agent的3倍。 与主要依赖代码和提示词组织Harness的传统方案不同，Reflex Agent由决策模型Reflex承担模型路由、技能选择、结果审查和执行监督等决策工作，并通过“决策—执行—反馈—再决策”的循环，推动任务持续向前。APUS AI将这一工作机制称为",
+      "summary_zh": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent  量子位的朋友们 2026-10-14 11:32:48  来源：量子位   10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent  10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent。该产品基于自研开源决策模型Reflex构建Harness，并结合Continuum记忆引擎，通过模型驱动Harness核心控制逻辑，实现更高效的决策与长周期任务执行。  据APUS AI实验室实测，Reflex Agent在相关测试场景中的响应速度最快可达Claude Code、Codex等主流Agent的3倍。 与主要依赖代码和提示词组织Harness的传统方案不同，Reflex Agent由决策模型Reflex承担模型路由、技能选择、结果审查和执行监督等决策工作，并通过“决策—执行—反馈—再决策”的循环，推动任务持续向前。APUS AI将这一工作机制称为",
+      "publishedAt": "2026-10-14T03:32:48Z",
+      "published_at": "2026-10-14T03:32:48Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "cfda48be",
+      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/503173.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503173.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地  量子位的朋友们 2026-10-14 12:09:29  来源：量子位   从“懂空间”到“能干活”  随着超大城市治理向精细化、智能化演进，以空间智能为核心的量子城市建设，成为重塑城市治理范式、驱动治理效能升级的核心方向。 前期，由商汤大装置与上海市规划资源局联合打造的“云宇星空大模型”全面升级，进一步强化专业空间推理、复杂任务执行能力，实现模型从“会解答”到“能干活”的进化。 基于全新升级的“云宇星空大模型”，上海市规划资源局集中发布了量子城市首批政务智能体，包括“禹智河洛”防汛智能体、“美好生活掌中宝”智能体、“沪派江南行”智能体等。其中“禹智河洛“、”大略之眼“、”详规小工单”三大智能体由商汤大装置团队研发并交付，分别化身负责防汛调度、空间洞察、规划更新等工作的“数字员工”，将大模型能力进一步嵌入城市治理业务流程，探索人工智能赋能超大城市空间治理的新实践。    空间知识和推理能力再进化，让大模型真正“理解空间” 作为全国首个规划资源领域的行业基础大模型，“云宇星空大模型”定位于量子城市大模型体系的智能基座与智能中",
+      "summary_zh": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地  量子位的朋友们 2026-10-14 12:09:29  来源：量子位   从“懂空间”到“能干活”  随着超大城市治理向精细化、智能化演进，以空间智能为核心的量子城市建设，成为重塑城市治理范式、驱动治理效能升级的核心方向。 前期，由商汤大装置与上海市规划资源局联合打造的“云宇星空大模型”全面升级，进一步强化专业空间推理、复杂任务执行能力，实现模型从“会解答”到“能干活”的进化。 基于全新升级的“云宇星空大模型”，上海市规划资源局集中发布了量子城市首批政务智能体，包括“禹智河洛”防汛智能体、“美好生活掌中宝”智能体、“沪派江南行”智能体等。其中“禹智河洛“、”大略之眼“、”详规小工单”三大智能体由商汤大装置团队研发并交付，分别化身负责防汛调度、空间洞察、规划更新等工作的“数字员工”，将大模型能力进一步嵌入城市治理业务流程，探索人工智能赋能超大城市空间治理的新实践。    空间知识和推理能力再进化，让大模型真正“理解空间” 作为全国首个规划资源领域的行业基础大模型，“云宇星空大模型”定位于量子城市大模型体系的智能基座与智能中",
+      "publishedAt": "2026-10-14T04:09:29Z",
+      "published_at": "2026-10-14T04:09:29Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "a78c722f",
+      "title": "Natura-1发布：从百万小时人类",
+      "title_en": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
+      "summary_zh": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
+      "publishedAt": "2026-10-14T23:18:49Z",
+      "published_at": "2026-10-14T23:18:49Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

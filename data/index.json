@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-10-14T13:55:15Z",
-  "generatedAt": "2026-10-14T13:55:15Z",
-  "count": 155,
-  "total": 155,
+  "generated_at": "2026-10-14T23:19:24Z",
+  "generatedAt": "2026-10-14T23:19:24Z",
+  "count": 156,
+  "total": 156,
   "entries": [
+    {
+      "date": "2026-10-15",
+      "generated_at": "2026-10-14T23:19:24Z",
+      "generatedAt": "2026-10-14T23:19:24Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "38953e0f",
+          "title": "产品更新：Pancake",
+          "title_en": "Pancake",
+          "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The Vercel for GTM Pancake is the Vercel for G",
+          "summary_zh": "The Vercel for GTM Pancake is the Vercel for G",
+          "publishedAt": "2026-10-14T07:01:00Z",
+          "published_at": "2026-10-14T07:01:00Z",
+          "votes_count": 487,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5cd9c1bd",
+          "title": "模型更新：Inferock",
+          "title_en": "Inferock",
+          "url": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Serverless inference, with credits back for fa",
+          "summary_zh": "Serverless inference, with credits back for fa",
+          "publishedAt": "2026-10-14T07:01:00Z",
+          "published_at": "2026-10-14T07:01:00Z",
+          "votes_count": 337,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1524",
+              "name": "Google Cloud Run",
+              "slug": "google-cloud-run"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "099c0db1",
+          "title": "产品更新：Retriever AI",
+          "title_en": "Retriever AI",
+          "url": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Free AI browser agent: find leads, reach out,",
+          "summary_zh": "Free AI browser agent: find leads, reach out,",
+          "publishedAt": "2026-10-14T07:01:00Z",
+          "published_at": "2026-10-14T07:01:00Z",
+          "votes_count": 200,
+          "featured": true,
+          "topics": [
+            {
+              "id": "34",
+              "name": "Chrome Extensions",
+              "slug": "chrome-extensions"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1524",
+              "name": "Google Cloud Run",
+              "slug": "google-cloud-run"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "generated_at": "2026-10-14T13:55:15Z",
