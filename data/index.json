@@ -1,74 +1,79 @@
 {
-  "generated_at": "2026-10-14T23:19:24Z",
-  "generatedAt": "2026-10-14T23:19:24Z",
+  "generated_at": "2026-10-15T13:35:29Z",
+  "generatedAt": "2026-10-15T13:35:29Z",
   "count": 156,
   "total": 156,
   "entries": [
     {
       "date": "2026-10-15",
-      "generated_at": "2026-10-14T23:19:24Z",
-      "generatedAt": "2026-10-14T23:19:24Z",
-      "total": 8,
+      "generated_at": "2026-10-15T13:35:29Z",
+      "generatedAt": "2026-10-15T13:35:29Z",
+      "total": 6,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "38953e0f",
-          "title": "产品更新：Pancake",
-          "title_en": "Pancake",
-          "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "31c5d5d4",
+          "title": "产品更新：Talanoa",
+          "title_en": "Talanoa",
+          "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "The Vercel for GTM Pancake is the Vercel for G",
-          "summary_zh": "The Vercel for GTM Pancake is the Vercel for G",
-          "publishedAt": "2026-10-14T07:01:00Z",
-          "published_at": "2026-10-14T07:01:00Z",
-          "votes_count": 487,
+          "summary": "Email that feels like chat. Talanoa is your fi",
+          "summary_zh": "Email that feels like chat. Talanoa is your fi",
+          "publishedAt": "2026-10-15T07:01:00Z",
+          "published_at": "2026-10-15T07:01:00Z",
+          "votes_count": 170,
           "featured": true,
           "topics": [
             {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
             },
             {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
             }
           ],
           "score_details": null
         },
         {
-          "id": "5cd9c1bd",
-          "title": "模型更新：Inferock",
-          "title_en": "Inferock",
-          "url": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "cd893c44",
+          "title": "产品更新：Navige",
+          "title_en": "Navige",
+          "url": "https://www.producthunt.com/products/navige?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/navige?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Serverless inference, with credits back for fa",
-          "summary_zh": "Serverless inference, with credits back for fa",
-          "publishedAt": "2026-10-14T07:01:00Z",
-          "published_at": "2026-10-14T07:01:00Z",
-          "votes_count": 337,
+          "summary": "Cut AI agent costs and control runaway spendin",
+          "summary_zh": "Cut AI agent costs and control runaway spendin",
+          "publishedAt": "2026-10-15T07:01:00Z",
+          "published_at": "2026-10-15T07:01:00Z",
+          "votes_count": 132,
           "featured": true,
           "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
             {
               "id": "267",
               "name": "Developer Tools",
@@ -78,56 +83,30 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "1524",
-              "name": "Google Cloud Run",
-              "slug": "google-cloud-run"
             }
           ],
           "score_details": null
         },
         {
-          "id": "099c0db1",
-          "title": "产品更新：Retriever AI",
-          "title_en": "Retriever AI",
-          "url": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "f9be69fb",
+          "title": "宕机数小时，DeepSeek给补钱了",
+          "title_en": "宕机数小时，DeepSeek给补钱了！",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Free AI browser agent: find leads, reach out,",
-          "summary_zh": "Free AI browser agent: find leads, reach out,",
-          "publishedAt": "2026-10-14T07:01:00Z",
-          "published_at": "2026-10-14T07:01:00Z",
-          "votes_count": 200,
-          "featured": true,
-          "topics": [
-            {
-              "id": "34",
-              "name": "Chrome Extensions",
-              "slug": "chrome-extensions"
-            },
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "1524",
-              "name": "Google Cloud Run",
-              "slug": "google-cloud-run"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "宕机数小时，DeepSeek给补钱了！",
+          "summary_zh": "宕机数小时，DeepSeek给补钱了！",
+          "publishedAt": "2026-10-15T13:34:54Z",
+          "published_at": "2026-10-15T13:34:54Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
