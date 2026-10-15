@@ -1,0 +1,483 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-15T23:08:10Z",
+  "generatedAt": "2026-10-15T23:08:10Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "31c5d5d4",
+          "title": "产品更新：Talanoa",
+          "title_en": "Talanoa",
+          "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Email that feels like chat Talanoa is your fir",
+          "summary_zh": "Email that feels like chat Talanoa is your fir",
+          "publishedAt": "2026-10-15T07:01:00Z",
+          "published_at": "2026-10-15T07:01:00Z",
+          "votes_count": 266,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cd893c44",
+          "title": "产品更新：Navige",
+          "title_en": "Navige",
+          "url": "https://www.producthunt.com/products/navige?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/navige?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Cut AI agent costs and control runaway spendin",
+          "summary_zh": "Cut AI agent costs and control runaway spendin",
+          "publishedAt": "2026-10-15T07:01:00Z",
+          "published_at": "2026-10-15T07:01:00Z",
+          "votes_count": 202,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6c092d5e",
+          "title": "产品更新：Apple HomeView",
+          "title_en": "Apple HomeView",
+          "url": "https://www.producthunt.com/products/apple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/apple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A new way to stay connected, and manage the ho",
+          "summary_zh": "A new way to stay connected, and manage the ho",
+          "publishedAt": "2026-10-15T07:01:00Z",
+          "published_at": "2026-10-15T07:01:00Z",
+          "votes_count": 167,
+          "featured": true,
+          "topics": [
+            {
+              "id": "73",
+              "name": "Home",
+              "slug": "home"
+            },
+            {
+              "id": "362",
+              "name": "Apple",
+              "slug": "apple"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "bbbfc1c3",
+          "title": "AI资讯更新：GLM-Legal",
+          "title_en": "GLM-Legal",
+          "url": "https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Z.ai’s legal AI model for contract review and",
+          "summary_zh": "Z.ai’s legal AI model for contract review and",
+          "publishedAt": "2026-10-15T07:01:00Z",
+          "published_at": "2026-10-15T07:01:00Z",
+          "votes_count": 159,
+          "featured": true,
+          "topics": [
+            {
+              "id": "259",
+              "name": "Legal",
+              "slug": "legal"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "0b62c912",
+          "title": "刚刚，苹果正式迈入5万亿美元时代",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/503434.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/503434.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "曝国行12月上线  一水 发自 凹非寺量子位 | 公众号QbitAI 好家伙，苹果这回是真杀回来了？！ 就在刚刚，苹果正式跨过了5万亿美元市值这道门槛，成为继英伟达之后，全球第二家收盘市值突破5万亿美元的上市公司。    更离谱的是，这次苹果登顶，还是顶着科技股集体跳水的行情完成的。 当天，美国通胀数据超出预期，美债收益率一度猛蹿，纳指大跌1.9%，创下7月以来最差单日表现。 英伟达跌3.16%，Meta跌3.27%，微软跌1.8%，谷歌跌1.68%，甲骨文更是暴跌8.83%。 结果苹果呢？ 逆势上涨0.5%，收于342.96美元。 不是哥们，你们搞AI的集体挨揍，我这个天天被吐槽的「AI掉队生」，反手摸出一张5万亿美元成就卡？？ 属实有点黑色幽默了。（笑） 但热闹还没结束，几乎同一时间，长期追踪苹果消息的古尔曼又扔下一则重磅爆料： 苹果准备在今年12月，通过iOS 27.3正式把Apple Intelligence带到中国大陆。 等等等了两年，国行苹果智能终于要来了？ 再仔细一看功能列表——新版Siri AI，不在首发名单里。 好好好，市值都5万亿美元了，国行Siri怎么还得继续等啊",
+          "summary_zh": "曝国行12月上线  一水 发自 凹非寺量子位 | 公众号QbitAI 好家伙，苹果这回是真杀回来了？！ 就在刚刚，苹果正式跨过了5万亿美元市值这道门槛，成为继英伟达之后，全球第二家收盘市值突破5万亿美元的上市公司。    更离谱的是，这次苹果登顶，还是顶着科技股集体跳水的行情完成的。 当天，美国通胀数据超出预期，美债收益率一度猛蹿，纳指大跌1.9%，创下7月以来最差单日表现。 英伟达跌3.16%，Meta跌3.27%，微软跌1.8%，谷歌跌1.68%，甲骨文更是暴跌8.83%。 结果苹果呢？ 逆势上涨0.5%，收于342.96美元。 不是哥们，你们搞AI的集体挨揍，我这个天天被吐槽的「AI掉队生」，反手摸出一张5万亿美元成就卡？？ 属实有点黑色幽默了。（笑） 但热闹还没结束，几乎同一时间，长期追踪苹果消息的古尔曼又扔下一则重磅爆料： 苹果准备在今年12月，通过iOS 27.3正式把Apple Intelligence带到中国大陆。 等等等了两年，国行苹果智能终于要来了？ 再仔细一看功能列表——新版Siri AI，不在首发名单里。 好好好，市值都5万亿美元了，国行Siri怎么还得继续等啊",
+          "publishedAt": "2026-10-15T05:36:16Z",
+          "published_at": "2026-10-15T05:36:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "ac02c38e",
+          "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/503446.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/503446.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "机器人开始替人操心了。 想象一下。你在饭店吃饭，结账付款正准备离开时，手表突然震动并显示信息： “你的手机忘拿了，还在刚才的桌子上！” 再想象一下，你正在厨房做饭，突然家里的小机器人发出尖锐爆鸣： “小孩快从床上摔下去了！” 你一个闪身步冲回卧室，发现家崽丝毫没意识到自己已经蠕动到了床的边缘。  △图片系AI生成 让机器有“眼力见儿”，主动发现人之所需，这是唐都钰提出“主动式物理AI”这个概念时的设想。 过去几年，物理AI主要聚焦在解决“如何更好地执行人类提出的要求”这个问题。 于是机器人走得更稳了、抓得更准了、能规划得更久了……但，这一切都发生在人类的指令之后。 能不能让AI自己去发现当下要做什么，然后主动去做呢？ 华为前AI首席专家、小艺大模型前负责人唐都钰，在做了多年大模型与终端AI之后，盯上了这个方向。 于是他创办了观行数智，致力打造面向物理世界的主动式AI系统。 观行，先观世界，后行于世界。 主动式物理AI，主动在哪？ 迄今为止，物理AI开始行动的起点大多来自人类的某条具体指令。 “把苹果放进篮子里”“从冰箱里取出一瓶水”，或者“将散落的玩具整理好”…… 在接到任务后，机器人",
+          "summary_zh": "机器人开始替人操心了。 想象一下。你在饭店吃饭，结账付款正准备离开时，手表突然震动并显示信息： “你的手机忘拿了，还在刚才的桌子上！” 再想象一下，你正在厨房做饭，突然家里的小机器人发出尖锐爆鸣： “小孩快从床上摔下去了！” 你一个闪身步冲回卧室，发现家崽丝毫没意识到自己已经蠕动到了床的边缘。  △图片系AI生成 让机器有“眼力见儿”，主动发现人之所需，这是唐都钰提出“主动式物理AI”这个概念时的设想。 过去几年，物理AI主要聚焦在解决“如何更好地执行人类提出的要求”这个问题。 于是机器人走得更稳了、抓得更准了、能规划得更久了……但，这一切都发生在人类的指令之后。 能不能让AI自己去发现当下要做什么，然后主动去做呢？ 华为前AI首席专家、小艺大模型前负责人唐都钰，在做了多年大模型与终端AI之后，盯上了这个方向。 于是他创办了观行数智，致力打造面向物理世界的主动式AI系统。 观行，先观世界，后行于世界。 主动式物理AI，主动在哪？ 迄今为止，物理AI开始行动的起点大多来自人类的某条具体指令。 “把苹果放进篮子里”“从冰箱里取出一瓶水”，或者“将散落的玩具整理好”…… 在接到任务后，机器人",
+          "publishedAt": "2026-10-15T06:35:46Z",
+          "published_at": "2026-10-15T06:35:46Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "2f4b242e",
+          "title": "苹果AI国内上线，阿里百度浮出水面",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/503497.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/503497.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。  苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。据彭博社报道，苹果计划于今年 12 月通过 iOS 27.3 系统更新正式推出苹果智能，首批上线的是两年前已在美国发布的 AI 功能，覆盖 iPhone、iPad 和Mac，不包含今年发布的全新 Siri AI 助手。此前，该服务已于 7 月 8 日通过网信部门生成式 AI 服务备案，9 月 29 日取得上线许可。  百度：搜索与 Siri 相关功能的合作方 据彭博社报道，苹果在中国市场推进 AI 能力落地过程中，与百度就搜索及 Siri 相关功能展开合作。该表述与今年 7 月国内媒体披露的信息一致：苹果将在 Siri 语音助手及视觉智能（Visual Intelligence）功能中嵌入百度的软件服务。  更早一条可追溯的线索来自代码层面。第三方开发者对 iOS 27 Beta 2 固件的拆解显示，系统内新增了名为「Baidu Visual Search」的模块，指向视觉搜索能力的接入。这一模块的出现，与百度在视觉",
+          "summary_zh": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。  苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。据彭博社报道，苹果计划于今年 12 月通过 iOS 27.3 系统更新正式推出苹果智能，首批上线的是两年前已在美国发布的 AI 功能，覆盖 iPhone、iPad 和Mac，不包含今年发布的全新 Siri AI 助手。此前，该服务已于 7 月 8 日通过网信部门生成式 AI 服务备案，9 月 29 日取得上线许可。  百度：搜索与 Siri 相关功能的合作方 据彭博社报道，苹果在中国市场推进 AI 能力落地过程中，与百度就搜索及 Siri 相关功能展开合作。该表述与今年 7 月国内媒体披露的信息一致：苹果将在 Siri 语音助手及视觉智能（Visual Intelligence）功能中嵌入百度的软件服务。  更早一条可追溯的线索来自代码层面。第三方开发者对 iOS 27 Beta 2 固件的拆解显示，系统内新增了名为「Baidu Visual Search」的模块，指向视觉搜索能力的接入。这一模块的出现，与百度在视觉",
+          "publishedAt": "2026-10-15T06:52:45Z",
+          "published_at": "2026-10-15T06:52:45Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f9be69fb",
+          "title": "宕机数小时，DeepSeek给补钱了",
+          "title_en": "宕机数小时，DeepSeek给补钱了！",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "宕机数小时，DeepSeek给补钱了！",
+          "summary_zh": "宕机数小时，DeepSeek给补钱了！",
+          "publishedAt": "2026-10-15T23:07:30Z",
+          "published_at": "2026-10-15T23:07:30Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "31c5d5d4",
+      "title": "产品更新：Talanoa",
+      "title_en": "Talanoa",
+      "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Email that feels like chat Talanoa is your fir",
+      "summary_zh": "Email that feels like chat Talanoa is your fir",
+      "publishedAt": "2026-10-15T07:01:00Z",
+      "published_at": "2026-10-15T07:01:00Z",
+      "votes_count": 266,
+      "featured": true,
+      "topics": [
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "48",
+          "name": "Task Management",
+          "slug": "task-management"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "cd893c44",
+      "title": "产品更新：Navige",
+      "title_en": "Navige",
+      "url": "https://www.producthunt.com/products/navige?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/navige?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Cut AI agent costs and control runaway spendin",
+      "summary_zh": "Cut AI agent costs and control runaway spendin",
+      "publishedAt": "2026-10-15T07:01:00Z",
+      "published_at": "2026-10-15T07:01:00Z",
+      "votes_count": 202,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6c092d5e",
+      "title": "产品更新：Apple HomeView",
+      "title_en": "Apple HomeView",
+      "url": "https://www.producthunt.com/products/apple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/apple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A new way to stay connected, and manage the ho",
+      "summary_zh": "A new way to stay connected, and manage the ho",
+      "publishedAt": "2026-10-15T07:01:00Z",
+      "published_at": "2026-10-15T07:01:00Z",
+      "votes_count": 167,
+      "featured": true,
+      "topics": [
+        {
+          "id": "73",
+          "name": "Home",
+          "slug": "home"
+        },
+        {
+          "id": "362",
+          "name": "Apple",
+          "slug": "apple"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "bbbfc1c3",
+      "title": "AI资讯更新：GLM-Legal",
+      "title_en": "GLM-Legal",
+      "url": "https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Z.ai’s legal AI model for contract review and",
+      "summary_zh": "Z.ai’s legal AI model for contract review and",
+      "publishedAt": "2026-10-15T07:01:00Z",
+      "published_at": "2026-10-15T07:01:00Z",
+      "votes_count": 159,
+      "featured": true,
+      "topics": [
+        {
+          "id": "259",
+          "name": "Legal",
+          "slug": "legal"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "0b62c912",
+      "title": "刚刚，苹果正式迈入5万亿美元时代",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/503434.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503434.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "曝国行12月上线  一水 发自 凹非寺量子位 | 公众号QbitAI 好家伙，苹果这回是真杀回来了？！ 就在刚刚，苹果正式跨过了5万亿美元市值这道门槛，成为继英伟达之后，全球第二家收盘市值突破5万亿美元的上市公司。    更离谱的是，这次苹果登顶，还是顶着科技股集体跳水的行情完成的。 当天，美国通胀数据超出预期，美债收益率一度猛蹿，纳指大跌1.9%，创下7月以来最差单日表现。 英伟达跌3.16%，Meta跌3.27%，微软跌1.8%，谷歌跌1.68%，甲骨文更是暴跌8.83%。 结果苹果呢？ 逆势上涨0.5%，收于342.96美元。 不是哥们，你们搞AI的集体挨揍，我这个天天被吐槽的「AI掉队生」，反手摸出一张5万亿美元成就卡？？ 属实有点黑色幽默了。（笑） 但热闹还没结束，几乎同一时间，长期追踪苹果消息的古尔曼又扔下一则重磅爆料： 苹果准备在今年12月，通过iOS 27.3正式把Apple Intelligence带到中国大陆。 等等等了两年，国行苹果智能终于要来了？ 再仔细一看功能列表——新版Siri AI，不在首发名单里。 好好好，市值都5万亿美元了，国行Siri怎么还得继续等啊",
+      "summary_zh": "曝国行12月上线  一水 发自 凹非寺量子位 | 公众号QbitAI 好家伙，苹果这回是真杀回来了？！ 就在刚刚，苹果正式跨过了5万亿美元市值这道门槛，成为继英伟达之后，全球第二家收盘市值突破5万亿美元的上市公司。    更离谱的是，这次苹果登顶，还是顶着科技股集体跳水的行情完成的。 当天，美国通胀数据超出预期，美债收益率一度猛蹿，纳指大跌1.9%，创下7月以来最差单日表现。 英伟达跌3.16%，Meta跌3.27%，微软跌1.8%，谷歌跌1.68%，甲骨文更是暴跌8.83%。 结果苹果呢？ 逆势上涨0.5%，收于342.96美元。 不是哥们，你们搞AI的集体挨揍，我这个天天被吐槽的「AI掉队生」，反手摸出一张5万亿美元成就卡？？ 属实有点黑色幽默了。（笑） 但热闹还没结束，几乎同一时间，长期追踪苹果消息的古尔曼又扔下一则重磅爆料： 苹果准备在今年12月，通过iOS 27.3正式把Apple Intelligence带到中国大陆。 等等等了两年，国行苹果智能终于要来了？ 再仔细一看功能列表——新版Siri AI，不在首发名单里。 好好好，市值都5万亿美元了，国行Siri怎么还得继续等啊",
+      "publishedAt": "2026-10-15T05:36:16Z",
+      "published_at": "2026-10-15T05:36:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ac02c38e",
+      "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/503446.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503446.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "机器人开始替人操心了。 想象一下。你在饭店吃饭，结账付款正准备离开时，手表突然震动并显示信息： “你的手机忘拿了，还在刚才的桌子上！” 再想象一下，你正在厨房做饭，突然家里的小机器人发出尖锐爆鸣： “小孩快从床上摔下去了！” 你一个闪身步冲回卧室，发现家崽丝毫没意识到自己已经蠕动到了床的边缘。  △图片系AI生成 让机器有“眼力见儿”，主动发现人之所需，这是唐都钰提出“主动式物理AI”这个概念时的设想。 过去几年，物理AI主要聚焦在解决“如何更好地执行人类提出的要求”这个问题。 于是机器人走得更稳了、抓得更准了、能规划得更久了……但，这一切都发生在人类的指令之后。 能不能让AI自己去发现当下要做什么，然后主动去做呢？ 华为前AI首席专家、小艺大模型前负责人唐都钰，在做了多年大模型与终端AI之后，盯上了这个方向。 于是他创办了观行数智，致力打造面向物理世界的主动式AI系统。 观行，先观世界，后行于世界。 主动式物理AI，主动在哪？ 迄今为止，物理AI开始行动的起点大多来自人类的某条具体指令。 “把苹果放进篮子里”“从冰箱里取出一瓶水”，或者“将散落的玩具整理好”…… 在接到任务后，机器人",
+      "summary_zh": "机器人开始替人操心了。 想象一下。你在饭店吃饭，结账付款正准备离开时，手表突然震动并显示信息： “你的手机忘拿了，还在刚才的桌子上！” 再想象一下，你正在厨房做饭，突然家里的小机器人发出尖锐爆鸣： “小孩快从床上摔下去了！” 你一个闪身步冲回卧室，发现家崽丝毫没意识到自己已经蠕动到了床的边缘。  △图片系AI生成 让机器有“眼力见儿”，主动发现人之所需，这是唐都钰提出“主动式物理AI”这个概念时的设想。 过去几年，物理AI主要聚焦在解决“如何更好地执行人类提出的要求”这个问题。 于是机器人走得更稳了、抓得更准了、能规划得更久了……但，这一切都发生在人类的指令之后。 能不能让AI自己去发现当下要做什么，然后主动去做呢？ 华为前AI首席专家、小艺大模型前负责人唐都钰，在做了多年大模型与终端AI之后，盯上了这个方向。 于是他创办了观行数智，致力打造面向物理世界的主动式AI系统。 观行，先观世界，后行于世界。 主动式物理AI，主动在哪？ 迄今为止，物理AI开始行动的起点大多来自人类的某条具体指令。 “把苹果放进篮子里”“从冰箱里取出一瓶水”，或者“将散落的玩具整理好”…… 在接到任务后，机器人",
+      "publishedAt": "2026-10-15T06:35:46Z",
+      "published_at": "2026-10-15T06:35:46Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "2f4b242e",
+      "title": "苹果AI国内上线，阿里百度浮出水面",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/503497.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/503497.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。  苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。据彭博社报道，苹果计划于今年 12 月通过 iOS 27.3 系统更新正式推出苹果智能，首批上线的是两年前已在美国发布的 AI 功能，覆盖 iPhone、iPad 和Mac，不包含今年发布的全新 Siri AI 助手。此前，该服务已于 7 月 8 日通过网信部门生成式 AI 服务备案，9 月 29 日取得上线许可。  百度：搜索与 Siri 相关功能的合作方 据彭博社报道，苹果在中国市场推进 AI 能力落地过程中，与百度就搜索及 Siri 相关功能展开合作。该表述与今年 7 月国内媒体披露的信息一致：苹果将在 Siri 语音助手及视觉智能（Visual Intelligence）功能中嵌入百度的软件服务。  更早一条可追溯的线索来自代码层面。第三方开发者对 iOS 27 Beta 2 固件的拆解显示，系统内新增了名为「Baidu Visual Search」的模块，指向视觉搜索能力的接入。这一模块的出现，与百度在视觉",
+      "summary_zh": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。  苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。据彭博社报道，苹果计划于今年 12 月通过 iOS 27.3 系统更新正式推出苹果智能，首批上线的是两年前已在美国发布的 AI 功能，覆盖 iPhone、iPad 和Mac，不包含今年发布的全新 Siri AI 助手。此前，该服务已于 7 月 8 日通过网信部门生成式 AI 服务备案，9 月 29 日取得上线许可。  百度：搜索与 Siri 相关功能的合作方 据彭博社报道，苹果在中国市场推进 AI 能力落地过程中，与百度就搜索及 Siri 相关功能展开合作。该表述与今年 7 月国内媒体披露的信息一致：苹果将在 Siri 语音助手及视觉智能（Visual Intelligence）功能中嵌入百度的软件服务。  更早一条可追溯的线索来自代码层面。第三方开发者对 iOS 27 Beta 2 固件的拆解显示，系统内新增了名为「Baidu Visual Search」的模块，指向视觉搜索能力的接入。这一模块的出现，与百度在视觉",
+      "publishedAt": "2026-10-15T06:52:45Z",
+      "published_at": "2026-10-15T06:52:45Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f9be69fb",
+      "title": "宕机数小时，DeepSeek给补钱了",
+      "title_en": "宕机数小时，DeepSeek给补钱了！",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "宕机数小时，DeepSeek给补钱了！",
+      "summary_zh": "宕机数小时，DeepSeek给补钱了！",
+      "publishedAt": "2026-10-15T23:07:30Z",
+      "published_at": "2026-10-15T23:07:30Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

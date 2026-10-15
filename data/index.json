@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-10-15T13:35:29Z",
-  "generatedAt": "2026-10-15T13:35:29Z",
-  "count": 156,
-  "total": 156,
+  "generated_at": "2026-10-15T23:08:10Z",
+  "generatedAt": "2026-10-15T23:08:10Z",
+  "count": 157,
+  "total": 157,
   "entries": [
+    {
+      "date": "2026-10-16",
+      "generated_at": "2026-10-15T23:08:10Z",
+      "generatedAt": "2026-10-15T23:08:10Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "31c5d5d4",
+          "title": "产品更新：Talanoa",
+          "title_en": "Talanoa",
+          "url": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Email that feels like chat Talanoa is your fir",
+          "summary_zh": "Email that feels like chat Talanoa is your fir",
+          "publishedAt": "2026-10-15T07:01:00Z",
+          "published_at": "2026-10-15T07:01:00Z",
+          "votes_count": 266,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "48",
+              "name": "Task Management",
+              "slug": "task-management"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cd893c44",
+          "title": "产品更新：Navige",
+          "title_en": "Navige",
+          "url": "https://www.producthunt.com/products/navige?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/navige?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Cut AI agent costs and control runaway spendin",
+          "summary_zh": "Cut AI agent costs and control runaway spendin",
+          "publishedAt": "2026-10-15T07:01:00Z",
+          "published_at": "2026-10-15T07:01:00Z",
+          "votes_count": 202,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6c092d5e",
+          "title": "产品更新：Apple HomeView",
+          "title_en": "Apple HomeView",
+          "url": "https://www.producthunt.com/products/apple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/apple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A new way to stay connected, and manage the ho",
+          "summary_zh": "A new way to stay connected, and manage the ho",
+          "publishedAt": "2026-10-15T07:01:00Z",
+          "published_at": "2026-10-15T07:01:00Z",
+          "votes_count": 167,
+          "featured": true,
+          "topics": [
+            {
+              "id": "73",
+              "name": "Home",
+              "slug": "home"
+            },
+            {
+              "id": "362",
+              "name": "Apple",
+              "slug": "apple"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "generated_at": "2026-10-15T13:35:29Z",

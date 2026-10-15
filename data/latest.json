@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-15T13:35:29Z",
-  "generatedAt": "2026-10-15T13:35:29Z",
+  "generated_at": "2026-10-15T23:08:10Z",
+  "generatedAt": "2026-10-15T23:08:10Z",
   "days": 7,
-  "total": 6,
-  "count": 6,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "31c5d5d4",
@@ -18,11 +18,11 @@
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Email that feels like chat. Talanoa is your fi",
-      "summary_zh": "Email that feels like chat. Talanoa is your fi",
+      "summary": "Email that feels like chat Talanoa is your fir",
+      "summary_zh": "Email that feels like chat Talanoa is your fir",
       "publishedAt": "2026-10-15T07:01:00Z",
       "published_at": "2026-10-15T07:01:00Z",
-      "votes_count": 170,
+      "votes_count": 266,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Cut AI agent costs and control runaway spendin",
       "publishedAt": "2026-10-15T07:01:00Z",
       "published_at": "2026-10-15T07:01:00Z",
-      "votes_count": 132,
+      "votes_count": 202,
       "featured": true,
       "topics": [
         {
@@ -72,6 +72,72 @@
           "id": "267",
           "name": "Developer Tools",
           "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6c092d5e",
+      "title": "产品更新：Apple HomeView",
+      "title_en": "Apple HomeView",
+      "url": "https://www.producthunt.com/products/apple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/apple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A new way to stay connected, and manage the ho",
+      "summary_zh": "A new way to stay connected, and manage the ho",
+      "publishedAt": "2026-10-15T07:01:00Z",
+      "published_at": "2026-10-15T07:01:00Z",
+      "votes_count": 167,
+      "featured": true,
+      "topics": [
+        {
+          "id": "73",
+          "name": "Home",
+          "slug": "home"
+        },
+        {
+          "id": "362",
+          "name": "Apple",
+          "slug": "apple"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "bbbfc1c3",
+      "title": "AI资讯更新：GLM-Legal",
+      "title_en": "GLM-Legal",
+      "url": "https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Z.ai’s legal AI model for contract review and",
+      "summary_zh": "Z.ai’s legal AI model for contract review and",
+      "publishedAt": "2026-10-15T07:01:00Z",
+      "published_at": "2026-10-15T07:01:00Z",
+      "votes_count": 159,
+      "featured": true,
+      "topics": [
+        {
+          "id": "259",
+          "name": "Legal",
+          "slug": "legal"
         },
         {
           "id": "268",
@@ -162,8 +228,8 @@
       "rankingScore": 5.0,
       "summary": "宕机数小时，DeepSeek给补钱了！",
       "summary_zh": "宕机数小时，DeepSeek给补钱了！",
-      "publishedAt": "2026-10-15T13:34:54Z",
-      "published_at": "2026-10-15T13:34:54Z",
+      "publishedAt": "2026-10-15T23:07:30Z",
+      "published_at": "2026-10-15T23:07:30Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
