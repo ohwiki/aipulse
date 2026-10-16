@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T13:24:28Z",
-  "generatedAt": "2026-10-16T13:24:28Z",
+  "generated_at": "2026-10-16T22:54:40Z",
+  "generatedAt": "2026-10-16T22:54:40Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "Your entire video library: organized, searchab",
       "publishedAt": "2026-10-16T07:01:00Z",
       "published_at": "2026-10-16T07:01:00Z",
-      "votes_count": 216,
+      "votes_count": 360,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Every coding agent, every machine, one command",
       "publishedAt": "2026-10-16T07:01:00Z",
       "published_at": "2026-10-16T07:01:00Z",
-      "votes_count": 184,
+      "votes_count": 278,
       "featured": true,
       "topics": [
         {
@@ -87,44 +87,6 @@
       "score_details": null
     },
     {
-      "id": "6f3dc9ad",
-      "title": "产品更新：SignWith",
-      "title_en": "SignWith",
-      "url": "https://www.producthunt.com/products/signwith?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/signwith?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "E-signatures without the subscription. Pay per",
-      "summary_zh": "E-signatures without the subscription. Pay per",
-      "publishedAt": "2026-10-16T07:01:00Z",
-      "published_at": "2026-10-16T07:01:00Z",
-      "votes_count": 144,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "237",
-          "name": "SaaS",
-          "slug": "saas"
-        },
-        {
-          "id": "259",
-          "name": "Legal",
-          "slug": "legal"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "a207d70a",
       "title": "产品更新：Tesla Roadster",
       "title_en": "Tesla Roadster",
@@ -141,13 +103,51 @@
       "summary_zh": "The hypercar that flies Roadster can perform a",
       "publishedAt": "2026-10-16T07:01:00Z",
       "published_at": "2026-10-16T07:01:00Z",
-      "votes_count": 127,
+      "votes_count": 204,
       "featured": true,
       "topics": [
         {
           "id": "874",
           "name": "Electric Cars",
           "slug": "electric-cars"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6f3dc9ad",
+      "title": "产品更新：SignWith",
+      "title_en": "SignWith",
+      "url": "https://www.producthunt.com/products/signwith?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/signwith?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "E-signatures without the subscription. Pay per",
+      "summary_zh": "E-signatures without the subscription. Pay per",
+      "publishedAt": "2026-10-16T07:01:00Z",
+      "published_at": "2026-10-16T07:01:00Z",
+      "votes_count": 184,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "259",
+          "name": "Legal",
+          "slug": "legal"
         }
       ],
       "score_details": null
@@ -233,8 +233,8 @@
       "rankingScore": 5.0,
       "summary": "昆仑万维创始人周亚辉署名Matrix-Game 4.0 技术报告",
       "summary_zh": "昆仑万维创始人周亚辉署名Matrix-Game 4.0 技术报告",
-      "publishedAt": "2026-10-16T13:23:46Z",
-      "published_at": "2026-10-16T13:23:46Z",
+      "publishedAt": "2026-10-16T22:54:12Z",
+      "published_at": "2026-10-16T22:54:12Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

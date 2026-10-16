@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-10-16T13:24:28Z",
-  "generatedAt": "2026-10-16T13:24:28Z",
-  "count": 157,
-  "total": 157,
+  "generated_at": "2026-10-16T22:54:40Z",
+  "generatedAt": "2026-10-16T22:54:40Z",
+  "count": 158,
+  "total": 158,
   "entries": [
+    {
+      "date": "2026-10-17",
+      "generated_at": "2026-10-16T22:54:40Z",
+      "generatedAt": "2026-10-16T22:54:40Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "4e4d099a",
+          "title": "产品更新：Jockey by Twelv",
+          "title_en": "Jockey by TwelveLabs",
+          "url": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your entire video library: organized, searchab",
+          "summary_zh": "Your entire video library: organized, searchab",
+          "publishedAt": "2026-10-16T07:01:00Z",
+          "published_at": "2026-10-16T07:01:00Z",
+          "votes_count": 360,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "59512990",
+          "title": "产品更新：Harness by Auto",
+          "title_en": "Harness by Autonomous",
+          "url": "https://www.producthunt.com/products/harness-by-autonomous?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/harness-by-autonomous?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Every coding agent, every machine, one command",
+          "summary_zh": "Every coding agent, every machine, one command",
+          "publishedAt": "2026-10-16T07:01:00Z",
+          "published_at": "2026-10-16T07:01:00Z",
+          "votes_count": 278,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "a207d70a",
+          "title": "产品更新：Tesla Roadster",
+          "title_en": "Tesla Roadster",
+          "url": "https://www.producthunt.com/products/tesla-roadster?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/tesla-roadster?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The hypercar that flies Roadster can perform a",
+          "summary_zh": "The hypercar that flies Roadster can perform a",
+          "publishedAt": "2026-10-16T07:01:00Z",
+          "published_at": "2026-10-16T07:01:00Z",
+          "votes_count": 204,
+          "featured": true,
+          "topics": [
+            {
+              "id": "874",
+              "name": "Electric Cars",
+              "slug": "electric-cars"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-16",
       "generated_at": "2026-10-16T13:24:28Z",
