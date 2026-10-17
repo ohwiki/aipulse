@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-10-17T12:18:22Z",
-  "generatedAt": "2026-10-17T12:18:22Z",
-  "count": 158,
-  "total": 158,
+  "generated_at": "2026-10-17T22:28:39Z",
+  "generatedAt": "2026-10-17T22:28:39Z",
+  "count": 159,
+  "total": 159,
   "entries": [
+    {
+      "date": "2026-10-18",
+      "generated_at": "2026-10-17T22:28:39Z",
+      "generatedAt": "2026-10-17T22:28:39Z",
+      "total": 7,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "195c1eea",
+          "title": "产品更新：NitroStack",
+          "title_en": "NitroStack",
+          "url": "https://www.producthunt.com/products/nitrostack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/nitrostack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build, test, and deploy MCP servers in one pla",
+          "summary_zh": "Build, test, and deploy MCP servers in one pla",
+          "publishedAt": "2026-10-17T07:01:00Z",
+          "published_at": "2026-10-17T07:01:00Z",
+          "votes_count": 270,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "608f5c68",
+          "title": "产品更新：Caldera",
+          "title_en": "Caldera",
+          "url": "https://www.producthunt.com/products/caldera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/caldera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your Obsidian vault as a living profile and li",
+          "summary_zh": "Your Obsidian vault as a living profile and li",
+          "publishedAt": "2026-10-17T07:01:00Z",
+          "published_at": "2026-10-17T07:01:00Z",
+          "votes_count": 175,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "96",
+              "name": "Notes",
+              "slug": "notes"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "0b8b15a0",
+          "title": "产品更新：Notion: Context",
+          "title_en": "Notion: Context for your agents",
+          "url": "https://www.producthunt.com/products/notion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/notion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Switch AI agents without re-explaining your wo",
+          "summary_zh": "Switch AI agents without re-explaining your wo",
+          "publishedAt": "2026-10-17T07:01:00Z",
+          "published_at": "2026-10-17T07:01:00Z",
+          "votes_count": 153,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "963",
+              "name": "Notion",
+              "slug": "notion"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "generated_at": "2026-10-17T12:18:22Z",

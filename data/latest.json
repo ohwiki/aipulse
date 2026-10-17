@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-17T12:18:22Z",
-  "generatedAt": "2026-10-17T12:18:22Z",
+  "generated_at": "2026-10-17T22:28:39Z",
+  "generatedAt": "2026-10-17T22:28:39Z",
   "days": 7,
-  "total": 5,
-  "count": 5,
+  "total": 7,
+  "count": 7,
   "items": [
     {
       "id": "195c1eea",
@@ -22,7 +22,7 @@
       "summary_zh": "Build, test, and deploy MCP servers in one pla",
       "publishedAt": "2026-10-17T07:01:00Z",
       "published_at": "2026-10-17T07:01:00Z",
-      "votes_count": 154,
+      "votes_count": 270,
       "featured": true,
       "topics": [
         {
@@ -49,31 +49,123 @@
       "score_details": null
     },
     {
-      "id": "dd2f144e",
-      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/503880.html",
-      "source": "量子位",
+      "id": "608f5c68",
+      "title": "产品更新：Caldera",
+      "title_en": "Caldera",
+      "url": "https://www.producthunt.com/products/caldera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/503880.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "从搭载物理建模能力的世界模型切入  衡宇 发自 凹非寺 量子位 | 公众号QbitAI 世界模型赛道仍在源源不断涌入最智慧的大脑。 量子位获悉，曾在2022年获清华特奖的吴海旭，已于今年悄然开启世界模型创业。 公司名为物原科技，迄今为止迅速完成了多轮融资，公司估值来到数亿美元，投资方队伍中出现了蚂蚁、美团、达晨财智、星连等一线投资机构的的身影。  今年2月，吴海旭为一作的工作GeoPT在技术领域引起热议。 该工作提出了一种全新的动力学提升预训练范式，通过合成动力学（Synthetic Dynamics）将静态几何“提升”到动态空间，让模型在无标签数据上通过学习粒子轨迹演化来获取物理直觉。 该论文的作者中还出现了清华软件学院长聘副教授龙明盛（吴海旭博士导师）、MIT何恺明，以及MIT教授Wojciech Matusik（吴海旭博士后所在项目组导师）等人。  我们获悉，吴海旭此次创业，选择从搭载物理建模能力的世界模型切入。 据接近物原科技的知情人士透露，该方案一定程度上在技术思路方面延续了GeoPT的研究路线。 吴海旭是谁？ 吴海旭于2016年进入清华大学软件学院软件工程专业就读本科，并于",
-      "summary_zh": "从搭载物理建模能力的世界模型切入  衡宇 发自 凹非寺 量子位 | 公众号QbitAI 世界模型赛道仍在源源不断涌入最智慧的大脑。 量子位获悉，曾在2022年获清华特奖的吴海旭，已于今年悄然开启世界模型创业。 公司名为物原科技，迄今为止迅速完成了多轮融资，公司估值来到数亿美元，投资方队伍中出现了蚂蚁、美团、达晨财智、星连等一线投资机构的的身影。  今年2月，吴海旭为一作的工作GeoPT在技术领域引起热议。 该工作提出了一种全新的动力学提升预训练范式，通过合成动力学（Synthetic Dynamics）将静态几何“提升”到动态空间，让模型在无标签数据上通过学习粒子轨迹演化来获取物理直觉。 该论文的作者中还出现了清华软件学院长聘副教授龙明盛（吴海旭博士导师）、MIT何恺明，以及MIT教授Wojciech Matusik（吴海旭博士后所在项目组导师）等人。  我们获悉，吴海旭此次创业，选择从搭载物理建模能力的世界模型切入。 据接近物原科技的知情人士透露，该方案一定程度上在技术思路方面延续了GeoPT的研究路线。 吴海旭是谁？ 吴海旭于2016年进入清华大学软件学院软件工程专业就读本科，并于",
-      "publishedAt": "2026-10-16T12:54:54Z",
-      "published_at": "2026-10-16T12:54:54Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/caldera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your Obsidian vault as a living profile and li",
+      "summary_zh": "Your Obsidian vault as a living profile and li",
+      "publishedAt": "2026-10-17T07:01:00Z",
+      "published_at": "2026-10-17T07:01:00Z",
+      "votes_count": 175,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "96",
+          "name": "Notes",
+          "slug": "notes"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
       "score_details": null
     },
     {
-      "id": "03566395",
-      "title": "让AI造城市，一口气干活十几个小时，",
-      "title_en": "让AI造城市，一口气干活十几个小时，蚂蚁百灵Ling-3.1-flash把AI带进真实工作流",
+      "id": "0b8b15a0",
+      "title": "产品更新：Notion: Context",
+      "title_en": "Notion: Context for your agents",
+      "url": "https://www.producthunt.com/products/notion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/notion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Switch AI agents without re-explaining your wo",
+      "summary_zh": "Switch AI agents without re-explaining your wo",
+      "publishedAt": "2026-10-17T07:01:00Z",
+      "published_at": "2026-10-17T07:01:00Z",
+      "votes_count": 153,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "963",
+          "name": "Notion",
+          "slug": "notion"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "486b90b3",
+      "title": "产品更新：Emochi",
+      "title_en": "Emochi",
+      "url": "https://www.producthunt.com/products/emochi-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/emochi-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Voice journal to understand yourself through a",
+      "summary_zh": "Voice journal to understand yourself through a",
+      "publishedAt": "2026-10-17T07:01:00Z",
+      "published_at": "2026-10-17T07:01:00Z",
+      "votes_count": 146,
+      "featured": true,
+      "topics": [
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "id": "43",
+          "name": "Health & Fitness",
+          "slug": "health-fitness"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a580eb8f",
+      "title": "登顶RoboDojo智能体超过GPT",
+      "title_en": "登顶RoboDojo智能体超过GPT-6 Astra：Manifold AI推出R²SI",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -83,19 +175,19 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "让AI造城市，一口气干活十几个小时，蚂蚁百灵Ling-3.1-flash把AI带进真实工作流",
-      "summary_zh": "让AI造城市，一口气干活十几个小时，蚂蚁百灵Ling-3.1-flash把AI带进真实工作流",
-      "publishedAt": "2026-10-17T12:18:06Z",
-      "published_at": "2026-10-17T12:18:06Z",
+      "summary": "登顶RoboDojo智能体超过GPT-6 Astra：Manifold AI推出R²SI",
+      "summary_zh": "登顶RoboDojo智能体超过GPT-6 Astra：Manifold AI推出R²SI",
+      "publishedAt": "2026-10-17T22:28:03Z",
+      "published_at": "2026-10-17T22:28:03Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "77c4c1ef",
-      "title": "从「人造太阳」到癌症治疗，合肥企业获",
-      "title_en": "从「人造太阳」到癌症治疗，合肥企业获得6亿元融资",
+      "id": "a7f25381",
+      "title": "AI资讯更新：WorldScape Po",
+      "title_en": "WorldScape Policy 2.5",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -105,19 +197,19 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "从「人造太阳」到癌症治疗，合肥企业获得6亿元融资",
-      "summary_zh": "从「人造太阳」到癌症治疗，合肥企业获得6亿元融资",
-      "publishedAt": "2026-10-17T12:18:06Z",
-      "published_at": "2026-10-17T12:18:06Z",
+      "summary": "WorldScape Policy 2.5",
+      "summary_zh": "WorldScape Policy 2.5",
+      "publishedAt": "2026-10-17T22:28:03Z",
+      "published_at": "2026-10-17T22:28:03Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "994228e7",
-      "title": "ICML 2026丨从一句实验描述到",
-      "title_en": "ICML 2026丨从一句实验描述到安全3D实验室，LabBuilder实现协议驱动的实验室布局自动生成",
+      "id": "0f491e52",
+      "title": "DeepSeek V4.1F新版本来",
+      "title_en": "DeepSeek V4.1F新版本来了，主打「许愿式编程」",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -127,10 +219,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "ICML 2026丨从一句实验描述到安全3D实验室，LabBuilder实现协议驱动的实验室",
-      "summary_zh": "ICML 2026丨从一句实验描述到安全3D实验室，LabBuilder实现协议驱动的实验室",
-      "publishedAt": "2026-10-17T12:18:06Z",
-      "published_at": "2026-10-17T12:18:06Z",
+      "summary": "DeepSeek V4.1F新版本来了，主打「许愿式编程」",
+      "summary_zh": "DeepSeek V4.1F新版本来了，主打「许愿式编程」",
+      "publishedAt": "2026-10-17T22:28:03Z",
+      "published_at": "2026-10-17T22:28:03Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
