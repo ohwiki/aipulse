@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-10-17T22:28:39Z",
-  "generatedAt": "2026-10-17T22:28:39Z",
+  "generated_at": "2026-10-18T12:42:07Z",
+  "generatedAt": "2026-10-18T12:42:07Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 4,
+  "count": 4,
   "items": [
     {
-      "id": "195c1eea",
-      "title": "产品更新：NitroStack",
-      "title_en": "NitroStack",
-      "url": "https://www.producthunt.com/products/nitrostack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "9ac8369b",
+      "title": "产品更新：Inbox Zero",
+      "title_en": "Inbox Zero",
+      "url": "https://www.producthunt.com/products/inbox-zero-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/nitrostack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/inbox-zero-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Build, test, and deploy MCP servers in one pla",
-      "summary_zh": "Build, test, and deploy MCP servers in one pla",
-      "publishedAt": "2026-10-17T07:01:00Z",
-      "published_at": "2026-10-17T07:01:00Z",
-      "votes_count": 270,
+      "summary": "Open-source Superhuman alternative Inbox Zero",
+      "summary_zh": "Open-source Superhuman alternative Inbox Zero",
+      "publishedAt": "2026-10-18T07:01:00Z",
+      "published_at": "2026-10-18T07:01:00Z",
+      "votes_count": 147,
       "featured": true,
       "topics": [
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
         {
           "id": "89",
           "name": "Open Source",
           "slug": "open-source"
         },
         {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
@@ -44,120 +44,6 @@
           "id": "272",
           "name": "GitHub",
           "slug": "github"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "608f5c68",
-      "title": "产品更新：Caldera",
-      "title_en": "Caldera",
-      "url": "https://www.producthunt.com/products/caldera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/caldera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Your Obsidian vault as a living profile and li",
-      "summary_zh": "Your Obsidian vault as a living profile and li",
-      "publishedAt": "2026-10-17T07:01:00Z",
-      "published_at": "2026-10-17T07:01:00Z",
-      "votes_count": 175,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "96",
-          "name": "Notes",
-          "slug": "notes"
-        },
-        {
-          "id": "272",
-          "name": "GitHub",
-          "slug": "github"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "0b8b15a0",
-      "title": "产品更新：Notion: Context",
-      "title_en": "Notion: Context for your agents",
-      "url": "https://www.producthunt.com/products/notion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/notion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Switch AI agents without re-explaining your wo",
-      "summary_zh": "Switch AI agents without re-explaining your wo",
-      "publishedAt": "2026-10-17T07:01:00Z",
-      "published_at": "2026-10-17T07:01:00Z",
-      "votes_count": 153,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "963",
-          "name": "Notion",
-          "slug": "notion"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "486b90b3",
-      "title": "产品更新：Emochi",
-      "title_en": "Emochi",
-      "url": "https://www.producthunt.com/products/emochi-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/emochi-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Voice journal to understand yourself through a",
-      "summary_zh": "Voice journal to understand yourself through a",
-      "publishedAt": "2026-10-17T07:01:00Z",
-      "published_at": "2026-10-17T07:01:00Z",
-      "votes_count": 146,
-      "featured": true,
-      "topics": [
-        {
-          "id": "8",
-          "name": "iOS",
-          "slug": "ios"
-        },
-        {
-          "id": "43",
-          "name": "Health & Fitness",
-          "slug": "health-fitness"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
         }
       ],
       "score_details": null
@@ -177,8 +63,8 @@
       "rankingScore": 5.0,
       "summary": "登顶RoboDojo智能体超过GPT-6 Astra：Manifold AI推出R²SI",
       "summary_zh": "登顶RoboDojo智能体超过GPT-6 Astra：Manifold AI推出R²SI",
-      "publishedAt": "2026-10-17T22:28:03Z",
-      "published_at": "2026-10-17T22:28:03Z",
+      "publishedAt": "2026-10-18T12:41:39Z",
+      "published_at": "2026-10-18T12:41:39Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -199,8 +85,8 @@
       "rankingScore": 5.0,
       "summary": "WorldScape Policy 2.5",
       "summary_zh": "WorldScape Policy 2.5",
-      "publishedAt": "2026-10-17T22:28:03Z",
-      "published_at": "2026-10-17T22:28:03Z",
+      "publishedAt": "2026-10-18T12:41:39Z",
+      "published_at": "2026-10-18T12:41:39Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -221,8 +107,8 @@
       "rankingScore": 5.0,
       "summary": "DeepSeek V4.1F新版本来了，主打「许愿式编程」",
       "summary_zh": "DeepSeek V4.1F新版本来了，主打「许愿式编程」",
-      "publishedAt": "2026-10-17T22:28:03Z",
-      "published_at": "2026-10-17T22:28:03Z",
+      "publishedAt": "2026-10-18T12:41:39Z",
+      "published_at": "2026-10-18T12:41:39Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
