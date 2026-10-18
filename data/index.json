@@ -1,9 +1,142 @@
 {
-  "generated_at": "2026-10-18T12:42:07Z",
-  "generatedAt": "2026-10-18T12:42:07Z",
-  "count": 159,
-  "total": 159,
+  "generated_at": "2026-10-18T22:29:40Z",
+  "generatedAt": "2026-10-18T22:29:40Z",
+  "count": 160,
+  "total": 160,
   "entries": [
+    {
+      "date": "2026-10-19",
+      "generated_at": "2026-10-18T22:29:40Z",
+      "generatedAt": "2026-10-18T22:29:40Z",
+      "total": 7,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "9ac8369b",
+          "title": "产品更新：Inbox Zero",
+          "title_en": "Inbox Zero",
+          "url": "https://www.producthunt.com/products/inbox-zero-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/inbox-zero-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Open-source Superhuman alternative Inbox Zero",
+          "summary_zh": "Open-source Superhuman alternative Inbox Zero",
+          "publishedAt": "2026-10-18T07:01:00Z",
+          "published_at": "2026-10-18T07:01:00Z",
+          "votes_count": 275,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c7616091",
+          "title": "产品更新：MyLens",
+          "title_en": "MyLens",
+          "url": "https://www.producthunt.com/products/mylens-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/mylens-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "1-1 Live Presentations at Scale with AI. MyLen",
+          "summary_zh": "1-1 Live Presentations at Scale with AI. MyLen",
+          "publishedAt": "2026-10-18T07:01:00Z",
+          "published_at": "2026-10-18T07:01:00Z",
+          "votes_count": 167,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3bafa500",
+          "title": "产品更新：shim-cli",
+          "title_en": "shim-cli",
+          "url": "https://www.producthunt.com/products/shim-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/shim-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "See what your coding agent sends. Mask what yo",
+          "summary_zh": "See what your coding agent sends. Mask what yo",
+          "publishedAt": "2026-10-18T07:01:00Z",
+          "published_at": "2026-10-18T07:01:00Z",
+          "votes_count": 152,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "248",
+              "name": "Privacy",
+              "slug": "privacy"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-18",
       "generated_at": "2026-10-18T12:42:07Z",

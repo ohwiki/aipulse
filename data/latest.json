@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-18T12:42:07Z",
-  "generatedAt": "2026-10-18T12:42:07Z",
+  "generated_at": "2026-10-18T22:29:40Z",
+  "generatedAt": "2026-10-18T22:29:40Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 7,
+  "count": 7,
   "items": [
     {
       "id": "9ac8369b",
@@ -22,7 +22,7 @@
       "summary_zh": "Open-source Superhuman alternative Inbox Zero",
       "publishedAt": "2026-10-18T07:01:00Z",
       "published_at": "2026-10-18T07:01:00Z",
-      "votes_count": 147,
+      "votes_count": 275,
       "featured": true,
       "topics": [
         {
@@ -49,9 +49,123 @@
       "score_details": null
     },
     {
-      "id": "a580eb8f",
-      "title": "登顶RoboDojo智能体超过GPT",
-      "title_en": "登顶RoboDojo智能体超过GPT-6 Astra：Manifold AI推出R²SI",
+      "id": "c7616091",
+      "title": "产品更新：MyLens",
+      "title_en": "MyLens",
+      "url": "https://www.producthunt.com/products/mylens-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/mylens-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "1-1 Live Presentations at Scale with AI. MyLen",
+      "summary_zh": "1-1 Live Presentations at Scale with AI. MyLen",
+      "publishedAt": "2026-10-18T07:01:00Z",
+      "published_at": "2026-10-18T07:01:00Z",
+      "votes_count": 167,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "204",
+          "name": "Education",
+          "slug": "education"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3bafa500",
+      "title": "产品更新：shim-cli",
+      "title_en": "shim-cli",
+      "url": "https://www.producthunt.com/products/shim-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/shim-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "See what your coding agent sends. Mask what yo",
+      "summary_zh": "See what your coding agent sends. Mask what yo",
+      "publishedAt": "2026-10-18T07:01:00Z",
+      "published_at": "2026-10-18T07:01:00Z",
+      "votes_count": 152,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "248",
+          "name": "Privacy",
+          "slug": "privacy"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a48a4a5b",
+      "title": "产品更新：Tower 18 for Ma",
+      "title_en": "Tower 18 for Mac",
+      "url": "https://www.producthunt.com/products/tower?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/tower?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The most powerful Git client with a better CLI",
+      "summary_zh": "The most powerful Git client with a better CLI",
+      "publishedAt": "2026-10-18T07:01:00Z",
+      "published_at": "2026-10-18T07:01:00Z",
+      "votes_count": 128,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1d7699b7",
+      "title": "双榜第一背后，他们想做的不是下一个世",
+      "title_en": "双榜第一背后，他们想做的不是下一个世界模型",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -61,19 +175,19 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "登顶RoboDojo智能体超过GPT-6 Astra：Manifold AI推出R²SI",
-      "summary_zh": "登顶RoboDojo智能体超过GPT-6 Astra：Manifold AI推出R²SI",
-      "publishedAt": "2026-10-18T12:41:39Z",
-      "published_at": "2026-10-18T12:41:39Z",
+      "summary": "双榜第一背后，他们想做的不是下一个世界模型",
+      "summary_zh": "双榜第一背后，他们想做的不是下一个世界模型",
+      "publishedAt": "2026-10-18T22:29:18Z",
+      "published_at": "2026-10-18T22:29:18Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "a7f25381",
-      "title": "AI资讯更新：WorldScape Po",
-      "title_en": "WorldScape Policy 2.5",
+      "id": "06fdcab2",
+      "title": "EMNLP 2026 Main｜浙大",
+      "title_en": "EMNLP 2026 Main｜浙大&北大团队提出SPADER：用step-wise GRPO与多样性感知奖励驱动多答案问答长尾探索",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -83,19 +197,19 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "WorldScape Policy 2.5",
-      "summary_zh": "WorldScape Policy 2.5",
-      "publishedAt": "2026-10-18T12:41:39Z",
-      "published_at": "2026-10-18T12:41:39Z",
+      "summary": "EMNLP 2026 Main｜浙大&北大团队提出SPADER：用step-wise GRP",
+      "summary_zh": "EMNLP 2026 Main｜浙大&北大团队提出SPADER：用step-wise GRP",
+      "publishedAt": "2026-10-18T22:29:18Z",
+      "published_at": "2026-10-18T22:29:18Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "0f491e52",
-      "title": "DeepSeek V4.1F新版本来",
-      "title_en": "DeepSeek V4.1F新版本来了，主打「许愿式编程」",
+      "id": "3c36bb31",
+      "title": "AI资讯更新：EMNLP 2026 Ma",
+      "title_en": "EMNLP 2026 Main",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -105,10 +219,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "DeepSeek V4.1F新版本来了，主打「许愿式编程」",
-      "summary_zh": "DeepSeek V4.1F新版本来了，主打「许愿式编程」",
-      "publishedAt": "2026-10-18T12:41:39Z",
-      "published_at": "2026-10-18T12:41:39Z",
+      "summary": "EMNLP 2026 Main",
+      "summary_zh": "EMNLP 2026 Main",
+      "publishedAt": "2026-10-18T22:29:18Z",
+      "published_at": "2026-10-18T22:29:18Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
