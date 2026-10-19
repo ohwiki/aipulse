@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-19T15:47:14Z",
-  "generatedAt": "2026-10-19T15:47:14Z",
+  "generated_at": "2026-10-19T23:49:21Z",
+  "generatedAt": "2026-10-19T23:49:21Z",
   "days": 7,
-  "total": 6,
-  "count": 6,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "cd7aad54",
@@ -22,7 +22,7 @@
       "summary_zh": "Run AI agents on one Mac and use its windows o",
       "publishedAt": "2026-10-19T07:01:00Z",
       "published_at": "2026-10-19T07:01:00Z",
-      "votes_count": 225,
+      "votes_count": 287,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "A container for your context that lives on the",
       "publishedAt": "2026-10-19T07:01:00Z",
       "published_at": "2026-10-19T07:01:00Z",
-      "votes_count": 131,
+      "votes_count": 164,
       "featured": true,
       "topics": [
         {
@@ -77,6 +77,82 @@
           "id": "802",
           "name": "Design",
           "slug": "design"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b6544293",
+      "title": "产品更新：Kai Resolve by",
+      "title_en": "Kai Resolve by Gleap",
+      "url": "https://www.producthunt.com/products/gleap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/gleap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Support that does the digging for you. Kai Res",
+      "summary_zh": "Support that does the digging for you. Kai Res",
+      "publishedAt": "2026-10-19T07:01:00Z",
+      "published_at": "2026-10-19T07:01:00Z",
+      "votes_count": 136,
+      "featured": true,
+      "topics": [
+        {
+          "id": "55",
+          "name": "Customer Success",
+          "slug": "customer-success"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b710f0a0",
+      "title": "产品更新：walkai-talkai",
+      "title_en": "walkai-talkai",
+      "url": "https://www.producthunt.com/products/walkai-talkai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/walkai-talkai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Talk to your AI coding agent over a walkie-tal",
+      "summary_zh": "Talk to your AI coding agent over a walkie-tal",
+      "publishedAt": "2026-10-19T07:01:00Z",
+      "published_at": "2026-10-19T07:01:00Z",
+      "votes_count": 136,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "744",
+          "name": "Radio",
+          "slug": "radio"
+        },
+        {
+          "id": "1194",
+          "name": "Vibe coding",
+          "slug": "vibe-coding"
         }
       ],
       "score_details": null
@@ -162,8 +238,8 @@
       "rankingScore": 5.0,
       "summary": "GPT-6-Astra具身能力遭大考！传统基准拿满分，真机频碰壁",
       "summary_zh": "GPT-6-Astra具身能力遭大考！传统基准拿满分，真机频碰壁",
-      "publishedAt": "2026-10-19T15:46:29Z",
-      "published_at": "2026-10-19T15:46:29Z",
+      "publishedAt": "2026-10-19T23:48:54Z",
+      "published_at": "2026-10-19T23:48:54Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
