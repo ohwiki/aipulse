@@ -1,77 +1,34 @@
 {
-  "generated_at": "2026-10-18T22:29:40Z",
-  "generatedAt": "2026-10-18T22:29:40Z",
+  "generated_at": "2026-10-19T15:47:14Z",
+  "generatedAt": "2026-10-19T15:47:14Z",
   "count": 160,
   "total": 160,
   "entries": [
     {
       "date": "2026-10-19",
-      "generated_at": "2026-10-18T22:29:40Z",
-      "generatedAt": "2026-10-18T22:29:40Z",
-      "total": 7,
+      "generated_at": "2026-10-19T15:47:14Z",
+      "generatedAt": "2026-10-19T15:47:14Z",
+      "total": 6,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "9ac8369b",
-          "title": "产品更新：Inbox Zero",
-          "title_en": "Inbox Zero",
-          "url": "https://www.producthunt.com/products/inbox-zero-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "cd7aad54",
+          "title": "产品更新：Beam.win",
+          "title_en": "Beam.win",
+          "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/inbox-zero-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Open-source Superhuman alternative Inbox Zero",
-          "summary_zh": "Open-source Superhuman alternative Inbox Zero",
-          "publishedAt": "2026-10-18T07:01:00Z",
-          "published_at": "2026-10-18T07:01:00Z",
-          "votes_count": 275,
-          "featured": true,
-          "topics": [
-            {
-              "id": "39",
-              "name": "Email",
-              "slug": "email"
-            },
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "c7616091",
-          "title": "产品更新：MyLens",
-          "title_en": "MyLens",
-          "url": "https://www.producthunt.com/products/mylens-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/mylens-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "1-1 Live Presentations at Scale with AI. MyLen",
-          "summary_zh": "1-1 Live Presentations at Scale with AI. MyLen",
-          "publishedAt": "2026-10-18T07:01:00Z",
-          "published_at": "2026-10-18T07:01:00Z",
-          "votes_count": 167,
+          "summary": "Run AI agents on one Mac and use its windows o",
+          "summary_zh": "Run AI agents on one Mac and use its windows o",
+          "publishedAt": "2026-10-19T07:01:00Z",
+          "published_at": "2026-10-19T07:01:00Z",
+          "votes_count": 225,
           "featured": true,
           "topics": [
             {
@@ -80,9 +37,9 @@
               "slug": "productivity"
             },
             {
-              "id": "204",
-              "name": "Education",
-              "slug": "education"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
             {
               "id": "268",
@@ -93,46 +50,63 @@
           "score_details": null
         },
         {
-          "id": "3bafa500",
-          "title": "产品更新：shim-cli",
-          "title_en": "shim-cli",
-          "url": "https://www.producthunt.com/products/shim-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "5c56b64c",
+          "title": "产品更新：Figma Specs",
+          "title_en": "Figma Specs",
+          "url": "https://www.producthunt.com/products/figma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/shim-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/figma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "See what your coding agent sends. Mask what yo",
-          "summary_zh": "See what your coding agent sends. Mask what yo",
-          "publishedAt": "2026-10-18T07:01:00Z",
-          "published_at": "2026-10-18T07:01:00Z",
-          "votes_count": 152,
+          "summary": "A container for your context that lives on the",
+          "summary_zh": "A container for your context that lives on the",
+          "publishedAt": "2026-10-19T07:01:00Z",
+          "published_at": "2026-10-19T07:01:00Z",
+          "votes_count": 131,
           "featured": true,
           "topics": [
             {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
             },
             {
-              "id": "248",
-              "name": "Privacy",
-              "slug": "privacy"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
+              "id": "802",
+              "name": "Design",
+              "slug": "design"
             }
           ],
+          "score_details": null
+        },
+        {
+          "id": "77c8e3ac",
+          "title": "GPT-6-Astra具身能力遭大考",
+          "title_en": "GPT-6-Astra具身能力遭大考！传统基准拿满分，真机频碰壁",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "GPT-6-Astra具身能力遭大考！传统基准拿满分，真机频碰壁",
+          "summary_zh": "GPT-6-Astra具身能力遭大考！传统基准拿满分，真机频碰壁",
+          "publishedAt": "2026-10-19T15:46:29Z",
+          "published_at": "2026-10-19T15:46:29Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
