@@ -1,41 +1,79 @@
 {
-  "generated_at": "2026-10-19T23:49:21Z",
-  "generatedAt": "2026-10-19T23:49:21Z",
+  "generated_at": "2026-10-20T13:45:03Z",
+  "generatedAt": "2026-10-20T13:45:03Z",
   "count": 161,
   "total": 161,
   "entries": [
     {
       "date": "2026-10-20",
-      "generated_at": "2026-10-19T23:49:21Z",
-      "generatedAt": "2026-10-19T23:49:21Z",
-      "total": 8,
+      "generated_at": "2026-10-20T13:45:03Z",
+      "generatedAt": "2026-10-20T13:45:03Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "cd7aad54",
-          "title": "产品更新：Beam.win",
-          "title_en": "Beam.win",
-          "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "6070b2a5",
+          "title": "产品更新：/dev/null",
+          "title_en": "/dev/null",
+          "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Run AI agents on one Mac and use its windows o",
-          "summary_zh": "Run AI agents on one Mac and use its windows o",
-          "publishedAt": "2026-10-19T07:01:00Z",
-          "published_at": "2026-10-19T07:01:00Z",
-          "votes_count": 287,
+          "summary": "a social network for devs /dev/null started as",
+          "summary_zh": "a social network for devs /dev/null started as",
+          "publishedAt": "2026-10-20T07:01:00Z",
+          "published_at": "2026-10-20T07:01:00Z",
+          "votes_count": 254,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
             },
+            {
+              "id": "102",
+              "name": "Social Network",
+              "slug": "social-network"
+            },
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5ce7bc8f",
+          "title": "产品更新：Composio Instan",
+          "title_en": "Composio Instant",
+          "url": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The easiest way for AI agents to pay for their",
+          "summary_zh": "The easiest way for AI agents to pay for their",
+          "publishedAt": "2026-10-20T07:01:00Z",
+          "published_at": "2026-10-20T07:01:00Z",
+          "votes_count": 156,
+          "featured": true,
+          "topics": [
             {
               "id": "267",
               "name": "Developer Tools",
@@ -45,72 +83,39 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "778",
+              "name": "SDK",
+              "slug": "sdk"
             }
           ],
           "score_details": null
         },
         {
-          "id": "5c56b64c",
-          "title": "产品更新：Figma Specs",
-          "title_en": "Figma Specs",
-          "url": "https://www.producthunt.com/products/figma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "36cf4ecb",
+          "title": "产品更新：Hoistbay",
+          "title_en": "Hoistbay",
+          "url": "https://www.producthunt.com/products/hoistbay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/figma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/hoistbay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "A container for your context that lives on the",
-          "summary_zh": "A container for your context that lives on the",
-          "publishedAt": "2026-10-19T07:01:00Z",
-          "published_at": "2026-10-19T07:01:00Z",
-          "votes_count": 164,
+          "summary": "Open-source desktop app for Amazon S3 and Clou",
+          "summary_zh": "Open-source desktop app for Amazon S3 and Clou",
+          "publishedAt": "2026-10-20T07:01:00Z",
+          "published_at": "2026-10-20T07:01:00Z",
+          "votes_count": 120,
           "featured": true,
           "topics": [
             {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
-            },
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "802",
-              "name": "Design",
-              "slug": "design"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "b6544293",
-          "title": "产品更新：Kai Resolve by",
-          "title_en": "Kai Resolve by Gleap",
-          "url": "https://www.producthunt.com/products/gleap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/gleap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Support that does the digging for you. Kai Res",
-          "summary_zh": "Support that does the digging for you. Kai Res",
-          "publishedAt": "2026-10-19T07:01:00Z",
-          "published_at": "2026-10-19T07:01:00Z",
-          "votes_count": 136,
-          "featured": true,
-          "topics": [
-            {
-              "id": "55",
-              "name": "Customer Success",
-              "slug": "customer-success"
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
             },
             {
               "id": "267",
@@ -118,9 +123,9 @@
               "slug": "developer-tools"
             },
             {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
             }
           ],
           "score_details": null
