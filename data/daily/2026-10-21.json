@@ -1,0 +1,523 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-20T23:15:03Z",
+  "generatedAt": "2026-10-20T23:15:03Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "6070b2a5",
+          "title": "产品更新：/dev/null",
+          "title_en": "/dev/null",
+          "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "a social network for devs /dev/null started as",
+          "summary_zh": "a social network for devs /dev/null started as",
+          "publishedAt": "2026-10-20T07:01:00Z",
+          "published_at": "2026-10-20T07:01:00Z",
+          "votes_count": 393,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "102",
+              "name": "Social Network",
+              "slug": "social-network"
+            },
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5ce7bc8f",
+          "title": "产品更新：Composio Instan",
+          "title_en": "Composio Instant",
+          "url": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The easiest way for AI agents to pay for their",
+          "summary_zh": "The easiest way for AI agents to pay for their",
+          "publishedAt": "2026-10-20T07:01:00Z",
+          "published_at": "2026-10-20T07:01:00Z",
+          "votes_count": 251,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "778",
+              "name": "SDK",
+              "slug": "sdk"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "87d631dc",
+          "title": "AI资讯更新：Harness²",
+          "title_en": "Harness²",
+          "url": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Harness the agent. Then harness its self-impro",
+          "summary_zh": "Harness the agent. Then harness its self-impro",
+          "publishedAt": "2026-10-20T07:01:00Z",
+          "published_at": "2026-10-20T07:01:00Z",
+          "votes_count": 164,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "36cf4ecb",
+          "title": "产品更新：Hoistbay",
+          "title_en": "Hoistbay",
+          "url": "https://www.producthunt.com/products/hoistbay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/hoistbay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Open-source desktop app for Amazon S3 and Clou",
+          "summary_zh": "Open-source desktop app for Amazon S3 and Clou",
+          "publishedAt": "2026-10-20T07:01:00Z",
+          "published_at": "2026-10-20T07:01:00Z",
+          "votes_count": 152,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "3ba16f7a",
+          "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/504314.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/504314.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "OpenAI只掏出一个6.1 Terra…  梦晨 发自 凹非寺 量子位 | 公众号QbitAI 最近听到AI圈最好笑的笑话： 接下来的一个月御三家都要出新模型。 Claude新款被评价为“重大飞跃”，修复一个bug时能“治本”，识别背后更大的问题一并处理。 Gemini要发的是Argon升级款Carbon，员工内测反馈“能打Opus 5.5”. ChatGPT要发的是中杯6.1 Terra……  什么嘛，还以为现在的6.1 Sol就是Terra改个名呢。  Claude新模型能跳出思维定势 来自Information的消息。 如果你觉得过去一个月AI圈发新模型的速度很快，那就别指望下一个月会放慢。 根据内侧用户的说法，新版Claude在推理和直觉方面更好，特别擅长判断一个人的潜在意图和目标。 例如，一个人可能会要求模型修复一个单一的bug，而模型可能会去识别导致该bug的根本类问题，并询问是否应该修复整个类问题，这位使用过该模型的人表示。  新版Claude在跳出思维定式方面也表现得更好，而不是重复常见的常识性建议或解决方案。 如果用户询问关于如何投资股票的建议，它不会建议老套的查看",
+          "summary_zh": "OpenAI只掏出一个6.1 Terra…  梦晨 发自 凹非寺 量子位 | 公众号QbitAI 最近听到AI圈最好笑的笑话： 接下来的一个月御三家都要出新模型。 Claude新款被评价为“重大飞跃”，修复一个bug时能“治本”，识别背后更大的问题一并处理。 Gemini要发的是Argon升级款Carbon，员工内测反馈“能打Opus 5.5”. ChatGPT要发的是中杯6.1 Terra……  什么嘛，还以为现在的6.1 Sol就是Terra改个名呢。  Claude新模型能跳出思维定势 来自Information的消息。 如果你觉得过去一个月AI圈发新模型的速度很快，那就别指望下一个月会放慢。 根据内侧用户的说法，新版Claude在推理和直觉方面更好，特别擅长判断一个人的潜在意图和目标。 例如，一个人可能会要求模型修复一个单一的bug，而模型可能会去识别导致该bug的根本类问题，并询问是否应该修复整个类问题，这位使用过该模型的人表示。  新版Claude在跳出思维定式方面也表现得更好，而不是重复常见的常识性建议或解决方案。 如果用户询问关于如何投资股票的建议，它不会建议老套的查看",
+          "publishedAt": "2026-10-20T01:09:43Z",
+          "published_at": "2026-10-20T01:09:43Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "b5265b43",
+          "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/504372.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/504372.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办  2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办，本届展会特别设立「AI 硬件专区」，聚集机器人、智能穿戴、AI 终端、具身智能等方向的展商与从业者。目前，专区席位正在招募中，同时大会普通门票限时免费领取，欢迎所有对 AI 硬件出海感兴趣的朋友报名参会。 一、AI硬件专区：把同路人聚在一起 「AI 硬件专区」是 GTC2026 Shanghai 为 AI 硬件赛道专门开辟的垂直展区。它不是一个简单的展位集合，而是一个有明确主题、有精准观众、有配套活动的专属场域。 专区覆盖的方向包括：机器人、智能穿戴设备、AI 手机及终端、智能家居硬件、具身智能解决方案等。从整机品牌到技术方案，从产品公司到出海服务商，专区将把 AI 硬件出海的完整链条集中呈现。 在这里，你的隔壁展位可能就是某家做陪伴机器人的团队，对面可能是做智能戒指或 AI 眼镜的品牌。观众来到这个区域，目标非常明确：看产品、找合作、聊渠道走进来的人，本来就冲着",
+          "summary_zh": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办  2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办，本届展会特别设立「AI 硬件专区」，聚集机器人、智能穿戴、AI 终端、具身智能等方向的展商与从业者。目前，专区席位正在招募中，同时大会普通门票限时免费领取，欢迎所有对 AI 硬件出海感兴趣的朋友报名参会。 一、AI硬件专区：把同路人聚在一起 「AI 硬件专区」是 GTC2026 Shanghai 为 AI 硬件赛道专门开辟的垂直展区。它不是一个简单的展位集合，而是一个有明确主题、有精准观众、有配套活动的专属场域。 专区覆盖的方向包括：机器人、智能穿戴设备、AI 手机及终端、智能家居硬件、具身智能解决方案等。从整机品牌到技术方案，从产品公司到出海服务商，专区将把 AI 硬件出海的完整链条集中呈现。 在这里，你的隔壁展位可能就是某家做陪伴机器人的团队，对面可能是做智能戒指或 AI 眼镜的品牌。观众来到这个区域，目标非常明确：看产品、找合作、聊渠道走进来的人，本来就冲着",
+          "publishedAt": "2026-10-20T04:08:15Z",
+          "published_at": "2026-10-20T04:08:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "ef24f0c6",
+          "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/504415.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/504415.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样  AI 3D 多模态模型公司 Meshy 今日正式发布局部编辑功能 Meshy Edit。该功能基于 Meshy 全新自研的 AI 模型，用户只需在 3D 模型上圈出想修改的区域，再用一句话描述改动，约一分钟即可生成新模型，未选中的区域保持原样。目前，Meshy Edit 已向全部注册用户开放。 模型生成后，创作者往往还需要调整局部，例如移除一件配饰、补充一处细节，或尝试新的造型。过去，这类修改通常只能通过两种方式完成：一是重新生成整个模型，但原本想保留的部分也会一并改变；二是借助 Blender 等专业软件手动编辑，而这需要长期积累的建模技能。 Meshy Edit 将修改流程简化为两步：先选区，再描述。选区时，用户可以用套索工具圈出整块部件，选区会同时覆盖模型的正面、侧面和背面；也可以用画笔涂抹可见表面，对选区边缘进行微调。完成选区后，用户用一句话描述改动，比如“去掉帽子”，还可以附上最多 5 张参考图，辅助说明修改意图。 每次修改都会生成一个新模型，原模型完整保留。新模型可以继续编辑、下载，也可以直接发送到切片",
+          "summary_zh": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样  AI 3D 多模态模型公司 Meshy 今日正式发布局部编辑功能 Meshy Edit。该功能基于 Meshy 全新自研的 AI 模型，用户只需在 3D 模型上圈出想修改的区域，再用一句话描述改动，约一分钟即可生成新模型，未选中的区域保持原样。目前，Meshy Edit 已向全部注册用户开放。 模型生成后，创作者往往还需要调整局部，例如移除一件配饰、补充一处细节，或尝试新的造型。过去，这类修改通常只能通过两种方式完成：一是重新生成整个模型，但原本想保留的部分也会一并改变；二是借助 Blender 等专业软件手动编辑，而这需要长期积累的建模技能。 Meshy Edit 将修改流程简化为两步：先选区，再描述。选区时，用户可以用套索工具圈出整块部件，选区会同时覆盖模型的正面、侧面和背面；也可以用画笔涂抹可见表面，对选区边缘进行微调。完成选区后，用户用一句话描述改动，比如“去掉帽子”，还可以附上最多 5 张参考图，辅助说明修改意图。 每次修改都会生成一个新模型，原模型完整保留。新模型可以继续编辑、下载，也可以直接发送到切片",
+          "publishedAt": "2026-10-20T04:59:04Z",
+          "published_at": "2026-10-20T04:59:04Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "1d6c58c4",
+          "title": "MemT 1.0发布：迈向递归自我改",
+          "title_en": "MemT 1.0发布：迈向递归自我改进，让记忆成为模型内生能力",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "MemT 1.0发布：迈向递归自我改进，让记忆成为模型内生能力",
+          "summary_zh": "MemT 1.0发布：迈向递归自我改进，让记忆成为模型内生能力",
+          "publishedAt": "2026-10-20T23:14:30Z",
+          "published_at": "2026-10-20T23:14:30Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "6070b2a5",
+      "title": "产品更新：/dev/null",
+      "title_en": "/dev/null",
+      "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "a social network for devs /dev/null started as",
+      "summary_zh": "a social network for devs /dev/null started as",
+      "publishedAt": "2026-10-20T07:01:00Z",
+      "published_at": "2026-10-20T07:01:00Z",
+      "votes_count": 393,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "102",
+          "name": "Social Network",
+          "slug": "social-network"
+        },
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5ce7bc8f",
+      "title": "产品更新：Composio Instan",
+      "title_en": "Composio Instant",
+      "url": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The easiest way for AI agents to pay for their",
+      "summary_zh": "The easiest way for AI agents to pay for their",
+      "publishedAt": "2026-10-20T07:01:00Z",
+      "published_at": "2026-10-20T07:01:00Z",
+      "votes_count": 251,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "778",
+          "name": "SDK",
+          "slug": "sdk"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "87d631dc",
+      "title": "AI资讯更新：Harness²",
+      "title_en": "Harness²",
+      "url": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Harness the agent. Then harness its self-impro",
+      "summary_zh": "Harness the agent. Then harness its self-impro",
+      "publishedAt": "2026-10-20T07:01:00Z",
+      "published_at": "2026-10-20T07:01:00Z",
+      "votes_count": 164,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "36cf4ecb",
+      "title": "产品更新：Hoistbay",
+      "title_en": "Hoistbay",
+      "url": "https://www.producthunt.com/products/hoistbay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/hoistbay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Open-source desktop app for Amazon S3 and Clou",
+      "summary_zh": "Open-source desktop app for Amazon S3 and Clou",
+      "publishedAt": "2026-10-20T07:01:00Z",
+      "published_at": "2026-10-20T07:01:00Z",
+      "votes_count": 152,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3ba16f7a",
+      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/504314.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504314.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "OpenAI只掏出一个6.1 Terra…  梦晨 发自 凹非寺 量子位 | 公众号QbitAI 最近听到AI圈最好笑的笑话： 接下来的一个月御三家都要出新模型。 Claude新款被评价为“重大飞跃”，修复一个bug时能“治本”，识别背后更大的问题一并处理。 Gemini要发的是Argon升级款Carbon，员工内测反馈“能打Opus 5.5”. ChatGPT要发的是中杯6.1 Terra……  什么嘛，还以为现在的6.1 Sol就是Terra改个名呢。  Claude新模型能跳出思维定势 来自Information的消息。 如果你觉得过去一个月AI圈发新模型的速度很快，那就别指望下一个月会放慢。 根据内侧用户的说法，新版Claude在推理和直觉方面更好，特别擅长判断一个人的潜在意图和目标。 例如，一个人可能会要求模型修复一个单一的bug，而模型可能会去识别导致该bug的根本类问题，并询问是否应该修复整个类问题，这位使用过该模型的人表示。  新版Claude在跳出思维定式方面也表现得更好，而不是重复常见的常识性建议或解决方案。 如果用户询问关于如何投资股票的建议，它不会建议老套的查看",
+      "summary_zh": "OpenAI只掏出一个6.1 Terra…  梦晨 发自 凹非寺 量子位 | 公众号QbitAI 最近听到AI圈最好笑的笑话： 接下来的一个月御三家都要出新模型。 Claude新款被评价为“重大飞跃”，修复一个bug时能“治本”，识别背后更大的问题一并处理。 Gemini要发的是Argon升级款Carbon，员工内测反馈“能打Opus 5.5”. ChatGPT要发的是中杯6.1 Terra……  什么嘛，还以为现在的6.1 Sol就是Terra改个名呢。  Claude新模型能跳出思维定势 来自Information的消息。 如果你觉得过去一个月AI圈发新模型的速度很快，那就别指望下一个月会放慢。 根据内侧用户的说法，新版Claude在推理和直觉方面更好，特别擅长判断一个人的潜在意图和目标。 例如，一个人可能会要求模型修复一个单一的bug，而模型可能会去识别导致该bug的根本类问题，并询问是否应该修复整个类问题，这位使用过该模型的人表示。  新版Claude在跳出思维定式方面也表现得更好，而不是重复常见的常识性建议或解决方案。 如果用户询问关于如何投资股票的建议，它不会建议老套的查看",
+      "publishedAt": "2026-10-20T01:09:43Z",
+      "published_at": "2026-10-20T01:09:43Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "b5265b43",
+      "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/504372.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504372.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办  2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办，本届展会特别设立「AI 硬件专区」，聚集机器人、智能穿戴、AI 终端、具身智能等方向的展商与从业者。目前，专区席位正在招募中，同时大会普通门票限时免费领取，欢迎所有对 AI 硬件出海感兴趣的朋友报名参会。 一、AI硬件专区：把同路人聚在一起 「AI 硬件专区」是 GTC2026 Shanghai 为 AI 硬件赛道专门开辟的垂直展区。它不是一个简单的展位集合，而是一个有明确主题、有精准观众、有配套活动的专属场域。 专区覆盖的方向包括：机器人、智能穿戴设备、AI 手机及终端、智能家居硬件、具身智能解决方案等。从整机品牌到技术方案，从产品公司到出海服务商，专区将把 AI 硬件出海的完整链条集中呈现。 在这里，你的隔壁展位可能就是某家做陪伴机器人的团队，对面可能是做智能戒指或 AI 眼镜的品牌。观众来到这个区域，目标非常明确：看产品、找合作、聊渠道走进来的人，本来就冲着",
+      "summary_zh": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办  2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办，本届展会特别设立「AI 硬件专区」，聚集机器人、智能穿戴、AI 终端、具身智能等方向的展商与从业者。目前，专区席位正在招募中，同时大会普通门票限时免费领取，欢迎所有对 AI 硬件出海感兴趣的朋友报名参会。 一、AI硬件专区：把同路人聚在一起 「AI 硬件专区」是 GTC2026 Shanghai 为 AI 硬件赛道专门开辟的垂直展区。它不是一个简单的展位集合，而是一个有明确主题、有精准观众、有配套活动的专属场域。 专区覆盖的方向包括：机器人、智能穿戴设备、AI 手机及终端、智能家居硬件、具身智能解决方案等。从整机品牌到技术方案，从产品公司到出海服务商，专区将把 AI 硬件出海的完整链条集中呈现。 在这里，你的隔壁展位可能就是某家做陪伴机器人的团队，对面可能是做智能戒指或 AI 眼镜的品牌。观众来到这个区域，目标非常明确：看产品、找合作、聊渠道走进来的人，本来就冲着",
+      "publishedAt": "2026-10-20T04:08:15Z",
+      "published_at": "2026-10-20T04:08:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ef24f0c6",
+      "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/504415.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504415.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样  AI 3D 多模态模型公司 Meshy 今日正式发布局部编辑功能 Meshy Edit。该功能基于 Meshy 全新自研的 AI 模型，用户只需在 3D 模型上圈出想修改的区域，再用一句话描述改动，约一分钟即可生成新模型，未选中的区域保持原样。目前，Meshy Edit 已向全部注册用户开放。 模型生成后，创作者往往还需要调整局部，例如移除一件配饰、补充一处细节，或尝试新的造型。过去，这类修改通常只能通过两种方式完成：一是重新生成整个模型，但原本想保留的部分也会一并改变；二是借助 Blender 等专业软件手动编辑，而这需要长期积累的建模技能。 Meshy Edit 将修改流程简化为两步：先选区，再描述。选区时，用户可以用套索工具圈出整块部件，选区会同时覆盖模型的正面、侧面和背面；也可以用画笔涂抹可见表面，对选区边缘进行微调。完成选区后，用户用一句话描述改动，比如“去掉帽子”，还可以附上最多 5 张参考图，辅助说明修改意图。 每次修改都会生成一个新模型，原模型完整保留。新模型可以继续编辑、下载，也可以直接发送到切片",
+      "summary_zh": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样  AI 3D 多模态模型公司 Meshy 今日正式发布局部编辑功能 Meshy Edit。该功能基于 Meshy 全新自研的 AI 模型，用户只需在 3D 模型上圈出想修改的区域，再用一句话描述改动，约一分钟即可生成新模型，未选中的区域保持原样。目前，Meshy Edit 已向全部注册用户开放。 模型生成后，创作者往往还需要调整局部，例如移除一件配饰、补充一处细节，或尝试新的造型。过去，这类修改通常只能通过两种方式完成：一是重新生成整个模型，但原本想保留的部分也会一并改变；二是借助 Blender 等专业软件手动编辑，而这需要长期积累的建模技能。 Meshy Edit 将修改流程简化为两步：先选区，再描述。选区时，用户可以用套索工具圈出整块部件，选区会同时覆盖模型的正面、侧面和背面；也可以用画笔涂抹可见表面，对选区边缘进行微调。完成选区后，用户用一句话描述改动，比如“去掉帽子”，还可以附上最多 5 张参考图，辅助说明修改意图。 每次修改都会生成一个新模型，原模型完整保留。新模型可以继续编辑、下载，也可以直接发送到切片",
+      "publishedAt": "2026-10-20T04:59:04Z",
+      "published_at": "2026-10-20T04:59:04Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "1d6c58c4",
+      "title": "MemT 1.0发布：迈向递归自我改",
+      "title_en": "MemT 1.0发布：迈向递归自我改进，让记忆成为模型内生能力",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "MemT 1.0发布：迈向递归自我改进，让记忆成为模型内生能力",
+      "summary_zh": "MemT 1.0发布：迈向递归自我改进，让记忆成为模型内生能力",
+      "publishedAt": "2026-10-20T23:14:30Z",
+      "published_at": "2026-10-20T23:14:30Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

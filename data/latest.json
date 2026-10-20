@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-20T13:45:03Z",
-  "generatedAt": "2026-10-20T13:45:03Z",
+  "generated_at": "2026-10-20T23:15:03Z",
+  "generatedAt": "2026-10-20T23:15:03Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "6070b2a5",
@@ -22,7 +22,7 @@
       "summary_zh": "a social network for devs /dev/null started as",
       "publishedAt": "2026-10-20T07:01:00Z",
       "published_at": "2026-10-20T07:01:00Z",
-      "votes_count": 254,
+      "votes_count": 393,
       "featured": true,
       "topics": [
         {
@@ -65,7 +65,7 @@
       "summary_zh": "The easiest way for AI agents to pay for their",
       "publishedAt": "2026-10-20T07:01:00Z",
       "published_at": "2026-10-20T07:01:00Z",
-      "votes_count": 156,
+      "votes_count": 251,
       "featured": true,
       "topics": [
         {
@@ -87,6 +87,49 @@
       "score_details": null
     },
     {
+      "id": "87d631dc",
+      "title": "AI资讯更新：Harness²",
+      "title_en": "Harness²",
+      "url": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Harness the agent. Then harness its self-impro",
+      "summary_zh": "Harness the agent. Then harness its self-impro",
+      "publishedAt": "2026-10-20T07:01:00Z",
+      "published_at": "2026-10-20T07:01:00Z",
+      "votes_count": 164,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
       "id": "36cf4ecb",
       "title": "产品更新：Hoistbay",
       "title_en": "Hoistbay",
@@ -103,7 +146,7 @@
       "summary_zh": "Open-source desktop app for Amazon S3 and Clou",
       "publishedAt": "2026-10-20T07:01:00Z",
       "published_at": "2026-10-20T07:01:00Z",
-      "votes_count": 120,
+      "votes_count": 152,
       "featured": true,
       "topics": [
         {
@@ -122,50 +165,6 @@
           "slug": "github"
         }
       ],
-      "score_details": null
-    },
-    {
-      "id": "0917a45d",
-      "title": "通研院孵化的团队，也盯上了RSI",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/504294.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/504294.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "当AI越来越懂你，如何让智能真正属于你？  从通用模型到个性化智能，人工智能的竞争正在向长期学习与专属能力沉淀延伸。 通衍灵智探索以参数化学习和持续进化为核心的Personal AI，让个人与组织在使用AI的过程中，逐步积累属于自己的智能资产。 过去几年，大模型不断突破能力边界，越来越多企业开始通过API、知识库和Agent，将AI引入研发、投研、运营等核心业务。 但随着AI参与实际工作的时间越来越长，一个新的问题开始浮现：企业每天产生的大量业务经验，究竟只是被模型临时调用，还是能够逐渐沉淀成自己的AI能力？  全球科技公司已经开始探索这一方向。 OpenAI通过Dreaming改进ChatGPT的长期记忆，使其能够综合历史交互，更好地理解用户偏好、项目背景和长期需求；Meta推出的Muse则进一步结合个性化理解与自主执行，推动Personal Agent从回答问题走向完成实际任务。 无论是长期记忆还是主动执行，都反映出一个日益清晰的趋势：AI正在从面向所有人的通用工具，发展为面向具体用户的长期智能服务。 北京通用人工智能研究院产业平台CEO李未认为：“基础模型越强，个性化智能能够发挥",
-      "summary_zh": "当AI越来越懂你，如何让智能真正属于你？  从通用模型到个性化智能，人工智能的竞争正在向长期学习与专属能力沉淀延伸。 通衍灵智探索以参数化学习和持续进化为核心的Personal AI，让个人与组织在使用AI的过程中，逐步积累属于自己的智能资产。 过去几年，大模型不断突破能力边界，越来越多企业开始通过API、知识库和Agent，将AI引入研发、投研、运营等核心业务。 但随着AI参与实际工作的时间越来越长，一个新的问题开始浮现：企业每天产生的大量业务经验，究竟只是被模型临时调用，还是能够逐渐沉淀成自己的AI能力？  全球科技公司已经开始探索这一方向。 OpenAI通过Dreaming改进ChatGPT的长期记忆，使其能够综合历史交互，更好地理解用户偏好、项目背景和长期需求；Meta推出的Muse则进一步结合个性化理解与自主执行，推动Personal Agent从回答问题走向完成实际任务。 无论是长期记忆还是主动执行，都反映出一个日益清晰的趋势：AI正在从面向所有人的通用工具，发展为面向具体用户的长期智能服务。 北京通用人工智能研究院产业平台CEO李未认为：“基础模型越强，个性化智能能够发挥",
-      "publishedAt": "2026-10-19T14:31:12Z",
-      "published_at": "2026-10-19T14:31:12Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": null
-    },
-    {
-      "id": "415d59bb",
-      "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/504277.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/504277.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "同步搭建千比特规模量子算力云平台  算力越来越难抢了。 一块英伟达Blackwell GPU的云端租金，短短两个月就涨了48%。 哪怕是OpenAI，也同样受到算力掣肘。 其CFO Sarah Friar公开表示，公司在「非常艰难地取舍项目」，想做的事太多，算力不够，只能砍掉一部分。 但算力焦虑，不只是关于供给和价格的问题。 分子结构模拟、大规模组合优化，这些任务的计算量随问题规模指数级增长，GPU堆得再多也不够用。 这个天花板，由GPU的计算范式决定。 对于这类缺乏有效数学化简手段的「NP」难题，经典计算很棘手。哪怕对一个每种变量只引入2种可能性的组合问题，100个变量就将导致2^100（约1.27×10^30，超过一百万亿亿亿）种可能的组合。经典计算只能逐个或成组地遍历所有可能性。 就算把全世界的GPU堆在一起，穷举一遍也要算上数万年。 要突破这道墙，需要一种从底层逻辑就不一样的算力，才能在指数级膨胀的计算空间里找到出路。 量子计算提供的，就是这样一种从底层逻辑就不同的算力。  量子比特可以同时处于0和1的叠加态，彼此之间还能纠缠关联。每多一个量子比特，计算空间的维度就翻一倍。 叠",
-      "summary_zh": "同步搭建千比特规模量子算力云平台  算力越来越难抢了。 一块英伟达Blackwell GPU的云端租金，短短两个月就涨了48%。 哪怕是OpenAI，也同样受到算力掣肘。 其CFO Sarah Friar公开表示，公司在「非常艰难地取舍项目」，想做的事太多，算力不够，只能砍掉一部分。 但算力焦虑，不只是关于供给和价格的问题。 分子结构模拟、大规模组合优化，这些任务的计算量随问题规模指数级增长，GPU堆得再多也不够用。 这个天花板，由GPU的计算范式决定。 对于这类缺乏有效数学化简手段的「NP」难题，经典计算很棘手。哪怕对一个每种变量只引入2种可能性的组合问题，100个变量就将导致2^100（约1.27×10^30，超过一百万亿亿亿）种可能的组合。经典计算只能逐个或成组地遍历所有可能性。 就算把全世界的GPU堆在一起，穷举一遍也要算上数万年。 要突破这道墙，需要一种从底层逻辑就不一样的算力，才能在指数级膨胀的计算空间里找到出路。 量子计算提供的，就是这样一种从底层逻辑就不同的算力。  量子比特可以同时处于0和1的叠加态，彼此之间还能纠缠关联。每多一个量子比特，计算空间的维度就翻一倍。 叠",
-      "publishedAt": "2026-10-19T14:33:26Z",
-      "published_at": "2026-10-19T14:33:26Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
       "score_details": null
     },
     {
@@ -191,6 +190,50 @@
       "score_details": null
     },
     {
+      "id": "b5265b43",
+      "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/504372.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504372.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办  2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办，本届展会特别设立「AI 硬件专区」，聚集机器人、智能穿戴、AI 终端、具身智能等方向的展商与从业者。目前，专区席位正在招募中，同时大会普通门票限时免费领取，欢迎所有对 AI 硬件出海感兴趣的朋友报名参会。 一、AI硬件专区：把同路人聚在一起 「AI 硬件专区」是 GTC2026 Shanghai 为 AI 硬件赛道专门开辟的垂直展区。它不是一个简单的展位集合，而是一个有明确主题、有精准观众、有配套活动的专属场域。 专区覆盖的方向包括：机器人、智能穿戴设备、AI 手机及终端、智能家居硬件、具身智能解决方案等。从整机品牌到技术方案，从产品公司到出海服务商，专区将把 AI 硬件出海的完整链条集中呈现。 在这里，你的隔壁展位可能就是某家做陪伴机器人的团队，对面可能是做智能戒指或 AI 眼镜的品牌。观众来到这个区域，目标非常明确：看产品、找合作、聊渠道走进来的人，本来就冲着",
+      "summary_zh": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办  2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办，本届展会特别设立「AI 硬件专区」，聚集机器人、智能穿戴、AI 终端、具身智能等方向的展商与从业者。目前，专区席位正在招募中，同时大会普通门票限时免费领取，欢迎所有对 AI 硬件出海感兴趣的朋友报名参会。 一、AI硬件专区：把同路人聚在一起 「AI 硬件专区」是 GTC2026 Shanghai 为 AI 硬件赛道专门开辟的垂直展区。它不是一个简单的展位集合，而是一个有明确主题、有精准观众、有配套活动的专属场域。 专区覆盖的方向包括：机器人、智能穿戴设备、AI 手机及终端、智能家居硬件、具身智能解决方案等。从整机品牌到技术方案，从产品公司到出海服务商，专区将把 AI 硬件出海的完整链条集中呈现。 在这里，你的隔壁展位可能就是某家做陪伴机器人的团队，对面可能是做智能戒指或 AI 眼镜的品牌。观众来到这个区域，目标非常明确：看产品、找合作、聊渠道走进来的人，本来就冲着",
+      "publishedAt": "2026-10-20T04:08:15Z",
+      "published_at": "2026-10-20T04:08:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ef24f0c6",
+      "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/504415.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504415.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样  AI 3D 多模态模型公司 Meshy 今日正式发布局部编辑功能 Meshy Edit。该功能基于 Meshy 全新自研的 AI 模型，用户只需在 3D 模型上圈出想修改的区域，再用一句话描述改动，约一分钟即可生成新模型，未选中的区域保持原样。目前，Meshy Edit 已向全部注册用户开放。 模型生成后，创作者往往还需要调整局部，例如移除一件配饰、补充一处细节，或尝试新的造型。过去，这类修改通常只能通过两种方式完成：一是重新生成整个模型，但原本想保留的部分也会一并改变；二是借助 Blender 等专业软件手动编辑，而这需要长期积累的建模技能。 Meshy Edit 将修改流程简化为两步：先选区，再描述。选区时，用户可以用套索工具圈出整块部件，选区会同时覆盖模型的正面、侧面和背面；也可以用画笔涂抹可见表面，对选区边缘进行微调。完成选区后，用户用一句话描述改动，比如“去掉帽子”，还可以附上最多 5 张参考图，辅助说明修改意图。 每次修改都会生成一个新模型，原模型完整保留。新模型可以继续编辑、下载，也可以直接发送到切片",
+      "summary_zh": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样  AI 3D 多模态模型公司 Meshy 今日正式发布局部编辑功能 Meshy Edit。该功能基于 Meshy 全新自研的 AI 模型，用户只需在 3D 模型上圈出想修改的区域，再用一句话描述改动，约一分钟即可生成新模型，未选中的区域保持原样。目前，Meshy Edit 已向全部注册用户开放。 模型生成后，创作者往往还需要调整局部，例如移除一件配饰、补充一处细节，或尝试新的造型。过去，这类修改通常只能通过两种方式完成：一是重新生成整个模型，但原本想保留的部分也会一并改变；二是借助 Blender 等专业软件手动编辑，而这需要长期积累的建模技能。 Meshy Edit 将修改流程简化为两步：先选区，再描述。选区时，用户可以用套索工具圈出整块部件，选区会同时覆盖模型的正面、侧面和背面；也可以用画笔涂抹可见表面，对选区边缘进行微调。完成选区后，用户用一句话描述改动，比如“去掉帽子”，还可以附上最多 5 张参考图，辅助说明修改意图。 每次修改都会生成一个新模型，原模型完整保留。新模型可以继续编辑、下载，也可以直接发送到切片",
+      "publishedAt": "2026-10-20T04:59:04Z",
+      "published_at": "2026-10-20T04:59:04Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
       "id": "1d6c58c4",
       "title": "MemT 1.0发布：迈向递归自我改",
       "title_en": "MemT 1.0发布：迈向递归自我改进，让记忆成为模型内生能力",
@@ -205,8 +248,8 @@
       "rankingScore": 5.0,
       "summary": "MemT 1.0发布：迈向递归自我改进，让记忆成为模型内生能力",
       "summary_zh": "MemT 1.0发布：迈向递归自我改进，让记忆成为模型内生能力",
-      "publishedAt": "2026-10-20T13:44:11Z",
-      "published_at": "2026-10-20T13:44:11Z",
+      "publishedAt": "2026-10-20T23:14:30Z",
+      "published_at": "2026-10-20T23:14:30Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

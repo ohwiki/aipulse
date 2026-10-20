@@ -1,9 +1,142 @@
 {
-  "generated_at": "2026-10-20T13:45:03Z",
-  "generatedAt": "2026-10-20T13:45:03Z",
-  "count": 161,
-  "total": 161,
+  "generated_at": "2026-10-20T23:15:03Z",
+  "generatedAt": "2026-10-20T23:15:03Z",
+  "count": 162,
+  "total": 162,
   "entries": [
+    {
+      "date": "2026-10-21",
+      "generated_at": "2026-10-20T23:15:03Z",
+      "generatedAt": "2026-10-20T23:15:03Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "6070b2a5",
+          "title": "产品更新：/dev/null",
+          "title_en": "/dev/null",
+          "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "a social network for devs /dev/null started as",
+          "summary_zh": "a social network for devs /dev/null started as",
+          "publishedAt": "2026-10-20T07:01:00Z",
+          "published_at": "2026-10-20T07:01:00Z",
+          "votes_count": 393,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "102",
+              "name": "Social Network",
+              "slug": "social-network"
+            },
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5ce7bc8f",
+          "title": "产品更新：Composio Instan",
+          "title_en": "Composio Instant",
+          "url": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The easiest way for AI agents to pay for their",
+          "summary_zh": "The easiest way for AI agents to pay for their",
+          "publishedAt": "2026-10-20T07:01:00Z",
+          "published_at": "2026-10-20T07:01:00Z",
+          "votes_count": 251,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "778",
+              "name": "SDK",
+              "slug": "sdk"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "87d631dc",
+          "title": "AI资讯更新：Harness²",
+          "title_en": "Harness²",
+          "url": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Harness the agent. Then harness its self-impro",
+          "summary_zh": "Harness the agent. Then harness its self-impro",
+          "publishedAt": "2026-10-20T07:01:00Z",
+          "published_at": "2026-10-20T07:01:00Z",
+          "votes_count": 164,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "generated_at": "2026-10-20T13:45:03Z",
