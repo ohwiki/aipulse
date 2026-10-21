@@ -1,80 +1,118 @@
 {
-  "generated_at": "2026-10-20T23:15:03Z",
-  "generatedAt": "2026-10-20T23:15:03Z",
+  "generated_at": "2026-10-21T14:01:04Z",
+  "generatedAt": "2026-10-21T14:01:04Z",
   "count": 162,
   "total": 162,
   "entries": [
     {
       "date": "2026-10-21",
-      "generated_at": "2026-10-20T23:15:03Z",
-      "generatedAt": "2026-10-20T23:15:03Z",
-      "total": 8,
+      "generated_at": "2026-10-21T14:01:04Z",
+      "generatedAt": "2026-10-21T14:01:04Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "6070b2a5",
-          "title": "产品更新：/dev/null",
-          "title_en": "/dev/null",
-          "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "b80b82d5",
+          "title": "产品更新：UseIt Studio",
+          "title_en": "UseIt Studio",
+          "url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "a social network for devs /dev/null started as",
-          "summary_zh": "a social network for devs /dev/null started as",
-          "publishedAt": "2026-10-20T07:01:00Z",
-          "published_at": "2026-10-20T07:01:00Z",
-          "votes_count": 393,
+          "summary": "Your AI design agent for real, editable projec",
+          "summary_zh": "Your AI design agent for real, editable projec",
+          "publishedAt": "2026-10-21T07:01:00Z",
+          "published_at": "2026-10-21T07:01:00Z",
+          "votes_count": 189,
           "featured": true,
           "topics": [
             {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
             },
             {
-              "id": "102",
-              "name": "Social Network",
-              "slug": "social-network"
+              "id": "76",
+              "name": "Art",
+              "slug": "art"
             },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "85e3509a",
+          "title": "AI资讯更新：Needle",
+          "title_en": "Needle",
+          "url": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The agent-native outbound engine Find your per",
+          "summary_zh": "The agent-native outbound engine Find your per",
+          "publishedAt": "2026-10-21T07:01:00Z",
+          "published_at": "2026-10-21T07:01:00Z",
+          "votes_count": 168,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "343",
+              "name": "LinkedIn",
+              "slug": "linkedin"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "0d4d8e57",
+          "title": "产品更新：BAND for Develo",
+          "title_en": "BAND for Developers",
+          "url": "https://www.producthunt.com/products/band?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/band?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Coding agents, meet teamwork Running multiple",
+          "summary_zh": "Coding agents, meet teamwork Running multiple",
+          "publishedAt": "2026-10-21T07:01:00Z",
+          "published_at": "2026-10-21T07:01:00Z",
+          "votes_count": 151,
+          "featured": true,
+          "topics": [
             {
               "id": "247",
               "name": "Software Engineering",
               "slug": "software-engineering"
             },
             {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "5ce7bc8f",
-          "title": "产品更新：Composio Instan",
-          "title_en": "Composio Instant",
-          "url": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "The easiest way for AI agents to pay for their",
-          "summary_zh": "The easiest way for AI agents to pay for their",
-          "publishedAt": "2026-10-20T07:01:00Z",
-          "published_at": "2026-10-20T07:01:00Z",
-          "votes_count": 251,
-          "featured": true,
-          "topics": [
-            {
               "id": "267",
               "name": "Developer Tools",
               "slug": "developer-tools"
@@ -83,54 +121,6 @@
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "778",
-              "name": "SDK",
-              "slug": "sdk"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "87d631dc",
-          "title": "AI资讯更新：Harness²",
-          "title_en": "Harness²",
-          "url": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Harness the agent. Then harness its self-impro",
-          "summary_zh": "Harness the agent. Then harness its self-impro",
-          "publishedAt": "2026-10-20T07:01:00Z",
-          "published_at": "2026-10-20T07:01:00Z",
-          "votes_count": 164,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
             }
           ],
           "score_details": null
