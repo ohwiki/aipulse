@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-22T13:59:56Z",
-  "generatedAt": "2026-10-22T13:59:56Z",
+  "generated_at": "2026-10-22T23:28:23Z",
+  "generatedAt": "2026-10-22T23:28:23Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "63a46c75",
@@ -22,7 +22,7 @@
       "summary_zh": "Your deadline survival kit for office work Dee",
       "publishedAt": "2026-10-22T07:01:00Z",
       "published_at": "2026-10-22T07:01:00Z",
-      "votes_count": 207,
+      "votes_count": 265,
       "featured": true,
       "topics": [
         {
@@ -44,67 +44,6 @@
       "score_details": null
     },
     {
-      "id": "ca809165",
-      "title": "产品更新：Doneas",
-      "title_en": "Doneas",
-      "url": "https://www.producthunt.com/products/doneas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/doneas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "A daily accountability call with other entrepr",
-      "summary_zh": "A daily accountability call with other entrepr",
-      "publishedAt": "2026-10-22T07:01:00Z",
-      "published_at": "2026-10-22T07:01:00Z",
-      "votes_count": 180,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "4e450eff",
-      "title": "产品更新：Mistral Voxtral",
-      "title_en": "Mistral Voxtral 3",
-      "url": "https://www.producthunt.com/products/mistral-7b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/mistral-7b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Mistral’s speech models for transcription, TTS",
-      "summary_zh": "Mistral’s speech models for transcription, TTS",
-      "publishedAt": "2026-10-22T07:01:00Z",
-      "published_at": "2026-10-22T07:01:00Z",
-      "votes_count": 151,
-      "featured": true,
-      "topics": [
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "dd71eb86",
       "title": "产品更新：Claude Duet",
       "title_en": "Claude Duet",
@@ -121,7 +60,7 @@
       "summary_zh": "Proactive agent that understands what needs yo",
       "publishedAt": "2026-10-22T07:01:00Z",
       "published_at": "2026-10-22T07:01:00Z",
-      "votes_count": 144,
+      "votes_count": 245,
       "featured": true,
       "topics": [
         {
@@ -143,6 +82,143 @@
       "score_details": null
     },
     {
+      "id": "ca809165",
+      "title": "产品更新：Doneas",
+      "title_en": "Doneas",
+      "url": "https://www.producthunt.com/products/doneas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/doneas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A daily accountability call with other entrepr",
+      "summary_zh": "A daily accountability call with other entrepr",
+      "publishedAt": "2026-10-22T07:01:00Z",
+      "published_at": "2026-10-22T07:01:00Z",
+      "votes_count": 227,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "4c0d34be",
+      "title": "产品更新：heal.dev",
+      "title_en": "heal.dev",
+      "url": "https://www.producthunt.com/products/heal-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/heal-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Find bugs and vulnerabilities code review miss",
+      "summary_zh": "Find bugs and vulnerabilities code review miss",
+      "publishedAt": "2026-10-22T07:01:00Z",
+      "published_at": "2026-10-22T07:01:00Z",
+      "votes_count": 194,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "1194",
+          "name": "Vibe coding",
+          "slug": "vibe-coding"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "40eaab26",
+      "title": "谁在给OpenAI供应具身数据？",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/504800.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504800.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "挤进全球Physical AI核心供应链  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 这RSI，那AGI，别看今天山姆·奥特曼已经把自家模型卷得没边儿了，我还是要说一句—— 在Physical AI这事儿上，OpenAI吃过的苦头，真不比头部具身厂商少！！！（doge） 还记得在2020-2021年，壮志未酬的OpenAI机器人团队经历了一轮解散风波，其中反复被提到的现实难题之一，就是训练数据不够。 可是没隔几年，GPT-6就这样横空出世，强大的程度让全网震惊瘫坐！但另一个更让人觉得魔幻的事情是： 你一个通用大语言模型，咋就这么水灵灵地能控制机械臂，完成抓取、放置等一系列具身任务了啊！？     △图源:美国独立评测机构RoboCurve 那么问题来了，当年一度被数据卡住的OpenAI，到底是咋把这件事重新做起来的？ 出于对技术发展强烈的好奇心，我还真沿着公开报道和业内线索往下扒拉了一圈，然后一个亏贼、魔幻、离谱的事情来了—— 当前在Physical AI圈子里火得发烫的Egocentric（第一人称视角）数据集，OpenAI其实早就大买特买了一波！ 虽然OpenAI并没公",
+      "summary_zh": "挤进全球Physical AI核心供应链  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 这RSI，那AGI，别看今天山姆·奥特曼已经把自家模型卷得没边儿了，我还是要说一句—— 在Physical AI这事儿上，OpenAI吃过的苦头，真不比头部具身厂商少！！！（doge） 还记得在2020-2021年，壮志未酬的OpenAI机器人团队经历了一轮解散风波，其中反复被提到的现实难题之一，就是训练数据不够。 可是没隔几年，GPT-6就这样横空出世，强大的程度让全网震惊瘫坐！但另一个更让人觉得魔幻的事情是： 你一个通用大语言模型，咋就这么水灵灵地能控制机械臂，完成抓取、放置等一系列具身任务了啊！？     △图源:美国独立评测机构RoboCurve 那么问题来了，当年一度被数据卡住的OpenAI，到底是咋把这件事重新做起来的？ 出于对技术发展强烈的好奇心，我还真沿着公开报道和业内线索往下扒拉了一圈，然后一个亏贼、魔幻、离谱的事情来了—— 当前在Physical AI圈子里火得发烫的Egocentric（第一人称视角）数据集，OpenAI其实早就大买特买了一波！ 虽然OpenAI并没公",
+      "publishedAt": "2026-10-22T07:05:59Z",
+      "published_at": "2026-10-22T07:05:59Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "de46add1",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/504832.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504832.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent   中国电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent，同步开放275万条训练语料、模型权重与推理镜像。模型将意图识别与参数抽取结合起来，把用户的一句话转换为业务系统可以继续处理的结构化信息。 目前，Xing4.0-29B-Intent模型能力已在电信万号客服、智能家居音箱等终端产品中开始应用，服务于对话意图识别、工单智能路由和口语指令解析。此次开源将为更多开发者提供模型及配套资源，支持接入各自的业务场景。 01判断题还是填空题 “帮我把卧室的灯调成暖黄。”一句日常的设备操作指令，既包含用户想做的事，也包含完成操作所需的具体信息。系统需要从自然表达中提取这些信息，才能交给后续应用处理。 面对这句话，仅判断出“控制灯光”还不够。系统还需要知道：哪个房间？卧室；什么设备？灯；调成什么状态？暖黄。 Jev类决策模型主要“做选择题”，返回类型化决策，从给定的候选中挑选答案；参数抽取相当于“做填空题”，提取完成任",
+      "summary_zh": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent   中国电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent，同步开放275万条训练语料、模型权重与推理镜像。模型将意图识别与参数抽取结合起来，把用户的一句话转换为业务系统可以继续处理的结构化信息。 目前，Xing4.0-29B-Intent模型能力已在电信万号客服、智能家居音箱等终端产品中开始应用，服务于对话意图识别、工单智能路由和口语指令解析。此次开源将为更多开发者提供模型及配套资源，支持接入各自的业务场景。 01判断题还是填空题 “帮我把卧室的灯调成暖黄。”一句日常的设备操作指令，既包含用户想做的事，也包含完成操作所需的具体信息。系统需要从自然表达中提取这些信息，才能交给后续应用处理。 面对这句话，仅判断出“控制灯光”还不够。系统还需要知道：哪个房间？卧室；什么设备？灯；调成什么状态？暖黄。 Jev类决策模型主要“做选择题”，返回类型化决策，从给定的候选中挑选答案；参数抽取相当于“做填空题”，提取完成任",
+      "publishedAt": "2026-10-22T07:11:14Z",
+      "published_at": "2026-10-22T07:11:14Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "dfd02e8c",
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/504879.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504879.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。  10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。该模型专为快速决策打造，在处理结构化决策任务时，具备准确率更高、响应更快、Token成本更低等优势，尤其适合产业AI场景。LingDT-Decision-1.0提供4B和27B两个版本，目前，模型已经在蚂蚁数科 DTMaaS 平台上线，开发者可限时免费体验。  蚂蚁数科团队在客服、风控、金融等真实业务场景测试显示，在处理同样任务时，LingDT-Decision-1.0相比于大语言模型，可将Token消耗降低超90%，响应时效提升10倍，并且性能表现更优。 相比于其他决策模型，LingDT-Decision-1.0首创支持原生多选与按序决策能力，更适配企业真实应用场景。在23项开源评测基准中，LingDT-Decision-1.0的综合评分超过了Microsoft-Decision-1、Jev 1.13.等热门决策模型，LingDT-Decision-1.0的27B版本在同参数模型中取得最高准确率。  （图注：LingDT",
+      "summary_zh": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。  10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。该模型专为快速决策打造，在处理结构化决策任务时，具备准确率更高、响应更快、Token成本更低等优势，尤其适合产业AI场景。LingDT-Decision-1.0提供4B和27B两个版本，目前，模型已经在蚂蚁数科 DTMaaS 平台上线，开发者可限时免费体验。  蚂蚁数科团队在客服、风控、金融等真实业务场景测试显示，在处理同样任务时，LingDT-Decision-1.0相比于大语言模型，可将Token消耗降低超90%，响应时效提升10倍，并且性能表现更优。 相比于其他决策模型，LingDT-Decision-1.0首创支持原生多选与按序决策能力，更适配企业真实应用场景。在23项开源评测基准中，LingDT-Decision-1.0的综合评分超过了Microsoft-Decision-1、Jev 1.13.等热门决策模型，LingDT-Decision-1.0的27B版本在同参数模型中取得最高准确率。  （图注：LingDT",
+      "publishedAt": "2026-10-22T09:07:05Z",
+      "published_at": "2026-10-22T09:07:05Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
       "id": "a9919b61",
       "title": "首发实测！鹅厂刚开放的「元宝搜索」，",
       "title_en": "首发实测！鹅厂刚开放的「元宝搜索」，给开发者减负了！（附福利激活码）",
@@ -157,52 +233,8 @@
       "rankingScore": 5.0,
       "summary": "首发实测！鹅厂刚开放的「元宝搜索」，给开发者减负了！（附福利激活码）",
       "summary_zh": "首发实测！鹅厂刚开放的「元宝搜索」，给开发者减负了！（附福利激活码）",
-      "publishedAt": "2026-10-22T13:58:47Z",
-      "published_at": "2026-10-22T13:58:47Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": null
-    },
-    {
-      "id": "fc182b01",
-      "title": "田渊栋新公司首个模型亮相！AI全程参",
-      "title_en": "田渊栋新公司首个模型亮相！AI全程参与、不到4个月从零造",
-      "url": "https://www.jiqizhixin.com/articles",
-      "source": "机器之心",
-      "source_type": null,
-      "sourceName": "机器之心",
-      "sourceUrl": "https://www.jiqizhixin.com/articles",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "田渊栋新公司首个模型亮相！AI全程参与、不到4个月从零造",
-      "summary_zh": "田渊栋新公司首个模型亮相！AI全程参与、不到4个月从零造",
-      "publishedAt": "2026-10-22T13:58:47Z",
-      "published_at": "2026-10-22T13:58:47Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
-      "score_details": null
-    },
-    {
-      "id": "57df9447",
-      "title": "NeurIPS 2026 | 从To",
-      "title_en": "NeurIPS 2026 | 从Token到Span：重新思考大语言模型的不确定性估计",
-      "url": "https://www.jiqizhixin.com/articles",
-      "source": "机器之心",
-      "source_type": null,
-      "sourceName": "机器之心",
-      "sourceUrl": "https://www.jiqizhixin.com/articles",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "NeurIPS 2026 | 从Token到Span：重新思考大语言模型的不确定性估计",
-      "summary_zh": "NeurIPS 2026 | 从Token到Span：重新思考大语言模型的不确定性估计",
-      "publishedAt": "2026-10-22T13:58:47Z",
-      "published_at": "2026-10-22T13:58:47Z",
+      "publishedAt": "2026-10-22T23:27:47Z",
+      "published_at": "2026-10-22T23:27:47Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
