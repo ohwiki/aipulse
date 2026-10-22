@@ -1,126 +1,111 @@
 {
-  "generated_at": "2026-10-21T23:28:48Z",
-  "generatedAt": "2026-10-21T23:28:48Z",
+  "generated_at": "2026-10-22T13:59:56Z",
+  "generatedAt": "2026-10-22T13:59:56Z",
   "count": 163,
   "total": 163,
   "entries": [
     {
       "date": "2026-10-22",
-      "generated_at": "2026-10-21T23:28:48Z",
-      "generatedAt": "2026-10-21T23:28:48Z",
-      "total": 8,
+      "generated_at": "2026-10-22T13:59:56Z",
+      "generatedAt": "2026-10-22T13:59:56Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "b80b82d5",
-          "title": "产品更新：UseIt Studio",
-          "title_en": "UseIt Studio",
-          "url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "63a46c75",
+          "title": "AI资讯更新：DeepCell",
+          "title_en": "DeepCell",
+          "url": "https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Your AI design agent for real, editable projec",
-          "summary_zh": "Your AI design agent for real, editable projec",
-          "publishedAt": "2026-10-21T07:01:00Z",
-          "published_at": "2026-10-21T07:01:00Z",
-          "votes_count": 264,
+          "summary": "Your deadline survival kit for office work Dee",
+          "summary_zh": "Your deadline survival kit for office work Dee",
+          "publishedAt": "2026-10-22T07:01:00Z",
+          "published_at": "2026-10-22T07:01:00Z",
+          "votes_count": 207,
           "featured": true,
           "topics": [
             {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
-            },
-            {
-              "id": "76",
-              "name": "Art",
-              "slug": "art"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "570",
+              "name": "Business",
+              "slug": "business"
             }
           ],
           "score_details": null
         },
         {
-          "id": "0d4d8e57",
-          "title": "产品更新：BAND for Develo",
-          "title_en": "BAND for Developers",
-          "url": "https://www.producthunt.com/products/band?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "ca809165",
+          "title": "产品更新：Doneas",
+          "title_en": "Doneas",
+          "url": "https://www.producthunt.com/products/doneas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/band?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/doneas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Coding agents, meet teamwork Running multiple",
-          "summary_zh": "Coding agents, meet teamwork Running multiple",
-          "publishedAt": "2026-10-21T07:01:00Z",
-          "published_at": "2026-10-21T07:01:00Z",
-          "votes_count": 229,
+          "summary": "A daily accountability call with other entrepr",
+          "summary_zh": "A daily accountability call with other entrepr",
+          "publishedAt": "2026-10-22T07:01:00Z",
+          "published_at": "2026-10-22T07:01:00Z",
+          "votes_count": 180,
           "featured": true,
           "topics": [
             {
-              "id": "247",
-              "name": "Software Engineering",
-              "slug": "software-engineering"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
               "id": "267",
               "name": "Developer Tools",
               "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
         },
         {
-          "id": "85e3509a",
-          "title": "AI资讯更新：Needle",
-          "title_en": "Needle",
-          "url": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "4e450eff",
+          "title": "产品更新：Mistral Voxtral",
+          "title_en": "Mistral Voxtral 3",
+          "url": "https://www.producthunt.com/products/mistral-7b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/mistral-7b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "The agent-native outbound engine Find your per",
-          "summary_zh": "The agent-native outbound engine Find your per",
-          "publishedAt": "2026-10-21T07:01:00Z",
-          "published_at": "2026-10-21T07:01:00Z",
-          "votes_count": 224,
+          "summary": "Mistral’s speech models for transcription, TTS",
+          "summary_zh": "Mistral’s speech models for transcription, TTS",
+          "publishedAt": "2026-10-22T07:01:00Z",
+          "published_at": "2026-10-22T07:01:00Z",
+          "votes_count": 151,
           "featured": true,
           "topics": [
-            {
-              "id": "71",
-              "name": "Sales",
-              "slug": "sales"
-            },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            },
-            {
-              "id": "343",
-              "name": "LinkedIn",
-              "slug": "linkedin"
             }
           ],
           "score_details": null
