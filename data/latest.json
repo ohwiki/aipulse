@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T13:41:28Z",
-  "generatedAt": "2026-10-23T13:41:28Z",
+  "generated_at": "2026-10-23T23:15:17Z",
+  "generatedAt": "2026-10-23T23:15:17Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "See your launch as you build it See your Produ",
       "publishedAt": "2026-10-23T07:01:00Z",
       "published_at": "2026-10-23T07:01:00Z",
-      "votes_count": 194,
+      "votes_count": 338,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "The world's first long-form video agent for mo",
       "publishedAt": "2026-10-23T07:01:00Z",
       "published_at": "2026-10-23T07:01:00Z",
-      "votes_count": 166,
+      "votes_count": 277,
       "featured": true,
       "topics": [
         {
@@ -82,44 +82,6 @@
       "score_details": null
     },
     {
-      "id": "bb350998",
-      "title": "产品更新：Ovren Live Prev",
-      "title_en": "Ovren Live Preview",
-      "url": "https://www.producthunt.com/products/ovren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/ovren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "See your product change live before it ships D",
-      "summary_zh": "See your product change live before it ships D",
-      "publishedAt": "2026-10-23T07:01:00Z",
-      "published_at": "2026-10-23T07:01:00Z",
-      "votes_count": 149,
-      "featured": true,
-      "topics": [
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "470",
-          "name": "No-Code",
-          "slug": "no-code"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "ce2f5b86",
       "title": "产品更新：Agent Hunt",
       "title_en": "Agent Hunt",
@@ -136,7 +98,7 @@
       "summary_zh": "Live rankings of the tools AI agents use most",
       "publishedAt": "2026-10-23T07:01:00Z",
       "published_at": "2026-10-23T07:01:00Z",
-      "votes_count": 123,
+      "votes_count": 222,
       "featured": true,
       "topics": [
         {
@@ -153,6 +115,44 @@
           "id": "272",
           "name": "GitHub",
           "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "bb350998",
+      "title": "产品更新：Ovren Live Prev",
+      "title_en": "Ovren Live Preview",
+      "url": "https://www.producthunt.com/products/ovren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ovren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "See your product change live before it ships D",
+      "summary_zh": "See your product change live before it ships D",
+      "publishedAt": "2026-10-23T07:01:00Z",
+      "published_at": "2026-10-23T07:01:00Z",
+      "votes_count": 184,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
         }
       ],
       "score_details": null
@@ -238,8 +238,8 @@
       "rankingScore": 5.0,
       "summary": "行业首个Pro Agent问世！「AI祖师爷」Kevin Knight空降中国谈AI跃迁",
       "summary_zh": "行业首个Pro Agent问世！「AI祖师爷」Kevin Knight空降中国谈AI跃迁",
-      "publishedAt": "2026-10-23T13:40:41Z",
-      "published_at": "2026-10-23T13:40:41Z",
+      "publishedAt": "2026-10-23T23:14:48Z",
+      "published_at": "2026-10-23T23:14:48Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

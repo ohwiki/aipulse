@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-10-23T13:41:28Z",
-  "generatedAt": "2026-10-23T13:41:28Z",
-  "count": 164,
-  "total": 164,
+  "generated_at": "2026-10-23T23:15:17Z",
+  "generatedAt": "2026-10-23T23:15:17Z",
+  "count": 165,
+  "total": 165,
   "entries": [
+    {
+      "date": "2026-10-24",
+      "generated_at": "2026-10-23T23:15:17Z",
+      "generatedAt": "2026-10-23T23:15:17Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "6f188a9d",
+          "title": "AI资讯更新：Product Hunt",
+          "title_en": "Product Hunt Visual Launch Editor",
+          "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "See your launch as you build it See your Produ",
+          "summary_zh": "See your launch as you build it See your Produ",
+          "publishedAt": "2026-10-23T07:01:00Z",
+          "published_at": "2026-10-23T07:01:00Z",
+          "votes_count": 338,
+          "featured": true,
+          "topics": [
+            {
+              "id": "276",
+              "name": "Product Hunt",
+              "slug": "product-hunt"
+            },
+            {
+              "id": "371",
+              "name": "Maker Tools",
+              "slug": "maker-tools"
+            },
+            {
+              "id": "870",
+              "name": "Community",
+              "slug": "community"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "60b66148",
+          "title": "AI资讯更新：MOVO AI",
+          "title_en": "MOVO AI",
+          "url": "https://www.producthunt.com/products/movo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/movo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The world's first long-form video agent for mo",
+          "summary_zh": "The world's first long-form video agent for mo",
+          "publishedAt": "2026-10-23T07:01:00Z",
+          "published_at": "2026-10-23T07:01:00Z",
+          "votes_count": 277,
+          "featured": true,
+          "topics": [
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ce2f5b86",
+          "title": "产品更新：Agent Hunt",
+          "title_en": "Agent Hunt",
+          "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Live rankings of the tools AI agents use most",
+          "summary_zh": "Live rankings of the tools AI agents use most",
+          "publishedAt": "2026-10-23T07:01:00Z",
+          "published_at": "2026-10-23T07:01:00Z",
+          "votes_count": 222,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-23",
       "generated_at": "2026-10-23T13:41:28Z",
