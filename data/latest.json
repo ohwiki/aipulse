@@ -1,140 +1,107 @@
 {
-  "generated_at": "2026-10-22T23:28:23Z",
-  "generatedAt": "2026-10-22T23:28:23Z",
+  "generated_at": "2026-10-23T13:41:28Z",
+  "generatedAt": "2026-10-23T13:41:28Z",
   "days": 7,
   "total": 8,
   "count": 8,
   "items": [
     {
-      "id": "63a46c75",
-      "title": "AI资讯更新：DeepCell",
-      "title_en": "DeepCell",
-      "url": "https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "6f188a9d",
+      "title": "AI资讯更新：Product Hunt",
+      "title_en": "Product Hunt Visual Launch Editor",
+      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Your deadline survival kit for office work Dee",
-      "summary_zh": "Your deadline survival kit for office work Dee",
-      "publishedAt": "2026-10-22T07:01:00Z",
-      "published_at": "2026-10-22T07:01:00Z",
-      "votes_count": 265,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "570",
-          "name": "Business",
-          "slug": "business"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "dd71eb86",
-      "title": "产品更新：Claude Duet",
-      "title_en": "Claude Duet",
-      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Proactive agent that understands what needs yo",
-      "summary_zh": "Proactive agent that understands what needs yo",
-      "publishedAt": "2026-10-22T07:01:00Z",
-      "published_at": "2026-10-22T07:01:00Z",
-      "votes_count": 245,
-      "featured": true,
-      "topics": [
-        {
-          "id": "60",
-          "name": "Messaging",
-          "slug": "messaging"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "342",
-          "name": "Bots",
-          "slug": "bots"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "ca809165",
-      "title": "产品更新：Doneas",
-      "title_en": "Doneas",
-      "url": "https://www.producthunt.com/products/doneas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/doneas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "A daily accountability call with other entrepr",
-      "summary_zh": "A daily accountability call with other entrepr",
-      "publishedAt": "2026-10-22T07:01:00Z",
-      "published_at": "2026-10-22T07:01:00Z",
-      "votes_count": 227,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "4c0d34be",
-      "title": "产品更新：heal.dev",
-      "title_en": "heal.dev",
-      "url": "https://www.producthunt.com/products/heal-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/heal-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Find bugs and vulnerabilities code review miss",
-      "summary_zh": "Find bugs and vulnerabilities code review miss",
-      "publishedAt": "2026-10-22T07:01:00Z",
-      "published_at": "2026-10-22T07:01:00Z",
+      "summary": "See your launch as you build it See your Produ",
+      "summary_zh": "See your launch as you build it See your Produ",
+      "publishedAt": "2026-10-23T07:01:00Z",
+      "published_at": "2026-10-23T07:01:00Z",
       "votes_count": 194,
       "featured": true,
       "topics": [
         {
+          "id": "276",
+          "name": "Product Hunt",
+          "slug": "product-hunt"
+        },
+        {
+          "id": "371",
+          "name": "Maker Tools",
+          "slug": "maker-tools"
+        },
+        {
+          "id": "870",
+          "name": "Community",
+          "slug": "community"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "60b66148",
+      "title": "AI资讯更新：MOVO AI",
+      "title_en": "MOVO AI",
+      "url": "https://www.producthunt.com/products/movo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/movo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The world's first long-form video agent for mo",
+      "summary_zh": "The world's first long-form video agent for mo",
+      "publishedAt": "2026-10-23T07:01:00Z",
+      "published_at": "2026-10-23T07:01:00Z",
+      "votes_count": 166,
+      "featured": true,
+      "topics": [
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "bb350998",
+      "title": "产品更新：Ovren Live Prev",
+      "title_en": "Ovren Live Preview",
+      "url": "https://www.producthunt.com/products/ovren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ovren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "See your product change live before it ships D",
+      "summary_zh": "See your product change live before it ships D",
+      "publishedAt": "2026-10-23T07:01:00Z",
+      "published_at": "2026-10-23T07:01:00Z",
+      "votes_count": 149,
+      "featured": true,
+      "topics": [
+        {
           "id": "267",
           "name": "Developer Tools",
           "slug": "developer-tools"
@@ -145,83 +112,121 @@
           "slug": "artificial-intelligence"
         },
         {
-          "id": "1194",
-          "name": "Vibe coding",
-          "slug": "vibe-coding"
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
         }
       ],
       "score_details": null
     },
     {
-      "id": "40eaab26",
-      "title": "谁在给OpenAI供应具身数据？",
+      "id": "ce2f5b86",
+      "title": "产品更新：Agent Hunt",
+      "title_en": "Agent Hunt",
+      "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Live rankings of the tools AI agents use most",
+      "summary_zh": "Live rankings of the tools AI agents use most",
+      "publishedAt": "2026-10-23T07:01:00Z",
+      "published_at": "2026-10-23T07:01:00Z",
+      "votes_count": 123,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "074d17f6",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/504800.html",
+      "url": "https://www.qbitai.com/2026/10/504901.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/504800.html",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504901.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "挤进全球Physical AI核心供应链  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 这RSI，那AGI，别看今天山姆·奥特曼已经把自家模型卷得没边儿了，我还是要说一句—— 在Physical AI这事儿上，OpenAI吃过的苦头，真不比头部具身厂商少！！！（doge） 还记得在2020-2021年，壮志未酬的OpenAI机器人团队经历了一轮解散风波，其中反复被提到的现实难题之一，就是训练数据不够。 可是没隔几年，GPT-6就这样横空出世，强大的程度让全网震惊瘫坐！但另一个更让人觉得魔幻的事情是： 你一个通用大语言模型，咋就这么水灵灵地能控制机械臂，完成抓取、放置等一系列具身任务了啊！？     △图源:美国独立评测机构RoboCurve 那么问题来了，当年一度被数据卡住的OpenAI，到底是咋把这件事重新做起来的？ 出于对技术发展强烈的好奇心，我还真沿着公开报道和业内线索往下扒拉了一圈，然后一个亏贼、魔幻、离谱的事情来了—— 当前在Physical AI圈子里火得发烫的Egocentric（第一人称视角）数据集，OpenAI其实早就大买特买了一波！ 虽然OpenAI并没公",
-      "summary_zh": "挤进全球Physical AI核心供应链  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 这RSI，那AGI，别看今天山姆·奥特曼已经把自家模型卷得没边儿了，我还是要说一句—— 在Physical AI这事儿上，OpenAI吃过的苦头，真不比头部具身厂商少！！！（doge） 还记得在2020-2021年，壮志未酬的OpenAI机器人团队经历了一轮解散风波，其中反复被提到的现实难题之一，就是训练数据不够。 可是没隔几年，GPT-6就这样横空出世，强大的程度让全网震惊瘫坐！但另一个更让人觉得魔幻的事情是： 你一个通用大语言模型，咋就这么水灵灵地能控制机械臂，完成抓取、放置等一系列具身任务了啊！？     △图源:美国独立评测机构RoboCurve 那么问题来了，当年一度被数据卡住的OpenAI，到底是咋把这件事重新做起来的？ 出于对技术发展强烈的好奇心，我还真沿着公开报道和业内线索往下扒拉了一圈，然后一个亏贼、魔幻、离谱的事情来了—— 当前在Physical AI圈子里火得发烫的Egocentric（第一人称视角）数据集，OpenAI其实早就大买特买了一波！ 虽然OpenAI并没公",
-      "publishedAt": "2026-10-22T07:05:59Z",
-      "published_at": "2026-10-22T07:05:59Z",
+      "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。  企业AI转型正在走向深水区，从单点工具和业务场景提效，向系统性的组织重构延伸。麦肯锡曾在《组织状态报告2026》中指出，尽管AI被视为新一轮生产力革命的重要驱动力，但真正将其转化为经营业绩的企业仍是少数，背后的关键在于，不少企业仍将AI转型停留在“工具升级”层面，却忽视了更本质的“组织重构”。如何将AI能力融入组织，转化为持续的生产力，将成为影响企业未来竞争力的关键。11月12日，百度将在百度世界2026大会上聚焦“智能组织”议题，或将提出AI时代的组织进化范式。 10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。本届大会设置10+场分论坛，围绕“AI驱动组织跃迁”、“AI办公与知识工作”、“技术、行业与生态”三大方向展开，涵盖组织进化、智能体规模化落地、AI办公、AI+自进化、垂直产业增长、超级个体能力进阶等议题，为企业和开发者推进智能组织建设提供多维度的实践参考。 看点一：覆盖AI组织重构全链条，揭秘“智能组织”进化方法论 AI时代，组织形态或将朝着以人和智能体编队协同的方向演",
+      "summary_zh": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。  企业AI转型正在走向深水区，从单点工具和业务场景提效，向系统性的组织重构延伸。麦肯锡曾在《组织状态报告2026》中指出，尽管AI被视为新一轮生产力革命的重要驱动力，但真正将其转化为经营业绩的企业仍是少数，背后的关键在于，不少企业仍将AI转型停留在“工具升级”层面，却忽视了更本质的“组织重构”。如何将AI能力融入组织，转化为持续的生产力，将成为影响企业未来竞争力的关键。11月12日，百度将在百度世界2026大会上聚焦“智能组织”议题，或将提出AI时代的组织进化范式。 10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。本届大会设置10+场分论坛，围绕“AI驱动组织跃迁”、“AI办公与知识工作”、“技术、行业与生态”三大方向展开，涵盖组织进化、智能体规模化落地、AI办公、AI+自进化、垂直产业增长、超级个体能力进阶等议题，为企业和开发者推进智能组织建设提供多维度的实践参考。 看点一：覆盖AI组织重构全链条，揭秘“智能组织”进化方法论 AI时代，组织形态或将朝着以人和智能体编队协同的方向演",
+      "publishedAt": "2026-10-23T07:35:51Z",
+      "published_at": "2026-10-23T07:35:51Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "de46add1",
-      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "id": "1b0a695e",
+      "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/504832.html",
+      "url": "https://www.qbitai.com/2026/10/504905.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/504832.html",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504905.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent   中国电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent，同步开放275万条训练语料、模型权重与推理镜像。模型将意图识别与参数抽取结合起来，把用户的一句话转换为业务系统可以继续处理的结构化信息。 目前，Xing4.0-29B-Intent模型能力已在电信万号客服、智能家居音箱等终端产品中开始应用，服务于对话意图识别、工单智能路由和口语指令解析。此次开源将为更多开发者提供模型及配套资源，支持接入各自的业务场景。 01判断题还是填空题 “帮我把卧室的灯调成暖黄。”一句日常的设备操作指令，既包含用户想做的事，也包含完成操作所需的具体信息。系统需要从自然表达中提取这些信息，才能交给后续应用处理。 面对这句话，仅判断出“控制灯光”还不够。系统还需要知道：哪个房间？卧室；什么设备？灯；调成什么状态？暖黄。 Jev类决策模型主要“做选择题”，返回类型化决策，从给定的候选中挑选答案；参数抽取相当于“做填空题”，提取完成任",
-      "summary_zh": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent   中国电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent，同步开放275万条训练语料、模型权重与推理镜像。模型将意图识别与参数抽取结合起来，把用户的一句话转换为业务系统可以继续处理的结构化信息。 目前，Xing4.0-29B-Intent模型能力已在电信万号客服、智能家居音箱等终端产品中开始应用，服务于对话意图识别、工单智能路由和口语指令解析。此次开源将为更多开发者提供模型及配套资源，支持接入各自的业务场景。 01判断题还是填空题 “帮我把卧室的灯调成暖黄。”一句日常的设备操作指令，既包含用户想做的事，也包含完成操作所需的具体信息。系统需要从自然表达中提取这些信息，才能交给后续应用处理。 面对这句话，仅判断出“控制灯光”还不够。系统还需要知道：哪个房间？卧室；什么设备？灯；调成什么状态？暖黄。 Jev类决策模型主要“做选择题”，返回类型化决策，从给定的候选中挑选答案；参数抽取相当于“做填空题”，提取完成任",
-      "publishedAt": "2026-10-22T07:11:14Z",
-      "published_at": "2026-10-22T07:11:14Z",
+      "summary": "阿里巴巴集团旗下高德正式发布首个基于开放世界行为的全身基座模型λ0  近日，阿里巴巴集团旗下高德正式发布首个基于开放世界行为的全身基座模型λ0。该模型仅依靠人类行动数据，即可让机器人学习移动、姿态与双手操作的全身协调，使机器人彻底摆脱“局部动作学习”的局限。在SIMPLE仿真基准及多项真机评测中，λ0均取得SOTA表现，数据采集效率约为主流方法的3.4倍，真机任务成功率较最强对比基线提升22.5%。  伴随具身智能逐步走向家庭、商超、仓库等开放环境，机器人面临的不再是固定站姿下的单一操作，而是需要持续协调全身动作才能完成的复杂长程任务。 然而，现有的技术路径难以支撑机器人全身协同采集和学习需求。一方面，传统的真机遥操采集高度依赖硬件设备与人工复位，扩展成本高昂；另一方面，过往的第一视角VLA（视觉-语言-动作）基座模型普遍缺失全身协调的动作信息，数据往往只聚焦于手部、臂部等局部交互，缺乏关节、躯干、位姿等全身动态信息。当场景越开放、任务越复杂时，这种“碎片化”的动作学习便成为制约机器人通用能力与动作成功率的瓶颈。 λ0首创了“无本体全身数据采集+软硬件协同人机对齐”的技术路径，以应对开",
+      "summary_zh": "阿里巴巴集团旗下高德正式发布首个基于开放世界行为的全身基座模型λ0  近日，阿里巴巴集团旗下高德正式发布首个基于开放世界行为的全身基座模型λ0。该模型仅依靠人类行动数据，即可让机器人学习移动、姿态与双手操作的全身协调，使机器人彻底摆脱“局部动作学习”的局限。在SIMPLE仿真基准及多项真机评测中，λ0均取得SOTA表现，数据采集效率约为主流方法的3.4倍，真机任务成功率较最强对比基线提升22.5%。  伴随具身智能逐步走向家庭、商超、仓库等开放环境，机器人面临的不再是固定站姿下的单一操作，而是需要持续协调全身动作才能完成的复杂长程任务。 然而，现有的技术路径难以支撑机器人全身协同采集和学习需求。一方面，传统的真机遥操采集高度依赖硬件设备与人工复位，扩展成本高昂；另一方面，过往的第一视角VLA（视觉-语言-动作）基座模型普遍缺失全身协调的动作信息，数据往往只聚焦于手部、臂部等局部交互，缺乏关节、躯干、位姿等全身动态信息。当场景越开放、任务越复杂时，这种“碎片化”的动作学习便成为制约机器人通用能力与动作成功率的瓶颈。 λ0首创了“无本体全身数据采集+软硬件协同人机对齐”的技术路径，以应对开",
+      "publishedAt": "2026-10-23T08:40:57Z",
+      "published_at": "2026-10-23T08:40:57Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "dfd02e8c",
-      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "id": "c52cbf14",
+      "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/504879.html",
+      "url": "https://www.qbitai.com/2026/10/504913.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/504879.html",
+      "sourceUrl": "https://www.qbitai.com/2026/10/504913.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。  10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。该模型专为快速决策打造，在处理结构化决策任务时，具备准确率更高、响应更快、Token成本更低等优势，尤其适合产业AI场景。LingDT-Decision-1.0提供4B和27B两个版本，目前，模型已经在蚂蚁数科 DTMaaS 平台上线，开发者可限时免费体验。  蚂蚁数科团队在客服、风控、金融等真实业务场景测试显示，在处理同样任务时，LingDT-Decision-1.0相比于大语言模型，可将Token消耗降低超90%，响应时效提升10倍，并且性能表现更优。 相比于其他决策模型，LingDT-Decision-1.0首创支持原生多选与按序决策能力，更适配企业真实应用场景。在23项开源评测基准中，LingDT-Decision-1.0的综合评分超过了Microsoft-Decision-1、Jev 1.13.等热门决策模型，LingDT-Decision-1.0的27B版本在同参数模型中取得最高准确率。  （图注：LingDT",
-      "summary_zh": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。  10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。该模型专为快速决策打造，在处理结构化决策任务时，具备准确率更高、响应更快、Token成本更低等优势，尤其适合产业AI场景。LingDT-Decision-1.0提供4B和27B两个版本，目前，模型已经在蚂蚁数科 DTMaaS 平台上线，开发者可限时免费体验。  蚂蚁数科团队在客服、风控、金融等真实业务场景测试显示，在处理同样任务时，LingDT-Decision-1.0相比于大语言模型，可将Token消耗降低超90%，响应时效提升10倍，并且性能表现更优。 相比于其他决策模型，LingDT-Decision-1.0首创支持原生多选与按序决策能力，更适配企业真实应用场景。在23项开源评测基准中，LingDT-Decision-1.0的综合评分超过了Microsoft-Decision-1、Jev 1.13.等热门决策模型，LingDT-Decision-1.0的27B版本在同参数模型中取得最高准确率。  （图注：LingDT",
-      "publishedAt": "2026-10-22T09:07:05Z",
-      "published_at": "2026-10-22T09:07:05Z",
+      "summary": "10月23日，iRTE2026实时智能大会在北京举行。  10月23日，iRTE2026实时智能大会在北京举行。声网创始人兼 CEO 赵斌在主论坛发表题为《对话 AGI：实时互动的下一章》的演讲，回顾了过去一年实时互动、对话式 AI 与底层基础设施的关键变化，并提出“五级对话能力”框架，勾勒对话式 AI 从基础应答走向深度理解与关系沟通的演进路径。 赵斌认为，随着 AI 从回答问题走向持续交流、理解上下文并执行任务，实时互动的对象正在从人与人扩展到人与 Agent。实时互动技术的角色也随之延伸：它不仅要让信息传递更稳定、更流畅，还要为 AI 的感知、理解、表达与行动提供实时支撑。    从“问一句答一句”到深度关系沟通：对话 AGI 的五级进化 在赵斌看来，对话式 AI 的进步，不应只用回答速度、语言自然度来衡量。更重要的是，它能否理解对话对象的意图、处境与关系，能否在复杂场景中恰当地表达，并逐步形成长期、深入的理解。 围绕这一判断，赵斌在演讲中提出了“五级对话能力”框架，将对话能力划分为五个层次： L1，基于自身视角的表达：以自我表达和被动接续为主，实现“问一句、答一句”。 L2：基",
+      "summary_zh": "10月23日，iRTE2026实时智能大会在北京举行。  10月23日，iRTE2026实时智能大会在北京举行。声网创始人兼 CEO 赵斌在主论坛发表题为《对话 AGI：实时互动的下一章》的演讲，回顾了过去一年实时互动、对话式 AI 与底层基础设施的关键变化，并提出“五级对话能力”框架，勾勒对话式 AI 从基础应答走向深度理解与关系沟通的演进路径。 赵斌认为，随着 AI 从回答问题走向持续交流、理解上下文并执行任务，实时互动的对象正在从人与人扩展到人与 Agent。实时互动技术的角色也随之延伸：它不仅要让信息传递更稳定、更流畅，还要为 AI 的感知、理解、表达与行动提供实时支撑。    从“问一句答一句”到深度关系沟通：对话 AGI 的五级进化 在赵斌看来，对话式 AI 的进步，不应只用回答速度、语言自然度来衡量。更重要的是，它能否理解对话对象的意图、处境与关系，能否在复杂场景中恰当地表达，并逐步形成长期、深入的理解。 围绕这一判断，赵斌在演讲中提出了“五级对话能力”框架，将对话能力划分为五个层次： L1，基于自身视角的表达：以自我表达和被动接续为主，实现“问一句、答一句”。 L2：基",
+      "publishedAt": "2026-10-23T08:45:30Z",
+      "published_at": "2026-10-23T08:45:30Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "a9919b61",
-      "title": "首发实测！鹅厂刚开放的「元宝搜索」，",
-      "title_en": "首发实测！鹅厂刚开放的「元宝搜索」，给开发者减负了！（附福利激活码）",
+      "id": "2aabdd5e",
+      "title": "行业首个Pro Agent问世！「A",
+      "title_en": "行业首个Pro Agent问世！「AI祖师爷」Kevin Knight空降中国谈AI跃迁",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -231,10 +236,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "首发实测！鹅厂刚开放的「元宝搜索」，给开发者减负了！（附福利激活码）",
-      "summary_zh": "首发实测！鹅厂刚开放的「元宝搜索」，给开发者减负了！（附福利激活码）",
-      "publishedAt": "2026-10-22T23:27:47Z",
-      "published_at": "2026-10-22T23:27:47Z",
+      "summary": "行业首个Pro Agent问世！「AI祖师爷」Kevin Knight空降中国谈AI跃迁",
+      "summary_zh": "行业首个Pro Agent问世！「AI祖师爷」Kevin Knight空降中国谈AI跃迁",
+      "publishedAt": "2026-10-23T13:40:41Z",
+      "published_at": "2026-10-23T13:40:41Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

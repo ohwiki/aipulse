@@ -1,40 +1,78 @@
 {
-  "generated_at": "2026-10-22T23:28:23Z",
-  "generatedAt": "2026-10-22T23:28:23Z",
+  "generated_at": "2026-10-23T13:41:28Z",
+  "generatedAt": "2026-10-23T13:41:28Z",
   "count": 164,
   "total": 164,
   "entries": [
     {
       "date": "2026-10-23",
-      "generated_at": "2026-10-22T23:28:23Z",
-      "generatedAt": "2026-10-22T23:28:23Z",
+      "generated_at": "2026-10-23T13:41:28Z",
+      "generatedAt": "2026-10-23T13:41:28Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "63a46c75",
-          "title": "AI资讯更新：DeepCell",
-          "title_en": "DeepCell",
-          "url": "https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "6f188a9d",
+          "title": "AI资讯更新：Product Hunt",
+          "title_en": "Product Hunt Visual Launch Editor",
+          "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Your deadline survival kit for office work Dee",
-          "summary_zh": "Your deadline survival kit for office work Dee",
-          "publishedAt": "2026-10-22T07:01:00Z",
-          "published_at": "2026-10-22T07:01:00Z",
-          "votes_count": 265,
+          "summary": "See your launch as you build it See your Produ",
+          "summary_zh": "See your launch as you build it See your Produ",
+          "publishedAt": "2026-10-23T07:01:00Z",
+          "published_at": "2026-10-23T07:01:00Z",
+          "votes_count": 194,
           "featured": true,
           "topics": [
             {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "276",
+              "name": "Product Hunt",
+              "slug": "product-hunt"
+            },
+            {
+              "id": "371",
+              "name": "Maker Tools",
+              "slug": "maker-tools"
+            },
+            {
+              "id": "870",
+              "name": "Community",
+              "slug": "community"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "60b66148",
+          "title": "AI资讯更新：MOVO AI",
+          "title_en": "MOVO AI",
+          "url": "https://www.producthunt.com/products/movo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/movo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The world's first long-form video agent for mo",
+          "summary_zh": "The world's first long-form video agent for mo",
+          "publishedAt": "2026-10-23T07:01:00Z",
+          "published_at": "2026-10-23T07:01:00Z",
+          "votes_count": 166,
+          "featured": true,
+          "topics": [
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
             },
             {
               "id": "268",
@@ -42,80 +80,47 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "570",
-              "name": "Business",
-              "slug": "business"
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
             }
           ],
           "score_details": null
         },
         {
-          "id": "dd71eb86",
-          "title": "产品更新：Claude Duet",
-          "title_en": "Claude Duet",
-          "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "bb350998",
+          "title": "产品更新：Ovren Live Prev",
+          "title_en": "Ovren Live Preview",
+          "url": "https://www.producthunt.com/products/ovren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/ovren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Proactive agent that understands what needs yo",
-          "summary_zh": "Proactive agent that understands what needs yo",
-          "publishedAt": "2026-10-22T07:01:00Z",
-          "published_at": "2026-10-22T07:01:00Z",
-          "votes_count": 245,
+          "summary": "See your product change live before it ships D",
+          "summary_zh": "See your product change live before it ships D",
+          "publishedAt": "2026-10-23T07:01:00Z",
+          "published_at": "2026-10-23T07:01:00Z",
+          "votes_count": 149,
           "featured": true,
           "topics": [
-            {
-              "id": "60",
-              "name": "Messaging",
-              "slug": "messaging"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "342",
-              "name": "Bots",
-              "slug": "bots"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "ca809165",
-          "title": "产品更新：Doneas",
-          "title_en": "Doneas",
-          "url": "https://www.producthunt.com/products/doneas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/doneas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "A daily accountability call with other entrepr",
-          "summary_zh": "A daily accountability call with other entrepr",
-          "publishedAt": "2026-10-22T07:01:00Z",
-          "published_at": "2026-10-22T07:01:00Z",
-          "votes_count": 227,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
             {
               "id": "267",
               "name": "Developer Tools",
               "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
             }
           ],
           "score_details": null
