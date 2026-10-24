@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T12:50:27Z",
-  "generatedAt": "2026-10-24T12:50:27Z",
+  "generated_at": "2026-10-24T22:35:45Z",
+  "generatedAt": "2026-10-24T22:35:45Z",
   "days": 7,
-  "total": 6,
-  "count": 6,
+  "total": 7,
+  "count": 7,
   "items": [
     {
       "id": "d93c6b02",
@@ -22,7 +22,7 @@
       "summary_zh": "AI 3D that creates real parts, not just shapes",
       "publishedAt": "2026-10-24T07:01:00Z",
       "published_at": "2026-10-24T07:01:00Z",
-      "votes_count": 151,
+      "votes_count": 247,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Vibe code, publish, and monetize games with AI",
       "publishedAt": "2026-10-24T07:01:00Z",
       "published_at": "2026-10-24T07:01:00Z",
-      "votes_count": 142,
+      "votes_count": 213,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "Let AI agents sign in for you without seeing y",
       "publishedAt": "2026-10-24T07:01:00Z",
       "published_at": "2026-10-24T07:01:00Z",
-      "votes_count": 129,
+      "votes_count": 199,
       "featured": true,
       "topics": [
         {
@@ -110,9 +110,52 @@
       "score_details": null
     },
     {
-      "id": "2aabdd5e",
-      "title": "行业首个Pro Agent问世！「A",
-      "title_en": "行业首个Pro Agent问世！「AI祖师爷」Kevin Knight空降中国谈AI跃迁",
+      "id": "54fd9e8b",
+      "title": "产品更新：AgentValley",
+      "title_en": "AgentValley",
+      "url": "https://www.producthunt.com/products/agentvalley?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/agentvalley?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Every Claude Code agent, at a glance, in your",
+      "summary_zh": "Every Claude Code agent, at a glance, in your",
+      "publishedAt": "2026-10-24T07:01:00Z",
+      "published_at": "2026-10-24T07:01:00Z",
+      "votes_count": 136,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        },
+        {
+          "id": "303",
+          "name": "Menu Bar Apps",
+          "slug": "menu-bar-apps"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "bf50788c",
+      "title": "加速科学模型Scaling Law，",
+      "title_en": "加速科学模型Scaling Law，Scinetics发布ScienceRSI科学自我改进框架",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -122,19 +165,19 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "行业首个Pro Agent问世！「AI祖师爷」Kevin Knight空降中国谈AI跃迁",
-      "summary_zh": "行业首个Pro Agent问世！「AI祖师爷」Kevin Knight空降中国谈AI跃迁",
-      "publishedAt": "2026-10-24T12:49:58Z",
-      "published_at": "2026-10-24T12:49:58Z",
+      "summary": "加速科学模型Scaling Law，Scinetics发布ScienceRSI科学自我改进框",
+      "summary_zh": "加速科学模型Scaling Law，Scinetics发布ScienceRSI科学自我改进框",
+      "publishedAt": "2026-10-24T22:35:12Z",
+      "published_at": "2026-10-24T22:35:12Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "bc7e0d28",
-      "title": "TGC 2026 科技增长大会",
-      "title_en": null,
+      "id": "fdf14eff",
+      "title": "AI资讯更新：AI for Scienc",
+      "title_en": "AI for Science（AI4S）",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -144,19 +187,19 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "TGC 2026 科技增长大会",
-      "summary_zh": "TGC 2026 科技增长大会",
-      "publishedAt": "2026-10-24T12:49:58Z",
-      "published_at": "2026-10-24T12:49:58Z",
+      "summary": "AI for Science（AI4S）",
+      "summary_zh": "AI for Science（AI4S）",
+      "publishedAt": "2026-10-24T22:35:12Z",
+      "published_at": "2026-10-24T22:35:12Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "7a6daeee",
-      "title": "刚刚，你每天在用的Skills发生了",
-      "title_en": "刚刚，你每天在用的Skills发生了一件大事",
+      "id": "6dc8a8ea",
+      "title": "NeurIPS 2026论文分享会，",
+      "title_en": "NeurIPS 2026论文分享会，11月21日北京见",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -166,10 +209,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "刚刚，你每天在用的Skills发生了一件大事",
-      "summary_zh": "刚刚，你每天在用的Skills发生了一件大事",
-      "publishedAt": "2026-10-24T12:49:58Z",
-      "published_at": "2026-10-24T12:49:58Z",
+      "summary": "NeurIPS 2026论文分享会，11月21日北京见",
+      "summary_zh": "NeurIPS 2026论文分享会，11月21日北京见",
+      "publishedAt": "2026-10-24T22:35:12Z",
+      "published_at": "2026-10-24T22:35:12Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
