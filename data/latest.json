@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T13:17:04Z",
-  "generatedAt": "2026-10-25T13:17:04Z",
+  "generated_at": "2026-10-25T22:40:44Z",
+  "generatedAt": "2026-10-25T22:40:44Z",
   "days": 7,
-  "total": 4,
-  "count": 4,
+  "total": 7,
+  "count": 7,
   "items": [
     {
       "id": "555422d2",
@@ -22,7 +22,7 @@
       "summary_zh": "The fastest headless browser for agents and ha",
       "publishedAt": "2026-10-25T07:01:00Z",
       "published_at": "2026-10-25T07:01:00Z",
-      "votes_count": 147,
+      "votes_count": 232,
       "featured": true,
       "topics": [
         {
@@ -44,9 +44,128 @@
       "score_details": null
     },
     {
-      "id": "bf50788c",
-      "title": "加速科学模型Scaling Law，",
-      "title_en": "加速科学模型Scaling Law，Scinetics发布ScienceRSI科学自我改进框架",
+      "id": "a1628efd",
+      "title": "产品更新：AgentGrid.io",
+      "title_en": "AgentGrid.io",
+      "url": "https://www.producthunt.com/products/agentgrid-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/agentgrid-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Shared workspace for humans and agents Built f",
+      "summary_zh": "Shared workspace for humans and agents Built f",
+      "publishedAt": "2026-10-25T07:01:00Z",
+      "published_at": "2026-10-25T07:01:00Z",
+      "votes_count": 167,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "371",
+          "name": "Maker Tools",
+          "slug": "maker-tools"
+        },
+        {
+          "id": "1194",
+          "name": "Vibe coding",
+          "slug": "vibe-coding"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "403212bb",
+      "title": "产品更新：Openstatus Inci",
+      "title_en": "Openstatus Incident Management",
+      "url": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Incident management for small teams Open sourc",
+      "summary_zh": "Incident management for small teams Open sourc",
+      "publishedAt": "2026-10-25T07:01:00Z",
+      "published_at": "2026-10-25T07:01:00Z",
+      "votes_count": 141,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a48a4a5b",
+      "title": "产品更新：git-flow-next",
+      "title_en": "git-flow-next",
+      "url": "https://www.producthunt.com/products/tower?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/tower?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your favorite Git workflow. Reimagined. A flex",
+      "summary_zh": "Your favorite Git workflow. Reimagined. A flex",
+      "publishedAt": "2026-10-25T07:01:00Z",
+      "published_at": "2026-10-25T07:01:00Z",
+      "votes_count": 123,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "e6d5ef60",
+      "title": "清华团队构建HandsOn灵巧操作基",
+      "title_en": "清华团队构建HandsOn灵巧操作基准，66项任务全方位评测机器人双手能力",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -56,19 +175,19 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "加速科学模型Scaling Law，Scinetics发布ScienceRSI科学自我改进框",
-      "summary_zh": "加速科学模型Scaling Law，Scinetics发布ScienceRSI科学自我改进框",
-      "publishedAt": "2026-10-25T13:16:40Z",
-      "published_at": "2026-10-25T13:16:40Z",
+      "summary": "清华团队构建HandsOn灵巧操作基准，66项任务全方位评测机器人双手能力",
+      "summary_zh": "清华团队构建HandsOn灵巧操作基准，66项任务全方位评测机器人双手能力",
+      "publishedAt": "2026-10-25T22:40:13Z",
+      "published_at": "2026-10-25T22:40:13Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "fdf14eff",
-      "title": "AI资讯更新：AI for Scienc",
-      "title_en": "AI for Science（AI4S）",
+      "id": "2055eab9",
+      "title": "视频拍完还能重新打光？JointLi",
+      "title_en": "视频拍完还能重新打光？JointLight让AI精准控制人物光影",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -78,19 +197,19 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "AI for Science（AI4S）",
-      "summary_zh": "AI for Science（AI4S）",
-      "publishedAt": "2026-10-25T13:16:40Z",
-      "published_at": "2026-10-25T13:16:40Z",
+      "summary": "视频拍完还能重新打光？JointLight让AI精准控制人物光影",
+      "summary_zh": "视频拍完还能重新打光？JointLight让AI精准控制人物光影",
+      "publishedAt": "2026-10-25T22:40:13Z",
+      "published_at": "2026-10-25T22:40:13Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "6dc8a8ea",
-      "title": "NeurIPS 2026论文分享会，",
-      "title_en": "NeurIPS 2026论文分享会，11月21日北京见",
+      "id": "0ef51a5f",
+      "title": "受够了AI失忆？复旦NLP推出的主动",
+      "title_en": "受够了AI失忆？复旦NLP推出的主动式助手A5越用越懂你，还会主动帮忙",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -100,10 +219,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "NeurIPS 2026论文分享会，11月21日北京见",
-      "summary_zh": "NeurIPS 2026论文分享会，11月21日北京见",
-      "publishedAt": "2026-10-25T13:16:40Z",
-      "published_at": "2026-10-25T13:16:40Z",
+      "summary": "受够了AI失忆？复旦NLP推出的主动式助手A5越用越懂你，还会主动帮忙",
+      "summary_zh": "受够了AI失忆？复旦NLP推出的主动式助手A5越用越懂你，还会主动帮忙",
+      "publishedAt": "2026-10-25T22:40:13Z",
+      "published_at": "2026-10-25T22:40:13Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-10-25T13:17:04Z",
-  "generatedAt": "2026-10-25T13:17:04Z",
-  "count": 166,
-  "total": 166,
+  "generated_at": "2026-10-25T22:40:44Z",
+  "generatedAt": "2026-10-25T22:40:44Z",
+  "count": 167,
+  "total": 167,
   "entries": [
+    {
+      "date": "2026-10-26",
+      "generated_at": "2026-10-25T22:40:44Z",
+      "generatedAt": "2026-10-25T22:40:44Z",
+      "total": 7,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "555422d2",
+          "title": "产品更新：Moli by Lexmoun",
+          "title_en": "Moli by Lexmount",
+          "url": "https://www.producthunt.com/products/lexmount-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/lexmount-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The fastest headless browser for agents and ha",
+          "summary_zh": "The fastest headless browser for agents and ha",
+          "publishedAt": "2026-10-25T07:01:00Z",
+          "published_at": "2026-10-25T07:01:00Z",
+          "votes_count": 232,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "a1628efd",
+          "title": "产品更新：AgentGrid.io",
+          "title_en": "AgentGrid.io",
+          "url": "https://www.producthunt.com/products/agentgrid-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/agentgrid-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Shared workspace for humans and agents Built f",
+          "summary_zh": "Shared workspace for humans and agents Built f",
+          "publishedAt": "2026-10-25T07:01:00Z",
+          "published_at": "2026-10-25T07:01:00Z",
+          "votes_count": 167,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "371",
+              "name": "Maker Tools",
+              "slug": "maker-tools"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "403212bb",
+          "title": "产品更新：Openstatus Inci",
+          "title_en": "Openstatus Incident Management",
+          "url": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Incident management for small teams Open sourc",
+          "summary_zh": "Incident management for small teams Open sourc",
+          "publishedAt": "2026-10-25T07:01:00Z",
+          "published_at": "2026-10-25T07:01:00Z",
+          "votes_count": 141,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-25",
       "generated_at": "2026-10-25T13:17:04Z",
