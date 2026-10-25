@@ -1,157 +1,48 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-24T22:35:45Z",
-  "generatedAt": "2026-10-24T22:35:45Z",
-  "total": 7,
-  "count": 7,
+  "generated_at": "2026-10-25T13:17:04Z",
+  "generatedAt": "2026-10-25T13:17:04Z",
+  "total": 4,
+  "count": 4,
   "sections": [
     {
       "category": "ai-products",
       "label": "产品发布/更新",
       "items": [
         {
-          "id": "d93c6b02",
-          "title": "AI资讯更新：zCAD AI",
-          "title_en": "zCAD AI",
-          "url": "https://www.producthunt.com/products/zcad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "555422d2",
+          "title": "产品更新：Moli by Lexmoun",
+          "title_en": "Moli by Lexmount",
+          "url": "https://www.producthunt.com/products/lexmount-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/zcad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/lexmount-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "AI 3D that creates real parts, not just shapes",
-          "summary_zh": "AI 3D that creates real parts, not just shapes",
-          "publishedAt": "2026-10-24T07:01:00Z",
-          "published_at": "2026-10-24T07:01:00Z",
-          "votes_count": 247,
+          "summary": "The fastest headless browser for agents and ha",
+          "summary_zh": "The fastest headless browser for agents and ha",
+          "publishedAt": "2026-10-25T07:01:00Z",
+          "published_at": "2026-10-25T07:01:00Z",
+          "votes_count": 147,
           "featured": true,
           "topics": [
             {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
-            {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
-              "id": "803",
-              "name": "3D Modeling",
-              "slug": "3d-modeling"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "8e12856c",
-          "title": "产品更新：myPip",
-          "title_en": "myPip",
-          "url": "https://www.producthunt.com/products/mypip-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/mypip-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Vibe code, publish, and monetize games with AI",
-          "summary_zh": "Vibe code, publish, and monetize games with AI",
-          "publishedAt": "2026-10-24T07:01:00Z",
-          "published_at": "2026-10-24T07:01:00Z",
-          "votes_count": 213,
-          "featured": true,
-          "topics": [
             {
               "id": "267",
               "name": "Developer Tools",
               "slug": "developer-tools"
             },
-            {
-              "id": "353",
-              "name": "Games",
-              "slug": "games"
-            },
-            {
-              "id": "1194",
-              "name": "Vibe coding",
-              "slug": "vibe-coding"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "bdf3d5af",
-          "title": "产品更新：1Password for A",
-          "title_en": "1Password for Agents",
-          "url": "https://www.producthunt.com/products/1password?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/1password?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Let AI agents sign in for you without seeing y",
-          "summary_zh": "Let AI agents sign in for you without seeing y",
-          "publishedAt": "2026-10-24T07:01:00Z",
-          "published_at": "2026-10-24T07:01:00Z",
-          "votes_count": 199,
-          "featured": true,
-          "topics": [
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "54fd9e8b",
-          "title": "产品更新：AgentValley",
-          "title_en": "AgentValley",
-          "url": "https://www.producthunt.com/products/agentvalley?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/agentvalley?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Every Claude Code agent, at a glance, in your",
-          "summary_zh": "Every Claude Code agent, at a glance, in your",
-          "publishedAt": "2026-10-24T07:01:00Z",
-          "published_at": "2026-10-24T07:01:00Z",
-          "votes_count": 136,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "303",
-              "name": "Menu Bar Apps",
-              "slug": "menu-bar-apps"
             }
           ],
           "score_details": null
@@ -177,8 +68,8 @@
           "rankingScore": 5.0,
           "summary": "加速科学模型Scaling Law，Scinetics发布ScienceRSI科学自我改进框",
           "summary_zh": "加速科学模型Scaling Law，Scinetics发布ScienceRSI科学自我改进框",
-          "publishedAt": "2026-10-24T22:35:12Z",
-          "published_at": "2026-10-24T22:35:12Z",
+          "publishedAt": "2026-10-25T13:16:40Z",
+          "published_at": "2026-10-25T13:16:40Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -199,8 +90,8 @@
           "rankingScore": 5.0,
           "summary": "AI for Science（AI4S）",
           "summary_zh": "AI for Science（AI4S）",
-          "publishedAt": "2026-10-24T22:35:12Z",
-          "published_at": "2026-10-24T22:35:12Z",
+          "publishedAt": "2026-10-25T13:16:40Z",
+          "published_at": "2026-10-25T13:16:40Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -221,8 +112,8 @@
           "rankingScore": 5.0,
           "summary": "NeurIPS 2026论文分享会，11月21日北京见",
           "summary_zh": "NeurIPS 2026论文分享会，11月21日北京见",
-          "publishedAt": "2026-10-24T22:35:12Z",
-          "published_at": "2026-10-24T22:35:12Z",
+          "publishedAt": "2026-10-25T13:16:40Z",
+          "published_at": "2026-10-25T13:16:40Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -233,148 +124,39 @@
   ],
   "items": [
     {
-      "id": "d93c6b02",
-      "title": "AI资讯更新：zCAD AI",
-      "title_en": "zCAD AI",
-      "url": "https://www.producthunt.com/products/zcad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "555422d2",
+      "title": "产品更新：Moli by Lexmoun",
+      "title_en": "Moli by Lexmount",
+      "url": "https://www.producthunt.com/products/lexmount-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/zcad-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/lexmount-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "AI 3D that creates real parts, not just shapes",
-      "summary_zh": "AI 3D that creates real parts, not just shapes",
-      "publishedAt": "2026-10-24T07:01:00Z",
-      "published_at": "2026-10-24T07:01:00Z",
-      "votes_count": 247,
+      "summary": "The fastest headless browser for agents and ha",
+      "summary_zh": "The fastest headless browser for agents and ha",
+      "publishedAt": "2026-10-25T07:01:00Z",
+      "published_at": "2026-10-25T07:01:00Z",
+      "votes_count": 147,
       "featured": true,
       "topics": [
         {
-          "id": "44",
-          "name": "Design Tools",
-          "slug": "design-tools"
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
         },
-        {
-          "id": "237",
-          "name": "SaaS",
-          "slug": "saas"
-        },
-        {
-          "id": "803",
-          "name": "3D Modeling",
-          "slug": "3d-modeling"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "8e12856c",
-      "title": "产品更新：myPip",
-      "title_en": "myPip",
-      "url": "https://www.producthunt.com/products/mypip-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/mypip-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Vibe code, publish, and monetize games with AI",
-      "summary_zh": "Vibe code, publish, and monetize games with AI",
-      "publishedAt": "2026-10-24T07:01:00Z",
-      "published_at": "2026-10-24T07:01:00Z",
-      "votes_count": 213,
-      "featured": true,
-      "topics": [
         {
           "id": "267",
           "name": "Developer Tools",
           "slug": "developer-tools"
         },
-        {
-          "id": "353",
-          "name": "Games",
-          "slug": "games"
-        },
-        {
-          "id": "1194",
-          "name": "Vibe coding",
-          "slug": "vibe-coding"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "bdf3d5af",
-      "title": "产品更新：1Password for A",
-      "title_en": "1Password for Agents",
-      "url": "https://www.producthunt.com/products/1password?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/1password?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Let AI agents sign in for you without seeing y",
-      "summary_zh": "Let AI agents sign in for you without seeing y",
-      "publishedAt": "2026-10-24T07:01:00Z",
-      "published_at": "2026-10-24T07:01:00Z",
-      "votes_count": 199,
-      "featured": true,
-      "topics": [
         {
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "54fd9e8b",
-      "title": "产品更新：AgentValley",
-      "title_en": "AgentValley",
-      "url": "https://www.producthunt.com/products/agentvalley?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/agentvalley?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Every Claude Code agent, at a glance, in your",
-      "summary_zh": "Every Claude Code agent, at a glance, in your",
-      "publishedAt": "2026-10-24T07:01:00Z",
-      "published_at": "2026-10-24T07:01:00Z",
-      "votes_count": 136,
-      "featured": true,
-      "topics": [
-        {
-          "id": "89",
-          "name": "Open Source",
-          "slug": "open-source"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "272",
-          "name": "GitHub",
-          "slug": "github"
-        },
-        {
-          "id": "303",
-          "name": "Menu Bar Apps",
-          "slug": "menu-bar-apps"
         }
       ],
       "score_details": null
@@ -394,8 +176,8 @@
       "rankingScore": 5.0,
       "summary": "加速科学模型Scaling Law，Scinetics发布ScienceRSI科学自我改进框",
       "summary_zh": "加速科学模型Scaling Law，Scinetics发布ScienceRSI科学自我改进框",
-      "publishedAt": "2026-10-24T22:35:12Z",
-      "published_at": "2026-10-24T22:35:12Z",
+      "publishedAt": "2026-10-25T13:16:40Z",
+      "published_at": "2026-10-25T13:16:40Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -416,8 +198,8 @@
       "rankingScore": 5.0,
       "summary": "AI for Science（AI4S）",
       "summary_zh": "AI for Science（AI4S）",
-      "publishedAt": "2026-10-24T22:35:12Z",
-      "published_at": "2026-10-24T22:35:12Z",
+      "publishedAt": "2026-10-25T13:16:40Z",
+      "published_at": "2026-10-25T13:16:40Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -438,8 +220,8 @@
       "rankingScore": 5.0,
       "summary": "NeurIPS 2026论文分享会，11月21日北京见",
       "summary_zh": "NeurIPS 2026论文分享会，11月21日北京见",
-      "publishedAt": "2026-10-24T22:35:12Z",
-      "published_at": "2026-10-24T22:35:12Z",
+      "publishedAt": "2026-10-25T13:16:40Z",
+      "published_at": "2026-10-25T13:16:40Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
