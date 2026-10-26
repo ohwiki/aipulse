@@ -1,0 +1,473 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-26T23:57:26Z",
+  "generatedAt": "2026-10-26T23:57:26Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "d4d4136e",
+          "title": "产品更新：Strawberry 1.0",
+          "title_en": "Strawberry 1.0",
+          "url": "https://www.producthunt.com/products/strawberry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/strawberry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI Browser that saves your team >100h/week Str",
+          "summary_zh": "AI Browser that saves your team >100h/week Str",
+          "publishedAt": "2026-10-26T07:01:00Z",
+          "published_at": "2026-10-26T07:01:00Z",
+          "votes_count": 265,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "7cb2f465",
+          "title": "产品更新：SurgePix",
+          "title_en": "SurgePix",
+          "url": "https://www.producthunt.com/products/surgepix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/surgepix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI visuals. Edit every layer. Agent-callable.",
+          "summary_zh": "AI visuals. Edit every layer. Agent-callable.",
+          "publishedAt": "2026-10-26T07:01:00Z",
+          "published_at": "2026-10-26T07:01:00Z",
+          "votes_count": 212,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8348f73e",
+          "title": "模型更新：MiniMax M3.1 Fl",
+          "title_en": "MiniMax M3.1 Flash",
+          "url": "https://www.producthunt.com/products/minimax-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/minimax-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "MiniMax’s Flash model, 3x faster and 70% cheap",
+          "summary_zh": "MiniMax’s Flash model, 3x faster and 70% cheap",
+          "publishedAt": "2026-10-26T07:01:00Z",
+          "published_at": "2026-10-26T07:01:00Z",
+          "votes_count": 171,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "68c4b938",
+          "title": "产品更新：N8N Chat UI",
+          "title_en": "N8N Chat UI",
+          "url": "https://www.producthunt.com/products/n8n-chat-ui-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/n8n-chat-ui-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Beautiful, no-code, on-brand AI chat widgets f",
+          "summary_zh": "Beautiful, no-code, on-brand AI chat widgets f",
+          "publishedAt": "2026-10-26T07:01:00Z",
+          "published_at": "2026-10-26T07:01:00Z",
+          "votes_count": 155,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "19e43b19",
+          "title": "KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/505407.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/505407.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "一张卡，512路长推理同时跑  谷歌今年的一篇论文，愣是把存储芯片巨头的股价都给整出动静了。 论文里提到，KV Cache至少能压缩6倍。 要知道，大模型推理越来越吃内存，KV Cache又是其中一笔不小的开销。 现在谷歌突然把它压下去这么多，美光等存储芯片巨头的股价随之下跌。 结果才过去几个月，又有人对KV Cache下了更狠的一刀。 这次连压缩都不满足了。 上下文从4K一路涨到256K，KV Cache占用愣是没变。 在256K上下文下，始终固定在72MiB。相比源模型，KV Cache直接减少99.1%。 更夸张的是，一张80GB显卡同时跑512路长推理，输出吞吐达到12124 tokens/s，是源模型的6.42倍。 而且推理能力也基本保住了，AIME 2024—2026平均一次通过率达到82.9%，而参评的有界状态模型即便做到14B，最好也只有18.8%。    这就是岩山科技旗下岩芯矩阵联合港科大、CMU等高校刚刚发布并开源的EdgeRock-4B。 它给长推理带来的一个变化是： 推理再长，内存不涨。 模型权重和推理代码目前均已开源，还支持文本和图像推理。 推理越长，为什么",
+          "summary_zh": "一张卡，512路长推理同时跑  谷歌今年的一篇论文，愣是把存储芯片巨头的股价都给整出动静了。 论文里提到，KV Cache至少能压缩6倍。 要知道，大模型推理越来越吃内存，KV Cache又是其中一笔不小的开销。 现在谷歌突然把它压下去这么多，美光等存储芯片巨头的股价随之下跌。 结果才过去几个月，又有人对KV Cache下了更狠的一刀。 这次连压缩都不满足了。 上下文从4K一路涨到256K，KV Cache占用愣是没变。 在256K上下文下，始终固定在72MiB。相比源模型，KV Cache直接减少99.1%。 更夸张的是，一张80GB显卡同时跑512路长推理，输出吞吐达到12124 tokens/s，是源模型的6.42倍。 而且推理能力也基本保住了，AIME 2024—2026平均一次通过率达到82.9%，而参评的有界状态模型即便做到14B，最好也只有18.8%。    这就是岩山科技旗下岩芯矩阵联合港科大、CMU等高校刚刚发布并开源的EdgeRock-4B。 它给长推理带来的一个变化是： 推理再长，内存不涨。 模型权重和推理代码目前均已开源，还支持文本和图像推理。 推理越长，为什么",
+          "publishedAt": "2026-10-26T06:45:25Z",
+          "published_at": "2026-10-26T06:45:25Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "ce681d32",
+          "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/505429.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/505429.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "高品质 AI Token 成为行业新风向  近日，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。多项核心经营指标在半年内实现超十倍速增长，持续获得产业和资本的高度认可。    本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、商汤科技、网宿科技、甘肃树帜、常金控、元智未来、清证星竹、小咖资本等跟投，老股东尚势资本继续追投。 这是继今年 7 月完成 A 轮融资后，趋境科技短期内再获大额融资。截至今年10月，趋境科技已在 2026 年连续完成多轮融资。密集的资本跟进背后，既反映出市场对 AI 基础设施赛道长期价值的共识，更源于投资人对趋境科技战略聚焦、技术领先和商业化交付成绩等综合实力的肯定——过去半年，趋境科技不但全面跑通了从技术架构到规模化商业交付的全链路，更是持续引领推理行业的技术演进，以技术创新推动了国产算力的性能大跃升。 本轮募集的资金将重点投向高品质 AI Token",
+          "summary_zh": "高品质 AI Token 成为行业新风向  近日，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。多项核心经营指标在半年内实现超十倍速增长，持续获得产业和资本的高度认可。    本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、商汤科技、网宿科技、甘肃树帜、常金控、元智未来、清证星竹、小咖资本等跟投，老股东尚势资本继续追投。 这是继今年 7 月完成 A 轮融资后，趋境科技短期内再获大额融资。截至今年10月，趋境科技已在 2026 年连续完成多轮融资。密集的资本跟进背后，既反映出市场对 AI 基础设施赛道长期价值的共识，更源于投资人对趋境科技战略聚焦、技术领先和商业化交付成绩等综合实力的肯定——过去半年，趋境科技不但全面跑通了从技术架构到规模化商业交付的全链路，更是持续引领推理行业的技术演进，以技术创新推动了国产算力的性能大跃升。 本轮募集的资金将重点投向高品质 AI Token",
+          "publishedAt": "2026-10-26T06:50:44Z",
+          "published_at": "2026-10-26T06:50:44Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "e93bb49b",
+          "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/505436.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/505436.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "10月21日，2026世界智能网联汽车大会在北京召开  10月21日，2026世界智能网联汽车大会在北京召开，中国长安汽车集团有限公司总经理、重庆长安汽车股份有限公司董事长赵非出席并发表《AI赋能 数智互联 共筑汽车产业新生态》主题演讲。  对于智能网联汽车全球化发展趋势，赵非提出两大判断： 一是在端侧物理AI领域，汽车将成为落地时间最近、渗透率提升最快、应用规模最大的载体。长安启源Q06上市首月城区领航版订单占比近50%，预计2027年行业实现L3级量产、2028年实现L4级商业化运营。 二是汽车正向陆海空立体出行生态延伸，为产业发展开辟了新的增量空间。 围绕产业变革，赵非分享了中国长安汽车“一体三域”AI变革策略。 开展AI产品行动，打造AI定义汽车的差异化竞争力。长安建有国内唯一、国际领先的智能汽车安全技术全国重点实验室——天枢智能实验中心，并持有国内首张L3级自动驾驶专用正式号牌与重庆L4级无人出租车测试牌照。自研一段式端到端驾驶辅助系统“长安天枢领航”今年正式量产上车，它以安全为核心，打通舱、驾、动、底、控、云六大领域，在核心领域实现软硬件一体化自研，为用户提供平顺可靠的驾乘",
+          "summary_zh": "10月21日，2026世界智能网联汽车大会在北京召开  10月21日，2026世界智能网联汽车大会在北京召开，中国长安汽车集团有限公司总经理、重庆长安汽车股份有限公司董事长赵非出席并发表《AI赋能 数智互联 共筑汽车产业新生态》主题演讲。  对于智能网联汽车全球化发展趋势，赵非提出两大判断： 一是在端侧物理AI领域，汽车将成为落地时间最近、渗透率提升最快、应用规模最大的载体。长安启源Q06上市首月城区领航版订单占比近50%，预计2027年行业实现L3级量产、2028年实现L4级商业化运营。 二是汽车正向陆海空立体出行生态延伸，为产业发展开辟了新的增量空间。 围绕产业变革，赵非分享了中国长安汽车“一体三域”AI变革策略。 开展AI产品行动，打造AI定义汽车的差异化竞争力。长安建有国内唯一、国际领先的智能汽车安全技术全国重点实验室——天枢智能实验中心，并持有国内首张L3级自动驾驶专用正式号牌与重庆L4级无人出租车测试牌照。自研一段式端到端驾驶辅助系统“长安天枢领航”今年正式量产上车，它以安全为核心，打通舱、驾、动、底、控、云六大领域，在核心领域实现软硬件一体化自研，为用户提供平顺可靠的驾乘",
+          "publishedAt": "2026-10-26T08:04:10Z",
+          "published_at": "2026-10-26T08:04:10Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "3f618452",
+          "title": "可可矩阵COCO Matrix发布C",
+          "title_en": "可可矩阵COCO Matrix发布CO01模型：言传身教，让机器人边做边学",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "可可矩阵COCO Matrix发布CO01模型：言传身教，让机器人边做边学",
+          "summary_zh": "可可矩阵COCO Matrix发布CO01模型：言传身教，让机器人边做边学",
+          "publishedAt": "2026-10-26T23:56:52Z",
+          "published_at": "2026-10-26T23:56:52Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "d4d4136e",
+      "title": "产品更新：Strawberry 1.0",
+      "title_en": "Strawberry 1.0",
+      "url": "https://www.producthunt.com/products/strawberry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/strawberry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI Browser that saves your team >100h/week Str",
+      "summary_zh": "AI Browser that saves your team >100h/week Str",
+      "publishedAt": "2026-10-26T07:01:00Z",
+      "published_at": "2026-10-26T07:01:00Z",
+      "votes_count": 265,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "7cb2f465",
+      "title": "产品更新：SurgePix",
+      "title_en": "SurgePix",
+      "url": "https://www.producthunt.com/products/surgepix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/surgepix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI visuals. Edit every layer. Agent-callable.",
+      "summary_zh": "AI visuals. Edit every layer. Agent-callable.",
+      "publishedAt": "2026-10-26T07:01:00Z",
+      "published_at": "2026-10-26T07:01:00Z",
+      "votes_count": 212,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8348f73e",
+      "title": "模型更新：MiniMax M3.1 Fl",
+      "title_en": "MiniMax M3.1 Flash",
+      "url": "https://www.producthunt.com/products/minimax-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/minimax-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "MiniMax’s Flash model, 3x faster and 70% cheap",
+      "summary_zh": "MiniMax’s Flash model, 3x faster and 70% cheap",
+      "publishedAt": "2026-10-26T07:01:00Z",
+      "published_at": "2026-10-26T07:01:00Z",
+      "votes_count": 171,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "68c4b938",
+      "title": "产品更新：N8N Chat UI",
+      "title_en": "N8N Chat UI",
+      "url": "https://www.producthunt.com/products/n8n-chat-ui-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/n8n-chat-ui-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Beautiful, no-code, on-brand AI chat widgets f",
+      "summary_zh": "Beautiful, no-code, on-brand AI chat widgets f",
+      "publishedAt": "2026-10-26T07:01:00Z",
+      "published_at": "2026-10-26T07:01:00Z",
+      "votes_count": 155,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "19e43b19",
+      "title": "KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/505407.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/505407.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "一张卡，512路长推理同时跑  谷歌今年的一篇论文，愣是把存储芯片巨头的股价都给整出动静了。 论文里提到，KV Cache至少能压缩6倍。 要知道，大模型推理越来越吃内存，KV Cache又是其中一笔不小的开销。 现在谷歌突然把它压下去这么多，美光等存储芯片巨头的股价随之下跌。 结果才过去几个月，又有人对KV Cache下了更狠的一刀。 这次连压缩都不满足了。 上下文从4K一路涨到256K，KV Cache占用愣是没变。 在256K上下文下，始终固定在72MiB。相比源模型，KV Cache直接减少99.1%。 更夸张的是，一张80GB显卡同时跑512路长推理，输出吞吐达到12124 tokens/s，是源模型的6.42倍。 而且推理能力也基本保住了，AIME 2024—2026平均一次通过率达到82.9%，而参评的有界状态模型即便做到14B，最好也只有18.8%。    这就是岩山科技旗下岩芯矩阵联合港科大、CMU等高校刚刚发布并开源的EdgeRock-4B。 它给长推理带来的一个变化是： 推理再长，内存不涨。 模型权重和推理代码目前均已开源，还支持文本和图像推理。 推理越长，为什么",
+      "summary_zh": "一张卡，512路长推理同时跑  谷歌今年的一篇论文，愣是把存储芯片巨头的股价都给整出动静了。 论文里提到，KV Cache至少能压缩6倍。 要知道，大模型推理越来越吃内存，KV Cache又是其中一笔不小的开销。 现在谷歌突然把它压下去这么多，美光等存储芯片巨头的股价随之下跌。 结果才过去几个月，又有人对KV Cache下了更狠的一刀。 这次连压缩都不满足了。 上下文从4K一路涨到256K，KV Cache占用愣是没变。 在256K上下文下，始终固定在72MiB。相比源模型，KV Cache直接减少99.1%。 更夸张的是，一张80GB显卡同时跑512路长推理，输出吞吐达到12124 tokens/s，是源模型的6.42倍。 而且推理能力也基本保住了，AIME 2024—2026平均一次通过率达到82.9%，而参评的有界状态模型即便做到14B，最好也只有18.8%。    这就是岩山科技旗下岩芯矩阵联合港科大、CMU等高校刚刚发布并开源的EdgeRock-4B。 它给长推理带来的一个变化是： 推理再长，内存不涨。 模型权重和推理代码目前均已开源，还支持文本和图像推理。 推理越长，为什么",
+      "publishedAt": "2026-10-26T06:45:25Z",
+      "published_at": "2026-10-26T06:45:25Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ce681d32",
+      "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/505429.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/505429.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "高品质 AI Token 成为行业新风向  近日，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。多项核心经营指标在半年内实现超十倍速增长，持续获得产业和资本的高度认可。    本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、商汤科技、网宿科技、甘肃树帜、常金控、元智未来、清证星竹、小咖资本等跟投，老股东尚势资本继续追投。 这是继今年 7 月完成 A 轮融资后，趋境科技短期内再获大额融资。截至今年10月，趋境科技已在 2026 年连续完成多轮融资。密集的资本跟进背后，既反映出市场对 AI 基础设施赛道长期价值的共识，更源于投资人对趋境科技战略聚焦、技术领先和商业化交付成绩等综合实力的肯定——过去半年，趋境科技不但全面跑通了从技术架构到规模化商业交付的全链路，更是持续引领推理行业的技术演进，以技术创新推动了国产算力的性能大跃升。 本轮募集的资金将重点投向高品质 AI Token",
+      "summary_zh": "高品质 AI Token 成为行业新风向  近日，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。多项核心经营指标在半年内实现超十倍速增长，持续获得产业和资本的高度认可。    本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、商汤科技、网宿科技、甘肃树帜、常金控、元智未来、清证星竹、小咖资本等跟投，老股东尚势资本继续追投。 这是继今年 7 月完成 A 轮融资后，趋境科技短期内再获大额融资。截至今年10月，趋境科技已在 2026 年连续完成多轮融资。密集的资本跟进背后，既反映出市场对 AI 基础设施赛道长期价值的共识，更源于投资人对趋境科技战略聚焦、技术领先和商业化交付成绩等综合实力的肯定——过去半年，趋境科技不但全面跑通了从技术架构到规模化商业交付的全链路，更是持续引领推理行业的技术演进，以技术创新推动了国产算力的性能大跃升。 本轮募集的资金将重点投向高品质 AI Token",
+      "publishedAt": "2026-10-26T06:50:44Z",
+      "published_at": "2026-10-26T06:50:44Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "e93bb49b",
+      "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/505436.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/505436.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "10月21日，2026世界智能网联汽车大会在北京召开  10月21日，2026世界智能网联汽车大会在北京召开，中国长安汽车集团有限公司总经理、重庆长安汽车股份有限公司董事长赵非出席并发表《AI赋能 数智互联 共筑汽车产业新生态》主题演讲。  对于智能网联汽车全球化发展趋势，赵非提出两大判断： 一是在端侧物理AI领域，汽车将成为落地时间最近、渗透率提升最快、应用规模最大的载体。长安启源Q06上市首月城区领航版订单占比近50%，预计2027年行业实现L3级量产、2028年实现L4级商业化运营。 二是汽车正向陆海空立体出行生态延伸，为产业发展开辟了新的增量空间。 围绕产业变革，赵非分享了中国长安汽车“一体三域”AI变革策略。 开展AI产品行动，打造AI定义汽车的差异化竞争力。长安建有国内唯一、国际领先的智能汽车安全技术全国重点实验室——天枢智能实验中心，并持有国内首张L3级自动驾驶专用正式号牌与重庆L4级无人出租车测试牌照。自研一段式端到端驾驶辅助系统“长安天枢领航”今年正式量产上车，它以安全为核心，打通舱、驾、动、底、控、云六大领域，在核心领域实现软硬件一体化自研，为用户提供平顺可靠的驾乘",
+      "summary_zh": "10月21日，2026世界智能网联汽车大会在北京召开  10月21日，2026世界智能网联汽车大会在北京召开，中国长安汽车集团有限公司总经理、重庆长安汽车股份有限公司董事长赵非出席并发表《AI赋能 数智互联 共筑汽车产业新生态》主题演讲。  对于智能网联汽车全球化发展趋势，赵非提出两大判断： 一是在端侧物理AI领域，汽车将成为落地时间最近、渗透率提升最快、应用规模最大的载体。长安启源Q06上市首月城区领航版订单占比近50%，预计2027年行业实现L3级量产、2028年实现L4级商业化运营。 二是汽车正向陆海空立体出行生态延伸，为产业发展开辟了新的增量空间。 围绕产业变革，赵非分享了中国长安汽车“一体三域”AI变革策略。 开展AI产品行动，打造AI定义汽车的差异化竞争力。长安建有国内唯一、国际领先的智能汽车安全技术全国重点实验室——天枢智能实验中心，并持有国内首张L3级自动驾驶专用正式号牌与重庆L4级无人出租车测试牌照。自研一段式端到端驾驶辅助系统“长安天枢领航”今年正式量产上车，它以安全为核心，打通舱、驾、动、底、控、云六大领域，在核心领域实现软硬件一体化自研，为用户提供平顺可靠的驾乘",
+      "publishedAt": "2026-10-26T08:04:10Z",
+      "published_at": "2026-10-26T08:04:10Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "3f618452",
+      "title": "可可矩阵COCO Matrix发布C",
+      "title_en": "可可矩阵COCO Matrix发布CO01模型：言传身教，让机器人边做边学",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "可可矩阵COCO Matrix发布CO01模型：言传身教，让机器人边做边学",
+      "summary_zh": "可可矩阵COCO Matrix发布CO01模型：言传身教，让机器人边做边学",
+      "publishedAt": "2026-10-26T23:56:52Z",
+      "published_at": "2026-10-26T23:56:52Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

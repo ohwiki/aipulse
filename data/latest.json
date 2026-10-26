@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T15:21:18Z",
-  "generatedAt": "2026-10-26T15:21:18Z",
+  "generated_at": "2026-10-26T23:57:26Z",
+  "generatedAt": "2026-10-26T23:57:26Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "AI Browser that saves your team >100h/week Str",
       "publishedAt": "2026-10-26T07:01:00Z",
       "published_at": "2026-10-26T07:01:00Z",
-      "votes_count": 194,
+      "votes_count": 265,
       "featured": true,
       "topics": [
         {
@@ -55,7 +55,7 @@
       "summary_zh": "AI visuals. Edit every layer. Agent-callable.",
       "publishedAt": "2026-10-26T07:01:00Z",
       "published_at": "2026-10-26T07:01:00Z",
-      "votes_count": 186,
+      "votes_count": 212,
       "featured": true,
       "topics": [
         {
@@ -68,6 +68,34 @@
           "name": "Developer Tools",
           "slug": "developer-tools"
         },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8348f73e",
+      "title": "模型更新：MiniMax M3.1 Fl",
+      "title_en": "MiniMax M3.1 Flash",
+      "url": "https://www.producthunt.com/products/minimax-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/minimax-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "MiniMax’s Flash model, 3x faster and 70% cheap",
+      "summary_zh": "MiniMax’s Flash model, 3x faster and 70% cheap",
+      "publishedAt": "2026-10-26T07:01:00Z",
+      "published_at": "2026-10-26T07:01:00Z",
+      "votes_count": 171,
+      "featured": true,
+      "topics": [
         {
           "id": "268",
           "name": "Artificial Intelligence",
@@ -93,7 +121,7 @@
       "summary_zh": "Beautiful, no-code, on-brand AI chat widgets f",
       "publishedAt": "2026-10-26T07:01:00Z",
       "published_at": "2026-10-26T07:01:00Z",
-      "votes_count": 137,
+      "votes_count": 155,
       "featured": true,
       "topics": [
         {
@@ -112,56 +140,6 @@
           "slug": "no-code"
         }
       ],
-      "score_details": null
-    },
-    {
-      "id": "8348f73e",
-      "title": "模型更新：MiniMax M3.1 Fl",
-      "title_en": "MiniMax M3.1 Flash",
-      "url": "https://www.producthunt.com/products/minimax-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/minimax-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "MiniMax’s Flash model, 3x faster and 70% cheap",
-      "summary_zh": "MiniMax’s Flash model, 3x faster and 70% cheap",
-      "publishedAt": "2026-10-26T07:01:00Z",
-      "published_at": "2026-10-26T07:01:00Z",
-      "votes_count": 130,
-      "featured": true,
-      "topics": [
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "b1e39a8a",
-      "title": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/505365.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/505365.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "AI同事自带工作记忆上岗  求求了，我是让AI来帮忙干活的，不是来给它做入职培训的！ 每次打开AI，准备把手里的活儿甩出去，我那叫一个积极。 然后，还没等我把需求说完就开始难受了。。。 咱群里聊过的、文件里改过的、客户中途变过卦的……这些明明都有记录，一到AI面前—— 得，全部得重新介绍。    翻群聊、找文件、解释背景，资料传完没准儿还得补一句：“客户后来改主意了，别按前面那个写。” AI确实是很聪明，就是带教有亿点点累。 而且，等它终于把东西做好，还得我下载、转发、填系统，通知同事……我本来是想省事，结果自己先当上了资料员兼文件传输助手。 有没有一种可能，AI能在来上班之前，就自己先把工作背景摸清呢。。。    哎，还真让我发现了，腾讯干的这件事，我觉得就很对症下药—— 企业微信与WorkBuddy正式打通，AI直接入驻企微侧边栏和通讯录。 不用跳转外部软件，不用额外下载客户端，企微账号能一键登录，就在你天天在用的那个对话框里直接派活。 更关键的是，它不是白纸一张，授权范围内，你企微里的消息、文件、日程、邮件，它都读得懂、调得动，根本用不着带教。 活干完了，也不用你下载导出、来回转",
-      "summary_zh": "AI同事自带工作记忆上岗  求求了，我是让AI来帮忙干活的，不是来给它做入职培训的！ 每次打开AI，准备把手里的活儿甩出去，我那叫一个积极。 然后，还没等我把需求说完就开始难受了。。。 咱群里聊过的、文件里改过的、客户中途变过卦的……这些明明都有记录，一到AI面前—— 得，全部得重新介绍。    翻群聊、找文件、解释背景，资料传完没准儿还得补一句：“客户后来改主意了，别按前面那个写。” AI确实是很聪明，就是带教有亿点点累。 而且，等它终于把东西做好，还得我下载、转发、填系统，通知同事……我本来是想省事，结果自己先当上了资料员兼文件传输助手。 有没有一种可能，AI能在来上班之前，就自己先把工作背景摸清呢。。。    哎，还真让我发现了，腾讯干的这件事，我觉得就很对症下药—— 企业微信与WorkBuddy正式打通，AI直接入驻企微侧边栏和通讯录。 不用跳转外部软件，不用额外下载客户端，企微账号能一键登录，就在你天天在用的那个对话框里直接派活。 更关键的是，它不是白纸一张，授权范围内，你企微里的消息、文件、日程、邮件，它都读得懂、调得动，根本用不着带教。 活干完了，也不用你下载导出、来回转",
-      "publishedAt": "2026-10-26T06:42:48Z",
-      "published_at": "2026-10-26T06:42:48Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
       "score_details": null
     },
     {
@@ -209,6 +187,28 @@
       "score_details": null
     },
     {
+      "id": "e93bb49b",
+      "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/505436.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/505436.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "10月21日，2026世界智能网联汽车大会在北京召开  10月21日，2026世界智能网联汽车大会在北京召开，中国长安汽车集团有限公司总经理、重庆长安汽车股份有限公司董事长赵非出席并发表《AI赋能 数智互联 共筑汽车产业新生态》主题演讲。  对于智能网联汽车全球化发展趋势，赵非提出两大判断： 一是在端侧物理AI领域，汽车将成为落地时间最近、渗透率提升最快、应用规模最大的载体。长安启源Q06上市首月城区领航版订单占比近50%，预计2027年行业实现L3级量产、2028年实现L4级商业化运营。 二是汽车正向陆海空立体出行生态延伸，为产业发展开辟了新的增量空间。 围绕产业变革，赵非分享了中国长安汽车“一体三域”AI变革策略。 开展AI产品行动，打造AI定义汽车的差异化竞争力。长安建有国内唯一、国际领先的智能汽车安全技术全国重点实验室——天枢智能实验中心，并持有国内首张L3级自动驾驶专用正式号牌与重庆L4级无人出租车测试牌照。自研一段式端到端驾驶辅助系统“长安天枢领航”今年正式量产上车，它以安全为核心，打通舱、驾、动、底、控、云六大领域，在核心领域实现软硬件一体化自研，为用户提供平顺可靠的驾乘",
+      "summary_zh": "10月21日，2026世界智能网联汽车大会在北京召开  10月21日，2026世界智能网联汽车大会在北京召开，中国长安汽车集团有限公司总经理、重庆长安汽车股份有限公司董事长赵非出席并发表《AI赋能 数智互联 共筑汽车产业新生态》主题演讲。  对于智能网联汽车全球化发展趋势，赵非提出两大判断： 一是在端侧物理AI领域，汽车将成为落地时间最近、渗透率提升最快、应用规模最大的载体。长安启源Q06上市首月城区领航版订单占比近50%，预计2027年行业实现L3级量产、2028年实现L4级商业化运营。 二是汽车正向陆海空立体出行生态延伸，为产业发展开辟了新的增量空间。 围绕产业变革，赵非分享了中国长安汽车“一体三域”AI变革策略。 开展AI产品行动，打造AI定义汽车的差异化竞争力。长安建有国内唯一、国际领先的智能汽车安全技术全国重点实验室——天枢智能实验中心，并持有国内首张L3级自动驾驶专用正式号牌与重庆L4级无人出租车测试牌照。自研一段式端到端驾驶辅助系统“长安天枢领航”今年正式量产上车，它以安全为核心，打通舱、驾、动、底、控、云六大领域，在核心领域实现软硬件一体化自研，为用户提供平顺可靠的驾乘",
+      "publishedAt": "2026-10-26T08:04:10Z",
+      "published_at": "2026-10-26T08:04:10Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
       "id": "3f618452",
       "title": "可可矩阵COCO Matrix发布C",
       "title_en": "可可矩阵COCO Matrix发布CO01模型：言传身教，让机器人边做边学",
@@ -223,8 +223,8 @@
       "rankingScore": 5.0,
       "summary": "可可矩阵COCO Matrix发布CO01模型：言传身教，让机器人边做边学",
       "summary_zh": "可可矩阵COCO Matrix发布CO01模型：言传身教，让机器人边做边学",
-      "publishedAt": "2026-10-26T15:20:45Z",
-      "published_at": "2026-10-26T15:20:45Z",
+      "publishedAt": "2026-10-26T23:56:52Z",
+      "published_at": "2026-10-26T23:56:52Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
