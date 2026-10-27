@@ -1,0 +1,493 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-27T23:52:18Z",
+  "generatedAt": "2026-10-27T23:52:18Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "b53538b1",
+          "title": "产品更新：TheySaid 4.0",
+          "title_en": "TheySaid 4.0",
+          "url": "https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "See how users will react, right where you buil",
+          "summary_zh": "See how users will react, right where you buil",
+          "publishedAt": "2026-10-27T07:01:00Z",
+          "published_at": "2026-10-27T07:01:00Z",
+          "votes_count": 317,
+          "featured": true,
+          "topics": [
+            {
+              "id": "93",
+              "name": "User Experience",
+              "slug": "user-experience"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "807",
+              "name": "UX Design",
+              "slug": "ux-design"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d051a29d",
+          "title": "产品更新：Overmind",
+          "title_en": "Overmind",
+          "url": "https://www.producthunt.com/products/overmind-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/overmind-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Open-source platform for continuous learning O",
+          "summary_zh": "Open-source platform for continuous learning O",
+          "publishedAt": "2026-10-27T07:01:00Z",
+          "published_at": "2026-10-27T07:01:00Z",
+          "votes_count": 271,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b8b300a4",
+          "title": "产品更新：Spacesheep",
+          "title_en": "Spacesheep",
+          "url": "https://www.producthunt.com/products/spacesheep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/spacesheep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Documents of the future, made by AI, read by y",
+          "summary_zh": "Documents of the future, made by AI, read by y",
+          "publishedAt": "2026-10-27T07:01:00Z",
+          "published_at": "2026-10-27T07:01:00Z",
+          "votes_count": 181,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6d2532de",
+          "title": "产品更新：SavorApp_AI",
+          "title_en": "SavorApp_AI",
+          "url": "https://www.producthunt.com/products/savor-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/savor-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Capture what matters and move your intentions",
+          "summary_zh": "Capture what matters and move your intentions",
+          "publishedAt": "2026-10-27T07:01:00Z",
+          "published_at": "2026-10-27T07:01:00Z",
+          "votes_count": 141,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "96",
+              "name": "Notes",
+              "slug": "notes"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "5dfe14ad",
+          "title": "2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/505615.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/505615.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "GDPS全球开发者先锋大会将持续推动应用成果落地转化和国际产业交流合作。  10月25日，2026全球开发者先锋大会暨国际具身智能技能大赛在上海张江科学会堂圆满落幕。大会汇聚300余家具身智能本体企业、200余家上下游供应链企业，聚集国内外近百个开源组织与开发者社区，以及500余位青年开发者及行业重磅嘉宾。吸引线下参会者近6万人次，全网发布报道6500余篇、曝光量超60亿次。 大会集中推出“4+X”重大成果，构建具身智能全产业链生态支撑。在应用场景方面，大会揭晓了“国际具身智能技能大赛十大实景赛道”，为具身智能技术落地拓展了广阔空间。在技术评测方面，发布“具身智能评测体系与工具”，为能力评估建立了系统化衡量标准。在供应链协同方面，推出张江南具身智能供应链平台，“一天匹配，三天打样，一周试产”。在产业空间方面，发布张江机器人谷标志建筑，进一步提升区域产业集聚能力。 本届大会营造出开发者广泛参与、国际资源深度链接、产业创新成果集中展示的繁荣生态。为上海打造科技创新高地注入新动能，持续强化上海“开发者之城”的标签与国际化影响力。 三大领域九大赛道 千台机器人上海实战 本届国际具身智能技能大赛",
+          "summary_zh": "GDPS全球开发者先锋大会将持续推动应用成果落地转化和国际产业交流合作。  10月25日，2026全球开发者先锋大会暨国际具身智能技能大赛在上海张江科学会堂圆满落幕。大会汇聚300余家具身智能本体企业、200余家上下游供应链企业，聚集国内外近百个开源组织与开发者社区，以及500余位青年开发者及行业重磅嘉宾。吸引线下参会者近6万人次，全网发布报道6500余篇、曝光量超60亿次。 大会集中推出“4+X”重大成果，构建具身智能全产业链生态支撑。在应用场景方面，大会揭晓了“国际具身智能技能大赛十大实景赛道”，为具身智能技术落地拓展了广阔空间。在技术评测方面，发布“具身智能评测体系与工具”，为能力评估建立了系统化衡量标准。在供应链协同方面，推出张江南具身智能供应链平台，“一天匹配，三天打样，一周试产”。在产业空间方面，发布张江机器人谷标志建筑，进一步提升区域产业集聚能力。 本届大会营造出开发者广泛参与、国际资源深度链接、产业创新成果集中展示的繁荣生态。为上海打造科技创新高地注入新动能，持续强化上海“开发者之城”的标签与国际化影响力。 三大领域九大赛道 千台机器人上海实战 本届国际具身智能技能大赛",
+          "publishedAt": "2026-10-27T07:25:51Z",
+          "published_at": "2026-10-27T07:25:51Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "ceeedcad",
+          "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/505635.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/505635.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐   文档解析赛道，又迎来一位强劲的新选手。 OXR 正式开源：主模型仅 1.3B 参数，在 OmniDocBench、olmOCR-Bench 和 DocParsingBench 三项基准测试中全部登顶，完整解析速度也超过了同场参测的 PaddleOCR-VL-1.6 和 MinerU2.5-Pro，把轻量模型的精度与效率同时推到了榜首。其背后的 SoMark 团队来自国内一家初创公司，深耕于文档智能领域，此前持续围绕核心产品 SoMark 打磨解析能力，如今推出了开源模型 OXR。 OXR 的全称是 Optical Everything Recognition，从 OCR 到 OXR，OXR 要处理的远不止文字。它能够解析表格、公式、化学式等 13 类文档元素，准确还原多栏版面的阅读顺序，输出 Markdown / JSON，并保留版面坐标，让复杂文档成为 Agent 可以继续使用的数据。 1 高精度解析，全球三榜第一 根据团队公布的评测结果，OXR 在 OmniDocBen",
+          "summary_zh": "开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐   文档解析赛道，又迎来一位强劲的新选手。 OXR 正式开源：主模型仅 1.3B 参数，在 OmniDocBench、olmOCR-Bench 和 DocParsingBench 三项基准测试中全部登顶，完整解析速度也超过了同场参测的 PaddleOCR-VL-1.6 和 MinerU2.5-Pro，把轻量模型的精度与效率同时推到了榜首。其背后的 SoMark 团队来自国内一家初创公司，深耕于文档智能领域，此前持续围绕核心产品 SoMark 打磨解析能力，如今推出了开源模型 OXR。 OXR 的全称是 Optical Everything Recognition，从 OCR 到 OXR，OXR 要处理的远不止文字。它能够解析表格、公式、化学式等 13 类文档元素，准确还原多栏版面的阅读顺序，输出 Markdown / JSON，并保留版面坐标，让复杂文档成为 Agent 可以继续使用的数据。 1 高精度解析，全球三榜第一 根据团队公布的评测结果，OXR 在 OmniDocBen",
+          "publishedAt": "2026-10-27T07:41:02Z",
+          "published_at": "2026-10-27T07:41:02Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "ed9d714f",
+          "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/505687.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/505687.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "破解绿电直连项目落地僵局  10月26日，2026国际算电协同产业链展览会（CPE 2026）在上海世博展览馆开幕。达卯科技携全栈算电协同技术产品体系亮相，全景呈现AI能源大模型和智能体集群应用、算电协同2.0平台、预测-调度-交易核心功能引擎、智慧运营运维一体化管理平台等。 达卯科技CEO简煜忞受邀出席主论坛，发表《以能源大脑定义算电协同，构筑AI算力与绿色能源融合新范式》主题演讲，指出绿电直连的破局关键不在电能量净值的零和博弈，而在多市场融合套利，并给出能源AI的系统解题路径；达卯还率先提出E-AIDC能源驱动型智算中心新范式，展现算电协同产业链核心企业的认知高度与解题能力。    做能源与算力的“搭桥人”，破解绿电直连项目落地僵局 绿电直连是算电协同典型落地场景，却长期卡在签约环节。全国已批复绿电直连项目数百个，真正开工落地的仍是少数。 简煜忞在演讲中指出，核心症结在于发电方与算力方只围绕电能量净值讨价还价，为“2毛6还是2毛8”的电价僵持半年；加之自发绿电大发时段与市场低价时段重合、容量电费又难以削减，单靠电量净值双方始终谈不拢，几分钱、几厘钱的价差让项目陷入零和博弈。 达卯科",
+          "summary_zh": "破解绿电直连项目落地僵局  10月26日，2026国际算电协同产业链展览会（CPE 2026）在上海世博展览馆开幕。达卯科技携全栈算电协同技术产品体系亮相，全景呈现AI能源大模型和智能体集群应用、算电协同2.0平台、预测-调度-交易核心功能引擎、智慧运营运维一体化管理平台等。 达卯科技CEO简煜忞受邀出席主论坛，发表《以能源大脑定义算电协同，构筑AI算力与绿色能源融合新范式》主题演讲，指出绿电直连的破局关键不在电能量净值的零和博弈，而在多市场融合套利，并给出能源AI的系统解题路径；达卯还率先提出E-AIDC能源驱动型智算中心新范式，展现算电协同产业链核心企业的认知高度与解题能力。    做能源与算力的“搭桥人”，破解绿电直连项目落地僵局 绿电直连是算电协同典型落地场景，却长期卡在签约环节。全国已批复绿电直连项目数百个，真正开工落地的仍是少数。 简煜忞在演讲中指出，核心症结在于发电方与算力方只围绕电能量净值讨价还价，为“2毛6还是2毛8”的电价僵持半年；加之自发绿电大发时段与市场低价时段重合、容量电费又难以削减，单靠电量净值双方始终谈不拢，几分钱、几厘钱的价差让项目陷入零和博弈。 达卯科",
+          "publishedAt": "2026-10-27T07:44:41Z",
+          "published_at": "2026-10-27T07:44:41Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "df4459fa",
+          "title": "超1800支参赛队伍创纪录，蚂蚁灵波",
+          "title_en": "超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛",
+          "summary_zh": "超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛",
+          "publishedAt": "2026-10-27T23:51:47Z",
+          "published_at": "2026-10-27T23:51:47Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "b53538b1",
+      "title": "产品更新：TheySaid 4.0",
+      "title_en": "TheySaid 4.0",
+      "url": "https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "See how users will react, right where you buil",
+      "summary_zh": "See how users will react, right where you buil",
+      "publishedAt": "2026-10-27T07:01:00Z",
+      "published_at": "2026-10-27T07:01:00Z",
+      "votes_count": 317,
+      "featured": true,
+      "topics": [
+        {
+          "id": "93",
+          "name": "User Experience",
+          "slug": "user-experience"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "807",
+          "name": "UX Design",
+          "slug": "ux-design"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d051a29d",
+      "title": "产品更新：Overmind",
+      "title_en": "Overmind",
+      "url": "https://www.producthunt.com/products/overmind-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/overmind-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Open-source platform for continuous learning O",
+      "summary_zh": "Open-source platform for continuous learning O",
+      "publishedAt": "2026-10-27T07:01:00Z",
+      "published_at": "2026-10-27T07:01:00Z",
+      "votes_count": 271,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b8b300a4",
+      "title": "产品更新：Spacesheep",
+      "title_en": "Spacesheep",
+      "url": "https://www.producthunt.com/products/spacesheep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/spacesheep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Documents of the future, made by AI, read by y",
+      "summary_zh": "Documents of the future, made by AI, read by y",
+      "publishedAt": "2026-10-27T07:01:00Z",
+      "published_at": "2026-10-27T07:01:00Z",
+      "votes_count": 181,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6d2532de",
+      "title": "产品更新：SavorApp_AI",
+      "title_en": "SavorApp_AI",
+      "url": "https://www.producthunt.com/products/savor-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/savor-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Capture what matters and move your intentions",
+      "summary_zh": "Capture what matters and move your intentions",
+      "publishedAt": "2026-10-27T07:01:00Z",
+      "published_at": "2026-10-27T07:01:00Z",
+      "votes_count": 141,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "96",
+          "name": "Notes",
+          "slug": "notes"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5dfe14ad",
+      "title": "2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/505615.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/505615.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "GDPS全球开发者先锋大会将持续推动应用成果落地转化和国际产业交流合作。  10月25日，2026全球开发者先锋大会暨国际具身智能技能大赛在上海张江科学会堂圆满落幕。大会汇聚300余家具身智能本体企业、200余家上下游供应链企业，聚集国内外近百个开源组织与开发者社区，以及500余位青年开发者及行业重磅嘉宾。吸引线下参会者近6万人次，全网发布报道6500余篇、曝光量超60亿次。 大会集中推出“4+X”重大成果，构建具身智能全产业链生态支撑。在应用场景方面，大会揭晓了“国际具身智能技能大赛十大实景赛道”，为具身智能技术落地拓展了广阔空间。在技术评测方面，发布“具身智能评测体系与工具”，为能力评估建立了系统化衡量标准。在供应链协同方面，推出张江南具身智能供应链平台，“一天匹配，三天打样，一周试产”。在产业空间方面，发布张江机器人谷标志建筑，进一步提升区域产业集聚能力。 本届大会营造出开发者广泛参与、国际资源深度链接、产业创新成果集中展示的繁荣生态。为上海打造科技创新高地注入新动能，持续强化上海“开发者之城”的标签与国际化影响力。 三大领域九大赛道 千台机器人上海实战 本届国际具身智能技能大赛",
+      "summary_zh": "GDPS全球开发者先锋大会将持续推动应用成果落地转化和国际产业交流合作。  10月25日，2026全球开发者先锋大会暨国际具身智能技能大赛在上海张江科学会堂圆满落幕。大会汇聚300余家具身智能本体企业、200余家上下游供应链企业，聚集国内外近百个开源组织与开发者社区，以及500余位青年开发者及行业重磅嘉宾。吸引线下参会者近6万人次，全网发布报道6500余篇、曝光量超60亿次。 大会集中推出“4+X”重大成果，构建具身智能全产业链生态支撑。在应用场景方面，大会揭晓了“国际具身智能技能大赛十大实景赛道”，为具身智能技术落地拓展了广阔空间。在技术评测方面，发布“具身智能评测体系与工具”，为能力评估建立了系统化衡量标准。在供应链协同方面，推出张江南具身智能供应链平台，“一天匹配，三天打样，一周试产”。在产业空间方面，发布张江机器人谷标志建筑，进一步提升区域产业集聚能力。 本届大会营造出开发者广泛参与、国际资源深度链接、产业创新成果集中展示的繁荣生态。为上海打造科技创新高地注入新动能，持续强化上海“开发者之城”的标签与国际化影响力。 三大领域九大赛道 千台机器人上海实战 本届国际具身智能技能大赛",
+      "publishedAt": "2026-10-27T07:25:51Z",
+      "published_at": "2026-10-27T07:25:51Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ceeedcad",
+      "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/505635.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/505635.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐   文档解析赛道，又迎来一位强劲的新选手。 OXR 正式开源：主模型仅 1.3B 参数，在 OmniDocBench、olmOCR-Bench 和 DocParsingBench 三项基准测试中全部登顶，完整解析速度也超过了同场参测的 PaddleOCR-VL-1.6 和 MinerU2.5-Pro，把轻量模型的精度与效率同时推到了榜首。其背后的 SoMark 团队来自国内一家初创公司，深耕于文档智能领域，此前持续围绕核心产品 SoMark 打磨解析能力，如今推出了开源模型 OXR。 OXR 的全称是 Optical Everything Recognition，从 OCR 到 OXR，OXR 要处理的远不止文字。它能够解析表格、公式、化学式等 13 类文档元素，准确还原多栏版面的阅读顺序，输出 Markdown / JSON，并保留版面坐标，让复杂文档成为 Agent 可以继续使用的数据。 1 高精度解析，全球三榜第一 根据团队公布的评测结果，OXR 在 OmniDocBen",
+      "summary_zh": "开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐   文档解析赛道，又迎来一位强劲的新选手。 OXR 正式开源：主模型仅 1.3B 参数，在 OmniDocBench、olmOCR-Bench 和 DocParsingBench 三项基准测试中全部登顶，完整解析速度也超过了同场参测的 PaddleOCR-VL-1.6 和 MinerU2.5-Pro，把轻量模型的精度与效率同时推到了榜首。其背后的 SoMark 团队来自国内一家初创公司，深耕于文档智能领域，此前持续围绕核心产品 SoMark 打磨解析能力，如今推出了开源模型 OXR。 OXR 的全称是 Optical Everything Recognition，从 OCR 到 OXR，OXR 要处理的远不止文字。它能够解析表格、公式、化学式等 13 类文档元素，准确还原多栏版面的阅读顺序，输出 Markdown / JSON，并保留版面坐标，让复杂文档成为 Agent 可以继续使用的数据。 1 高精度解析，全球三榜第一 根据团队公布的评测结果，OXR 在 OmniDocBen",
+      "publishedAt": "2026-10-27T07:41:02Z",
+      "published_at": "2026-10-27T07:41:02Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "ed9d714f",
+      "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/505687.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/505687.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "破解绿电直连项目落地僵局  10月26日，2026国际算电协同产业链展览会（CPE 2026）在上海世博展览馆开幕。达卯科技携全栈算电协同技术产品体系亮相，全景呈现AI能源大模型和智能体集群应用、算电协同2.0平台、预测-调度-交易核心功能引擎、智慧运营运维一体化管理平台等。 达卯科技CEO简煜忞受邀出席主论坛，发表《以能源大脑定义算电协同，构筑AI算力与绿色能源融合新范式》主题演讲，指出绿电直连的破局关键不在电能量净值的零和博弈，而在多市场融合套利，并给出能源AI的系统解题路径；达卯还率先提出E-AIDC能源驱动型智算中心新范式，展现算电协同产业链核心企业的认知高度与解题能力。    做能源与算力的“搭桥人”，破解绿电直连项目落地僵局 绿电直连是算电协同典型落地场景，却长期卡在签约环节。全国已批复绿电直连项目数百个，真正开工落地的仍是少数。 简煜忞在演讲中指出，核心症结在于发电方与算力方只围绕电能量净值讨价还价，为“2毛6还是2毛8”的电价僵持半年；加之自发绿电大发时段与市场低价时段重合、容量电费又难以削减，单靠电量净值双方始终谈不拢，几分钱、几厘钱的价差让项目陷入零和博弈。 达卯科",
+      "summary_zh": "破解绿电直连项目落地僵局  10月26日，2026国际算电协同产业链展览会（CPE 2026）在上海世博展览馆开幕。达卯科技携全栈算电协同技术产品体系亮相，全景呈现AI能源大模型和智能体集群应用、算电协同2.0平台、预测-调度-交易核心功能引擎、智慧运营运维一体化管理平台等。 达卯科技CEO简煜忞受邀出席主论坛，发表《以能源大脑定义算电协同，构筑AI算力与绿色能源融合新范式》主题演讲，指出绿电直连的破局关键不在电能量净值的零和博弈，而在多市场融合套利，并给出能源AI的系统解题路径；达卯还率先提出E-AIDC能源驱动型智算中心新范式，展现算电协同产业链核心企业的认知高度与解题能力。    做能源与算力的“搭桥人”，破解绿电直连项目落地僵局 绿电直连是算电协同典型落地场景，却长期卡在签约环节。全国已批复绿电直连项目数百个，真正开工落地的仍是少数。 简煜忞在演讲中指出，核心症结在于发电方与算力方只围绕电能量净值讨价还价，为“2毛6还是2毛8”的电价僵持半年；加之自发绿电大发时段与市场低价时段重合、容量电费又难以削减，单靠电量净值双方始终谈不拢，几分钱、几厘钱的价差让项目陷入零和博弈。 达卯科",
+      "publishedAt": "2026-10-27T07:44:41Z",
+      "published_at": "2026-10-27T07:44:41Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "df4459fa",
+      "title": "超1800支参赛队伍创纪录，蚂蚁灵波",
+      "title_en": "超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛",
+      "summary_zh": "超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛",
+      "publishedAt": "2026-10-27T23:51:47Z",
+      "published_at": "2026-10-27T23:51:47Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

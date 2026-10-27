@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-10-27T14:47:03Z",
-  "generatedAt": "2026-10-27T14:47:03Z",
-  "count": 168,
-  "total": 168,
+  "generated_at": "2026-10-27T23:52:18Z",
+  "generatedAt": "2026-10-27T23:52:18Z",
+  "count": 169,
+  "total": 169,
   "entries": [
+    {
+      "date": "2026-10-28",
+      "generated_at": "2026-10-27T23:52:18Z",
+      "generatedAt": "2026-10-27T23:52:18Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "b53538b1",
+          "title": "产品更新：TheySaid 4.0",
+          "title_en": "TheySaid 4.0",
+          "url": "https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "See how users will react, right where you buil",
+          "summary_zh": "See how users will react, right where you buil",
+          "publishedAt": "2026-10-27T07:01:00Z",
+          "published_at": "2026-10-27T07:01:00Z",
+          "votes_count": 317,
+          "featured": true,
+          "topics": [
+            {
+              "id": "93",
+              "name": "User Experience",
+              "slug": "user-experience"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "807",
+              "name": "UX Design",
+              "slug": "ux-design"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d051a29d",
+          "title": "产品更新：Overmind",
+          "title_en": "Overmind",
+          "url": "https://www.producthunt.com/products/overmind-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/overmind-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Open-source platform for continuous learning O",
+          "summary_zh": "Open-source platform for continuous learning O",
+          "publishedAt": "2026-10-27T07:01:00Z",
+          "published_at": "2026-10-27T07:01:00Z",
+          "votes_count": 271,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b8b300a4",
+          "title": "产品更新：Spacesheep",
+          "title_en": "Spacesheep",
+          "url": "https://www.producthunt.com/products/spacesheep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/spacesheep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Documents of the future, made by AI, read by y",
+          "summary_zh": "Documents of the future, made by AI, read by y",
+          "publishedAt": "2026-10-27T07:01:00Z",
+          "published_at": "2026-10-27T07:01:00Z",
+          "votes_count": 181,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-27",
       "generated_at": "2026-10-27T14:47:03Z",

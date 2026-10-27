@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T14:47:03Z",
-  "generatedAt": "2026-10-27T14:47:03Z",
+  "generated_at": "2026-10-27T23:52:18Z",
+  "generatedAt": "2026-10-27T23:52:18Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "b53538b1",
@@ -22,7 +22,7 @@
       "summary_zh": "See how users will react, right where you buil",
       "publishedAt": "2026-10-27T07:01:00Z",
       "published_at": "2026-10-27T07:01:00Z",
-      "votes_count": 205,
+      "votes_count": 317,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Open-source platform for continuous learning O",
       "publishedAt": "2026-10-27T07:01:00Z",
       "published_at": "2026-10-27T07:01:00Z",
-      "votes_count": 193,
+      "votes_count": 271,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "Documents of the future, made by AI, read by y",
       "publishedAt": "2026-10-27T07:01:00Z",
       "published_at": "2026-10-27T07:01:00Z",
-      "votes_count": 146,
+      "votes_count": 181,
       "featured": true,
       "topics": [
         {
@@ -115,6 +115,39 @@
           "id": "268",
           "name": "Artificial Intelligence",
           "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6d2532de",
+      "title": "产品更新：SavorApp_AI",
+      "title_en": "SavorApp_AI",
+      "url": "https://www.producthunt.com/products/savor-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/savor-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Capture what matters and move your intentions",
+      "summary_zh": "Capture what matters and move your intentions",
+      "publishedAt": "2026-10-27T07:01:00Z",
+      "published_at": "2026-10-27T07:01:00Z",
+      "votes_count": 141,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "96",
+          "name": "Notes",
+          "slug": "notes"
         }
       ],
       "score_details": null
@@ -186,9 +219,9 @@
       "score_details": null
     },
     {
-      "id": "36d967f3",
-      "title": "语音输入卷到了新高度：说一句意图，给",
-      "title_en": "语音输入卷到了新高度：说一句意图，给你一份成稿",
+      "id": "df4459fa",
+      "title": "超1800支参赛队伍创纪录，蚂蚁灵波",
+      "title_en": "超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -198,10 +231,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "语音输入卷到了新高度：说一句意图，给你一份成稿",
-      "summary_zh": "语音输入卷到了新高度：说一句意图，给你一份成稿",
-      "publishedAt": "2026-10-27T14:46:16Z",
-      "published_at": "2026-10-27T14:46:16Z",
+      "summary": "超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛",
+      "summary_zh": "超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛",
+      "publishedAt": "2026-10-27T23:51:47Z",
+      "published_at": "2026-10-27T23:51:47Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
