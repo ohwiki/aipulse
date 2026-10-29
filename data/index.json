@@ -1,105 +1,110 @@
 {
-  "generated_at": "2026-10-29T00:05:16Z",
-  "generatedAt": "2026-10-29T00:05:16Z",
+  "generated_at": "2026-10-29T15:22:45Z",
+  "generatedAt": "2026-10-29T15:22:45Z",
   "count": 170,
   "total": 170,
   "entries": [
     {
       "date": "2026-10-29",
-      "generated_at": "2026-10-29T00:05:16Z",
-      "generatedAt": "2026-10-29T00:05:16Z",
-      "total": 8,
+      "generated_at": "2026-10-29T15:22:45Z",
+      "generatedAt": "2026-10-29T15:22:45Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "fee3e072",
-          "title": "产品更新：Dedica",
-          "title_en": "Dedica",
-          "url": "https://www.producthunt.com/products/dedica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "72b9e3f9",
+          "title": "产品更新：Empacer",
+          "title_en": "Empacer",
+          "url": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/dedica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Check if AI agents can use your website Dedica",
-          "summary_zh": "Check if AI agents can use your website Dedica",
-          "publishedAt": "2026-10-28T07:01:00Z",
-          "published_at": "2026-10-28T07:01:00Z",
-          "votes_count": 260,
+          "summary": "The voice-first assistant for small business o",
+          "summary_zh": "The voice-first assistant for small business o",
+          "publishedAt": "2026-10-29T07:01:00Z",
+          "published_at": "2026-10-29T07:01:00Z",
+          "votes_count": 301,
           "featured": true,
           "topics": [
             {
-              "id": "243",
-              "name": "Website Builder",
-              "slug": "website-builder"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
         },
         {
-          "id": "bff0cdca",
-          "title": "产品更新：bytemail",
-          "title_en": "bytemail",
-          "url": "https://www.producthunt.com/products/bytemail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "9236e07a",
+          "title": "产品更新：Scape",
+          "title_en": "Scape",
+          "url": "https://www.producthunt.com/products/scape-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/bytemail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/scape-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Native Mac email: every inbox, in your notch,",
-          "summary_zh": "Native Mac email: every inbox, in your notch,",
-          "publishedAt": "2026-10-28T07:01:00Z",
-          "published_at": "2026-10-28T07:01:00Z",
-          "votes_count": 237,
+          "summary": "An intelligent email inbox that works for you",
+          "summary_zh": "An intelligent email inbox that works for you",
+          "publishedAt": "2026-10-29T07:01:00Z",
+          "published_at": "2026-10-29T07:01:00Z",
+          "votes_count": 200,
           "featured": true,
           "topics": [
-            {
-              "id": "19",
-              "name": "Mac",
-              "slug": "mac"
-            },
             {
               "id": "39",
               "name": "Email",
               "slug": "email"
             },
             {
-              "id": "248",
-              "name": "Privacy",
-              "slug": "privacy"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "802",
+              "name": "Design",
+              "slug": "design"
             }
           ],
           "score_details": null
         },
         {
-          "id": "cfd77fff",
-          "title": "产品更新：BotGauge",
-          "title_en": "BotGauge",
-          "url": "https://www.producthunt.com/products/botgauge-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "35e36de4",
+          "title": "产品更新：Floot in ChatGP",
+          "title_en": "Floot in ChatGPT",
+          "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/botgauge-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "The trust layer for your agents AI agents don'",
-          "summary_zh": "The trust layer for your agents AI agents don'",
-          "publishedAt": "2026-10-28T07:01:00Z",
-          "published_at": "2026-10-28T07:01:00Z",
-          "votes_count": 209,
+          "summary": "Build and publish real apps without leaving Ch",
+          "summary_zh": "Build and publish real apps without leaving Ch",
+          "publishedAt": "2026-10-29T07:01:00Z",
+          "published_at": "2026-10-29T07:01:00Z",
+          "votes_count": 126,
           "featured": true,
           "topics": [
             {
@@ -113,9 +118,9 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "865",
-              "name": "Security",
-              "slug": "security"
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
             }
           ],
           "score_details": null
