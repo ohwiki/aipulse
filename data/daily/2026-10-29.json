@@ -1,0 +1,493 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T00:05:16Z",
+  "generatedAt": "2026-10-29T00:05:16Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "fee3e072",
+          "title": "产品更新：Dedica",
+          "title_en": "Dedica",
+          "url": "https://www.producthunt.com/products/dedica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/dedica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Check if AI agents can use your website Dedica",
+          "summary_zh": "Check if AI agents can use your website Dedica",
+          "publishedAt": "2026-10-28T07:01:00Z",
+          "published_at": "2026-10-28T07:01:00Z",
+          "votes_count": 260,
+          "featured": true,
+          "topics": [
+            {
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "bff0cdca",
+          "title": "产品更新：bytemail",
+          "title_en": "bytemail",
+          "url": "https://www.producthunt.com/products/bytemail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/bytemail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Native Mac email: every inbox, in your notch,",
+          "summary_zh": "Native Mac email: every inbox, in your notch,",
+          "publishedAt": "2026-10-28T07:01:00Z",
+          "published_at": "2026-10-28T07:01:00Z",
+          "votes_count": 237,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "248",
+              "name": "Privacy",
+              "slug": "privacy"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cfd77fff",
+          "title": "产品更新：BotGauge",
+          "title_en": "BotGauge",
+          "url": "https://www.producthunt.com/products/botgauge-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/botgauge-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The trust layer for your agents AI agents don'",
+          "summary_zh": "The trust layer for your agents AI agents don'",
+          "publishedAt": "2026-10-28T07:01:00Z",
+          "published_at": "2026-10-28T07:01:00Z",
+          "votes_count": 209,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8afdfa52",
+          "title": "产品更新：Fraud Blocker",
+          "title_en": "Fraud Blocker",
+          "url": "https://www.producthunt.com/products/fraud-blocker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/fraud-blocker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI ad fraud protection for Google and Meta ads",
+          "summary_zh": "AI ad fraud protection for Google and Meta ads",
+          "publishedAt": "2026-10-28T07:01:00Z",
+          "published_at": "2026-10-28T07:01:00Z",
+          "votes_count": 195,
+          "featured": true,
+          "topics": [
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "839",
+              "name": "Marketing automation",
+              "slug": "marketing-automation"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "72b797aa",
+          "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/505928.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/505928.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。  10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。新版本在 Ling-3.1-flash 基础上进一步训练优化，在智能指数Artificial Analysis Intelligence Index v4.3.2 中获得44分，较上一版本提升3分。与此同时，百灵同步开源其基础模型 Ling-3.1-flash-base，为长程任务所需的知识、推理和计算效率打好基础。  据了解，Ling-3.1-flash-1019 版本面向 Personal Agent 场景，进一步提升了模型处理复杂工作流和多步骤任务的表现。从测评具体来看，新版本在复杂知识工作AA-Briefcase 中的得分从约1400 Elo提升至1524 Elo，GDPval-AA从约1618 Elo提升至1644 Elo；流程自动化AutomationBench-AA得分从62%提升至68%；科学问题求解CritPt得分从18%提升至26%，SciCode得分从54%提升至57%。 记者注意到，百",
+          "summary_zh": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。  10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。新版本在 Ling-3.1-flash 基础上进一步训练优化，在智能指数Artificial Analysis Intelligence Index v4.3.2 中获得44分，较上一版本提升3分。与此同时，百灵同步开源其基础模型 Ling-3.1-flash-base，为长程任务所需的知识、推理和计算效率打好基础。  据了解，Ling-3.1-flash-1019 版本面向 Personal Agent 场景，进一步提升了模型处理复杂工作流和多步骤任务的表现。从测评具体来看，新版本在复杂知识工作AA-Briefcase 中的得分从约1400 Elo提升至1524 Elo，GDPval-AA从约1618 Elo提升至1644 Elo；流程自动化AutomationBench-AA得分从62%提升至68%；科学问题求解CritPt得分从18%提升至26%，SciCode得分从54%提升至57%。 记者注意到，百",
+          "publishedAt": "2026-10-28T04:04:48Z",
+          "published_at": "2026-10-28T04:04:48Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "5b2351f6",
+          "title": "中国AI刷爆英伟达GPU性能榜，这家公司拿下88项第一",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/505956.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/505956.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Agent开始参与GPU底层算子优化  近日，在NVIDIA Research推出的GPU算子性能评测榜单SOL-ExecBench [1] 上，无问芯穹（Infinigence AI）取得亮眼成绩： 先后登顶L1基础算子、L2融合算子、Quant量化算子与FlashInfer-Bench推理算子全部四大赛道。     SOL-ExecBench是什么？ SOL-ExecBench是NVIDIA Research于2026年3月19日推出的算子优化Benchmark。SOL是Speed of Light的缩写，意为“光速”，在这里指代基于硬件能力推导出的理论性能边界。 与传统评测主要比较相对软件基线的加速效果不同，SOL-ExecBench引入了以硬件性能上限为参照的SOL Score，并在高性能计算卡上进行实际测试。 榜单包含从124个真实及前沿AI模型中提取的235道算子优化题目，覆盖语言、视觉、语音、视频及多模态等领域，并划分为四大赛道：  L1基础算子：考察基础计算模块的高效实现。 L2融合算子：考察多个计算步骤的融合执行与协同优化，减少访存、数据搬运和执行开销。 Quant量",
+          "summary_zh": "Agent开始参与GPU底层算子优化  近日，在NVIDIA Research推出的GPU算子性能评测榜单SOL-ExecBench [1] 上，无问芯穹（Infinigence AI）取得亮眼成绩： 先后登顶L1基础算子、L2融合算子、Quant量化算子与FlashInfer-Bench推理算子全部四大赛道。     SOL-ExecBench是什么？ SOL-ExecBench是NVIDIA Research于2026年3月19日推出的算子优化Benchmark。SOL是Speed of Light的缩写，意为“光速”，在这里指代基于硬件能力推导出的理论性能边界。 与传统评测主要比较相对软件基线的加速效果不同，SOL-ExecBench引入了以硬件性能上限为参照的SOL Score，并在高性能计算卡上进行实际测试。 榜单包含从124个真实及前沿AI模型中提取的235道算子优化题目，覆盖语言、视觉、语音、视频及多模态等领域，并划分为四大赛道：  L1基础算子：考察基础计算模块的高效实现。 L2融合算子：考察多个计算步骤的融合执行与协同优化，减少访存、数据搬运和执行开销。 Quant量",
+          "publishedAt": "2026-10-28T08:00:39Z",
+          "published_at": "2026-10-28T08:00:39Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "6ef869ba",
+          "title": "四川最牛便利连锁超市搞机器人售货，黄了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/505955.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/505955.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "来到真实的货架前，机器人依然表现得笨拙与无措。  乔迟 发自ROBO-人 编辑｜李欢欢 量子位ROBO | 公众号AI4ROBO 会打拳、能跳舞，对机器人来说，已经是旧闻，能叠衣服、做冰淇凌才是新亮点。 如今，它们在零售仓卖饮料、冰淇凌店里卖甜筒，上班上得有模有样。 但是一家老牌零售商却在这波热潮中狠狠栽了跟头。 2025年3月，四川社区便利店龙头红旗连锁发公告称，要和机器人公司一起立项研发“机器人无人售货系统”。 消息一出，资本市场一度沸腾，公司股价次日涨停，截至4月23日收盘，股价较公告前上涨约35.0%。 市场对“传统便利店+机器人店员”的想象被彻底点燃。    △图片由AI生成 然而研发16个月后，项目却宣告终止。 因为他们发现，即使在实验室锤炼成千上万次，来到真实的货架前，机器人依然表现得笨拙与无措。 但在具身智能行业，机器人零售已经成为多个具身公司青睐的落地场景，热门景区和繁华商圈纷纷出现“打工”的机器人。 机器人顺利上岗了吗？真实情况是怎样的呢？ 红旗想让机器人卖货，“这事还是想得太简单了” 面对资本市场的热情，红旗却不得不亲自浇下一盆冷水。 2026年7月初，红旗发公告",
+          "summary_zh": "来到真实的货架前，机器人依然表现得笨拙与无措。  乔迟 发自ROBO-人 编辑｜李欢欢 量子位ROBO | 公众号AI4ROBO 会打拳、能跳舞，对机器人来说，已经是旧闻，能叠衣服、做冰淇凌才是新亮点。 如今，它们在零售仓卖饮料、冰淇凌店里卖甜筒，上班上得有模有样。 但是一家老牌零售商却在这波热潮中狠狠栽了跟头。 2025年3月，四川社区便利店龙头红旗连锁发公告称，要和机器人公司一起立项研发“机器人无人售货系统”。 消息一出，资本市场一度沸腾，公司股价次日涨停，截至4月23日收盘，股价较公告前上涨约35.0%。 市场对“传统便利店+机器人店员”的想象被彻底点燃。    △图片由AI生成 然而研发16个月后，项目却宣告终止。 因为他们发现，即使在实验室锤炼成千上万次，来到真实的货架前，机器人依然表现得笨拙与无措。 但在具身智能行业，机器人零售已经成为多个具身公司青睐的落地场景，热门景区和繁华商圈纷纷出现“打工”的机器人。 机器人顺利上岗了吗？真实情况是怎样的呢？ 红旗想让机器人卖货，“这事还是想得太简单了” 面对资本市场的热情，红旗却不得不亲自浇下一盆冷水。 2026年7月初，红旗发公告",
+          "publishedAt": "2026-10-28T08:00:43Z",
+          "published_at": "2026-10-28T08:00:43Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "1587507e",
+          "title": "清华27岁助理教授杀入AI自进化赛道",
+          "title_en": "清华27岁助理教授杀入AI自进化赛道！首个35B模型刚刚亮相",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "清华27岁助理教授杀入AI自进化赛道！首个35B模型刚刚亮相",
+          "summary_zh": "清华27岁助理教授杀入AI自进化赛道！首个35B模型刚刚亮相",
+          "publishedAt": "2026-10-29T00:04:53Z",
+          "published_at": "2026-10-29T00:04:53Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "fee3e072",
+      "title": "产品更新：Dedica",
+      "title_en": "Dedica",
+      "url": "https://www.producthunt.com/products/dedica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/dedica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Check if AI agents can use your website Dedica",
+      "summary_zh": "Check if AI agents can use your website Dedica",
+      "publishedAt": "2026-10-28T07:01:00Z",
+      "published_at": "2026-10-28T07:01:00Z",
+      "votes_count": 260,
+      "featured": true,
+      "topics": [
+        {
+          "id": "243",
+          "name": "Website Builder",
+          "slug": "website-builder"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "bff0cdca",
+      "title": "产品更新：bytemail",
+      "title_en": "bytemail",
+      "url": "https://www.producthunt.com/products/bytemail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/bytemail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Native Mac email: every inbox, in your notch,",
+      "summary_zh": "Native Mac email: every inbox, in your notch,",
+      "publishedAt": "2026-10-28T07:01:00Z",
+      "published_at": "2026-10-28T07:01:00Z",
+      "votes_count": 237,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "248",
+          "name": "Privacy",
+          "slug": "privacy"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "cfd77fff",
+      "title": "产品更新：BotGauge",
+      "title_en": "BotGauge",
+      "url": "https://www.producthunt.com/products/botgauge-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/botgauge-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The trust layer for your agents AI agents don'",
+      "summary_zh": "The trust layer for your agents AI agents don'",
+      "publishedAt": "2026-10-28T07:01:00Z",
+      "published_at": "2026-10-28T07:01:00Z",
+      "votes_count": 209,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "865",
+          "name": "Security",
+          "slug": "security"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "8afdfa52",
+      "title": "产品更新：Fraud Blocker",
+      "title_en": "Fraud Blocker",
+      "url": "https://www.producthunt.com/products/fraud-blocker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/fraud-blocker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI ad fraud protection for Google and Meta ads",
+      "summary_zh": "AI ad fraud protection for Google and Meta ads",
+      "publishedAt": "2026-10-28T07:01:00Z",
+      "published_at": "2026-10-28T07:01:00Z",
+      "votes_count": 195,
+      "featured": true,
+      "topics": [
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        },
+        {
+          "id": "839",
+          "name": "Marketing automation",
+          "slug": "marketing-automation"
+        },
+        {
+          "id": "865",
+          "name": "Security",
+          "slug": "security"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "72b797aa",
+      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/505928.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/505928.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。  10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。新版本在 Ling-3.1-flash 基础上进一步训练优化，在智能指数Artificial Analysis Intelligence Index v4.3.2 中获得44分，较上一版本提升3分。与此同时，百灵同步开源其基础模型 Ling-3.1-flash-base，为长程任务所需的知识、推理和计算效率打好基础。  据了解，Ling-3.1-flash-1019 版本面向 Personal Agent 场景，进一步提升了模型处理复杂工作流和多步骤任务的表现。从测评具体来看，新版本在复杂知识工作AA-Briefcase 中的得分从约1400 Elo提升至1524 Elo，GDPval-AA从约1618 Elo提升至1644 Elo；流程自动化AutomationBench-AA得分从62%提升至68%；科学问题求解CritPt得分从18%提升至26%，SciCode得分从54%提升至57%。 记者注意到，百",
+      "summary_zh": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。  10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。新版本在 Ling-3.1-flash 基础上进一步训练优化，在智能指数Artificial Analysis Intelligence Index v4.3.2 中获得44分，较上一版本提升3分。与此同时，百灵同步开源其基础模型 Ling-3.1-flash-base，为长程任务所需的知识、推理和计算效率打好基础。  据了解，Ling-3.1-flash-1019 版本面向 Personal Agent 场景，进一步提升了模型处理复杂工作流和多步骤任务的表现。从测评具体来看，新版本在复杂知识工作AA-Briefcase 中的得分从约1400 Elo提升至1524 Elo，GDPval-AA从约1618 Elo提升至1644 Elo；流程自动化AutomationBench-AA得分从62%提升至68%；科学问题求解CritPt得分从18%提升至26%，SciCode得分从54%提升至57%。 记者注意到，百",
+      "publishedAt": "2026-10-28T04:04:48Z",
+      "published_at": "2026-10-28T04:04:48Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "5b2351f6",
+      "title": "中国AI刷爆英伟达GPU性能榜，这家公司拿下88项第一",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/505956.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/505956.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Agent开始参与GPU底层算子优化  近日，在NVIDIA Research推出的GPU算子性能评测榜单SOL-ExecBench [1] 上，无问芯穹（Infinigence AI）取得亮眼成绩： 先后登顶L1基础算子、L2融合算子、Quant量化算子与FlashInfer-Bench推理算子全部四大赛道。     SOL-ExecBench是什么？ SOL-ExecBench是NVIDIA Research于2026年3月19日推出的算子优化Benchmark。SOL是Speed of Light的缩写，意为“光速”，在这里指代基于硬件能力推导出的理论性能边界。 与传统评测主要比较相对软件基线的加速效果不同，SOL-ExecBench引入了以硬件性能上限为参照的SOL Score，并在高性能计算卡上进行实际测试。 榜单包含从124个真实及前沿AI模型中提取的235道算子优化题目，覆盖语言、视觉、语音、视频及多模态等领域，并划分为四大赛道：  L1基础算子：考察基础计算模块的高效实现。 L2融合算子：考察多个计算步骤的融合执行与协同优化，减少访存、数据搬运和执行开销。 Quant量",
+      "summary_zh": "Agent开始参与GPU底层算子优化  近日，在NVIDIA Research推出的GPU算子性能评测榜单SOL-ExecBench [1] 上，无问芯穹（Infinigence AI）取得亮眼成绩： 先后登顶L1基础算子、L2融合算子、Quant量化算子与FlashInfer-Bench推理算子全部四大赛道。     SOL-ExecBench是什么？ SOL-ExecBench是NVIDIA Research于2026年3月19日推出的算子优化Benchmark。SOL是Speed of Light的缩写，意为“光速”，在这里指代基于硬件能力推导出的理论性能边界。 与传统评测主要比较相对软件基线的加速效果不同，SOL-ExecBench引入了以硬件性能上限为参照的SOL Score，并在高性能计算卡上进行实际测试。 榜单包含从124个真实及前沿AI模型中提取的235道算子优化题目，覆盖语言、视觉、语音、视频及多模态等领域，并划分为四大赛道：  L1基础算子：考察基础计算模块的高效实现。 L2融合算子：考察多个计算步骤的融合执行与协同优化，减少访存、数据搬运和执行开销。 Quant量",
+      "publishedAt": "2026-10-28T08:00:39Z",
+      "published_at": "2026-10-28T08:00:39Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "6ef869ba",
+      "title": "四川最牛便利连锁超市搞机器人售货，黄了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/505955.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/505955.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "来到真实的货架前，机器人依然表现得笨拙与无措。  乔迟 发自ROBO-人 编辑｜李欢欢 量子位ROBO | 公众号AI4ROBO 会打拳、能跳舞，对机器人来说，已经是旧闻，能叠衣服、做冰淇凌才是新亮点。 如今，它们在零售仓卖饮料、冰淇凌店里卖甜筒，上班上得有模有样。 但是一家老牌零售商却在这波热潮中狠狠栽了跟头。 2025年3月，四川社区便利店龙头红旗连锁发公告称，要和机器人公司一起立项研发“机器人无人售货系统”。 消息一出，资本市场一度沸腾，公司股价次日涨停，截至4月23日收盘，股价较公告前上涨约35.0%。 市场对“传统便利店+机器人店员”的想象被彻底点燃。    △图片由AI生成 然而研发16个月后，项目却宣告终止。 因为他们发现，即使在实验室锤炼成千上万次，来到真实的货架前，机器人依然表现得笨拙与无措。 但在具身智能行业，机器人零售已经成为多个具身公司青睐的落地场景，热门景区和繁华商圈纷纷出现“打工”的机器人。 机器人顺利上岗了吗？真实情况是怎样的呢？ 红旗想让机器人卖货，“这事还是想得太简单了” 面对资本市场的热情，红旗却不得不亲自浇下一盆冷水。 2026年7月初，红旗发公告",
+      "summary_zh": "来到真实的货架前，机器人依然表现得笨拙与无措。  乔迟 发自ROBO-人 编辑｜李欢欢 量子位ROBO | 公众号AI4ROBO 会打拳、能跳舞，对机器人来说，已经是旧闻，能叠衣服、做冰淇凌才是新亮点。 如今，它们在零售仓卖饮料、冰淇凌店里卖甜筒，上班上得有模有样。 但是一家老牌零售商却在这波热潮中狠狠栽了跟头。 2025年3月，四川社区便利店龙头红旗连锁发公告称，要和机器人公司一起立项研发“机器人无人售货系统”。 消息一出，资本市场一度沸腾，公司股价次日涨停，截至4月23日收盘，股价较公告前上涨约35.0%。 市场对“传统便利店+机器人店员”的想象被彻底点燃。    △图片由AI生成 然而研发16个月后，项目却宣告终止。 因为他们发现，即使在实验室锤炼成千上万次，来到真实的货架前，机器人依然表现得笨拙与无措。 但在具身智能行业，机器人零售已经成为多个具身公司青睐的落地场景，热门景区和繁华商圈纷纷出现“打工”的机器人。 机器人顺利上岗了吗？真实情况是怎样的呢？ 红旗想让机器人卖货，“这事还是想得太简单了” 面对资本市场的热情，红旗却不得不亲自浇下一盆冷水。 2026年7月初，红旗发公告",
+      "publishedAt": "2026-10-28T08:00:43Z",
+      "published_at": "2026-10-28T08:00:43Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "1587507e",
+      "title": "清华27岁助理教授杀入AI自进化赛道",
+      "title_en": "清华27岁助理教授杀入AI自进化赛道！首个35B模型刚刚亮相",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "清华27岁助理教授杀入AI自进化赛道！首个35B模型刚刚亮相",
+      "summary_zh": "清华27岁助理教授杀入AI自进化赛道！首个35B模型刚刚亮相",
+      "publishedAt": "2026-10-29T00:04:53Z",
+      "published_at": "2026-10-29T00:04:53Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

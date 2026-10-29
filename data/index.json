@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-10-28T15:17:58Z",
-  "generatedAt": "2026-10-28T15:17:58Z",
-  "count": 169,
-  "total": 169,
+  "generated_at": "2026-10-29T00:05:16Z",
+  "generatedAt": "2026-10-29T00:05:16Z",
+  "count": 170,
+  "total": 170,
   "entries": [
+    {
+      "date": "2026-10-29",
+      "generated_at": "2026-10-29T00:05:16Z",
+      "generatedAt": "2026-10-29T00:05:16Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "fee3e072",
+          "title": "产品更新：Dedica",
+          "title_en": "Dedica",
+          "url": "https://www.producthunt.com/products/dedica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/dedica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Check if AI agents can use your website Dedica",
+          "summary_zh": "Check if AI agents can use your website Dedica",
+          "publishedAt": "2026-10-28T07:01:00Z",
+          "published_at": "2026-10-28T07:01:00Z",
+          "votes_count": 260,
+          "featured": true,
+          "topics": [
+            {
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "bff0cdca",
+          "title": "产品更新：bytemail",
+          "title_en": "bytemail",
+          "url": "https://www.producthunt.com/products/bytemail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/bytemail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Native Mac email: every inbox, in your notch,",
+          "summary_zh": "Native Mac email: every inbox, in your notch,",
+          "publishedAt": "2026-10-28T07:01:00Z",
+          "published_at": "2026-10-28T07:01:00Z",
+          "votes_count": 237,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "248",
+              "name": "Privacy",
+              "slug": "privacy"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "cfd77fff",
+          "title": "产品更新：BotGauge",
+          "title_en": "BotGauge",
+          "url": "https://www.producthunt.com/products/botgauge-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/botgauge-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The trust layer for your agents AI agents don'",
+          "summary_zh": "The trust layer for your agents AI agents don'",
+          "publishedAt": "2026-10-28T07:01:00Z",
+          "published_at": "2026-10-28T07:01:00Z",
+          "votes_count": 209,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-28",
       "generated_at": "2026-10-28T15:17:58Z",
