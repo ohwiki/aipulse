@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-10-30T15:10:17Z",
-  "generatedAt": "2026-10-30T15:10:17Z",
-  "count": 171,
-  "total": 171,
+  "generated_at": "2026-10-30T23:55:24Z",
+  "generatedAt": "2026-10-30T23:55:24Z",
+  "count": 172,
+  "total": 172,
   "entries": [
+    {
+      "date": "2026-10-31",
+      "generated_at": "2026-10-30T23:55:24Z",
+      "generatedAt": "2026-10-30T23:55:24Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "7cdbb6b0",
+          "title": "产品更新：Vaani Developer",
+          "title_en": "Vaani Developer Platform",
+          "url": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The only voice AI harness that you'll ever nee",
+          "summary_zh": "The only voice AI harness that you'll ever nee",
+          "publishedAt": "2026-10-30T07:01:00Z",
+          "published_at": "2026-10-30T07:01:00Z",
+          "votes_count": 259,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "0f865149",
+          "title": "产品更新：Knocket AI",
+          "title_en": "Knocket AI",
+          "url": "https://www.producthunt.com/products/knocket-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/knocket-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Chat with visitors from your website or link G",
+          "summary_zh": "Chat with visitors from your website or link G",
+          "publishedAt": "2026-10-30T07:01:00Z",
+          "published_at": "2026-10-30T07:01:00Z",
+          "votes_count": 252,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "55",
+              "name": "Customer Success",
+              "slug": "customer-success"
+            },
+            {
+              "id": "123",
+              "name": "Customer Communication",
+              "slug": "customer-communication"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "bf67bf72",
+          "title": "产品更新：SpeakON Agent",
+          "title_en": "SpeakON Agent",
+          "url": "https://www.producthunt.com/products/speakon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/speakon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turn natural speech into real work for an agen",
+          "summary_zh": "Turn natural speech into real work for an agen",
+          "publishedAt": "2026-10-30T07:01:00Z",
+          "published_at": "2026-10-30T07:01:00Z",
+          "votes_count": 249,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "125",
+              "name": "Hardware",
+              "slug": "hardware"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-30",
       "generated_at": "2026-10-30T15:10:17Z",
