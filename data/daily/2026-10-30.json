@@ -1,7 +1,7 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T00:00:55Z",
-  "generatedAt": "2026-10-30T00:00:55Z",
+  "generated_at": "2026-10-30T15:10:17Z",
+  "generatedAt": "2026-10-30T15:10:17Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -10,23 +10,61 @@
       "label": "产品发布/更新",
       "items": [
         {
-          "id": "72b9e3f9",
-          "title": "产品更新：Empacer",
-          "title_en": "Empacer",
-          "url": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "7cdbb6b0",
+          "title": "产品更新：Vaani Developer",
+          "title_en": "Vaani Developer Platform",
+          "url": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "The voice-first assistant for small business o",
-          "summary_zh": "The voice-first assistant for small business o",
-          "publishedAt": "2026-10-29T07:01:00Z",
-          "published_at": "2026-10-29T07:01:00Z",
-          "votes_count": 379,
+          "summary": "The only voice AI harness that you'll ever nee",
+          "summary_zh": "The only voice AI harness that you'll ever nee",
+          "publishedAt": "2026-10-30T07:01:00Z",
+          "published_at": "2026-10-30T07:01:00Z",
+          "votes_count": 213,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "0f865149",
+          "title": "产品更新：Knocket AI",
+          "title_en": "Knocket AI",
+          "url": "https://www.producthunt.com/products/knocket-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/knocket-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Chat with visitors from your website or link G",
+          "summary_zh": "Chat with visitors from your website or link G",
+          "publishedAt": "2026-10-30T07:01:00Z",
+          "published_at": "2026-10-30T07:01:00Z",
+          "votes_count": 203,
           "featured": true,
           "topics": [
             {
@@ -35,112 +73,36 @@
               "slug": "productivity"
             },
             {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
+              "id": "55",
+              "name": "Customer Success",
+              "slug": "customer-success"
             },
             {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
+              "id": "123",
+              "name": "Customer Communication",
+              "slug": "customer-communication"
             }
           ],
           "score_details": null
         },
         {
-          "id": "9236e07a",
-          "title": "产品更新：Scape",
-          "title_en": "Scape",
-          "url": "https://www.producthunt.com/products/scape-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "bf67bf72",
+          "title": "产品更新：SpeakON Agent",
+          "title_en": "SpeakON Agent",
+          "url": "https://www.producthunt.com/products/speakon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/scape-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/speakon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "An intelligent email inbox that works for you",
-          "summary_zh": "An intelligent email inbox that works for you",
-          "publishedAt": "2026-10-29T07:01:00Z",
-          "published_at": "2026-10-29T07:01:00Z",
-          "votes_count": 284,
-          "featured": true,
-          "topics": [
-            {
-              "id": "39",
-              "name": "Email",
-              "slug": "email"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "802",
-              "name": "Design",
-              "slug": "design"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "35e36de4",
-          "title": "产品更新：Floot in ChatGP",
-          "title_en": "Floot in ChatGPT",
-          "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Build and publish real apps without leaving Ch",
-          "summary_zh": "Build and publish real apps without leaving Ch",
-          "publishedAt": "2026-10-29T07:01:00Z",
-          "published_at": "2026-10-29T07:01:00Z",
-          "votes_count": 173,
-          "featured": true,
-          "topics": [
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            },
-            {
-              "id": "470",
-              "name": "No-Code",
-              "slug": "no-code"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "e61ba11d",
-          "title": "产品更新：Notch Metrics",
-          "title_en": "Notch Metrics",
-          "url": "https://www.producthunt.com/products/notch-metrics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/notch-metrics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Use claude code to build analytics widgets for",
-          "summary_zh": "Use claude code to build analytics widgets for",
-          "publishedAt": "2026-10-29T07:01:00Z",
-          "published_at": "2026-10-29T07:01:00Z",
-          "votes_count": 165,
+          "summary": "Turn natural speech into real work for an agen",
+          "summary_zh": "Turn natural speech into real work for an agen",
+          "publishedAt": "2026-10-30T07:01:00Z",
+          "published_at": "2026-10-30T07:01:00Z",
+          "votes_count": 178,
           "featured": true,
           "topics": [
             {
@@ -149,14 +111,52 @@
               "slug": "productivity"
             },
             {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
+              "id": "125",
+              "name": "Hardware",
+              "slug": "hardware"
             },
             {
-              "id": "303",
-              "name": "Menu Bar Apps",
-              "slug": "menu-bar-apps"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "e69f2768",
+          "title": "产品更新：MCP Server by X",
+          "title_en": "MCP Server by XWiki",
+          "url": "https://www.producthunt.com/products/xwiki?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/xwiki?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Give your AI your wiki's knowledge while keepi",
+          "summary_zh": "Give your AI your wiki's knowledge while keepi",
+          "publishedAt": "2026-10-30T07:01:00Z",
+          "published_at": "2026-10-30T07:01:00Z",
+          "votes_count": 130,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
@@ -168,75 +168,75 @@
       "label": "中文媒体精选",
       "items": [
         {
-          "id": "6ccd1352",
-          "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+          "id": "5d67665f",
+          "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/10/506227.html",
+          "url": "https://www.qbitai.com/2026/10/506609.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/10/506227.html",
+          "sourceUrl": "https://www.qbitai.com/2026/10/506609.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "能连肝数日修Bug，免疫提示词注入  Argon发布两周啊，谷歌火速掏出新旗舰Gemini 4 Carbon。 这次一举超越Claude Opus 5.5和GPT-6 Astra。 在刚刚更新的Artificial Analysis智能指数5.0中以59分的高分强势登顶全球第一。  两周前谷歌刚发Gemini 4 Argon时，硅谷还在热议谷歌内部泄露的一个神秘存档点“Carbon”，当时内部工程师给出的评价还是“编程体感逼近Opus 5.5”。 没想到短短半个月，正式版Carbon不仅在智商与长程编程上完成了对Opus 5.5的正面反超，更在代码安全与防作弊上大幅领先。 甚至点亮100%免疫提示词注入天赋。 这什么残暴的进步速度，RSI真让他们给玩明白了？  Carbon首发阶段延续了Argon的半价折扣，输入2美元/百万Token、输出10美元/百万Token，账面单价仅为Opus 5.5（$4/$20）的一半。 并且针对Agent任务高频使用的缓存命中输入（cached input）给出了95%的骨折价优惠（低至0.2美元/百万Token）。 超越Opus 5.5，还能连肝数日死",
-          "summary_zh": "能连肝数日修Bug，免疫提示词注入  Argon发布两周啊，谷歌火速掏出新旗舰Gemini 4 Carbon。 这次一举超越Claude Opus 5.5和GPT-6 Astra。 在刚刚更新的Artificial Analysis智能指数5.0中以59分的高分强势登顶全球第一。  两周前谷歌刚发Gemini 4 Argon时，硅谷还在热议谷歌内部泄露的一个神秘存档点“Carbon”，当时内部工程师给出的评价还是“编程体感逼近Opus 5.5”。 没想到短短半个月，正式版Carbon不仅在智商与长程编程上完成了对Opus 5.5的正面反超，更在代码安全与防作弊上大幅领先。 甚至点亮100%免疫提示词注入天赋。 这什么残暴的进步速度，RSI真让他们给玩明白了？  Carbon首发阶段延续了Argon的半价折扣，输入2美元/百万Token、输出10美元/百万Token，账面单价仅为Opus 5.5（$4/$20）的一半。 并且针对Agent任务高频使用的缓存命中输入（cached input）给出了95%的骨折价优惠（低至0.2美元/百万Token）。 超越Opus 5.5，还能连肝数日死",
-          "publishedAt": "2026-10-29T00:03:58Z",
-          "published_at": "2026-10-29T00:03:58Z",
+          "summary": "MEET组委会 发自 凹非寺 量子位 | 公众号QbitAI 2026年，AI正在从“会聊天”走向“能干活”。当模型开始调用工具、执行任务、嵌入组织流程，智能科技与产业之间的那道墙正在被推倒。 12月9日，量子位MEET2027智能未来大会如期而至。今年大会以「智行合一·驭见未来」为主题，和大家聊一聊：AI如何从演示走向交付，从工具走向组织，从单点能力走向系统效能。 大模型与Agent的工程化落地、具身智能的规模化进场、AI原生组织的管理重构、企业数智化转型的深水区命题——这些今年最值得追的问题，都会在一天的高密度碰撞里被反复拆解。 学术前沿与商业落地同台，Infra、模型、产品、产业一线的最新成果在这里集中亮相。 大会现场还将权威发布人工智能年度榜单与年度AI趋势报告，记录这一年的科技成果，也预判下一年的演进方向。 MEET2027智能未来大会报名通道正式开启，席位有限，前往量子位公众号即可报名参会～ 首批嘉宾阵容  王金桥 中国科学院自动化研究所副总工程师 紫东太初大模型研究中心主任 中科紫东太初董事长 武汉人工智能研究院院长，中科紫东太初董事长，中国科学院大学人工智能学院岗位教授",
+          "summary_zh": "MEET组委会 发自 凹非寺 量子位 | 公众号QbitAI 2026年，AI正在从“会聊天”走向“能干活”。当模型开始调用工具、执行任务、嵌入组织流程，智能科技与产业之间的那道墙正在被推倒。 12月9日，量子位MEET2027智能未来大会如期而至。今年大会以「智行合一·驭见未来」为主题，和大家聊一聊：AI如何从演示走向交付，从工具走向组织，从单点能力走向系统效能。 大模型与Agent的工程化落地、具身智能的规模化进场、AI原生组织的管理重构、企业数智化转型的深水区命题——这些今年最值得追的问题，都会在一天的高密度碰撞里被反复拆解。 学术前沿与商业落地同台，Infra、模型、产品、产业一线的最新成果在这里集中亮相。 大会现场还将权威发布人工智能年度榜单与年度AI趋势报告，记录这一年的科技成果，也预判下一年的演进方向。 MEET2027智能未来大会报名通道正式开启，席位有限，前往量子位公众号即可报名参会～ 首批嘉宾阵容  王金桥 中国科学院自动化研究所副总工程师 紫东太初大模型研究中心主任 中科紫东太初董事长 武汉人工智能研究院院长，中科紫东太初董事长，中国科学院大学人工智能学院岗位教授",
+          "publishedAt": "2026-10-30T03:40:21Z",
+          "published_at": "2026-10-30T03:40:21Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "3ccdb25a",
-          "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+          "id": "ea107500",
+          "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/10/505934.html",
+          "url": "https://www.qbitai.com/2026/10/506662.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/10/505934.html",
+          "sourceUrl": "https://www.qbitai.com/2026/10/506662.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "用扩散模型怎么做做Agent？  服了！天天在AI一线冲浪，竟然也会跟不上版本。 谁能想到，印象中用来生图、生视频的“扩散模型”，竟然也能写代码、生成网页、调用工具，当Agent了！ 就在刚刚，扩散智能发布了全新的扩散语言模型—— Clover-35B-A3B-Preview。 虽然名字里多了“扩散”两个字，但实际体验下来，无论是写代码、操作网页、调用工具，还是生成HTML，用法都和我们熟悉的大语言模型差不多。 我个人用下来的第一感受就是一个字：“快”。 比如，让它生成一个太阳系模拟器，Clover就思考了约1秒，然后也就4-5秒，一个能交互的太阳系模拟器就出来了。  再比如，我给它丢了一堆简历信息，让它整理成LaTeX格式的简历代码，也就十来秒，搞定～  有一说一，用过GPT的朋友，应该都懂盯着“正在思考”等半天是什么感觉，要不然最近也不会有主打快速决策的Jev什么事儿～ 而说到Jev，Clover这次还真和它比了一把速度。 在网页Agent评测WindTunnel的49个任务中，每个任务尝试3次，Clover的中位执行时间为1.52秒，Jev＋Mercury 2.5组合为3.21秒",
-          "summary_zh": "用扩散模型怎么做做Agent？  服了！天天在AI一线冲浪，竟然也会跟不上版本。 谁能想到，印象中用来生图、生视频的“扩散模型”，竟然也能写代码、生成网页、调用工具，当Agent了！ 就在刚刚，扩散智能发布了全新的扩散语言模型—— Clover-35B-A3B-Preview。 虽然名字里多了“扩散”两个字，但实际体验下来，无论是写代码、操作网页、调用工具，还是生成HTML，用法都和我们熟悉的大语言模型差不多。 我个人用下来的第一感受就是一个字：“快”。 比如，让它生成一个太阳系模拟器，Clover就思考了约1秒，然后也就4-5秒，一个能交互的太阳系模拟器就出来了。  再比如，我给它丢了一堆简历信息，让它整理成LaTeX格式的简历代码，也就十来秒，搞定～  有一说一，用过GPT的朋友，应该都懂盯着“正在思考”等半天是什么感觉，要不然最近也不会有主打快速决策的Jev什么事儿～ 而说到Jev，Clover这次还真和它比了一把速度。 在网页Agent评测WindTunnel的49个任务中，每个任务尝试3次，Clover的中位执行时间为1.52秒，Jev＋Mercury 2.5组合为3.21秒",
-          "publishedAt": "2026-10-29T02:18:28Z",
-          "published_at": "2026-10-29T02:18:28Z",
+          "summary": "让机器人成为彼此的“老师”  近日，清华大学、无问芯穹与智元联合提出群体经验学习（Collective Experience Learning，CEL）新范式，并在96台真实机器人组成的集群中完成规模化验证。CEL 让机器人可以不只依靠人类示范学习，还能借鉴群体中其他机器人的成功经验：一台机器人在执行任务时遇到困难，可以从同伴过去的经验中寻找解决方法，不断改进自己的表现。通过共享和积累经验，机器人群体能够在持续实践中共同提升能力，为推动机器人的自主进化和规模化应用提供了新的技术路径。    一、让机器人成为彼此的“老师”，机器人规模化发展有了新方向 随着具身智能逐渐从实验室走向真实世界，机器人要在越来越复杂的环境里干活。想让它干得好，关键是要让它不断积累真实世界的经验。当前普遍的做法，是靠人“教”：要么人一遍遍做动作示范给它看，要么它做错了，人再手动纠正。 但这里存在一个核心问题：机器人可以成百上千台地批量部署，而经验丰富的操作人员却没那么多，不可能跟着机器人一起“增产”，这已经成为具身智能发展的一大卡点。 CEL 的思路，是让机器人换个学习对象 —— 不主要靠人教，而是靠学习“同伴”",
+          "summary_zh": "让机器人成为彼此的“老师”  近日，清华大学、无问芯穹与智元联合提出群体经验学习（Collective Experience Learning，CEL）新范式，并在96台真实机器人组成的集群中完成规模化验证。CEL 让机器人可以不只依靠人类示范学习，还能借鉴群体中其他机器人的成功经验：一台机器人在执行任务时遇到困难，可以从同伴过去的经验中寻找解决方法，不断改进自己的表现。通过共享和积累经验，机器人群体能够在持续实践中共同提升能力，为推动机器人的自主进化和规模化应用提供了新的技术路径。    一、让机器人成为彼此的“老师”，机器人规模化发展有了新方向 随着具身智能逐渐从实验室走向真实世界，机器人要在越来越复杂的环境里干活。想让它干得好，关键是要让它不断积累真实世界的经验。当前普遍的做法，是靠人“教”：要么人一遍遍做动作示范给它看，要么它做错了，人再手动纠正。 但这里存在一个核心问题：机器人可以成百上千台地批量部署，而经验丰富的操作人员却没那么多，不可能跟着机器人一起“增产”，这已经成为具身智能发展的一大卡点。 CEL 的思路，是让机器人换个学习对象 —— 不主要靠人教，而是靠学习“同伴”",
+          "publishedAt": "2026-10-30T03:48:04Z",
+          "published_at": "2026-10-30T03:48:04Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "c5315acb",
-          "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+          "id": "57d3518f",
+          "title": "Claude新模型曝光：新Fable，新Opus…",
           "title_en": null,
-          "url": "https://www.qbitai.com/2026/10/506273.html",
+          "url": "https://www.qbitai.com/2026/10/506674.html",
           "source": "量子位",
           "source_type": null,
           "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/10/506273.html",
+          "sourceUrl": "https://www.qbitai.com/2026/10/506674.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。  2026年10月27日，由中冶建筑研究总院有限公司国家钢结构质量检验检测中心与北京小雨智造科技有限公司共建的“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。中国钢结构协会会长、中国五矿集团首席科学家曾滨，中冶建筑研究总院有限公司党委书记、总经理王海涛，中冶检测认证有限公司党委书记、董事长刘冬，小雨智造创始人、CEO乔忠良共同为实验室揭牌。仪式上，乔忠良发表致辞，并与刘冬共同向世界技能大赛焊接项目中国国家队总教练周树春、第48届世界技能大赛焊接项目金牌获得者赵钱森颁发了实验室专家委员聘书，并透露了公司的首个客户案例。  （实验室揭牌成立） “具身智能发展迅速，但越是在这样的时刻，越需要守住质量这条底线。”乔忠良在致辞中表示，焊接不是一道普通的工序，每一道焊缝都关系着工程安全和人的生命。机器人可以把焊缝焊得更快，但如果质量不过关，效率越高，风险就越大。中冶建筑研究总院有限公司国家钢结构质量检验检测中心是我国钢结构领域唯一的国家级质检中心，其焊接团队主编《钢结构焊接规范》等百余项标准，培养出中国首枚世赛焊",
-          "summary_zh": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。  2026年10月27日，由中冶建筑研究总院有限公司国家钢结构质量检验检测中心与北京小雨智造科技有限公司共建的“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。中国钢结构协会会长、中国五矿集团首席科学家曾滨，中冶建筑研究总院有限公司党委书记、总经理王海涛，中冶检测认证有限公司党委书记、董事长刘冬，小雨智造创始人、CEO乔忠良共同为实验室揭牌。仪式上，乔忠良发表致辞，并与刘冬共同向世界技能大赛焊接项目中国国家队总教练周树春、第48届世界技能大赛焊接项目金牌获得者赵钱森颁发了实验室专家委员聘书，并透露了公司的首个客户案例。  （实验室揭牌成立） “具身智能发展迅速，但越是在这样的时刻，越需要守住质量这条底线。”乔忠良在致辞中表示，焊接不是一道普通的工序，每一道焊缝都关系着工程安全和人的生命。机器人可以把焊缝焊得更快，但如果质量不过关，效率越高，风险就越大。中冶建筑研究总院有限公司国家钢结构质量检验检测中心是我国钢结构领域唯一的国家级质检中心，其焊接团队主编《钢结构焊接规范》等百余项标准，培养出中国首枚世赛焊",
-          "publishedAt": "2026-10-29T02:51:45Z",
-          "published_at": "2026-10-29T02:51:45Z",
+          "summary": "上市在即的Anthropic，开启了连发模式。 刚刚，两款全新的Claude，被曝光了—— Fable 5.5，还有下一代Opus。 不是兄弟。 这Opus 5.5才发布多久啊，又有新模型了，还是俩？？？ 目前，这些新模型已经悄悄进入了早期测试阶段，一些网友放出的实测效果图，也是相当离谱。  A社你小子，为了IPO偷偷藏了不少好东西啊！ 所以，新模型，什么时候能出来？ 最快的话—— 下周。 Fable 5.5，要来了？ 这次的爆料，又是从X和Discord社区里传出来的。 一开始是有人发现，在Azure的模型目录里，短暂出现了一个叫claude-fable-5-5的条目，虽然很快就被删了，但截图已经满天飞了。 然后，就是各种实测截图的疯狂流出。 最经典的，自然就是咱们的鹈鹕自行车。 虽然之前模型的效果已经非常不错了，但看到Fable 5.5的输出，还是会忍不住瘫软一下、  太离谱了。 这画面质感，这光影细节，你不说，我还以为是Image 2.5生成的啊。 放大看细节，更吓人。 你敢信？？？鹈鹕嘴里甚至还叼着一条鱼。 沙滩上，有自行车轮压过的痕迹，自行车轮还有光影？？ 你搁渲染《我的世界",
+          "summary_zh": "上市在即的Anthropic，开启了连发模式。 刚刚，两款全新的Claude，被曝光了—— Fable 5.5，还有下一代Opus。 不是兄弟。 这Opus 5.5才发布多久啊，又有新模型了，还是俩？？？ 目前，这些新模型已经悄悄进入了早期测试阶段，一些网友放出的实测效果图，也是相当离谱。  A社你小子，为了IPO偷偷藏了不少好东西啊！ 所以，新模型，什么时候能出来？ 最快的话—— 下周。 Fable 5.5，要来了？ 这次的爆料，又是从X和Discord社区里传出来的。 一开始是有人发现，在Azure的模型目录里，短暂出现了一个叫claude-fable-5-5的条目，虽然很快就被删了，但截图已经满天飞了。 然后，就是各种实测截图的疯狂流出。 最经典的，自然就是咱们的鹈鹕自行车。 虽然之前模型的效果已经非常不错了，但看到Fable 5.5的输出，还是会忍不住瘫软一下、  太离谱了。 这画面质感，这光影细节，你不说，我还以为是Image 2.5生成的啊。 放大看细节，更吓人。 你敢信？？？鹈鹕嘴里甚至还叼着一条鱼。 沙滩上，有自行车轮压过的痕迹，自行车轮还有光影？？ 你搁渲染《我的世界",
+          "publishedAt": "2026-10-30T05:50:44Z",
+          "published_at": "2026-10-30T05:50:44Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
           "score_details": null
         },
         {
-          "id": "785a936d",
-          "title": "刚刚，机器人学习进入「全链路Scal",
-          "title_en": "刚刚，机器人学习进入「全链路Scaling」时代",
+          "id": "7e86e3a9",
+          "title": "从LPDDR6首发量产到G6样片验证",
+          "title_en": "从LPDDR6首发量产到G6样片验证：长鑫高强度研发投入，驱动存储产品矩阵升级",
           "url": "https://www.jiqizhixin.com/articles",
           "source": "机器之心",
           "source_type": null,
@@ -246,10 +246,10 @@
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "刚刚，机器人学习进入「全链路Scaling」时代",
-          "summary_zh": "刚刚，机器人学习进入「全链路Scaling」时代",
-          "publishedAt": "2026-10-30T00:00:10Z",
-          "published_at": "2026-10-30T00:00:10Z",
+          "summary": "从LPDDR6首发量产到G6样片验证：长鑫高强度研发投入，驱动存储产品矩阵升级",
+          "summary_zh": "从LPDDR6首发量产到G6样片验证：长鑫高强度研发投入，驱动存储产品矩阵升级",
+          "publishedAt": "2026-10-30T15:09:23Z",
+          "published_at": "2026-10-30T15:09:23Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -260,23 +260,61 @@
   ],
   "items": [
     {
-      "id": "72b9e3f9",
-      "title": "产品更新：Empacer",
-      "title_en": "Empacer",
-      "url": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "7cdbb6b0",
+      "title": "产品更新：Vaani Developer",
+      "title_en": "Vaani Developer Platform",
+      "url": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/empacer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "The voice-first assistant for small business o",
-      "summary_zh": "The voice-first assistant for small business o",
-      "publishedAt": "2026-10-29T07:01:00Z",
-      "published_at": "2026-10-29T07:01:00Z",
-      "votes_count": 379,
+      "summary": "The only voice AI harness that you'll ever nee",
+      "summary_zh": "The only voice AI harness that you'll ever nee",
+      "publishedAt": "2026-10-30T07:01:00Z",
+      "published_at": "2026-10-30T07:01:00Z",
+      "votes_count": 213,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "0f865149",
+      "title": "产品更新：Knocket AI",
+      "title_en": "Knocket AI",
+      "url": "https://www.producthunt.com/products/knocket-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/knocket-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Chat with visitors from your website or link G",
+      "summary_zh": "Chat with visitors from your website or link G",
+      "publishedAt": "2026-10-30T07:01:00Z",
+      "published_at": "2026-10-30T07:01:00Z",
+      "votes_count": 203,
       "featured": true,
       "topics": [
         {
@@ -285,112 +323,36 @@
           "slug": "productivity"
         },
         {
-          "id": "237",
-          "name": "SaaS",
-          "slug": "saas"
+          "id": "55",
+          "name": "Customer Success",
+          "slug": "customer-success"
         },
         {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
+          "id": "123",
+          "name": "Customer Communication",
+          "slug": "customer-communication"
         }
       ],
       "score_details": null
     },
     {
-      "id": "9236e07a",
-      "title": "产品更新：Scape",
-      "title_en": "Scape",
-      "url": "https://www.producthunt.com/products/scape-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "bf67bf72",
+      "title": "产品更新：SpeakON Agent",
+      "title_en": "SpeakON Agent",
+      "url": "https://www.producthunt.com/products/speakon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/scape-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/speakon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "An intelligent email inbox that works for you",
-      "summary_zh": "An intelligent email inbox that works for you",
-      "publishedAt": "2026-10-29T07:01:00Z",
-      "published_at": "2026-10-29T07:01:00Z",
-      "votes_count": 284,
-      "featured": true,
-      "topics": [
-        {
-          "id": "39",
-          "name": "Email",
-          "slug": "email"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "802",
-          "name": "Design",
-          "slug": "design"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "35e36de4",
-      "title": "产品更新：Floot in ChatGP",
-      "title_en": "Floot in ChatGPT",
-      "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Build and publish real apps without leaving Ch",
-      "summary_zh": "Build and publish real apps without leaving Ch",
-      "publishedAt": "2026-10-29T07:01:00Z",
-      "published_at": "2026-10-29T07:01:00Z",
-      "votes_count": 173,
-      "featured": true,
-      "topics": [
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        },
-        {
-          "id": "470",
-          "name": "No-Code",
-          "slug": "no-code"
-        }
-      ],
-      "score_details": null
-    },
-    {
-      "id": "e61ba11d",
-      "title": "产品更新：Notch Metrics",
-      "title_en": "Notch Metrics",
-      "url": "https://www.producthunt.com/products/notch-metrics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/notch-metrics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Use claude code to build analytics widgets for",
-      "summary_zh": "Use claude code to build analytics widgets for",
-      "publishedAt": "2026-10-29T07:01:00Z",
-      "published_at": "2026-10-29T07:01:00Z",
-      "votes_count": 165,
+      "summary": "Turn natural speech into real work for an agen",
+      "summary_zh": "Turn natural speech into real work for an agen",
+      "publishedAt": "2026-10-30T07:01:00Z",
+      "published_at": "2026-10-30T07:01:00Z",
+      "votes_count": 178,
       "featured": true,
       "topics": [
         {
@@ -399,88 +361,126 @@
           "slug": "productivity"
         },
         {
-          "id": "108",
-          "name": "Analytics",
-          "slug": "analytics"
+          "id": "125",
+          "name": "Hardware",
+          "slug": "hardware"
         },
         {
-          "id": "303",
-          "name": "Menu Bar Apps",
-          "slug": "menu-bar-apps"
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         }
       ],
       "score_details": null
     },
     {
-      "id": "6ccd1352",
-      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+      "id": "e69f2768",
+      "title": "产品更新：MCP Server by X",
+      "title_en": "MCP Server by XWiki",
+      "url": "https://www.producthunt.com/products/xwiki?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/xwiki?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Give your AI your wiki's knowledge while keepi",
+      "summary_zh": "Give your AI your wiki's knowledge while keepi",
+      "publishedAt": "2026-10-30T07:01:00Z",
+      "published_at": "2026-10-30T07:01:00Z",
+      "votes_count": 130,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5d67665f",
+      "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/506227.html",
+      "url": "https://www.qbitai.com/2026/10/506609.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506227.html",
+      "sourceUrl": "https://www.qbitai.com/2026/10/506609.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "能连肝数日修Bug，免疫提示词注入  Argon发布两周啊，谷歌火速掏出新旗舰Gemini 4 Carbon。 这次一举超越Claude Opus 5.5和GPT-6 Astra。 在刚刚更新的Artificial Analysis智能指数5.0中以59分的高分强势登顶全球第一。  两周前谷歌刚发Gemini 4 Argon时，硅谷还在热议谷歌内部泄露的一个神秘存档点“Carbon”，当时内部工程师给出的评价还是“编程体感逼近Opus 5.5”。 没想到短短半个月，正式版Carbon不仅在智商与长程编程上完成了对Opus 5.5的正面反超，更在代码安全与防作弊上大幅领先。 甚至点亮100%免疫提示词注入天赋。 这什么残暴的进步速度，RSI真让他们给玩明白了？  Carbon首发阶段延续了Argon的半价折扣，输入2美元/百万Token、输出10美元/百万Token，账面单价仅为Opus 5.5（$4/$20）的一半。 并且针对Agent任务高频使用的缓存命中输入（cached input）给出了95%的骨折价优惠（低至0.2美元/百万Token）。 超越Opus 5.5，还能连肝数日死",
-      "summary_zh": "能连肝数日修Bug，免疫提示词注入  Argon发布两周啊，谷歌火速掏出新旗舰Gemini 4 Carbon。 这次一举超越Claude Opus 5.5和GPT-6 Astra。 在刚刚更新的Artificial Analysis智能指数5.0中以59分的高分强势登顶全球第一。  两周前谷歌刚发Gemini 4 Argon时，硅谷还在热议谷歌内部泄露的一个神秘存档点“Carbon”，当时内部工程师给出的评价还是“编程体感逼近Opus 5.5”。 没想到短短半个月，正式版Carbon不仅在智商与长程编程上完成了对Opus 5.5的正面反超，更在代码安全与防作弊上大幅领先。 甚至点亮100%免疫提示词注入天赋。 这什么残暴的进步速度，RSI真让他们给玩明白了？  Carbon首发阶段延续了Argon的半价折扣，输入2美元/百万Token、输出10美元/百万Token，账面单价仅为Opus 5.5（$4/$20）的一半。 并且针对Agent任务高频使用的缓存命中输入（cached input）给出了95%的骨折价优惠（低至0.2美元/百万Token）。 超越Opus 5.5，还能连肝数日死",
-      "publishedAt": "2026-10-29T00:03:58Z",
-      "published_at": "2026-10-29T00:03:58Z",
+      "summary": "MEET组委会 发自 凹非寺 量子位 | 公众号QbitAI 2026年，AI正在从“会聊天”走向“能干活”。当模型开始调用工具、执行任务、嵌入组织流程，智能科技与产业之间的那道墙正在被推倒。 12月9日，量子位MEET2027智能未来大会如期而至。今年大会以「智行合一·驭见未来」为主题，和大家聊一聊：AI如何从演示走向交付，从工具走向组织，从单点能力走向系统效能。 大模型与Agent的工程化落地、具身智能的规模化进场、AI原生组织的管理重构、企业数智化转型的深水区命题——这些今年最值得追的问题，都会在一天的高密度碰撞里被反复拆解。 学术前沿与商业落地同台，Infra、模型、产品、产业一线的最新成果在这里集中亮相。 大会现场还将权威发布人工智能年度榜单与年度AI趋势报告，记录这一年的科技成果，也预判下一年的演进方向。 MEET2027智能未来大会报名通道正式开启，席位有限，前往量子位公众号即可报名参会～ 首批嘉宾阵容  王金桥 中国科学院自动化研究所副总工程师 紫东太初大模型研究中心主任 中科紫东太初董事长 武汉人工智能研究院院长，中科紫东太初董事长，中国科学院大学人工智能学院岗位教授",
+      "summary_zh": "MEET组委会 发自 凹非寺 量子位 | 公众号QbitAI 2026年，AI正在从“会聊天”走向“能干活”。当模型开始调用工具、执行任务、嵌入组织流程，智能科技与产业之间的那道墙正在被推倒。 12月9日，量子位MEET2027智能未来大会如期而至。今年大会以「智行合一·驭见未来」为主题，和大家聊一聊：AI如何从演示走向交付，从工具走向组织，从单点能力走向系统效能。 大模型与Agent的工程化落地、具身智能的规模化进场、AI原生组织的管理重构、企业数智化转型的深水区命题——这些今年最值得追的问题，都会在一天的高密度碰撞里被反复拆解。 学术前沿与商业落地同台，Infra、模型、产品、产业一线的最新成果在这里集中亮相。 大会现场还将权威发布人工智能年度榜单与年度AI趋势报告，记录这一年的科技成果，也预判下一年的演进方向。 MEET2027智能未来大会报名通道正式开启，席位有限，前往量子位公众号即可报名参会～ 首批嘉宾阵容  王金桥 中国科学院自动化研究所副总工程师 紫东太初大模型研究中心主任 中科紫东太初董事长 武汉人工智能研究院院长，中科紫东太初董事长，中国科学院大学人工智能学院岗位教授",
+      "publishedAt": "2026-10-30T03:40:21Z",
+      "published_at": "2026-10-30T03:40:21Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "3ccdb25a",
-      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "id": "ea107500",
+      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/505934.html",
+      "url": "https://www.qbitai.com/2026/10/506662.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/505934.html",
+      "sourceUrl": "https://www.qbitai.com/2026/10/506662.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "用扩散模型怎么做做Agent？  服了！天天在AI一线冲浪，竟然也会跟不上版本。 谁能想到，印象中用来生图、生视频的“扩散模型”，竟然也能写代码、生成网页、调用工具，当Agent了！ 就在刚刚，扩散智能发布了全新的扩散语言模型—— Clover-35B-A3B-Preview。 虽然名字里多了“扩散”两个字，但实际体验下来，无论是写代码、操作网页、调用工具，还是生成HTML，用法都和我们熟悉的大语言模型差不多。 我个人用下来的第一感受就是一个字：“快”。 比如，让它生成一个太阳系模拟器，Clover就思考了约1秒，然后也就4-5秒，一个能交互的太阳系模拟器就出来了。  再比如，我给它丢了一堆简历信息，让它整理成LaTeX格式的简历代码，也就十来秒，搞定～  有一说一，用过GPT的朋友，应该都懂盯着“正在思考”等半天是什么感觉，要不然最近也不会有主打快速决策的Jev什么事儿～ 而说到Jev，Clover这次还真和它比了一把速度。 在网页Agent评测WindTunnel的49个任务中，每个任务尝试3次，Clover的中位执行时间为1.52秒，Jev＋Mercury 2.5组合为3.21秒",
-      "summary_zh": "用扩散模型怎么做做Agent？  服了！天天在AI一线冲浪，竟然也会跟不上版本。 谁能想到，印象中用来生图、生视频的“扩散模型”，竟然也能写代码、生成网页、调用工具，当Agent了！ 就在刚刚，扩散智能发布了全新的扩散语言模型—— Clover-35B-A3B-Preview。 虽然名字里多了“扩散”两个字，但实际体验下来，无论是写代码、操作网页、调用工具，还是生成HTML，用法都和我们熟悉的大语言模型差不多。 我个人用下来的第一感受就是一个字：“快”。 比如，让它生成一个太阳系模拟器，Clover就思考了约1秒，然后也就4-5秒，一个能交互的太阳系模拟器就出来了。  再比如，我给它丢了一堆简历信息，让它整理成LaTeX格式的简历代码，也就十来秒，搞定～  有一说一，用过GPT的朋友，应该都懂盯着“正在思考”等半天是什么感觉，要不然最近也不会有主打快速决策的Jev什么事儿～ 而说到Jev，Clover这次还真和它比了一把速度。 在网页Agent评测WindTunnel的49个任务中，每个任务尝试3次，Clover的中位执行时间为1.52秒，Jev＋Mercury 2.5组合为3.21秒",
-      "publishedAt": "2026-10-29T02:18:28Z",
-      "published_at": "2026-10-29T02:18:28Z",
+      "summary": "让机器人成为彼此的“老师”  近日，清华大学、无问芯穹与智元联合提出群体经验学习（Collective Experience Learning，CEL）新范式，并在96台真实机器人组成的集群中完成规模化验证。CEL 让机器人可以不只依靠人类示范学习，还能借鉴群体中其他机器人的成功经验：一台机器人在执行任务时遇到困难，可以从同伴过去的经验中寻找解决方法，不断改进自己的表现。通过共享和积累经验，机器人群体能够在持续实践中共同提升能力，为推动机器人的自主进化和规模化应用提供了新的技术路径。    一、让机器人成为彼此的“老师”，机器人规模化发展有了新方向 随着具身智能逐渐从实验室走向真实世界，机器人要在越来越复杂的环境里干活。想让它干得好，关键是要让它不断积累真实世界的经验。当前普遍的做法，是靠人“教”：要么人一遍遍做动作示范给它看，要么它做错了，人再手动纠正。 但这里存在一个核心问题：机器人可以成百上千台地批量部署，而经验丰富的操作人员却没那么多，不可能跟着机器人一起“增产”，这已经成为具身智能发展的一大卡点。 CEL 的思路，是让机器人换个学习对象 —— 不主要靠人教，而是靠学习“同伴”",
+      "summary_zh": "让机器人成为彼此的“老师”  近日，清华大学、无问芯穹与智元联合提出群体经验学习（Collective Experience Learning，CEL）新范式，并在96台真实机器人组成的集群中完成规模化验证。CEL 让机器人可以不只依靠人类示范学习，还能借鉴群体中其他机器人的成功经验：一台机器人在执行任务时遇到困难，可以从同伴过去的经验中寻找解决方法，不断改进自己的表现。通过共享和积累经验，机器人群体能够在持续实践中共同提升能力，为推动机器人的自主进化和规模化应用提供了新的技术路径。    一、让机器人成为彼此的“老师”，机器人规模化发展有了新方向 随着具身智能逐渐从实验室走向真实世界，机器人要在越来越复杂的环境里干活。想让它干得好，关键是要让它不断积累真实世界的经验。当前普遍的做法，是靠人“教”：要么人一遍遍做动作示范给它看，要么它做错了，人再手动纠正。 但这里存在一个核心问题：机器人可以成百上千台地批量部署，而经验丰富的操作人员却没那么多，不可能跟着机器人一起“增产”，这已经成为具身智能发展的一大卡点。 CEL 的思路，是让机器人换个学习对象 —— 不主要靠人教，而是靠学习“同伴”",
+      "publishedAt": "2026-10-30T03:48:04Z",
+      "published_at": "2026-10-30T03:48:04Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "c5315acb",
-      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+      "id": "57d3518f",
+      "title": "Claude新模型曝光：新Fable，新Opus…",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/506273.html",
+      "url": "https://www.qbitai.com/2026/10/506674.html",
       "source": "量子位",
       "source_type": null,
       "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/10/506273.html",
+      "sourceUrl": "https://www.qbitai.com/2026/10/506674.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。  2026年10月27日，由中冶建筑研究总院有限公司国家钢结构质量检验检测中心与北京小雨智造科技有限公司共建的“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。中国钢结构协会会长、中国五矿集团首席科学家曾滨，中冶建筑研究总院有限公司党委书记、总经理王海涛，中冶检测认证有限公司党委书记、董事长刘冬，小雨智造创始人、CEO乔忠良共同为实验室揭牌。仪式上，乔忠良发表致辞，并与刘冬共同向世界技能大赛焊接项目中国国家队总教练周树春、第48届世界技能大赛焊接项目金牌获得者赵钱森颁发了实验室专家委员聘书，并透露了公司的首个客户案例。  （实验室揭牌成立） “具身智能发展迅速，但越是在这样的时刻，越需要守住质量这条底线。”乔忠良在致辞中表示，焊接不是一道普通的工序，每一道焊缝都关系着工程安全和人的生命。机器人可以把焊缝焊得更快，但如果质量不过关，效率越高，风险就越大。中冶建筑研究总院有限公司国家钢结构质量检验检测中心是我国钢结构领域唯一的国家级质检中心，其焊接团队主编《钢结构焊接规范》等百余项标准，培养出中国首枚世赛焊",
-      "summary_zh": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。  2026年10月27日，由中冶建筑研究总院有限公司国家钢结构质量检验检测中心与北京小雨智造科技有限公司共建的“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。中国钢结构协会会长、中国五矿集团首席科学家曾滨，中冶建筑研究总院有限公司党委书记、总经理王海涛，中冶检测认证有限公司党委书记、董事长刘冬，小雨智造创始人、CEO乔忠良共同为实验室揭牌。仪式上，乔忠良发表致辞，并与刘冬共同向世界技能大赛焊接项目中国国家队总教练周树春、第48届世界技能大赛焊接项目金牌获得者赵钱森颁发了实验室专家委员聘书，并透露了公司的首个客户案例。  （实验室揭牌成立） “具身智能发展迅速，但越是在这样的时刻，越需要守住质量这条底线。”乔忠良在致辞中表示，焊接不是一道普通的工序，每一道焊缝都关系着工程安全和人的生命。机器人可以把焊缝焊得更快，但如果质量不过关，效率越高，风险就越大。中冶建筑研究总院有限公司国家钢结构质量检验检测中心是我国钢结构领域唯一的国家级质检中心，其焊接团队主编《钢结构焊接规范》等百余项标准，培养出中国首枚世赛焊",
-      "publishedAt": "2026-10-29T02:51:45Z",
-      "published_at": "2026-10-29T02:51:45Z",
+      "summary": "上市在即的Anthropic，开启了连发模式。 刚刚，两款全新的Claude，被曝光了—— Fable 5.5，还有下一代Opus。 不是兄弟。 这Opus 5.5才发布多久啊，又有新模型了，还是俩？？？ 目前，这些新模型已经悄悄进入了早期测试阶段，一些网友放出的实测效果图，也是相当离谱。  A社你小子，为了IPO偷偷藏了不少好东西啊！ 所以，新模型，什么时候能出来？ 最快的话—— 下周。 Fable 5.5，要来了？ 这次的爆料，又是从X和Discord社区里传出来的。 一开始是有人发现，在Azure的模型目录里，短暂出现了一个叫claude-fable-5-5的条目，虽然很快就被删了，但截图已经满天飞了。 然后，就是各种实测截图的疯狂流出。 最经典的，自然就是咱们的鹈鹕自行车。 虽然之前模型的效果已经非常不错了，但看到Fable 5.5的输出，还是会忍不住瘫软一下、  太离谱了。 这画面质感，这光影细节，你不说，我还以为是Image 2.5生成的啊。 放大看细节，更吓人。 你敢信？？？鹈鹕嘴里甚至还叼着一条鱼。 沙滩上，有自行车轮压过的痕迹，自行车轮还有光影？？ 你搁渲染《我的世界",
+      "summary_zh": "上市在即的Anthropic，开启了连发模式。 刚刚，两款全新的Claude，被曝光了—— Fable 5.5，还有下一代Opus。 不是兄弟。 这Opus 5.5才发布多久啊，又有新模型了，还是俩？？？ 目前，这些新模型已经悄悄进入了早期测试阶段，一些网友放出的实测效果图，也是相当离谱。  A社你小子，为了IPO偷偷藏了不少好东西啊！ 所以，新模型，什么时候能出来？ 最快的话—— 下周。 Fable 5.5，要来了？ 这次的爆料，又是从X和Discord社区里传出来的。 一开始是有人发现，在Azure的模型目录里，短暂出现了一个叫claude-fable-5-5的条目，虽然很快就被删了，但截图已经满天飞了。 然后，就是各种实测截图的疯狂流出。 最经典的，自然就是咱们的鹈鹕自行车。 虽然之前模型的效果已经非常不错了，但看到Fable 5.5的输出，还是会忍不住瘫软一下、  太离谱了。 这画面质感，这光影细节，你不说，我还以为是Image 2.5生成的啊。 放大看细节，更吓人。 你敢信？？？鹈鹕嘴里甚至还叼着一条鱼。 沙滩上，有自行车轮压过的痕迹，自行车轮还有光影？？ 你搁渲染《我的世界",
+      "publishedAt": "2026-10-30T05:50:44Z",
+      "published_at": "2026-10-30T05:50:44Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
       "score_details": null
     },
     {
-      "id": "785a936d",
-      "title": "刚刚，机器人学习进入「全链路Scal",
-      "title_en": "刚刚，机器人学习进入「全链路Scaling」时代",
+      "id": "7e86e3a9",
+      "title": "从LPDDR6首发量产到G6样片验证",
+      "title_en": "从LPDDR6首发量产到G6样片验证：长鑫高强度研发投入，驱动存储产品矩阵升级",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -490,10 +490,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "刚刚，机器人学习进入「全链路Scaling」时代",
-      "summary_zh": "刚刚，机器人学习进入「全链路Scaling」时代",
-      "publishedAt": "2026-10-30T00:00:10Z",
-      "published_at": "2026-10-30T00:00:10Z",
+      "summary": "从LPDDR6首发量产到G6样片验证：长鑫高强度研发投入，驱动存储产品矩阵升级",
+      "summary_zh": "从LPDDR6首发量产到G6样片验证：长鑫高强度研发投入，驱动存储产品矩阵升级",
+      "publishedAt": "2026-10-30T15:09:23Z",
+      "published_at": "2026-10-30T15:09:23Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
