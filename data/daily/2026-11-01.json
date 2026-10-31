@@ -1,0 +1,503 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-10-31T23:29:35Z",
+  "generatedAt": "2026-10-31T23:29:35Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "7603e268",
+          "title": "产品更新：SKI",
+          "title_en": "SKI",
+          "url": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Voice-first coding harness Talk to your coding",
+          "summary_zh": "Voice-first coding harness Talk to your coding",
+          "publishedAt": "2026-10-31T07:01:00Z",
+          "published_at": "2026-10-31T07:01:00Z",
+          "votes_count": 218,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2c44d7ce",
+          "title": "产品更新：Specsight",
+          "title_en": "Specsight",
+          "url": "https://www.producthunt.com/products/specsight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/specsight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Product observability for teams shipping fast",
+          "summary_zh": "Product observability for teams shipping fast",
+          "publishedAt": "2026-10-31T07:01:00Z",
+          "published_at": "2026-10-31T07:01:00Z",
+          "votes_count": 198,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c68274dd",
+          "title": "AI资讯更新：telemetry.dev",
+          "title_en": "telemetry.dev",
+          "url": "https://www.producthunt.com/products/telemetry-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/telemetry-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "LLM observability for AI agents telemetry.dev",
+          "summary_zh": "LLM observability for AI agents telemetry.dev",
+          "publishedAt": "2026-10-31T07:01:00Z",
+          "published_at": "2026-10-31T07:01:00Z",
+          "votes_count": 192,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ed3203d2",
+          "title": "产品更新：LumaFold: Scree",
+          "title_en": "LumaFold: Screen Light",
+          "url": "https://www.producthunt.com/products/lumafold-screen-light?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/lumafold-screen-light?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Makeup Mirror & Color Effects for iPhone Duo M",
+          "summary_zh": "Makeup Mirror & Color Effects for iPhone Duo M",
+          "publishedAt": "2026-10-31T07:01:00Z",
+          "published_at": "2026-10-31T07:01:00Z",
+          "votes_count": 121,
+          "featured": true,
+          "topics": [
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "362",
+              "name": "Apple",
+              "slug": "apple"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "5c23692d",
+          "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/506855.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/506855.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "200美元Ultra用户先用  梦瑶 发自 凹非寺量子位 | 公众号 QbitAI Claude200美元的订阅用户，终于可以和烦人的5小时限制说再见了！！ 就在刚刚，Anthropic突然宣布调整Claude订阅计划。 原来的Max 5x和Max 20x正式改名，分别变成Max和Ultra。 价格倒是没变，依旧是每月100美元和200美元。 但这回，200美元档位的Ultra用户，还迎来了一项实打实的变化—— 取消5小时使用限制。    根据官方说明，符合验证条件的Ultra用户，从今天起—— 就能在每周额度内连续使用Claude，终于不用再被5小时窗口卡脖子了。 当然，目前大部分现有Ultra订阅用户已开始获得这项调整，新账号则需要等待验证，可以等等～ 有一点需要敲重点哈：每周使用额度保持不变，仍为Pro用户的10倍。 大家觉得这诚意够不？ 反正评论区…显然已经有昨天刚给自家Plus用户额度翻倍的人不买账了： 就这？建议学学28天重置计划。（笑）    还有网友锐评，直接把这波操作翻译成了大白话—— 俺们Fable 5.5的额度消耗实在太惊人。 所以，唯一的解决办法，就是掏200美",
+          "summary_zh": "200美元Ultra用户先用  梦瑶 发自 凹非寺量子位 | 公众号 QbitAI Claude200美元的订阅用户，终于可以和烦人的5小时限制说再见了！！ 就在刚刚，Anthropic突然宣布调整Claude订阅计划。 原来的Max 5x和Max 20x正式改名，分别变成Max和Ultra。 价格倒是没变，依旧是每月100美元和200美元。 但这回，200美元档位的Ultra用户，还迎来了一项实打实的变化—— 取消5小时使用限制。    根据官方说明，符合验证条件的Ultra用户，从今天起—— 就能在每周额度内连续使用Claude，终于不用再被5小时窗口卡脖子了。 当然，目前大部分现有Ultra订阅用户已开始获得这项调整，新账号则需要等待验证，可以等等～ 有一点需要敲重点哈：每周使用额度保持不变，仍为Pro用户的10倍。 大家觉得这诚意够不？ 反正评论区…显然已经有昨天刚给自家Plus用户额度翻倍的人不买账了： 就这？建议学学28天重置计划。（笑）    还有网友锐评，直接把这波操作翻译成了大白话—— 俺们Fable 5.5的额度消耗实在太惊人。 所以，唯一的解决办法，就是掏200美",
+          "publishedAt": "2026-10-31T05:05:29Z",
+          "published_at": "2026-10-31T05:05:29Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "4360b42b",
+          "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/506866.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/506866.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "AI算力利用“九九成”  贾浩楠 发自 凹非寺量子位 | 公众号 QbitAI 越靠软件吃饭的公司，越重视硬件—— 以智驾模型知名的Momenta，出现在了一家成立仅仅两年多的芯片公司首次公开亮相里。 首款芯片，Day 0适配。 姐妹公司终于合体，最强智驾模型公司，如虎添翼。    新芯航途XHEART，现在成了Momenta的硬通货伙伴。 有模有芯，Momenta的智驾模型表现乃至公司整体，都面临新的价值重估了。 AI算力利用“九九成”，什么样的芯片？谁做的？ 芯片名字叫X7 Ultra，只看算力数值，在2026年底已经不能算“极致”了——700 TOPS。 但官方更加强调另外两种参数。 首先是量化模型输出与FP32基准模型的相似度超过99.99%。 它想表达的是：X7 Ultra的确有更高的推理效率，但没有放任量化误差无限扩大，而是要求量化后的模型输出尽可能贴近FP32模型。 因为大模型实在太能吃算力、内存和功耗了，把模型权重和计算精度压下来的主要途径，就是减少存储与计算开销。但压得太狠，输出也可能出现偏差。 能否把这笔账算好，直接关系到有限的功耗预算里究竟能跑多大的模型。",
+          "summary_zh": "AI算力利用“九九成”  贾浩楠 发自 凹非寺量子位 | 公众号 QbitAI 越靠软件吃饭的公司，越重视硬件—— 以智驾模型知名的Momenta，出现在了一家成立仅仅两年多的芯片公司首次公开亮相里。 首款芯片，Day 0适配。 姐妹公司终于合体，最强智驾模型公司，如虎添翼。    新芯航途XHEART，现在成了Momenta的硬通货伙伴。 有模有芯，Momenta的智驾模型表现乃至公司整体，都面临新的价值重估了。 AI算力利用“九九成”，什么样的芯片？谁做的？ 芯片名字叫X7 Ultra，只看算力数值，在2026年底已经不能算“极致”了——700 TOPS。 但官方更加强调另外两种参数。 首先是量化模型输出与FP32基准模型的相似度超过99.99%。 它想表达的是：X7 Ultra的确有更高的推理效率，但没有放任量化误差无限扩大，而是要求量化后的模型输出尽可能贴近FP32模型。 因为大模型实在太能吃算力、内存和功耗了，把模型权重和计算精度压下来的主要途径，就是减少存储与计算开销。但压得太狠，输出也可能出现偏差。 能否把这笔账算好，直接关系到有限的功耗预算里究竟能跑多大的模型。",
+          "publishedAt": "2026-10-31T05:11:19Z",
+          "published_at": "2026-10-31T05:11:19Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "4e656cb4",
+          "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/10/506884.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/10/506884.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "苹果“牛奶倒河里”式操作翻红  一水 发自 凹非寺量子位 | 公众号 QbitAI 不是哥们，苹果这“精准刀法”，是不是有点太狠、太绝、太资本主义了？？ 这几年AI大潮来了，苹果押注未来的准头，只能说不敢恭维。 但一说到怎么砍配置、分档位、拿捏用户预算，苹果突然又准得像接入了“世界模型”。 这回，甚至连已经焊进机器里的内存，都没能逃过这一刀。 最近，苹果就因为这么一桩事，又被网友狠狠吐槽了一通。 尤其是两年前买了M4 iPad Pro的老用户，看完更是血压飙升。    甚至有网友直言： 苹果这刀法，已经到了“不人道”的程度。 到底怎么回事？ 苹果“牛奶倒河里”式操作翻红 这事儿还得从X上一条浏览量破两百万的帖子说起。 就在最近，博主@mylifcc突然开喷，称苹果的“精准刀法”已经进化到了“不人道（inhumane）”的程度。 矛头直指2024年发布的M4 iPad Pro。  明明装了标称容量合计12GB的内存颗粒，苹果却只给用户8GB可用内存。     内存的钱都花了，颗粒也焊进主板了，苹果却愣是让其中4GB容量闲着。 图啥呢？ 博主给出的解释相当扎心： 还不是为了守住高配版的溢价",
+          "summary_zh": "苹果“牛奶倒河里”式操作翻红  一水 发自 凹非寺量子位 | 公众号 QbitAI 不是哥们，苹果这“精准刀法”，是不是有点太狠、太绝、太资本主义了？？ 这几年AI大潮来了，苹果押注未来的准头，只能说不敢恭维。 但一说到怎么砍配置、分档位、拿捏用户预算，苹果突然又准得像接入了“世界模型”。 这回，甚至连已经焊进机器里的内存，都没能逃过这一刀。 最近，苹果就因为这么一桩事，又被网友狠狠吐槽了一通。 尤其是两年前买了M4 iPad Pro的老用户，看完更是血压飙升。    甚至有网友直言： 苹果这刀法，已经到了“不人道”的程度。 到底怎么回事？ 苹果“牛奶倒河里”式操作翻红 这事儿还得从X上一条浏览量破两百万的帖子说起。 就在最近，博主@mylifcc突然开喷，称苹果的“精准刀法”已经进化到了“不人道（inhumane）”的程度。 矛头直指2024年发布的M4 iPad Pro。  明明装了标称容量合计12GB的内存颗粒，苹果却只给用户8GB可用内存。     内存的钱都花了，颗粒也焊进主板了，苹果却愣是让其中4GB容量闲着。 图啥呢？ 博主给出的解释相当扎心： 还不是为了守住高配版的溢价",
+          "publishedAt": "2026-10-31T05:17:50Z",
+          "published_at": "2026-10-31T05:17:50Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "121dc297",
+          "title": "为什么别人家的芯片，能跑更大的模型？",
+          "title_en": null,
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "为什么别人家的芯片，能跑更大的模型？",
+          "summary_zh": "为什么别人家的芯片，能跑更大的模型？",
+          "publishedAt": "2026-10-31T23:29:08Z",
+          "published_at": "2026-10-31T23:29:08Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "7603e268",
+      "title": "产品更新：SKI",
+      "title_en": "SKI",
+      "url": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Voice-first coding harness Talk to your coding",
+      "summary_zh": "Voice-first coding harness Talk to your coding",
+      "publishedAt": "2026-10-31T07:01:00Z",
+      "published_at": "2026-10-31T07:01:00Z",
+      "votes_count": 218,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "2c44d7ce",
+      "title": "产品更新：Specsight",
+      "title_en": "Specsight",
+      "url": "https://www.producthunt.com/products/specsight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/specsight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Product observability for teams shipping fast",
+      "summary_zh": "Product observability for teams shipping fast",
+      "publishedAt": "2026-10-31T07:01:00Z",
+      "published_at": "2026-10-31T07:01:00Z",
+      "votes_count": 198,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "c68274dd",
+      "title": "AI资讯更新：telemetry.dev",
+      "title_en": "telemetry.dev",
+      "url": "https://www.producthunt.com/products/telemetry-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/telemetry-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "LLM observability for AI agents telemetry.dev",
+      "summary_zh": "LLM observability for AI agents telemetry.dev",
+      "publishedAt": "2026-10-31T07:01:00Z",
+      "published_at": "2026-10-31T07:01:00Z",
+      "votes_count": 192,
+      "featured": true,
+      "topics": [
+        {
+          "id": "108",
+          "name": "Analytics",
+          "slug": "analytics"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ed3203d2",
+      "title": "产品更新：LumaFold: Scree",
+      "title_en": "LumaFold: Screen Light",
+      "url": "https://www.producthunt.com/products/lumafold-screen-light?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/lumafold-screen-light?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Makeup Mirror & Color Effects for iPhone Duo M",
+      "summary_zh": "Makeup Mirror & Color Effects for iPhone Duo M",
+      "publishedAt": "2026-10-31T07:01:00Z",
+      "published_at": "2026-10-31T07:01:00Z",
+      "votes_count": 121,
+      "featured": true,
+      "topics": [
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "362",
+          "name": "Apple",
+          "slug": "apple"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5c23692d",
+      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/506855.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/506855.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "200美元Ultra用户先用  梦瑶 发自 凹非寺量子位 | 公众号 QbitAI Claude200美元的订阅用户，终于可以和烦人的5小时限制说再见了！！ 就在刚刚，Anthropic突然宣布调整Claude订阅计划。 原来的Max 5x和Max 20x正式改名，分别变成Max和Ultra。 价格倒是没变，依旧是每月100美元和200美元。 但这回，200美元档位的Ultra用户，还迎来了一项实打实的变化—— 取消5小时使用限制。    根据官方说明，符合验证条件的Ultra用户，从今天起—— 就能在每周额度内连续使用Claude，终于不用再被5小时窗口卡脖子了。 当然，目前大部分现有Ultra订阅用户已开始获得这项调整，新账号则需要等待验证，可以等等～ 有一点需要敲重点哈：每周使用额度保持不变，仍为Pro用户的10倍。 大家觉得这诚意够不？ 反正评论区…显然已经有昨天刚给自家Plus用户额度翻倍的人不买账了： 就这？建议学学28天重置计划。（笑）    还有网友锐评，直接把这波操作翻译成了大白话—— 俺们Fable 5.5的额度消耗实在太惊人。 所以，唯一的解决办法，就是掏200美",
+      "summary_zh": "200美元Ultra用户先用  梦瑶 发自 凹非寺量子位 | 公众号 QbitAI Claude200美元的订阅用户，终于可以和烦人的5小时限制说再见了！！ 就在刚刚，Anthropic突然宣布调整Claude订阅计划。 原来的Max 5x和Max 20x正式改名，分别变成Max和Ultra。 价格倒是没变，依旧是每月100美元和200美元。 但这回，200美元档位的Ultra用户，还迎来了一项实打实的变化—— 取消5小时使用限制。    根据官方说明，符合验证条件的Ultra用户，从今天起—— 就能在每周额度内连续使用Claude，终于不用再被5小时窗口卡脖子了。 当然，目前大部分现有Ultra订阅用户已开始获得这项调整，新账号则需要等待验证，可以等等～ 有一点需要敲重点哈：每周使用额度保持不变，仍为Pro用户的10倍。 大家觉得这诚意够不？ 反正评论区…显然已经有昨天刚给自家Plus用户额度翻倍的人不买账了： 就这？建议学学28天重置计划。（笑）    还有网友锐评，直接把这波操作翻译成了大白话—— 俺们Fable 5.5的额度消耗实在太惊人。 所以，唯一的解决办法，就是掏200美",
+      "publishedAt": "2026-10-31T05:05:29Z",
+      "published_at": "2026-10-31T05:05:29Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4360b42b",
+      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/506866.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/506866.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AI算力利用“九九成”  贾浩楠 发自 凹非寺量子位 | 公众号 QbitAI 越靠软件吃饭的公司，越重视硬件—— 以智驾模型知名的Momenta，出现在了一家成立仅仅两年多的芯片公司首次公开亮相里。 首款芯片，Day 0适配。 姐妹公司终于合体，最强智驾模型公司，如虎添翼。    新芯航途XHEART，现在成了Momenta的硬通货伙伴。 有模有芯，Momenta的智驾模型表现乃至公司整体，都面临新的价值重估了。 AI算力利用“九九成”，什么样的芯片？谁做的？ 芯片名字叫X7 Ultra，只看算力数值，在2026年底已经不能算“极致”了——700 TOPS。 但官方更加强调另外两种参数。 首先是量化模型输出与FP32基准模型的相似度超过99.99%。 它想表达的是：X7 Ultra的确有更高的推理效率，但没有放任量化误差无限扩大，而是要求量化后的模型输出尽可能贴近FP32模型。 因为大模型实在太能吃算力、内存和功耗了，把模型权重和计算精度压下来的主要途径，就是减少存储与计算开销。但压得太狠，输出也可能出现偏差。 能否把这笔账算好，直接关系到有限的功耗预算里究竟能跑多大的模型。",
+      "summary_zh": "AI算力利用“九九成”  贾浩楠 发自 凹非寺量子位 | 公众号 QbitAI 越靠软件吃饭的公司，越重视硬件—— 以智驾模型知名的Momenta，出现在了一家成立仅仅两年多的芯片公司首次公开亮相里。 首款芯片，Day 0适配。 姐妹公司终于合体，最强智驾模型公司，如虎添翼。    新芯航途XHEART，现在成了Momenta的硬通货伙伴。 有模有芯，Momenta的智驾模型表现乃至公司整体，都面临新的价值重估了。 AI算力利用“九九成”，什么样的芯片？谁做的？ 芯片名字叫X7 Ultra，只看算力数值，在2026年底已经不能算“极致”了——700 TOPS。 但官方更加强调另外两种参数。 首先是量化模型输出与FP32基准模型的相似度超过99.99%。 它想表达的是：X7 Ultra的确有更高的推理效率，但没有放任量化误差无限扩大，而是要求量化后的模型输出尽可能贴近FP32模型。 因为大模型实在太能吃算力、内存和功耗了，把模型权重和计算精度压下来的主要途径，就是减少存储与计算开销。但压得太狠，输出也可能出现偏差。 能否把这笔账算好，直接关系到有限的功耗预算里究竟能跑多大的模型。",
+      "publishedAt": "2026-10-31T05:11:19Z",
+      "published_at": "2026-10-31T05:11:19Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4e656cb4",
+      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/506884.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/10/506884.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "苹果“牛奶倒河里”式操作翻红  一水 发自 凹非寺量子位 | 公众号 QbitAI 不是哥们，苹果这“精准刀法”，是不是有点太狠、太绝、太资本主义了？？ 这几年AI大潮来了，苹果押注未来的准头，只能说不敢恭维。 但一说到怎么砍配置、分档位、拿捏用户预算，苹果突然又准得像接入了“世界模型”。 这回，甚至连已经焊进机器里的内存，都没能逃过这一刀。 最近，苹果就因为这么一桩事，又被网友狠狠吐槽了一通。 尤其是两年前买了M4 iPad Pro的老用户，看完更是血压飙升。    甚至有网友直言： 苹果这刀法，已经到了“不人道”的程度。 到底怎么回事？ 苹果“牛奶倒河里”式操作翻红 这事儿还得从X上一条浏览量破两百万的帖子说起。 就在最近，博主@mylifcc突然开喷，称苹果的“精准刀法”已经进化到了“不人道（inhumane）”的程度。 矛头直指2024年发布的M4 iPad Pro。  明明装了标称容量合计12GB的内存颗粒，苹果却只给用户8GB可用内存。     内存的钱都花了，颗粒也焊进主板了，苹果却愣是让其中4GB容量闲着。 图啥呢？ 博主给出的解释相当扎心： 还不是为了守住高配版的溢价",
+      "summary_zh": "苹果“牛奶倒河里”式操作翻红  一水 发自 凹非寺量子位 | 公众号 QbitAI 不是哥们，苹果这“精准刀法”，是不是有点太狠、太绝、太资本主义了？？ 这几年AI大潮来了，苹果押注未来的准头，只能说不敢恭维。 但一说到怎么砍配置、分档位、拿捏用户预算，苹果突然又准得像接入了“世界模型”。 这回，甚至连已经焊进机器里的内存，都没能逃过这一刀。 最近，苹果就因为这么一桩事，又被网友狠狠吐槽了一通。 尤其是两年前买了M4 iPad Pro的老用户，看完更是血压飙升。    甚至有网友直言： 苹果这刀法，已经到了“不人道”的程度。 到底怎么回事？ 苹果“牛奶倒河里”式操作翻红 这事儿还得从X上一条浏览量破两百万的帖子说起。 就在最近，博主@mylifcc突然开喷，称苹果的“精准刀法”已经进化到了“不人道（inhumane）”的程度。 矛头直指2024年发布的M4 iPad Pro。  明明装了标称容量合计12GB的内存颗粒，苹果却只给用户8GB可用内存。     内存的钱都花了，颗粒也焊进主板了，苹果却愣是让其中4GB容量闲着。 图啥呢？ 博主给出的解释相当扎心： 还不是为了守住高配版的溢价",
+      "publishedAt": "2026-10-31T05:17:50Z",
+      "published_at": "2026-10-31T05:17:50Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "121dc297",
+      "title": "为什么别人家的芯片，能跑更大的模型？",
+      "title_en": null,
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "为什么别人家的芯片，能跑更大的模型？",
+      "summary_zh": "为什么别人家的芯片，能跑更大的模型？",
+      "publishedAt": "2026-10-31T23:29:08Z",
+      "published_at": "2026-10-31T23:29:08Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-10-31T14:39:03Z",
-  "generatedAt": "2026-10-31T14:39:03Z",
-  "count": 172,
-  "total": 172,
+  "generated_at": "2026-10-31T23:29:35Z",
+  "generatedAt": "2026-10-31T23:29:35Z",
+  "count": 173,
+  "total": 173,
   "entries": [
+    {
+      "date": "2026-11-01",
+      "generated_at": "2026-10-31T23:29:35Z",
+      "generatedAt": "2026-10-31T23:29:35Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "7603e268",
+          "title": "产品更新：SKI",
+          "title_en": "SKI",
+          "url": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Voice-first coding harness Talk to your coding",
+          "summary_zh": "Voice-first coding harness Talk to your coding",
+          "publishedAt": "2026-10-31T07:01:00Z",
+          "published_at": "2026-10-31T07:01:00Z",
+          "votes_count": 218,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2c44d7ce",
+          "title": "产品更新：Specsight",
+          "title_en": "Specsight",
+          "url": "https://www.producthunt.com/products/specsight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/specsight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Product observability for teams shipping fast",
+          "summary_zh": "Product observability for teams shipping fast",
+          "publishedAt": "2026-10-31T07:01:00Z",
+          "published_at": "2026-10-31T07:01:00Z",
+          "votes_count": 198,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c68274dd",
+          "title": "AI资讯更新：telemetry.dev",
+          "title_en": "telemetry.dev",
+          "url": "https://www.producthunt.com/products/telemetry-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/telemetry-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "LLM observability for AI agents telemetry.dev",
+          "summary_zh": "LLM observability for AI agents telemetry.dev",
+          "publishedAt": "2026-10-31T07:01:00Z",
+          "published_at": "2026-10-31T07:01:00Z",
+          "votes_count": 192,
+          "featured": true,
+          "topics": [
+            {
+              "id": "108",
+              "name": "Analytics",
+              "slug": "analytics"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-10-31",
       "generated_at": "2026-10-31T14:39:03Z",
