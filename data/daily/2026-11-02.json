@@ -1,0 +1,493 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-01T23:42:41Z",
+  "generatedAt": "2026-11-01T23:42:41Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "8d15836d",
+          "title": "AI资讯更新：Screen Studio",
+          "title_en": "Screen Studio 4.0",
+          "url": "https://www.producthunt.com/products/screen-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/screen-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Glass Loupe, Camera Cutout, Edit by Transcript",
+          "summary_zh": "Glass Loupe, Camera Cutout, Edit by Transcript",
+          "publishedAt": "2026-11-01T07:01:00Z",
+          "published_at": "2026-11-01T07:01:00Z",
+          "votes_count": 336,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f313f369",
+          "title": "产品更新：ClawsGO Science",
+          "title_en": "ClawsGO Science",
+          "url": "https://www.producthunt.com/products/clawsgo-science?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/clawsgo-science?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The AI research agent with its own cloud lab R",
+          "summary_zh": "The AI research agent with its own cloud lab R",
+          "publishedAt": "2026-11-01T07:01:00Z",
+          "published_at": "2026-11-01T07:01:00Z",
+          "votes_count": 199,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "711",
+              "name": "Science",
+              "slug": "science"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "605c2094",
+          "title": "产品更新：Riverside Agent",
+          "title_en": "Riverside Agents",
+          "url": "https://www.producthunt.com/products/riverside-fm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/riverside-fm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A team of AI agents for video: produce, edit,",
+          "summary_zh": "A team of AI agents for video: produce, edit,",
+          "publishedAt": "2026-11-01T07:01:00Z",
+          "published_at": "2026-11-01T07:01:00Z",
+          "votes_count": 168,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d736c564",
+          "title": "产品更新：Embage",
+          "title_en": "Embage",
+          "url": "https://www.producthunt.com/products/embage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/embage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Build agent for your customers, run workflows,",
+          "summary_zh": "Build agent for your customers, run workflows,",
+          "publishedAt": "2026-11-01T07:01:00Z",
+          "published_at": "2026-11-01T07:01:00Z",
+          "votes_count": 138,
+          "featured": true,
+          "topics": [
+            {
+              "id": "29",
+              "name": "Telegram",
+              "slug": "telegram"
+            },
+            {
+              "id": "123",
+              "name": "Customer Communication",
+              "slug": "customer-communication"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "b43e5028",
+          "title": "Jev新成果，再次引爆开源",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/506922.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/506922.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "再次“性价比屠夫”  文婷 发自 凹非寺 量子位 | 公众号QbitAI 好家伙，Jev新成果发布，再次“性价比屠夫”！ 这次，他们直接杀进了找人领域。 刚刚，Jev的母公司TypeSafe AI联手Agent工具平台Treg，开源了一款比Clay便宜了85%的找人工具，狂揽6400 Star。  以后你要是临时想找谁，直接喊它开工就行； 最低仅需要0.0089美元（约6分钱），它就能帮你捞回一条有用线索。 消息一出，评论区就沸腾了。 有小伙伴一边直呼“太疯狂了”，一边火速准备把它接进自己的仪表盘开测；  也有小伙伴看到价格当场瞳孔地震： 妈呀，这价格简直便宜得离谱。  而一向不放过任何玩梗机会的TypeSafe AI，则甩出了一张《飓风营救》的经典表情包，把Jev的核心能力总结得明明白白： I will look for you, I will find you. 我会去找你，我会找到你。  好好好，看来，Agent的“I will find you”时代，真的要来了。（doge） Agent想找谁，开口说一句就行 新工具的使用方法很简单，你只需要把Treg接入Agent，再告诉Ag",
+          "summary_zh": "再次“性价比屠夫”  文婷 发自 凹非寺 量子位 | 公众号QbitAI 好家伙，Jev新成果发布，再次“性价比屠夫”！ 这次，他们直接杀进了找人领域。 刚刚，Jev的母公司TypeSafe AI联手Agent工具平台Treg，开源了一款比Clay便宜了85%的找人工具，狂揽6400 Star。  以后你要是临时想找谁，直接喊它开工就行； 最低仅需要0.0089美元（约6分钱），它就能帮你捞回一条有用线索。 消息一出，评论区就沸腾了。 有小伙伴一边直呼“太疯狂了”，一边火速准备把它接进自己的仪表盘开测；  也有小伙伴看到价格当场瞳孔地震： 妈呀，这价格简直便宜得离谱。  而一向不放过任何玩梗机会的TypeSafe AI，则甩出了一张《飓风营救》的经典表情包，把Jev的核心能力总结得明明白白： I will look for you, I will find you. 我会去找你，我会找到你。  好好好，看来，Agent的“I will find you”时代，真的要来了。（doge） Agent想找谁，开口说一句就行 新工具的使用方法很简单，你只需要把Treg接入Agent，再告诉Ag",
+          "publishedAt": "2026-11-01T04:18:37Z",
+          "published_at": "2026-11-01T04:18:37Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "08b28bcc",
+          "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/506990.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/506990.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "这事还是想得太简单了  会打拳、能跳舞，对机器人来说，已经是旧闻，能叠衣服、做冰淇凌才是新亮点。 如今，它们在零售仓卖饮料、冰淇凌店里卖甜筒，上班上得有模有样。 但是一家老牌零售商却在这波热潮中狠狠栽了跟头。 2025年3月，四川社区便利店龙头红旗连锁发公告称，要和机器人公司一起立项研发「机器人无人售货系统」。 消息一出，资本市场一度沸腾，公司股价次日涨停，截至4月23日收盘，股价较公告前上涨约35.0%。 市场对「传统便利店+机器人店员」的想象被彻底点燃。  **△**图片由AI生成 然而研发16个月后，项目却宣告终止。 因为他们发现，即使在实验室锤炼成千上万次，来到真实的货架前，机器人依然表现得笨拙与无措。 但在具身智能行业，机器人零售已经成为多个具身公司青睐的落地场景，热门景区和繁华商圈纷纷出现「打工」的机器人。 机器人顺利上岗了吗？真实情况是怎样的呢？ 红旗想让机器人卖货，「这事还是想得太简单了」 面对资本市场的热情，红旗却不得不亲自浇下一盆冷水。 2026年7月初，红旗发公告表示，终止机器人无人售货系统研发。 红旗连锁可不是一个小超市那么简单，它是中国A股首家便利连锁超市上市",
+          "summary_zh": "这事还是想得太简单了  会打拳、能跳舞，对机器人来说，已经是旧闻，能叠衣服、做冰淇凌才是新亮点。 如今，它们在零售仓卖饮料、冰淇凌店里卖甜筒，上班上得有模有样。 但是一家老牌零售商却在这波热潮中狠狠栽了跟头。 2025年3月，四川社区便利店龙头红旗连锁发公告称，要和机器人公司一起立项研发「机器人无人售货系统」。 消息一出，资本市场一度沸腾，公司股价次日涨停，截至4月23日收盘，股价较公告前上涨约35.0%。 市场对「传统便利店+机器人店员」的想象被彻底点燃。  **△**图片由AI生成 然而研发16个月后，项目却宣告终止。 因为他们发现，即使在实验室锤炼成千上万次，来到真实的货架前，机器人依然表现得笨拙与无措。 但在具身智能行业，机器人零售已经成为多个具身公司青睐的落地场景，热门景区和繁华商圈纷纷出现「打工」的机器人。 机器人顺利上岗了吗？真实情况是怎样的呢？ 红旗想让机器人卖货，「这事还是想得太简单了」 面对资本市场的热情，红旗却不得不亲自浇下一盆冷水。 2026年7月初，红旗发公告表示，终止机器人无人售货系统研发。 红旗连锁可不是一个小超市那么简单，它是中国A股首家便利连锁超市上市",
+          "publishedAt": "2026-11-01T07:50:57Z",
+          "published_at": "2026-11-01T07:50:57Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "156f3096",
+          "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/507031.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/507031.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "让AI像牛顿一样思考  「让AI像牛顿一样思考」，这件事，终于有望了。 清华大学姚期智和袁洋老师领导的科研团队，搞出了一个重磅项目，叫「代数世界模型」（Algebraic World Model,AWM）。  之前大家老爱问一个问题： 如果让AI只学习牛顿发现万有引力之前的所有知识，它能自己把万有引力给推导出来吗？ 尴尬的是，训练数据容易被污染，很难复原出这样的情景：打造一个完全陌生的世界，让AI从0开始观察和实验。 但如今，代数世界模型给出了一种新解法。让AI从观察和实验出发，进一步理解世界这件事，变得没那么遥远了。  AI玩游戏，像不像第谷观星？ 有个叫ARC-AGI-3的游戏集，现在是各大前沿模型秀肌肉的地方。这游戏的特点就是，啥也不告诉你，没有规则，没有目标。 就是单纯的，让你自己去摸索。 像GPT Astra这种顶流选手，配合Provider Adapter框架，在这里面能拿到99.9%的高分。 它在玩游戏的时候，会自己把游戏机制整理成一堆符号化的规则。  密密麻麻，信息密度是很高，比其他模型精确多了。 但本质上，这东西就像是第谷的实验记录本。 第谷，开普勒的老师，一个观测狂",
+          "summary_zh": "让AI像牛顿一样思考  「让AI像牛顿一样思考」，这件事，终于有望了。 清华大学姚期智和袁洋老师领导的科研团队，搞出了一个重磅项目，叫「代数世界模型」（Algebraic World Model,AWM）。  之前大家老爱问一个问题： 如果让AI只学习牛顿发现万有引力之前的所有知识，它能自己把万有引力给推导出来吗？ 尴尬的是，训练数据容易被污染，很难复原出这样的情景：打造一个完全陌生的世界，让AI从0开始观察和实验。 但如今，代数世界模型给出了一种新解法。让AI从观察和实验出发，进一步理解世界这件事，变得没那么遥远了。  AI玩游戏，像不像第谷观星？ 有个叫ARC-AGI-3的游戏集，现在是各大前沿模型秀肌肉的地方。这游戏的特点就是，啥也不告诉你，没有规则，没有目标。 就是单纯的，让你自己去摸索。 像GPT Astra这种顶流选手，配合Provider Adapter框架，在这里面能拿到99.9%的高分。 它在玩游戏的时候，会自己把游戏机制整理成一堆符号化的规则。  密密麻麻，信息密度是很高，比其他模型精确多了。 但本质上，这东西就像是第谷的实验记录本。 第谷，开普勒的老师，一个观测狂",
+          "publishedAt": "2026-11-01T08:02:37Z",
+          "published_at": "2026-11-01T08:02:37Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "669a7b33",
+          "title": "让灾害预报更快转化为行动，浙大联合团",
+          "title_en": "让灾害预报更快转化为行动，浙大联合团队提出多智能体系统MAESTRO",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "让灾害预报更快转化为行动，浙大联合团队提出多智能体系统MAESTRO",
+          "summary_zh": "让灾害预报更快转化为行动，浙大联合团队提出多智能体系统MAESTRO",
+          "publishedAt": "2026-11-01T23:42:15Z",
+          "published_at": "2026-11-01T23:42:15Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "8d15836d",
+      "title": "AI资讯更新：Screen Studio",
+      "title_en": "Screen Studio 4.0",
+      "url": "https://www.producthunt.com/products/screen-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/screen-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Glass Loupe, Camera Cutout, Edit by Transcript",
+      "summary_zh": "Glass Loupe, Camera Cutout, Edit by Transcript",
+      "publishedAt": "2026-11-01T07:01:00Z",
+      "published_at": "2026-11-01T07:01:00Z",
+      "votes_count": 336,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "f313f369",
+      "title": "产品更新：ClawsGO Science",
+      "title_en": "ClawsGO Science",
+      "url": "https://www.producthunt.com/products/clawsgo-science?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/clawsgo-science?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI research agent with its own cloud lab R",
+      "summary_zh": "The AI research agent with its own cloud lab R",
+      "publishedAt": "2026-11-01T07:01:00Z",
+      "published_at": "2026-11-01T07:01:00Z",
+      "votes_count": 199,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "711",
+          "name": "Science",
+          "slug": "science"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "605c2094",
+      "title": "产品更新：Riverside Agent",
+      "title_en": "Riverside Agents",
+      "url": "https://www.producthunt.com/products/riverside-fm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/riverside-fm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A team of AI agents for video: produce, edit,",
+      "summary_zh": "A team of AI agents for video: produce, edit,",
+      "publishedAt": "2026-11-01T07:01:00Z",
+      "published_at": "2026-11-01T07:01:00Z",
+      "votes_count": 168,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d736c564",
+      "title": "产品更新：Embage",
+      "title_en": "Embage",
+      "url": "https://www.producthunt.com/products/embage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/embage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build agent for your customers, run workflows,",
+      "summary_zh": "Build agent for your customers, run workflows,",
+      "publishedAt": "2026-11-01T07:01:00Z",
+      "published_at": "2026-11-01T07:01:00Z",
+      "votes_count": 138,
+      "featured": true,
+      "topics": [
+        {
+          "id": "29",
+          "name": "Telegram",
+          "slug": "telegram"
+        },
+        {
+          "id": "123",
+          "name": "Customer Communication",
+          "slug": "customer-communication"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "b43e5028",
+      "title": "Jev新成果，再次引爆开源",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/506922.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/506922.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "再次“性价比屠夫”  文婷 发自 凹非寺 量子位 | 公众号QbitAI 好家伙，Jev新成果发布，再次“性价比屠夫”！ 这次，他们直接杀进了找人领域。 刚刚，Jev的母公司TypeSafe AI联手Agent工具平台Treg，开源了一款比Clay便宜了85%的找人工具，狂揽6400 Star。  以后你要是临时想找谁，直接喊它开工就行； 最低仅需要0.0089美元（约6分钱），它就能帮你捞回一条有用线索。 消息一出，评论区就沸腾了。 有小伙伴一边直呼“太疯狂了”，一边火速准备把它接进自己的仪表盘开测；  也有小伙伴看到价格当场瞳孔地震： 妈呀，这价格简直便宜得离谱。  而一向不放过任何玩梗机会的TypeSafe AI，则甩出了一张《飓风营救》的经典表情包，把Jev的核心能力总结得明明白白： I will look for you, I will find you. 我会去找你，我会找到你。  好好好，看来，Agent的“I will find you”时代，真的要来了。（doge） Agent想找谁，开口说一句就行 新工具的使用方法很简单，你只需要把Treg接入Agent，再告诉Ag",
+      "summary_zh": "再次“性价比屠夫”  文婷 发自 凹非寺 量子位 | 公众号QbitAI 好家伙，Jev新成果发布，再次“性价比屠夫”！ 这次，他们直接杀进了找人领域。 刚刚，Jev的母公司TypeSafe AI联手Agent工具平台Treg，开源了一款比Clay便宜了85%的找人工具，狂揽6400 Star。  以后你要是临时想找谁，直接喊它开工就行； 最低仅需要0.0089美元（约6分钱），它就能帮你捞回一条有用线索。 消息一出，评论区就沸腾了。 有小伙伴一边直呼“太疯狂了”，一边火速准备把它接进自己的仪表盘开测；  也有小伙伴看到价格当场瞳孔地震： 妈呀，这价格简直便宜得离谱。  而一向不放过任何玩梗机会的TypeSafe AI，则甩出了一张《飓风营救》的经典表情包，把Jev的核心能力总结得明明白白： I will look for you, I will find you. 我会去找你，我会找到你。  好好好，看来，Agent的“I will find you”时代，真的要来了。（doge） Agent想找谁，开口说一句就行 新工具的使用方法很简单，你只需要把Treg接入Agent，再告诉Ag",
+      "publishedAt": "2026-11-01T04:18:37Z",
+      "published_at": "2026-11-01T04:18:37Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "08b28bcc",
+      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/506990.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/506990.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "这事还是想得太简单了  会打拳、能跳舞，对机器人来说，已经是旧闻，能叠衣服、做冰淇凌才是新亮点。 如今，它们在零售仓卖饮料、冰淇凌店里卖甜筒，上班上得有模有样。 但是一家老牌零售商却在这波热潮中狠狠栽了跟头。 2025年3月，四川社区便利店龙头红旗连锁发公告称，要和机器人公司一起立项研发「机器人无人售货系统」。 消息一出，资本市场一度沸腾，公司股价次日涨停，截至4月23日收盘，股价较公告前上涨约35.0%。 市场对「传统便利店+机器人店员」的想象被彻底点燃。  **△**图片由AI生成 然而研发16个月后，项目却宣告终止。 因为他们发现，即使在实验室锤炼成千上万次，来到真实的货架前，机器人依然表现得笨拙与无措。 但在具身智能行业，机器人零售已经成为多个具身公司青睐的落地场景，热门景区和繁华商圈纷纷出现「打工」的机器人。 机器人顺利上岗了吗？真实情况是怎样的呢？ 红旗想让机器人卖货，「这事还是想得太简单了」 面对资本市场的热情，红旗却不得不亲自浇下一盆冷水。 2026年7月初，红旗发公告表示，终止机器人无人售货系统研发。 红旗连锁可不是一个小超市那么简单，它是中国A股首家便利连锁超市上市",
+      "summary_zh": "这事还是想得太简单了  会打拳、能跳舞，对机器人来说，已经是旧闻，能叠衣服、做冰淇凌才是新亮点。 如今，它们在零售仓卖饮料、冰淇凌店里卖甜筒，上班上得有模有样。 但是一家老牌零售商却在这波热潮中狠狠栽了跟头。 2025年3月，四川社区便利店龙头红旗连锁发公告称，要和机器人公司一起立项研发「机器人无人售货系统」。 消息一出，资本市场一度沸腾，公司股价次日涨停，截至4月23日收盘，股价较公告前上涨约35.0%。 市场对「传统便利店+机器人店员」的想象被彻底点燃。  **△**图片由AI生成 然而研发16个月后，项目却宣告终止。 因为他们发现，即使在实验室锤炼成千上万次，来到真实的货架前，机器人依然表现得笨拙与无措。 但在具身智能行业，机器人零售已经成为多个具身公司青睐的落地场景，热门景区和繁华商圈纷纷出现「打工」的机器人。 机器人顺利上岗了吗？真实情况是怎样的呢？ 红旗想让机器人卖货，「这事还是想得太简单了」 面对资本市场的热情，红旗却不得不亲自浇下一盆冷水。 2026年7月初，红旗发公告表示，终止机器人无人售货系统研发。 红旗连锁可不是一个小超市那么简单，它是中国A股首家便利连锁超市上市",
+      "publishedAt": "2026-11-01T07:50:57Z",
+      "published_at": "2026-11-01T07:50:57Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "156f3096",
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/507031.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507031.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "让AI像牛顿一样思考  「让AI像牛顿一样思考」，这件事，终于有望了。 清华大学姚期智和袁洋老师领导的科研团队，搞出了一个重磅项目，叫「代数世界模型」（Algebraic World Model,AWM）。  之前大家老爱问一个问题： 如果让AI只学习牛顿发现万有引力之前的所有知识，它能自己把万有引力给推导出来吗？ 尴尬的是，训练数据容易被污染，很难复原出这样的情景：打造一个完全陌生的世界，让AI从0开始观察和实验。 但如今，代数世界模型给出了一种新解法。让AI从观察和实验出发，进一步理解世界这件事，变得没那么遥远了。  AI玩游戏，像不像第谷观星？ 有个叫ARC-AGI-3的游戏集，现在是各大前沿模型秀肌肉的地方。这游戏的特点就是，啥也不告诉你，没有规则，没有目标。 就是单纯的，让你自己去摸索。 像GPT Astra这种顶流选手，配合Provider Adapter框架，在这里面能拿到99.9%的高分。 它在玩游戏的时候，会自己把游戏机制整理成一堆符号化的规则。  密密麻麻，信息密度是很高，比其他模型精确多了。 但本质上，这东西就像是第谷的实验记录本。 第谷，开普勒的老师，一个观测狂",
+      "summary_zh": "让AI像牛顿一样思考  「让AI像牛顿一样思考」，这件事，终于有望了。 清华大学姚期智和袁洋老师领导的科研团队，搞出了一个重磅项目，叫「代数世界模型」（Algebraic World Model,AWM）。  之前大家老爱问一个问题： 如果让AI只学习牛顿发现万有引力之前的所有知识，它能自己把万有引力给推导出来吗？ 尴尬的是，训练数据容易被污染，很难复原出这样的情景：打造一个完全陌生的世界，让AI从0开始观察和实验。 但如今，代数世界模型给出了一种新解法。让AI从观察和实验出发，进一步理解世界这件事，变得没那么遥远了。  AI玩游戏，像不像第谷观星？ 有个叫ARC-AGI-3的游戏集，现在是各大前沿模型秀肌肉的地方。这游戏的特点就是，啥也不告诉你，没有规则，没有目标。 就是单纯的，让你自己去摸索。 像GPT Astra这种顶流选手，配合Provider Adapter框架，在这里面能拿到99.9%的高分。 它在玩游戏的时候，会自己把游戏机制整理成一堆符号化的规则。  密密麻麻，信息密度是很高，比其他模型精确多了。 但本质上，这东西就像是第谷的实验记录本。 第谷，开普勒的老师，一个观测狂",
+      "publishedAt": "2026-11-01T08:02:37Z",
+      "published_at": "2026-11-01T08:02:37Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "669a7b33",
+      "title": "让灾害预报更快转化为行动，浙大联合团",
+      "title_en": "让灾害预报更快转化为行动，浙大联合团队提出多智能体系统MAESTRO",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "让灾害预报更快转化为行动，浙大联合团队提出多智能体系统MAESTRO",
+      "summary_zh": "让灾害预报更快转化为行动，浙大联合团队提出多智能体系统MAESTRO",
+      "publishedAt": "2026-11-01T23:42:15Z",
+      "published_at": "2026-11-01T23:42:15Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

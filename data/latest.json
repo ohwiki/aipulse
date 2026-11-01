@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T15:22:32Z",
-  "generatedAt": "2026-11-01T15:22:32Z",
+  "generated_at": "2026-11-01T23:42:41Z",
+  "generatedAt": "2026-11-01T23:42:41Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "8d15836d",
@@ -22,7 +22,7 @@
       "summary_zh": "Glass Loupe, Camera Cutout, Edit by Transcript",
       "publishedAt": "2026-11-01T07:01:00Z",
       "published_at": "2026-11-01T07:01:00Z",
-      "votes_count": 245,
+      "votes_count": 336,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "The AI research agent with its own cloud lab R",
       "publishedAt": "2026-11-01T07:01:00Z",
       "published_at": "2026-11-01T07:01:00Z",
-      "votes_count": 162,
+      "votes_count": 199,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "A team of AI agents for video: produce, edit,",
       "publishedAt": "2026-11-01T07:01:00Z",
       "published_at": "2026-11-01T07:01:00Z",
-      "votes_count": 135,
+      "votes_count": 168,
       "featured": true,
       "topics": [
         {
@@ -110,6 +110,44 @@
           "id": "857",
           "name": "Video",
           "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d736c564",
+      "title": "产品更新：Embage",
+      "title_en": "Embage",
+      "url": "https://www.producthunt.com/products/embage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/embage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build agent for your customers, run workflows,",
+      "summary_zh": "Build agent for your customers, run workflows,",
+      "publishedAt": "2026-11-01T07:01:00Z",
+      "published_at": "2026-11-01T07:01:00Z",
+      "votes_count": 138,
+      "featured": true,
+      "topics": [
+        {
+          "id": "29",
+          "name": "Telegram",
+          "slug": "telegram"
+        },
+        {
+          "id": "123",
+          "name": "Customer Communication",
+          "slug": "customer-communication"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         }
       ],
       "score_details": null
@@ -195,8 +233,8 @@
       "rankingScore": 5.0,
       "summary": "让灾害预报更快转化为行动，浙大联合团队提出多智能体系统MAESTRO",
       "summary_zh": "让灾害预报更快转化为行动，浙大联合团队提出多智能体系统MAESTRO",
-      "publishedAt": "2026-11-01T15:22:07Z",
-      "published_at": "2026-11-01T15:22:07Z",
+      "publishedAt": "2026-11-01T23:42:15Z",
+      "published_at": "2026-11-01T23:42:15Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

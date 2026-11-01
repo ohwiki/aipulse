@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-11-01T15:22:32Z",
-  "generatedAt": "2026-11-01T15:22:32Z",
-  "count": 173,
-  "total": 173,
+  "generated_at": "2026-11-01T23:42:41Z",
+  "generatedAt": "2026-11-01T23:42:41Z",
+  "count": 174,
+  "total": 174,
   "entries": [
+    {
+      "date": "2026-11-02",
+      "generated_at": "2026-11-01T23:42:41Z",
+      "generatedAt": "2026-11-01T23:42:41Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "8d15836d",
+          "title": "AI资讯更新：Screen Studio",
+          "title_en": "Screen Studio 4.0",
+          "url": "https://www.producthunt.com/products/screen-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/screen-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Glass Loupe, Camera Cutout, Edit by Transcript",
+          "summary_zh": "Glass Loupe, Camera Cutout, Edit by Transcript",
+          "publishedAt": "2026-11-01T07:01:00Z",
+          "published_at": "2026-11-01T07:01:00Z",
+          "votes_count": 336,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f313f369",
+          "title": "产品更新：ClawsGO Science",
+          "title_en": "ClawsGO Science",
+          "url": "https://www.producthunt.com/products/clawsgo-science?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/clawsgo-science?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The AI research agent with its own cloud lab R",
+          "summary_zh": "The AI research agent with its own cloud lab R",
+          "publishedAt": "2026-11-01T07:01:00Z",
+          "published_at": "2026-11-01T07:01:00Z",
+          "votes_count": 199,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "711",
+              "name": "Science",
+              "slug": "science"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "605c2094",
+          "title": "产品更新：Riverside Agent",
+          "title_en": "Riverside Agents",
+          "url": "https://www.producthunt.com/products/riverside-fm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/riverside-fm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A team of AI agents for video: produce, edit,",
+          "summary_zh": "A team of AI agents for video: produce, edit,",
+          "publishedAt": "2026-11-01T07:01:00Z",
+          "published_at": "2026-11-01T07:01:00Z",
+          "votes_count": 168,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-01",
       "generated_at": "2026-11-01T15:22:32Z",
