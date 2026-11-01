@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-10-31T23:29:35Z",
-  "generatedAt": "2026-10-31T23:29:35Z",
+  "generated_at": "2026-11-01T15:22:32Z",
+  "generatedAt": "2026-11-01T15:22:32Z",
   "count": 173,
   "total": 173,
   "entries": [
     {
       "date": "2026-11-01",
-      "generated_at": "2026-10-31T23:29:35Z",
-      "generatedAt": "2026-10-31T23:29:35Z",
-      "total": 8,
+      "generated_at": "2026-11-01T15:22:32Z",
+      "generatedAt": "2026-11-01T15:22:32Z",
+      "total": 7,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "7603e268",
-          "title": "产品更新：SKI",
-          "title_en": "SKI",
-          "url": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "8d15836d",
+          "title": "AI资讯更新：Screen Studio",
+          "title_en": "Screen Studio 4.0",
+          "url": "https://www.producthunt.com/products/screen-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/screen-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Voice-first coding harness Talk to your coding",
-          "summary_zh": "Voice-first coding harness Talk to your coding",
-          "publishedAt": "2026-10-31T07:01:00Z",
-          "published_at": "2026-10-31T07:01:00Z",
-          "votes_count": 218,
+          "summary": "Glass Loupe, Camera Cutout, Edit by Transcript",
+          "summary_zh": "Glass Loupe, Camera Cutout, Edit by Transcript",
+          "publishedAt": "2026-11-01T07:01:00Z",
+          "published_at": "2026-11-01T07:01:00Z",
+          "votes_count": 245,
           "featured": true,
           "topics": [
             {
@@ -37,36 +37,36 @@
               "slug": "productivity"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
             },
             {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
             }
           ],
           "score_details": null
         },
         {
-          "id": "2c44d7ce",
-          "title": "产品更新：Specsight",
-          "title_en": "Specsight",
-          "url": "https://www.producthunt.com/products/specsight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "f313f369",
+          "title": "产品更新：ClawsGO Science",
+          "title_en": "ClawsGO Science",
+          "url": "https://www.producthunt.com/products/clawsgo-science?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/specsight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/clawsgo-science?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Product observability for teams shipping fast",
-          "summary_zh": "Product observability for teams shipping fast",
-          "publishedAt": "2026-10-31T07:01:00Z",
-          "published_at": "2026-10-31T07:01:00Z",
-          "votes_count": 198,
+          "summary": "The AI research agent with its own cloud lab R",
+          "summary_zh": "The AI research agent with its own cloud lab R",
+          "publishedAt": "2026-11-01T07:01:00Z",
+          "published_at": "2026-11-01T07:01:00Z",
+          "votes_count": 162,
           "featured": true,
           "topics": [
             {
@@ -75,52 +75,47 @@
               "slug": "productivity"
             },
             {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
-            },
-            {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "711",
+              "name": "Science",
+              "slug": "science"
             }
           ],
           "score_details": null
         },
         {
-          "id": "c68274dd",
-          "title": "AI资讯更新：telemetry.dev",
-          "title_en": "telemetry.dev",
-          "url": "https://www.producthunt.com/products/telemetry-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "605c2094",
+          "title": "产品更新：Riverside Agent",
+          "title_en": "Riverside Agents",
+          "url": "https://www.producthunt.com/products/riverside-fm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/telemetry-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/riverside-fm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "LLM observability for AI agents telemetry.dev",
-          "summary_zh": "LLM observability for AI agents telemetry.dev",
-          "publishedAt": "2026-10-31T07:01:00Z",
-          "published_at": "2026-10-31T07:01:00Z",
-          "votes_count": 192,
+          "summary": "A team of AI agents for video: produce, edit,",
+          "summary_zh": "A team of AI agents for video: produce, edit,",
+          "publishedAt": "2026-11-01T07:01:00Z",
+          "published_at": "2026-11-01T07:01:00Z",
+          "votes_count": 135,
           "featured": true,
           "topics": [
-            {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
             }
           ],
           "score_details": null
