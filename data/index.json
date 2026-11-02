@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-11-01T23:42:41Z",
-  "generatedAt": "2026-11-01T23:42:41Z",
-  "count": 174,
-  "total": 174,
+  "generated_at": "2026-11-02T18:39:42Z",
+  "generatedAt": "2026-11-02T18:39:42Z",
+  "count": 175,
+  "total": 175,
   "entries": [
+    {
+      "date": "2026-11-03",
+      "generated_at": "2026-11-02T18:39:42Z",
+      "generatedAt": "2026-11-02T18:39:42Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "60602415",
+          "title": "产品更新：beacon.sh",
+          "title_en": "beacon.sh",
+          "url": "https://www.producthunt.com/products/asymptotelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/asymptotelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Open-source self-improving memory for AI codin",
+          "summary_zh": "Open-source self-improving memory for AI codin",
+          "publishedAt": "2026-11-02T08:01:00Z",
+          "published_at": "2026-11-02T08:01:00Z",
+          "votes_count": 305,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            },
+            {
+              "id": "778",
+              "name": "SDK",
+              "slug": "sdk"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "8a26ea17",
+          "title": "产品更新：Xmind 2027",
+          "title_en": "Xmind 2027",
+          "url": "https://www.producthunt.com/products/xmind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/xmind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your mind map is now an AI thinking partner As",
+          "summary_zh": "Your mind map is now an AI thinking partner As",
+          "publishedAt": "2026-11-02T08:01:00Z",
+          "published_at": "2026-11-02T08:01:00Z",
+          "votes_count": 195,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "96",
+              "name": "Notes",
+              "slug": "notes"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "0bcead04",
+          "title": "产品更新：UnleashX",
+          "title_en": "UnleashX",
+          "url": "https://www.producthunt.com/products/unleashx?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/unleashx?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The AI workforce that turns conversations into",
+          "summary_zh": "The AI workforce that turns conversations into",
+          "publishedAt": "2026-11-02T08:01:00Z",
+          "published_at": "2026-11-02T08:01:00Z",
+          "votes_count": 186,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-02",
       "generated_at": "2026-11-01T23:42:41Z",
