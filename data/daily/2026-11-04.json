@@ -1,0 +1,483 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-03T16:24:43Z",
+  "generatedAt": "2026-11-03T16:24:43Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "7c4126be",
+          "title": "产品更新：AgentKit by Sca",
+          "title_en": "AgentKit by Scalekit",
+          "url": "https://www.producthunt.com/products/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "MCP gateway for production agents that acts on",
+          "summary_zh": "MCP gateway for production agents that acts on",
+          "publishedAt": "2026-11-03T08:01:00Z",
+          "published_at": "2026-11-03T08:01:00Z",
+          "votes_count": 240,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "90677f7a",
+          "title": "产品更新：Teamily AI",
+          "title_en": "Teamily AI",
+          "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your personal agent, agent teams & people in o",
+          "summary_zh": "Your personal agent, agent teams & people in o",
+          "publishedAt": "2026-11-03T08:01:00Z",
+          "published_at": "2026-11-03T08:01:00Z",
+          "votes_count": 223,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "717",
+              "name": "Social Networking",
+              "slug": "social-networking"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ad6a4726",
+          "title": "AI资讯更新：Testifly",
+          "title_en": "Testifly",
+          "url": "https://www.producthunt.com/products/testifly-launch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/testifly-launch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Autonomous AI QA. Zero prompting. Zero mainten",
+          "summary_zh": "Autonomous AI QA. Zero prompting. Zero mainten",
+          "publishedAt": "2026-11-03T08:01:00Z",
+          "published_at": "2026-11-03T08:01:00Z",
+          "votes_count": 149,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "74e5d658",
+          "title": "产品更新：Synter Canvas",
+          "title_en": "Synter Canvas",
+          "url": "https://www.producthunt.com/products/synter-canvas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/synter-canvas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your AI agent runs ads across 30+ ad platforms",
+          "summary_zh": "Your AI agent runs ads across 30+ ad platforms",
+          "publishedAt": "2026-11-03T08:01:00Z",
+          "published_at": "2026-11-03T08:01:00Z",
+          "votes_count": 122,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "04ee5ea2",
+          "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/507313.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/507313.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作   近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作，双方完成了一系列产品集成并首次共同推出“从提示词到成片”（Prompt to Production）教育计划。通过线上研讨会和系列视频，该计划将帮助海外个人创作者和团队将创意构想更高效地转化为可落地的内容。 在首场线上研讨会中，OpenAI应用AI工程师Tyler Ryu、PixVerse北美市场营销负责人演示了如何在工作流中结合使用 OpenAI 的前沿模型、Agent（智能体）能力与 PixVerse 的多模态生成工具，来自PixVerse 社区的专业创作者也分享了实战经验。未来，PixVerse 与 OpenAI 将继续围绕创作全流程深化合作，让更多创作者能够从容驾驭 AI 工具，把精力真正还给创作本身。 深度产品集成合作，打通策划、生成、制作三大环节 当下，越来越多创作者希望借助 AI 分担日常工作，把时间真正留给创作本身。顺应这一趋势，PixVerse与 Open",
+          "summary_zh": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作   近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作，双方完成了一系列产品集成并首次共同推出“从提示词到成片”（Prompt to Production）教育计划。通过线上研讨会和系列视频，该计划将帮助海外个人创作者和团队将创意构想更高效地转化为可落地的内容。 在首场线上研讨会中，OpenAI应用AI工程师Tyler Ryu、PixVerse北美市场营销负责人演示了如何在工作流中结合使用 OpenAI 的前沿模型、Agent（智能体）能力与 PixVerse 的多模态生成工具，来自PixVerse 社区的专业创作者也分享了实战经验。未来，PixVerse 与 OpenAI 将继续围绕创作全流程深化合作，让更多创作者能够从容驾驭 AI 工具，把精力真正还给创作本身。 深度产品集成合作，打通策划、生成、制作三大环节 当下，越来越多创作者希望借助 AI 分担日常工作，把时间真正留给创作本身。顺应这一趋势，PixVerse与 Open",
+          "publishedAt": "2026-11-03T01:46:55Z",
+          "published_at": "2026-11-03T01:46:55Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "2f75960b",
+          "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/507322.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/507322.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "指令执行能力也同步提升  GPT-6 Astra能直接读取编辑小模型权重了。 MIT刚刚做了个实验，瞬间引爆大模型圈—— 0.8B的「源神」Qwen3.5交给Astra，仅改动其中0.016%的权重，模型性能可以直接飞升。 全程没用训练，也没梯度下降。     同样的采样设置下，MATH-500得分从7.9%飙升到48.1%，数学运算能力是原来的约6倍。 甚至连原本没要求优化的指令执行能力也通通提高了3倍。 而修完模型还没完，让Astra从零写小游戏网络的权重，效果也是不错。 它一次回复交卷，得分超过训练了5亿步的PPO基线20倍。   视频链接：https://mp.weixin.qq.com/s/tdEmYQz4B9W4OfNpkU-anw  团队给这套打法也起了个名字： Weight-Space Programming，权重空间编程。 Astra爆改模型权重 简单来说，就是让大模型直接分析神经网络权重，判断它在做什么、哪里出了问题，再按要求修改，甚至从零写出一个网络。 具体过程，先看最直观的Qwen实验。 研究者给Astra准备了一个Python环境，里面放着Qwen3.5-0.",
+          "summary_zh": "指令执行能力也同步提升  GPT-6 Astra能直接读取编辑小模型权重了。 MIT刚刚做了个实验，瞬间引爆大模型圈—— 0.8B的「源神」Qwen3.5交给Astra，仅改动其中0.016%的权重，模型性能可以直接飞升。 全程没用训练，也没梯度下降。     同样的采样设置下，MATH-500得分从7.9%飙升到48.1%，数学运算能力是原来的约6倍。 甚至连原本没要求优化的指令执行能力也通通提高了3倍。 而修完模型还没完，让Astra从零写小游戏网络的权重，效果也是不错。 它一次回复交卷，得分超过训练了5亿步的PPO基线20倍。   视频链接：https://mp.weixin.qq.com/s/tdEmYQz4B9W4OfNpkU-anw  团队给这套打法也起了个名字： Weight-Space Programming，权重空间编程。 Astra爆改模型权重 简单来说，就是让大模型直接分析神经网络权重，判断它在做什么、哪里出了问题，再按要求修改，甚至从零写出一个网络。 具体过程，先看最直观的Qwen实验。 研究者给Astra准备了一个Python环境，里面放着Qwen3.5-0.",
+          "publishedAt": "2026-11-03T01:57:30Z",
+          "published_at": "2026-11-03T01:57:30Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0be39f43",
+          "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/507339.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/507339.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。  10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。作为年轻人最关注的科普活动之一，B站科学晚邀请顶尖科研工作者、院士学者、头部科技知识UP主等，聚焦年轻群体最关注的科技议题与创新技术，通过专题演讲、多人对谈、现场实验等多种方式，展现国内最前沿的科学技术发展动态。 今年是B站举办科学晚的第四年。据了解，今年B站科学晚在活动规模与内容上进行了扩充。在往年核心的夜场趣味展演之外，今年科学晚围绕飞行汽车、具身智能、脑机接口、量子技术、可控核聚变等前沿热门科技议题，新增了日场活动，同期展开15场嘉宾对谈与演讲活动。  （从左至右 B站UP主吟游诗人基德、中国科学院院士彭承志、全球人工智能创新治理中心副主任蒋昌建） 数据显示，过去一年，B站上科普、科技相关知识内容，用户累计观看时长突破了23亿小时，相关UP主达133万，有超过3200位专业科研人员、科技企业等加入B站分享内容。 通过科研工作者的讲述、实验展示与互动体验，科学晚将前沿的科技议题进一步转化为公众能够",
+          "summary_zh": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。  10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。作为年轻人最关注的科普活动之一，B站科学晚邀请顶尖科研工作者、院士学者、头部科技知识UP主等，聚焦年轻群体最关注的科技议题与创新技术，通过专题演讲、多人对谈、现场实验等多种方式，展现国内最前沿的科学技术发展动态。 今年是B站举办科学晚的第四年。据了解，今年B站科学晚在活动规模与内容上进行了扩充。在往年核心的夜场趣味展演之外，今年科学晚围绕飞行汽车、具身智能、脑机接口、量子技术、可控核聚变等前沿热门科技议题，新增了日场活动，同期展开15场嘉宾对谈与演讲活动。  （从左至右 B站UP主吟游诗人基德、中国科学院院士彭承志、全球人工智能创新治理中心副主任蒋昌建） 数据显示，过去一年，B站上科普、科技相关知识内容，用户累计观看时长突破了23亿小时，相关UP主达133万，有超过3200位专业科研人员、科技企业等加入B站分享内容。 通过科研工作者的讲述、实验展示与互动体验，科学晚将前沿的科技议题进一步转化为公众能够",
+          "publishedAt": "2026-11-03T02:02:05Z",
+          "published_at": "2026-11-03T02:02:05Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "43b440c3",
+          "title": "具身智能的下一个主战场，为什么是「仓",
+          "title_en": "具身智能的下一个主战场，为什么是「仓储物流」？",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "具身智能的下一个主战场，为什么是「仓储物流」？",
+          "summary_zh": "具身智能的下一个主战场，为什么是「仓储物流」？",
+          "publishedAt": "2026-11-03T16:23:59Z",
+          "published_at": "2026-11-03T16:23:59Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "7c4126be",
+      "title": "产品更新：AgentKit by Sca",
+      "title_en": "AgentKit by Scalekit",
+      "url": "https://www.producthunt.com/products/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/scalekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "MCP gateway for production agents that acts on",
+      "summary_zh": "MCP gateway for production agents that acts on",
+      "publishedAt": "2026-11-03T08:01:00Z",
+      "published_at": "2026-11-03T08:01:00Z",
+      "votes_count": 240,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "90677f7a",
+      "title": "产品更新：Teamily AI",
+      "title_en": "Teamily AI",
+      "url": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/teamily-ai-human-ai-social-network?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your personal agent, agent teams & people in o",
+      "summary_zh": "Your personal agent, agent teams & people in o",
+      "publishedAt": "2026-11-03T08:01:00Z",
+      "published_at": "2026-11-03T08:01:00Z",
+      "votes_count": 223,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "717",
+          "name": "Social Networking",
+          "slug": "social-networking"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ad6a4726",
+      "title": "AI资讯更新：Testifly",
+      "title_en": "Testifly",
+      "url": "https://www.producthunt.com/products/testifly-launch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/testifly-launch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Autonomous AI QA. Zero prompting. Zero mainten",
+      "summary_zh": "Autonomous AI QA. Zero prompting. Zero mainten",
+      "publishedAt": "2026-11-03T08:01:00Z",
+      "published_at": "2026-11-03T08:01:00Z",
+      "votes_count": 149,
+      "featured": true,
+      "topics": [
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "74e5d658",
+      "title": "产品更新：Synter Canvas",
+      "title_en": "Synter Canvas",
+      "url": "https://www.producthunt.com/products/synter-canvas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/synter-canvas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your AI agent runs ads across 30+ ad platforms",
+      "summary_zh": "Your AI agent runs ads across 30+ ad platforms",
+      "publishedAt": "2026-11-03T08:01:00Z",
+      "published_at": "2026-11-03T08:01:00Z",
+      "votes_count": 122,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "04ee5ea2",
+      "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/507313.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507313.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作   近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作，双方完成了一系列产品集成并首次共同推出“从提示词到成片”（Prompt to Production）教育计划。通过线上研讨会和系列视频，该计划将帮助海外个人创作者和团队将创意构想更高效地转化为可落地的内容。 在首场线上研讨会中，OpenAI应用AI工程师Tyler Ryu、PixVerse北美市场营销负责人演示了如何在工作流中结合使用 OpenAI 的前沿模型、Agent（智能体）能力与 PixVerse 的多模态生成工具，来自PixVerse 社区的专业创作者也分享了实战经验。未来，PixVerse 与 OpenAI 将继续围绕创作全流程深化合作，让更多创作者能够从容驾驭 AI 工具，把精力真正还给创作本身。 深度产品集成合作，打通策划、生成、制作三大环节 当下，越来越多创作者希望借助 AI 分担日常工作，把时间真正留给创作本身。顺应这一趋势，PixVerse与 Open",
+      "summary_zh": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作   近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作，双方完成了一系列产品集成并首次共同推出“从提示词到成片”（Prompt to Production）教育计划。通过线上研讨会和系列视频，该计划将帮助海外个人创作者和团队将创意构想更高效地转化为可落地的内容。 在首场线上研讨会中，OpenAI应用AI工程师Tyler Ryu、PixVerse北美市场营销负责人演示了如何在工作流中结合使用 OpenAI 的前沿模型、Agent（智能体）能力与 PixVerse 的多模态生成工具，来自PixVerse 社区的专业创作者也分享了实战经验。未来，PixVerse 与 OpenAI 将继续围绕创作全流程深化合作，让更多创作者能够从容驾驭 AI 工具，把精力真正还给创作本身。 深度产品集成合作，打通策划、生成、制作三大环节 当下，越来越多创作者希望借助 AI 分担日常工作，把时间真正留给创作本身。顺应这一趋势，PixVerse与 Open",
+      "publishedAt": "2026-11-03T01:46:55Z",
+      "published_at": "2026-11-03T01:46:55Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "2f75960b",
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/507322.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507322.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "指令执行能力也同步提升  GPT-6 Astra能直接读取编辑小模型权重了。 MIT刚刚做了个实验，瞬间引爆大模型圈—— 0.8B的「源神」Qwen3.5交给Astra，仅改动其中0.016%的权重，模型性能可以直接飞升。 全程没用训练，也没梯度下降。     同样的采样设置下，MATH-500得分从7.9%飙升到48.1%，数学运算能力是原来的约6倍。 甚至连原本没要求优化的指令执行能力也通通提高了3倍。 而修完模型还没完，让Astra从零写小游戏网络的权重，效果也是不错。 它一次回复交卷，得分超过训练了5亿步的PPO基线20倍。   视频链接：https://mp.weixin.qq.com/s/tdEmYQz4B9W4OfNpkU-anw  团队给这套打法也起了个名字： Weight-Space Programming，权重空间编程。 Astra爆改模型权重 简单来说，就是让大模型直接分析神经网络权重，判断它在做什么、哪里出了问题，再按要求修改，甚至从零写出一个网络。 具体过程，先看最直观的Qwen实验。 研究者给Astra准备了一个Python环境，里面放着Qwen3.5-0.",
+      "summary_zh": "指令执行能力也同步提升  GPT-6 Astra能直接读取编辑小模型权重了。 MIT刚刚做了个实验，瞬间引爆大模型圈—— 0.8B的「源神」Qwen3.5交给Astra，仅改动其中0.016%的权重，模型性能可以直接飞升。 全程没用训练，也没梯度下降。     同样的采样设置下，MATH-500得分从7.9%飙升到48.1%，数学运算能力是原来的约6倍。 甚至连原本没要求优化的指令执行能力也通通提高了3倍。 而修完模型还没完，让Astra从零写小游戏网络的权重，效果也是不错。 它一次回复交卷，得分超过训练了5亿步的PPO基线20倍。   视频链接：https://mp.weixin.qq.com/s/tdEmYQz4B9W4OfNpkU-anw  团队给这套打法也起了个名字： Weight-Space Programming，权重空间编程。 Astra爆改模型权重 简单来说，就是让大模型直接分析神经网络权重，判断它在做什么、哪里出了问题，再按要求修改，甚至从零写出一个网络。 具体过程，先看最直观的Qwen实验。 研究者给Astra准备了一个Python环境，里面放着Qwen3.5-0.",
+      "publishedAt": "2026-11-03T01:57:30Z",
+      "published_at": "2026-11-03T01:57:30Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0be39f43",
+      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/507339.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507339.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。  10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。作为年轻人最关注的科普活动之一，B站科学晚邀请顶尖科研工作者、院士学者、头部科技知识UP主等，聚焦年轻群体最关注的科技议题与创新技术，通过专题演讲、多人对谈、现场实验等多种方式，展现国内最前沿的科学技术发展动态。 今年是B站举办科学晚的第四年。据了解，今年B站科学晚在活动规模与内容上进行了扩充。在往年核心的夜场趣味展演之外，今年科学晚围绕飞行汽车、具身智能、脑机接口、量子技术、可控核聚变等前沿热门科技议题，新增了日场活动，同期展开15场嘉宾对谈与演讲活动。  （从左至右 B站UP主吟游诗人基德、中国科学院院士彭承志、全球人工智能创新治理中心副主任蒋昌建） 数据显示，过去一年，B站上科普、科技相关知识内容，用户累计观看时长突破了23亿小时，相关UP主达133万，有超过3200位专业科研人员、科技企业等加入B站分享内容。 通过科研工作者的讲述、实验展示与互动体验，科学晚将前沿的科技议题进一步转化为公众能够",
+      "summary_zh": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。  10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。作为年轻人最关注的科普活动之一，B站科学晚邀请顶尖科研工作者、院士学者、头部科技知识UP主等，聚焦年轻群体最关注的科技议题与创新技术，通过专题演讲、多人对谈、现场实验等多种方式，展现国内最前沿的科学技术发展动态。 今年是B站举办科学晚的第四年。据了解，今年B站科学晚在活动规模与内容上进行了扩充。在往年核心的夜场趣味展演之外，今年科学晚围绕飞行汽车、具身智能、脑机接口、量子技术、可控核聚变等前沿热门科技议题，新增了日场活动，同期展开15场嘉宾对谈与演讲活动。  （从左至右 B站UP主吟游诗人基德、中国科学院院士彭承志、全球人工智能创新治理中心副主任蒋昌建） 数据显示，过去一年，B站上科普、科技相关知识内容，用户累计观看时长突破了23亿小时，相关UP主达133万，有超过3200位专业科研人员、科技企业等加入B站分享内容。 通过科研工作者的讲述、实验展示与互动体验，科学晚将前沿的科技议题进一步转化为公众能够",
+      "publishedAt": "2026-11-03T02:02:05Z",
+      "published_at": "2026-11-03T02:02:05Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "43b440c3",
+      "title": "具身智能的下一个主战场，为什么是「仓",
+      "title_en": "具身智能的下一个主战场，为什么是「仓储物流」？",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "具身智能的下一个主战场，为什么是「仓储物流」？",
+      "summary_zh": "具身智能的下一个主战场，为什么是「仓储物流」？",
+      "publishedAt": "2026-11-03T16:23:59Z",
+      "published_at": "2026-11-03T16:23:59Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
