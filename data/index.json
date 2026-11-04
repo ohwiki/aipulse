@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-11-04T00:42:45Z",
-  "generatedAt": "2026-11-04T00:42:45Z",
-  "count": 176,
-  "total": 176,
+  "generated_at": "2026-11-04T16:28:08Z",
+  "generatedAt": "2026-11-04T16:28:08Z",
+  "count": 177,
+  "total": 177,
   "entries": [
+    {
+      "date": "2026-11-05",
+      "generated_at": "2026-11-04T16:28:08Z",
+      "generatedAt": "2026-11-04T16:28:08Z",
+      "total": 7,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "928f002a",
+          "title": "产品更新：Wanaka Studio",
+          "title_en": "Wanaka Studio",
+          "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Make and publish 3D games with the first AI ga",
+          "summary_zh": "Make and publish 3D games with the first AI ga",
+          "publishedAt": "2026-11-04T08:01:00Z",
+          "published_at": "2026-11-04T08:01:00Z",
+          "votes_count": 288,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "35e36de4",
+          "title": "产品更新：Floot Payments",
+          "title_en": "Floot Payments",
+          "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Take payments in apps you build in ChatGPT and",
+          "summary_zh": "Take payments in apps you build in ChatGPT and",
+          "publishedAt": "2026-11-04T08:01:00Z",
+          "published_at": "2026-11-04T08:01:00Z",
+          "votes_count": 213,
+          "featured": true,
+          "topics": [
+            {
+              "id": "119",
+              "name": "Payments",
+              "slug": "payments"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "da403ca2",
+          "title": "产品更新：Prelulu",
+          "title_en": "Prelulu",
+          "url": "https://www.producthunt.com/products/prelulu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/prelulu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Be the main character: chat & video roleplay a",
+          "summary_zh": "Be the main character: chat & video roleplay a",
+          "publishedAt": "2026-11-04T08:01:00Z",
+          "published_at": "2026-11-04T08:01:00Z",
+          "votes_count": 171,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            },
+            {
+              "id": "600",
+              "name": "Entertainment",
+              "slug": "entertainment"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "generated_at": "2026-11-04T00:42:45Z",

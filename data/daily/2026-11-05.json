@@ -1,0 +1,459 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-04T16:28:08Z",
+  "generatedAt": "2026-11-04T16:28:08Z",
+  "total": 7,
+  "count": 7,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "928f002a",
+          "title": "产品更新：Wanaka Studio",
+          "title_en": "Wanaka Studio",
+          "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Make and publish 3D games with the first AI ga",
+          "summary_zh": "Make and publish 3D games with the first AI ga",
+          "publishedAt": "2026-11-04T08:01:00Z",
+          "published_at": "2026-11-04T08:01:00Z",
+          "votes_count": 288,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "35e36de4",
+          "title": "产品更新：Floot Payments",
+          "title_en": "Floot Payments",
+          "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Take payments in apps you build in ChatGPT and",
+          "summary_zh": "Take payments in apps you build in ChatGPT and",
+          "publishedAt": "2026-11-04T08:01:00Z",
+          "published_at": "2026-11-04T08:01:00Z",
+          "votes_count": 213,
+          "featured": true,
+          "topics": [
+            {
+              "id": "119",
+              "name": "Payments",
+              "slug": "payments"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "da403ca2",
+          "title": "产品更新：Prelulu",
+          "title_en": "Prelulu",
+          "url": "https://www.producthunt.com/products/prelulu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/prelulu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Be the main character: chat & video roleplay a",
+          "summary_zh": "Be the main character: chat & video roleplay a",
+          "publishedAt": "2026-11-04T08:01:00Z",
+          "published_at": "2026-11-04T08:01:00Z",
+          "votes_count": 171,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            },
+            {
+              "id": "600",
+              "name": "Entertainment",
+              "slug": "entertainment"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "27f3167e",
+          "title": "产品更新：OpenMail",
+          "title_en": "OpenMail",
+          "url": "https://www.producthunt.com/products/openmail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openmail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Give your AI agents an identity through email",
+          "summary_zh": "Give your AI agents an identity through email",
+          "publishedAt": "2026-11-04T08:01:00Z",
+          "published_at": "2026-11-04T08:01:00Z",
+          "votes_count": 159,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "4930107d",
+          "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/507533.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/507533.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "长视频记忆精度飙升，问答时延最高降97%  openJiuwen AgentMemory正式上线了多模态记忆能力OmniMem-Lens：按秒盲切是记忆碎片化的元凶，按真实事件记忆才是正解——召回精度最高提升45.7%，在线问答时延最高降低97%。 一个让所有Agent头疼的问题：3小时的视频，怎么“记”？ 在AI智能体（Agent）与多模态模型（VLM）快速演进的今天，我们已经不满足于让Agent处理单一的文本工作了，而是让它干更复杂的活儿。 比如“看完3小时的新品发布会，并找出所有产品亮点”，或者“分析一整天的监控视频，并标记出异常事件”。 然而，现有Agent面对超长视频时，海量信息会瞬间超出其上下文限度，导致处理能力和准确度大大下降。 目前业界的通行做法，是粗暴地把长视频按固定时间窗口（如一分钟）切分成一小段一小段，让智能体分开去记忆。 这种方式如同盲人摸象，给智能体记忆带来了两个致命伤： ① 记忆被切碎——证据碎片化 一段原本连贯的老师讲解，在中间被切断，前半段和后半段被智能体分开处理、分开存储。当用户提问时，智能体只能拿到半个“断章取义”的证据，于是胡编乱造、幻觉频出。 ②",
+          "summary_zh": "长视频记忆精度飙升，问答时延最高降97%  openJiuwen AgentMemory正式上线了多模态记忆能力OmniMem-Lens：按秒盲切是记忆碎片化的元凶，按真实事件记忆才是正解——召回精度最高提升45.7%，在线问答时延最高降低97%。 一个让所有Agent头疼的问题：3小时的视频，怎么“记”？ 在AI智能体（Agent）与多模态模型（VLM）快速演进的今天，我们已经不满足于让Agent处理单一的文本工作了，而是让它干更复杂的活儿。 比如“看完3小时的新品发布会，并找出所有产品亮点”，或者“分析一整天的监控视频，并标记出异常事件”。 然而，现有Agent面对超长视频时，海量信息会瞬间超出其上下文限度，导致处理能力和准确度大大下降。 目前业界的通行做法，是粗暴地把长视频按固定时间窗口（如一分钟）切分成一小段一小段，让智能体分开去记忆。 这种方式如同盲人摸象，给智能体记忆带来了两个致命伤： ① 记忆被切碎——证据碎片化 一段原本连贯的老师讲解，在中间被切断，前半段和后半段被智能体分开处理、分开存储。当用户提问时，智能体只能拿到半个“断章取义”的证据，于是胡编乱造、幻觉频出。 ②",
+          "publishedAt": "2026-11-04T02:49:02Z",
+          "published_at": "2026-11-04T02:49:02Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "07702e7b",
+          "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/507567.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/507567.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。  11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。鲸锐AI平台聚焦AI视频制作过程精准可控、银幕级质感成片交付、成本可管理三大目标，集成了市面上50余个主流AI视频生成模型与10余个自研模型，无限画布支持千级节点、百人实时协同创作。通过鲸锐AI平台的精准控制和流程优化，AI视频单分钟成本较传统AI生成方式可节省30%以上。 即日起，鲸锐AI平台官网（www.jingruiai.cn）开放全员注册，创作者无需订阅会员、积分即充即用。此外，用户在鲸锐AI平台的团队席位不限人数，避免由于团队人数增减带来的不必要席位成本，创作者团队的使用门槛进一步降低。 “对虎鲸文娱而言，鲸锐AI的正式上线是平台与新生代AI创作者共建文娱产业新基建的起点。”虎鲸文娱集团CTO杜颜龙表示，“接下来，鲸锐AI平台会在众多真实项目中持续打磨，我们期待更多专业团队把更严苛的要求带进来，和我们一起定义AI影视的专业标准。”  （鲸锐AI官网页面） 让“抽卡”精准可控，AI视频单分钟成本节省30%以上 今",
+          "summary_zh": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。  11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。鲸锐AI平台聚焦AI视频制作过程精准可控、银幕级质感成片交付、成本可管理三大目标，集成了市面上50余个主流AI视频生成模型与10余个自研模型，无限画布支持千级节点、百人实时协同创作。通过鲸锐AI平台的精准控制和流程优化，AI视频单分钟成本较传统AI生成方式可节省30%以上。 即日起，鲸锐AI平台官网（www.jingruiai.cn）开放全员注册，创作者无需订阅会员、积分即充即用。此外，用户在鲸锐AI平台的团队席位不限人数，避免由于团队人数增减带来的不必要席位成本，创作者团队的使用门槛进一步降低。 “对虎鲸文娱而言，鲸锐AI的正式上线是平台与新生代AI创作者共建文娱产业新基建的起点。”虎鲸文娱集团CTO杜颜龙表示，“接下来，鲸锐AI平台会在众多真实项目中持续打磨，我们期待更多专业团队把更严苛的要求带进来，和我们一起定义AI影视的专业标准。”  （鲸锐AI官网页面） 让“抽卡”精准可控，AI视频单分钟成本节省30%以上 今",
+          "publishedAt": "2026-11-04T08:49:12Z",
+          "published_at": "2026-11-04T08:49:12Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "efa7c7f9",
+          "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/507574.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/507574.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "一场别开生面的具身智能科技盛宴  以“金融科技枢纽 联通世界 共建未来”为主题的香港金融科技周×StartmeupHK 2026在香港会议展览中心揭幕。作为全栈具身智能大模型公司，超维动力（Kinetix AI）携高动态人形机器人乒乓系统SMASH、全球最高自由度（117 DoF）的超高拟人人形机器人本体KAIBot、超高自由度灵巧手KAI Hand与第一人称数采头环KAI Halo等全栈矩阵登场，为全球的金融科技从业者带来一场别开生面的具身智能科技盛宴。 恒生银行 × 超维动力：SMASH 再上新台阶，球技逼近专业选手 本届大会，超维动力联合恒生银行打造“与乒乓机器人同乐（Have Fun with the Bot）”体验区。观众可亲自上阵，与SMASH展开一场酣畅淋漓的对决，零距离感受最前沿科技的魅力。该展区人气火爆，成为现场最瞩目、最受欢迎的互动打卡点之一，香港商务及经济发展局局长丘应桦亦亲临现场，与机器人切磋球技。 超维动力自主研发的高动态人形机器人乒乓系统 SMASH，让机器人能在毫秒级时间窗口内完成来球识别、轨迹计算与击球动作规划，肩、肘、腕、腰、腿多关节协同联动，实现自主",
+          "summary_zh": "一场别开生面的具身智能科技盛宴  以“金融科技枢纽 联通世界 共建未来”为主题的香港金融科技周×StartmeupHK 2026在香港会议展览中心揭幕。作为全栈具身智能大模型公司，超维动力（Kinetix AI）携高动态人形机器人乒乓系统SMASH、全球最高自由度（117 DoF）的超高拟人人形机器人本体KAIBot、超高自由度灵巧手KAI Hand与第一人称数采头环KAI Halo等全栈矩阵登场，为全球的金融科技从业者带来一场别开生面的具身智能科技盛宴。 恒生银行 × 超维动力：SMASH 再上新台阶，球技逼近专业选手 本届大会，超维动力联合恒生银行打造“与乒乓机器人同乐（Have Fun with the Bot）”体验区。观众可亲自上阵，与SMASH展开一场酣畅淋漓的对决，零距离感受最前沿科技的魅力。该展区人气火爆，成为现场最瞩目、最受欢迎的互动打卡点之一，香港商务及经济发展局局长丘应桦亦亲临现场，与机器人切磋球技。 超维动力自主研发的高动态人形机器人乒乓系统 SMASH，让机器人能在毫秒级时间窗口内完成来球识别、轨迹计算与击球动作规划，肩、肘、腕、腰、腿多关节协同联动，实现自主",
+          "publishedAt": "2026-11-04T08:59:57Z",
+          "published_at": "2026-11-04T08:59:57Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "928f002a",
+      "title": "产品更新：Wanaka Studio",
+      "title_en": "Wanaka Studio",
+      "url": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/wanaka-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Make and publish 3D games with the first AI ga",
+      "summary_zh": "Make and publish 3D games with the first AI ga",
+      "publishedAt": "2026-11-04T08:01:00Z",
+      "published_at": "2026-11-04T08:01:00Z",
+      "votes_count": 288,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "353",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "35e36de4",
+      "title": "产品更新：Floot Payments",
+      "title_en": "Floot Payments",
+      "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Take payments in apps you build in ChatGPT and",
+      "summary_zh": "Take payments in apps you build in ChatGPT and",
+      "publishedAt": "2026-11-04T08:01:00Z",
+      "published_at": "2026-11-04T08:01:00Z",
+      "votes_count": 213,
+      "featured": true,
+      "topics": [
+        {
+          "id": "119",
+          "name": "Payments",
+          "slug": "payments"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "1194",
+          "name": "Vibe coding",
+          "slug": "vibe-coding"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "da403ca2",
+      "title": "产品更新：Prelulu",
+      "title_en": "Prelulu",
+      "url": "https://www.producthunt.com/products/prelulu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/prelulu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Be the main character: chat & video roleplay a",
+      "summary_zh": "Be the main character: chat & video roleplay a",
+      "publishedAt": "2026-11-04T08:01:00Z",
+      "published_at": "2026-11-04T08:01:00Z",
+      "votes_count": 171,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "353",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "600",
+          "name": "Entertainment",
+          "slug": "entertainment"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "27f3167e",
+      "title": "产品更新：OpenMail",
+      "title_en": "OpenMail",
+      "url": "https://www.producthunt.com/products/openmail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openmail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Give your AI agents an identity through email",
+      "summary_zh": "Give your AI agents an identity through email",
+      "publishedAt": "2026-11-04T08:01:00Z",
+      "published_at": "2026-11-04T08:01:00Z",
+      "votes_count": 159,
+      "featured": true,
+      "topics": [
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "4930107d",
+      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/507533.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507533.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "长视频记忆精度飙升，问答时延最高降97%  openJiuwen AgentMemory正式上线了多模态记忆能力OmniMem-Lens：按秒盲切是记忆碎片化的元凶，按真实事件记忆才是正解——召回精度最高提升45.7%，在线问答时延最高降低97%。 一个让所有Agent头疼的问题：3小时的视频，怎么“记”？ 在AI智能体（Agent）与多模态模型（VLM）快速演进的今天，我们已经不满足于让Agent处理单一的文本工作了，而是让它干更复杂的活儿。 比如“看完3小时的新品发布会，并找出所有产品亮点”，或者“分析一整天的监控视频，并标记出异常事件”。 然而，现有Agent面对超长视频时，海量信息会瞬间超出其上下文限度，导致处理能力和准确度大大下降。 目前业界的通行做法，是粗暴地把长视频按固定时间窗口（如一分钟）切分成一小段一小段，让智能体分开去记忆。 这种方式如同盲人摸象，给智能体记忆带来了两个致命伤： ① 记忆被切碎——证据碎片化 一段原本连贯的老师讲解，在中间被切断，前半段和后半段被智能体分开处理、分开存储。当用户提问时，智能体只能拿到半个“断章取义”的证据，于是胡编乱造、幻觉频出。 ②",
+      "summary_zh": "长视频记忆精度飙升，问答时延最高降97%  openJiuwen AgentMemory正式上线了多模态记忆能力OmniMem-Lens：按秒盲切是记忆碎片化的元凶，按真实事件记忆才是正解——召回精度最高提升45.7%，在线问答时延最高降低97%。 一个让所有Agent头疼的问题：3小时的视频，怎么“记”？ 在AI智能体（Agent）与多模态模型（VLM）快速演进的今天，我们已经不满足于让Agent处理单一的文本工作了，而是让它干更复杂的活儿。 比如“看完3小时的新品发布会，并找出所有产品亮点”，或者“分析一整天的监控视频，并标记出异常事件”。 然而，现有Agent面对超长视频时，海量信息会瞬间超出其上下文限度，导致处理能力和准确度大大下降。 目前业界的通行做法，是粗暴地把长视频按固定时间窗口（如一分钟）切分成一小段一小段，让智能体分开去记忆。 这种方式如同盲人摸象，给智能体记忆带来了两个致命伤： ① 记忆被切碎——证据碎片化 一段原本连贯的老师讲解，在中间被切断，前半段和后半段被智能体分开处理、分开存储。当用户提问时，智能体只能拿到半个“断章取义”的证据，于是胡编乱造、幻觉频出。 ②",
+      "publishedAt": "2026-11-04T02:49:02Z",
+      "published_at": "2026-11-04T02:49:02Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "07702e7b",
+      "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/507567.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507567.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。  11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。鲸锐AI平台聚焦AI视频制作过程精准可控、银幕级质感成片交付、成本可管理三大目标，集成了市面上50余个主流AI视频生成模型与10余个自研模型，无限画布支持千级节点、百人实时协同创作。通过鲸锐AI平台的精准控制和流程优化，AI视频单分钟成本较传统AI生成方式可节省30%以上。 即日起，鲸锐AI平台官网（www.jingruiai.cn）开放全员注册，创作者无需订阅会员、积分即充即用。此外，用户在鲸锐AI平台的团队席位不限人数，避免由于团队人数增减带来的不必要席位成本，创作者团队的使用门槛进一步降低。 “对虎鲸文娱而言，鲸锐AI的正式上线是平台与新生代AI创作者共建文娱产业新基建的起点。”虎鲸文娱集团CTO杜颜龙表示，“接下来，鲸锐AI平台会在众多真实项目中持续打磨，我们期待更多专业团队把更严苛的要求带进来，和我们一起定义AI影视的专业标准。”  （鲸锐AI官网页面） 让“抽卡”精准可控，AI视频单分钟成本节省30%以上 今",
+      "summary_zh": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。  11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。鲸锐AI平台聚焦AI视频制作过程精准可控、银幕级质感成片交付、成本可管理三大目标，集成了市面上50余个主流AI视频生成模型与10余个自研模型，无限画布支持千级节点、百人实时协同创作。通过鲸锐AI平台的精准控制和流程优化，AI视频单分钟成本较传统AI生成方式可节省30%以上。 即日起，鲸锐AI平台官网（www.jingruiai.cn）开放全员注册，创作者无需订阅会员、积分即充即用。此外，用户在鲸锐AI平台的团队席位不限人数，避免由于团队人数增减带来的不必要席位成本，创作者团队的使用门槛进一步降低。 “对虎鲸文娱而言，鲸锐AI的正式上线是平台与新生代AI创作者共建文娱产业新基建的起点。”虎鲸文娱集团CTO杜颜龙表示，“接下来，鲸锐AI平台会在众多真实项目中持续打磨，我们期待更多专业团队把更严苛的要求带进来，和我们一起定义AI影视的专业标准。”  （鲸锐AI官网页面） 让“抽卡”精准可控，AI视频单分钟成本节省30%以上 今",
+      "publishedAt": "2026-11-04T08:49:12Z",
+      "published_at": "2026-11-04T08:49:12Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "efa7c7f9",
+      "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/507574.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507574.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "一场别开生面的具身智能科技盛宴  以“金融科技枢纽 联通世界 共建未来”为主题的香港金融科技周×StartmeupHK 2026在香港会议展览中心揭幕。作为全栈具身智能大模型公司，超维动力（Kinetix AI）携高动态人形机器人乒乓系统SMASH、全球最高自由度（117 DoF）的超高拟人人形机器人本体KAIBot、超高自由度灵巧手KAI Hand与第一人称数采头环KAI Halo等全栈矩阵登场，为全球的金融科技从业者带来一场别开生面的具身智能科技盛宴。 恒生银行 × 超维动力：SMASH 再上新台阶，球技逼近专业选手 本届大会，超维动力联合恒生银行打造“与乒乓机器人同乐（Have Fun with the Bot）”体验区。观众可亲自上阵，与SMASH展开一场酣畅淋漓的对决，零距离感受最前沿科技的魅力。该展区人气火爆，成为现场最瞩目、最受欢迎的互动打卡点之一，香港商务及经济发展局局长丘应桦亦亲临现场，与机器人切磋球技。 超维动力自主研发的高动态人形机器人乒乓系统 SMASH，让机器人能在毫秒级时间窗口内完成来球识别、轨迹计算与击球动作规划，肩、肘、腕、腰、腿多关节协同联动，实现自主",
+      "summary_zh": "一场别开生面的具身智能科技盛宴  以“金融科技枢纽 联通世界 共建未来”为主题的香港金融科技周×StartmeupHK 2026在香港会议展览中心揭幕。作为全栈具身智能大模型公司，超维动力（Kinetix AI）携高动态人形机器人乒乓系统SMASH、全球最高自由度（117 DoF）的超高拟人人形机器人本体KAIBot、超高自由度灵巧手KAI Hand与第一人称数采头环KAI Halo等全栈矩阵登场，为全球的金融科技从业者带来一场别开生面的具身智能科技盛宴。 恒生银行 × 超维动力：SMASH 再上新台阶，球技逼近专业选手 本届大会，超维动力联合恒生银行打造“与乒乓机器人同乐（Have Fun with the Bot）”体验区。观众可亲自上阵，与SMASH展开一场酣畅淋漓的对决，零距离感受最前沿科技的魅力。该展区人气火爆，成为现场最瞩目、最受欢迎的互动打卡点之一，香港商务及经济发展局局长丘应桦亦亲临现场，与机器人切磋球技。 超维动力自主研发的高动态人形机器人乒乓系统 SMASH，让机器人能在毫秒级时间窗口内完成来球识别、轨迹计算与击球动作规划，肩、肘、腕、腰、腿多关节协同联动，实现自主",
+      "publishedAt": "2026-11-04T08:59:57Z",
+      "published_at": "2026-11-04T08:59:57Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
