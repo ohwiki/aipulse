@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-03T16:24:43Z",
-  "generatedAt": "2026-11-03T16:24:43Z",
+  "generated_at": "2026-11-04T00:42:45Z",
+  "generatedAt": "2026-11-04T00:42:45Z",
   "count": 176,
   "total": 176,
   "entries": [
     {
       "date": "2026-11-04",
-      "generated_at": "2026-11-03T16:24:43Z",
-      "generatedAt": "2026-11-03T16:24:43Z",
+      "generated_at": "2026-11-04T00:42:45Z",
+      "generatedAt": "2026-11-04T00:42:45Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
@@ -28,7 +28,7 @@
           "summary_zh": "MCP gateway for production agents that acts on",
           "publishedAt": "2026-11-03T08:01:00Z",
           "published_at": "2026-11-03T08:01:00Z",
-          "votes_count": 240,
+          "votes_count": 338,
           "featured": true,
           "topics": [
             {
@@ -61,7 +61,7 @@
           "summary_zh": "Your personal agent, agent teams & people in o",
           "publishedAt": "2026-11-03T08:01:00Z",
           "published_at": "2026-11-03T08:01:00Z",
-          "votes_count": 223,
+          "votes_count": 263,
           "featured": true,
           "topics": [
             {
@@ -99,7 +99,7 @@
           "summary_zh": "Autonomous AI QA. Zero prompting. Zero mainten",
           "publishedAt": "2026-11-03T08:01:00Z",
           "published_at": "2026-11-03T08:01:00Z",
-          "votes_count": 149,
+          "votes_count": 212,
           "featured": true,
           "topics": [
             {

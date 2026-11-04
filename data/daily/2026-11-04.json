@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-03T16:24:43Z",
-  "generatedAt": "2026-11-03T16:24:43Z",
+  "generated_at": "2026-11-04T00:42:45Z",
+  "generatedAt": "2026-11-04T00:42:45Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -26,7 +26,7 @@
           "summary_zh": "MCP gateway for production agents that acts on",
           "publishedAt": "2026-11-03T08:01:00Z",
           "published_at": "2026-11-03T08:01:00Z",
-          "votes_count": 240,
+          "votes_count": 338,
           "featured": true,
           "topics": [
             {
@@ -59,7 +59,7 @@
           "summary_zh": "Your personal agent, agent teams & people in o",
           "publishedAt": "2026-11-03T08:01:00Z",
           "published_at": "2026-11-03T08:01:00Z",
-          "votes_count": 223,
+          "votes_count": 263,
           "featured": true,
           "topics": [
             {
@@ -97,7 +97,7 @@
           "summary_zh": "Autonomous AI QA. Zero prompting. Zero mainten",
           "publishedAt": "2026-11-03T08:01:00Z",
           "published_at": "2026-11-03T08:01:00Z",
-          "votes_count": 149,
+          "votes_count": 212,
           "featured": true,
           "topics": [
             {
@@ -130,7 +130,7 @@
           "summary_zh": "Your AI agent runs ads across 30+ ad platforms",
           "publishedAt": "2026-11-03T08:01:00Z",
           "published_at": "2026-11-03T08:01:00Z",
-          "votes_count": 122,
+          "votes_count": 156,
           "featured": true,
           "topics": [
             {
@@ -238,8 +238,8 @@
           "rankingScore": 5.0,
           "summary": "具身智能的下一个主战场，为什么是「仓储物流」？",
           "summary_zh": "具身智能的下一个主战场，为什么是「仓储物流」？",
-          "publishedAt": "2026-11-03T16:23:59Z",
-          "published_at": "2026-11-03T16:23:59Z",
+          "publishedAt": "2026-11-04T00:42:22Z",
+          "published_at": "2026-11-04T00:42:22Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -266,7 +266,7 @@
       "summary_zh": "MCP gateway for production agents that acts on",
       "publishedAt": "2026-11-03T08:01:00Z",
       "published_at": "2026-11-03T08:01:00Z",
-      "votes_count": 240,
+      "votes_count": 338,
       "featured": true,
       "topics": [
         {
@@ -299,7 +299,7 @@
       "summary_zh": "Your personal agent, agent teams & people in o",
       "publishedAt": "2026-11-03T08:01:00Z",
       "published_at": "2026-11-03T08:01:00Z",
-      "votes_count": 223,
+      "votes_count": 263,
       "featured": true,
       "topics": [
         {
@@ -337,7 +337,7 @@
       "summary_zh": "Autonomous AI QA. Zero prompting. Zero mainten",
       "publishedAt": "2026-11-03T08:01:00Z",
       "published_at": "2026-11-03T08:01:00Z",
-      "votes_count": 149,
+      "votes_count": 212,
       "featured": true,
       "topics": [
         {
@@ -370,7 +370,7 @@
       "summary_zh": "Your AI agent runs ads across 30+ ad platforms",
       "publishedAt": "2026-11-03T08:01:00Z",
       "published_at": "2026-11-03T08:01:00Z",
-      "votes_count": 122,
+      "votes_count": 156,
       "featured": true,
       "topics": [
         {
@@ -472,8 +472,8 @@
       "rankingScore": 5.0,
       "summary": "具身智能的下一个主战场，为什么是「仓储物流」？",
       "summary_zh": "具身智能的下一个主战场，为什么是「仓储物流」？",
-      "publishedAt": "2026-11-03T16:23:59Z",
-      "published_at": "2026-11-03T16:23:59Z",
+      "publishedAt": "2026-11-04T00:42:22Z",
+      "published_at": "2026-11-04T00:42:22Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
