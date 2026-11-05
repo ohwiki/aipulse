@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-04T16:28:08Z",
-  "generatedAt": "2026-11-04T16:28:08Z",
+  "generated_at": "2026-11-05T00:56:58Z",
+  "generatedAt": "2026-11-05T00:56:58Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "928f002a",
@@ -22,7 +22,7 @@
       "summary_zh": "Make and publish 3D games with the first AI ga",
       "publishedAt": "2026-11-04T08:01:00Z",
       "published_at": "2026-11-04T08:01:00Z",
-      "votes_count": 288,
+      "votes_count": 353,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Take payments in apps you build in ChatGPT and",
       "publishedAt": "2026-11-04T08:01:00Z",
       "published_at": "2026-11-04T08:01:00Z",
-      "votes_count": 213,
+      "votes_count": 291,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "Be the main character: chat & video roleplay a",
       "publishedAt": "2026-11-04T08:01:00Z",
       "published_at": "2026-11-04T08:01:00Z",
-      "votes_count": 171,
+      "votes_count": 205,
       "featured": true,
       "topics": [
         {
@@ -136,7 +136,7 @@
       "summary_zh": "Give your AI agents an identity through email",
       "publishedAt": "2026-11-04T08:01:00Z",
       "published_at": "2026-11-04T08:01:00Z",
-      "votes_count": 159,
+      "votes_count": 184,
       "featured": true,
       "topics": [
         {
@@ -218,6 +218,28 @@
       "summary_zh": "一场别开生面的具身智能科技盛宴  以“金融科技枢纽 联通世界 共建未来”为主题的香港金融科技周×StartmeupHK 2026在香港会议展览中心揭幕。作为全栈具身智能大模型公司，超维动力（Kinetix AI）携高动态人形机器人乒乓系统SMASH、全球最高自由度（117 DoF）的超高拟人人形机器人本体KAIBot、超高自由度灵巧手KAI Hand与第一人称数采头环KAI Halo等全栈矩阵登场，为全球的金融科技从业者带来一场别开生面的具身智能科技盛宴。 恒生银行 × 超维动力：SMASH 再上新台阶，球技逼近专业选手 本届大会，超维动力联合恒生银行打造“与乒乓机器人同乐（Have Fun with the Bot）”体验区。观众可亲自上阵，与SMASH展开一场酣畅淋漓的对决，零距离感受最前沿科技的魅力。该展区人气火爆，成为现场最瞩目、最受欢迎的互动打卡点之一，香港商务及经济发展局局长丘应桦亦亲临现场，与机器人切磋球技。 超维动力自主研发的高动态人形机器人乒乓系统 SMASH，让机器人能在毫秒级时间窗口内完成来球识别、轨迹计算与击球动作规划，肩、肘、腕、腰、腿多关节协同联动，实现自主",
       "publishedAt": "2026-11-04T08:59:57Z",
       "published_at": "2026-11-04T08:59:57Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "b3e54c28",
+      "title": "AI开始教AI开车！无人驾驶的下一场",
+      "title_en": "AI开始教AI开车！无人驾驶的下一场竞赛，在虚拟世界打响",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AI开始教AI开车！无人驾驶的下一场竞赛，在虚拟世界打响",
+      "summary_zh": "AI开始教AI开车！无人驾驶的下一场竞赛，在虚拟世界打响",
+      "publishedAt": "2026-11-05T00:56:36Z",
+      "published_at": "2026-11-05T00:56:36Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

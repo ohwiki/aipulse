@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-04T16:28:08Z",
-  "generatedAt": "2026-11-04T16:28:08Z",
+  "generated_at": "2026-11-05T00:56:58Z",
+  "generatedAt": "2026-11-05T00:56:58Z",
   "count": 177,
   "total": 177,
   "entries": [
     {
       "date": "2026-11-05",
-      "generated_at": "2026-11-04T16:28:08Z",
-      "generatedAt": "2026-11-04T16:28:08Z",
-      "total": 7,
+      "generated_at": "2026-11-05T00:56:58Z",
+      "generatedAt": "2026-11-05T00:56:58Z",
+      "total": 8,
       "sectionCount": 2,
       "highlights": [
         {
@@ -28,7 +28,7 @@
           "summary_zh": "Make and publish 3D games with the first AI ga",
           "publishedAt": "2026-11-04T08:01:00Z",
           "published_at": "2026-11-04T08:01:00Z",
-          "votes_count": 288,
+          "votes_count": 353,
           "featured": true,
           "topics": [
             {
@@ -66,7 +66,7 @@
           "summary_zh": "Take payments in apps you build in ChatGPT and",
           "publishedAt": "2026-11-04T08:01:00Z",
           "published_at": "2026-11-04T08:01:00Z",
-          "votes_count": 213,
+          "votes_count": 291,
           "featured": true,
           "topics": [
             {
@@ -104,7 +104,7 @@
           "summary_zh": "Be the main character: chat & video roleplay a",
           "publishedAt": "2026-11-04T08:01:00Z",
           "published_at": "2026-11-04T08:01:00Z",
-          "votes_count": 171,
+          "votes_count": 205,
           "featured": true,
           "topics": [
             {
