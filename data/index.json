@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-05T16:38:10Z",
-  "generatedAt": "2026-11-05T16:38:10Z",
+  "generated_at": "2026-11-06T00:59:26Z",
+  "generatedAt": "2026-11-06T00:59:26Z",
   "count": 178,
   "total": 178,
   "entries": [
     {
       "date": "2026-11-06",
-      "generated_at": "2026-11-05T16:38:10Z",
-      "generatedAt": "2026-11-05T16:38:10Z",
+      "generated_at": "2026-11-06T00:59:26Z",
+      "generatedAt": "2026-11-06T00:59:26Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
@@ -28,7 +28,7 @@
           "summary_zh": "Give your agent a real iPhone and Mac Glasshan",
           "publishedAt": "2026-11-05T08:01:00Z",
           "published_at": "2026-11-05T08:01:00Z",
-          "votes_count": 238,
+          "votes_count": 305,
           "featured": true,
           "topics": [
             {
@@ -50,44 +50,6 @@
           "score_details": null
         },
         {
-          "id": "34e94083",
-          "title": "产品更新：Living Brain",
-          "title_en": "Living Brain",
-          "url": "https://www.producthunt.com/products/chatandbuild?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/chatandbuild?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Interoperable, efficient memory layer for agen",
-          "summary_zh": "Interoperable, efficient memory layer for agen",
-          "publishedAt": "2026-11-05T08:01:00Z",
-          "published_at": "2026-11-05T08:01:00Z",
-          "votes_count": 155,
-          "featured": true,
-          "topics": [
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
           "id": "dbc12d20",
           "title": "产品更新：Rerun",
           "title_en": "Rerun",
@@ -104,7 +66,7 @@
           "summary_zh": "Turn your AI subscriptions into a team of cowo",
           "publishedAt": "2026-11-05T08:01:00Z",
           "published_at": "2026-11-05T08:01:00Z",
-          "votes_count": 153,
+          "votes_count": 194,
           "featured": true,
           "topics": [
             {
@@ -126,6 +88,44 @@
               "id": "272",
               "name": "GitHub",
               "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "34e94083",
+          "title": "产品更新：Living Brain",
+          "title_en": "Living Brain",
+          "url": "https://www.producthunt.com/products/chatandbuild?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/chatandbuild?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Interoperable, efficient memory layer for agen",
+          "summary_zh": "Interoperable, efficient memory layer for agen",
+          "publishedAt": "2026-11-05T08:01:00Z",
+          "published_at": "2026-11-05T08:01:00Z",
+          "votes_count": 181,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null

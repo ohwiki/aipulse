@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T16:38:10Z",
-  "generatedAt": "2026-11-05T16:38:10Z",
+  "generated_at": "2026-11-06T00:59:26Z",
+  "generatedAt": "2026-11-06T00:59:26Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "Give your agent a real iPhone and Mac Glasshan",
       "publishedAt": "2026-11-05T08:01:00Z",
       "published_at": "2026-11-05T08:01:00Z",
-      "votes_count": 238,
+      "votes_count": 305,
       "featured": true,
       "topics": [
         {
@@ -44,44 +44,6 @@
       "score_details": null
     },
     {
-      "id": "34e94083",
-      "title": "产品更新：Living Brain",
-      "title_en": "Living Brain",
-      "url": "https://www.producthunt.com/products/chatandbuild?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/chatandbuild?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Interoperable, efficient memory layer for agen",
-      "summary_zh": "Interoperable, efficient memory layer for agen",
-      "publishedAt": "2026-11-05T08:01:00Z",
-      "published_at": "2026-11-05T08:01:00Z",
-      "votes_count": 155,
-      "featured": true,
-      "topics": [
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "dbc12d20",
       "title": "产品更新：Rerun",
       "title_en": "Rerun",
@@ -98,7 +60,7 @@
       "summary_zh": "Turn your AI subscriptions into a team of cowo",
       "publishedAt": "2026-11-05T08:01:00Z",
       "published_at": "2026-11-05T08:01:00Z",
-      "votes_count": 153,
+      "votes_count": 194,
       "featured": true,
       "topics": [
         {
@@ -125,23 +87,23 @@
       "score_details": null
     },
     {
-      "id": "9c6b03b6",
-      "title": "产品更新：Pushary for Tea",
-      "title_en": "Pushary for Teams",
-      "url": "https://www.producthunt.com/products/pushary?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "34e94083",
+      "title": "产品更新：Living Brain",
+      "title_en": "Living Brain",
+      "url": "https://www.producthunt.com/products/chatandbuild?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/pushary?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/chatandbuild?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "See who said yes to your team’s AI agents When",
-      "summary_zh": "See who said yes to your team’s AI agents When",
+      "summary": "Interoperable, efficient memory layer for agen",
+      "summary_zh": "Interoperable, efficient memory layer for agen",
       "publishedAt": "2026-11-05T08:01:00Z",
       "published_at": "2026-11-05T08:01:00Z",
-      "votes_count": 141,
+      "votes_count": 181,
       "featured": true,
       "topics": [
         {
@@ -163,25 +125,36 @@
       "score_details": null
     },
     {
-      "id": "6a999ac3",
-      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/11/507675.html",
-      "source": "量子位",
+      "id": "5c85d936",
+      "title": "产品更新：Maritime",
+      "title_en": "Maritime",
+      "url": "https://www.producthunt.com/products/maritime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/507675.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "薪资+期权不限！实习生也能训核心模型  听雨 发自 凹非寺 量子位 | 公众号QbitAI AI行业仍在为顶尖人才开出高价，但同时也越来越看重实际贡献，而不只是潜力。 年轻研究者由此面临一道难题：企业想要已经做出成果的人，但如果参与核心项目的机会变少了，代表作又该在哪完成？ 这也让人才竞争有了另一重标准：不只是企业筛选谁已经做出成果，年轻研究者也需要判断，谁能为自己的下一项成果提供条件。 能否进入核心项目、参与技术路线的判断，能否获得与任务匹配的数据、算力和协作支持，决定了一份人才计划能否兑现它对成长的承诺。 近日，半年不到就拿到约50亿元融资的人工智能公司VAST（三启万物），发布了新一期V·STAR顶尖人才计划，将邀请年轻研究者聚焦三类明确的研究任务： 3D生成基础模型、三维理解与智能体、世界模型。    它想寻找能够参与定义问题、提出技术判断，并将探索推进为实际成果的年轻研究者。 这些方向指向同一个目标：让AI从生成内容，走向构建可交互的世界。会写代码、生成图像和视频，还不等于能够构建一个持续运行的环境。 三维对象需要能够被编辑和操控，智能体需要理解空间并执行任务，世界则需要维护",
-      "summary_zh": "薪资+期权不限！实习生也能训核心模型  听雨 发自 凹非寺 量子位 | 公众号QbitAI AI行业仍在为顶尖人才开出高价，但同时也越来越看重实际贡献，而不只是潜力。 年轻研究者由此面临一道难题：企业想要已经做出成果的人，但如果参与核心项目的机会变少了，代表作又该在哪完成？ 这也让人才竞争有了另一重标准：不只是企业筛选谁已经做出成果，年轻研究者也需要判断，谁能为自己的下一项成果提供条件。 能否进入核心项目、参与技术路线的判断，能否获得与任务匹配的数据、算力和协作支持，决定了一份人才计划能否兑现它对成长的承诺。 近日，半年不到就拿到约50亿元融资的人工智能公司VAST（三启万物），发布了新一期V·STAR顶尖人才计划，将邀请年轻研究者聚焦三类明确的研究任务： 3D生成基础模型、三维理解与智能体、世界模型。    它想寻找能够参与定义问题、提出技术判断，并将探索推进为实际成果的年轻研究者。 这些方向指向同一个目标：让AI从生成内容，走向构建可交互的世界。会写代码、生成图像和视频，还不等于能够构建一个持续运行的环境。 三维对象需要能够被编辑和操控，智能体需要理解空间并执行任务，世界则需要维护",
-      "publishedAt": "2026-11-05T00:41:34Z",
-      "published_at": "2026-11-05T00:41:34Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/maritime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Cloud computers for any AI agent, customized y",
+      "summary_zh": "Cloud computers for any AI agent, customized y",
+      "publishedAt": "2026-11-05T08:01:00Z",
+      "published_at": "2026-11-05T08:01:00Z",
+      "votes_count": 165,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
       "score_details": null
     },
     {
@@ -229,6 +202,28 @@
       "score_details": null
     },
     {
+      "id": "956920c7",
+      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/507707.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/507707.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "最快6秒出图  GPT-Image-2.6突然上线！ 整体生成时间缩短50%，最快6秒出图；原生支持生成GIF动图；支持直接导出SVG矢量格式。 OpenAI在API中首次把模型的“场景规划脑力”和“像素渲染画质”拆成了两个独立参数，大幅降低了多轮修改的成本和耗时。  目前，GPT-Image-2.6在ChatGPT、Codex以及API中全量上线，全线免费及付费用户均可直接使用。 拆开“脑力”与“画质”，最快6秒出图 这次GPT-Image-2.6的API端首次分出了两个具体型号，分别是Flare和Sunburst。 Flare主打速度和排版，专门针对海报和电商产品图等商业视觉做布局优化，在低画质档位下单张图的生成时间硬是被压缩到了6秒。 Sunburst则负责啃硬骨头，在中等和高画质档位下提供更高的细节精度，核心解决多轮对话修改中改着改着人物和商品就变样了的一致性问题。 底层控制逻辑的变化同样值得关注～ 过去调用生图API时，开发者往往只能调整分辨率或笼统的画质档位。哪怕只是改背景颜色，也需要模型重新完整跑一遍构图规划。 这次Images 2.6新增了一个名为complexity也",
+      "summary_zh": "最快6秒出图  GPT-Image-2.6突然上线！ 整体生成时间缩短50%，最快6秒出图；原生支持生成GIF动图；支持直接导出SVG矢量格式。 OpenAI在API中首次把模型的“场景规划脑力”和“像素渲染画质”拆成了两个独立参数，大幅降低了多轮修改的成本和耗时。  目前，GPT-Image-2.6在ChatGPT、Codex以及API中全量上线，全线免费及付费用户均可直接使用。 拆开“脑力”与“画质”，最快6秒出图 这次GPT-Image-2.6的API端首次分出了两个具体型号，分别是Flare和Sunburst。 Flare主打速度和排版，专门针对海报和电商产品图等商业视觉做布局优化，在低画质档位下单张图的生成时间硬是被压缩到了6秒。 Sunburst则负责啃硬骨头，在中等和高画质档位下提供更高的细节精度，核心解决多轮对话修改中改着改着人物和商品就变样了的一致性问题。 底层控制逻辑的变化同样值得关注～ 过去调用生图API时，开发者往往只能调整分辨率或笼统的画质档位。哪怕只是改背景颜色，也需要模型重新完整跑一遍构图规划。 这次Images 2.6新增了一个名为complexity也",
+      "publishedAt": "2026-11-05T01:59:37Z",
+      "published_at": "2026-11-05T01:59:37Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
       "id": "99223253",
       "title": "Nature | 中科大struct",
       "title_en": "Nature | 中科大structRFM：引入碱基配对关系，结构引导的可迁移RNA基础模型",
@@ -243,8 +238,8 @@
       "rankingScore": 5.0,
       "summary": "Nature | 中科大structRFM：引入碱基配对关系，结构引导的可迁移RNA基础模型",
       "summary_zh": "Nature | 中科大structRFM：引入碱基配对关系，结构引导的可迁移RNA基础模型",
-      "publishedAt": "2026-11-05T16:37:41Z",
-      "published_at": "2026-11-05T16:37:41Z",
+      "publishedAt": "2026-11-06T00:59:03Z",
+      "published_at": "2026-11-06T00:59:03Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
