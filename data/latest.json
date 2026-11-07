@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T16:06:08Z",
-  "generatedAt": "2026-11-06T16:06:08Z",
+  "generated_at": "2026-11-07T00:09:43Z",
+  "generatedAt": "2026-11-07T00:09:43Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "deff5f50",
@@ -22,7 +22,7 @@
       "summary_zh": "Turn your website into an AI agent that sells",
       "publishedAt": "2026-11-06T08:01:00Z",
       "published_at": "2026-11-06T08:01:00Z",
-      "votes_count": 247,
+      "votes_count": 323,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Grok Bot alternative that runs on your AI, com",
       "publishedAt": "2026-11-06T08:01:00Z",
       "published_at": "2026-11-06T08:01:00Z",
-      "votes_count": 147,
+      "votes_count": 222,
       "featured": true,
       "topics": [
         {
@@ -98,7 +98,7 @@
       "summary_zh": "Run many Claude Code and Codex agents in paral",
       "publishedAt": "2026-11-06T08:01:00Z",
       "published_at": "2026-11-06T08:01:00Z",
-      "votes_count": 127,
+      "votes_count": 146,
       "featured": true,
       "topics": [
         {
@@ -110,6 +110,44 @@
           "id": "267",
           "name": "Developer Tools",
           "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "e8b7e105",
+      "title": "产品更新：Rankfender v3.0",
+      "title_en": "Rankfender v3.0",
+      "url": "https://www.producthunt.com/products/rankfender?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/rankfender?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The SEO/GEO operating system, built for people",
+      "summary_zh": "The SEO/GEO operating system, built for people",
+      "publishedAt": "2026-11-06T08:01:00Z",
+      "published_at": "2026-11-06T08:01:00Z",
+      "votes_count": 140,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "231",
+          "name": "SEO",
+          "slug": "seo"
         },
         {
           "id": "268",
@@ -200,8 +238,8 @@
       "rankingScore": 5.0,
       "summary": "Einsia AI发布Frontier3DBench：Agent离真实3D创作还有多远？",
       "summary_zh": "Einsia AI发布Frontier3DBench：Agent离真实3D创作还有多远？",
-      "publishedAt": "2026-11-06T16:05:21Z",
-      "published_at": "2026-11-06T16:05:21Z",
+      "publishedAt": "2026-11-07T00:09:19Z",
+      "published_at": "2026-11-07T00:09:19Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
