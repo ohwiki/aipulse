@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-07T14:59:28Z",
-  "generatedAt": "2026-11-07T14:59:28Z",
+  "generated_at": "2026-11-07T23:43:43Z",
+  "generatedAt": "2026-11-07T23:43:43Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "6e212fcf",
@@ -22,7 +22,7 @@
       "summary_zh": "Create, edit, and animate images with AI Image",
       "publishedAt": "2026-11-07T08:01:00Z",
       "published_at": "2026-11-07T08:01:00Z",
-      "votes_count": 142,
+      "votes_count": 223,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Web search on a schedule that calls your agent",
       "publishedAt": "2026-11-07T08:01:00Z",
       "published_at": "2026-11-07T08:01:00Z",
-      "votes_count": 142,
+      "votes_count": 180,
       "featured": true,
       "topics": [
         {
@@ -88,7 +88,7 @@
       "summary_zh": "Your personal AI advisor for a more intentiona",
       "publishedAt": "2026-11-07T08:01:00Z",
       "published_at": "2026-11-07T08:01:00Z",
-      "votes_count": 125,
+      "votes_count": 152,
       "featured": true,
       "topics": [
         {
@@ -110,25 +110,31 @@
       "score_details": null
     },
     {
-      "id": "08d3ca2c",
-      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/11/508184.html",
-      "source": "量子位",
+      "id": "6e212fcf",
+      "title": "产品更新：GPT‑6 Cyber",
+      "title_en": "GPT‑6 Cyber",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/508184.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "Dario刚喊减速…  听雨 发自 凹非寺 量子位 | 公众号QbitAI Anthropic的三个内部神秘模型，曝光了。 Model 2、Model 3、Model 4。 真名还没公开，但训练时间和部分成绩已经出现了。 第三方评估机构METR的新报告披露：三个模型分别在今年7月、8-9月、9-10月完成训练。  其中最强的Model 4，在Anthropic的综合能力指数AECI上，已经超过了Opus5.5。 Anthropic联合创始人Sam McCandlish也出面回应了。 他认同报告中的多项判断：AI正在加快Anthropic的研发，只是究竟加快了多少，还很难精确衡量。  （原来A社创始人也有个Sam啊） 此外，Sam还承认，这份公开报告删去了大量信息。 他知道，这会让外界更难核验METR的分析。但在他看来，公开研发提速背后的细节，既涉及商业敏感信息，也可能给其他公司提供一份「加速路线图」。 三个内部模型，都什么来头 这三个模型的能力差距如何？ METR报告披露的AECI曲线，提供了一个直观的参照。 AECI是Anthropic版本的Epoch能力指数，将多项内部、外部基准的",
-      "summary_zh": "Dario刚喊减速…  听雨 发自 凹非寺 量子位 | 公众号QbitAI Anthropic的三个内部神秘模型，曝光了。 Model 2、Model 3、Model 4。 真名还没公开，但训练时间和部分成绩已经出现了。 第三方评估机构METR的新报告披露：三个模型分别在今年7月、8-9月、9-10月完成训练。  其中最强的Model 4，在Anthropic的综合能力指数AECI上，已经超过了Opus5.5。 Anthropic联合创始人Sam McCandlish也出面回应了。 他认同报告中的多项判断：AI正在加快Anthropic的研发，只是究竟加快了多少，还很难精确衡量。  （原来A社创始人也有个Sam啊） 此外，Sam还承认，这份公开报告删去了大量信息。 他知道，这会让外界更难核验METR的分析。但在他看来，公开研发提速背后的细节，既涉及商业敏感信息，也可能给其他公司提供一份「加速路线图」。 三个内部模型，都什么来头 这三个模型的能力差距如何？ METR报告披露的AECI曲线，提供了一个直观的参照。 AECI是Anthropic版本的Epoch能力指数，将多项内部、外部基准的",
-      "publishedAt": "2026-11-06T15:21:56Z",
-      "published_at": "2026-11-06T15:21:56Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "OpenAI’s cyber model, with vetted access for d",
+      "summary_zh": "OpenAI’s cyber model, with vetted access for d",
+      "publishedAt": "2026-11-07T08:01:00Z",
+      "published_at": "2026-11-07T08:01:00Z",
+      "votes_count": 132,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
       "score_details": null
     },
     {
@@ -176,6 +182,28 @@
       "score_details": null
     },
     {
+      "id": "2b5cf155",
+      "title": "AGENTS.MD，危险危险危险！！！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/508244.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508244.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "全新的电脑病毒  ay发自 凹非寺 量子位 | 公众号QbitAI 坏菜了。 AGENTS.MD，正在成为AI时代的电脑病毒。 你只是随手打开了一个网页。没点任何弹窗，没点任何「确定下载」，手都没怎么动。 就在你切走网页的一瞬间，一个叫AGENTS.md的纯文本文件，已经悄无声息躺进了你电脑的「下载」（~/Downloads）文件夹里。    但到这一步也还好，对于根本不知道Claude Code是啥玩意儿的朋友来说，这东西就是个MD文件。 不过我知道，很多用惯了AI的朋友，大概率会有这么项高频操作： 终端切到~/Downloads，随手敲上一句Codex或者Claude，准备让AI帮自己理一理刚下下来的文件，或者写几行测试脚本。 这下是真完蛋了。 不用你执行任何脚本，你的AI助手会自动抓起这个文件，把它当成最高圣旨，一五一十地开始照着黑客写好的指令执行： 修改全局配置、关闭沙箱、偷偷下载黑客的恶意npm包、甚至把你本地存的API Token原封不动打包寄给境外服务器…… 这不是实验室里的理论推导。 一家名为Forever Security的安全机构，在用户电脑上截获了这个闻所未闻的攻",
+      "summary_zh": "全新的电脑病毒  ay发自 凹非寺 量子位 | 公众号QbitAI 坏菜了。 AGENTS.MD，正在成为AI时代的电脑病毒。 你只是随手打开了一个网页。没点任何弹窗，没点任何「确定下载」，手都没怎么动。 就在你切走网页的一瞬间，一个叫AGENTS.md的纯文本文件，已经悄无声息躺进了你电脑的「下载」（~/Downloads）文件夹里。    但到这一步也还好，对于根本不知道Claude Code是啥玩意儿的朋友来说，这东西就是个MD文件。 不过我知道，很多用惯了AI的朋友，大概率会有这么项高频操作： 终端切到~/Downloads，随手敲上一句Codex或者Claude，准备让AI帮自己理一理刚下下来的文件，或者写几行测试脚本。 这下是真完蛋了。 不用你执行任何脚本，你的AI助手会自动抓起这个文件，把它当成最高圣旨，一五一十地开始照着黑客写好的指令执行： 修改全局配置、关闭沙箱、偷偷下载黑客的恶意npm包、甚至把你本地存的API Token原封不动打包寄给境外服务器…… 这不是实验室里的理论推导。 一家名为Forever Security的安全机构，在用户电脑上截获了这个闻所未闻的攻",
+      "publishedAt": "2026-11-07T03:43:55Z",
+      "published_at": "2026-11-07T03:43:55Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
       "id": "255bfaa7",
       "title": "GPT-6 Astra的机器人能力被",
       "title_en": "GPT-6 Astra的机器人能力被扒：可能接受过专门训练",
@@ -190,8 +218,8 @@
       "rankingScore": 5.0,
       "summary": "GPT-6 Astra的机器人能力被扒：可能接受过专门训练",
       "summary_zh": "GPT-6 Astra的机器人能力被扒：可能接受过专门训练",
-      "publishedAt": "2026-11-07T14:59:00Z",
-      "published_at": "2026-11-07T14:59:00Z",
+      "publishedAt": "2026-11-07T23:43:09Z",
+      "published_at": "2026-11-07T23:43:09Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

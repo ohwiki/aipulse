@@ -1,0 +1,463 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-07T23:43:43Z",
+  "generatedAt": "2026-11-07T23:43:43Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "6e212fcf",
+          "title": "产品更新：ChatGPT Images",
+          "title_en": "ChatGPT Images 2.6",
+          "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Create, edit, and animate images with AI Image",
+          "summary_zh": "Create, edit, and animate images with AI Image",
+          "publishedAt": "2026-11-07T08:01:00Z",
+          "published_at": "2026-11-07T08:01:00Z",
+          "votes_count": 223,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ae17274d",
+          "title": "产品更新：Exa Monitors v2",
+          "title_en": "Exa Monitors v2",
+          "url": "https://www.producthunt.com/products/exa-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/exa-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Web search on a schedule that calls your agent",
+          "summary_zh": "Web search on a schedule that calls your agent",
+          "publishedAt": "2026-11-07T08:01:00Z",
+          "published_at": "2026-11-07T08:01:00Z",
+          "votes_count": 180,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "10b2dc4d",
+          "title": "产品更新：Quest",
+          "title_en": "Quest",
+          "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your personal AI advisor for a more intentiona",
+          "summary_zh": "Your personal AI advisor for a more intentiona",
+          "publishedAt": "2026-11-07T08:01:00Z",
+          "published_at": "2026-11-07T08:01:00Z",
+          "votes_count": 152,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            },
+            {
+              "id": "351",
+              "name": "iMessage Apps",
+              "slug": "imessage-apps"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6e212fcf",
+          "title": "产品更新：GPT‑6 Cyber",
+          "title_en": "GPT‑6 Cyber",
+          "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "OpenAI’s cyber model, with vetted access for d",
+          "summary_zh": "OpenAI’s cyber model, with vetted access for d",
+          "publishedAt": "2026-11-07T08:01:00Z",
+          "published_at": "2026-11-07T08:01:00Z",
+          "votes_count": 132,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "23e64752",
+          "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/508196.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/508196.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "RSI不可能无限快  RSI这么火，它真的能让AI的进步速度快到无限吗？ Jeff Dean的判断是：不太现实。  他举了个例子：一个人启动实验，凌晨2点实验结束，他要等到早上8点回到工位，才会查看结果。 自动化系统可以省掉这段等待，及时决定下一轮做什么。但训练、计算、保存数据、评估结果，这些步骤仍然需要时间。 要构建基座模型并提升它，仍然需要大量训练和实验，这些过程不可能以无限快的速度完成。 近期，在斯坦福HAI（以人为本人工智能研究院）与李飞飞的对谈中，Jeff Dean谈到了RSI的限制，也披露了自己的新公司正在做的事情。  全程还是非常谷歌姐夫的极简PPT风…… 据他介绍，新公司Discovery Loop已有约20个自动改进循环在运行，也搭建了支持人和Agent共同工作的协作框架。 他们想让少量专家带着大量Agent做研究，目标是把领域专家的生产力提高20到50倍。 为了搭起这支团队，前三周，他们就在咖啡馆等地方进行了400场面试。  聊到支撑这些变化的技术，Jeff Dean也承认自己有些事情看走眼了。。。 其中一件，就是编程。 在Gemini项目里，编程原本就是团队关注的",
+          "summary_zh": "RSI不可能无限快  RSI这么火，它真的能让AI的进步速度快到无限吗？ Jeff Dean的判断是：不太现实。  他举了个例子：一个人启动实验，凌晨2点实验结束，他要等到早上8点回到工位，才会查看结果。 自动化系统可以省掉这段等待，及时决定下一轮做什么。但训练、计算、保存数据、评估结果，这些步骤仍然需要时间。 要构建基座模型并提升它，仍然需要大量训练和实验，这些过程不可能以无限快的速度完成。 近期，在斯坦福HAI（以人为本人工智能研究院）与李飞飞的对谈中，Jeff Dean谈到了RSI的限制，也披露了自己的新公司正在做的事情。  全程还是非常谷歌姐夫的极简PPT风…… 据他介绍，新公司Discovery Loop已有约20个自动改进循环在运行，也搭建了支持人和Agent共同工作的协作框架。 他们想让少量专家带着大量Agent做研究，目标是把领域专家的生产力提高20到50倍。 为了搭起这支团队，前三周，他们就在咖啡馆等地方进行了400场面试。  聊到支撑这些变化的技术，Jeff Dean也承认自己有些事情看走眼了。。。 其中一件，就是编程。 在Gemini项目里，编程原本就是团队关注的",
+          "publishedAt": "2026-11-07T03:23:29Z",
+          "published_at": "2026-11-07T03:23:29Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f84b98b4",
+          "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/508236.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/508236.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "中国版cosmos再交卷  henry发自 凹非寺 量子位 | 公众号QbitAI 时隔三个半月，创办的公司估值从40亿飙至近百亿、放话要做“中国版Cosmos”的浙大00后博士生陈天润，又交卷了。 11月4日，在乌镇的世界互联网大会上，他创办的魔芯科技带来了新一代通用4D世界模型—— MoWorld 2.0。    MoWorld 2.0在前一代空间生成与实时交互能力的基础上，进一步加强了对物理规律的建模能力。 它将重力、弹力、浮力、光照、柔体、流体、刚体、形塑体、热力等十余种物理要素融入同一个模型。 据团队介绍，通过学习这些物理要素及其相互作用，世界模型能够更准确地模拟物体运动、碰撞和环境变化，并为物理仿真等下游任务提供支持。 比如，在下面的例子中，MoWorld 2.0不仅可以生成书签掉落的画面，还能模拟出书签与其他物体如何接触、受力，以及最终如何掉落、弹起。         当面对水这样的流体时，也能更细致地还原其在外力作用下的运动变化。         可以说，相较于以往主要根据图像和文字指令，预测环境接下来会发生什么的世界模型，MoWorld 2.0这次则进一步—— 让物体",
+          "summary_zh": "中国版cosmos再交卷  henry发自 凹非寺 量子位 | 公众号QbitAI 时隔三个半月，创办的公司估值从40亿飙至近百亿、放话要做“中国版Cosmos”的浙大00后博士生陈天润，又交卷了。 11月4日，在乌镇的世界互联网大会上，他创办的魔芯科技带来了新一代通用4D世界模型—— MoWorld 2.0。    MoWorld 2.0在前一代空间生成与实时交互能力的基础上，进一步加强了对物理规律的建模能力。 它将重力、弹力、浮力、光照、柔体、流体、刚体、形塑体、热力等十余种物理要素融入同一个模型。 据团队介绍，通过学习这些物理要素及其相互作用，世界模型能够更准确地模拟物体运动、碰撞和环境变化，并为物理仿真等下游任务提供支持。 比如，在下面的例子中，MoWorld 2.0不仅可以生成书签掉落的画面，还能模拟出书签与其他物体如何接触、受力，以及最终如何掉落、弹起。         当面对水这样的流体时，也能更细致地还原其在外力作用下的运动变化。         可以说，相较于以往主要根据图像和文字指令，预测环境接下来会发生什么的世界模型，MoWorld 2.0这次则进一步—— 让物体",
+          "publishedAt": "2026-11-07T03:31:44Z",
+          "published_at": "2026-11-07T03:31:44Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "2b5cf155",
+          "title": "AGENTS.MD，危险危险危险！！！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/508244.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/508244.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "全新的电脑病毒  ay发自 凹非寺 量子位 | 公众号QbitAI 坏菜了。 AGENTS.MD，正在成为AI时代的电脑病毒。 你只是随手打开了一个网页。没点任何弹窗，没点任何「确定下载」，手都没怎么动。 就在你切走网页的一瞬间，一个叫AGENTS.md的纯文本文件，已经悄无声息躺进了你电脑的「下载」（~/Downloads）文件夹里。    但到这一步也还好，对于根本不知道Claude Code是啥玩意儿的朋友来说，这东西就是个MD文件。 不过我知道，很多用惯了AI的朋友，大概率会有这么项高频操作： 终端切到~/Downloads，随手敲上一句Codex或者Claude，准备让AI帮自己理一理刚下下来的文件，或者写几行测试脚本。 这下是真完蛋了。 不用你执行任何脚本，你的AI助手会自动抓起这个文件，把它当成最高圣旨，一五一十地开始照着黑客写好的指令执行： 修改全局配置、关闭沙箱、偷偷下载黑客的恶意npm包、甚至把你本地存的API Token原封不动打包寄给境外服务器…… 这不是实验室里的理论推导。 一家名为Forever Security的安全机构，在用户电脑上截获了这个闻所未闻的攻",
+          "summary_zh": "全新的电脑病毒  ay发自 凹非寺 量子位 | 公众号QbitAI 坏菜了。 AGENTS.MD，正在成为AI时代的电脑病毒。 你只是随手打开了一个网页。没点任何弹窗，没点任何「确定下载」，手都没怎么动。 就在你切走网页的一瞬间，一个叫AGENTS.md的纯文本文件，已经悄无声息躺进了你电脑的「下载」（~/Downloads）文件夹里。    但到这一步也还好，对于根本不知道Claude Code是啥玩意儿的朋友来说，这东西就是个MD文件。 不过我知道，很多用惯了AI的朋友，大概率会有这么项高频操作： 终端切到~/Downloads，随手敲上一句Codex或者Claude，准备让AI帮自己理一理刚下下来的文件，或者写几行测试脚本。 这下是真完蛋了。 不用你执行任何脚本，你的AI助手会自动抓起这个文件，把它当成最高圣旨，一五一十地开始照着黑客写好的指令执行： 修改全局配置、关闭沙箱、偷偷下载黑客的恶意npm包、甚至把你本地存的API Token原封不动打包寄给境外服务器…… 这不是实验室里的理论推导。 一家名为Forever Security的安全机构，在用户电脑上截获了这个闻所未闻的攻",
+          "publishedAt": "2026-11-07T03:43:55Z",
+          "published_at": "2026-11-07T03:43:55Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "255bfaa7",
+          "title": "GPT-6 Astra的机器人能力被",
+          "title_en": "GPT-6 Astra的机器人能力被扒：可能接受过专门训练",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "GPT-6 Astra的机器人能力被扒：可能接受过专门训练",
+          "summary_zh": "GPT-6 Astra的机器人能力被扒：可能接受过专门训练",
+          "publishedAt": "2026-11-07T23:43:09Z",
+          "published_at": "2026-11-07T23:43:09Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "6e212fcf",
+      "title": "产品更新：ChatGPT Images",
+      "title_en": "ChatGPT Images 2.6",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Create, edit, and animate images with AI Image",
+      "summary_zh": "Create, edit, and animate images with AI Image",
+      "publishedAt": "2026-11-07T08:01:00Z",
+      "published_at": "2026-11-07T08:01:00Z",
+      "votes_count": 223,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ae17274d",
+      "title": "产品更新：Exa Monitors v2",
+      "title_en": "Exa Monitors v2",
+      "url": "https://www.producthunt.com/products/exa-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/exa-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Web search on a schedule that calls your agent",
+      "summary_zh": "Web search on a schedule that calls your agent",
+      "publishedAt": "2026-11-07T08:01:00Z",
+      "published_at": "2026-11-07T08:01:00Z",
+      "votes_count": 180,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "10b2dc4d",
+      "title": "产品更新：Quest",
+      "title_en": "Quest",
+      "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your personal AI advisor for a more intentiona",
+      "summary_zh": "Your personal AI advisor for a more intentiona",
+      "publishedAt": "2026-11-07T08:01:00Z",
+      "published_at": "2026-11-07T08:01:00Z",
+      "votes_count": 152,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "282",
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
+        },
+        {
+          "id": "351",
+          "name": "iMessage Apps",
+          "slug": "imessage-apps"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6e212fcf",
+      "title": "产品更新：GPT‑6 Cyber",
+      "title_en": "GPT‑6 Cyber",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "OpenAI’s cyber model, with vetted access for d",
+      "summary_zh": "OpenAI’s cyber model, with vetted access for d",
+      "publishedAt": "2026-11-07T08:01:00Z",
+      "published_at": "2026-11-07T08:01:00Z",
+      "votes_count": 132,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "23e64752",
+      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/508196.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508196.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "RSI不可能无限快  RSI这么火，它真的能让AI的进步速度快到无限吗？ Jeff Dean的判断是：不太现实。  他举了个例子：一个人启动实验，凌晨2点实验结束，他要等到早上8点回到工位，才会查看结果。 自动化系统可以省掉这段等待，及时决定下一轮做什么。但训练、计算、保存数据、评估结果，这些步骤仍然需要时间。 要构建基座模型并提升它，仍然需要大量训练和实验，这些过程不可能以无限快的速度完成。 近期，在斯坦福HAI（以人为本人工智能研究院）与李飞飞的对谈中，Jeff Dean谈到了RSI的限制，也披露了自己的新公司正在做的事情。  全程还是非常谷歌姐夫的极简PPT风…… 据他介绍，新公司Discovery Loop已有约20个自动改进循环在运行，也搭建了支持人和Agent共同工作的协作框架。 他们想让少量专家带着大量Agent做研究，目标是把领域专家的生产力提高20到50倍。 为了搭起这支团队，前三周，他们就在咖啡馆等地方进行了400场面试。  聊到支撑这些变化的技术，Jeff Dean也承认自己有些事情看走眼了。。。 其中一件，就是编程。 在Gemini项目里，编程原本就是团队关注的",
+      "summary_zh": "RSI不可能无限快  RSI这么火，它真的能让AI的进步速度快到无限吗？ Jeff Dean的判断是：不太现实。  他举了个例子：一个人启动实验，凌晨2点实验结束，他要等到早上8点回到工位，才会查看结果。 自动化系统可以省掉这段等待，及时决定下一轮做什么。但训练、计算、保存数据、评估结果，这些步骤仍然需要时间。 要构建基座模型并提升它，仍然需要大量训练和实验，这些过程不可能以无限快的速度完成。 近期，在斯坦福HAI（以人为本人工智能研究院）与李飞飞的对谈中，Jeff Dean谈到了RSI的限制，也披露了自己的新公司正在做的事情。  全程还是非常谷歌姐夫的极简PPT风…… 据他介绍，新公司Discovery Loop已有约20个自动改进循环在运行，也搭建了支持人和Agent共同工作的协作框架。 他们想让少量专家带着大量Agent做研究，目标是把领域专家的生产力提高20到50倍。 为了搭起这支团队，前三周，他们就在咖啡馆等地方进行了400场面试。  聊到支撑这些变化的技术，Jeff Dean也承认自己有些事情看走眼了。。。 其中一件，就是编程。 在Gemini项目里，编程原本就是团队关注的",
+      "publishedAt": "2026-11-07T03:23:29Z",
+      "published_at": "2026-11-07T03:23:29Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f84b98b4",
+      "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/508236.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508236.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "中国版cosmos再交卷  henry发自 凹非寺 量子位 | 公众号QbitAI 时隔三个半月，创办的公司估值从40亿飙至近百亿、放话要做“中国版Cosmos”的浙大00后博士生陈天润，又交卷了。 11月4日，在乌镇的世界互联网大会上，他创办的魔芯科技带来了新一代通用4D世界模型—— MoWorld 2.0。    MoWorld 2.0在前一代空间生成与实时交互能力的基础上，进一步加强了对物理规律的建模能力。 它将重力、弹力、浮力、光照、柔体、流体、刚体、形塑体、热力等十余种物理要素融入同一个模型。 据团队介绍，通过学习这些物理要素及其相互作用，世界模型能够更准确地模拟物体运动、碰撞和环境变化，并为物理仿真等下游任务提供支持。 比如，在下面的例子中，MoWorld 2.0不仅可以生成书签掉落的画面，还能模拟出书签与其他物体如何接触、受力，以及最终如何掉落、弹起。         当面对水这样的流体时，也能更细致地还原其在外力作用下的运动变化。         可以说，相较于以往主要根据图像和文字指令，预测环境接下来会发生什么的世界模型，MoWorld 2.0这次则进一步—— 让物体",
+      "summary_zh": "中国版cosmos再交卷  henry发自 凹非寺 量子位 | 公众号QbitAI 时隔三个半月，创办的公司估值从40亿飙至近百亿、放话要做“中国版Cosmos”的浙大00后博士生陈天润，又交卷了。 11月4日，在乌镇的世界互联网大会上，他创办的魔芯科技带来了新一代通用4D世界模型—— MoWorld 2.0。    MoWorld 2.0在前一代空间生成与实时交互能力的基础上，进一步加强了对物理规律的建模能力。 它将重力、弹力、浮力、光照、柔体、流体、刚体、形塑体、热力等十余种物理要素融入同一个模型。 据团队介绍，通过学习这些物理要素及其相互作用，世界模型能够更准确地模拟物体运动、碰撞和环境变化，并为物理仿真等下游任务提供支持。 比如，在下面的例子中，MoWorld 2.0不仅可以生成书签掉落的画面，还能模拟出书签与其他物体如何接触、受力，以及最终如何掉落、弹起。         当面对水这样的流体时，也能更细致地还原其在外力作用下的运动变化。         可以说，相较于以往主要根据图像和文字指令，预测环境接下来会发生什么的世界模型，MoWorld 2.0这次则进一步—— 让物体",
+      "publishedAt": "2026-11-07T03:31:44Z",
+      "published_at": "2026-11-07T03:31:44Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "2b5cf155",
+      "title": "AGENTS.MD，危险危险危险！！！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/508244.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508244.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "全新的电脑病毒  ay发自 凹非寺 量子位 | 公众号QbitAI 坏菜了。 AGENTS.MD，正在成为AI时代的电脑病毒。 你只是随手打开了一个网页。没点任何弹窗，没点任何「确定下载」，手都没怎么动。 就在你切走网页的一瞬间，一个叫AGENTS.md的纯文本文件，已经悄无声息躺进了你电脑的「下载」（~/Downloads）文件夹里。    但到这一步也还好，对于根本不知道Claude Code是啥玩意儿的朋友来说，这东西就是个MD文件。 不过我知道，很多用惯了AI的朋友，大概率会有这么项高频操作： 终端切到~/Downloads，随手敲上一句Codex或者Claude，准备让AI帮自己理一理刚下下来的文件，或者写几行测试脚本。 这下是真完蛋了。 不用你执行任何脚本，你的AI助手会自动抓起这个文件，把它当成最高圣旨，一五一十地开始照着黑客写好的指令执行： 修改全局配置、关闭沙箱、偷偷下载黑客的恶意npm包、甚至把你本地存的API Token原封不动打包寄给境外服务器…… 这不是实验室里的理论推导。 一家名为Forever Security的安全机构，在用户电脑上截获了这个闻所未闻的攻",
+      "summary_zh": "全新的电脑病毒  ay发自 凹非寺 量子位 | 公众号QbitAI 坏菜了。 AGENTS.MD，正在成为AI时代的电脑病毒。 你只是随手打开了一个网页。没点任何弹窗，没点任何「确定下载」，手都没怎么动。 就在你切走网页的一瞬间，一个叫AGENTS.md的纯文本文件，已经悄无声息躺进了你电脑的「下载」（~/Downloads）文件夹里。    但到这一步也还好，对于根本不知道Claude Code是啥玩意儿的朋友来说，这东西就是个MD文件。 不过我知道，很多用惯了AI的朋友，大概率会有这么项高频操作： 终端切到~/Downloads，随手敲上一句Codex或者Claude，准备让AI帮自己理一理刚下下来的文件，或者写几行测试脚本。 这下是真完蛋了。 不用你执行任何脚本，你的AI助手会自动抓起这个文件，把它当成最高圣旨，一五一十地开始照着黑客写好的指令执行： 修改全局配置、关闭沙箱、偷偷下载黑客的恶意npm包、甚至把你本地存的API Token原封不动打包寄给境外服务器…… 这不是实验室里的理论推导。 一家名为Forever Security的安全机构，在用户电脑上截获了这个闻所未闻的攻",
+      "publishedAt": "2026-11-07T03:43:55Z",
+      "published_at": "2026-11-07T03:43:55Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "255bfaa7",
+      "title": "GPT-6 Astra的机器人能力被",
+      "title_en": "GPT-6 Astra的机器人能力被扒：可能接受过专门训练",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "GPT-6 Astra的机器人能力被扒：可能接受过专门训练",
+      "summary_zh": "GPT-6 Astra的机器人能力被扒：可能接受过专门训练",
+      "publishedAt": "2026-11-07T23:43:09Z",
+      "published_at": "2026-11-07T23:43:09Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
