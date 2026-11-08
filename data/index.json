@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-11-08T15:28:47Z",
-  "generatedAt": "2026-11-08T15:28:47Z",
-  "count": 180,
-  "total": 180,
+  "generated_at": "2026-11-08T23:49:53Z",
+  "generatedAt": "2026-11-08T23:49:53Z",
+  "count": 181,
+  "total": 181,
   "entries": [
+    {
+      "date": "2026-11-09",
+      "generated_at": "2026-11-08T23:49:53Z",
+      "generatedAt": "2026-11-08T23:49:53Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "74a786c6",
+          "title": "产品更新：AXL",
+          "title_en": "AXL",
+          "url": "https://www.producthunt.com/products/axl-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/axl-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "GTM copilot for AI product founders: 1,200+ ac",
+          "summary_zh": "GTM copilot for AI product founders: 1,200+ ac",
+          "publishedAt": "2026-11-08T08:01:00Z",
+          "published_at": "2026-11-08T08:01:00Z",
+          "votes_count": 190,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6c36609d",
+          "title": "产品更新：Sage2 by Levant",
+          "title_en": "Sage2 by Levanto Labs",
+          "url": "https://www.producthunt.com/products/sagecraft?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/sagecraft?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turn live talk into structured data and instan",
+          "summary_zh": "Turn live talk into structured data and instan",
+          "publishedAt": "2026-11-08T08:01:00Z",
+          "published_at": "2026-11-08T08:01:00Z",
+          "votes_count": 176,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "085d66b1",
+          "title": "产品更新：Inkling 2 Small",
+          "title_en": "Inkling 2 Small",
+          "url": "https://www.producthunt.com/products/tinker-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/tinker-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A model that can see and refine what it builds",
+          "summary_zh": "A model that can see and refine what it builds",
+          "publishedAt": "2026-11-08T08:01:00Z",
+          "published_at": "2026-11-08T08:01:00Z",
+          "votes_count": 163,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-08",
       "generated_at": "2026-11-08T15:28:47Z",

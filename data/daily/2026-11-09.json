@@ -1,0 +1,473 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-08T23:49:53Z",
+  "generatedAt": "2026-11-08T23:49:53Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "74a786c6",
+          "title": "产品更新：AXL",
+          "title_en": "AXL",
+          "url": "https://www.producthunt.com/products/axl-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/axl-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "GTM copilot for AI product founders: 1,200+ ac",
+          "summary_zh": "GTM copilot for AI product founders: 1,200+ ac",
+          "publishedAt": "2026-11-08T08:01:00Z",
+          "published_at": "2026-11-08T08:01:00Z",
+          "votes_count": 190,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6c36609d",
+          "title": "产品更新：Sage2 by Levant",
+          "title_en": "Sage2 by Levanto Labs",
+          "url": "https://www.producthunt.com/products/sagecraft?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/sagecraft?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Turn live talk into structured data and instan",
+          "summary_zh": "Turn live talk into structured data and instan",
+          "publishedAt": "2026-11-08T08:01:00Z",
+          "published_at": "2026-11-08T08:01:00Z",
+          "votes_count": 176,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "085d66b1",
+          "title": "产品更新：Inkling 2 Small",
+          "title_en": "Inkling 2 Small",
+          "url": "https://www.producthunt.com/products/tinker-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/tinker-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A model that can see and refine what it builds",
+          "summary_zh": "A model that can see and refine what it builds",
+          "publishedAt": "2026-11-08T08:01:00Z",
+          "published_at": "2026-11-08T08:01:00Z",
+          "votes_count": 163,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "589",
+              "name": "Development",
+              "slug": "development"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "0d27fac0",
+          "title": "产品更新：Deduplication",
+          "title_en": "Deduplication",
+          "url": "https://www.producthunt.com/products/hacker-noon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/hacker-noon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Which Meaning Owns the Word? Bug used to mean",
+          "summary_zh": "Which Meaning Owns the Word? Bug used to mean",
+          "publishedAt": "2026-11-08T08:01:00Z",
+          "published_at": "2026-11-08T08:01:00Z",
+          "votes_count": 130,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "aacddc96",
+          "title": "资本正在撤离“世界模型”",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/508466.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/508466.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "没有永远的夏天  轰动一时的田柯宇创业事件，可能只是年度风口“世界模型”急转直下的注脚。 在舆论的热议中，VC资本对于创业者职业道德的要求，成了业内业外持续闲谈深思的一题。 但水下，田柯宇所押注的“世界模型”赛道，正在从上半年热钱汹涌，转向了下半年一TS难求——资本确实在抬高世界模型投资意向书发出的门槛，热钱变少，拿得到钱的世界模型创业者也在变少——田柯宇如果不是“NeurIPS最佳论文”，或许会是另一种结果。 因为今夏开始，“不投世界模型了”。 这种变化在量子位近期与多位一线投资人、世界模型公司投融资负责人的交流中感受得尤为明显。头部基金如今愿意出手的世界模型项目已经是掰着一只手的手指就能数过来。  我们问，“那还能有公司比较顺利地融到钱吗？” 有的，家人们有的。 一位今年频频出手的投资人沉思着告诉了我们四、五个创始人的名字。 想了想，他又补上一家家底雄厚的具身智能初创公司——由于是大厂子弟，且只做大脑，因而也被归于世界模型这一part。 “还有别的吗？”我问。 “就这些，你就记这几个差不多了。” 神奇的是，其他受访人给出的名字，居然也没有超出这个精悍短小的名单。 几位世界模型公司投",
+          "summary_zh": "没有永远的夏天  轰动一时的田柯宇创业事件，可能只是年度风口“世界模型”急转直下的注脚。 在舆论的热议中，VC资本对于创业者职业道德的要求，成了业内业外持续闲谈深思的一题。 但水下，田柯宇所押注的“世界模型”赛道，正在从上半年热钱汹涌，转向了下半年一TS难求——资本确实在抬高世界模型投资意向书发出的门槛，热钱变少，拿得到钱的世界模型创业者也在变少——田柯宇如果不是“NeurIPS最佳论文”，或许会是另一种结果。 因为今夏开始，“不投世界模型了”。 这种变化在量子位近期与多位一线投资人、世界模型公司投融资负责人的交流中感受得尤为明显。头部基金如今愿意出手的世界模型项目已经是掰着一只手的手指就能数过来。  我们问，“那还能有公司比较顺利地融到钱吗？” 有的，家人们有的。 一位今年频频出手的投资人沉思着告诉了我们四、五个创始人的名字。 想了想，他又补上一家家底雄厚的具身智能初创公司——由于是大厂子弟，且只做大脑，因而也被归于世界模型这一part。 “还有别的吗？”我问。 “就这些，你就记这几个差不多了。” 神奇的是，其他受访人给出的名字，居然也没有超出这个精悍短小的名单。 几位世界模型公司投",
+          "publishedAt": "2026-11-08T04:09:55Z",
+          "published_at": "2026-11-08T04:09:55Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "9f30941f",
+          "title": "终端侧AI：从单点应用走向智能体体验",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/508478.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/508478.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "高通在第九届进博会展出端侧MoE智能体  终端侧AI发展到了什么阶段？ 终端侧AI经过过去3至4年的发展，正在迎来一个比较重要的变化节点。 从应用来看，终端侧AI并不是从大模型开始的。影像其实是AI较早在终端落地的领域之一。近年来手机拍照效果不断提升，背后就有终端侧AI技术的推动。如今，终端侧AI已经进一步拓展到简单问答、聊天、图像生成与处理，以及文本处理、语音转录、实时翻译等多模态应用，其中不少功能在端侧落地的条件已经比较成熟。 不过，目前很多端侧AI应用仍然偏向单点功能。例如自动语音识别（ASR）、文本摘要、图片处理、简单聊天机器人等，大多解决的是一个具体任务。如果未来希望终端能够进一步完成意图理解、任务编排、实时操作目标App等系统级、规划类任务，就需要更强的端侧模型能力。 这意味着，终端侧AI正在逐渐从解决一个个具体任务，向更加复杂的智能体体验演进。  为什么需要终端侧AI？端侧和云端是什么关系？ 高通并不强调端侧的唯一性，而是强调端云协同或者“计算连续体”，其中一个重要思路是“端侧优先”（on-device first）。 传统依赖云端的AI服务，每一次推理都需要消耗云端To",
+          "summary_zh": "高通在第九届进博会展出端侧MoE智能体  终端侧AI发展到了什么阶段？ 终端侧AI经过过去3至4年的发展，正在迎来一个比较重要的变化节点。 从应用来看，终端侧AI并不是从大模型开始的。影像其实是AI较早在终端落地的领域之一。近年来手机拍照效果不断提升，背后就有终端侧AI技术的推动。如今，终端侧AI已经进一步拓展到简单问答、聊天、图像生成与处理，以及文本处理、语音转录、实时翻译等多模态应用，其中不少功能在端侧落地的条件已经比较成熟。 不过，目前很多端侧AI应用仍然偏向单点功能。例如自动语音识别（ASR）、文本摘要、图片处理、简单聊天机器人等，大多解决的是一个具体任务。如果未来希望终端能够进一步完成意图理解、任务编排、实时操作目标App等系统级、规划类任务，就需要更强的端侧模型能力。 这意味着，终端侧AI正在逐渐从解决一个个具体任务，向更加复杂的智能体体验演进。  为什么需要终端侧AI？端侧和云端是什么关系？ 高通并不强调端侧的唯一性，而是强调端云协同或者“计算连续体”，其中一个重要思路是“端侧优先”（on-device first）。 传统依赖云端的AI服务，每一次推理都需要消耗云端To",
+          "publishedAt": "2026-11-08T11:05:23Z",
+          "published_at": "2026-11-08T11:05:23Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "82d03c4a",
+          "title": "OpenAI新模型临门一脚踩刹车！G",
+          "title_en": "OpenAI新模型临门一脚踩刹车！GPT-6.2曝出安全疑云",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "OpenAI新模型临门一脚踩刹车！GPT-6.2曝出安全疑云",
+          "summary_zh": "OpenAI新模型临门一脚踩刹车！GPT-6.2曝出安全疑云",
+          "publishedAt": "2026-11-08T23:49:33Z",
+          "published_at": "2026-11-08T23:49:33Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "99cb6e81",
+          "title": "AI资讯更新：NeurIPS 2026",
+          "title_en": "NeurIPS 2026 Oral｜LCVN：一张起始画面、一段语言指令，能否预测完整的导航路线？",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "NeurIPS 2026 Oral｜LCVN：一张起始画面、一段语言指令，能否预测完整的导航",
+          "summary_zh": "NeurIPS 2026 Oral｜LCVN：一张起始画面、一段语言指令，能否预测完整的导航",
+          "publishedAt": "2026-11-08T23:49:33Z",
+          "published_at": "2026-11-08T23:49:33Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "74a786c6",
+      "title": "产品更新：AXL",
+      "title_en": "AXL",
+      "url": "https://www.producthunt.com/products/axl-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/axl-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "GTM copilot for AI product founders: 1,200+ ac",
+      "summary_zh": "GTM copilot for AI product founders: 1,200+ ac",
+      "publishedAt": "2026-11-08T08:01:00Z",
+      "published_at": "2026-11-08T08:01:00Z",
+      "votes_count": 190,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6c36609d",
+      "title": "产品更新：Sage2 by Levant",
+      "title_en": "Sage2 by Levanto Labs",
+      "url": "https://www.producthunt.com/products/sagecraft?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/sagecraft?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn live talk into structured data and instan",
+      "summary_zh": "Turn live talk into structured data and instan",
+      "publishedAt": "2026-11-08T08:01:00Z",
+      "published_at": "2026-11-08T08:01:00Z",
+      "votes_count": 176,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "085d66b1",
+      "title": "产品更新：Inkling 2 Small",
+      "title_en": "Inkling 2 Small",
+      "url": "https://www.producthunt.com/products/tinker-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/tinker-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A model that can see and refine what it builds",
+      "summary_zh": "A model that can see and refine what it builds",
+      "publishedAt": "2026-11-08T08:01:00Z",
+      "published_at": "2026-11-08T08:01:00Z",
+      "votes_count": 163,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "589",
+          "name": "Development",
+          "slug": "development"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "0d27fac0",
+      "title": "产品更新：Deduplication",
+      "title_en": "Deduplication",
+      "url": "https://www.producthunt.com/products/hacker-noon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/hacker-noon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Which Meaning Owns the Word? Bug used to mean",
+      "summary_zh": "Which Meaning Owns the Word? Bug used to mean",
+      "publishedAt": "2026-11-08T08:01:00Z",
+      "published_at": "2026-11-08T08:01:00Z",
+      "votes_count": 130,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "aacddc96",
+      "title": "资本正在撤离“世界模型”",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/508466.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508466.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "没有永远的夏天  轰动一时的田柯宇创业事件，可能只是年度风口“世界模型”急转直下的注脚。 在舆论的热议中，VC资本对于创业者职业道德的要求，成了业内业外持续闲谈深思的一题。 但水下，田柯宇所押注的“世界模型”赛道，正在从上半年热钱汹涌，转向了下半年一TS难求——资本确实在抬高世界模型投资意向书发出的门槛，热钱变少，拿得到钱的世界模型创业者也在变少——田柯宇如果不是“NeurIPS最佳论文”，或许会是另一种结果。 因为今夏开始，“不投世界模型了”。 这种变化在量子位近期与多位一线投资人、世界模型公司投融资负责人的交流中感受得尤为明显。头部基金如今愿意出手的世界模型项目已经是掰着一只手的手指就能数过来。  我们问，“那还能有公司比较顺利地融到钱吗？” 有的，家人们有的。 一位今年频频出手的投资人沉思着告诉了我们四、五个创始人的名字。 想了想，他又补上一家家底雄厚的具身智能初创公司——由于是大厂子弟，且只做大脑，因而也被归于世界模型这一part。 “还有别的吗？”我问。 “就这些，你就记这几个差不多了。” 神奇的是，其他受访人给出的名字，居然也没有超出这个精悍短小的名单。 几位世界模型公司投",
+      "summary_zh": "没有永远的夏天  轰动一时的田柯宇创业事件，可能只是年度风口“世界模型”急转直下的注脚。 在舆论的热议中，VC资本对于创业者职业道德的要求，成了业内业外持续闲谈深思的一题。 但水下，田柯宇所押注的“世界模型”赛道，正在从上半年热钱汹涌，转向了下半年一TS难求——资本确实在抬高世界模型投资意向书发出的门槛，热钱变少，拿得到钱的世界模型创业者也在变少——田柯宇如果不是“NeurIPS最佳论文”，或许会是另一种结果。 因为今夏开始，“不投世界模型了”。 这种变化在量子位近期与多位一线投资人、世界模型公司投融资负责人的交流中感受得尤为明显。头部基金如今愿意出手的世界模型项目已经是掰着一只手的手指就能数过来。  我们问，“那还能有公司比较顺利地融到钱吗？” 有的，家人们有的。 一位今年频频出手的投资人沉思着告诉了我们四、五个创始人的名字。 想了想，他又补上一家家底雄厚的具身智能初创公司——由于是大厂子弟，且只做大脑，因而也被归于世界模型这一part。 “还有别的吗？”我问。 “就这些，你就记这几个差不多了。” 神奇的是，其他受访人给出的名字，居然也没有超出这个精悍短小的名单。 几位世界模型公司投",
+      "publishedAt": "2026-11-08T04:09:55Z",
+      "published_at": "2026-11-08T04:09:55Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "9f30941f",
+      "title": "终端侧AI：从单点应用走向智能体体验",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/508478.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508478.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "高通在第九届进博会展出端侧MoE智能体  终端侧AI发展到了什么阶段？ 终端侧AI经过过去3至4年的发展，正在迎来一个比较重要的变化节点。 从应用来看，终端侧AI并不是从大模型开始的。影像其实是AI较早在终端落地的领域之一。近年来手机拍照效果不断提升，背后就有终端侧AI技术的推动。如今，终端侧AI已经进一步拓展到简单问答、聊天、图像生成与处理，以及文本处理、语音转录、实时翻译等多模态应用，其中不少功能在端侧落地的条件已经比较成熟。 不过，目前很多端侧AI应用仍然偏向单点功能。例如自动语音识别（ASR）、文本摘要、图片处理、简单聊天机器人等，大多解决的是一个具体任务。如果未来希望终端能够进一步完成意图理解、任务编排、实时操作目标App等系统级、规划类任务，就需要更强的端侧模型能力。 这意味着，终端侧AI正在逐渐从解决一个个具体任务，向更加复杂的智能体体验演进。  为什么需要终端侧AI？端侧和云端是什么关系？ 高通并不强调端侧的唯一性，而是强调端云协同或者“计算连续体”，其中一个重要思路是“端侧优先”（on-device first）。 传统依赖云端的AI服务，每一次推理都需要消耗云端To",
+      "summary_zh": "高通在第九届进博会展出端侧MoE智能体  终端侧AI发展到了什么阶段？ 终端侧AI经过过去3至4年的发展，正在迎来一个比较重要的变化节点。 从应用来看，终端侧AI并不是从大模型开始的。影像其实是AI较早在终端落地的领域之一。近年来手机拍照效果不断提升，背后就有终端侧AI技术的推动。如今，终端侧AI已经进一步拓展到简单问答、聊天、图像生成与处理，以及文本处理、语音转录、实时翻译等多模态应用，其中不少功能在端侧落地的条件已经比较成熟。 不过，目前很多端侧AI应用仍然偏向单点功能。例如自动语音识别（ASR）、文本摘要、图片处理、简单聊天机器人等，大多解决的是一个具体任务。如果未来希望终端能够进一步完成意图理解、任务编排、实时操作目标App等系统级、规划类任务，就需要更强的端侧模型能力。 这意味着，终端侧AI正在逐渐从解决一个个具体任务，向更加复杂的智能体体验演进。  为什么需要终端侧AI？端侧和云端是什么关系？ 高通并不强调端侧的唯一性，而是强调端云协同或者“计算连续体”，其中一个重要思路是“端侧优先”（on-device first）。 传统依赖云端的AI服务，每一次推理都需要消耗云端To",
+      "publishedAt": "2026-11-08T11:05:23Z",
+      "published_at": "2026-11-08T11:05:23Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "82d03c4a",
+      "title": "OpenAI新模型临门一脚踩刹车！G",
+      "title_en": "OpenAI新模型临门一脚踩刹车！GPT-6.2曝出安全疑云",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "OpenAI新模型临门一脚踩刹车！GPT-6.2曝出安全疑云",
+      "summary_zh": "OpenAI新模型临门一脚踩刹车！GPT-6.2曝出安全疑云",
+      "publishedAt": "2026-11-08T23:49:33Z",
+      "published_at": "2026-11-08T23:49:33Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "99cb6e81",
+      "title": "AI资讯更新：NeurIPS 2026",
+      "title_en": "NeurIPS 2026 Oral｜LCVN：一张起始画面、一段语言指令，能否预测完整的导航路线？",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "NeurIPS 2026 Oral｜LCVN：一张起始画面、一段语言指令，能否预测完整的导航",
+      "summary_zh": "NeurIPS 2026 Oral｜LCVN：一张起始画面、一段语言指令，能否预测完整的导航",
+      "publishedAt": "2026-11-08T23:49:33Z",
+      "published_at": "2026-11-08T23:49:33Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

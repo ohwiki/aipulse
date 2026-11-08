@@ -1,10 +1,48 @@
 {
-  "generated_at": "2026-11-08T15:28:47Z",
-  "generatedAt": "2026-11-08T15:28:47Z",
+  "generated_at": "2026-11-08T23:49:53Z",
+  "generatedAt": "2026-11-08T23:49:53Z",
   "days": 7,
-  "total": 7,
-  "count": 7,
+  "total": 8,
+  "count": 8,
   "items": [
+    {
+      "id": "74a786c6",
+      "title": "产品更新：AXL",
+      "title_en": "AXL",
+      "url": "https://www.producthunt.com/products/axl-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/axl-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "GTM copilot for AI product founders: 1,200+ ac",
+      "summary_zh": "GTM copilot for AI product founders: 1,200+ ac",
+      "publishedAt": "2026-11-08T08:01:00Z",
+      "published_at": "2026-11-08T08:01:00Z",
+      "votes_count": 190,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
     {
       "id": "6c36609d",
       "title": "产品更新：Sage2 by Levant",
@@ -22,7 +60,7 @@
       "summary_zh": "Turn live talk into structured data and instan",
       "publishedAt": "2026-11-08T08:01:00Z",
       "published_at": "2026-11-08T08:01:00Z",
-      "votes_count": 143,
+      "votes_count": 176,
       "featured": true,
       "topics": [
         {
@@ -60,7 +98,7 @@
       "summary_zh": "A model that can see and refine what it builds",
       "publishedAt": "2026-11-08T08:01:00Z",
       "published_at": "2026-11-08T08:01:00Z",
-      "votes_count": 133,
+      "votes_count": 163,
       "featured": true,
       "topics": [
         {
@@ -77,39 +115,29 @@
       "score_details": null
     },
     {
-      "id": "74a786c6",
-      "title": "产品更新：AXL",
-      "title_en": "AXL",
-      "url": "https://www.producthunt.com/products/axl-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "0d27fac0",
+      "title": "产品更新：Deduplication",
+      "title_en": "Deduplication",
+      "url": "https://www.producthunt.com/products/hacker-noon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/axl-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/hacker-noon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "GTM copilot for AI product founders: 1,200+ ac",
-      "summary_zh": "GTM copilot for AI product founders: 1,200+ ac",
+      "summary": "Which Meaning Owns the Word? Bug used to mean",
+      "summary_zh": "Which Meaning Owns the Word? Bug used to mean",
       "publishedAt": "2026-11-08T08:01:00Z",
       "published_at": "2026-11-08T08:01:00Z",
-      "votes_count": 120,
+      "votes_count": 130,
       "featured": true,
       "topics": [
         {
-          "id": "71",
-          "name": "Sales",
-          "slug": "sales"
-        },
-        {
-          "id": "164",
-          "name": "Marketing",
-          "slug": "marketing"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
         }
       ],
       "score_details": null
@@ -173,8 +201,8 @@
       "rankingScore": 5.0,
       "summary": "OpenAI新模型临门一脚踩刹车！GPT-6.2曝出安全疑云",
       "summary_zh": "OpenAI新模型临门一脚踩刹车！GPT-6.2曝出安全疑云",
-      "publishedAt": "2026-11-08T15:28:08Z",
-      "published_at": "2026-11-08T15:28:08Z",
+      "publishedAt": "2026-11-08T23:49:33Z",
+      "published_at": "2026-11-08T23:49:33Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -195,8 +223,8 @@
       "rankingScore": 5.0,
       "summary": "NeurIPS 2026 Oral｜LCVN：一张起始画面、一段语言指令，能否预测完整的导航",
       "summary_zh": "NeurIPS 2026 Oral｜LCVN：一张起始画面、一段语言指令，能否预测完整的导航",
-      "publishedAt": "2026-11-08T15:28:08Z",
-      "published_at": "2026-11-08T15:28:08Z",
+      "publishedAt": "2026-11-08T23:49:33Z",
+      "published_at": "2026-11-08T23:49:33Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
