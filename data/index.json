@@ -1,9 +1,137 @@
 {
-  "generated_at": "2026-11-08T23:49:53Z",
-  "generatedAt": "2026-11-08T23:49:53Z",
-  "count": 181,
-  "total": 181,
+  "generated_at": "2026-11-09T18:59:16Z",
+  "generatedAt": "2026-11-09T18:59:16Z",
+  "count": 182,
+  "total": 182,
   "entries": [
+    {
+      "date": "2026-11-10",
+      "generated_at": "2026-11-09T18:59:16Z",
+      "generatedAt": "2026-11-09T18:59:16Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "15d80aac",
+          "title": "AI资讯更新：Dageno AI 2.0",
+          "title_en": "Dageno AI 2.0",
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/agent-powered-geo-by-dageno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "See why AI recommends your competitors instead",
+          "summary_zh": "See why AI recommends your competitors instead",
+          "publishedAt": "2026-11-09T08:01:00Z",
+          "published_at": "2026-11-09T08:01:00Z",
+          "votes_count": 275,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            },
+            {
+              "id": "361",
+              "name": "Search",
+              "slug": "search"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "adcc0e35",
+          "title": "产品更新：Databox CLI",
+          "title_en": "Databox CLI",
+          "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your agentic analytics platform in the termina",
+          "summary_zh": "Your agentic analytics platform in the termina",
+          "publishedAt": "2026-11-09T08:01:00Z",
+          "published_at": "2026-11-09T08:01:00Z",
+          "votes_count": 251,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6614ef82",
+          "title": "AI资讯更新：Arcjet AI sec",
+          "title_en": "Arcjet AI security models",
+          "url": "https://www.producthunt.com/products/arcjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/arcjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "A family of custom-trained security models for",
+          "summary_zh": "A family of custom-trained security models for",
+          "publishedAt": "2026-11-09T08:01:00Z",
+          "published_at": "2026-11-09T08:01:00Z",
+          "votes_count": 194,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "generated_at": "2026-11-08T23:49:53Z",
