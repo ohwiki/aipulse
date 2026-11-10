@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-09T18:59:16Z",
-  "generatedAt": "2026-11-09T18:59:16Z",
+  "generated_at": "2026-11-10T02:49:06Z",
+  "generatedAt": "2026-11-10T02:49:06Z",
   "count": 182,
   "total": 182,
   "entries": [
     {
       "date": "2026-11-10",
-      "generated_at": "2026-11-09T18:59:16Z",
-      "generatedAt": "2026-11-09T18:59:16Z",
+      "generated_at": "2026-11-10T02:49:06Z",
+      "generatedAt": "2026-11-10T02:49:06Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
@@ -28,7 +28,7 @@
           "summary_zh": "See why AI recommends your competitors instead",
           "publishedAt": "2026-11-09T08:01:00Z",
           "published_at": "2026-11-09T08:01:00Z",
-          "votes_count": 275,
+          "votes_count": 306,
           "featured": true,
           "topics": [
             {
@@ -66,7 +66,7 @@
           "summary_zh": "Your agentic analytics platform in the termina",
           "publishedAt": "2026-11-09T08:01:00Z",
           "published_at": "2026-11-09T08:01:00Z",
-          "votes_count": 251,
+          "votes_count": 273,
           "featured": true,
           "topics": [
             {
@@ -109,7 +109,7 @@
           "summary_zh": "A family of custom-trained security models for",
           "publishedAt": "2026-11-09T08:01:00Z",
           "published_at": "2026-11-09T08:01:00Z",
-          "votes_count": 194,
+          "votes_count": 213,
           "featured": true,
           "topics": [
             {
