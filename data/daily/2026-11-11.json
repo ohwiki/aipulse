@@ -1,0 +1,503 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-10T16:31:40Z",
+  "generatedAt": "2026-11-10T16:31:40Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "5619f01f",
+          "title": "AI资讯更新：Alsona",
+          "title_en": "Alsona",
+          "url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI agents that turn buying signals into booked",
+          "summary_zh": "AI agents that turn buying signals into booked",
+          "publishedAt": "2026-11-10T08:01:00Z",
+          "published_at": "2026-11-10T08:01:00Z",
+          "votes_count": 231,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "aec49d86",
+          "title": "产品更新：Maxma",
+          "title_en": "Maxma",
+          "url": "https://www.producthunt.com/products/maxma-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/maxma-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The 24/7 AI teammate that scales your paid ad",
+          "summary_zh": "The 24/7 AI teammate that scales your paid ad",
+          "publishedAt": "2026-11-10T08:01:00Z",
+          "published_at": "2026-11-10T08:01:00Z",
+          "votes_count": 213,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "839",
+              "name": "Marketing automation",
+              "slug": "marketing-automation"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ed9629db",
+          "title": "AI资讯更新：Latch.ai",
+          "title_en": "Latch.ai",
+          "url": "https://www.producthunt.com/products/latch-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/latch-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Automate complex accounting work without a sin",
+          "summary_zh": "Automate complex accounting work without a sin",
+          "publishedAt": "2026-11-10T08:01:00Z",
+          "published_at": "2026-11-10T08:01:00Z",
+          "votes_count": 160,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "764",
+              "name": "Accounting",
+              "slug": "accounting"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "349fe596",
+          "title": "产品更新：Opal Reader",
+          "title_en": "Opal Reader",
+          "url": "https://www.producthunt.com/products/opal-reader?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/opal-reader?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Read PDFs and EPUBs on iPhone Duo Opal Reader",
+          "summary_zh": "Read PDFs and EPUBs on iPhone Duo Opal Reader",
+          "publishedAt": "2026-11-10T08:01:00Z",
+          "published_at": "2026-11-10T08:01:00Z",
+          "votes_count": 157,
+          "featured": true,
+          "topics": [
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "354",
+              "name": "Books",
+              "slug": "books"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "eb17f6ea",
+          "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/508798.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/508798.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "办公AI结束单机模式  听雨 发自 凹非寺 量子位 | 公众号QbitAI 量子位后台工作大公开！ 每天，咱编辑部几个群里都在聊选题。新闻线索刷屏，谁来跟、什么时候交、进展到哪一步，都得有人把这些事捋清楚。 这次，我们拉来了一位AI同事。 总结群聊记录、派选题、建待办、催ddl，它都能上手：        甚至还能帮忙写初稿……        编辑部的日常工作，千问办公这回全给包圆了啊。 （不是，那还要我干什么） 这次千问办公的2.0版本，是公测三个月以来最大的一次升级。    界面焕新之外，千问办公2.0推出了行业首个支持多人与Agent协作的功能——「协作」，还上线了人机共创、自动任务、资料空间和三端互联等多项能力。 在官方博客中，团队对千问办公2.0的定位是：Team Agent。 简单说，就是让Agent加入团队，和多位成员一起推进工作。 在千问办公2.0里，团队可以建立协作空间，把项目相关的钉钉群聊和资料关联进来，让Agent了解大家正在忙什么。 同事补充了新信息，或调整了任务要求，后续工作就能结合这些背景继续推进。 哎，这个方向是不是有点眼熟？ 今年6月，Anthropic",
+          "summary_zh": "办公AI结束单机模式  听雨 发自 凹非寺 量子位 | 公众号QbitAI 量子位后台工作大公开！ 每天，咱编辑部几个群里都在聊选题。新闻线索刷屏，谁来跟、什么时候交、进展到哪一步，都得有人把这些事捋清楚。 这次，我们拉来了一位AI同事。 总结群聊记录、派选题、建待办、催ddl，它都能上手：        甚至还能帮忙写初稿……        编辑部的日常工作，千问办公这回全给包圆了啊。 （不是，那还要我干什么） 这次千问办公的2.0版本，是公测三个月以来最大的一次升级。    界面焕新之外，千问办公2.0推出了行业首个支持多人与Agent协作的功能——「协作」，还上线了人机共创、自动任务、资料空间和三端互联等多项能力。 在官方博客中，团队对千问办公2.0的定位是：Team Agent。 简单说，就是让Agent加入团队，和多位成员一起推进工作。 在千问办公2.0里，团队可以建立协作空间，把项目相关的钉钉群聊和资料关联进来，让Agent了解大家正在忙什么。 同事补充了新信息，或调整了任务要求，后续工作就能结合这些背景继续推进。 哎，这个方向是不是有点眼熟？ 今年6月，Anthropic",
+          "publishedAt": "2026-11-10T01:27:09Z",
+          "published_at": "2026-11-10T01:27:09Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "8bbd867d",
+          "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/508828.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/508828.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "速度提了，API价格降了  说真的，即便强如新出的GPT-Image 2.6，遇到连续编辑100轮图像这种高压任务，也得大喊那句“名人名言”：  我画地为牢啊，厉娜！  例如我们先给Image 2.6输入下面这张原始图片：     然后再把包含100轮任务的提示词丢进去，每一轮就是让手表里的时间增加1秒钟，并且把上一轮生成的图片作为下一轮的输入：     但看似非常简单的任务，Image 2.6生成的结果却是这样的（为了方便看变化，我们把100张图做成了一个视频）……     视频地址： https://mp.weixin.qq.com/s/_OgVL6s3PIguqFN-WN1mhQ 可以明显地看到，其实在第10轮左右，原始图片就开始发生了畸变，而且越往后，图片失真程度就越严重。 这要是放到真实工作场景里，那简直就是大大大大麻烦了。 But！！！ 一个新出的国产生图AI，却能hold住这个高压任务！来看下结果：     视频地址： https://mp.weixin.qq.com/s/_OgVL6s3PIguqFN-WN1mhQ 虽然在后期的轮数中，依旧是存在一些畸变的情况，但整体却",
+          "summary_zh": "速度提了，API价格降了  说真的，即便强如新出的GPT-Image 2.6，遇到连续编辑100轮图像这种高压任务，也得大喊那句“名人名言”：  我画地为牢啊，厉娜！  例如我们先给Image 2.6输入下面这张原始图片：     然后再把包含100轮任务的提示词丢进去，每一轮就是让手表里的时间增加1秒钟，并且把上一轮生成的图片作为下一轮的输入：     但看似非常简单的任务，Image 2.6生成的结果却是这样的（为了方便看变化，我们把100张图做成了一个视频）……     视频地址： https://mp.weixin.qq.com/s/_OgVL6s3PIguqFN-WN1mhQ 可以明显地看到，其实在第10轮左右，原始图片就开始发生了畸变，而且越往后，图片失真程度就越严重。 这要是放到真实工作场景里，那简直就是大大大大麻烦了。 But！！！ 一个新出的国产生图AI，却能hold住这个高压任务！来看下结果：     视频地址： https://mp.weixin.qq.com/s/_OgVL6s3PIguqFN-WN1mhQ 虽然在后期的轮数中，依旧是存在一些畸变的情况，但整体却",
+          "publishedAt": "2026-11-10T02:48:22Z",
+          "published_at": "2026-11-10T02:48:22Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "51cfdc09",
+          "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/508912.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/508912.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "作曲、拍片、3D建模一条龙全包圆  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI Fable 5.2首批实测，来了！！！ 大家Token那叫个哐哐烧，3D建模、游戏、无代码视频全安排上了～ 这边，有朋友一口气狂烧4000亿Token，直接端上一桌游戏、视频、交互世界的「满汉全席」。 看这个赛博版《哈利波特》，主人公骑着扫帚满霍格沃滋飞，还能亲自上手交互～ 原文链接： https://mp.weixin.qq.com/s/Y2OnlXqFEtb9APgfK_FebA △X@Matt Shumer 那边呢，沃顿教授Ethan Mollick直接让Fable 5.2化身「造物主」。 调动约2.5万个Agent，一口气搓出450多个3D世界，全靠代码实时生成，直接开辟一整个平行宇宙！？ 原文链接： https://mp.weixin.qq.com/s/Y2OnlXqFEtb9APgfK_FebA △X@Ethan Mollick 更绝的是，还有网友把500年前的达·芬奇手稿喂给Fable 5.2。 结果，几百年前躺在纸上的机械发明，当场被AI「复活」，从二维草图变成能上手摆弄的3D模型",
+          "summary_zh": "作曲、拍片、3D建模一条龙全包圆  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI Fable 5.2首批实测，来了！！！ 大家Token那叫个哐哐烧，3D建模、游戏、无代码视频全安排上了～ 这边，有朋友一口气狂烧4000亿Token，直接端上一桌游戏、视频、交互世界的「满汉全席」。 看这个赛博版《哈利波特》，主人公骑着扫帚满霍格沃滋飞，还能亲自上手交互～ 原文链接： https://mp.weixin.qq.com/s/Y2OnlXqFEtb9APgfK_FebA △X@Matt Shumer 那边呢，沃顿教授Ethan Mollick直接让Fable 5.2化身「造物主」。 调动约2.5万个Agent，一口气搓出450多个3D世界，全靠代码实时生成，直接开辟一整个平行宇宙！？ 原文链接： https://mp.weixin.qq.com/s/Y2OnlXqFEtb9APgfK_FebA △X@Ethan Mollick 更绝的是，还有网友把500年前的达·芬奇手稿喂给Fable 5.2。 结果，几百年前躺在纸上的机械发明，当场被AI「复活」，从二维草图变成能上手摆弄的3D模型",
+          "publishedAt": "2026-11-10T07:03:43Z",
+          "published_at": "2026-11-10T07:03:43Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0c3aa85c",
+          "title": "Fable 5.2 徒手玩魔方？有了",
+          "title_en": "Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据",
+          "summary_zh": "Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据",
+          "publishedAt": "2026-11-10T16:30:40Z",
+          "published_at": "2026-11-10T16:30:40Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "5619f01f",
+      "title": "AI资讯更新：Alsona",
+      "title_en": "Alsona",
+      "url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI agents that turn buying signals into booked",
+      "summary_zh": "AI agents that turn buying signals into booked",
+      "publishedAt": "2026-11-10T08:01:00Z",
+      "published_at": "2026-11-10T08:01:00Z",
+      "votes_count": 231,
+      "featured": true,
+      "topics": [
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "aec49d86",
+      "title": "产品更新：Maxma",
+      "title_en": "Maxma",
+      "url": "https://www.producthunt.com/products/maxma-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/maxma-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The 24/7 AI teammate that scales your paid ad",
+      "summary_zh": "The 24/7 AI teammate that scales your paid ad",
+      "publishedAt": "2026-11-10T08:01:00Z",
+      "published_at": "2026-11-10T08:01:00Z",
+      "votes_count": 213,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        },
+        {
+          "id": "839",
+          "name": "Marketing automation",
+          "slug": "marketing-automation"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ed9629db",
+      "title": "AI资讯更新：Latch.ai",
+      "title_en": "Latch.ai",
+      "url": "https://www.producthunt.com/products/latch-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/latch-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Automate complex accounting work without a sin",
+      "summary_zh": "Automate complex accounting work without a sin",
+      "publishedAt": "2026-11-10T08:01:00Z",
+      "published_at": "2026-11-10T08:01:00Z",
+      "votes_count": 160,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "764",
+          "name": "Accounting",
+          "slug": "accounting"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "349fe596",
+      "title": "产品更新：Opal Reader",
+      "title_en": "Opal Reader",
+      "url": "https://www.producthunt.com/products/opal-reader?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/opal-reader?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Read PDFs and EPUBs on iPhone Duo Opal Reader",
+      "summary_zh": "Read PDFs and EPUBs on iPhone Duo Opal Reader",
+      "publishedAt": "2026-11-10T08:01:00Z",
+      "published_at": "2026-11-10T08:01:00Z",
+      "votes_count": 157,
+      "featured": true,
+      "topics": [
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "354",
+          "name": "Books",
+          "slug": "books"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "eb17f6ea",
+      "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/508798.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508798.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "办公AI结束单机模式  听雨 发自 凹非寺 量子位 | 公众号QbitAI 量子位后台工作大公开！ 每天，咱编辑部几个群里都在聊选题。新闻线索刷屏，谁来跟、什么时候交、进展到哪一步，都得有人把这些事捋清楚。 这次，我们拉来了一位AI同事。 总结群聊记录、派选题、建待办、催ddl，它都能上手：        甚至还能帮忙写初稿……        编辑部的日常工作，千问办公这回全给包圆了啊。 （不是，那还要我干什么） 这次千问办公的2.0版本，是公测三个月以来最大的一次升级。    界面焕新之外，千问办公2.0推出了行业首个支持多人与Agent协作的功能——「协作」，还上线了人机共创、自动任务、资料空间和三端互联等多项能力。 在官方博客中，团队对千问办公2.0的定位是：Team Agent。 简单说，就是让Agent加入团队，和多位成员一起推进工作。 在千问办公2.0里，团队可以建立协作空间，把项目相关的钉钉群聊和资料关联进来，让Agent了解大家正在忙什么。 同事补充了新信息，或调整了任务要求，后续工作就能结合这些背景继续推进。 哎，这个方向是不是有点眼熟？ 今年6月，Anthropic",
+      "summary_zh": "办公AI结束单机模式  听雨 发自 凹非寺 量子位 | 公众号QbitAI 量子位后台工作大公开！ 每天，咱编辑部几个群里都在聊选题。新闻线索刷屏，谁来跟、什么时候交、进展到哪一步，都得有人把这些事捋清楚。 这次，我们拉来了一位AI同事。 总结群聊记录、派选题、建待办、催ddl，它都能上手：        甚至还能帮忙写初稿……        编辑部的日常工作，千问办公这回全给包圆了啊。 （不是，那还要我干什么） 这次千问办公的2.0版本，是公测三个月以来最大的一次升级。    界面焕新之外，千问办公2.0推出了行业首个支持多人与Agent协作的功能——「协作」，还上线了人机共创、自动任务、资料空间和三端互联等多项能力。 在官方博客中，团队对千问办公2.0的定位是：Team Agent。 简单说，就是让Agent加入团队，和多位成员一起推进工作。 在千问办公2.0里，团队可以建立协作空间，把项目相关的钉钉群聊和资料关联进来，让Agent了解大家正在忙什么。 同事补充了新信息，或调整了任务要求，后续工作就能结合这些背景继续推进。 哎，这个方向是不是有点眼熟？ 今年6月，Anthropic",
+      "publishedAt": "2026-11-10T01:27:09Z",
+      "published_at": "2026-11-10T01:27:09Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "8bbd867d",
+      "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/508828.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508828.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "速度提了，API价格降了  说真的，即便强如新出的GPT-Image 2.6，遇到连续编辑100轮图像这种高压任务，也得大喊那句“名人名言”：  我画地为牢啊，厉娜！  例如我们先给Image 2.6输入下面这张原始图片：     然后再把包含100轮任务的提示词丢进去，每一轮就是让手表里的时间增加1秒钟，并且把上一轮生成的图片作为下一轮的输入：     但看似非常简单的任务，Image 2.6生成的结果却是这样的（为了方便看变化，我们把100张图做成了一个视频）……     视频地址： https://mp.weixin.qq.com/s/_OgVL6s3PIguqFN-WN1mhQ 可以明显地看到，其实在第10轮左右，原始图片就开始发生了畸变，而且越往后，图片失真程度就越严重。 这要是放到真实工作场景里，那简直就是大大大大麻烦了。 But！！！ 一个新出的国产生图AI，却能hold住这个高压任务！来看下结果：     视频地址： https://mp.weixin.qq.com/s/_OgVL6s3PIguqFN-WN1mhQ 虽然在后期的轮数中，依旧是存在一些畸变的情况，但整体却",
+      "summary_zh": "速度提了，API价格降了  说真的，即便强如新出的GPT-Image 2.6，遇到连续编辑100轮图像这种高压任务，也得大喊那句“名人名言”：  我画地为牢啊，厉娜！  例如我们先给Image 2.6输入下面这张原始图片：     然后再把包含100轮任务的提示词丢进去，每一轮就是让手表里的时间增加1秒钟，并且把上一轮生成的图片作为下一轮的输入：     但看似非常简单的任务，Image 2.6生成的结果却是这样的（为了方便看变化，我们把100张图做成了一个视频）……     视频地址： https://mp.weixin.qq.com/s/_OgVL6s3PIguqFN-WN1mhQ 可以明显地看到，其实在第10轮左右，原始图片就开始发生了畸变，而且越往后，图片失真程度就越严重。 这要是放到真实工作场景里，那简直就是大大大大麻烦了。 But！！！ 一个新出的国产生图AI，却能hold住这个高压任务！来看下结果：     视频地址： https://mp.weixin.qq.com/s/_OgVL6s3PIguqFN-WN1mhQ 虽然在后期的轮数中，依旧是存在一些畸变的情况，但整体却",
+      "publishedAt": "2026-11-10T02:48:22Z",
+      "published_at": "2026-11-10T02:48:22Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "51cfdc09",
+      "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/508912.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/508912.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "作曲、拍片、3D建模一条龙全包圆  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI Fable 5.2首批实测，来了！！！ 大家Token那叫个哐哐烧，3D建模、游戏、无代码视频全安排上了～ 这边，有朋友一口气狂烧4000亿Token，直接端上一桌游戏、视频、交互世界的「满汉全席」。 看这个赛博版《哈利波特》，主人公骑着扫帚满霍格沃滋飞，还能亲自上手交互～ 原文链接： https://mp.weixin.qq.com/s/Y2OnlXqFEtb9APgfK_FebA △X@Matt Shumer 那边呢，沃顿教授Ethan Mollick直接让Fable 5.2化身「造物主」。 调动约2.5万个Agent，一口气搓出450多个3D世界，全靠代码实时生成，直接开辟一整个平行宇宙！？ 原文链接： https://mp.weixin.qq.com/s/Y2OnlXqFEtb9APgfK_FebA △X@Ethan Mollick 更绝的是，还有网友把500年前的达·芬奇手稿喂给Fable 5.2。 结果，几百年前躺在纸上的机械发明，当场被AI「复活」，从二维草图变成能上手摆弄的3D模型",
+      "summary_zh": "作曲、拍片、3D建模一条龙全包圆  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI Fable 5.2首批实测，来了！！！ 大家Token那叫个哐哐烧，3D建模、游戏、无代码视频全安排上了～ 这边，有朋友一口气狂烧4000亿Token，直接端上一桌游戏、视频、交互世界的「满汉全席」。 看这个赛博版《哈利波特》，主人公骑着扫帚满霍格沃滋飞，还能亲自上手交互～ 原文链接： https://mp.weixin.qq.com/s/Y2OnlXqFEtb9APgfK_FebA △X@Matt Shumer 那边呢，沃顿教授Ethan Mollick直接让Fable 5.2化身「造物主」。 调动约2.5万个Agent，一口气搓出450多个3D世界，全靠代码实时生成，直接开辟一整个平行宇宙！？ 原文链接： https://mp.weixin.qq.com/s/Y2OnlXqFEtb9APgfK_FebA △X@Ethan Mollick 更绝的是，还有网友把500年前的达·芬奇手稿喂给Fable 5.2。 结果，几百年前躺在纸上的机械发明，当场被AI「复活」，从二维草图变成能上手摆弄的3D模型",
+      "publishedAt": "2026-11-10T07:03:43Z",
+      "published_at": "2026-11-10T07:03:43Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0c3aa85c",
+      "title": "Fable 5.2 徒手玩魔方？有了",
+      "title_en": "Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据",
+      "summary_zh": "Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据",
+      "publishedAt": "2026-11-10T16:30:40Z",
+      "published_at": "2026-11-10T16:30:40Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

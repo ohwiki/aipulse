@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-11-10T02:49:06Z",
-  "generatedAt": "2026-11-10T02:49:06Z",
-  "count": 182,
-  "total": 182,
+  "generated_at": "2026-11-10T16:31:40Z",
+  "generatedAt": "2026-11-10T16:31:40Z",
+  "count": 183,
+  "total": 183,
   "entries": [
+    {
+      "date": "2026-11-11",
+      "generated_at": "2026-11-10T16:31:40Z",
+      "generatedAt": "2026-11-10T16:31:40Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "5619f01f",
+          "title": "AI资讯更新：Alsona",
+          "title_en": "Alsona",
+          "url": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/alsona?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI agents that turn buying signals into booked",
+          "summary_zh": "AI agents that turn buying signals into booked",
+          "publishedAt": "2026-11-10T08:01:00Z",
+          "published_at": "2026-11-10T08:01:00Z",
+          "votes_count": 231,
+          "featured": true,
+          "topics": [
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "aec49d86",
+          "title": "产品更新：Maxma",
+          "title_en": "Maxma",
+          "url": "https://www.producthunt.com/products/maxma-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/maxma-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The 24/7 AI teammate that scales your paid ad",
+          "summary_zh": "The 24/7 AI teammate that scales your paid ad",
+          "publishedAt": "2026-11-10T08:01:00Z",
+          "published_at": "2026-11-10T08:01:00Z",
+          "votes_count": 213,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "839",
+              "name": "Marketing automation",
+              "slug": "marketing-automation"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ed9629db",
+          "title": "AI资讯更新：Latch.ai",
+          "title_en": "Latch.ai",
+          "url": "https://www.producthunt.com/products/latch-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/latch-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Automate complex accounting work without a sin",
+          "summary_zh": "Automate complex accounting work without a sin",
+          "publishedAt": "2026-11-10T08:01:00Z",
+          "published_at": "2026-11-10T08:01:00Z",
+          "votes_count": 160,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "764",
+              "name": "Accounting",
+              "slug": "accounting"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-10",
       "generated_at": "2026-11-10T02:49:06Z",
