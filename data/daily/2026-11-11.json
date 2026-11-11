@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-10T16:31:40Z",
-  "generatedAt": "2026-11-10T16:31:40Z",
+  "generated_at": "2026-11-11T00:43:29Z",
+  "generatedAt": "2026-11-11T00:43:29Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -26,7 +26,7 @@
           "summary_zh": "AI agents that turn buying signals into booked",
           "publishedAt": "2026-11-10T08:01:00Z",
           "published_at": "2026-11-10T08:01:00Z",
-          "votes_count": 231,
+          "votes_count": 366,
           "featured": true,
           "topics": [
             {
@@ -64,7 +64,7 @@
           "summary_zh": "The 24/7 AI teammate that scales your paid ad",
           "publishedAt": "2026-11-10T08:01:00Z",
           "published_at": "2026-11-10T08:01:00Z",
-          "votes_count": 213,
+          "votes_count": 249,
           "featured": true,
           "topics": [
             {
@@ -78,9 +78,9 @@
               "slug": "advertising"
             },
             {
-              "id": "839",
-              "name": "Marketing automation",
-              "slug": "marketing-automation"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             }
           ],
           "score_details": null
@@ -102,7 +102,7 @@
           "summary_zh": "Automate complex accounting work without a sin",
           "publishedAt": "2026-11-10T08:01:00Z",
           "published_at": "2026-11-10T08:01:00Z",
-          "votes_count": 160,
+          "votes_count": 203,
           "featured": true,
           "topics": [
             {
@@ -140,7 +140,7 @@
           "summary_zh": "Read PDFs and EPUBs on iPhone Duo Opal Reader",
           "publishedAt": "2026-11-10T08:01:00Z",
           "published_at": "2026-11-10T08:01:00Z",
-          "votes_count": 157,
+          "votes_count": 183,
           "featured": true,
           "topics": [
             {
@@ -248,8 +248,8 @@
           "rankingScore": 5.0,
           "summary": "Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据",
           "summary_zh": "Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据",
-          "publishedAt": "2026-11-10T16:30:40Z",
-          "published_at": "2026-11-10T16:30:40Z",
+          "publishedAt": "2026-11-11T00:42:54Z",
+          "published_at": "2026-11-11T00:42:54Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -276,7 +276,7 @@
       "summary_zh": "AI agents that turn buying signals into booked",
       "publishedAt": "2026-11-10T08:01:00Z",
       "published_at": "2026-11-10T08:01:00Z",
-      "votes_count": 231,
+      "votes_count": 366,
       "featured": true,
       "topics": [
         {
@@ -314,7 +314,7 @@
       "summary_zh": "The 24/7 AI teammate that scales your paid ad",
       "publishedAt": "2026-11-10T08:01:00Z",
       "published_at": "2026-11-10T08:01:00Z",
-      "votes_count": 213,
+      "votes_count": 249,
       "featured": true,
       "topics": [
         {
@@ -328,9 +328,9 @@
           "slug": "advertising"
         },
         {
-          "id": "839",
-          "name": "Marketing automation",
-          "slug": "marketing-automation"
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
         }
       ],
       "score_details": null
@@ -352,7 +352,7 @@
       "summary_zh": "Automate complex accounting work without a sin",
       "publishedAt": "2026-11-10T08:01:00Z",
       "published_at": "2026-11-10T08:01:00Z",
-      "votes_count": 160,
+      "votes_count": 203,
       "featured": true,
       "topics": [
         {
@@ -390,7 +390,7 @@
       "summary_zh": "Read PDFs and EPUBs on iPhone Duo Opal Reader",
       "publishedAt": "2026-11-10T08:01:00Z",
       "published_at": "2026-11-10T08:01:00Z",
-      "votes_count": 157,
+      "votes_count": 183,
       "featured": true,
       "topics": [
         {
@@ -492,8 +492,8 @@
       "rankingScore": 5.0,
       "summary": "Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据",
       "summary_zh": "Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据",
-      "publishedAt": "2026-11-10T16:30:40Z",
-      "published_at": "2026-11-10T16:30:40Z",
+      "publishedAt": "2026-11-11T00:42:54Z",
+      "published_at": "2026-11-11T00:42:54Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
