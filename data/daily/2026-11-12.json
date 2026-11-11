@@ -1,0 +1,493 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-11T16:27:27Z",
+  "generatedAt": "2026-11-11T16:27:27Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "a6497346",
+          "title": "产品更新：ScroogeFrog AI",
+          "title_en": "ScroogeFrog AI",
+          "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI ad fraud detection that protects your marke",
+          "summary_zh": "AI ad fraud detection that protects your marke",
+          "publishedAt": "2026-11-11T08:01:00Z",
+          "published_at": "2026-11-11T08:01:00Z",
+          "votes_count": 211,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "60c86dd0",
+          "title": "产品更新：Nod by n8n",
+          "title_en": "Nod by n8n",
+          "url": "https://www.producthunt.com/products/n8n-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/n8n-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Open source personal agent with its own comput",
+          "summary_zh": "Open source personal agent with its own comput",
+          "publishedAt": "2026-11-11T08:01:00Z",
+          "published_at": "2026-11-11T08:01:00Z",
+          "votes_count": 176,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "38603f64",
+          "title": "AI资讯更新：CALL-E",
+          "title_en": "CALL-E",
+          "url": "https://www.producthunt.com/products/call-e?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/call-e?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The phone line for AI agents CALL-E lets your",
+          "summary_zh": "The phone line for AI agents CALL-E lets your",
+          "publishedAt": "2026-11-11T08:01:00Z",
+          "published_at": "2026-11-11T08:01:00Z",
+          "votes_count": 154,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5dfe0a9f",
+          "title": "产品更新：Scribe v3 by El",
+          "title_en": "Scribe v3 by ElevenLabs",
+          "url": "https://www.producthunt.com/products/elevenlabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/elevenlabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Speech to text with 27% fewer errors in 90+ la",
+          "summary_zh": "Speech to text with 27% fewer errors in 90+ la",
+          "publishedAt": "2026-11-11T08:01:00Z",
+          "published_at": "2026-11-11T08:01:00Z",
+          "votes_count": 126,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "471",
+              "name": "Audio",
+              "slug": "audio"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "f66f87ab",
+          "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/509052.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/509052.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "L4无人化作业走向规模交付  一分钟速读：  首秀：搭载开物™ L4无人作业套件的临工3004混动拖拉机，悬挂650岸下犁，在新疆芳草湖农场无人深翻，耕深超30+厘米，作业速度11.8km/h。 合作：11月2日，丘沃智能与卓品智能启动农具控制器及边缘端域控深度合作，聚焦ISOBUS标准协同，面向全球市场布局农具控制器矩阵系列。 落地：丘沃智能第一家直营旗舰店，将于11月底在新疆芳草湖农场正式开业。 能力：一套车规级硬件底座+KaiwuOS底座+平板远程指挥+时序数据平台与预测性维护，构成从“能无人”到“管得住、看得见、能预警”的完整闭环。  在新疆，一块地动辄数千亩，一个垦区动辄数十万亩，有的兵团农场作业面积甚至以百万亩计。农时窗口只有短短几十天，真正稀缺的，从来不是土地，而是能在窗口期里连轴转的熟练机手。 近日，在新疆芳草湖农场，一台拖拉机完成了一次不太寻常的深翻作业： 搭载丘沃智能开物™ L4无人作业套件的临工3004混合动力拖拉机，牵引650岸下犁，全程无人作业，耕深超过30厘米，作业速度11.8km/h。  这只是丘沃智能近期密集动作中的第一幕。 11月2日，丘沃智能董事长汤",
+          "summary_zh": "L4无人化作业走向规模交付  一分钟速读：  首秀：搭载开物™ L4无人作业套件的临工3004混动拖拉机，悬挂650岸下犁，在新疆芳草湖农场无人深翻，耕深超30+厘米，作业速度11.8km/h。 合作：11月2日，丘沃智能与卓品智能启动农具控制器及边缘端域控深度合作，聚焦ISOBUS标准协同，面向全球市场布局农具控制器矩阵系列。 落地：丘沃智能第一家直营旗舰店，将于11月底在新疆芳草湖农场正式开业。 能力：一套车规级硬件底座+KaiwuOS底座+平板远程指挥+时序数据平台与预测性维护，构成从“能无人”到“管得住、看得见、能预警”的完整闭环。  在新疆，一块地动辄数千亩，一个垦区动辄数十万亩，有的兵团农场作业面积甚至以百万亩计。农时窗口只有短短几十天，真正稀缺的，从来不是土地，而是能在窗口期里连轴转的熟练机手。 近日，在新疆芳草湖农场，一台拖拉机完成了一次不太寻常的深翻作业： 搭载丘沃智能开物™ L4无人作业套件的临工3004混合动力拖拉机，牵引650岸下犁，全程无人作业，耕深超过30厘米，作业速度11.8km/h。  这只是丘沃智能近期密集动作中的第一幕。 11月2日，丘沃智能董事长汤",
+          "publishedAt": "2026-11-11T03:43:31Z",
+          "published_at": "2026-11-11T03:43:31Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "059ec825",
+          "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/509085.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/509085.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。  卷起来了！11月11日，全年最便宜的一天，大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。 消费者打开淘宝APP搜索「Token」，即可进入天猫AI空间站的Token充值中心充值。其中 MiniMax的三款月卡全部5折，阿里云Token Plan 两款月卡5折起，智谱周卡5折起，千问办公基础版会员月卡首月3折起，Qoder月卡3.3折，低至19.9元。 今年双11 Token火爆出圈，首次成为一个独立品类登上天猫，标志着大模型不再只活在发布会、API文档里，开始走进大众消费。  （天猫双11 Token充值中心5折会场） 本文由天猫提供，量子位获授权转载，观点归原作者所有。",
+          "summary_zh": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。  卷起来了！11月11日，全年最便宜的一天，大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。 消费者打开淘宝APP搜索「Token」，即可进入天猫AI空间站的Token充值中心充值。其中 MiniMax的三款月卡全部5折，阿里云Token Plan 两款月卡5折起，智谱周卡5折起，千问办公基础版会员月卡首月3折起，Qoder月卡3.3折，低至19.9元。 今年双11 Token火爆出圈，首次成为一个独立品类登上天猫，标志着大模型不再只活在发布会、API文档里，开始走进大众消费。  （天猫双11 Token充值中心5折会场） 本文由天猫提供，量子位获授权转载，观点归原作者所有。",
+          "publishedAt": "2026-11-11T06:18:09Z",
+          "published_at": "2026-11-11T06:18:09Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "4592113b",
+          "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/509088.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/509088.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。   AI时代加速演进，Token（词元）作为大模型处理信息、调用算力、交付智能服务的基本计量单位，正成为智能经济的重要“度量衡”，并重塑算力、云计算、大模型及智能体应用等环节的成本与价值逻辑。与此同时，业界对Token经济的成本核算、价值评估、安全治理、能源消耗、产业泡沫等问题尚未形成充分共识，亟需产学研投各界加强对话、凝聚共识。 10月30日，由联想控股微空间、海淀区中关村街道、海淀区“五方六力”中国科学院工作组、融科资讯中心、联想创投及讯兔科技等共同发起的“科技有「联想」·Token畅想曲”线下沙龙在京举行。活动汇聚产学研投领域9位一线嘉宾，以“捕捉Token经济的引爆点”为主题，共议产业趋势、商业模式与价值判断等Token经济议题。 白板开放麦： 自由思辨，共探Token经济下的新机遇 在沙龙“白板开放麦”环节，多位一线嘉宾不设PPT、以白板为纸，分享了各自对Token经济新机遇的一线观察。 近期AI短剧火爆，已成为Token消耗的重要领域，短剧导演对Token用量的敏感度也最直接。九州文化传媒AI短剧导演张凯",
+          "summary_zh": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。   AI时代加速演进，Token（词元）作为大模型处理信息、调用算力、交付智能服务的基本计量单位，正成为智能经济的重要“度量衡”，并重塑算力、云计算、大模型及智能体应用等环节的成本与价值逻辑。与此同时，业界对Token经济的成本核算、价值评估、安全治理、能源消耗、产业泡沫等问题尚未形成充分共识，亟需产学研投各界加强对话、凝聚共识。 10月30日，由联想控股微空间、海淀区中关村街道、海淀区“五方六力”中国科学院工作组、融科资讯中心、联想创投及讯兔科技等共同发起的“科技有「联想」·Token畅想曲”线下沙龙在京举行。活动汇聚产学研投领域9位一线嘉宾，以“捕捉Token经济的引爆点”为主题，共议产业趋势、商业模式与价值判断等Token经济议题。 白板开放麦： 自由思辨，共探Token经济下的新机遇 在沙龙“白板开放麦”环节，多位一线嘉宾不设PPT、以白板为纸，分享了各自对Token经济新机遇的一线观察。 近期AI短剧火爆，已成为Token消耗的重要领域，短剧导演对Token用量的敏感度也最直接。九州文化传媒AI短剧导演张凯",
+          "publishedAt": "2026-11-11T06:27:03Z",
+          "published_at": "2026-11-11T06:27:03Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "93a50fcb",
+          "title": "具身智能进入Agentic Robo",
+          "title_en": "具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架",
+          "summary_zh": "具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架",
+          "publishedAt": "2026-11-11T16:26:24Z",
+          "published_at": "2026-11-11T16:26:24Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "a6497346",
+      "title": "产品更新：ScroogeFrog AI",
+      "title_en": "ScroogeFrog AI",
+      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI ad fraud detection that protects your marke",
+      "summary_zh": "AI ad fraud detection that protects your marke",
+      "publishedAt": "2026-11-11T08:01:00Z",
+      "published_at": "2026-11-11T08:01:00Z",
+      "votes_count": 211,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "60c86dd0",
+      "title": "产品更新：Nod by n8n",
+      "title_en": "Nod by n8n",
+      "url": "https://www.producthunt.com/products/n8n-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/n8n-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Open source personal agent with its own comput",
+      "summary_zh": "Open source personal agent with its own comput",
+      "publishedAt": "2026-11-11T08:01:00Z",
+      "published_at": "2026-11-11T08:01:00Z",
+      "votes_count": 176,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "282",
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "38603f64",
+      "title": "AI资讯更新：CALL-E",
+      "title_en": "CALL-E",
+      "url": "https://www.producthunt.com/products/call-e?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/call-e?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The phone line for AI agents CALL-E lets your",
+      "summary_zh": "The phone line for AI agents CALL-E lets your",
+      "publishedAt": "2026-11-11T08:01:00Z",
+      "published_at": "2026-11-11T08:01:00Z",
+      "votes_count": 154,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "282",
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5dfe0a9f",
+      "title": "产品更新：Scribe v3 by El",
+      "title_en": "Scribe v3 by ElevenLabs",
+      "url": "https://www.producthunt.com/products/elevenlabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/elevenlabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Speech to text with 27% fewer errors in 90+ la",
+      "summary_zh": "Speech to text with 27% fewer errors in 90+ la",
+      "publishedAt": "2026-11-11T08:01:00Z",
+      "published_at": "2026-11-11T08:01:00Z",
+      "votes_count": 126,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "471",
+          "name": "Audio",
+          "slug": "audio"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "f66f87ab",
+      "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/509052.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/509052.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "L4无人化作业走向规模交付  一分钟速读：  首秀：搭载开物™ L4无人作业套件的临工3004混动拖拉机，悬挂650岸下犁，在新疆芳草湖农场无人深翻，耕深超30+厘米，作业速度11.8km/h。 合作：11月2日，丘沃智能与卓品智能启动农具控制器及边缘端域控深度合作，聚焦ISOBUS标准协同，面向全球市场布局农具控制器矩阵系列。 落地：丘沃智能第一家直营旗舰店，将于11月底在新疆芳草湖农场正式开业。 能力：一套车规级硬件底座+KaiwuOS底座+平板远程指挥+时序数据平台与预测性维护，构成从“能无人”到“管得住、看得见、能预警”的完整闭环。  在新疆，一块地动辄数千亩，一个垦区动辄数十万亩，有的兵团农场作业面积甚至以百万亩计。农时窗口只有短短几十天，真正稀缺的，从来不是土地，而是能在窗口期里连轴转的熟练机手。 近日，在新疆芳草湖农场，一台拖拉机完成了一次不太寻常的深翻作业： 搭载丘沃智能开物™ L4无人作业套件的临工3004混合动力拖拉机，牵引650岸下犁，全程无人作业，耕深超过30厘米，作业速度11.8km/h。  这只是丘沃智能近期密集动作中的第一幕。 11月2日，丘沃智能董事长汤",
+      "summary_zh": "L4无人化作业走向规模交付  一分钟速读：  首秀：搭载开物™ L4无人作业套件的临工3004混动拖拉机，悬挂650岸下犁，在新疆芳草湖农场无人深翻，耕深超30+厘米，作业速度11.8km/h。 合作：11月2日，丘沃智能与卓品智能启动农具控制器及边缘端域控深度合作，聚焦ISOBUS标准协同，面向全球市场布局农具控制器矩阵系列。 落地：丘沃智能第一家直营旗舰店，将于11月底在新疆芳草湖农场正式开业。 能力：一套车规级硬件底座+KaiwuOS底座+平板远程指挥+时序数据平台与预测性维护，构成从“能无人”到“管得住、看得见、能预警”的完整闭环。  在新疆，一块地动辄数千亩，一个垦区动辄数十万亩，有的兵团农场作业面积甚至以百万亩计。农时窗口只有短短几十天，真正稀缺的，从来不是土地，而是能在窗口期里连轴转的熟练机手。 近日，在新疆芳草湖农场，一台拖拉机完成了一次不太寻常的深翻作业： 搭载丘沃智能开物™ L4无人作业套件的临工3004混合动力拖拉机，牵引650岸下犁，全程无人作业，耕深超过30厘米，作业速度11.8km/h。  这只是丘沃智能近期密集动作中的第一幕。 11月2日，丘沃智能董事长汤",
+      "publishedAt": "2026-11-11T03:43:31Z",
+      "published_at": "2026-11-11T03:43:31Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "059ec825",
+      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/509085.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/509085.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。  卷起来了！11月11日，全年最便宜的一天，大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。 消费者打开淘宝APP搜索「Token」，即可进入天猫AI空间站的Token充值中心充值。其中 MiniMax的三款月卡全部5折，阿里云Token Plan 两款月卡5折起，智谱周卡5折起，千问办公基础版会员月卡首月3折起，Qoder月卡3.3折，低至19.9元。 今年双11 Token火爆出圈，首次成为一个独立品类登上天猫，标志着大模型不再只活在发布会、API文档里，开始走进大众消费。  （天猫双11 Token充值中心5折会场） 本文由天猫提供，量子位获授权转载，观点归原作者所有。",
+      "summary_zh": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。  卷起来了！11月11日，全年最便宜的一天，大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。 消费者打开淘宝APP搜索「Token」，即可进入天猫AI空间站的Token充值中心充值。其中 MiniMax的三款月卡全部5折，阿里云Token Plan 两款月卡5折起，智谱周卡5折起，千问办公基础版会员月卡首月3折起，Qoder月卡3.3折，低至19.9元。 今年双11 Token火爆出圈，首次成为一个独立品类登上天猫，标志着大模型不再只活在发布会、API文档里，开始走进大众消费。  （天猫双11 Token充值中心5折会场） 本文由天猫提供，量子位获授权转载，观点归原作者所有。",
+      "publishedAt": "2026-11-11T06:18:09Z",
+      "published_at": "2026-11-11T06:18:09Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "4592113b",
+      "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/509088.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/509088.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。   AI时代加速演进，Token（词元）作为大模型处理信息、调用算力、交付智能服务的基本计量单位，正成为智能经济的重要“度量衡”，并重塑算力、云计算、大模型及智能体应用等环节的成本与价值逻辑。与此同时，业界对Token经济的成本核算、价值评估、安全治理、能源消耗、产业泡沫等问题尚未形成充分共识，亟需产学研投各界加强对话、凝聚共识。 10月30日，由联想控股微空间、海淀区中关村街道、海淀区“五方六力”中国科学院工作组、融科资讯中心、联想创投及讯兔科技等共同发起的“科技有「联想」·Token畅想曲”线下沙龙在京举行。活动汇聚产学研投领域9位一线嘉宾，以“捕捉Token经济的引爆点”为主题，共议产业趋势、商业模式与价值判断等Token经济议题。 白板开放麦： 自由思辨，共探Token经济下的新机遇 在沙龙“白板开放麦”环节，多位一线嘉宾不设PPT、以白板为纸，分享了各自对Token经济新机遇的一线观察。 近期AI短剧火爆，已成为Token消耗的重要领域，短剧导演对Token用量的敏感度也最直接。九州文化传媒AI短剧导演张凯",
+      "summary_zh": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。   AI时代加速演进，Token（词元）作为大模型处理信息、调用算力、交付智能服务的基本计量单位，正成为智能经济的重要“度量衡”，并重塑算力、云计算、大模型及智能体应用等环节的成本与价值逻辑。与此同时，业界对Token经济的成本核算、价值评估、安全治理、能源消耗、产业泡沫等问题尚未形成充分共识，亟需产学研投各界加强对话、凝聚共识。 10月30日，由联想控股微空间、海淀区中关村街道、海淀区“五方六力”中国科学院工作组、融科资讯中心、联想创投及讯兔科技等共同发起的“科技有「联想」·Token畅想曲”线下沙龙在京举行。活动汇聚产学研投领域9位一线嘉宾，以“捕捉Token经济的引爆点”为主题，共议产业趋势、商业模式与价值判断等Token经济议题。 白板开放麦： 自由思辨，共探Token经济下的新机遇 在沙龙“白板开放麦”环节，多位一线嘉宾不设PPT、以白板为纸，分享了各自对Token经济新机遇的一线观察。 近期AI短剧火爆，已成为Token消耗的重要领域，短剧导演对Token用量的敏感度也最直接。九州文化传媒AI短剧导演张凯",
+      "publishedAt": "2026-11-11T06:27:03Z",
+      "published_at": "2026-11-11T06:27:03Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "93a50fcb",
+      "title": "具身智能进入Agentic Robo",
+      "title_en": "具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架",
+      "summary_zh": "具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架",
+      "publishedAt": "2026-11-11T16:26:24Z",
+      "published_at": "2026-11-11T16:26:24Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
