@@ -1,7 +1,7 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-11T16:27:27Z",
-  "generatedAt": "2026-11-11T16:27:27Z",
+  "generated_at": "2026-11-12T01:57:20Z",
+  "generatedAt": "2026-11-12T01:57:20Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -9,44 +9,6 @@
       "category": "ai-products",
       "label": "产品发布/更新",
       "items": [
-        {
-          "id": "a6497346",
-          "title": "产品更新：ScroogeFrog AI",
-          "title_en": "ScroogeFrog AI",
-          "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "AI ad fraud detection that protects your marke",
-          "summary_zh": "AI ad fraud detection that protects your marke",
-          "publishedAt": "2026-11-11T08:01:00Z",
-          "published_at": "2026-11-11T08:01:00Z",
-          "votes_count": 211,
-          "featured": true,
-          "topics": [
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "207",
-              "name": "Advertising",
-              "slug": "advertising"
-            },
-            {
-              "id": "268",
-              "name": "Artificial Intelligence",
-              "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
         {
           "id": "60c86dd0",
           "title": "产品更新：Nod by n8n",
@@ -64,7 +26,7 @@
           "summary_zh": "Open source personal agent with its own comput",
           "publishedAt": "2026-11-11T08:01:00Z",
           "published_at": "2026-11-11T08:01:00Z",
-          "votes_count": 176,
+          "votes_count": 245,
           "featured": true,
           "topics": [
             {
@@ -86,6 +48,44 @@
           "score_details": null
         },
         {
+          "id": "a6497346",
+          "title": "产品更新：ScroogeFrog AI",
+          "title_en": "ScroogeFrog AI",
+          "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI ad fraud detection that protects your marke",
+          "summary_zh": "AI ad fraud detection that protects your marke",
+          "publishedAt": "2026-11-11T08:01:00Z",
+          "published_at": "2026-11-11T08:01:00Z",
+          "votes_count": 235,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
           "id": "38603f64",
           "title": "AI资讯更新：CALL-E",
           "title_en": "CALL-E",
@@ -102,7 +102,7 @@
           "summary_zh": "The phone line for AI agents CALL-E lets your",
           "publishedAt": "2026-11-11T08:01:00Z",
           "published_at": "2026-11-11T08:01:00Z",
-          "votes_count": 154,
+          "votes_count": 181,
           "featured": true,
           "topics": [
             {
@@ -140,7 +140,7 @@
           "summary_zh": "Speech to text with 27% fewer errors in 90+ la",
           "publishedAt": "2026-11-11T08:01:00Z",
           "published_at": "2026-11-11T08:01:00Z",
-          "votes_count": 126,
+          "votes_count": 154,
           "featured": true,
           "topics": [
             {
@@ -243,8 +243,8 @@
           "rankingScore": 5.0,
           "summary": "具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架",
           "summary_zh": "具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架",
-          "publishedAt": "2026-11-11T16:26:24Z",
-          "published_at": "2026-11-11T16:26:24Z",
+          "publishedAt": "2026-11-12T01:56:33Z",
+          "published_at": "2026-11-12T01:56:33Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -254,44 +254,6 @@
     }
   ],
   "items": [
-    {
-      "id": "a6497346",
-      "title": "产品更新：ScroogeFrog AI",
-      "title_en": "ScroogeFrog AI",
-      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "AI ad fraud detection that protects your marke",
-      "summary_zh": "AI ad fraud detection that protects your marke",
-      "publishedAt": "2026-11-11T08:01:00Z",
-      "published_at": "2026-11-11T08:01:00Z",
-      "votes_count": 211,
-      "featured": true,
-      "topics": [
-        {
-          "id": "164",
-          "name": "Marketing",
-          "slug": "marketing"
-        },
-        {
-          "id": "207",
-          "name": "Advertising",
-          "slug": "advertising"
-        },
-        {
-          "id": "268",
-          "name": "Artificial Intelligence",
-          "slug": "artificial-intelligence"
-        }
-      ],
-      "score_details": null
-    },
     {
       "id": "60c86dd0",
       "title": "产品更新：Nod by n8n",
@@ -309,7 +271,7 @@
       "summary_zh": "Open source personal agent with its own comput",
       "publishedAt": "2026-11-11T08:01:00Z",
       "published_at": "2026-11-11T08:01:00Z",
-      "votes_count": 176,
+      "votes_count": 245,
       "featured": true,
       "topics": [
         {
@@ -331,6 +293,44 @@
       "score_details": null
     },
     {
+      "id": "a6497346",
+      "title": "产品更新：ScroogeFrog AI",
+      "title_en": "ScroogeFrog AI",
+      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI ad fraud detection that protects your marke",
+      "summary_zh": "AI ad fraud detection that protects your marke",
+      "publishedAt": "2026-11-11T08:01:00Z",
+      "published_at": "2026-11-11T08:01:00Z",
+      "votes_count": 235,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
       "id": "38603f64",
       "title": "AI资讯更新：CALL-E",
       "title_en": "CALL-E",
@@ -347,7 +347,7 @@
       "summary_zh": "The phone line for AI agents CALL-E lets your",
       "publishedAt": "2026-11-11T08:01:00Z",
       "published_at": "2026-11-11T08:01:00Z",
-      "votes_count": 154,
+      "votes_count": 181,
       "featured": true,
       "topics": [
         {
@@ -385,7 +385,7 @@
       "summary_zh": "Speech to text with 27% fewer errors in 90+ la",
       "publishedAt": "2026-11-11T08:01:00Z",
       "published_at": "2026-11-11T08:01:00Z",
-      "votes_count": 126,
+      "votes_count": 154,
       "featured": true,
       "topics": [
         {
@@ -482,8 +482,8 @@
       "rankingScore": 5.0,
       "summary": "具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架",
       "summary_zh": "具身智能进入Agentic Robotics时代？清华、伯克利开源统一RUA框架",
-      "publishedAt": "2026-11-11T16:26:24Z",
-      "published_at": "2026-11-11T16:26:24Z",
+      "publishedAt": "2026-11-12T01:56:33Z",
+      "published_at": "2026-11-12T01:56:33Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
