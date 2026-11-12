@@ -1,0 +1,503 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-12T16:58:00Z",
+  "generatedAt": "2026-11-12T16:58:00Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "6f94be45",
+          "title": "产品更新：Plurai Simulati",
+          "title_en": "Plurai Simulation",
+          "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A simulated world that makes your agent improv",
+          "summary_zh": "A simulated world that makes your agent improv",
+          "publishedAt": "2026-11-12T08:01:00Z",
+          "published_at": "2026-11-12T08:01:00Z",
+          "votes_count": 278,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "4ed093c9",
+          "title": "产品更新：YouArt Desktop",
+          "title_en": "YouArt Desktop App",
+          "url": "https://www.producthunt.com/products/youart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/youart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Codex for creative team Meet YouArt Desktop Ap",
+          "summary_zh": "Codex for creative team Meet YouArt Desktop Ap",
+          "publishedAt": "2026-11-12T08:01:00Z",
+          "published_at": "2026-11-12T08:01:00Z",
+          "votes_count": 241,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "0dc9f229",
+          "title": "产品更新：⌘+L",
+          "title_en": "⌘+L",
+          "url": "https://www.producthunt.com/products/l?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/l?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Edit your website like Figma! Command L (⌘+L)",
+          "summary_zh": "Edit your website like Figma! Command L (⌘+L)",
+          "publishedAt": "2026-11-12T08:01:00Z",
+          "published_at": "2026-11-12T08:01:00Z",
+          "votes_count": 179,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "32d35ba3",
+          "title": "产品更新：Omnigraph",
+          "title_en": "Omnigraph",
+          "url": "https://www.producthunt.com/products/omnigraph?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/omnigraph?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Open source graph database for your AI agents",
+          "summary_zh": "Open source graph database for your AI agents",
+          "publishedAt": "2026-11-12T08:01:00Z",
+          "published_at": "2026-11-12T08:01:00Z",
+          "votes_count": 174,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "772",
+              "name": "Database",
+              "slug": "database"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "c1b3c3ae",
+          "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/509281.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/509281.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布  随着2026年“双十一”线上活动落幕，国内物流也将迎来新一波年度高峰。今年购物节周期拉长、订单波峰叠加，仓库里用工最紧张、最难补位的仍是拣货、打包、称重、量方、供包这类环节。昆腾动力的具身机器人首次进入菜鸟供应链“双十一”真实作业现场。 2026年11月，昆腾动力宣布，公司在称重量方、分拣供包、固定拣选等场景完成产品与市场匹配（PMF）验证，并在多家头部电商平台及物流企业的仓库落地，形成跨仓复制和客户复购，目前，公司已获得合计近5000台机器人的批量订单，开始进入规模化获客与交付阶段。 物流仓成了物理AI最先跑通的地方 物流仓库里，机器人面对的是持续变化：每秒前进0.3米运输线、包裹外形、包装材质、摆放姿态每一项都不同——称重、量方、换单、供包必须与输送线和业务系统衔接，完成操作后还要跟住节拍，遇到异形件、堆叠和遮挡要能自己停下来重试。 这类环节给具身智能提供了一个现实条件：单次动作的失败不会影响整条产线的生产，还可以快速获得失败反馈，系统就能及时调整重试、核验或者由人工接管，为技术迭代提供了条件。 而",
+          "summary_zh": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布  随着2026年“双十一”线上活动落幕，国内物流也将迎来新一波年度高峰。今年购物节周期拉长、订单波峰叠加，仓库里用工最紧张、最难补位的仍是拣货、打包、称重、量方、供包这类环节。昆腾动力的具身机器人首次进入菜鸟供应链“双十一”真实作业现场。 2026年11月，昆腾动力宣布，公司在称重量方、分拣供包、固定拣选等场景完成产品与市场匹配（PMF）验证，并在多家头部电商平台及物流企业的仓库落地，形成跨仓复制和客户复购，目前，公司已获得合计近5000台机器人的批量订单，开始进入规模化获客与交付阶段。 物流仓成了物理AI最先跑通的地方 物流仓库里，机器人面对的是持续变化：每秒前进0.3米运输线、包裹外形、包装材质、摆放姿态每一项都不同——称重、量方、换单、供包必须与输送线和业务系统衔接，完成操作后还要跟住节拍，遇到异形件、堆叠和遮挡要能自己停下来重试。 这类环节给具身智能提供了一个现实条件：单次动作的失败不会影响整条产线的生产，还可以快速获得失败反馈，系统就能及时调整重试、核验或者由人工接管，为技术迭代提供了条件。 而",
+          "publishedAt": "2026-11-12T01:45:04Z",
+          "published_at": "2026-11-12T01:45:04Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "10d8d55c",
+          "title": "百曜科技入选全球 The Information 50！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/509285.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/509285.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。   北京，2026年 11 月 12 日——全球知名科技商业媒体 The Information 近日公布“2026年全球最具潜力 50 家初创公司”（The 50 Most Promising Startups 2026）榜单。百曜科技（Vitaura）凭借在 AIVC 领域的原创技术与产业化进展成功入选，亚洲仅 6 家公司入选，标志着公司技术实力与商业化潜力获得国际关注。 The Information 在入选理由中提到，百曜科技（Vitaura）推出的 AURA CellOS 以世界模型模拟人类细胞行为，是较早采用联合嵌入预测架构的人类细胞 AI 模型之一，有望加速药物发现与创新疗法研发。其研究团队曾在 Arc Institute 虚拟细胞挑战赛中获得全能组全球第二，并已与 10x Genomics 建立研究合作，展现出领先的技术实力与产业化潜力。  自 2020 年推出以来，The Information 50 持续聚焦全球早期高成长科技企业，由资深编辑团队从营收表现、商业模式和长期增长前景等维度进行评估。 根据其",
+          "summary_zh": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。   北京，2026年 11 月 12 日——全球知名科技商业媒体 The Information 近日公布“2026年全球最具潜力 50 家初创公司”（The 50 Most Promising Startups 2026）榜单。百曜科技（Vitaura）凭借在 AIVC 领域的原创技术与产业化进展成功入选，亚洲仅 6 家公司入选，标志着公司技术实力与商业化潜力获得国际关注。 The Information 在入选理由中提到，百曜科技（Vitaura）推出的 AURA CellOS 以世界模型模拟人类细胞行为，是较早采用联合嵌入预测架构的人类细胞 AI 模型之一，有望加速药物发现与创新疗法研发。其研究团队曾在 Arc Institute 虚拟细胞挑战赛中获得全能组全球第二，并已与 10x Genomics 建立研究合作，展现出领先的技术实力与产业化潜力。  自 2020 年推出以来，The Information 50 持续聚焦全球早期高成长科技企业，由资深编辑团队从营收表现、商业模式和长期增长前景等维度进行评估。 根据其",
+          "publishedAt": "2026-11-12T06:13:22Z",
+          "published_at": "2026-11-12T06:13:22Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "376c8ad1",
+          "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/509291.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/509291.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "只管挖不管埋。  最近AI找Bug这事儿有点太割裂了。 这一边，AI一朝出手倒查所有，先挖出了个PHP底层重大安全漏洞，又扒出948个Linux内核漏洞……  另一边，开源社区都快被整崩溃了：你把漏洞找出来了，你倒是修啊！ 昨天，网络安全公司VulnCheck发布了一份关于Anthropic玻璃翼计划（Project Glasswing）的成绩单。 上面显示，在玻璃翼计划推出七个月后，Claude已累计挖出了37966条候选漏洞。 但截至目前，公开记录上只有217条被修复。 VulnCheck不禁质疑，当初那个轰轰烈烈的网络安全“Mythos时代”，真的到来了吗？  3.8万个漏洞，究竟修好了多少？ 先帮大家回忆一下Anthropic今年4月高调宣传推出的“玻璃翼计划”。 该计划旨在利用Claude大规模挖掘关键软件及开源项目中的安全漏洞，联合科技企业、开源维护者推动漏洞修复，抢在被利用之前消除安全隐患。 取名寓意有二。 一方面，安全漏洞就像玻璃翼蝶一样，藏在人眼皮底下，数十年无人发现；另一方面，透明本身也是一种保护，Anthropic希望通过更透明的安全研究和漏洞披露机制，让软件系统",
+          "summary_zh": "只管挖不管埋。  最近AI找Bug这事儿有点太割裂了。 这一边，AI一朝出手倒查所有，先挖出了个PHP底层重大安全漏洞，又扒出948个Linux内核漏洞……  另一边，开源社区都快被整崩溃了：你把漏洞找出来了，你倒是修啊！ 昨天，网络安全公司VulnCheck发布了一份关于Anthropic玻璃翼计划（Project Glasswing）的成绩单。 上面显示，在玻璃翼计划推出七个月后，Claude已累计挖出了37966条候选漏洞。 但截至目前，公开记录上只有217条被修复。 VulnCheck不禁质疑，当初那个轰轰烈烈的网络安全“Mythos时代”，真的到来了吗？  3.8万个漏洞，究竟修好了多少？ 先帮大家回忆一下Anthropic今年4月高调宣传推出的“玻璃翼计划”。 该计划旨在利用Claude大规模挖掘关键软件及开源项目中的安全漏洞，联合科技企业、开源维护者推动漏洞修复，抢在被利用之前消除安全隐患。 取名寓意有二。 一方面，安全漏洞就像玻璃翼蝶一样，藏在人眼皮底下，数十年无人发现；另一方面，透明本身也是一种保护，Anthropic希望通过更透明的安全研究和漏洞披露机制，让软件系统",
+          "publishedAt": "2026-11-12T07:55:11Z",
+          "published_at": "2026-11-12T07:55:11Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0f8d872f",
+          "title": "EMNLP 2026｜如何记住发生过",
+          "title_en": "EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历",
+          "summary_zh": "EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历",
+          "publishedAt": "2026-11-12T16:57:16Z",
+          "published_at": "2026-11-12T16:57:16Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "6f94be45",
+      "title": "产品更新：Plurai Simulati",
+      "title_en": "Plurai Simulation",
+      "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A simulated world that makes your agent improv",
+      "summary_zh": "A simulated world that makes your agent improv",
+      "publishedAt": "2026-11-12T08:01:00Z",
+      "published_at": "2026-11-12T08:01:00Z",
+      "votes_count": 278,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "4ed093c9",
+      "title": "产品更新：YouArt Desktop",
+      "title_en": "YouArt Desktop App",
+      "url": "https://www.producthunt.com/products/youart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/youart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Codex for creative team Meet YouArt Desktop Ap",
+      "summary_zh": "Codex for creative team Meet YouArt Desktop Ap",
+      "publishedAt": "2026-11-12T08:01:00Z",
+      "published_at": "2026-11-12T08:01:00Z",
+      "votes_count": 241,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "0dc9f229",
+      "title": "产品更新：⌘+L",
+      "title_en": "⌘+L",
+      "url": "https://www.producthunt.com/products/l?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/l?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Edit your website like Figma! Command L (⌘+L)",
+      "summary_zh": "Edit your website like Figma! Command L (⌘+L)",
+      "publishedAt": "2026-11-12T08:01:00Z",
+      "published_at": "2026-11-12T08:01:00Z",
+      "votes_count": 179,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "32d35ba3",
+      "title": "产品更新：Omnigraph",
+      "title_en": "Omnigraph",
+      "url": "https://www.producthunt.com/products/omnigraph?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/omnigraph?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Open source graph database for your AI agents",
+      "summary_zh": "Open source graph database for your AI agents",
+      "publishedAt": "2026-11-12T08:01:00Z",
+      "published_at": "2026-11-12T08:01:00Z",
+      "votes_count": 174,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "772",
+          "name": "Database",
+          "slug": "database"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "c1b3c3ae",
+      "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/509281.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/509281.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布  随着2026年“双十一”线上活动落幕，国内物流也将迎来新一波年度高峰。今年购物节周期拉长、订单波峰叠加，仓库里用工最紧张、最难补位的仍是拣货、打包、称重、量方、供包这类环节。昆腾动力的具身机器人首次进入菜鸟供应链“双十一”真实作业现场。 2026年11月，昆腾动力宣布，公司在称重量方、分拣供包、固定拣选等场景完成产品与市场匹配（PMF）验证，并在多家头部电商平台及物流企业的仓库落地，形成跨仓复制和客户复购，目前，公司已获得合计近5000台机器人的批量订单，开始进入规模化获客与交付阶段。 物流仓成了物理AI最先跑通的地方 物流仓库里，机器人面对的是持续变化：每秒前进0.3米运输线、包裹外形、包装材质、摆放姿态每一项都不同——称重、量方、换单、供包必须与输送线和业务系统衔接，完成操作后还要跟住节拍，遇到异形件、堆叠和遮挡要能自己停下来重试。 这类环节给具身智能提供了一个现实条件：单次动作的失败不会影响整条产线的生产，还可以快速获得失败反馈，系统就能及时调整重试、核验或者由人工接管，为技术迭代提供了条件。 而",
+      "summary_zh": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布  随着2026年“双十一”线上活动落幕，国内物流也将迎来新一波年度高峰。今年购物节周期拉长、订单波峰叠加，仓库里用工最紧张、最难补位的仍是拣货、打包、称重、量方、供包这类环节。昆腾动力的具身机器人首次进入菜鸟供应链“双十一”真实作业现场。 2026年11月，昆腾动力宣布，公司在称重量方、分拣供包、固定拣选等场景完成产品与市场匹配（PMF）验证，并在多家头部电商平台及物流企业的仓库落地，形成跨仓复制和客户复购，目前，公司已获得合计近5000台机器人的批量订单，开始进入规模化获客与交付阶段。 物流仓成了物理AI最先跑通的地方 物流仓库里，机器人面对的是持续变化：每秒前进0.3米运输线、包裹外形、包装材质、摆放姿态每一项都不同——称重、量方、换单、供包必须与输送线和业务系统衔接，完成操作后还要跟住节拍，遇到异形件、堆叠和遮挡要能自己停下来重试。 这类环节给具身智能提供了一个现实条件：单次动作的失败不会影响整条产线的生产，还可以快速获得失败反馈，系统就能及时调整重试、核验或者由人工接管，为技术迭代提供了条件。 而",
+      "publishedAt": "2026-11-12T01:45:04Z",
+      "published_at": "2026-11-12T01:45:04Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "10d8d55c",
+      "title": "百曜科技入选全球 The Information 50！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/509285.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/509285.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。   北京，2026年 11 月 12 日——全球知名科技商业媒体 The Information 近日公布“2026年全球最具潜力 50 家初创公司”（The 50 Most Promising Startups 2026）榜单。百曜科技（Vitaura）凭借在 AIVC 领域的原创技术与产业化进展成功入选，亚洲仅 6 家公司入选，标志着公司技术实力与商业化潜力获得国际关注。 The Information 在入选理由中提到，百曜科技（Vitaura）推出的 AURA CellOS 以世界模型模拟人类细胞行为，是较早采用联合嵌入预测架构的人类细胞 AI 模型之一，有望加速药物发现与创新疗法研发。其研究团队曾在 Arc Institute 虚拟细胞挑战赛中获得全能组全球第二，并已与 10x Genomics 建立研究合作，展现出领先的技术实力与产业化潜力。  自 2020 年推出以来，The Information 50 持续聚焦全球早期高成长科技企业，由资深编辑团队从营收表现、商业模式和长期增长前景等维度进行评估。 根据其",
+      "summary_zh": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。   北京，2026年 11 月 12 日——全球知名科技商业媒体 The Information 近日公布“2026年全球最具潜力 50 家初创公司”（The 50 Most Promising Startups 2026）榜单。百曜科技（Vitaura）凭借在 AIVC 领域的原创技术与产业化进展成功入选，亚洲仅 6 家公司入选，标志着公司技术实力与商业化潜力获得国际关注。 The Information 在入选理由中提到，百曜科技（Vitaura）推出的 AURA CellOS 以世界模型模拟人类细胞行为，是较早采用联合嵌入预测架构的人类细胞 AI 模型之一，有望加速药物发现与创新疗法研发。其研究团队曾在 Arc Institute 虚拟细胞挑战赛中获得全能组全球第二，并已与 10x Genomics 建立研究合作，展现出领先的技术实力与产业化潜力。  自 2020 年推出以来，The Information 50 持续聚焦全球早期高成长科技企业，由资深编辑团队从营收表现、商业模式和长期增长前景等维度进行评估。 根据其",
+      "publishedAt": "2026-11-12T06:13:22Z",
+      "published_at": "2026-11-12T06:13:22Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "376c8ad1",
+      "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/509291.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/509291.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "只管挖不管埋。  最近AI找Bug这事儿有点太割裂了。 这一边，AI一朝出手倒查所有，先挖出了个PHP底层重大安全漏洞，又扒出948个Linux内核漏洞……  另一边，开源社区都快被整崩溃了：你把漏洞找出来了，你倒是修啊！ 昨天，网络安全公司VulnCheck发布了一份关于Anthropic玻璃翼计划（Project Glasswing）的成绩单。 上面显示，在玻璃翼计划推出七个月后，Claude已累计挖出了37966条候选漏洞。 但截至目前，公开记录上只有217条被修复。 VulnCheck不禁质疑，当初那个轰轰烈烈的网络安全“Mythos时代”，真的到来了吗？  3.8万个漏洞，究竟修好了多少？ 先帮大家回忆一下Anthropic今年4月高调宣传推出的“玻璃翼计划”。 该计划旨在利用Claude大规模挖掘关键软件及开源项目中的安全漏洞，联合科技企业、开源维护者推动漏洞修复，抢在被利用之前消除安全隐患。 取名寓意有二。 一方面，安全漏洞就像玻璃翼蝶一样，藏在人眼皮底下，数十年无人发现；另一方面，透明本身也是一种保护，Anthropic希望通过更透明的安全研究和漏洞披露机制，让软件系统",
+      "summary_zh": "只管挖不管埋。  最近AI找Bug这事儿有点太割裂了。 这一边，AI一朝出手倒查所有，先挖出了个PHP底层重大安全漏洞，又扒出948个Linux内核漏洞……  另一边，开源社区都快被整崩溃了：你把漏洞找出来了，你倒是修啊！ 昨天，网络安全公司VulnCheck发布了一份关于Anthropic玻璃翼计划（Project Glasswing）的成绩单。 上面显示，在玻璃翼计划推出七个月后，Claude已累计挖出了37966条候选漏洞。 但截至目前，公开记录上只有217条被修复。 VulnCheck不禁质疑，当初那个轰轰烈烈的网络安全“Mythos时代”，真的到来了吗？  3.8万个漏洞，究竟修好了多少？ 先帮大家回忆一下Anthropic今年4月高调宣传推出的“玻璃翼计划”。 该计划旨在利用Claude大规模挖掘关键软件及开源项目中的安全漏洞，联合科技企业、开源维护者推动漏洞修复，抢在被利用之前消除安全隐患。 取名寓意有二。 一方面，安全漏洞就像玻璃翼蝶一样，藏在人眼皮底下，数十年无人发现；另一方面，透明本身也是一种保护，Anthropic希望通过更透明的安全研究和漏洞披露机制，让软件系统",
+      "publishedAt": "2026-11-12T07:55:11Z",
+      "published_at": "2026-11-12T07:55:11Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0f8d872f",
+      "title": "EMNLP 2026｜如何记住发生过",
+      "title_en": "EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历",
+      "summary_zh": "EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历",
+      "publishedAt": "2026-11-12T16:57:16Z",
+      "published_at": "2026-11-12T16:57:16Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
