@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-11-13T01:14:16Z",
-  "generatedAt": "2026-11-13T01:14:16Z",
-  "count": 185,
-  "total": 185,
+  "generated_at": "2026-11-13T16:40:05Z",
+  "generatedAt": "2026-11-13T16:40:05Z",
+  "count": 186,
+  "total": 186,
   "entries": [
+    {
+      "date": "2026-11-14",
+      "generated_at": "2026-11-13T16:40:05Z",
+      "generatedAt": "2026-11-13T16:40:05Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "234e0fb5",
+          "title": "AI资讯更新：Templify AI",
+          "title_en": "Templify AI",
+          "url": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Powerful content editor for people who aren’t",
+          "summary_zh": "Powerful content editor for people who aren’t",
+          "publishedAt": "2026-11-13T08:01:00Z",
+          "published_at": "2026-11-13T08:01:00Z",
+          "votes_count": 292,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "251",
+              "name": "Photography",
+              "slug": "photography"
+            },
+            {
+              "id": "692",
+              "name": "Photo & Video",
+              "slug": "photo-video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f696fa88",
+          "title": "产品更新：Filament by Gal",
+          "title_en": "Filament by Galaxy",
+          "url": "https://www.producthunt.com/products/galaxy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/galaxy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Move data using your terminal or agent. Fast &",
+          "summary_zh": "Move data using your terminal or agent. Fast &",
+          "publishedAt": "2026-11-13T08:01:00Z",
+          "published_at": "2026-11-13T08:01:00Z",
+          "votes_count": 201,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "771",
+              "name": "Data",
+              "slug": "data"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ba10304c",
+          "title": "产品更新：Replicate",
+          "title_en": "Replicate",
+          "url": "https://www.producthunt.com/products/replicate-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/replicate-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turn Webflow/Framer app into a Claude/Codex pr",
+          "summary_zh": "Turn Webflow/Framer app into a Claude/Codex pr",
+          "publishedAt": "2026-11-13T08:01:00Z",
+          "published_at": "2026-11-13T08:01:00Z",
+          "votes_count": 155,
+          "featured": true,
+          "topics": [
+            {
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-13",
       "generated_at": "2026-11-13T01:14:16Z",

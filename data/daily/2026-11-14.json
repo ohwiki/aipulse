@@ -1,0 +1,493 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-13T16:40:05Z",
+  "generatedAt": "2026-11-13T16:40:05Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "dd71eb86",
+          "title": "产品更新：Claude Meetings",
+          "title_en": "Claude Meetings",
+          "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Add Claude to your call and get work started a",
+          "summary_zh": "Add Claude to your call and get work started a",
+          "publishedAt": "2026-11-13T08:00:00Z",
+          "published_at": "2026-11-13T08:00:00Z",
+          "votes_count": 194,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "234e0fb5",
+          "title": "AI资讯更新：Templify AI",
+          "title_en": "Templify AI",
+          "url": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Powerful content editor for people who aren’t",
+          "summary_zh": "Powerful content editor for people who aren’t",
+          "publishedAt": "2026-11-13T08:01:00Z",
+          "published_at": "2026-11-13T08:01:00Z",
+          "votes_count": 292,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "251",
+              "name": "Photography",
+              "slug": "photography"
+            },
+            {
+              "id": "692",
+              "name": "Photo & Video",
+              "slug": "photo-video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f696fa88",
+          "title": "产品更新：Filament by Gal",
+          "title_en": "Filament by Galaxy",
+          "url": "https://www.producthunt.com/products/galaxy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/galaxy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Move data using your terminal or agent. Fast &",
+          "summary_zh": "Move data using your terminal or agent. Fast &",
+          "publishedAt": "2026-11-13T08:01:00Z",
+          "published_at": "2026-11-13T08:01:00Z",
+          "votes_count": 201,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "771",
+              "name": "Data",
+              "slug": "data"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ba10304c",
+          "title": "产品更新：Replicate",
+          "title_en": "Replicate",
+          "url": "https://www.producthunt.com/products/replicate-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/replicate-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Turn Webflow/Framer app into a Claude/Codex pr",
+          "summary_zh": "Turn Webflow/Framer app into a Claude/Codex pr",
+          "publishedAt": "2026-11-13T08:01:00Z",
+          "published_at": "2026-11-13T08:01:00Z",
+          "votes_count": 155,
+          "featured": true,
+          "topics": [
+            {
+              "id": "243",
+              "name": "Website Builder",
+              "slug": "website-builder"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "ef9fb1b6",
+          "title": "国产大模型又杀出一匹黑马，引发硅谷关注！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/509576.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/509576.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "中国大模型黑马杀进头部梯队  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 国产大模型，又杀出一匹黑马！ 而且这回，还是被硅谷超火的硬核AI技术媒体Latent Space亲自实测出来的。 就在11月10日，Latent Space推出全新模型测评栏目，专门做「不带立场」的新模型实测。 而栏目首期，其就把目光投向了中国公司NaiveAI的开源模型Naive-N0.5-Flash。 Latent Space选的对手还是OpenRouter上最热门的两款Flash模型：DeepSeek V4.1 Flash 1017和GLM 5.3 Flash。    没想到，这次被拉来和两个头部模型同台较量的Naive-N0.5-Flash，还真交出了一份颇有竞争力的成绩单——  综合能力：介于DeepSeek V4.1 Flash与GLM 5.3 Flash之间，跻身国产主流模型第一梯队。 编程能力：整体表现介于两者之间，单项评测实现反超；3D太阳系应用表现最佳，3D生长树与DeepSeek并列。 推理速度：极速模式下单秒峰值高达2100 Token/s，思考与作答阶段分别达到984、1816",
+          "summary_zh": "中国大模型黑马杀进头部梯队  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 国产大模型，又杀出一匹黑马！ 而且这回，还是被硅谷超火的硬核AI技术媒体Latent Space亲自实测出来的。 就在11月10日，Latent Space推出全新模型测评栏目，专门做「不带立场」的新模型实测。 而栏目首期，其就把目光投向了中国公司NaiveAI的开源模型Naive-N0.5-Flash。 Latent Space选的对手还是OpenRouter上最热门的两款Flash模型：DeepSeek V4.1 Flash 1017和GLM 5.3 Flash。    没想到，这次被拉来和两个头部模型同台较量的Naive-N0.5-Flash，还真交出了一份颇有竞争力的成绩单——  综合能力：介于DeepSeek V4.1 Flash与GLM 5.3 Flash之间，跻身国产主流模型第一梯队。 编程能力：整体表现介于两者之间，单项评测实现反超；3D太阳系应用表现最佳，3D生长树与DeepSeek并列。 推理速度：极速模式下单秒峰值高达2100 Token/s，思考与作答阶段分别达到984、1816",
+          "publishedAt": "2026-11-13T04:47:18Z",
+          "published_at": "2026-11-13T04:47:18Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "97982f9d",
+          "title": "特斯拉和SpaceX最快下月合并",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/509613.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/509613.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "马斯克帝国终极形态。     程浅 发自 凹非寺量子位 | 公众号QbitAI SpaceX和特斯拉合并这事，真被马斯克撬动了。 据彭博社消息，有知情人士透露，SpaceX与特斯拉的合并谈判已取得进展，最快今年12月官宣。 据称，双方董事会及顾问团队已在商讨具体的合并条款、股权安排，以及新公司的治理结构。  △图片系AI  目前，这两家公司市值加起来已经3.4万亿美元。 一旦合并将直接刷新全球并购史纪录，成为前无古人后无来者的史上最大并购案。 合并后的公司市值规模将排到美国上市公司第5名上下，直接超过亚马逊。 届时，马斯克将执掌一个横跨火箭、卫星互联网、AI、芯片、算力、电动车、机器人和储能的真·巨硬。 两家合并时间线 众所周知马斯克野心勃勃，一直想把自己的公司全都合在一起，包括SpaceX、xAI、X、特斯拉、SolarCity…… 现在就剩SpaceX和特斯拉了。 今年1月底，彭博社就曾爆料，SpaceX正在考虑两种合并方案，一是与特斯拉合并，二是与xAI合并。 马斯克向来雷厉风行，很快2月2日，SpaceX正式宣布收购xAI。 由于xAI此前已经收购了社交平台X，所以现在的Spa",
+          "summary_zh": "马斯克帝国终极形态。     程浅 发自 凹非寺量子位 | 公众号QbitAI SpaceX和特斯拉合并这事，真被马斯克撬动了。 据彭博社消息，有知情人士透露，SpaceX与特斯拉的合并谈判已取得进展，最快今年12月官宣。 据称，双方董事会及顾问团队已在商讨具体的合并条款、股权安排，以及新公司的治理结构。  △图片系AI  目前，这两家公司市值加起来已经3.4万亿美元。 一旦合并将直接刷新全球并购史纪录，成为前无古人后无来者的史上最大并购案。 合并后的公司市值规模将排到美国上市公司第5名上下，直接超过亚马逊。 届时，马斯克将执掌一个横跨火箭、卫星互联网、AI、芯片、算力、电动车、机器人和储能的真·巨硬。 两家合并时间线 众所周知马斯克野心勃勃，一直想把自己的公司全都合在一起，包括SpaceX、xAI、X、特斯拉、SolarCity…… 现在就剩SpaceX和特斯拉了。 今年1月底，彭博社就曾爆料，SpaceX正在考虑两种合并方案，一是与特斯拉合并，二是与xAI合并。 马斯克向来雷厉风行，很快2月2日，SpaceX正式宣布收购xAI。 由于xAI此前已经收购了社交平台X，所以现在的Spa",
+          "publishedAt": "2026-11-13T06:43:06Z",
+          "published_at": "2026-11-13T06:43:06Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f1990f27",
+          "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/509653.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/509653.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "想要什么功能，让Agent自己开发  用WorkSwarm时，想加个新功能，能不能直接把需求告诉Agent，让它自己做出来，装上试试？ 这个问题正好对应HyperAgent架构解读里谈到的扩展性。这是openJiuwen为HyperAgent提出的八项特征之一，即从「开发者友好」走向「RSI友好」。 扩展机制既要方便开发者接入新能力，也要让Agent能根据任务反馈动手改进自己的能力。改动做出来后，还得装进应用，在实际任务里试一试，才知道问题有没有解决，下一轮还要改哪里。 openJiuwen的RSI原生AgentOS，为这种递归自我改进（RSI）提供了运行环境。 它在界面、网关、服务端和Agent执行等环节提供不同类型的扩展点，覆盖运行全周期。新功能可以热插拔，接入时不用改应用原有代码。扩展包可以按版本管理，新版出了问题还能回退。 WorkSwarm用的就是这套扩展机制。它是基于openJiuwen RSI原生AgentOS构建的Agent应用。Agent可以把新功能打成AgentOS能加载的扩展包。同一个包装进WorkSwarm后就叫系统插件。 在「我的扩展」里启用后，就能回到手头的",
+          "summary_zh": "想要什么功能，让Agent自己开发  用WorkSwarm时，想加个新功能，能不能直接把需求告诉Agent，让它自己做出来，装上试试？ 这个问题正好对应HyperAgent架构解读里谈到的扩展性。这是openJiuwen为HyperAgent提出的八项特征之一，即从「开发者友好」走向「RSI友好」。 扩展机制既要方便开发者接入新能力，也要让Agent能根据任务反馈动手改进自己的能力。改动做出来后，还得装进应用，在实际任务里试一试，才知道问题有没有解决，下一轮还要改哪里。 openJiuwen的RSI原生AgentOS，为这种递归自我改进（RSI）提供了运行环境。 它在界面、网关、服务端和Agent执行等环节提供不同类型的扩展点，覆盖运行全周期。新功能可以热插拔，接入时不用改应用原有代码。扩展包可以按版本管理，新版出了问题还能回退。 WorkSwarm用的就是这套扩展机制。它是基于openJiuwen RSI原生AgentOS构建的Agent应用。Agent可以把新功能打成AgentOS能加载的扩展包。同一个包装进WorkSwarm后就叫系统插件。 在「我的扩展」里启用后，就能回到手头的",
+          "publishedAt": "2026-11-13T06:54:44Z",
+          "published_at": "2026-11-13T06:54:44Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "6cb992d5",
+          "title": "AI自进化不止刷榜！百度智能云把RS",
+          "title_en": "AI自进化不止刷榜！百度智能云把RSI带进产业一线",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "AI自进化不止刷榜！百度智能云把RSI带进产业一线",
+          "summary_zh": "AI自进化不止刷榜！百度智能云把RSI带进产业一线",
+          "publishedAt": "2026-11-13T16:38:42Z",
+          "published_at": "2026-11-13T16:38:42Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "dd71eb86",
+      "title": "产品更新：Claude Meetings",
+      "title_en": "Claude Meetings",
+      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Add Claude to your call and get work started a",
+      "summary_zh": "Add Claude to your call and get work started a",
+      "publishedAt": "2026-11-13T08:00:00Z",
+      "published_at": "2026-11-13T08:00:00Z",
+      "votes_count": 194,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "252",
+          "name": "Meetings",
+          "slug": "meetings"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "234e0fb5",
+      "title": "AI资讯更新：Templify AI",
+      "title_en": "Templify AI",
+      "url": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Powerful content editor for people who aren’t",
+      "summary_zh": "Powerful content editor for people who aren’t",
+      "publishedAt": "2026-11-13T08:01:00Z",
+      "published_at": "2026-11-13T08:01:00Z",
+      "votes_count": 292,
+      "featured": true,
+      "topics": [
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "251",
+          "name": "Photography",
+          "slug": "photography"
+        },
+        {
+          "id": "692",
+          "name": "Photo & Video",
+          "slug": "photo-video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "f696fa88",
+      "title": "产品更新：Filament by Gal",
+      "title_en": "Filament by Galaxy",
+      "url": "https://www.producthunt.com/products/galaxy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/galaxy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Move data using your terminal or agent. Fast &",
+      "summary_zh": "Move data using your terminal or agent. Fast &",
+      "publishedAt": "2026-11-13T08:01:00Z",
+      "published_at": "2026-11-13T08:01:00Z",
+      "votes_count": 201,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "771",
+          "name": "Data",
+          "slug": "data"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ba10304c",
+      "title": "产品更新：Replicate",
+      "title_en": "Replicate",
+      "url": "https://www.producthunt.com/products/replicate-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/replicate-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn Webflow/Framer app into a Claude/Codex pr",
+      "summary_zh": "Turn Webflow/Framer app into a Claude/Codex pr",
+      "publishedAt": "2026-11-13T08:01:00Z",
+      "published_at": "2026-11-13T08:01:00Z",
+      "votes_count": 155,
+      "featured": true,
+      "topics": [
+        {
+          "id": "243",
+          "name": "Website Builder",
+          "slug": "website-builder"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ef9fb1b6",
+      "title": "国产大模型又杀出一匹黑马，引发硅谷关注！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/509576.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/509576.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "中国大模型黑马杀进头部梯队  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 国产大模型，又杀出一匹黑马！ 而且这回，还是被硅谷超火的硬核AI技术媒体Latent Space亲自实测出来的。 就在11月10日，Latent Space推出全新模型测评栏目，专门做「不带立场」的新模型实测。 而栏目首期，其就把目光投向了中国公司NaiveAI的开源模型Naive-N0.5-Flash。 Latent Space选的对手还是OpenRouter上最热门的两款Flash模型：DeepSeek V4.1 Flash 1017和GLM 5.3 Flash。    没想到，这次被拉来和两个头部模型同台较量的Naive-N0.5-Flash，还真交出了一份颇有竞争力的成绩单——  综合能力：介于DeepSeek V4.1 Flash与GLM 5.3 Flash之间，跻身国产主流模型第一梯队。 编程能力：整体表现介于两者之间，单项评测实现反超；3D太阳系应用表现最佳，3D生长树与DeepSeek并列。 推理速度：极速模式下单秒峰值高达2100 Token/s，思考与作答阶段分别达到984、1816",
+      "summary_zh": "中国大模型黑马杀进头部梯队  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 国产大模型，又杀出一匹黑马！ 而且这回，还是被硅谷超火的硬核AI技术媒体Latent Space亲自实测出来的。 就在11月10日，Latent Space推出全新模型测评栏目，专门做「不带立场」的新模型实测。 而栏目首期，其就把目光投向了中国公司NaiveAI的开源模型Naive-N0.5-Flash。 Latent Space选的对手还是OpenRouter上最热门的两款Flash模型：DeepSeek V4.1 Flash 1017和GLM 5.3 Flash。    没想到，这次被拉来和两个头部模型同台较量的Naive-N0.5-Flash，还真交出了一份颇有竞争力的成绩单——  综合能力：介于DeepSeek V4.1 Flash与GLM 5.3 Flash之间，跻身国产主流模型第一梯队。 编程能力：整体表现介于两者之间，单项评测实现反超；3D太阳系应用表现最佳，3D生长树与DeepSeek并列。 推理速度：极速模式下单秒峰值高达2100 Token/s，思考与作答阶段分别达到984、1816",
+      "publishedAt": "2026-11-13T04:47:18Z",
+      "published_at": "2026-11-13T04:47:18Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "97982f9d",
+      "title": "特斯拉和SpaceX最快下月合并",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/509613.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/509613.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "马斯克帝国终极形态。     程浅 发自 凹非寺量子位 | 公众号QbitAI SpaceX和特斯拉合并这事，真被马斯克撬动了。 据彭博社消息，有知情人士透露，SpaceX与特斯拉的合并谈判已取得进展，最快今年12月官宣。 据称，双方董事会及顾问团队已在商讨具体的合并条款、股权安排，以及新公司的治理结构。  △图片系AI  目前，这两家公司市值加起来已经3.4万亿美元。 一旦合并将直接刷新全球并购史纪录，成为前无古人后无来者的史上最大并购案。 合并后的公司市值规模将排到美国上市公司第5名上下，直接超过亚马逊。 届时，马斯克将执掌一个横跨火箭、卫星互联网、AI、芯片、算力、电动车、机器人和储能的真·巨硬。 两家合并时间线 众所周知马斯克野心勃勃，一直想把自己的公司全都合在一起，包括SpaceX、xAI、X、特斯拉、SolarCity…… 现在就剩SpaceX和特斯拉了。 今年1月底，彭博社就曾爆料，SpaceX正在考虑两种合并方案，一是与特斯拉合并，二是与xAI合并。 马斯克向来雷厉风行，很快2月2日，SpaceX正式宣布收购xAI。 由于xAI此前已经收购了社交平台X，所以现在的Spa",
+      "summary_zh": "马斯克帝国终极形态。     程浅 发自 凹非寺量子位 | 公众号QbitAI SpaceX和特斯拉合并这事，真被马斯克撬动了。 据彭博社消息，有知情人士透露，SpaceX与特斯拉的合并谈判已取得进展，最快今年12月官宣。 据称，双方董事会及顾问团队已在商讨具体的合并条款、股权安排，以及新公司的治理结构。  △图片系AI  目前，这两家公司市值加起来已经3.4万亿美元。 一旦合并将直接刷新全球并购史纪录，成为前无古人后无来者的史上最大并购案。 合并后的公司市值规模将排到美国上市公司第5名上下，直接超过亚马逊。 届时，马斯克将执掌一个横跨火箭、卫星互联网、AI、芯片、算力、电动车、机器人和储能的真·巨硬。 两家合并时间线 众所周知马斯克野心勃勃，一直想把自己的公司全都合在一起，包括SpaceX、xAI、X、特斯拉、SolarCity…… 现在就剩SpaceX和特斯拉了。 今年1月底，彭博社就曾爆料，SpaceX正在考虑两种合并方案，一是与特斯拉合并，二是与xAI合并。 马斯克向来雷厉风行，很快2月2日，SpaceX正式宣布收购xAI。 由于xAI此前已经收购了社交平台X，所以现在的Spa",
+      "publishedAt": "2026-11-13T06:43:06Z",
+      "published_at": "2026-11-13T06:43:06Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f1990f27",
+      "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/509653.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/509653.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "想要什么功能，让Agent自己开发  用WorkSwarm时，想加个新功能，能不能直接把需求告诉Agent，让它自己做出来，装上试试？ 这个问题正好对应HyperAgent架构解读里谈到的扩展性。这是openJiuwen为HyperAgent提出的八项特征之一，即从「开发者友好」走向「RSI友好」。 扩展机制既要方便开发者接入新能力，也要让Agent能根据任务反馈动手改进自己的能力。改动做出来后，还得装进应用，在实际任务里试一试，才知道问题有没有解决，下一轮还要改哪里。 openJiuwen的RSI原生AgentOS，为这种递归自我改进（RSI）提供了运行环境。 它在界面、网关、服务端和Agent执行等环节提供不同类型的扩展点，覆盖运行全周期。新功能可以热插拔，接入时不用改应用原有代码。扩展包可以按版本管理，新版出了问题还能回退。 WorkSwarm用的就是这套扩展机制。它是基于openJiuwen RSI原生AgentOS构建的Agent应用。Agent可以把新功能打成AgentOS能加载的扩展包。同一个包装进WorkSwarm后就叫系统插件。 在「我的扩展」里启用后，就能回到手头的",
+      "summary_zh": "想要什么功能，让Agent自己开发  用WorkSwarm时，想加个新功能，能不能直接把需求告诉Agent，让它自己做出来，装上试试？ 这个问题正好对应HyperAgent架构解读里谈到的扩展性。这是openJiuwen为HyperAgent提出的八项特征之一，即从「开发者友好」走向「RSI友好」。 扩展机制既要方便开发者接入新能力，也要让Agent能根据任务反馈动手改进自己的能力。改动做出来后，还得装进应用，在实际任务里试一试，才知道问题有没有解决，下一轮还要改哪里。 openJiuwen的RSI原生AgentOS，为这种递归自我改进（RSI）提供了运行环境。 它在界面、网关、服务端和Agent执行等环节提供不同类型的扩展点，覆盖运行全周期。新功能可以热插拔，接入时不用改应用原有代码。扩展包可以按版本管理，新版出了问题还能回退。 WorkSwarm用的就是这套扩展机制。它是基于openJiuwen RSI原生AgentOS构建的Agent应用。Agent可以把新功能打成AgentOS能加载的扩展包。同一个包装进WorkSwarm后就叫系统插件。 在「我的扩展」里启用后，就能回到手头的",
+      "publishedAt": "2026-11-13T06:54:44Z",
+      "published_at": "2026-11-13T06:54:44Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "6cb992d5",
+      "title": "AI自进化不止刷榜！百度智能云把RS",
+      "title_en": "AI自进化不止刷榜！百度智能云把RSI带进产业一线",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AI自进化不止刷榜！百度智能云把RSI带进产业一线",
+      "summary_zh": "AI自进化不止刷榜！百度智能云把RSI带进产业一线",
+      "publishedAt": "2026-11-13T16:38:42Z",
+      "published_at": "2026-11-13T16:38:42Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
