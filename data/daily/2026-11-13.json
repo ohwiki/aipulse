@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-12T16:58:00Z",
-  "generatedAt": "2026-11-12T16:58:00Z",
+  "generated_at": "2026-11-13T01:14:16Z",
+  "generatedAt": "2026-11-13T01:14:16Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -26,7 +26,7 @@
           "summary_zh": "A simulated world that makes your agent improv",
           "publishedAt": "2026-11-12T08:01:00Z",
           "published_at": "2026-11-12T08:01:00Z",
-          "votes_count": 278,
+          "votes_count": 349,
           "featured": true,
           "topics": [
             {
@@ -64,7 +64,7 @@
           "summary_zh": "Codex for creative team Meet YouArt Desktop Ap",
           "publishedAt": "2026-11-12T08:01:00Z",
           "published_at": "2026-11-12T08:01:00Z",
-          "votes_count": 241,
+          "votes_count": 283,
           "featured": true,
           "topics": [
             {
@@ -86,44 +86,6 @@
           "score_details": null
         },
         {
-          "id": "0dc9f229",
-          "title": "产品更新：⌘+L",
-          "title_en": "⌘+L",
-          "url": "https://www.producthunt.com/products/l?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/l?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Edit your website like Figma! Command L (⌘+L)",
-          "summary_zh": "Edit your website like Figma! Command L (⌘+L)",
-          "publishedAt": "2026-11-12T08:01:00Z",
-          "published_at": "2026-11-12T08:01:00Z",
-          "votes_count": 179,
-          "featured": true,
-          "topics": [
-            {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
-            },
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            }
-          ],
-          "score_details": null
-        },
-        {
           "id": "32d35ba3",
           "title": "产品更新：Omnigraph",
           "title_en": "Omnigraph",
@@ -140,7 +102,7 @@
           "summary_zh": "Open source graph database for your AI agents",
           "publishedAt": "2026-11-12T08:01:00Z",
           "published_at": "2026-11-12T08:01:00Z",
-          "votes_count": 174,
+          "votes_count": 225,
           "featured": true,
           "topics": [
             {
@@ -157,6 +119,44 @@
               "id": "772",
               "name": "Database",
               "slug": "database"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "0dc9f229",
+          "title": "产品更新：⌘+L",
+          "title_en": "⌘+L",
+          "url": "https://www.producthunt.com/products/l?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/l?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Edit your website like Figma! Command L (⌘+L)",
+          "summary_zh": "Edit your website like Figma! Command L (⌘+L)",
+          "publishedAt": "2026-11-12T08:01:00Z",
+          "published_at": "2026-11-12T08:01:00Z",
+          "votes_count": 211,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             }
           ],
           "score_details": null
@@ -248,8 +248,8 @@
           "rankingScore": 5.0,
           "summary": "EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历",
           "summary_zh": "EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历",
-          "publishedAt": "2026-11-12T16:57:16Z",
-          "published_at": "2026-11-12T16:57:16Z",
+          "publishedAt": "2026-11-13T01:13:23Z",
+          "published_at": "2026-11-13T01:13:23Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -276,7 +276,7 @@
       "summary_zh": "A simulated world that makes your agent improv",
       "publishedAt": "2026-11-12T08:01:00Z",
       "published_at": "2026-11-12T08:01:00Z",
-      "votes_count": 278,
+      "votes_count": 349,
       "featured": true,
       "topics": [
         {
@@ -314,7 +314,7 @@
       "summary_zh": "Codex for creative team Meet YouArt Desktop Ap",
       "publishedAt": "2026-11-12T08:01:00Z",
       "published_at": "2026-11-12T08:01:00Z",
-      "votes_count": 241,
+      "votes_count": 283,
       "featured": true,
       "topics": [
         {
@@ -336,44 +336,6 @@
       "score_details": null
     },
     {
-      "id": "0dc9f229",
-      "title": "产品更新：⌘+L",
-      "title_en": "⌘+L",
-      "url": "https://www.producthunt.com/products/l?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/l?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Edit your website like Figma! Command L (⌘+L)",
-      "summary_zh": "Edit your website like Figma! Command L (⌘+L)",
-      "publishedAt": "2026-11-12T08:01:00Z",
-      "published_at": "2026-11-12T08:01:00Z",
-      "votes_count": 179,
-      "featured": true,
-      "topics": [
-        {
-          "id": "44",
-          "name": "Design Tools",
-          "slug": "design-tools"
-        },
-        {
-          "id": "46",
-          "name": "Productivity",
-          "slug": "productivity"
-        },
-        {
-          "id": "267",
-          "name": "Developer Tools",
-          "slug": "developer-tools"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "32d35ba3",
       "title": "产品更新：Omnigraph",
       "title_en": "Omnigraph",
@@ -390,7 +352,7 @@
       "summary_zh": "Open source graph database for your AI agents",
       "publishedAt": "2026-11-12T08:01:00Z",
       "published_at": "2026-11-12T08:01:00Z",
-      "votes_count": 174,
+      "votes_count": 225,
       "featured": true,
       "topics": [
         {
@@ -407,6 +369,44 @@
           "id": "772",
           "name": "Database",
           "slug": "database"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "0dc9f229",
+      "title": "产品更新：⌘+L",
+      "title_en": "⌘+L",
+      "url": "https://www.producthunt.com/products/l?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/l?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Edit your website like Figma! Command L (⌘+L)",
+      "summary_zh": "Edit your website like Figma! Command L (⌘+L)",
+      "publishedAt": "2026-11-12T08:01:00Z",
+      "published_at": "2026-11-12T08:01:00Z",
+      "votes_count": 211,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
         }
       ],
       "score_details": null
@@ -492,8 +492,8 @@
       "rankingScore": 5.0,
       "summary": "EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历",
       "summary_zh": "EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历",
-      "publishedAt": "2026-11-12T16:57:16Z",
-      "published_at": "2026-11-12T16:57:16Z",
+      "publishedAt": "2026-11-13T01:13:23Z",
+      "published_at": "2026-11-13T01:13:23Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
