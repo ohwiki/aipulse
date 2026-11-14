@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-13T16:40:05Z",
-  "generatedAt": "2026-11-13T16:40:05Z",
+  "generated_at": "2026-11-14T00:56:23Z",
+  "generatedAt": "2026-11-14T00:56:23Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -26,7 +26,7 @@
           "summary_zh": "Add Claude to your call and get work started a",
           "publishedAt": "2026-11-13T08:00:00Z",
           "published_at": "2026-11-13T08:00:00Z",
-          "votes_count": 194,
+          "votes_count": 247,
           "featured": true,
           "topics": [
             {
@@ -64,7 +64,7 @@
           "summary_zh": "Powerful content editor for people who aren’t",
           "publishedAt": "2026-11-13T08:01:00Z",
           "published_at": "2026-11-13T08:01:00Z",
-          "votes_count": 292,
+          "votes_count": 339,
           "featured": true,
           "topics": [
             {
@@ -102,7 +102,7 @@
           "summary_zh": "Move data using your terminal or agent. Fast &",
           "publishedAt": "2026-11-13T08:01:00Z",
           "published_at": "2026-11-13T08:01:00Z",
-          "votes_count": 201,
+          "votes_count": 258,
           "featured": true,
           "topics": [
             {
@@ -140,7 +140,7 @@
           "summary_zh": "Turn Webflow/Framer app into a Claude/Codex pr",
           "publishedAt": "2026-11-13T08:01:00Z",
           "published_at": "2026-11-13T08:01:00Z",
-          "votes_count": 155,
+          "votes_count": 177,
           "featured": true,
           "topics": [
             {
@@ -243,8 +243,8 @@
           "rankingScore": 5.0,
           "summary": "AI自进化不止刷榜！百度智能云把RSI带进产业一线",
           "summary_zh": "AI自进化不止刷榜！百度智能云把RSI带进产业一线",
-          "publishedAt": "2026-11-13T16:38:42Z",
-          "published_at": "2026-11-13T16:38:42Z",
+          "publishedAt": "2026-11-14T00:55:41Z",
+          "published_at": "2026-11-14T00:55:41Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -271,7 +271,7 @@
       "summary_zh": "Add Claude to your call and get work started a",
       "publishedAt": "2026-11-13T08:00:00Z",
       "published_at": "2026-11-13T08:00:00Z",
-      "votes_count": 194,
+      "votes_count": 247,
       "featured": true,
       "topics": [
         {
@@ -309,7 +309,7 @@
       "summary_zh": "Powerful content editor for people who aren’t",
       "publishedAt": "2026-11-13T08:01:00Z",
       "published_at": "2026-11-13T08:01:00Z",
-      "votes_count": 292,
+      "votes_count": 339,
       "featured": true,
       "topics": [
         {
@@ -347,7 +347,7 @@
       "summary_zh": "Move data using your terminal or agent. Fast &",
       "publishedAt": "2026-11-13T08:01:00Z",
       "published_at": "2026-11-13T08:01:00Z",
-      "votes_count": 201,
+      "votes_count": 258,
       "featured": true,
       "topics": [
         {
@@ -385,7 +385,7 @@
       "summary_zh": "Turn Webflow/Framer app into a Claude/Codex pr",
       "publishedAt": "2026-11-13T08:01:00Z",
       "published_at": "2026-11-13T08:01:00Z",
-      "votes_count": 155,
+      "votes_count": 177,
       "featured": true,
       "topics": [
         {
@@ -482,8 +482,8 @@
       "rankingScore": 5.0,
       "summary": "AI自进化不止刷榜！百度智能云把RSI带进产业一线",
       "summary_zh": "AI自进化不止刷榜！百度智能云把RSI带进产业一线",
-      "publishedAt": "2026-11-13T16:38:42Z",
-      "published_at": "2026-11-13T16:38:42Z",
+      "publishedAt": "2026-11-14T00:55:41Z",
+      "published_at": "2026-11-14T00:55:41Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
