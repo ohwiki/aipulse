@@ -1,123 +1,96 @@
 {
-  "generated_at": "2026-11-14T00:56:23Z",
-  "generatedAt": "2026-11-14T00:56:23Z",
+  "generated_at": "2026-11-14T15:15:27Z",
+  "generatedAt": "2026-11-14T15:15:27Z",
   "count": 186,
   "total": 186,
   "entries": [
     {
       "date": "2026-11-14",
-      "generated_at": "2026-11-14T00:56:23Z",
-      "generatedAt": "2026-11-14T00:56:23Z",
-      "total": 8,
+      "generated_at": "2026-11-14T15:15:27Z",
+      "generatedAt": "2026-11-14T15:15:27Z",
+      "total": 5,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "234e0fb5",
-          "title": "AI资讯更新：Templify AI",
-          "title_en": "Templify AI",
-          "url": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "9d19dce4",
+          "title": "产品更新：HiringNow",
+          "title_en": "HiringNow",
+          "url": "https://www.producthunt.com/products/hiringnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/templify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/hiringnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Powerful content editor for people who aren’t",
-          "summary_zh": "Powerful content editor for people who aren’t",
-          "publishedAt": "2026-11-13T08:01:00Z",
-          "published_at": "2026-11-13T08:01:00Z",
-          "votes_count": 339,
+          "summary": "AI job agent that finds & apply for jobs befor",
+          "summary_zh": "AI job agent that finds & apply for jobs befor",
+          "publishedAt": "2026-11-14T08:01:00Z",
+          "published_at": "2026-11-14T08:01:00Z",
+          "votes_count": 143,
           "featured": true,
           "topics": [
             {
-              "id": "104",
-              "name": "Social Media",
-              "slug": "social-media"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
-              "id": "251",
-              "name": "Photography",
-              "slug": "photography"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
             },
             {
-              "id": "692",
-              "name": "Photo & Video",
-              "slug": "photo-video"
+              "id": "835",
+              "name": "Career",
+              "slug": "career"
             }
           ],
           "score_details": null
         },
         {
-          "id": "f696fa88",
-          "title": "产品更新：Filament by Gal",
-          "title_en": "Filament by Galaxy",
-          "url": "https://www.producthunt.com/products/galaxy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "6b261fbc",
+          "title": "晶泰科技发布「科学家」计划！青年团队",
+          "title_en": "晶泰科技发布「科学家」计划！青年团队最高可获10万元科研资源支持",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/galaxy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Move data using your terminal or agent. Fast &",
-          "summary_zh": "Move data using your terminal or agent. Fast &",
-          "publishedAt": "2026-11-13T08:01:00Z",
-          "published_at": "2026-11-13T08:01:00Z",
-          "votes_count": 258,
-          "featured": true,
-          "topics": [
-            {
-              "id": "89",
-              "name": "Open Source",
-              "slug": "open-source"
-            },
-            {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "771",
-              "name": "Data",
-              "slug": "data"
-            }
-          ],
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "晶泰科技发布「科学家」计划！青年团队最高可获10万元科研资源支持",
+          "summary_zh": "晶泰科技发布「科学家」计划！青年团队最高可获10万元科研资源支持",
+          "publishedAt": "2026-11-14T15:14:52Z",
+          "published_at": "2026-11-14T15:14:52Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         },
         {
-          "id": "ba10304c",
-          "title": "产品更新：Replicate",
-          "title_en": "Replicate",
-          "url": "https://www.producthunt.com/products/replicate-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
+          "id": "ae856804",
+          "title": "绿电进Token出！联想重新定义词元工厂",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/510094.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/replicate-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Turn Webflow/Framer app into a Claude/Codex pr",
-          "summary_zh": "Turn Webflow/Framer app into a Claude/Codex pr",
-          "publishedAt": "2026-11-13T08:01:00Z",
-          "published_at": "2026-11-13T08:01:00Z",
-          "votes_count": 177,
-          "featured": true,
-          "topics": [
-            {
-              "id": "243",
-              "name": "Website Builder",
-              "slug": "website-builder"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            }
-          ],
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/510094.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "年产2000万亿Token，成本狂降70%  买得起卡，但用不起AI。 听起来可能有点离谱，但随着AI大规模进入企业，许多公司确实陷入了这样的尴尬。 AI产业在过去两年的增长，几乎可以用狂飙来形容。 国家数据局数据显示，我国日均词元调用量从2024年初的1000亿增至2025年底的100万亿，2026年3月突破140万亿，两年增长千倍；中国信通院披露，到2026年6月，相关指标已突破500万亿。 需求暴涨的情绪很快传导到了算力供给端。模型不断进化，Agent逐渐承担复杂任务，Token需求激增，算力基础设施也跟着加速扩张。 IDC预计，2026年全球服务器市场收入将达到约6851亿美元，AI基础设施投资是主要增长动力。 然而，算力供给持续增加，企业对“烧Token”这件事却反而越来越谨慎了。   图片由AI生成  据《经济观察报》报道，一家中型银行上半年Token支出接近900万元，相当于其上年度IT预算的8%。今年年初，Token消耗增长还是AI应用深入业务的积极信号；到了6月底，其管理层却要求重新审视相关投入的成本收益。 麦肯锡的一项调查也显示，约五分之一的受访者表示，所在组织因A",
+          "summary_zh": "年产2000万亿Token，成本狂降70%  买得起卡，但用不起AI。 听起来可能有点离谱，但随着AI大规模进入企业，许多公司确实陷入了这样的尴尬。 AI产业在过去两年的增长，几乎可以用狂飙来形容。 国家数据局数据显示，我国日均词元调用量从2024年初的1000亿增至2025年底的100万亿，2026年3月突破140万亿，两年增长千倍；中国信通院披露，到2026年6月，相关指标已突破500万亿。 需求暴涨的情绪很快传导到了算力供给端。模型不断进化，Agent逐渐承担复杂任务，Token需求激增，算力基础设施也跟着加速扩张。 IDC预计，2026年全球服务器市场收入将达到约6851亿美元，AI基础设施投资是主要增长动力。 然而，算力供给持续增加，企业对“烧Token”这件事却反而越来越谨慎了。   图片由AI生成  据《经济观察报》报道，一家中型银行上半年Token支出接近900万元，相当于其上年度IT预算的8%。今年年初，Token消耗增长还是AI应用深入业务的积极信号；到了6月底，其管理层却要求重新审视相关投入的成本收益。 麦肯锡的一项调查也显示，约五分之一的受访者表示，所在组织因A",
+          "publishedAt": "2026-11-14T09:41:02Z",
+          "published_at": "2026-11-14T09:41:02Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
           "score_details": null
         }
       ]
