@@ -1,34 +1,82 @@
 {
-  "generated_at": "2026-11-14T23:59:47Z",
-  "generatedAt": "2026-11-14T23:59:47Z",
+  "generated_at": "2026-11-15T15:46:18Z",
+  "generatedAt": "2026-11-15T15:46:18Z",
   "count": 187,
   "total": 187,
   "entries": [
     {
       "date": "2026-11-15",
-      "generated_at": "2026-11-14T23:59:47Z",
-      "generatedAt": "2026-11-14T23:59:47Z",
-      "total": 7,
+      "generated_at": "2026-11-15T15:46:18Z",
+      "generatedAt": "2026-11-15T15:46:18Z",
+      "total": 6,
       "sectionCount": 2,
       "highlights": [
         {
-          "id": "9d19dce4",
-          "title": "产品更新：HiringNow",
-          "title_en": "HiringNow",
-          "url": "https://www.producthunt.com/products/hiringnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "eda74f40",
+          "title": "产品更新：Rakazo",
+          "title_en": "Rakazo",
+          "url": "https://www.producthunt.com/products/rakazo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/hiringnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/rakazo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "AI job agent that finds & apply for jobs befor",
-          "summary_zh": "AI job agent that finds & apply for jobs befor",
-          "publishedAt": "2026-11-14T08:01:00Z",
-          "published_at": "2026-11-14T08:01:00Z",
-          "votes_count": 232,
+          "summary": "The open source Grok Bot alternative you actua",
+          "summary_zh": "The open source Grok Bot alternative you actua",
+          "publishedAt": "2026-11-15T08:01:00Z",
+          "published_at": "2026-11-15T08:01:00Z",
+          "votes_count": 197,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c5adc25e",
+          "title": "产品更新：Tulvo",
+          "title_en": "Tulvo",
+          "url": "https://www.producthunt.com/products/tulvo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/tulvo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Smart & adaptive workspace to manage all your",
+          "summary_zh": "Smart & adaptive workspace to manage all your",
+          "publishedAt": "2026-11-15T08:01:00Z",
+          "published_at": "2026-11-15T08:01:00Z",
+          "votes_count": 150,
           "featured": true,
           "topics": [
             {
@@ -42,90 +90,47 @@
               "slug": "artificial-intelligence"
             },
             {
-              "id": "835",
-              "name": "Career",
-              "slug": "career"
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
             }
           ],
           "score_details": null
         },
         {
-          "id": "6e212fcf",
-          "title": "产品更新：Businesses in C",
-          "title_en": "Businesses in ChatGPT",
-          "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "df0435b5",
+          "title": "产品更新：Frevana Multipl",
+          "title_en": "Frevana Multiplayer",
+          "url": "https://www.producthunt.com/products/frevana-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/frevana-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Help customers discover your business through",
-          "summary_zh": "Help customers discover your business through",
-          "publishedAt": "2026-11-14T08:01:00Z",
-          "published_at": "2026-11-14T08:01:00Z",
-          "votes_count": 173,
+          "summary": "AI that grows your business alongside your tea",
+          "summary_zh": "AI that grows your business alongside your tea",
+          "publishedAt": "2026-11-15T08:01:00Z",
+          "published_at": "2026-11-15T08:01:00Z",
+          "votes_count": 144,
           "featured": true,
           "topics": [
             {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
               "id": "268",
               "name": "Artificial Intelligence",
               "slug": "artificial-intelligence"
-            }
-          ],
-          "score_details": null
-        },
-        {
-          "id": "404b6d35",
-          "title": "产品更新：Dex Semantics",
-          "title_en": "Dex Semantics",
-          "url": "https://www.producthunt.com/products/dex-by-exmergo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/dex-by-exmergo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8,
-          "rankingScore": 8,
-          "summary": "Let your agent build analytics with 25% fewer",
-          "summary_zh": "Let your agent build analytics with 25% fewer",
-          "publishedAt": "2026-11-14T08:01:00Z",
-          "published_at": "2026-11-14T08:01:00Z",
-          "votes_count": 161,
-          "featured": true,
-          "topics": [
-            {
-              "id": "108",
-              "name": "Analytics",
-              "slug": "analytics"
             },
             {
-              "id": "267",
-              "name": "Developer Tools",
-              "slug": "developer-tools"
-            },
-            {
-              "id": "272",
-              "name": "GitHub",
-              "slug": "github"
-            },
-            {
-              "id": "582",
-              "name": "Data & Analytics",
-              "slug": "data-analytics"
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
             }
           ],
           "score_details": null
