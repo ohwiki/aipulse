@@ -1,0 +1,493 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-16T18:45:21Z",
+  "generatedAt": "2026-11-16T18:45:21Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "084cd92a",
+          "title": "产品更新：Zoom Slides",
+          "title_en": "Zoom Slides",
+          "url": "https://www.producthunt.com/products/zoom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/zoom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Turn your Zoom meetings into ready-to-present",
+          "summary_zh": "Turn your Zoom meetings into ready-to-present",
+          "publishedAt": "2026-11-16T08:01:00Z",
+          "published_at": "2026-11-16T08:01:00Z",
+          "votes_count": 225,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3a51b7a9",
+          "title": "产品更新：Boost.space Age",
+          "title_en": "Boost.space AgentOS",
+          "url": "https://www.producthunt.com/products/boost-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/boost-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "One operating system for all your AI agents Bu",
+          "summary_zh": "One operating system for all your AI agents Bu",
+          "publishedAt": "2026-11-16T08:01:00Z",
+          "published_at": "2026-11-16T08:01:00Z",
+          "votes_count": 185,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d09bef2b",
+          "title": "产品更新：readywhen",
+          "title_en": "readywhen",
+          "url": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your personal assistant that lives in email ar",
+          "summary_zh": "Your personal assistant that lives in email ar",
+          "publishedAt": "2026-11-16T08:01:00Z",
+          "published_at": "2026-11-16T08:01:00Z",
+          "votes_count": 178,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "a598ec95",
+          "title": "产品更新：OpenBot",
+          "title_en": "OpenBot",
+          "url": "https://www.producthunt.com/products/copilotkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/copilotkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Grok Bot alternative: self-host, fully customi",
+          "summary_zh": "Grok Bot alternative: self-host, fully customi",
+          "publishedAt": "2026-11-16T08:01:00Z",
+          "published_at": "2026-11-16T08:01:00Z",
+          "votes_count": 175,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "690a1970",
+          "title": "全球AI音乐榜第一易主！中国黑马首次上榜就干翻Suno",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/510333.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/510333.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Suno，被超了？？ 好家伙，AI音乐圈最近突然杀出了一匹中国黑马。 ACE Music v1，一个此前很多人可能都没听过的名字，首次登上全球权威AI评测机构Artificial Analysis（简称AA）的音乐人声榜，就把Suno最新旗舰模型v6挤到了第二。 榜单上，ACE Music v1拿下1160分，领先Suno v6整整16分。  要知道，自2023年AI音乐赛道兴起以来，Suno一直是行业标杆，还没有模型在AA榜单上正面赢过它的最新旗舰。 过去有模型宣称超越Suno，但要么对比的是旧版本，要么成绩来自厂商自己的内部测试。 而这一次，同样的提示词，隐藏模型名称，直接交给评审盲听。 ACE Music v1就这么拿到了最高分🤯。 消息传到X上，有网友已经开始给Suno送行： R.I.P. Suno  而更让人意外的是，ACE Music v1背后的公司，直到2025年3月才开始研发音乐生成基座模型。 满打满算，也就一年多。 一个此前从未登上这张榜单的模型，凭什么第一次亮相就冲到了Suno前面？ 说再多不如直接上耳朵，来吧—— 到底有多强？听就完事了 接下来我会放三组音乐，每组",
+          "summary_zh": "Suno，被超了？？ 好家伙，AI音乐圈最近突然杀出了一匹中国黑马。 ACE Music v1，一个此前很多人可能都没听过的名字，首次登上全球权威AI评测机构Artificial Analysis（简称AA）的音乐人声榜，就把Suno最新旗舰模型v6挤到了第二。 榜单上，ACE Music v1拿下1160分，领先Suno v6整整16分。  要知道，自2023年AI音乐赛道兴起以来，Suno一直是行业标杆，还没有模型在AA榜单上正面赢过它的最新旗舰。 过去有模型宣称超越Suno，但要么对比的是旧版本，要么成绩来自厂商自己的内部测试。 而这一次，同样的提示词，隐藏模型名称，直接交给评审盲听。 ACE Music v1就这么拿到了最高分🤯。 消息传到X上，有网友已经开始给Suno送行： R.I.P. Suno  而更让人意外的是，ACE Music v1背后的公司，直到2025年3月才开始研发音乐生成基座模型。 满打满算，也就一年多。 一个此前从未登上这张榜单的模型，凭什么第一次亮相就冲到了Suno前面？ 说再多不如直接上耳朵，来吧—— 到底有多强？听就完事了 接下来我会放三组音乐，每组",
+          "publishedAt": "2026-11-15T23:56:24Z",
+          "published_at": "2026-11-15T23:56:24Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "a465ee80",
+          "title": "谷歌奇袭英伟达：整柜TPU外售加速交付，推理每美元性能领先GB200五成",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/510349.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/510349.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "“英伟达一家独步天下的日子快要结束了”  英伟达最近头疼的事儿可不止老黄那一件。 本周内，谷歌祭出了两款新TPU芯片，分别瞄准机密推理和长上下文。算上上半年发布的两款TPU芯片，第八代TPU已经扩到四种配置。 今年，谷歌第一次在同一年内推出四款TPU系统。而谷歌对TPU的野心，可能比外界想象得更大—— 还是今年，谷歌破天荒开始对外销售TPU系统。 量子位从谷歌内部人士处获悉，谷歌内部信心十足，表示“明年TPU市场份额会快速上升”，届时“会有更多大型企业大规模使用TPU”。 至于性能方面，他们也自信满满。 至少在谷歌高层人士看来，“英伟达一家独步天下的日子快要结束了”。 （苏妈：咩啊？.jpg）  △图片由AI生成 “像英伟达一样”，对外销售TPU系统 今年，谷歌做了一个违背祖宗的决定—— 首次向外部客户销售整套TPU系统。 量子位从接近谷歌的人士处获悉，一位加入谷歌不到三年的高管推动了这项决策。 在内部巨大争论声中，他力主改变TPU的商业战略，最终让管理层下定决心，“像英伟达一样”把TPU卖给外部客户。  △图片由AI生成 最早（2013年），TPU只是谷歌为了降低自家AI业务算力成本",
+          "summary_zh": "“英伟达一家独步天下的日子快要结束了”  英伟达最近头疼的事儿可不止老黄那一件。 本周内，谷歌祭出了两款新TPU芯片，分别瞄准机密推理和长上下文。算上上半年发布的两款TPU芯片，第八代TPU已经扩到四种配置。 今年，谷歌第一次在同一年内推出四款TPU系统。而谷歌对TPU的野心，可能比外界想象得更大—— 还是今年，谷歌破天荒开始对外销售TPU系统。 量子位从谷歌内部人士处获悉，谷歌内部信心十足，表示“明年TPU市场份额会快速上升”，届时“会有更多大型企业大规模使用TPU”。 至于性能方面，他们也自信满满。 至少在谷歌高层人士看来，“英伟达一家独步天下的日子快要结束了”。 （苏妈：咩啊？.jpg）  △图片由AI生成 “像英伟达一样”，对外销售TPU系统 今年，谷歌做了一个违背祖宗的决定—— 首次向外部客户销售整套TPU系统。 量子位从接近谷歌的人士处获悉，一位加入谷歌不到三年的高管推动了这项决策。 在内部巨大争论声中，他力主改变TPU的商业战略，最终让管理层下定决心，“像英伟达一样”把TPU卖给外部客户。  △图片由AI生成 最早（2013年），TPU只是谷歌为了降低自家AI业务算力成本",
+          "publishedAt": "2026-11-16T00:00:31Z",
+          "published_at": "2026-11-16T00:00:31Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "eca79c57",
+          "title": "黄仁勋筹备重返英伟达",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/510358.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/510358.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "硅谷支持者开始行动  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 老黄回宫的可能性再次up。 据《金融时报》消息，辞去CEO仅仅几天，黄仁勋已经开始组队讨论重返英伟达。 一位黄仁勋的盟友透露，支持者正在召集硅谷科技高管，准备组建一个专门的协调团队，推动他重新执掌英伟达。 据称，这项行动也得到了黄仁勋本人的支持。    另一边，马斯克、Epic Games CEO Tim Sweeney等科技圈人士，也公开支持让黄仁勋回归的请愿活动。 截至目前，这项请愿已获得超过16万人签名。    不过，董事会也在考虑其他人选—— 据了解，英伟达董事会已经接触Arm CEO Rene Haas，探讨由其接任的可能性。 黄仁勋讨论回归，硅谷支持者开始行动 黄仁勋在11月12日刚刚辞去英伟达CEO职务。 首席财务官Colette Kress接任临时CEO，董事Harvey C. Jones出任董事长。 英伟达同时表示，将启动正式的CEO遴选程序，内部和外部候选人都会纳入考虑范围。 这也是黄仁勋自1993年创办英伟达33年以来，首次离开公司最高管理岗位。 但从目前披露的信息来看，黄仁勋显然还没有完",
+          "summary_zh": "硅谷支持者开始行动  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 老黄回宫的可能性再次up。 据《金融时报》消息，辞去CEO仅仅几天，黄仁勋已经开始组队讨论重返英伟达。 一位黄仁勋的盟友透露，支持者正在召集硅谷科技高管，准备组建一个专门的协调团队，推动他重新执掌英伟达。 据称，这项行动也得到了黄仁勋本人的支持。    另一边，马斯克、Epic Games CEO Tim Sweeney等科技圈人士，也公开支持让黄仁勋回归的请愿活动。 截至目前，这项请愿已获得超过16万人签名。    不过，董事会也在考虑其他人选—— 据了解，英伟达董事会已经接触Arm CEO Rene Haas，探讨由其接任的可能性。 黄仁勋讨论回归，硅谷支持者开始行动 黄仁勋在11月12日刚刚辞去英伟达CEO职务。 首席财务官Colette Kress接任临时CEO，董事Harvey C. Jones出任董事长。 英伟达同时表示，将启动正式的CEO遴选程序，内部和外部候选人都会纳入考虑范围。 这也是黄仁勋自1993年创办英伟达33年以来，首次离开公司最高管理岗位。 但从目前披露的信息来看，黄仁勋显然还没有完",
+          "publishedAt": "2026-11-16T00:12:50Z",
+          "published_at": "2026-11-16T00:12:50Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "0fafdb3d",
+          "title": "让AI成为自主进化的科学家！书生-S",
+          "title_en": "让AI成为自主进化的科学家！书生-S2.1 Flash登顶机器学习工程基准",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "让AI成为自主进化的科学家！书生-S2.1 Flash登顶机器学习工程基准",
+          "summary_zh": "让AI成为自主进化的科学家！书生-S2.1 Flash登顶机器学习工程基准",
+          "publishedAt": "2026-11-16T18:44:41Z",
+          "published_at": "2026-11-16T18:44:41Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "084cd92a",
+      "title": "产品更新：Zoom Slides",
+      "title_en": "Zoom Slides",
+      "url": "https://www.producthunt.com/products/zoom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/zoom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn your Zoom meetings into ready-to-present",
+      "summary_zh": "Turn your Zoom meetings into ready-to-present",
+      "publishedAt": "2026-11-16T08:01:00Z",
+      "published_at": "2026-11-16T08:01:00Z",
+      "votes_count": 225,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "252",
+          "name": "Meetings",
+          "slug": "meetings"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "3a51b7a9",
+      "title": "产品更新：Boost.space Age",
+      "title_en": "Boost.space AgentOS",
+      "url": "https://www.producthunt.com/products/boost-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/boost-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "One operating system for all your AI agents Bu",
+      "summary_zh": "One operating system for all your AI agents Bu",
+      "publishedAt": "2026-11-16T08:01:00Z",
+      "published_at": "2026-11-16T08:01:00Z",
+      "votes_count": 185,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "d09bef2b",
+      "title": "产品更新：readywhen",
+      "title_en": "readywhen",
+      "url": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your personal assistant that lives in email ar",
+      "summary_zh": "Your personal assistant that lives in email ar",
+      "publishedAt": "2026-11-16T08:01:00Z",
+      "published_at": "2026-11-16T08:01:00Z",
+      "votes_count": 178,
+      "featured": true,
+      "topics": [
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a598ec95",
+      "title": "产品更新：OpenBot",
+      "title_en": "OpenBot",
+      "url": "https://www.producthunt.com/products/copilotkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/copilotkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Grok Bot alternative: self-host, fully customi",
+      "summary_zh": "Grok Bot alternative: self-host, fully customi",
+      "publishedAt": "2026-11-16T08:01:00Z",
+      "published_at": "2026-11-16T08:01:00Z",
+      "votes_count": 175,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "690a1970",
+      "title": "全球AI音乐榜第一易主！中国黑马首次上榜就干翻Suno",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/510333.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510333.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Suno，被超了？？ 好家伙，AI音乐圈最近突然杀出了一匹中国黑马。 ACE Music v1，一个此前很多人可能都没听过的名字，首次登上全球权威AI评测机构Artificial Analysis（简称AA）的音乐人声榜，就把Suno最新旗舰模型v6挤到了第二。 榜单上，ACE Music v1拿下1160分，领先Suno v6整整16分。  要知道，自2023年AI音乐赛道兴起以来，Suno一直是行业标杆，还没有模型在AA榜单上正面赢过它的最新旗舰。 过去有模型宣称超越Suno，但要么对比的是旧版本，要么成绩来自厂商自己的内部测试。 而这一次，同样的提示词，隐藏模型名称，直接交给评审盲听。 ACE Music v1就这么拿到了最高分🤯。 消息传到X上，有网友已经开始给Suno送行： R.I.P. Suno  而更让人意外的是，ACE Music v1背后的公司，直到2025年3月才开始研发音乐生成基座模型。 满打满算，也就一年多。 一个此前从未登上这张榜单的模型，凭什么第一次亮相就冲到了Suno前面？ 说再多不如直接上耳朵，来吧—— 到底有多强？听就完事了 接下来我会放三组音乐，每组",
+      "summary_zh": "Suno，被超了？？ 好家伙，AI音乐圈最近突然杀出了一匹中国黑马。 ACE Music v1，一个此前很多人可能都没听过的名字，首次登上全球权威AI评测机构Artificial Analysis（简称AA）的音乐人声榜，就把Suno最新旗舰模型v6挤到了第二。 榜单上，ACE Music v1拿下1160分，领先Suno v6整整16分。  要知道，自2023年AI音乐赛道兴起以来，Suno一直是行业标杆，还没有模型在AA榜单上正面赢过它的最新旗舰。 过去有模型宣称超越Suno，但要么对比的是旧版本，要么成绩来自厂商自己的内部测试。 而这一次，同样的提示词，隐藏模型名称，直接交给评审盲听。 ACE Music v1就这么拿到了最高分🤯。 消息传到X上，有网友已经开始给Suno送行： R.I.P. Suno  而更让人意外的是，ACE Music v1背后的公司，直到2025年3月才开始研发音乐生成基座模型。 满打满算，也就一年多。 一个此前从未登上这张榜单的模型，凭什么第一次亮相就冲到了Suno前面？ 说再多不如直接上耳朵，来吧—— 到底有多强？听就完事了 接下来我会放三组音乐，每组",
+      "publishedAt": "2026-11-15T23:56:24Z",
+      "published_at": "2026-11-15T23:56:24Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "a465ee80",
+      "title": "谷歌奇袭英伟达：整柜TPU外售加速交付，推理每美元性能领先GB200五成",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/510349.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510349.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "“英伟达一家独步天下的日子快要结束了”  英伟达最近头疼的事儿可不止老黄那一件。 本周内，谷歌祭出了两款新TPU芯片，分别瞄准机密推理和长上下文。算上上半年发布的两款TPU芯片，第八代TPU已经扩到四种配置。 今年，谷歌第一次在同一年内推出四款TPU系统。而谷歌对TPU的野心，可能比外界想象得更大—— 还是今年，谷歌破天荒开始对外销售TPU系统。 量子位从谷歌内部人士处获悉，谷歌内部信心十足，表示“明年TPU市场份额会快速上升”，届时“会有更多大型企业大规模使用TPU”。 至于性能方面，他们也自信满满。 至少在谷歌高层人士看来，“英伟达一家独步天下的日子快要结束了”。 （苏妈：咩啊？.jpg）  △图片由AI生成 “像英伟达一样”，对外销售TPU系统 今年，谷歌做了一个违背祖宗的决定—— 首次向外部客户销售整套TPU系统。 量子位从接近谷歌的人士处获悉，一位加入谷歌不到三年的高管推动了这项决策。 在内部巨大争论声中，他力主改变TPU的商业战略，最终让管理层下定决心，“像英伟达一样”把TPU卖给外部客户。  △图片由AI生成 最早（2013年），TPU只是谷歌为了降低自家AI业务算力成本",
+      "summary_zh": "“英伟达一家独步天下的日子快要结束了”  英伟达最近头疼的事儿可不止老黄那一件。 本周内，谷歌祭出了两款新TPU芯片，分别瞄准机密推理和长上下文。算上上半年发布的两款TPU芯片，第八代TPU已经扩到四种配置。 今年，谷歌第一次在同一年内推出四款TPU系统。而谷歌对TPU的野心，可能比外界想象得更大—— 还是今年，谷歌破天荒开始对外销售TPU系统。 量子位从谷歌内部人士处获悉，谷歌内部信心十足，表示“明年TPU市场份额会快速上升”，届时“会有更多大型企业大规模使用TPU”。 至于性能方面，他们也自信满满。 至少在谷歌高层人士看来，“英伟达一家独步天下的日子快要结束了”。 （苏妈：咩啊？.jpg）  △图片由AI生成 “像英伟达一样”，对外销售TPU系统 今年，谷歌做了一个违背祖宗的决定—— 首次向外部客户销售整套TPU系统。 量子位从接近谷歌的人士处获悉，一位加入谷歌不到三年的高管推动了这项决策。 在内部巨大争论声中，他力主改变TPU的商业战略，最终让管理层下定决心，“像英伟达一样”把TPU卖给外部客户。  △图片由AI生成 最早（2013年），TPU只是谷歌为了降低自家AI业务算力成本",
+      "publishedAt": "2026-11-16T00:00:31Z",
+      "published_at": "2026-11-16T00:00:31Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "eca79c57",
+      "title": "黄仁勋筹备重返英伟达",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/510358.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510358.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "硅谷支持者开始行动  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 老黄回宫的可能性再次up。 据《金融时报》消息，辞去CEO仅仅几天，黄仁勋已经开始组队讨论重返英伟达。 一位黄仁勋的盟友透露，支持者正在召集硅谷科技高管，准备组建一个专门的协调团队，推动他重新执掌英伟达。 据称，这项行动也得到了黄仁勋本人的支持。    另一边，马斯克、Epic Games CEO Tim Sweeney等科技圈人士，也公开支持让黄仁勋回归的请愿活动。 截至目前，这项请愿已获得超过16万人签名。    不过，董事会也在考虑其他人选—— 据了解，英伟达董事会已经接触Arm CEO Rene Haas，探讨由其接任的可能性。 黄仁勋讨论回归，硅谷支持者开始行动 黄仁勋在11月12日刚刚辞去英伟达CEO职务。 首席财务官Colette Kress接任临时CEO，董事Harvey C. Jones出任董事长。 英伟达同时表示，将启动正式的CEO遴选程序，内部和外部候选人都会纳入考虑范围。 这也是黄仁勋自1993年创办英伟达33年以来，首次离开公司最高管理岗位。 但从目前披露的信息来看，黄仁勋显然还没有完",
+      "summary_zh": "硅谷支持者开始行动  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI 老黄回宫的可能性再次up。 据《金融时报》消息，辞去CEO仅仅几天，黄仁勋已经开始组队讨论重返英伟达。 一位黄仁勋的盟友透露，支持者正在召集硅谷科技高管，准备组建一个专门的协调团队，推动他重新执掌英伟达。 据称，这项行动也得到了黄仁勋本人的支持。    另一边，马斯克、Epic Games CEO Tim Sweeney等科技圈人士，也公开支持让黄仁勋回归的请愿活动。 截至目前，这项请愿已获得超过16万人签名。    不过，董事会也在考虑其他人选—— 据了解，英伟达董事会已经接触Arm CEO Rene Haas，探讨由其接任的可能性。 黄仁勋讨论回归，硅谷支持者开始行动 黄仁勋在11月12日刚刚辞去英伟达CEO职务。 首席财务官Colette Kress接任临时CEO，董事Harvey C. Jones出任董事长。 英伟达同时表示，将启动正式的CEO遴选程序，内部和外部候选人都会纳入考虑范围。 这也是黄仁勋自1993年创办英伟达33年以来，首次离开公司最高管理岗位。 但从目前披露的信息来看，黄仁勋显然还没有完",
+      "publishedAt": "2026-11-16T00:12:50Z",
+      "published_at": "2026-11-16T00:12:50Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "0fafdb3d",
+      "title": "让AI成为自主进化的科学家！书生-S",
+      "title_en": "让AI成为自主进化的科学家！书生-S2.1 Flash登顶机器学习工程基准",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "让AI成为自主进化的科学家！书生-S2.1 Flash登顶机器学习工程基准",
+      "summary_zh": "让AI成为自主进化的科学家！书生-S2.1 Flash登顶机器学习工程基准",
+      "publishedAt": "2026-11-16T18:44:41Z",
+      "published_at": "2026-11-16T18:44:41Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

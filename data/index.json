@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-11-16T00:04:05Z",
-  "generatedAt": "2026-11-16T00:04:05Z",
-  "count": 188,
-  "total": 188,
+  "generated_at": "2026-11-16T18:45:21Z",
+  "generatedAt": "2026-11-16T18:45:21Z",
+  "count": 189,
+  "total": 189,
   "entries": [
+    {
+      "date": "2026-11-17",
+      "generated_at": "2026-11-16T18:45:21Z",
+      "generatedAt": "2026-11-16T18:45:21Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "084cd92a",
+          "title": "产品更新：Zoom Slides",
+          "title_en": "Zoom Slides",
+          "url": "https://www.producthunt.com/products/zoom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/zoom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turn your Zoom meetings into ready-to-present",
+          "summary_zh": "Turn your Zoom meetings into ready-to-present",
+          "publishedAt": "2026-11-16T08:01:00Z",
+          "published_at": "2026-11-16T08:01:00Z",
+          "votes_count": 225,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "252",
+              "name": "Meetings",
+              "slug": "meetings"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3a51b7a9",
+          "title": "产品更新：Boost.space Age",
+          "title_en": "Boost.space AgentOS",
+          "url": "https://www.producthunt.com/products/boost-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/boost-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "One operating system for all your AI agents Bu",
+          "summary_zh": "One operating system for all your AI agents Bu",
+          "publishedAt": "2026-11-16T08:01:00Z",
+          "published_at": "2026-11-16T08:01:00Z",
+          "votes_count": 185,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "d09bef2b",
+          "title": "产品更新：readywhen",
+          "title_en": "readywhen",
+          "url": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your personal assistant that lives in email ar",
+          "summary_zh": "Your personal assistant that lives in email ar",
+          "publishedAt": "2026-11-16T08:01:00Z",
+          "published_at": "2026-11-16T08:01:00Z",
+          "votes_count": 178,
+          "featured": true,
+          "topics": [
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-16",
       "generated_at": "2026-11-16T00:04:05Z",
