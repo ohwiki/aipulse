@@ -1,9 +1,142 @@
 {
-  "generated_at": "2026-11-15T15:46:18Z",
-  "generatedAt": "2026-11-15T15:46:18Z",
-  "count": 187,
-  "total": 187,
+  "generated_at": "2026-11-16T00:04:05Z",
+  "generatedAt": "2026-11-16T00:04:05Z",
+  "count": 188,
+  "total": 188,
   "entries": [
+    {
+      "date": "2026-11-16",
+      "generated_at": "2026-11-16T00:04:05Z",
+      "generatedAt": "2026-11-16T00:04:05Z",
+      "total": 7,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "eda74f40",
+          "title": "产品更新：Rakazo",
+          "title_en": "Rakazo",
+          "url": "https://www.producthunt.com/products/rakazo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/rakazo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The open source Grok Bot alternative you actua",
+          "summary_zh": "The open source Grok Bot alternative you actua",
+          "publishedAt": "2026-11-15T08:01:00Z",
+          "published_at": "2026-11-15T08:01:00Z",
+          "votes_count": 304,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "df0435b5",
+          "title": "产品更新：Frevana Multipl",
+          "title_en": "Frevana Multiplayer",
+          "url": "https://www.producthunt.com/products/frevana-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/frevana-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI that grows your business alongside your tea",
+          "summary_zh": "AI that grows your business alongside your tea",
+          "publishedAt": "2026-11-15T08:01:00Z",
+          "published_at": "2026-11-15T08:01:00Z",
+          "votes_count": 204,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c5adc25e",
+          "title": "产品更新：Tulvo",
+          "title_en": "Tulvo",
+          "url": "https://www.producthunt.com/products/tulvo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/tulvo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Smart & adaptive workspace to manage all your",
+          "summary_zh": "Smart & adaptive workspace to manage all your",
+          "publishedAt": "2026-11-15T08:01:00Z",
+          "published_at": "2026-11-15T08:01:00Z",
+          "votes_count": 181,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-15",
       "generated_at": "2026-11-15T15:46:18Z",

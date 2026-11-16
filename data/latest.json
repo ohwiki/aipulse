@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-15T15:46:18Z",
-  "generatedAt": "2026-11-15T15:46:18Z",
+  "generated_at": "2026-11-16T00:04:05Z",
+  "generatedAt": "2026-11-16T00:04:05Z",
   "days": 7,
-  "total": 6,
-  "count": 6,
+  "total": 7,
+  "count": 7,
   "items": [
     {
       "id": "eda74f40",
@@ -22,7 +22,7 @@
       "summary_zh": "The open source Grok Bot alternative you actua",
       "publishedAt": "2026-11-15T08:01:00Z",
       "published_at": "2026-11-15T08:01:00Z",
-      "votes_count": 197,
+      "votes_count": 304,
       "featured": true,
       "topics": [
         {
@@ -54,23 +54,23 @@
       "score_details": null
     },
     {
-      "id": "c5adc25e",
-      "title": "产品更新：Tulvo",
-      "title_en": "Tulvo",
-      "url": "https://www.producthunt.com/products/tulvo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "df0435b5",
+      "title": "产品更新：Frevana Multipl",
+      "title_en": "Frevana Multiplayer",
+      "url": "https://www.producthunt.com/products/frevana-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/tulvo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/frevana-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Smart & adaptive workspace to manage all your",
-      "summary_zh": "Smart & adaptive workspace to manage all your",
+      "summary": "AI that grows your business alongside your tea",
+      "summary_zh": "AI that grows your business alongside your tea",
       "publishedAt": "2026-11-15T08:01:00Z",
       "published_at": "2026-11-15T08:01:00Z",
-      "votes_count": 150,
+      "votes_count": 204,
       "featured": true,
       "topics": [
         {
@@ -92,23 +92,23 @@
       "score_details": null
     },
     {
-      "id": "df0435b5",
-      "title": "产品更新：Frevana Multipl",
-      "title_en": "Frevana Multiplayer",
-      "url": "https://www.producthunt.com/products/frevana-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "c5adc25e",
+      "title": "产品更新：Tulvo",
+      "title_en": "Tulvo",
+      "url": "https://www.producthunt.com/products/tulvo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/frevana-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/tulvo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "AI that grows your business alongside your tea",
-      "summary_zh": "AI that grows your business alongside your tea",
+      "summary": "Smart & adaptive workspace to manage all your",
+      "summary_zh": "Smart & adaptive workspace to manage all your",
       "publishedAt": "2026-11-15T08:01:00Z",
       "published_at": "2026-11-15T08:01:00Z",
-      "votes_count": 144,
+      "votes_count": 181,
       "featured": true,
       "topics": [
         {
@@ -125,6 +125,49 @@
           "id": "470",
           "name": "No-Code",
           "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9b6da361",
+      "title": "产品更新：Talyn",
+      "title_en": "Talyn",
+      "url": "https://www.producthunt.com/products/talyn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/talyn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Run Claude Code and Codex in parallel cloud sa",
+      "summary_zh": "Run Claude Code and Codex in parallel cloud sa",
+      "publishedAt": "2026-11-15T08:01:00Z",
+      "published_at": "2026-11-15T08:01:00Z",
+      "votes_count": 132,
+      "featured": true,
+      "topics": [
+        {
+          "id": "89",
+          "name": "Open Source",
+          "slug": "open-source"
+        },
+        {
+          "id": "247",
+          "name": "Software Engineering",
+          "slug": "software-engineering"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
         }
       ],
       "score_details": null
@@ -144,8 +187,8 @@
       "rankingScore": 5.0,
       "summary": "逼近GPT-6 Astra！韩松团队让Qwen3.8-27B在5090上操作机械臂，现已开源",
       "summary_zh": "逼近GPT-6 Astra！韩松团队让Qwen3.8-27B在5090上操作机械臂，现已开源",
-      "publishedAt": "2026-11-15T15:45:34Z",
-      "published_at": "2026-11-15T15:45:34Z",
+      "publishedAt": "2026-11-16T00:03:25Z",
+      "published_at": "2026-11-16T00:03:25Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -166,8 +209,8 @@
       "rankingScore": 5.0,
       "summary": "PEAR （Post-training Engine for Agentic Robotic",
       "summary_zh": "PEAR （Post-training Engine for Agentic Robotic",
-      "publishedAt": "2026-11-15T15:45:34Z",
-      "published_at": "2026-11-15T15:45:34Z",
+      "publishedAt": "2026-11-16T00:03:25Z",
+      "published_at": "2026-11-16T00:03:25Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -188,8 +231,8 @@
       "rankingScore": 5.0,
       "summary": "EMNLP 2026 杰出论文 | 大模型训练，数据配比难？日本NICT团队提出最优分布向量",
       "summary_zh": "EMNLP 2026 杰出论文 | 大模型训练，数据配比难？日本NICT团队提出最优分布向量",
-      "publishedAt": "2026-11-15T15:45:34Z",
-      "published_at": "2026-11-15T15:45:34Z",
+      "publishedAt": "2026-11-16T00:03:25Z",
+      "published_at": "2026-11-16T00:03:25Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
