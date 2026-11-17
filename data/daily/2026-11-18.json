@@ -1,0 +1,503 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-17T17:44:43Z",
+  "generatedAt": "2026-11-17T17:44:43Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "1d8be297",
+          "title": "产品更新：Appxiom",
+          "title_en": "Appxiom",
+          "url": "https://www.producthunt.com/products/appxiom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/appxiom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Context layer for AI coding agents to detect &",
+          "summary_zh": "Context layer for AI coding agents to detect &",
+          "publishedAt": "2026-11-17T08:00:00Z",
+          "published_at": "2026-11-17T08:00:00Z",
+          "votes_count": 205,
+          "featured": true,
+          "topics": [
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "45214515",
+          "title": "AI资讯更新：RankSpot",
+          "title_en": "RankSpot",
+          "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Pay-as-you-go SEO and AI Search execution laye",
+          "summary_zh": "Pay-as-you-go SEO and AI Search execution laye",
+          "publishedAt": "2026-11-17T08:01:00Z",
+          "published_at": "2026-11-17T08:01:00Z",
+          "votes_count": 289,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "43a2d600",
+          "title": "产品更新：Creatify Max",
+          "title_en": "Creatify Max",
+          "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your ad teammate, from strategy to creation to",
+          "summary_zh": "Your ad teammate, from strategy to creation to",
+          "publishedAt": "2026-11-17T08:01:00Z",
+          "published_at": "2026-11-17T08:01:00Z",
+          "votes_count": 258,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1de54660",
+          "title": "产品更新：TheBold",
+          "title_en": "TheBold",
+          "url": "https://www.producthunt.com/products/thebold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/thebold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Turn execution into meetings with investors Th",
+          "summary_zh": "Turn execution into meetings with investors Th",
+          "publishedAt": "2026-11-17T08:01:00Z",
+          "published_at": "2026-11-17T08:01:00Z",
+          "votes_count": 247,
+          "featured": true,
+          "topics": [
+            {
+              "id": "208",
+              "name": "Venture Capital",
+              "slug": "venture-capital"
+            },
+            {
+              "id": "717",
+              "name": "Social Networking",
+              "slug": "social-networking"
+            },
+            {
+              "id": "791",
+              "name": "Fundraising",
+              "slug": "fundraising"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "78be7696",
+          "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/510561.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/510561.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "强化学习环境（RL Envs）正在成为一门新生意。 随着大模型走向工具调用、软件操作和多步骤任务，模型训练的方式也在发生变化。模型不再只是从已有的数据和答案中学习，还需要进入具体任务，执行动作、观察结果，再根据反馈不断调整策略。 对模型团队来说，算法决定模型如何学习，而环境决定模型能够练习什么、可以尝试多少次，以及如何判断一次尝试是否有效。能否找到足够多、足够真实、结果可判定的任务，正在成为后训练的一部分重要工作。 这块需求有多热，市场已经给出答案。Mercor、Surge AI、Handshake……过去一年，围绕大模型训练和后训练，一批新公司和新业务迅速进入硅谷视野。 11月10日，Mercor宣布完成7.5亿美元D轮融资，估值200亿美元。这家公司运营着超过500万人的专家网络，为前沿实验室和企业供应评测与后训练数据。今年早些时候，Mercor还收购了Deeptune——一支花费两年时间把数百个企业应用重建为训练环境的团队。 Surge AI则展示了任务环境与模型训练之间的联系。这家公司围绕文档、电子表格、网页调研、规划和工具调用等长程办公任务构建RL环境，并用Qwen3.5-1",
+          "summary_zh": "强化学习环境（RL Envs）正在成为一门新生意。 随着大模型走向工具调用、软件操作和多步骤任务，模型训练的方式也在发生变化。模型不再只是从已有的数据和答案中学习，还需要进入具体任务，执行动作、观察结果，再根据反馈不断调整策略。 对模型团队来说，算法决定模型如何学习，而环境决定模型能够练习什么、可以尝试多少次，以及如何判断一次尝试是否有效。能否找到足够多、足够真实、结果可判定的任务，正在成为后训练的一部分重要工作。 这块需求有多热，市场已经给出答案。Mercor、Surge AI、Handshake……过去一年，围绕大模型训练和后训练，一批新公司和新业务迅速进入硅谷视野。 11月10日，Mercor宣布完成7.5亿美元D轮融资，估值200亿美元。这家公司运营着超过500万人的专家网络，为前沿实验室和企业供应评测与后训练数据。今年早些时候，Mercor还收购了Deeptune——一支花费两年时间把数百个企业应用重建为训练环境的团队。 Surge AI则展示了任务环境与模型训练之间的联系。这家公司围绕文档、电子表格、网页调研、规划和工具调用等长程办公任务构建RL环境，并用Qwen3.5-1",
+          "publishedAt": "2026-11-17T02:03:22Z",
+          "published_at": "2026-11-17T02:03:22Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "fcbfb63b",
+          "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/510592.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/510592.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "奥特曼首谈黄仁勋离职  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  “英雄也有缺陷。”  黄仁勋离职风波持续发酵，奥特曼终于公开表态了。 当地时间11月16日，在Semafor举办的硅谷峰会上，OpenAI CEO山姆·奥特曼首次公开谈及黄仁勋离职风波。 奥特曼甚至在场还毫不掩饰对黄仁勋的欣赏：“黄仁勋一直是我心目中的英雄。”     围绕黄仁勋的离职风波，以及整个AI行业的未来，奥特曼也分享了自己更完整的看法：  奥特曼承认，英雄并非完美。 黄仁勋一直是奥特曼心目中的英雄，很难想象没有他的AI革命。 黄仁勋的离开，并不会影响整个AI行业继续向前发展。 OpenAI与英伟达早期就建立了相互支持的关系，双方很早便押注彼此。 对于黄仁勋是否应该重返英伟达，奥特曼认为自己掌握的信息不足，无法作出判断。  三年前，奥特曼自己也经历过一场轰动硅谷的董事会罢免风波。 而如今轮到黄仁勋，他显然比大多数人更能体会其中的滋味。 奥特曼首谈黄仁勋离职：英雄也有缺陷 把时间拨回几天前。 11月12日，执掌英伟达长达33年的创始人黄仁勋突然宣布辞去CEO及董事会职务。 消息一出，英伟达股价在一周内",
+          "summary_zh": "奥特曼首谈黄仁勋离职  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  “英雄也有缺陷。”  黄仁勋离职风波持续发酵，奥特曼终于公开表态了。 当地时间11月16日，在Semafor举办的硅谷峰会上，OpenAI CEO山姆·奥特曼首次公开谈及黄仁勋离职风波。 奥特曼甚至在场还毫不掩饰对黄仁勋的欣赏：“黄仁勋一直是我心目中的英雄。”     围绕黄仁勋的离职风波，以及整个AI行业的未来，奥特曼也分享了自己更完整的看法：  奥特曼承认，英雄并非完美。 黄仁勋一直是奥特曼心目中的英雄，很难想象没有他的AI革命。 黄仁勋的离开，并不会影响整个AI行业继续向前发展。 OpenAI与英伟达早期就建立了相互支持的关系，双方很早便押注彼此。 对于黄仁勋是否应该重返英伟达，奥特曼认为自己掌握的信息不足，无法作出判断。  三年前，奥特曼自己也经历过一场轰动硅谷的董事会罢免风波。 而如今轮到黄仁勋，他显然比大多数人更能体会其中的滋味。 奥特曼首谈黄仁勋离职：英雄也有缺陷 把时间拨回几天前。 11月12日，执掌英伟达长达33年的创始人黄仁勋突然宣布辞去CEO及董事会职务。 消息一出，英伟达股价在一周内",
+          "publishedAt": "2026-11-17T02:33:13Z",
+          "published_at": "2026-11-17T02:33:13Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "a3c8fdda",
+          "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/510610.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/510610.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "斩获80000元奖金  真的就是，自信放光芒。 这一幕，便发生在一场具身大模型挑战赛决赛现场—— 有个参赛团队在主办方已经提供高质量数据集的情况下，因为够自信，队长竟选择从零手搓新数据…… 然后，最终得分82分，一举斩获比赛第一，拿下8万元大奖！    事情是这样的。 这场决赛共计48个小时，15支入围的队伍需要在如此短的时间里完成数据采集、模型调优和真机部署，并用同一套模型应对三项任务：  按指令摆放水果； 将化妆品放入透明收纳架的指定层； 双臂配合清扫垃圾。     然后这个冠军团队认为，前两项都是抓取、放置问题，于是用千问识别干扰物，再在图像中按背景颜色将其抹除，让VLA更容易看清目标和目的地，前两项基本沿用官方数据。 不过到了第三个任务，他们发现官方给的210条数据，都采用的是抓簸箕把手的方式，这样不仅抓接触面小，而且稍有偏转就容易打滑、翻转。 于是，他们果断决定自己重新采集，改成抓簸箕后沿，目的就是让工具先稳下来，再完成后续动作。 但如此一来，就当于把团队大部分的精力都梭哈在了仅这个一个任务的一环里……    而正是这样的胆魄和孤注一掷，让这个团队在临近比赛前的几分钟，成绩直",
+          "summary_zh": "斩获80000元奖金  真的就是，自信放光芒。 这一幕，便发生在一场具身大模型挑战赛决赛现场—— 有个参赛团队在主办方已经提供高质量数据集的情况下，因为够自信，队长竟选择从零手搓新数据…… 然后，最终得分82分，一举斩获比赛第一，拿下8万元大奖！    事情是这样的。 这场决赛共计48个小时，15支入围的队伍需要在如此短的时间里完成数据采集、模型调优和真机部署，并用同一套模型应对三项任务：  按指令摆放水果； 将化妆品放入透明收纳架的指定层； 双臂配合清扫垃圾。     然后这个冠军团队认为，前两项都是抓取、放置问题，于是用千问识别干扰物，再在图像中按背景颜色将其抹除，让VLA更容易看清目标和目的地，前两项基本沿用官方数据。 不过到了第三个任务，他们发现官方给的210条数据，都采用的是抓簸箕把手的方式，这样不仅抓接触面小，而且稍有偏转就容易打滑、翻转。 于是，他们果断决定自己重新采集，改成抓簸箕后沿，目的就是让工具先稳下来，再完成后续动作。 但如此一来，就当于把团队大部分的精力都梭哈在了仅这个一个任务的一环里……    而正是这样的胆魄和孤注一掷，让这个团队在临近比赛前的几分钟，成绩直",
+          "publishedAt": "2026-11-17T04:35:03Z",
+          "published_at": "2026-11-17T04:35:03Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "2a16b40a",
+          "title": "最强GPT-6 Astra只对26.",
+          "title_en": "最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher Bench难住顶级AI",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher",
+          "summary_zh": "最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher",
+          "publishedAt": "2026-11-17T17:44:08Z",
+          "published_at": "2026-11-17T17:44:08Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "1d8be297",
+      "title": "产品更新：Appxiom",
+      "title_en": "Appxiom",
+      "url": "https://www.producthunt.com/products/appxiom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/appxiom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Context layer for AI coding agents to detect &",
+      "summary_zh": "Context layer for AI coding agents to detect &",
+      "publishedAt": "2026-11-17T08:00:00Z",
+      "published_at": "2026-11-17T08:00:00Z",
+      "votes_count": 205,
+      "featured": true,
+      "topics": [
+        {
+          "id": "237",
+          "name": "SaaS",
+          "slug": "saas"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "45214515",
+      "title": "AI资讯更新：RankSpot",
+      "title_en": "RankSpot",
+      "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Pay-as-you-go SEO and AI Search execution laye",
+      "summary_zh": "Pay-as-you-go SEO and AI Search execution laye",
+      "publishedAt": "2026-11-17T08:01:00Z",
+      "published_at": "2026-11-17T08:01:00Z",
+      "votes_count": 289,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "231",
+          "name": "SEO",
+          "slug": "seo"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "43a2d600",
+      "title": "产品更新：Creatify Max",
+      "title_en": "Creatify Max",
+      "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your ad teammate, from strategy to creation to",
+      "summary_zh": "Your ad teammate, from strategy to creation to",
+      "publishedAt": "2026-11-17T08:01:00Z",
+      "published_at": "2026-11-17T08:01:00Z",
+      "votes_count": 258,
+      "featured": true,
+      "topics": [
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1de54660",
+      "title": "产品更新：TheBold",
+      "title_en": "TheBold",
+      "url": "https://www.producthunt.com/products/thebold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/thebold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn execution into meetings with investors Th",
+      "summary_zh": "Turn execution into meetings with investors Th",
+      "publishedAt": "2026-11-17T08:01:00Z",
+      "published_at": "2026-11-17T08:01:00Z",
+      "votes_count": 247,
+      "featured": true,
+      "topics": [
+        {
+          "id": "208",
+          "name": "Venture Capital",
+          "slug": "venture-capital"
+        },
+        {
+          "id": "717",
+          "name": "Social Networking",
+          "slug": "social-networking"
+        },
+        {
+          "id": "791",
+          "name": "Fundraising",
+          "slug": "fundraising"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "78be7696",
+      "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/510561.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510561.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "强化学习环境（RL Envs）正在成为一门新生意。 随着大模型走向工具调用、软件操作和多步骤任务，模型训练的方式也在发生变化。模型不再只是从已有的数据和答案中学习，还需要进入具体任务，执行动作、观察结果，再根据反馈不断调整策略。 对模型团队来说，算法决定模型如何学习，而环境决定模型能够练习什么、可以尝试多少次，以及如何判断一次尝试是否有效。能否找到足够多、足够真实、结果可判定的任务，正在成为后训练的一部分重要工作。 这块需求有多热，市场已经给出答案。Mercor、Surge AI、Handshake……过去一年，围绕大模型训练和后训练，一批新公司和新业务迅速进入硅谷视野。 11月10日，Mercor宣布完成7.5亿美元D轮融资，估值200亿美元。这家公司运营着超过500万人的专家网络，为前沿实验室和企业供应评测与后训练数据。今年早些时候，Mercor还收购了Deeptune——一支花费两年时间把数百个企业应用重建为训练环境的团队。 Surge AI则展示了任务环境与模型训练之间的联系。这家公司围绕文档、电子表格、网页调研、规划和工具调用等长程办公任务构建RL环境，并用Qwen3.5-1",
+      "summary_zh": "强化学习环境（RL Envs）正在成为一门新生意。 随着大模型走向工具调用、软件操作和多步骤任务，模型训练的方式也在发生变化。模型不再只是从已有的数据和答案中学习，还需要进入具体任务，执行动作、观察结果，再根据反馈不断调整策略。 对模型团队来说，算法决定模型如何学习，而环境决定模型能够练习什么、可以尝试多少次，以及如何判断一次尝试是否有效。能否找到足够多、足够真实、结果可判定的任务，正在成为后训练的一部分重要工作。 这块需求有多热，市场已经给出答案。Mercor、Surge AI、Handshake……过去一年，围绕大模型训练和后训练，一批新公司和新业务迅速进入硅谷视野。 11月10日，Mercor宣布完成7.5亿美元D轮融资，估值200亿美元。这家公司运营着超过500万人的专家网络，为前沿实验室和企业供应评测与后训练数据。今年早些时候，Mercor还收购了Deeptune——一支花费两年时间把数百个企业应用重建为训练环境的团队。 Surge AI则展示了任务环境与模型训练之间的联系。这家公司围绕文档、电子表格、网页调研、规划和工具调用等长程办公任务构建RL环境，并用Qwen3.5-1",
+      "publishedAt": "2026-11-17T02:03:22Z",
+      "published_at": "2026-11-17T02:03:22Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "fcbfb63b",
+      "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/510592.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510592.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "奥特曼首谈黄仁勋离职  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  “英雄也有缺陷。”  黄仁勋离职风波持续发酵，奥特曼终于公开表态了。 当地时间11月16日，在Semafor举办的硅谷峰会上，OpenAI CEO山姆·奥特曼首次公开谈及黄仁勋离职风波。 奥特曼甚至在场还毫不掩饰对黄仁勋的欣赏：“黄仁勋一直是我心目中的英雄。”     围绕黄仁勋的离职风波，以及整个AI行业的未来，奥特曼也分享了自己更完整的看法：  奥特曼承认，英雄并非完美。 黄仁勋一直是奥特曼心目中的英雄，很难想象没有他的AI革命。 黄仁勋的离开，并不会影响整个AI行业继续向前发展。 OpenAI与英伟达早期就建立了相互支持的关系，双方很早便押注彼此。 对于黄仁勋是否应该重返英伟达，奥特曼认为自己掌握的信息不足，无法作出判断。  三年前，奥特曼自己也经历过一场轰动硅谷的董事会罢免风波。 而如今轮到黄仁勋，他显然比大多数人更能体会其中的滋味。 奥特曼首谈黄仁勋离职：英雄也有缺陷 把时间拨回几天前。 11月12日，执掌英伟达长达33年的创始人黄仁勋突然宣布辞去CEO及董事会职务。 消息一出，英伟达股价在一周内",
+      "summary_zh": "奥特曼首谈黄仁勋离职  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI  “英雄也有缺陷。”  黄仁勋离职风波持续发酵，奥特曼终于公开表态了。 当地时间11月16日，在Semafor举办的硅谷峰会上，OpenAI CEO山姆·奥特曼首次公开谈及黄仁勋离职风波。 奥特曼甚至在场还毫不掩饰对黄仁勋的欣赏：“黄仁勋一直是我心目中的英雄。”     围绕黄仁勋的离职风波，以及整个AI行业的未来，奥特曼也分享了自己更完整的看法：  奥特曼承认，英雄并非完美。 黄仁勋一直是奥特曼心目中的英雄，很难想象没有他的AI革命。 黄仁勋的离开，并不会影响整个AI行业继续向前发展。 OpenAI与英伟达早期就建立了相互支持的关系，双方很早便押注彼此。 对于黄仁勋是否应该重返英伟达，奥特曼认为自己掌握的信息不足，无法作出判断。  三年前，奥特曼自己也经历过一场轰动硅谷的董事会罢免风波。 而如今轮到黄仁勋，他显然比大多数人更能体会其中的滋味。 奥特曼首谈黄仁勋离职：英雄也有缺陷 把时间拨回几天前。 11月12日，执掌英伟达长达33年的创始人黄仁勋突然宣布辞去CEO及董事会职务。 消息一出，英伟达股价在一周内",
+      "publishedAt": "2026-11-17T02:33:13Z",
+      "published_at": "2026-11-17T02:33:13Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "a3c8fdda",
+      "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/510610.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510610.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "斩获80000元奖金  真的就是，自信放光芒。 这一幕，便发生在一场具身大模型挑战赛决赛现场—— 有个参赛团队在主办方已经提供高质量数据集的情况下，因为够自信，队长竟选择从零手搓新数据…… 然后，最终得分82分，一举斩获比赛第一，拿下8万元大奖！    事情是这样的。 这场决赛共计48个小时，15支入围的队伍需要在如此短的时间里完成数据采集、模型调优和真机部署，并用同一套模型应对三项任务：  按指令摆放水果； 将化妆品放入透明收纳架的指定层； 双臂配合清扫垃圾。     然后这个冠军团队认为，前两项都是抓取、放置问题，于是用千问识别干扰物，再在图像中按背景颜色将其抹除，让VLA更容易看清目标和目的地，前两项基本沿用官方数据。 不过到了第三个任务，他们发现官方给的210条数据，都采用的是抓簸箕把手的方式，这样不仅抓接触面小，而且稍有偏转就容易打滑、翻转。 于是，他们果断决定自己重新采集，改成抓簸箕后沿，目的就是让工具先稳下来，再完成后续动作。 但如此一来，就当于把团队大部分的精力都梭哈在了仅这个一个任务的一环里……    而正是这样的胆魄和孤注一掷，让这个团队在临近比赛前的几分钟，成绩直",
+      "summary_zh": "斩获80000元奖金  真的就是，自信放光芒。 这一幕，便发生在一场具身大模型挑战赛决赛现场—— 有个参赛团队在主办方已经提供高质量数据集的情况下，因为够自信，队长竟选择从零手搓新数据…… 然后，最终得分82分，一举斩获比赛第一，拿下8万元大奖！    事情是这样的。 这场决赛共计48个小时，15支入围的队伍需要在如此短的时间里完成数据采集、模型调优和真机部署，并用同一套模型应对三项任务：  按指令摆放水果； 将化妆品放入透明收纳架的指定层； 双臂配合清扫垃圾。     然后这个冠军团队认为，前两项都是抓取、放置问题，于是用千问识别干扰物，再在图像中按背景颜色将其抹除，让VLA更容易看清目标和目的地，前两项基本沿用官方数据。 不过到了第三个任务，他们发现官方给的210条数据，都采用的是抓簸箕把手的方式，这样不仅抓接触面小，而且稍有偏转就容易打滑、翻转。 于是，他们果断决定自己重新采集，改成抓簸箕后沿，目的就是让工具先稳下来，再完成后续动作。 但如此一来，就当于把团队大部分的精力都梭哈在了仅这个一个任务的一环里……    而正是这样的胆魄和孤注一掷，让这个团队在临近比赛前的几分钟，成绩直",
+      "publishedAt": "2026-11-17T04:35:03Z",
+      "published_at": "2026-11-17T04:35:03Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "2a16b40a",
+      "title": "最强GPT-6 Astra只对26.",
+      "title_en": "最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher Bench难住顶级AI",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher",
+      "summary_zh": "最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher",
+      "publishedAt": "2026-11-17T17:44:08Z",
+      "published_at": "2026-11-17T17:44:08Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-11-17T02:59:41Z",
-  "generatedAt": "2026-11-17T02:59:41Z",
-  "count": 189,
-  "total": 189,
+  "generated_at": "2026-11-17T17:44:43Z",
+  "generatedAt": "2026-11-17T17:44:43Z",
+  "count": 190,
+  "total": 190,
   "entries": [
+    {
+      "date": "2026-11-18",
+      "generated_at": "2026-11-17T17:44:43Z",
+      "generatedAt": "2026-11-17T17:44:43Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "45214515",
+          "title": "AI资讯更新：RankSpot",
+          "title_en": "RankSpot",
+          "url": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Pay-as-you-go SEO and AI Search execution laye",
+          "summary_zh": "Pay-as-you-go SEO and AI Search execution laye",
+          "publishedAt": "2026-11-17T08:01:00Z",
+          "published_at": "2026-11-17T08:01:00Z",
+          "votes_count": 289,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "231",
+              "name": "SEO",
+              "slug": "seo"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "43a2d600",
+          "title": "产品更新：Creatify Max",
+          "title_en": "Creatify Max",
+          "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your ad teammate, from strategy to creation to",
+          "summary_zh": "Your ad teammate, from strategy to creation to",
+          "publishedAt": "2026-11-17T08:01:00Z",
+          "published_at": "2026-11-17T08:01:00Z",
+          "votes_count": 258,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1de54660",
+          "title": "产品更新：TheBold",
+          "title_en": "TheBold",
+          "url": "https://www.producthunt.com/products/thebold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/thebold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turn execution into meetings with investors Th",
+          "summary_zh": "Turn execution into meetings with investors Th",
+          "publishedAt": "2026-11-17T08:01:00Z",
+          "published_at": "2026-11-17T08:01:00Z",
+          "votes_count": 247,
+          "featured": true,
+          "topics": [
+            {
+              "id": "208",
+              "name": "Venture Capital",
+              "slug": "venture-capital"
+            },
+            {
+              "id": "717",
+              "name": "Social Networking",
+              "slug": "social-networking"
+            },
+            {
+              "id": "791",
+              "name": "Fundraising",
+              "slug": "fundraising"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "generated_at": "2026-11-17T02:59:41Z",
