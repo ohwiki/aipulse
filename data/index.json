@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-16T18:45:21Z",
-  "generatedAt": "2026-11-16T18:45:21Z",
+  "generated_at": "2026-11-17T02:59:41Z",
+  "generatedAt": "2026-11-17T02:59:41Z",
   "count": 189,
   "total": 189,
   "entries": [
     {
       "date": "2026-11-17",
-      "generated_at": "2026-11-16T18:45:21Z",
-      "generatedAt": "2026-11-16T18:45:21Z",
+      "generated_at": "2026-11-17T02:59:41Z",
+      "generatedAt": "2026-11-17T02:59:41Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
@@ -28,7 +28,7 @@
           "summary_zh": "Turn your Zoom meetings into ready-to-present",
           "publishedAt": "2026-11-16T08:01:00Z",
           "published_at": "2026-11-16T08:01:00Z",
-          "votes_count": 225,
+          "votes_count": 254,
           "featured": true,
           "topics": [
             {
@@ -66,7 +66,7 @@
           "summary_zh": "One operating system for all your AI agents Bu",
           "publishedAt": "2026-11-16T08:01:00Z",
           "published_at": "2026-11-16T08:01:00Z",
-          "votes_count": 185,
+          "votes_count": 242,
           "featured": true,
           "topics": [
             {
@@ -88,34 +88,29 @@
           "score_details": null
         },
         {
-          "id": "d09bef2b",
-          "title": "产品更新：readywhen",
-          "title_en": "readywhen",
-          "url": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "a598ec95",
+          "title": "产品更新：OpenBot",
+          "title_en": "OpenBot",
+          "url": "https://www.producthunt.com/products/copilotkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/copilotkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Your personal assistant that lives in email ar",
-          "summary_zh": "Your personal assistant that lives in email ar",
+          "summary": "Grok Bot alternative: self-host, fully customi",
+          "summary_zh": "Grok Bot alternative: self-host, fully customi",
           "publishedAt": "2026-11-16T08:01:00Z",
           "published_at": "2026-11-16T08:01:00Z",
-          "votes_count": 178,
+          "votes_count": 221,
           "featured": true,
           "topics": [
             {
-              "id": "39",
-              "name": "Email",
-              "slug": "email"
-            },
-            {
-              "id": "46",
-              "name": "Productivity",
-              "slug": "productivity"
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
             },
             {
               "id": "268",
