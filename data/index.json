@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-11-18T02:28:58Z",
-  "generatedAt": "2026-11-18T02:28:58Z",
-  "count": 190,
-  "total": 190,
+  "generated_at": "2026-11-18T17:26:22Z",
+  "generatedAt": "2026-11-18T17:26:22Z",
+  "count": 191,
+  "total": 191,
   "entries": [
+    {
+      "date": "2026-11-19",
+      "generated_at": "2026-11-18T17:26:22Z",
+      "generatedAt": "2026-11-18T17:26:22Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "b38991f2",
+          "title": "产品更新：S.Space",
+          "title_en": "S.Space",
+          "url": "https://www.producthunt.com/products/s-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/s-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Your team and everyone's AI agents, in one wor",
+          "summary_zh": "Your team and everyone's AI agents, in one wor",
+          "publishedAt": "2026-11-18T08:01:00Z",
+          "published_at": "2026-11-18T08:01:00Z",
+          "votes_count": 253,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ed80559e",
+          "title": "产品更新：Bluedot Phone C",
+          "title_en": "Bluedot Phone Calls",
+          "url": "https://www.producthunt.com/products/bluedot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/bluedot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI note taker for phone calls Bluedot now cove",
+          "summary_zh": "AI note taker for phone calls Bluedot now cove",
+          "publishedAt": "2026-11-18T08:01:00Z",
+          "published_at": "2026-11-18T08:01:00Z",
+          "votes_count": 232,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "24ef6ee5",
+          "title": "产品更新：Toone",
+          "title_en": "Toone",
+          "url": "https://www.producthunt.com/products/toone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/toone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Grokbot meets n8n/zapier Toone: Grokbot meets",
+          "summary_zh": "Grokbot meets n8n/zapier Toone: Grokbot meets",
+          "publishedAt": "2026-11-18T08:01:00Z",
+          "published_at": "2026-11-18T08:01:00Z",
+          "votes_count": 185,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "generated_at": "2026-11-18T02:28:58Z",

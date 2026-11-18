@@ -1,0 +1,503 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-18T17:26:22Z",
+  "generatedAt": "2026-11-18T17:26:22Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "b38991f2",
+          "title": "产品更新：S.Space",
+          "title_en": "S.Space",
+          "url": "https://www.producthunt.com/products/s-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/s-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your team and everyone's AI agents, in one wor",
+          "summary_zh": "Your team and everyone's AI agents, in one wor",
+          "publishedAt": "2026-11-18T08:01:00Z",
+          "published_at": "2026-11-18T08:01:00Z",
+          "votes_count": 253,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "ed80559e",
+          "title": "产品更新：Bluedot Phone C",
+          "title_en": "Bluedot Phone Calls",
+          "url": "https://www.producthunt.com/products/bluedot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/bluedot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI note taker for phone calls Bluedot now cove",
+          "summary_zh": "AI note taker for phone calls Bluedot now cove",
+          "publishedAt": "2026-11-18T08:01:00Z",
+          "published_at": "2026-11-18T08:01:00Z",
+          "votes_count": 232,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "24ef6ee5",
+          "title": "产品更新：Toone",
+          "title_en": "Toone",
+          "url": "https://www.producthunt.com/products/toone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/toone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Grokbot meets n8n/zapier Toone: Grokbot meets",
+          "summary_zh": "Grokbot meets n8n/zapier Toone: Grokbot meets",
+          "publishedAt": "2026-11-18T08:01:00Z",
+          "published_at": "2026-11-18T08:01:00Z",
+          "votes_count": 185,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "52d4af41",
+          "title": "产品更新：Waldo by Wherob",
+          "title_en": "Waldo by Wherobots",
+          "url": "https://www.producthunt.com/products/waldo-by-wherobots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/waldo-by-wherobots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The AI agent that accelerates engineering with",
+          "summary_zh": "The AI agent that accelerates engineering with",
+          "publishedAt": "2026-11-18T08:01:00Z",
+          "published_at": "2026-11-18T08:01:00Z",
+          "votes_count": 169,
+          "featured": true,
+          "topics": [
+            {
+              "id": "64",
+              "name": "Amazon",
+              "slug": "amazon"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "582",
+              "name": "Data & Analytics",
+              "slug": "data-analytics"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "dd09c1f8",
+          "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/510707.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/510707.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Sol逼近旗舰性能  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI OpenAI，你是真会玩王炸双发啊。 GPT-6.2 Astra和GPT-6.2 Sol，这次一起等来了！！！（欢呼.jpg）    不得不说，Astra各方面性能，这回一起卷起来了——  复杂Agent能力升级：Astra专业任务评测比前代提升5.2个百分点，任务成本降至三分之一以下。 科研能力刷新纪录：相关评测提升9个百分点，OpenAI直接称其为全球最强科学家模型。 编程能力再升级：在FrontierCode 2.0评测中拿下44.2%，较前代提升1.4个百分点。 3D生成登顶榜单：在Artificial Analysis的AA-3D评测中以1318 Elo拿下第一，超过Fable 5.2的1271分。  模型到底多能打，我们直接上才艺展示~    来看这个， Astra化身网页设计师，从布局到配图一手包办，还能为不同网站量身打造专属视觉风格：    再看这个，仅凭照片和手册，Astra就把遥控汽车连发动机都建模了，组装动画也一并搞定，有点厉害哈：    在AA-3D评测中，更是以1318 Elo登顶榜单",
+          "summary_zh": "Sol逼近旗舰性能  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI OpenAI，你是真会玩王炸双发啊。 GPT-6.2 Astra和GPT-6.2 Sol，这次一起等来了！！！（欢呼.jpg）    不得不说，Astra各方面性能，这回一起卷起来了——  复杂Agent能力升级：Astra专业任务评测比前代提升5.2个百分点，任务成本降至三分之一以下。 科研能力刷新纪录：相关评测提升9个百分点，OpenAI直接称其为全球最强科学家模型。 编程能力再升级：在FrontierCode 2.0评测中拿下44.2%，较前代提升1.4个百分点。 3D生成登顶榜单：在Artificial Analysis的AA-3D评测中以1318 Elo拿下第一，超过Fable 5.2的1271分。  模型到底多能打，我们直接上才艺展示~    来看这个， Astra化身网页设计师，从布局到配图一手包办，还能为不同网站量身打造专属视觉风格：    再看这个，仅凭照片和手册，Astra就把遥控汽车连发动机都建模了，组装动画也一并搞定，有点厉害哈：    在AA-3D评测中，更是以1318 Elo登顶榜单",
+          "publishedAt": "2026-11-18T00:49:14Z",
+          "published_at": "2026-11-18T00:49:14Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "79549c16",
+          "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/510726.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/510726.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "英伟达公布了老黄离职后的首份财报  2890万人围观，79.4万人点赞。 老黄，终于不再沉默，亲自回应了。 离开自己一手创办、执掌33年的英伟达仅仅5天，黄仁勋首次公开发声，明确表示： 只要董事会愿意，他就愿意重新担任英伟达CEO。  而这次发声的时间点，也相当微妙—— 因为就在5个小时后，英伟达公布了老黄离职后的首份财报。 单季营收1158亿美元，同比增长103%；净利润653亿美元，同比增长105%。 营收翻倍，利润翻倍，都是老黄任内打下的成绩。 估计老黄心想：这就是我应该回归的底气。（doge） 然而，充满戏剧性的一幕来了。 老黄这边刚刚表态愿意回归，董事会就在随后的财报电话会上明确回应： 不考虑让黄仁勋重新担任CEO，甚至连寻找新CEO的猎头公司都已经找好了。 啊这。。。 一场围绕英伟达CEO位置的拉扯，就这么摆到了台面上。 财报发布前5小时，老黄首次发声 仔细看老黄这篇声明，还挺有意思。 虽然外界最关心的是他能不能回来，但老黄并没有一上来就谈复职。 他先感谢了过去一周向自己表达支持的朋友、行业同事，甚至是素不相识的人。 随后，老黄慢慢把话题引向了英伟达。 尤其是谈到这家公司时",
+          "summary_zh": "英伟达公布了老黄离职后的首份财报  2890万人围观，79.4万人点赞。 老黄，终于不再沉默，亲自回应了。 离开自己一手创办、执掌33年的英伟达仅仅5天，黄仁勋首次公开发声，明确表示： 只要董事会愿意，他就愿意重新担任英伟达CEO。  而这次发声的时间点，也相当微妙—— 因为就在5个小时后，英伟达公布了老黄离职后的首份财报。 单季营收1158亿美元，同比增长103%；净利润653亿美元，同比增长105%。 营收翻倍，利润翻倍，都是老黄任内打下的成绩。 估计老黄心想：这就是我应该回归的底气。（doge） 然而，充满戏剧性的一幕来了。 老黄这边刚刚表态愿意回归，董事会就在随后的财报电话会上明确回应： 不考虑让黄仁勋重新担任CEO，甚至连寻找新CEO的猎头公司都已经找好了。 啊这。。。 一场围绕英伟达CEO位置的拉扯，就这么摆到了台面上。 财报发布前5小时，老黄首次发声 仔细看老黄这篇声明，还挺有意思。 虽然外界最关心的是他能不能回来，但老黄并没有一上来就谈复职。 他先感谢了过去一周向自己表达支持的朋友、行业同事，甚至是素不相识的人。 随后，老黄慢慢把话题引向了英伟达。 尤其是谈到这家公司时",
+          "publishedAt": "2026-11-18T01:03:42Z",
+          "published_at": "2026-11-18T01:03:42Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "fbda145e",
+          "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/510737.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/510737.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心   「校招生如果有自己的想法，能申请人力和算力资源吗？」「AI越来越能写代码，我们进去以后主要做什么？」「新人提的想法，Leader真的会听吗？」「AI时代下，该如何发展自己？」 好家伙，现在的应届生，提问务实，又直击核心！ 11月14日、15日，量子位在小红书北京办公室深潜了两个下午，感受了一场画风不太一样的技术校招。    这次，「薯厂」把校招宣讲会直接搬进办公区，办成了REDpath校招技术沙龙。 没有太多台上的枯燥介绍，这场沙龙把更多时间留给台下的AMA（Ask Me Anything）环节。 校招生们和未来可能共事的技术Leader坐下来，从技术方向、团队氛围，一直聊到绩效、个人发展。 为了这场线下交流，有学生专程从上海、南京、香港等地赶来，还有正在新加坡读书的应届生，连夜飞到了北京。 量子位粗略算下，那两天里，有接近200名应聘者到场交流。    学生们的问题一个比一个实在，技术Leader们也不藏着掖着。一位从新加坡赶来的应聘者告诉量子位：  相比线上面试，这种面对面的交流，能提前感受到未来团队真实的工作氛围。挺棒的！",
+          "summary_zh": "小红书校招沙龙，一群技术高手认真对待年轻人的野心   「校招生如果有自己的想法，能申请人力和算力资源吗？」「AI越来越能写代码，我们进去以后主要做什么？」「新人提的想法，Leader真的会听吗？」「AI时代下，该如何发展自己？」 好家伙，现在的应届生，提问务实，又直击核心！ 11月14日、15日，量子位在小红书北京办公室深潜了两个下午，感受了一场画风不太一样的技术校招。    这次，「薯厂」把校招宣讲会直接搬进办公区，办成了REDpath校招技术沙龙。 没有太多台上的枯燥介绍，这场沙龙把更多时间留给台下的AMA（Ask Me Anything）环节。 校招生们和未来可能共事的技术Leader坐下来，从技术方向、团队氛围，一直聊到绩效、个人发展。 为了这场线下交流，有学生专程从上海、南京、香港等地赶来，还有正在新加坡读书的应届生，连夜飞到了北京。 量子位粗略算下，那两天里，有接近200名应聘者到场交流。    学生们的问题一个比一个实在，技术Leader们也不藏着掖着。一位从新加坡赶来的应聘者告诉量子位：  相比线上面试，这种面对面的交流，能提前感受到未来团队真实的工作氛围。挺棒的！",
+          "publishedAt": "2026-11-18T02:49:23Z",
+          "published_at": "2026-11-18T02:49:23Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "aa23083f",
+          "title": "狂揽50亿美元，Isomorphic",
+          "title_en": "狂揽50亿美元，Isomorphic Labs要把AI制药推向临床验证",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "狂揽50亿美元，Isomorphic Labs要把AI制药推向临床验证",
+          "summary_zh": "狂揽50亿美元，Isomorphic Labs要把AI制药推向临床验证",
+          "publishedAt": "2026-11-18T17:25:14Z",
+          "published_at": "2026-11-18T17:25:14Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "b38991f2",
+      "title": "产品更新：S.Space",
+      "title_en": "S.Space",
+      "url": "https://www.producthunt.com/products/s-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/s-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your team and everyone's AI agents, in one wor",
+      "summary_zh": "Your team and everyone's AI agents, in one wor",
+      "publishedAt": "2026-11-18T08:01:00Z",
+      "published_at": "2026-11-18T08:01:00Z",
+      "votes_count": 253,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "ed80559e",
+      "title": "产品更新：Bluedot Phone C",
+      "title_en": "Bluedot Phone Calls",
+      "url": "https://www.producthunt.com/products/bluedot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/bluedot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI note taker for phone calls Bluedot now cove",
+      "summary_zh": "AI note taker for phone calls Bluedot now cove",
+      "publishedAt": "2026-11-18T08:01:00Z",
+      "published_at": "2026-11-18T08:01:00Z",
+      "votes_count": 232,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "24ef6ee5",
+      "title": "产品更新：Toone",
+      "title_en": "Toone",
+      "url": "https://www.producthunt.com/products/toone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/toone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Grokbot meets n8n/zapier Toone: Grokbot meets",
+      "summary_zh": "Grokbot meets n8n/zapier Toone: Grokbot meets",
+      "publishedAt": "2026-11-18T08:01:00Z",
+      "published_at": "2026-11-18T08:01:00Z",
+      "votes_count": 185,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "52d4af41",
+      "title": "产品更新：Waldo by Wherob",
+      "title_en": "Waldo by Wherobots",
+      "url": "https://www.producthunt.com/products/waldo-by-wherobots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/waldo-by-wherobots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI agent that accelerates engineering with",
+      "summary_zh": "The AI agent that accelerates engineering with",
+      "publishedAt": "2026-11-18T08:01:00Z",
+      "published_at": "2026-11-18T08:01:00Z",
+      "votes_count": 169,
+      "featured": true,
+      "topics": [
+        {
+          "id": "64",
+          "name": "Amazon",
+          "slug": "amazon"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "582",
+          "name": "Data & Analytics",
+          "slug": "data-analytics"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "dd09c1f8",
+      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/510707.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510707.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Sol逼近旗舰性能  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI OpenAI，你是真会玩王炸双发啊。 GPT-6.2 Astra和GPT-6.2 Sol，这次一起等来了！！！（欢呼.jpg）    不得不说，Astra各方面性能，这回一起卷起来了——  复杂Agent能力升级：Astra专业任务评测比前代提升5.2个百分点，任务成本降至三分之一以下。 科研能力刷新纪录：相关评测提升9个百分点，OpenAI直接称其为全球最强科学家模型。 编程能力再升级：在FrontierCode 2.0评测中拿下44.2%，较前代提升1.4个百分点。 3D生成登顶榜单：在Artificial Analysis的AA-3D评测中以1318 Elo拿下第一，超过Fable 5.2的1271分。  模型到底多能打，我们直接上才艺展示~    来看这个， Astra化身网页设计师，从布局到配图一手包办，还能为不同网站量身打造专属视觉风格：    再看这个，仅凭照片和手册，Astra就把遥控汽车连发动机都建模了，组装动画也一并搞定，有点厉害哈：    在AA-3D评测中，更是以1318 Elo登顶榜单",
+      "summary_zh": "Sol逼近旗舰性能  梦瑶 发自 凹非寺 量子位 | 公众号 QbitAI OpenAI，你是真会玩王炸双发啊。 GPT-6.2 Astra和GPT-6.2 Sol，这次一起等来了！！！（欢呼.jpg）    不得不说，Astra各方面性能，这回一起卷起来了——  复杂Agent能力升级：Astra专业任务评测比前代提升5.2个百分点，任务成本降至三分之一以下。 科研能力刷新纪录：相关评测提升9个百分点，OpenAI直接称其为全球最强科学家模型。 编程能力再升级：在FrontierCode 2.0评测中拿下44.2%，较前代提升1.4个百分点。 3D生成登顶榜单：在Artificial Analysis的AA-3D评测中以1318 Elo拿下第一，超过Fable 5.2的1271分。  模型到底多能打，我们直接上才艺展示~    来看这个， Astra化身网页设计师，从布局到配图一手包办，还能为不同网站量身打造专属视觉风格：    再看这个，仅凭照片和手册，Astra就把遥控汽车连发动机都建模了，组装动画也一并搞定，有点厉害哈：    在AA-3D评测中，更是以1318 Elo登顶榜单",
+      "publishedAt": "2026-11-18T00:49:14Z",
+      "published_at": "2026-11-18T00:49:14Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "79549c16",
+      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/510726.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510726.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "英伟达公布了老黄离职后的首份财报  2890万人围观，79.4万人点赞。 老黄，终于不再沉默，亲自回应了。 离开自己一手创办、执掌33年的英伟达仅仅5天，黄仁勋首次公开发声，明确表示： 只要董事会愿意，他就愿意重新担任英伟达CEO。  而这次发声的时间点，也相当微妙—— 因为就在5个小时后，英伟达公布了老黄离职后的首份财报。 单季营收1158亿美元，同比增长103%；净利润653亿美元，同比增长105%。 营收翻倍，利润翻倍，都是老黄任内打下的成绩。 估计老黄心想：这就是我应该回归的底气。（doge） 然而，充满戏剧性的一幕来了。 老黄这边刚刚表态愿意回归，董事会就在随后的财报电话会上明确回应： 不考虑让黄仁勋重新担任CEO，甚至连寻找新CEO的猎头公司都已经找好了。 啊这。。。 一场围绕英伟达CEO位置的拉扯，就这么摆到了台面上。 财报发布前5小时，老黄首次发声 仔细看老黄这篇声明，还挺有意思。 虽然外界最关心的是他能不能回来，但老黄并没有一上来就谈复职。 他先感谢了过去一周向自己表达支持的朋友、行业同事，甚至是素不相识的人。 随后，老黄慢慢把话题引向了英伟达。 尤其是谈到这家公司时",
+      "summary_zh": "英伟达公布了老黄离职后的首份财报  2890万人围观，79.4万人点赞。 老黄，终于不再沉默，亲自回应了。 离开自己一手创办、执掌33年的英伟达仅仅5天，黄仁勋首次公开发声，明确表示： 只要董事会愿意，他就愿意重新担任英伟达CEO。  而这次发声的时间点，也相当微妙—— 因为就在5个小时后，英伟达公布了老黄离职后的首份财报。 单季营收1158亿美元，同比增长103%；净利润653亿美元，同比增长105%。 营收翻倍，利润翻倍，都是老黄任内打下的成绩。 估计老黄心想：这就是我应该回归的底气。（doge） 然而，充满戏剧性的一幕来了。 老黄这边刚刚表态愿意回归，董事会就在随后的财报电话会上明确回应： 不考虑让黄仁勋重新担任CEO，甚至连寻找新CEO的猎头公司都已经找好了。 啊这。。。 一场围绕英伟达CEO位置的拉扯，就这么摆到了台面上。 财报发布前5小时，老黄首次发声 仔细看老黄这篇声明，还挺有意思。 虽然外界最关心的是他能不能回来，但老黄并没有一上来就谈复职。 他先感谢了过去一周向自己表达支持的朋友、行业同事，甚至是素不相识的人。 随后，老黄慢慢把话题引向了英伟达。 尤其是谈到这家公司时",
+      "publishedAt": "2026-11-18T01:03:42Z",
+      "published_at": "2026-11-18T01:03:42Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "fbda145e",
+      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/510737.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510737.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心   「校招生如果有自己的想法，能申请人力和算力资源吗？」「AI越来越能写代码，我们进去以后主要做什么？」「新人提的想法，Leader真的会听吗？」「AI时代下，该如何发展自己？」 好家伙，现在的应届生，提问务实，又直击核心！ 11月14日、15日，量子位在小红书北京办公室深潜了两个下午，感受了一场画风不太一样的技术校招。    这次，「薯厂」把校招宣讲会直接搬进办公区，办成了REDpath校招技术沙龙。 没有太多台上的枯燥介绍，这场沙龙把更多时间留给台下的AMA（Ask Me Anything）环节。 校招生们和未来可能共事的技术Leader坐下来，从技术方向、团队氛围，一直聊到绩效、个人发展。 为了这场线下交流，有学生专程从上海、南京、香港等地赶来，还有正在新加坡读书的应届生，连夜飞到了北京。 量子位粗略算下，那两天里，有接近200名应聘者到场交流。    学生们的问题一个比一个实在，技术Leader们也不藏着掖着。一位从新加坡赶来的应聘者告诉量子位：  相比线上面试，这种面对面的交流，能提前感受到未来团队真实的工作氛围。挺棒的！",
+      "summary_zh": "小红书校招沙龙，一群技术高手认真对待年轻人的野心   「校招生如果有自己的想法，能申请人力和算力资源吗？」「AI越来越能写代码，我们进去以后主要做什么？」「新人提的想法，Leader真的会听吗？」「AI时代下，该如何发展自己？」 好家伙，现在的应届生，提问务实，又直击核心！ 11月14日、15日，量子位在小红书北京办公室深潜了两个下午，感受了一场画风不太一样的技术校招。    这次，「薯厂」把校招宣讲会直接搬进办公区，办成了REDpath校招技术沙龙。 没有太多台上的枯燥介绍，这场沙龙把更多时间留给台下的AMA（Ask Me Anything）环节。 校招生们和未来可能共事的技术Leader坐下来，从技术方向、团队氛围，一直聊到绩效、个人发展。 为了这场线下交流，有学生专程从上海、南京、香港等地赶来，还有正在新加坡读书的应届生，连夜飞到了北京。 量子位粗略算下，那两天里，有接近200名应聘者到场交流。    学生们的问题一个比一个实在，技术Leader们也不藏着掖着。一位从新加坡赶来的应聘者告诉量子位：  相比线上面试，这种面对面的交流，能提前感受到未来团队真实的工作氛围。挺棒的！",
+      "publishedAt": "2026-11-18T02:49:23Z",
+      "published_at": "2026-11-18T02:49:23Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "aa23083f",
+      "title": "狂揽50亿美元，Isomorphic",
+      "title_en": "狂揽50亿美元，Isomorphic Labs要把AI制药推向临床验证",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "狂揽50亿美元，Isomorphic Labs要把AI制药推向临床验证",
+      "summary_zh": "狂揽50亿美元，Isomorphic Labs要把AI制药推向临床验证",
+      "publishedAt": "2026-11-18T17:25:14Z",
+      "published_at": "2026-11-18T17:25:14Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
