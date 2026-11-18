@@ -1,7 +1,7 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-17T17:44:43Z",
-  "generatedAt": "2026-11-17T17:44:43Z",
+  "generated_at": "2026-11-18T02:28:58Z",
+  "generatedAt": "2026-11-18T02:28:58Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -26,7 +26,7 @@
           "summary_zh": "Context layer for AI coding agents to detect &",
           "publishedAt": "2026-11-17T08:00:00Z",
           "published_at": "2026-11-17T08:00:00Z",
-          "votes_count": 205,
+          "votes_count": 234,
           "featured": true,
           "topics": [
             {
@@ -64,7 +64,7 @@
           "summary_zh": "Pay-as-you-go SEO and AI Search execution laye",
           "publishedAt": "2026-11-17T08:01:00Z",
           "published_at": "2026-11-17T08:01:00Z",
-          "votes_count": 289,
+          "votes_count": 356,
           "featured": true,
           "topics": [
             {
@@ -86,44 +86,6 @@
           "score_details": null
         },
         {
-          "id": "43a2d600",
-          "title": "产品更新：Creatify Max",
-          "title_en": "Creatify Max",
-          "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "source": "Product Hunt AI",
-          "source_type": null,
-          "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-          "category": "ai-products",
-          "score": 7,
-          "rank_score": 8.0,
-          "rankingScore": 8.0,
-          "summary": "Your ad teammate, from strategy to creation to",
-          "summary_zh": "Your ad teammate, from strategy to creation to",
-          "publishedAt": "2026-11-17T08:01:00Z",
-          "published_at": "2026-11-17T08:01:00Z",
-          "votes_count": 258,
-          "featured": true,
-          "topics": [
-            {
-              "id": "104",
-              "name": "Social Media",
-              "slug": "social-media"
-            },
-            {
-              "id": "164",
-              "name": "Marketing",
-              "slug": "marketing"
-            },
-            {
-              "id": "207",
-              "name": "Advertising",
-              "slug": "advertising"
-            }
-          ],
-          "score_details": null
-        },
-        {
           "id": "1de54660",
           "title": "产品更新：TheBold",
           "title_en": "TheBold",
@@ -140,7 +102,7 @@
           "summary_zh": "Turn execution into meetings with investors Th",
           "publishedAt": "2026-11-17T08:01:00Z",
           "published_at": "2026-11-17T08:01:00Z",
-          "votes_count": 247,
+          "votes_count": 336,
           "featured": true,
           "topics": [
             {
@@ -160,6 +122,44 @@
             }
           ],
           "score_details": null
+        },
+        {
+          "id": "43a2d600",
+          "title": "产品更新：Creatify Max",
+          "title_en": "Creatify Max",
+          "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Your ad teammate, from strategy to creation to",
+          "summary_zh": "Your ad teammate, from strategy to creation to",
+          "publishedAt": "2026-11-17T08:01:00Z",
+          "published_at": "2026-11-17T08:01:00Z",
+          "votes_count": 328,
+          "featured": true,
+          "topics": [
+            {
+              "id": "104",
+              "name": "Social Media",
+              "slug": "social-media"
+            },
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            }
+          ],
+          "score_details": null
         }
       ]
     },
@@ -167,28 +167,6 @@
       "category": "cn-media",
       "label": "中文媒体精选",
       "items": [
-        {
-          "id": "78be7696",
-          "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
-          "title_en": null,
-          "url": "https://www.qbitai.com/2026/11/510561.html",
-          "source": "量子位",
-          "source_type": null,
-          "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/11/510561.html",
-          "category": "cn-media",
-          "score": 5,
-          "rank_score": 5.0,
-          "rankingScore": 5.0,
-          "summary": "强化学习环境（RL Envs）正在成为一门新生意。 随着大模型走向工具调用、软件操作和多步骤任务，模型训练的方式也在发生变化。模型不再只是从已有的数据和答案中学习，还需要进入具体任务，执行动作、观察结果，再根据反馈不断调整策略。 对模型团队来说，算法决定模型如何学习，而环境决定模型能够练习什么、可以尝试多少次，以及如何判断一次尝试是否有效。能否找到足够多、足够真实、结果可判定的任务，正在成为后训练的一部分重要工作。 这块需求有多热，市场已经给出答案。Mercor、Surge AI、Handshake……过去一年，围绕大模型训练和后训练，一批新公司和新业务迅速进入硅谷视野。 11月10日，Mercor宣布完成7.5亿美元D轮融资，估值200亿美元。这家公司运营着超过500万人的专家网络，为前沿实验室和企业供应评测与后训练数据。今年早些时候，Mercor还收购了Deeptune——一支花费两年时间把数百个企业应用重建为训练环境的团队。 Surge AI则展示了任务环境与模型训练之间的联系。这家公司围绕文档、电子表格、网页调研、规划和工具调用等长程办公任务构建RL环境，并用Qwen3.5-1",
-          "summary_zh": "强化学习环境（RL Envs）正在成为一门新生意。 随着大模型走向工具调用、软件操作和多步骤任务，模型训练的方式也在发生变化。模型不再只是从已有的数据和答案中学习，还需要进入具体任务，执行动作、观察结果，再根据反馈不断调整策略。 对模型团队来说，算法决定模型如何学习，而环境决定模型能够练习什么、可以尝试多少次，以及如何判断一次尝试是否有效。能否找到足够多、足够真实、结果可判定的任务，正在成为后训练的一部分重要工作。 这块需求有多热，市场已经给出答案。Mercor、Surge AI、Handshake……过去一年，围绕大模型训练和后训练，一批新公司和新业务迅速进入硅谷视野。 11月10日，Mercor宣布完成7.5亿美元D轮融资，估值200亿美元。这家公司运营着超过500万人的专家网络，为前沿实验室和企业供应评测与后训练数据。今年早些时候，Mercor还收购了Deeptune——一支花费两年时间把数百个企业应用重建为训练环境的团队。 Surge AI则展示了任务环境与模型训练之间的联系。这家公司围绕文档、电子表格、网页调研、规划和工具调用等长程办公任务构建RL环境，并用Qwen3.5-1",
-          "publishedAt": "2026-11-17T02:03:22Z",
-          "published_at": "2026-11-17T02:03:22Z",
-          "votes_count": null,
-          "featured": null,
-          "topics": [],
-          "score_details": null
-        },
         {
           "id": "fcbfb63b",
           "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
@@ -234,9 +212,31 @@
           "score_details": null
         },
         {
-          "id": "2a16b40a",
-          "title": "最强GPT-6 Astra只对26.",
-          "title_en": "最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher Bench难住顶级AI",
+          "id": "826bb323",
+          "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/510652.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/510652.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "筛材料、找配方、开发新模型…拿下多项科研任务  大模型智能体已经能够检索文献、调用模拟软件，甚至与自动化实验室协同工作。但要让它们独立完成一项完整的材料研究，仍然面临挑战： 一项研究可能要从数千万个候选结构中逐级筛选，或在数百个合金配方中反复搜索，持续数天，并根据中间结果不断调整计划；每接入一个新的数据库或软件，往往要重新搭建流程；一项研究中积累的经验，也很难被其他研究复用。 为此，北京中关村学院、中关村人工智能研究院（中关村两院）于今年九月发布年度科研进展——MatOS，一个面向材料研发的科研智能体系统。 该项目由中关村两院AI材料研究所团队构建，将数据、知识、工具、技能、角色和工作流统一组织为科学资产，支持研究者和MatOS自身在已有资产之上构建新能力，通过有状态工作流执行研究任务，并将经过检查与审查的资产修订用于后续研究，使科研能力在使用中持续进化。 目前，MatOS的资产库已包含3,135个数据集、386项技能、104个工作流和51个专家角色，并集成48款材料计算软件；技术报告已在arXiv发布，代码已在GitHub开源。  在3项智能体基准和8个研究案例中，MatOS完成了从",
+          "summary_zh": "筛材料、找配方、开发新模型…拿下多项科研任务  大模型智能体已经能够检索文献、调用模拟软件，甚至与自动化实验室协同工作。但要让它们独立完成一项完整的材料研究，仍然面临挑战： 一项研究可能要从数千万个候选结构中逐级筛选，或在数百个合金配方中反复搜索，持续数天，并根据中间结果不断调整计划；每接入一个新的数据库或软件，往往要重新搭建流程；一项研究中积累的经验，也很难被其他研究复用。 为此，北京中关村学院、中关村人工智能研究院（中关村两院）于今年九月发布年度科研进展——MatOS，一个面向材料研发的科研智能体系统。 该项目由中关村两院AI材料研究所团队构建，将数据、知识、工具、技能、角色和工作流统一组织为科学资产，支持研究者和MatOS自身在已有资产之上构建新能力，通过有状态工作流执行研究任务，并将经过检查与审查的资产修订用于后续研究，使科研能力在使用中持续进化。 目前，MatOS的资产库已包含3,135个数据集、386项技能、104个工作流和51个专家角色，并集成48款材料计算软件；技术报告已在arXiv发布，代码已在GitHub开源。  在3项智能体基准和8个研究案例中，MatOS完成了从",
+          "publishedAt": "2026-11-17T06:09:40Z",
+          "published_at": "2026-11-17T06:09:40Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "9aa28718",
+          "title": "Anthropic刚买下「一人药企」",
+          "title_en": "Anthropic刚买下「一人药企」，MSRA医学博士创业，让一个人带着Agent做临床",
           "url": "https://www.jiqizhixin.com/articles",
           "source": "机器之心",
           "source_type": null,
@@ -246,10 +246,10 @@
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher",
-          "summary_zh": "最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher",
-          "publishedAt": "2026-11-17T17:44:08Z",
-          "published_at": "2026-11-17T17:44:08Z",
+          "summary": "Anthropic刚买下「一人药企」，MSRA医学博士创业，让一个人带着Agent做临床",
+          "summary_zh": "Anthropic刚买下「一人药企」，MSRA医学博士创业，让一个人带着Agent做临床",
+          "publishedAt": "2026-11-18T02:28:23Z",
+          "published_at": "2026-11-18T02:28:23Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -276,7 +276,7 @@
       "summary_zh": "Context layer for AI coding agents to detect &",
       "publishedAt": "2026-11-17T08:00:00Z",
       "published_at": "2026-11-17T08:00:00Z",
-      "votes_count": 205,
+      "votes_count": 234,
       "featured": true,
       "topics": [
         {
@@ -314,7 +314,7 @@
       "summary_zh": "Pay-as-you-go SEO and AI Search execution laye",
       "publishedAt": "2026-11-17T08:01:00Z",
       "published_at": "2026-11-17T08:01:00Z",
-      "votes_count": 289,
+      "votes_count": 356,
       "featured": true,
       "topics": [
         {
@@ -336,44 +336,6 @@
       "score_details": null
     },
     {
-      "id": "43a2d600",
-      "title": "产品更新：Creatify Max",
-      "title_en": "Creatify Max",
-      "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "source": "Product Hunt AI",
-      "source_type": null,
-      "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
-      "category": "ai-products",
-      "score": 7,
-      "rank_score": 8.0,
-      "rankingScore": 8.0,
-      "summary": "Your ad teammate, from strategy to creation to",
-      "summary_zh": "Your ad teammate, from strategy to creation to",
-      "publishedAt": "2026-11-17T08:01:00Z",
-      "published_at": "2026-11-17T08:01:00Z",
-      "votes_count": 258,
-      "featured": true,
-      "topics": [
-        {
-          "id": "104",
-          "name": "Social Media",
-          "slug": "social-media"
-        },
-        {
-          "id": "164",
-          "name": "Marketing",
-          "slug": "marketing"
-        },
-        {
-          "id": "207",
-          "name": "Advertising",
-          "slug": "advertising"
-        }
-      ],
-      "score_details": null
-    },
-    {
       "id": "1de54660",
       "title": "产品更新：TheBold",
       "title_en": "TheBold",
@@ -390,7 +352,7 @@
       "summary_zh": "Turn execution into meetings with investors Th",
       "publishedAt": "2026-11-17T08:01:00Z",
       "published_at": "2026-11-17T08:01:00Z",
-      "votes_count": 247,
+      "votes_count": 336,
       "featured": true,
       "topics": [
         {
@@ -412,25 +374,41 @@
       "score_details": null
     },
     {
-      "id": "78be7696",
-      "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/11/510561.html",
-      "source": "量子位",
+      "id": "43a2d600",
+      "title": "产品更新：Creatify Max",
+      "title_en": "Creatify Max",
+      "url": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/510561.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "强化学习环境（RL Envs）正在成为一门新生意。 随着大模型走向工具调用、软件操作和多步骤任务，模型训练的方式也在发生变化。模型不再只是从已有的数据和答案中学习，还需要进入具体任务，执行动作、观察结果，再根据反馈不断调整策略。 对模型团队来说，算法决定模型如何学习，而环境决定模型能够练习什么、可以尝试多少次，以及如何判断一次尝试是否有效。能否找到足够多、足够真实、结果可判定的任务，正在成为后训练的一部分重要工作。 这块需求有多热，市场已经给出答案。Mercor、Surge AI、Handshake……过去一年，围绕大模型训练和后训练，一批新公司和新业务迅速进入硅谷视野。 11月10日，Mercor宣布完成7.5亿美元D轮融资，估值200亿美元。这家公司运营着超过500万人的专家网络，为前沿实验室和企业供应评测与后训练数据。今年早些时候，Mercor还收购了Deeptune——一支花费两年时间把数百个企业应用重建为训练环境的团队。 Surge AI则展示了任务环境与模型训练之间的联系。这家公司围绕文档、电子表格、网页调研、规划和工具调用等长程办公任务构建RL环境，并用Qwen3.5-1",
-      "summary_zh": "强化学习环境（RL Envs）正在成为一门新生意。 随着大模型走向工具调用、软件操作和多步骤任务，模型训练的方式也在发生变化。模型不再只是从已有的数据和答案中学习，还需要进入具体任务，执行动作、观察结果，再根据反馈不断调整策略。 对模型团队来说，算法决定模型如何学习，而环境决定模型能够练习什么、可以尝试多少次，以及如何判断一次尝试是否有效。能否找到足够多、足够真实、结果可判定的任务，正在成为后训练的一部分重要工作。 这块需求有多热，市场已经给出答案。Mercor、Surge AI、Handshake……过去一年，围绕大模型训练和后训练，一批新公司和新业务迅速进入硅谷视野。 11月10日，Mercor宣布完成7.5亿美元D轮融资，估值200亿美元。这家公司运营着超过500万人的专家网络，为前沿实验室和企业供应评测与后训练数据。今年早些时候，Mercor还收购了Deeptune——一支花费两年时间把数百个企业应用重建为训练环境的团队。 Surge AI则展示了任务环境与模型训练之间的联系。这家公司围绕文档、电子表格、网页调研、规划和工具调用等长程办公任务构建RL环境，并用Qwen3.5-1",
-      "publishedAt": "2026-11-17T02:03:22Z",
-      "published_at": "2026-11-17T02:03:22Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/creatify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Your ad teammate, from strategy to creation to",
+      "summary_zh": "Your ad teammate, from strategy to creation to",
+      "publishedAt": "2026-11-17T08:01:00Z",
+      "published_at": "2026-11-17T08:01:00Z",
+      "votes_count": 328,
+      "featured": true,
+      "topics": [
+        {
+          "id": "104",
+          "name": "Social Media",
+          "slug": "social-media"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "207",
+          "name": "Advertising",
+          "slug": "advertising"
+        }
+      ],
       "score_details": null
     },
     {
@@ -478,9 +456,31 @@
       "score_details": null
     },
     {
-      "id": "2a16b40a",
-      "title": "最强GPT-6 Astra只对26.",
-      "title_en": "最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher Bench难住顶级AI",
+      "id": "826bb323",
+      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/510652.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/510652.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "筛材料、找配方、开发新模型…拿下多项科研任务  大模型智能体已经能够检索文献、调用模拟软件，甚至与自动化实验室协同工作。但要让它们独立完成一项完整的材料研究，仍然面临挑战： 一项研究可能要从数千万个候选结构中逐级筛选，或在数百个合金配方中反复搜索，持续数天，并根据中间结果不断调整计划；每接入一个新的数据库或软件，往往要重新搭建流程；一项研究中积累的经验，也很难被其他研究复用。 为此，北京中关村学院、中关村人工智能研究院（中关村两院）于今年九月发布年度科研进展——MatOS，一个面向材料研发的科研智能体系统。 该项目由中关村两院AI材料研究所团队构建，将数据、知识、工具、技能、角色和工作流统一组织为科学资产，支持研究者和MatOS自身在已有资产之上构建新能力，通过有状态工作流执行研究任务，并将经过检查与审查的资产修订用于后续研究，使科研能力在使用中持续进化。 目前，MatOS的资产库已包含3,135个数据集、386项技能、104个工作流和51个专家角色，并集成48款材料计算软件；技术报告已在arXiv发布，代码已在GitHub开源。  在3项智能体基准和8个研究案例中，MatOS完成了从",
+      "summary_zh": "筛材料、找配方、开发新模型…拿下多项科研任务  大模型智能体已经能够检索文献、调用模拟软件，甚至与自动化实验室协同工作。但要让它们独立完成一项完整的材料研究，仍然面临挑战： 一项研究可能要从数千万个候选结构中逐级筛选，或在数百个合金配方中反复搜索，持续数天，并根据中间结果不断调整计划；每接入一个新的数据库或软件，往往要重新搭建流程；一项研究中积累的经验，也很难被其他研究复用。 为此，北京中关村学院、中关村人工智能研究院（中关村两院）于今年九月发布年度科研进展——MatOS，一个面向材料研发的科研智能体系统。 该项目由中关村两院AI材料研究所团队构建，将数据、知识、工具、技能、角色和工作流统一组织为科学资产，支持研究者和MatOS自身在已有资产之上构建新能力，通过有状态工作流执行研究任务，并将经过检查与审查的资产修订用于后续研究，使科研能力在使用中持续进化。 目前，MatOS的资产库已包含3,135个数据集、386项技能、104个工作流和51个专家角色，并集成48款材料计算软件；技术报告已在arXiv发布，代码已在GitHub开源。  在3项智能体基准和8个研究案例中，MatOS完成了从",
+      "publishedAt": "2026-11-17T06:09:40Z",
+      "published_at": "2026-11-17T06:09:40Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "9aa28718",
+      "title": "Anthropic刚买下「一人药企」",
+      "title_en": "Anthropic刚买下「一人药企」，MSRA医学博士创业，让一个人带着Agent做临床",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -490,10 +490,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher",
-      "summary_zh": "最强GPT-6 Astra只对26.7%，Einsia AI发布的Visual Cipher",
-      "publishedAt": "2026-11-17T17:44:08Z",
-      "published_at": "2026-11-17T17:44:08Z",
+      "summary": "Anthropic刚买下「一人药企」，MSRA医学博士创业，让一个人带着Agent做临床",
+      "summary_zh": "Anthropic刚买下「一人药企」，MSRA医学博士创业，让一个人带着Agent做临床",
+      "publishedAt": "2026-11-18T02:28:23Z",
+      "published_at": "2026-11-18T02:28:23Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
