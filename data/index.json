@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-18T17:26:22Z",
-  "generatedAt": "2026-11-18T17:26:22Z",
+  "generated_at": "2026-11-19T01:55:37Z",
+  "generatedAt": "2026-11-19T01:55:37Z",
   "count": 191,
   "total": 191,
   "entries": [
     {
       "date": "2026-11-19",
-      "generated_at": "2026-11-18T17:26:22Z",
-      "generatedAt": "2026-11-18T17:26:22Z",
+      "generated_at": "2026-11-19T01:55:37Z",
+      "generatedAt": "2026-11-19T01:55:37Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
@@ -28,7 +28,7 @@
           "summary_zh": "Your team and everyone's AI agents, in one wor",
           "publishedAt": "2026-11-18T08:01:00Z",
           "published_at": "2026-11-18T08:01:00Z",
-          "votes_count": 253,
+          "votes_count": 314,
           "featured": true,
           "topics": [
             {
@@ -66,7 +66,7 @@
           "summary_zh": "AI note taker for phone calls Bluedot now cove",
           "publishedAt": "2026-11-18T08:01:00Z",
           "published_at": "2026-11-18T08:01:00Z",
-          "votes_count": 232,
+          "votes_count": 276,
           "featured": true,
           "topics": [
             {
@@ -104,7 +104,7 @@
           "summary_zh": "Grokbot meets n8n/zapier Toone: Grokbot meets",
           "publishedAt": "2026-11-18T08:01:00Z",
           "published_at": "2026-11-18T08:01:00Z",
-          "votes_count": 185,
+          "votes_count": 233,
           "featured": true,
           "topics": [
             {
