@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-19T17:31:58Z",
-  "generatedAt": "2026-11-19T17:31:58Z",
+  "generated_at": "2026-11-20T01:48:56Z",
+  "generatedAt": "2026-11-20T01:48:56Z",
   "count": 192,
   "total": 192,
   "entries": [
     {
       "date": "2026-11-20",
-      "generated_at": "2026-11-19T17:31:58Z",
-      "generatedAt": "2026-11-19T17:31:58Z",
+      "generated_at": "2026-11-20T01:48:56Z",
+      "generatedAt": "2026-11-20T01:48:56Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
@@ -28,7 +28,7 @@
           "summary_zh": "Fix one thing, break another? This agent check",
           "publishedAt": "2026-11-19T08:01:00Z",
           "published_at": "2026-11-19T08:01:00Z",
-          "votes_count": 244,
+          "votes_count": 283,
           "featured": true,
           "topics": [
             {
@@ -71,7 +71,7 @@
           "summary_zh": "Blender, Unity or Unreal to a live 3D link in",
           "publishedAt": "2026-11-19T08:01:00Z",
           "published_at": "2026-11-19T08:01:00Z",
-          "votes_count": 221,
+          "votes_count": 249,
           "featured": true,
           "topics": [
             {
@@ -109,7 +109,7 @@
           "summary_zh": "Run WebSockets, multiplayer apps, and long-run",
           "publishedAt": "2026-11-19T08:01:00Z",
           "published_at": "2026-11-19T08:01:00Z",
-          "votes_count": 193,
+          "votes_count": 237,
           "featured": true,
           "topics": [
             {
