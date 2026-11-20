@@ -1,0 +1,503 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-20T17:05:57Z",
+  "generatedAt": "2026-11-20T17:05:57Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "f4ba8521",
+          "title": "产品更新：Tripmojo",
+          "title_en": "Tripmojo",
+          "url": "https://www.producthunt.com/products/tripmojo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/tripmojo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Agentic travel app that helps plan, book and r",
+          "summary_zh": "Agentic travel app that helps plan, book and r",
+          "publishedAt": "2026-11-20T08:00:00Z",
+          "published_at": "2026-11-20T08:00:00Z",
+          "votes_count": 187,
+          "featured": true,
+          "topics": [
+            {
+              "id": "250",
+              "name": "Travel",
+              "slug": "travel"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2768420b",
+          "title": "产品更新：Docker",
+          "title_en": "Docker",
+          "url": "https://www.producthunt.com/products/docker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/docker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Built to run on trust, for the agentic era Doc",
+          "summary_zh": "Built to run on trust, for the agentic era Doc",
+          "publishedAt": "2026-11-20T08:00:00Z",
+          "published_at": "2026-11-20T08:00:00Z",
+          "votes_count": 152,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5dc319e7",
+          "title": "产品更新：Bookella",
+          "title_en": "Bookella",
+          "url": "https://www.producthunt.com/products/bookella?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/bookella?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A reading tracker that helps you read more Boo",
+          "summary_zh": "A reading tracker that helps you read more Boo",
+          "publishedAt": "2026-11-20T08:00:00Z",
+          "published_at": "2026-11-20T08:00:00Z",
+          "votes_count": 139,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "8",
+              "name": "iOS",
+              "slug": "ios"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "354",
+              "name": "Books",
+              "slug": "books"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "09b81a68",
+          "title": "产品更新：Saparo",
+          "title_en": "Saparo",
+          "url": "https://www.producthunt.com/products/saparo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/saparo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Muse for shopping with deals stacks Saparo is",
+          "summary_zh": "Muse for shopping with deals stacks Saparo is",
+          "publishedAt": "2026-11-20T08:01:00Z",
+          "published_at": "2026-11-20T08:01:00Z",
+          "votes_count": 233,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "15bb4616",
+          "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/511426.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/511426.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。  机器人在实验室里把活儿干成了，到了工厂，还能天天这么干吗？换台机器人，之前练出来的本事又能剩下多少？ 光把模型训得聪明还不够，背后的算力、仿真、真机适配，都得跟上。 11月16日，华为云发布了昇腾原生具身世界模型CloudRobo-WM1.2。 从仿真训练到适配不同机器人，这个模型背后，牵出的是一整套具身智能工程难题。 两天后，华为云在上海办了场「行业AI梦工厂·具身智能高层论坛」，把这些隐秘的幕后工程，搬到了台前。    从面向Agentic计算的算力基础设施，到一站式具身智能开发平台CloudRobo，再到机器人自适应智能、高空带电作业等产业实践，机器人从实验室走向真实现场，要过哪些关，这场论坛基本聊了个遍。 现场还签了份备忘录。华为云和福建小状智能准备把CloudRobo和昇腾算力用到高校实训里，让学生上手做机器人开发。    模型发布、产业实践、高校实训，看着是几件不同的事儿，背后有一个共识：具身智能研发，有些事没必要每家公司都从头做一遍。 华为云的思路，是先把算力、存储",
+          "summary_zh": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。  机器人在实验室里把活儿干成了，到了工厂，还能天天这么干吗？换台机器人，之前练出来的本事又能剩下多少？ 光把模型训得聪明还不够，背后的算力、仿真、真机适配，都得跟上。 11月16日，华为云发布了昇腾原生具身世界模型CloudRobo-WM1.2。 从仿真训练到适配不同机器人，这个模型背后，牵出的是一整套具身智能工程难题。 两天后，华为云在上海办了场「行业AI梦工厂·具身智能高层论坛」，把这些隐秘的幕后工程，搬到了台前。    从面向Agentic计算的算力基础设施，到一站式具身智能开发平台CloudRobo，再到机器人自适应智能、高空带电作业等产业实践，机器人从实验室走向真实现场，要过哪些关，这场论坛基本聊了个遍。 现场还签了份备忘录。华为云和福建小状智能准备把CloudRobo和昇腾算力用到高校实训里，让学生上手做机器人开发。    模型发布、产业实践、高校实训，看着是几件不同的事儿，背后有一个共识：具身智能研发，有些事没必要每家公司都从头做一遍。 华为云的思路，是先把算力、存储",
+          "publishedAt": "2026-11-20T01:07:38Z",
+          "published_at": "2026-11-20T01:07:38Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f3aa1603",
+          "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/511582.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/511582.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "已开源Agnes Harness  一水 发自 凹非寺 量子位 | 公众号QbitAI 过去做一套企业软件，开发可能要花90块，给每家客户适配只要10块。软件做一次、卖给很多家，前面那90块就能被一点点摊薄。这是传统软件公司的生意逻辑。AI把这个公式改了。现在开发只要1块，适配还是10块。 谁懂，独立FDE（前沿部署工程师）、斯坦福在读博士Zaniel此前跟量子位交流时算的这笔账，几乎把今天Agent落地最扎心的现实说透了。 开发成本从90块跳水到1块，最难啃的那10块，却还杵在原地纹丝不动。 为啥？ 因为企业适配这事儿，归根结底就是让AI把每个客户的业务流程、工具系统和现场设备重新认一遍。 偏偏现在不少Agent，本质上还是被关在浏览器和终端里的「赛博临时工」。 写代码时天花乱坠，Benchmark分数一个赛一个漂亮。 可真让它走出屏幕，去指挥车间里的传送带、读取工业称重台的读数，或者操作机械臂完成一次精密装配，画风立马就变了。 抱意思，这个我之前没见过，你得重新教我。  经典老番之「上岗了才有工作经验」，我懂，那就仔细教呗。 结果好不容易教会了，转头它又给你来一出「鱼的记忆」——",
+          "summary_zh": "已开源Agnes Harness  一水 发自 凹非寺 量子位 | 公众号QbitAI 过去做一套企业软件，开发可能要花90块，给每家客户适配只要10块。软件做一次、卖给很多家，前面那90块就能被一点点摊薄。这是传统软件公司的生意逻辑。AI把这个公式改了。现在开发只要1块，适配还是10块。 谁懂，独立FDE（前沿部署工程师）、斯坦福在读博士Zaniel此前跟量子位交流时算的这笔账，几乎把今天Agent落地最扎心的现实说透了。 开发成本从90块跳水到1块，最难啃的那10块，却还杵在原地纹丝不动。 为啥？ 因为企业适配这事儿，归根结底就是让AI把每个客户的业务流程、工具系统和现场设备重新认一遍。 偏偏现在不少Agent，本质上还是被关在浏览器和终端里的「赛博临时工」。 写代码时天花乱坠，Benchmark分数一个赛一个漂亮。 可真让它走出屏幕，去指挥车间里的传送带、读取工业称重台的读数，或者操作机械臂完成一次精密装配，画风立马就变了。 抱意思，这个我之前没见过，你得重新教我。  经典老番之「上岗了才有工作经验」，我懂，那就仔细教呗。 结果好不容易教会了，转头它又给你来一出「鱼的记忆」——",
+          "publishedAt": "2026-11-20T05:24:11Z",
+          "published_at": "2026-11-20T05:24:11Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "998f2f78",
+          "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/511603.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/511603.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。  11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。本次大会以“智越虚实 万物共生”为主题，汇聚产业领袖、学术专家、跨界嘉宾、人工智能领域前沿探索者，围绕智能经济新周期、智能体规模落地、具身智能产业化等议题展开深度研讨，为AI时代的产业跃迁与普惠发展提供前瞻思考。大会同期，2026新浪新闻“探索之心35”评选结果揭晓，致敬AI浪潮中的先锋实践者。  聚焦智能经济新周期，共议产业大变局 当前，人工智能不再局限于屏幕内的对话工具，而是逐步进化为具备自主认知能力的智能体，并加速走出实验室、走向实体产业。微博COO、新浪移动CEO、微博技术委员会主席王巍在大会致辞中谈到：“从数据要素的价值重估，到人机协作带来的产业分工重组，智能技术早已超越效率工具的定位，正在成为驱动整体经济发展的全新核心引擎。” AI技术正在重构经济增长的底层逻辑，智能经济新周期的轮廓日渐清晰。如今，AI已经从产业“加分项”转变为企业竞争的“必选项”。在主题演讲环节，清华大学中国经济思想与实践研究院院长李稻葵，",
+          "summary_zh": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。  11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。本次大会以“智越虚实 万物共生”为主题，汇聚产业领袖、学术专家、跨界嘉宾、人工智能领域前沿探索者，围绕智能经济新周期、智能体规模落地、具身智能产业化等议题展开深度研讨，为AI时代的产业跃迁与普惠发展提供前瞻思考。大会同期，2026新浪新闻“探索之心35”评选结果揭晓，致敬AI浪潮中的先锋实践者。  聚焦智能经济新周期，共议产业大变局 当前，人工智能不再局限于屏幕内的对话工具，而是逐步进化为具备自主认知能力的智能体，并加速走出实验室、走向实体产业。微博COO、新浪移动CEO、微博技术委员会主席王巍在大会致辞中谈到：“从数据要素的价值重估，到人机协作带来的产业分工重组，智能技术早已超越效率工具的定位，正在成为驱动整体经济发展的全新核心引擎。” AI技术正在重构经济增长的底层逻辑，智能经济新周期的轮廓日渐清晰。如今，AI已经从产业“加分项”转变为企业竞争的“必选项”。在主题演讲环节，清华大学中国经济思想与实践研究院院长李稻葵，",
+          "publishedAt": "2026-11-20T06:16:06Z",
+          "published_at": "2026-11-20T06:16:06Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f702bde8",
+          "title": "当蛋白质设计有了自己的「Claude",
+          "title_en": "当蛋白质设计有了自己的「Claude Code」，AI Native生物科技公司开始交付「真实成果」",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "当蛋白质设计有了自己的「Claude Code」，AI Native生物科技公司开始交付「真",
+          "summary_zh": "当蛋白质设计有了自己的「Claude Code」，AI Native生物科技公司开始交付「真",
+          "publishedAt": "2026-11-20T17:05:14Z",
+          "published_at": "2026-11-20T17:05:14Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "f4ba8521",
+      "title": "产品更新：Tripmojo",
+      "title_en": "Tripmojo",
+      "url": "https://www.producthunt.com/products/tripmojo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/tripmojo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Agentic travel app that helps plan, book and r",
+      "summary_zh": "Agentic travel app that helps plan, book and r",
+      "publishedAt": "2026-11-20T08:00:00Z",
+      "published_at": "2026-11-20T08:00:00Z",
+      "votes_count": 187,
+      "featured": true,
+      "topics": [
+        {
+          "id": "250",
+          "name": "Travel",
+          "slug": "travel"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "2768420b",
+      "title": "产品更新：Docker",
+      "title_en": "Docker",
+      "url": "https://www.producthunt.com/products/docker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/docker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Built to run on trust, for the agentic era Doc",
+      "summary_zh": "Built to run on trust, for the agentic era Doc",
+      "publishedAt": "2026-11-20T08:00:00Z",
+      "published_at": "2026-11-20T08:00:00Z",
+      "votes_count": 152,
+      "featured": true,
+      "topics": [
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "865",
+          "name": "Security",
+          "slug": "security"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5dc319e7",
+      "title": "产品更新：Bookella",
+      "title_en": "Bookella",
+      "url": "https://www.producthunt.com/products/bookella?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/bookella?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A reading tracker that helps you read more Boo",
+      "summary_zh": "A reading tracker that helps you read more Boo",
+      "publishedAt": "2026-11-20T08:00:00Z",
+      "published_at": "2026-11-20T08:00:00Z",
+      "votes_count": 139,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "8",
+          "name": "iOS",
+          "slug": "ios"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "354",
+          "name": "Books",
+          "slug": "books"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "09b81a68",
+      "title": "产品更新：Saparo",
+      "title_en": "Saparo",
+      "url": "https://www.producthunt.com/products/saparo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/saparo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Muse for shopping with deals stacks Saparo is",
+      "summary_zh": "Muse for shopping with deals stacks Saparo is",
+      "publishedAt": "2026-11-20T08:01:00Z",
+      "published_at": "2026-11-20T08:01:00Z",
+      "votes_count": 233,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "278",
+          "name": "E-Commerce",
+          "slug": "e-commerce"
+        },
+        {
+          "id": "352",
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "15bb4616",
+      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/511426.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511426.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。  机器人在实验室里把活儿干成了，到了工厂，还能天天这么干吗？换台机器人，之前练出来的本事又能剩下多少？ 光把模型训得聪明还不够，背后的算力、仿真、真机适配，都得跟上。 11月16日，华为云发布了昇腾原生具身世界模型CloudRobo-WM1.2。 从仿真训练到适配不同机器人，这个模型背后，牵出的是一整套具身智能工程难题。 两天后，华为云在上海办了场「行业AI梦工厂·具身智能高层论坛」，把这些隐秘的幕后工程，搬到了台前。    从面向Agentic计算的算力基础设施，到一站式具身智能开发平台CloudRobo，再到机器人自适应智能、高空带电作业等产业实践，机器人从实验室走向真实现场，要过哪些关，这场论坛基本聊了个遍。 现场还签了份备忘录。华为云和福建小状智能准备把CloudRobo和昇腾算力用到高校实训里，让学生上手做机器人开发。    模型发布、产业实践、高校实训，看着是几件不同的事儿，背后有一个共识：具身智能研发，有些事没必要每家公司都从头做一遍。 华为云的思路，是先把算力、存储",
+      "summary_zh": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。  机器人在实验室里把活儿干成了，到了工厂，还能天天这么干吗？换台机器人，之前练出来的本事又能剩下多少？ 光把模型训得聪明还不够，背后的算力、仿真、真机适配，都得跟上。 11月16日，华为云发布了昇腾原生具身世界模型CloudRobo-WM1.2。 从仿真训练到适配不同机器人，这个模型背后，牵出的是一整套具身智能工程难题。 两天后，华为云在上海办了场「行业AI梦工厂·具身智能高层论坛」，把这些隐秘的幕后工程，搬到了台前。    从面向Agentic计算的算力基础设施，到一站式具身智能开发平台CloudRobo，再到机器人自适应智能、高空带电作业等产业实践，机器人从实验室走向真实现场，要过哪些关，这场论坛基本聊了个遍。 现场还签了份备忘录。华为云和福建小状智能准备把CloudRobo和昇腾算力用到高校实训里，让学生上手做机器人开发。    模型发布、产业实践、高校实训，看着是几件不同的事儿，背后有一个共识：具身智能研发，有些事没必要每家公司都从头做一遍。 华为云的思路，是先把算力、存储",
+      "publishedAt": "2026-11-20T01:07:38Z",
+      "published_at": "2026-11-20T01:07:38Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f3aa1603",
+      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/511582.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511582.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "已开源Agnes Harness  一水 发自 凹非寺 量子位 | 公众号QbitAI 过去做一套企业软件，开发可能要花90块，给每家客户适配只要10块。软件做一次、卖给很多家，前面那90块就能被一点点摊薄。这是传统软件公司的生意逻辑。AI把这个公式改了。现在开发只要1块，适配还是10块。 谁懂，独立FDE（前沿部署工程师）、斯坦福在读博士Zaniel此前跟量子位交流时算的这笔账，几乎把今天Agent落地最扎心的现实说透了。 开发成本从90块跳水到1块，最难啃的那10块，却还杵在原地纹丝不动。 为啥？ 因为企业适配这事儿，归根结底就是让AI把每个客户的业务流程、工具系统和现场设备重新认一遍。 偏偏现在不少Agent，本质上还是被关在浏览器和终端里的「赛博临时工」。 写代码时天花乱坠，Benchmark分数一个赛一个漂亮。 可真让它走出屏幕，去指挥车间里的传送带、读取工业称重台的读数，或者操作机械臂完成一次精密装配，画风立马就变了。 抱意思，这个我之前没见过，你得重新教我。  经典老番之「上岗了才有工作经验」，我懂，那就仔细教呗。 结果好不容易教会了，转头它又给你来一出「鱼的记忆」——",
+      "summary_zh": "已开源Agnes Harness  一水 发自 凹非寺 量子位 | 公众号QbitAI 过去做一套企业软件，开发可能要花90块，给每家客户适配只要10块。软件做一次、卖给很多家，前面那90块就能被一点点摊薄。这是传统软件公司的生意逻辑。AI把这个公式改了。现在开发只要1块，适配还是10块。 谁懂，独立FDE（前沿部署工程师）、斯坦福在读博士Zaniel此前跟量子位交流时算的这笔账，几乎把今天Agent落地最扎心的现实说透了。 开发成本从90块跳水到1块，最难啃的那10块，却还杵在原地纹丝不动。 为啥？ 因为企业适配这事儿，归根结底就是让AI把每个客户的业务流程、工具系统和现场设备重新认一遍。 偏偏现在不少Agent，本质上还是被关在浏览器和终端里的「赛博临时工」。 写代码时天花乱坠，Benchmark分数一个赛一个漂亮。 可真让它走出屏幕，去指挥车间里的传送带、读取工业称重台的读数，或者操作机械臂完成一次精密装配，画风立马就变了。 抱意思，这个我之前没见过，你得重新教我。  经典老番之「上岗了才有工作经验」，我懂，那就仔细教呗。 结果好不容易教会了，转头它又给你来一出「鱼的记忆」——",
+      "publishedAt": "2026-11-20T05:24:11Z",
+      "published_at": "2026-11-20T05:24:11Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "998f2f78",
+      "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/511603.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511603.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。  11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。本次大会以“智越虚实 万物共生”为主题，汇聚产业领袖、学术专家、跨界嘉宾、人工智能领域前沿探索者，围绕智能经济新周期、智能体规模落地、具身智能产业化等议题展开深度研讨，为AI时代的产业跃迁与普惠发展提供前瞻思考。大会同期，2026新浪新闻“探索之心35”评选结果揭晓，致敬AI浪潮中的先锋实践者。  聚焦智能经济新周期，共议产业大变局 当前，人工智能不再局限于屏幕内的对话工具，而是逐步进化为具备自主认知能力的智能体，并加速走出实验室、走向实体产业。微博COO、新浪移动CEO、微博技术委员会主席王巍在大会致辞中谈到：“从数据要素的价值重估，到人机协作带来的产业分工重组，智能技术早已超越效率工具的定位，正在成为驱动整体经济发展的全新核心引擎。” AI技术正在重构经济增长的底层逻辑，智能经济新周期的轮廓日渐清晰。如今，AI已经从产业“加分项”转变为企业竞争的“必选项”。在主题演讲环节，清华大学中国经济思想与实践研究院院长李稻葵，",
+      "summary_zh": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。  11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。本次大会以“智越虚实 万物共生”为主题，汇聚产业领袖、学术专家、跨界嘉宾、人工智能领域前沿探索者，围绕智能经济新周期、智能体规模落地、具身智能产业化等议题展开深度研讨，为AI时代的产业跃迁与普惠发展提供前瞻思考。大会同期，2026新浪新闻“探索之心35”评选结果揭晓，致敬AI浪潮中的先锋实践者。  聚焦智能经济新周期，共议产业大变局 当前，人工智能不再局限于屏幕内的对话工具，而是逐步进化为具备自主认知能力的智能体，并加速走出实验室、走向实体产业。微博COO、新浪移动CEO、微博技术委员会主席王巍在大会致辞中谈到：“从数据要素的价值重估，到人机协作带来的产业分工重组，智能技术早已超越效率工具的定位，正在成为驱动整体经济发展的全新核心引擎。” AI技术正在重构经济增长的底层逻辑，智能经济新周期的轮廓日渐清晰。如今，AI已经从产业“加分项”转变为企业竞争的“必选项”。在主题演讲环节，清华大学中国经济思想与实践研究院院长李稻葵，",
+      "publishedAt": "2026-11-20T06:16:06Z",
+      "published_at": "2026-11-20T06:16:06Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f702bde8",
+      "title": "当蛋白质设计有了自己的「Claude",
+      "title_en": "当蛋白质设计有了自己的「Claude Code」，AI Native生物科技公司开始交付「真实成果」",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "当蛋白质设计有了自己的「Claude Code」，AI Native生物科技公司开始交付「真",
+      "summary_zh": "当蛋白质设计有了自己的「Claude Code」，AI Native生物科技公司开始交付「真",
+      "publishedAt": "2026-11-20T17:05:14Z",
+      "published_at": "2026-11-20T17:05:14Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

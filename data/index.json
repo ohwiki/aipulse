@@ -1,9 +1,127 @@
 {
-  "generated_at": "2026-11-20T01:48:56Z",
-  "generatedAt": "2026-11-20T01:48:56Z",
-  "count": 192,
-  "total": 192,
+  "generated_at": "2026-11-20T17:05:57Z",
+  "generatedAt": "2026-11-20T17:05:57Z",
+  "count": 193,
+  "total": 193,
   "entries": [
+    {
+      "date": "2026-11-21",
+      "generated_at": "2026-11-20T17:05:57Z",
+      "generatedAt": "2026-11-20T17:05:57Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "09b81a68",
+          "title": "产品更新：Saparo",
+          "title_en": "Saparo",
+          "url": "https://www.producthunt.com/products/saparo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/saparo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Muse for shopping with deals stacks Saparo is",
+          "summary_zh": "Muse for shopping with deals stacks Saparo is",
+          "publishedAt": "2026-11-20T08:01:00Z",
+          "published_at": "2026-11-20T08:01:00Z",
+          "votes_count": 233,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "278",
+              "name": "E-Commerce",
+              "slug": "e-commerce"
+            },
+            {
+              "id": "352",
+              "name": "Tech",
+              "slug": "tech"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f4ba8521",
+          "title": "产品更新：Tripmojo",
+          "title_en": "Tripmojo",
+          "url": "https://www.producthunt.com/products/tripmojo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/tripmojo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Agentic travel app that helps plan, book and r",
+          "summary_zh": "Agentic travel app that helps plan, book and r",
+          "publishedAt": "2026-11-20T08:00:00Z",
+          "published_at": "2026-11-20T08:00:00Z",
+          "votes_count": 187,
+          "featured": true,
+          "topics": [
+            {
+              "id": "250",
+              "name": "Travel",
+              "slug": "travel"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2768420b",
+          "title": "产品更新：Docker",
+          "title_en": "Docker",
+          "url": "https://www.producthunt.com/products/docker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/docker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Built to run on trust, for the agentic era Doc",
+          "summary_zh": "Built to run on trust, for the agentic era Doc",
+          "publishedAt": "2026-11-20T08:00:00Z",
+          "published_at": "2026-11-20T08:00:00Z",
+          "votes_count": 152,
+          "featured": true,
+          "topics": [
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "865",
+              "name": "Security",
+              "slug": "security"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-20",
       "generated_at": "2026-11-20T01:48:56Z",
