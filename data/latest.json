@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T17:05:57Z",
-  "generatedAt": "2026-11-20T17:05:57Z",
+  "generated_at": "2026-11-21T01:36:51Z",
+  "generatedAt": "2026-11-21T01:36:51Z",
   "days": 7,
   "total": 8,
   "count": 8,
@@ -22,7 +22,7 @@
       "summary_zh": "Agentic travel app that helps plan, book and r",
       "publishedAt": "2026-11-20T08:00:00Z",
       "published_at": "2026-11-20T08:00:00Z",
-      "votes_count": 187,
+      "votes_count": 246,
       "featured": true,
       "topics": [
         {
@@ -55,7 +55,7 @@
       "summary_zh": "Built to run on trust, for the agentic era Doc",
       "publishedAt": "2026-11-20T08:00:00Z",
       "published_at": "2026-11-20T08:00:00Z",
-      "votes_count": 152,
+      "votes_count": 212,
       "featured": true,
       "topics": [
         {
@@ -93,7 +93,7 @@
       "summary_zh": "A reading tracker that helps you read more Boo",
       "publishedAt": "2026-11-20T08:00:00Z",
       "published_at": "2026-11-20T08:00:00Z",
-      "votes_count": 139,
+      "votes_count": 165,
       "featured": true,
       "topics": [
         {
@@ -136,7 +136,7 @@
       "summary_zh": "Muse for shopping with deals stacks Saparo is",
       "publishedAt": "2026-11-20T08:01:00Z",
       "published_at": "2026-11-20T08:01:00Z",
-      "votes_count": 233,
+      "votes_count": 269,
       "featured": true,
       "topics": [
         {
@@ -155,28 +155,6 @@
           "slug": "tech"
         }
       ],
-      "score_details": null
-    },
-    {
-      "id": "15bb4616",
-      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/11/511426.html",
-      "source": "量子位",
-      "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/511426.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。  机器人在实验室里把活儿干成了，到了工厂，还能天天这么干吗？换台机器人，之前练出来的本事又能剩下多少？ 光把模型训得聪明还不够，背后的算力、仿真、真机适配，都得跟上。 11月16日，华为云发布了昇腾原生具身世界模型CloudRobo-WM1.2。 从仿真训练到适配不同机器人，这个模型背后，牵出的是一整套具身智能工程难题。 两天后，华为云在上海办了场「行业AI梦工厂·具身智能高层论坛」，把这些隐秘的幕后工程，搬到了台前。    从面向Agentic计算的算力基础设施，到一站式具身智能开发平台CloudRobo，再到机器人自适应智能、高空带电作业等产业实践，机器人从实验室走向真实现场，要过哪些关，这场论坛基本聊了个遍。 现场还签了份备忘录。华为云和福建小状智能准备把CloudRobo和昇腾算力用到高校实训里，让学生上手做机器人开发。    模型发布、产业实践、高校实训，看着是几件不同的事儿，背后有一个共识：具身智能研发，有些事没必要每家公司都从头做一遍。 华为云的思路，是先把算力、存储",
-      "summary_zh": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。  机器人在实验室里把活儿干成了，到了工厂，还能天天这么干吗？换台机器人，之前练出来的本事又能剩下多少？ 光把模型训得聪明还不够，背后的算力、仿真、真机适配，都得跟上。 11月16日，华为云发布了昇腾原生具身世界模型CloudRobo-WM1.2。 从仿真训练到适配不同机器人，这个模型背后，牵出的是一整套具身智能工程难题。 两天后，华为云在上海办了场「行业AI梦工厂·具身智能高层论坛」，把这些隐秘的幕后工程，搬到了台前。    从面向Agentic计算的算力基础设施，到一站式具身智能开发平台CloudRobo，再到机器人自适应智能、高空带电作业等产业实践，机器人从实验室走向真实现场，要过哪些关，这场论坛基本聊了个遍。 现场还签了份备忘录。华为云和福建小状智能准备把CloudRobo和昇腾算力用到高校实训里，让学生上手做机器人开发。    模型发布、产业实践、高校实训，看着是几件不同的事儿，背后有一个共识：具身智能研发，有些事没必要每家公司都从头做一遍。 华为云的思路，是先把算力、存储",
-      "publishedAt": "2026-11-20T01:07:38Z",
-      "published_at": "2026-11-20T01:07:38Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
       "score_details": null
     },
     {
@@ -224,6 +202,28 @@
       "score_details": null
     },
     {
+      "id": "d0a61d8e",
+      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/511610.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511610.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。  华为云要开源具身世界模型了，一开就是双榜第一！ 关键是，这个模型用的还是国产昇腾算力。 11月16日，华为云发布了昇腾原生具身世界模型CloudRobo-WM1.2。    在RoboTwin 2.0和LIBERO-Pro 2.0两项具身智能评测中，它的平均成功率都排第一。 华为云计划在11月30日，开放该模型权重、推理代码和后训练代码。 好么，连后训练代码都直接开源放出，华为这一步确实够猛。 别家机器人团队想教这个模型干个新活儿，不用从零搭训练链路，拿到现成代码，接上自家数据就能直接上手调试验证！    而且这次，华为云没有停留在「把模型迁移到昇腾芯片上跑通」这一步，而是从模型架构、训练框架到核心算子、推理部署，围绕具身模型的特点做软硬件协同优化。 从世界模型预训练、强化学习，到机器人上手干活，华为云把这整条链路接了起来。 这正是「昇腾原生」的核心含义。 国产算力，具身世界模型也能训到双榜第一 首次亮相，华为云具身世界模型CloudRobo-WM1.2就交出了两份亮",
+      "summary_zh": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。  华为云要开源具身世界模型了，一开就是双榜第一！ 关键是，这个模型用的还是国产昇腾算力。 11月16日，华为云发布了昇腾原生具身世界模型CloudRobo-WM1.2。    在RoboTwin 2.0和LIBERO-Pro 2.0两项具身智能评测中，它的平均成功率都排第一。 华为云计划在11月30日，开放该模型权重、推理代码和后训练代码。 好么，连后训练代码都直接开源放出，华为这一步确实够猛。 别家机器人团队想教这个模型干个新活儿，不用从零搭训练链路，拿到现成代码，接上自家数据就能直接上手调试验证！    而且这次，华为云没有停留在「把模型迁移到昇腾芯片上跑通」这一步，而是从模型架构、训练框架到核心算子、推理部署，围绕具身模型的特点做软硬件协同优化。 从世界模型预训练、强化学习，到机器人上手干活，华为云把这整条链路接了起来。 这正是「昇腾原生」的核心含义。 国产算力，具身世界模型也能训到双榜第一 首次亮相，华为云具身世界模型CloudRobo-WM1.2就交出了两份亮",
+      "publishedAt": "2026-11-20T08:04:58Z",
+      "published_at": "2026-11-20T08:04:58Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
       "id": "f702bde8",
       "title": "当蛋白质设计有了自己的「Claude",
       "title_en": "当蛋白质设计有了自己的「Claude Code」，AI Native生物科技公司开始交付「真实成果」",
@@ -238,8 +238,8 @@
       "rankingScore": 5.0,
       "summary": "当蛋白质设计有了自己的「Claude Code」，AI Native生物科技公司开始交付「真",
       "summary_zh": "当蛋白质设计有了自己的「Claude Code」，AI Native生物科技公司开始交付「真",
-      "publishedAt": "2026-11-20T17:05:14Z",
-      "published_at": "2026-11-20T17:05:14Z",
+      "publishedAt": "2026-11-21T01:36:19Z",
+      "published_at": "2026-11-21T01:36:19Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
