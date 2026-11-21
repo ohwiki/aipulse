@@ -1,0 +1,427 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-21T16:17:44Z",
+  "generatedAt": "2026-11-21T16:17:44Z",
+  "total": 7,
+  "count": 7,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "a36eaaaf",
+          "title": "产品更新：AlterContacts",
+          "title_en": "AlterContacts",
+          "url": "https://www.producthunt.com/products/alter-contacts-ai-client-relationships?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/alter-contacts-ai-client-relationships?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "AI client relationship assistant that thinks a",
+          "summary_zh": "AI client relationship assistant that thinks a",
+          "publishedAt": "2026-11-21T08:01:00Z",
+          "published_at": "2026-11-21T08:01:00Z",
+          "votes_count": 202,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            },
+            {
+              "id": "769",
+              "name": "CRM",
+              "slug": "crm"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6591d050",
+          "title": "产品更新：AI Context Flow",
+          "title_en": "AI Context Flow MCP",
+          "url": "https://www.producthunt.com/products/ai-context-flow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ai-context-flow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Memory you control, synced to every agent, too",
+          "summary_zh": "Memory you control, synced to every agent, too",
+          "publishedAt": "2026-11-21T08:01:00Z",
+          "published_at": "2026-11-21T08:01:00Z",
+          "votes_count": 159,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "107",
+              "name": "Storage",
+              "slug": "storage"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "df647f27",
+          "title": "产品更新：Codemany",
+          "title_en": "Codemany",
+          "url": "https://www.producthunt.com/products/codemany?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/codemany?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Run GitHub Actions 3x faster Run GitHub Action",
+          "summary_zh": "Run GitHub Actions 3x faster Run GitHub Action",
+          "publishedAt": "2026-11-21T08:01:00Z",
+          "published_at": "2026-11-21T08:01:00Z",
+          "votes_count": 129,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "598d990d",
+          "title": "米哈游发了个VLA论文",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/511740.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/511740.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "8B参数，50小时自主运行  米哈游，您是准备亲自下场研究“官方脚本”了？（doge） 就在米哈游崩坏AI研发团队最新发布的研究Gamer中—— 你敢信，AI竟然自己玩起了《崩坏：星穹铁道》。 键盘鼠标交给AI，上来就能和可可利亚打上一架。  碰上场景机关，也能自己上手。走到“气泡弹珠”前启动装置，把自己弹到另一片区域，落地接着跑。  跟着NPC跑图同样可以，流萤在前面带路，AI就在后面跟着，上楼梯、拐弯，一路跑到广场。  我勒个乖乖，这打Boss、开机关、跟人跑图，都让AI学会了。 这以后充值页面里，会不会有个“AI代肝”选项？ （注：《崩坏：星穹铁道》是米哈游开发的一款银河冒险题材的回合制角色扮演游戏。玩家乘坐星穹列车探索不同世界，通过跑图、对话和解谜推进剧情，并组建角色队伍进行回合制战斗。） VLA代肝，不烧心 咱言归正传，米哈游给Gamer的定位，是面向长流程、实时交互的通用视觉—语言—动作（VLA）基础模型。  上面演示玩《崩铁》的主力版本，由团队基于参数量80亿的Qwen3-VL-8B进一步训练而来。 它能根据游戏画面和任务，决定按哪些键、鼠标往哪里移动、什么时候点击，再把",
+          "summary_zh": "8B参数，50小时自主运行  米哈游，您是准备亲自下场研究“官方脚本”了？（doge） 就在米哈游崩坏AI研发团队最新发布的研究Gamer中—— 你敢信，AI竟然自己玩起了《崩坏：星穹铁道》。 键盘鼠标交给AI，上来就能和可可利亚打上一架。  碰上场景机关，也能自己上手。走到“气泡弹珠”前启动装置，把自己弹到另一片区域，落地接着跑。  跟着NPC跑图同样可以，流萤在前面带路，AI就在后面跟着，上楼梯、拐弯，一路跑到广场。  我勒个乖乖，这打Boss、开机关、跟人跑图，都让AI学会了。 这以后充值页面里，会不会有个“AI代肝”选项？ （注：《崩坏：星穹铁道》是米哈游开发的一款银河冒险题材的回合制角色扮演游戏。玩家乘坐星穹列车探索不同世界，通过跑图、对话和解谜推进剧情，并组建角色队伍进行回合制战斗。） VLA代肝，不烧心 咱言归正传，米哈游给Gamer的定位，是面向长流程、实时交互的通用视觉—语言—动作（VLA）基础模型。  上面演示玩《崩铁》的主力版本，由团队基于参数量80亿的Qwen3-VL-8B进一步训练而来。 它能根据游戏画面和任务，决定按哪些键、鼠标往哪里移动、什么时候点击，再把",
+          "publishedAt": "2026-11-20T16:25:26Z",
+          "published_at": "2026-11-20T16:25:26Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "188eb957",
+          "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/511757.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/511757.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "还透露了不少训练背后的秘诀  Hy小模型已经在路线图上，面向24GB显存的模型也有计划。 今天凌晨，姚顺雨和腾讯混元团队来到Reddit社区，围绕刚发布的Hy4和Hy4 flash做了一场AMA。  AMA是「Ask Me Anything」的缩写，意思是「有什么想问的，尽管问」。网友在评论区提问，混元团队成员直接回帖。  参与名单上只列了Reddit账号，至于哪个马甲是姚顺雨，我们还没对上号…… 这场AMA的主角，是混元本月接连发布的两款模型。 11月4日发布的Hy4是旗舰，能理解文本、图像和视频，适合长程软件工程这类需要多步推理、反复调用工具的复杂任务。 11月16日发布的Hy4 flash，主打日常办公的速度和成本。它支持图文输入和最长100万Token的上下文，每个Token激活约120亿参数。 Hy4和Hy4 flash都已接入腾讯WorkBuddy。混元团队还把WorkBuddy里的修表、改文档、做PPT等典型任务纳入了内部评测WorkIndex，按这套评测测算，Hy4 flash的平均单任务成本约为旗舰Hy4的1/20。 两款模型的权重都已公开。到了AMA，有网友直接报出",
+          "summary_zh": "还透露了不少训练背后的秘诀  Hy小模型已经在路线图上，面向24GB显存的模型也有计划。 今天凌晨，姚顺雨和腾讯混元团队来到Reddit社区，围绕刚发布的Hy4和Hy4 flash做了一场AMA。  AMA是「Ask Me Anything」的缩写，意思是「有什么想问的，尽管问」。网友在评论区提问，混元团队成员直接回帖。  参与名单上只列了Reddit账号，至于哪个马甲是姚顺雨，我们还没对上号…… 这场AMA的主角，是混元本月接连发布的两款模型。 11月4日发布的Hy4是旗舰，能理解文本、图像和视频，适合长程软件工程这类需要多步推理、反复调用工具的复杂任务。 11月16日发布的Hy4 flash，主打日常办公的速度和成本。它支持图文输入和最长100万Token的上下文，每个Token激活约120亿参数。 Hy4和Hy4 flash都已接入腾讯WorkBuddy。混元团队还把WorkBuddy里的修表、改文档、做PPT等典型任务纳入了内部评测WorkIndex，按这套评测测算，Hy4 flash的平均单任务成本约为旗舰Hy4的1/20。 两款模型的权重都已公开。到了AMA，有网友直接报出",
+          "publishedAt": "2026-11-21T06:30:55Z",
+          "published_at": "2026-11-21T06:30:55Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "95b30ca6",
+          "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/511570.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/511570.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "专为本地部署而生  聚是一团火，散是满天星。 刚刚，前DeepSeek V1作者、DeepSeek-VL项目负责人Tony Zhang，正式公布了自己的新创业项目：Linger。 方向，正是当下最火的个人Personal Agent。 X 帖子视频.mp4 路线也是比较有意思，当同行都在做APP，他们优先选择了电脑。 这意味着，Linger能操纵你电脑已有的网页、邮件箱、日历，无需折腾一大堆登录凭据。 遇到卡住的地方，你也可以直接上手接管。 X 评论视频.mp4 另外一个点，作为中间层的Linger，支持接入各个第三方模型。 并且专门为本地LLM做了优化。 具体来说，一块12GB显存的RTX 3060显卡，就能跑起一个125B参数的Qwen3.8-Flash-Next，并且是45.5 tokens/秒的生成速度。  对了，还有个蛮重要的点—— 这套系统是开源的。。。 至于为什么？ 在官宣帖中，Tony Zhang引用了PC崛起的历史： 1960年代，计算是中心化的，直到PC将权力交到每个人手中。如今，AI在数据中心训练，然后以token的形式租给你。 我们相信智能应该是分布式的。你的上",
+          "summary_zh": "专为本地部署而生  聚是一团火，散是满天星。 刚刚，前DeepSeek V1作者、DeepSeek-VL项目负责人Tony Zhang，正式公布了自己的新创业项目：Linger。 方向，正是当下最火的个人Personal Agent。 X 帖子视频.mp4 路线也是比较有意思，当同行都在做APP，他们优先选择了电脑。 这意味着，Linger能操纵你电脑已有的网页、邮件箱、日历，无需折腾一大堆登录凭据。 遇到卡住的地方，你也可以直接上手接管。 X 评论视频.mp4 另外一个点，作为中间层的Linger，支持接入各个第三方模型。 并且专门为本地LLM做了优化。 具体来说，一块12GB显存的RTX 3060显卡，就能跑起一个125B参数的Qwen3.8-Flash-Next，并且是45.5 tokens/秒的生成速度。  对了，还有个蛮重要的点—— 这套系统是开源的。。。 至于为什么？ 在官宣帖中，Tony Zhang引用了PC崛起的历史： 1960年代，计算是中心化的，直到PC将权力交到每个人手中。如今，AI在数据中心训练，然后以token的形式租给你。 我们相信智能应该是分布式的。你的上",
+          "publishedAt": "2026-11-21T06:32:31Z",
+          "published_at": "2026-11-21T06:32:31Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "36c81cd0",
+          "title": "Flagship布局伦敦，打造AI原",
+          "title_en": "Flagship布局伦敦，打造AI原生科学创业平台",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Flagship布局伦敦，打造AI原生科学创业平台",
+          "summary_zh": "Flagship布局伦敦，打造AI原生科学创业平台",
+          "publishedAt": "2026-11-21T16:17:06Z",
+          "published_at": "2026-11-21T16:17:06Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "a36eaaaf",
+      "title": "产品更新：AlterContacts",
+      "title_en": "AlterContacts",
+      "url": "https://www.producthunt.com/products/alter-contacts-ai-client-relationships?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/alter-contacts-ai-client-relationships?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "AI client relationship assistant that thinks a",
+      "summary_zh": "AI client relationship assistant that thinks a",
+      "publishedAt": "2026-11-21T08:01:00Z",
+      "published_at": "2026-11-21T08:01:00Z",
+      "votes_count": 202,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "282",
+          "name": "Virtual Assistants",
+          "slug": "virtual-assistants"
+        },
+        {
+          "id": "769",
+          "name": "CRM",
+          "slug": "crm"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "6591d050",
+      "title": "产品更新：AI Context Flow",
+      "title_en": "AI Context Flow MCP",
+      "url": "https://www.producthunt.com/products/ai-context-flow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/ai-context-flow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Memory you control, synced to every agent, too",
+      "summary_zh": "Memory you control, synced to every agent, too",
+      "publishedAt": "2026-11-21T08:01:00Z",
+      "published_at": "2026-11-21T08:01:00Z",
+      "votes_count": 159,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "107",
+          "name": "Storage",
+          "slug": "storage"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "df647f27",
+      "title": "产品更新：Codemany",
+      "title_en": "Codemany",
+      "url": "https://www.producthunt.com/products/codemany?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/codemany?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Run GitHub Actions 3x faster Run GitHub Action",
+      "summary_zh": "Run GitHub Actions 3x faster Run GitHub Action",
+      "publishedAt": "2026-11-21T08:01:00Z",
+      "published_at": "2026-11-21T08:01:00Z",
+      "votes_count": 129,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "598d990d",
+      "title": "米哈游发了个VLA论文",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/511740.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511740.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "8B参数，50小时自主运行  米哈游，您是准备亲自下场研究“官方脚本”了？（doge） 就在米哈游崩坏AI研发团队最新发布的研究Gamer中—— 你敢信，AI竟然自己玩起了《崩坏：星穹铁道》。 键盘鼠标交给AI，上来就能和可可利亚打上一架。  碰上场景机关，也能自己上手。走到“气泡弹珠”前启动装置，把自己弹到另一片区域，落地接着跑。  跟着NPC跑图同样可以，流萤在前面带路，AI就在后面跟着，上楼梯、拐弯，一路跑到广场。  我勒个乖乖，这打Boss、开机关、跟人跑图，都让AI学会了。 这以后充值页面里，会不会有个“AI代肝”选项？ （注：《崩坏：星穹铁道》是米哈游开发的一款银河冒险题材的回合制角色扮演游戏。玩家乘坐星穹列车探索不同世界，通过跑图、对话和解谜推进剧情，并组建角色队伍进行回合制战斗。） VLA代肝，不烧心 咱言归正传，米哈游给Gamer的定位，是面向长流程、实时交互的通用视觉—语言—动作（VLA）基础模型。  上面演示玩《崩铁》的主力版本，由团队基于参数量80亿的Qwen3-VL-8B进一步训练而来。 它能根据游戏画面和任务，决定按哪些键、鼠标往哪里移动、什么时候点击，再把",
+      "summary_zh": "8B参数，50小时自主运行  米哈游，您是准备亲自下场研究“官方脚本”了？（doge） 就在米哈游崩坏AI研发团队最新发布的研究Gamer中—— 你敢信，AI竟然自己玩起了《崩坏：星穹铁道》。 键盘鼠标交给AI，上来就能和可可利亚打上一架。  碰上场景机关，也能自己上手。走到“气泡弹珠”前启动装置，把自己弹到另一片区域，落地接着跑。  跟着NPC跑图同样可以，流萤在前面带路，AI就在后面跟着，上楼梯、拐弯，一路跑到广场。  我勒个乖乖，这打Boss、开机关、跟人跑图，都让AI学会了。 这以后充值页面里，会不会有个“AI代肝”选项？ （注：《崩坏：星穹铁道》是米哈游开发的一款银河冒险题材的回合制角色扮演游戏。玩家乘坐星穹列车探索不同世界，通过跑图、对话和解谜推进剧情，并组建角色队伍进行回合制战斗。） VLA代肝，不烧心 咱言归正传，米哈游给Gamer的定位，是面向长流程、实时交互的通用视觉—语言—动作（VLA）基础模型。  上面演示玩《崩铁》的主力版本，由团队基于参数量80亿的Qwen3-VL-8B进一步训练而来。 它能根据游戏画面和任务，决定按哪些键、鼠标往哪里移动、什么时候点击，再把",
+      "publishedAt": "2026-11-20T16:25:26Z",
+      "published_at": "2026-11-20T16:25:26Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "188eb957",
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/511757.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511757.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "还透露了不少训练背后的秘诀  Hy小模型已经在路线图上，面向24GB显存的模型也有计划。 今天凌晨，姚顺雨和腾讯混元团队来到Reddit社区，围绕刚发布的Hy4和Hy4 flash做了一场AMA。  AMA是「Ask Me Anything」的缩写，意思是「有什么想问的，尽管问」。网友在评论区提问，混元团队成员直接回帖。  参与名单上只列了Reddit账号，至于哪个马甲是姚顺雨，我们还没对上号…… 这场AMA的主角，是混元本月接连发布的两款模型。 11月4日发布的Hy4是旗舰，能理解文本、图像和视频，适合长程软件工程这类需要多步推理、反复调用工具的复杂任务。 11月16日发布的Hy4 flash，主打日常办公的速度和成本。它支持图文输入和最长100万Token的上下文，每个Token激活约120亿参数。 Hy4和Hy4 flash都已接入腾讯WorkBuddy。混元团队还把WorkBuddy里的修表、改文档、做PPT等典型任务纳入了内部评测WorkIndex，按这套评测测算，Hy4 flash的平均单任务成本约为旗舰Hy4的1/20。 两款模型的权重都已公开。到了AMA，有网友直接报出",
+      "summary_zh": "还透露了不少训练背后的秘诀  Hy小模型已经在路线图上，面向24GB显存的模型也有计划。 今天凌晨，姚顺雨和腾讯混元团队来到Reddit社区，围绕刚发布的Hy4和Hy4 flash做了一场AMA。  AMA是「Ask Me Anything」的缩写，意思是「有什么想问的，尽管问」。网友在评论区提问，混元团队成员直接回帖。  参与名单上只列了Reddit账号，至于哪个马甲是姚顺雨，我们还没对上号…… 这场AMA的主角，是混元本月接连发布的两款模型。 11月4日发布的Hy4是旗舰，能理解文本、图像和视频，适合长程软件工程这类需要多步推理、反复调用工具的复杂任务。 11月16日发布的Hy4 flash，主打日常办公的速度和成本。它支持图文输入和最长100万Token的上下文，每个Token激活约120亿参数。 Hy4和Hy4 flash都已接入腾讯WorkBuddy。混元团队还把WorkBuddy里的修表、改文档、做PPT等典型任务纳入了内部评测WorkIndex，按这套评测测算，Hy4 flash的平均单任务成本约为旗舰Hy4的1/20。 两款模型的权重都已公开。到了AMA，有网友直接报出",
+      "publishedAt": "2026-11-21T06:30:55Z",
+      "published_at": "2026-11-21T06:30:55Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "95b30ca6",
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511570.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "专为本地部署而生  聚是一团火，散是满天星。 刚刚，前DeepSeek V1作者、DeepSeek-VL项目负责人Tony Zhang，正式公布了自己的新创业项目：Linger。 方向，正是当下最火的个人Personal Agent。 X 帖子视频.mp4 路线也是比较有意思，当同行都在做APP，他们优先选择了电脑。 这意味着，Linger能操纵你电脑已有的网页、邮件箱、日历，无需折腾一大堆登录凭据。 遇到卡住的地方，你也可以直接上手接管。 X 评论视频.mp4 另外一个点，作为中间层的Linger，支持接入各个第三方模型。 并且专门为本地LLM做了优化。 具体来说，一块12GB显存的RTX 3060显卡，就能跑起一个125B参数的Qwen3.8-Flash-Next，并且是45.5 tokens/秒的生成速度。  对了，还有个蛮重要的点—— 这套系统是开源的。。。 至于为什么？ 在官宣帖中，Tony Zhang引用了PC崛起的历史： 1960年代，计算是中心化的，直到PC将权力交到每个人手中。如今，AI在数据中心训练，然后以token的形式租给你。 我们相信智能应该是分布式的。你的上",
+      "summary_zh": "专为本地部署而生  聚是一团火，散是满天星。 刚刚，前DeepSeek V1作者、DeepSeek-VL项目负责人Tony Zhang，正式公布了自己的新创业项目：Linger。 方向，正是当下最火的个人Personal Agent。 X 帖子视频.mp4 路线也是比较有意思，当同行都在做APP，他们优先选择了电脑。 这意味着，Linger能操纵你电脑已有的网页、邮件箱、日历，无需折腾一大堆登录凭据。 遇到卡住的地方，你也可以直接上手接管。 X 评论视频.mp4 另外一个点，作为中间层的Linger，支持接入各个第三方模型。 并且专门为本地LLM做了优化。 具体来说，一块12GB显存的RTX 3060显卡，就能跑起一个125B参数的Qwen3.8-Flash-Next，并且是45.5 tokens/秒的生成速度。  对了，还有个蛮重要的点—— 这套系统是开源的。。。 至于为什么？ 在官宣帖中，Tony Zhang引用了PC崛起的历史： 1960年代，计算是中心化的，直到PC将权力交到每个人手中。如今，AI在数据中心训练，然后以token的形式租给你。 我们相信智能应该是分布式的。你的上",
+      "publishedAt": "2026-11-21T06:32:31Z",
+      "published_at": "2026-11-21T06:32:31Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "36c81cd0",
+      "title": "Flagship布局伦敦，打造AI原",
+      "title_en": "Flagship布局伦敦，打造AI原生科学创业平台",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Flagship布局伦敦，打造AI原生科学创业平台",
+      "summary_zh": "Flagship布局伦敦，打造AI原生科学创业平台",
+      "publishedAt": "2026-11-21T16:17:06Z",
+      "published_at": "2026-11-21T16:17:06Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-11-21T01:36:51Z",
-  "generatedAt": "2026-11-21T01:36:51Z",
-  "count": 193,
-  "total": 193,
+  "generated_at": "2026-11-21T16:17:44Z",
+  "generatedAt": "2026-11-21T16:17:44Z",
+  "count": 194,
+  "total": 194,
   "entries": [
+    {
+      "date": "2026-11-22",
+      "generated_at": "2026-11-21T16:17:44Z",
+      "generatedAt": "2026-11-21T16:17:44Z",
+      "total": 7,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "a36eaaaf",
+          "title": "产品更新：AlterContacts",
+          "title_en": "AlterContacts",
+          "url": "https://www.producthunt.com/products/alter-contacts-ai-client-relationships?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/alter-contacts-ai-client-relationships?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "AI client relationship assistant that thinks a",
+          "summary_zh": "AI client relationship assistant that thinks a",
+          "publishedAt": "2026-11-21T08:01:00Z",
+          "published_at": "2026-11-21T08:01:00Z",
+          "votes_count": 202,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "282",
+              "name": "Virtual Assistants",
+              "slug": "virtual-assistants"
+            },
+            {
+              "id": "769",
+              "name": "CRM",
+              "slug": "crm"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "6591d050",
+          "title": "产品更新：AI Context Flow",
+          "title_en": "AI Context Flow MCP",
+          "url": "https://www.producthunt.com/products/ai-context-flow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/ai-context-flow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Memory you control, synced to every agent, too",
+          "summary_zh": "Memory you control, synced to every agent, too",
+          "publishedAt": "2026-11-21T08:01:00Z",
+          "published_at": "2026-11-21T08:01:00Z",
+          "votes_count": 159,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "107",
+              "name": "Storage",
+              "slug": "storage"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "df647f27",
+          "title": "产品更新：Codemany",
+          "title_en": "Codemany",
+          "url": "https://www.producthunt.com/products/codemany?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/codemany?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Run GitHub Actions 3x faster Run GitHub Action",
+          "summary_zh": "Run GitHub Actions 3x faster Run GitHub Action",
+          "publishedAt": "2026-11-21T08:01:00Z",
+          "published_at": "2026-11-21T08:01:00Z",
+          "votes_count": 129,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-21",
       "generated_at": "2026-11-21T01:36:51Z",
