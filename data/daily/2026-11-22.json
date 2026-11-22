@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
-  "generated_at": "2026-11-21T16:17:44Z",
-  "generatedAt": "2026-11-21T16:17:44Z",
+  "generated_at": "2026-11-22T00:30:57Z",
+  "generatedAt": "2026-11-22T00:30:57Z",
   "total": 7,
   "count": 7,
   "sections": [
@@ -26,7 +26,7 @@
           "summary_zh": "AI client relationship assistant that thinks a",
           "publishedAt": "2026-11-21T08:01:00Z",
           "published_at": "2026-11-21T08:01:00Z",
-          "votes_count": 202,
+          "votes_count": 256,
           "featured": true,
           "topics": [
             {
@@ -64,7 +64,7 @@
           "summary_zh": "Memory you control, synced to every agent, too",
           "publishedAt": "2026-11-21T08:01:00Z",
           "published_at": "2026-11-21T08:01:00Z",
-          "votes_count": 159,
+          "votes_count": 207,
           "featured": true,
           "topics": [
             {
@@ -102,7 +102,7 @@
           "summary_zh": "Run GitHub Actions 3x faster Run GitHub Action",
           "publishedAt": "2026-11-21T08:01:00Z",
           "published_at": "2026-11-21T08:01:00Z",
-          "votes_count": 129,
+          "votes_count": 173,
           "featured": true,
           "topics": [
             {
@@ -122,6 +122,44 @@
             }
           ],
           "score_details": null
+        },
+        {
+          "id": "1f93e6dc",
+          "title": "产品更新：Glassmail",
+          "title_en": "Glassmail",
+          "url": "https://www.producthunt.com/products/glassmail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/glassmail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "A fast Mac email app with AI that never leaves",
+          "summary_zh": "A fast Mac email app with AI that never leaves",
+          "publishedAt": "2026-11-21T08:01:00Z",
+          "published_at": "2026-11-21T08:01:00Z",
+          "votes_count": 135,
+          "featured": true,
+          "topics": [
+            {
+              "id": "19",
+              "name": "Mac",
+              "slug": "mac"
+            },
+            {
+              "id": "39",
+              "name": "Email",
+              "slug": "email"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
         }
       ]
     },
@@ -129,28 +167,6 @@
       "category": "cn-media",
       "label": "中文媒体精选",
       "items": [
-        {
-          "id": "598d990d",
-          "title": "米哈游发了个VLA论文",
-          "title_en": null,
-          "url": "https://www.qbitai.com/2026/11/511740.html",
-          "source": "量子位",
-          "source_type": null,
-          "sourceName": "量子位",
-          "sourceUrl": "https://www.qbitai.com/2026/11/511740.html",
-          "category": "cn-media",
-          "score": 5,
-          "rank_score": 5.0,
-          "rankingScore": 5.0,
-          "summary": "8B参数，50小时自主运行  米哈游，您是准备亲自下场研究“官方脚本”了？（doge） 就在米哈游崩坏AI研发团队最新发布的研究Gamer中—— 你敢信，AI竟然自己玩起了《崩坏：星穹铁道》。 键盘鼠标交给AI，上来就能和可可利亚打上一架。  碰上场景机关，也能自己上手。走到“气泡弹珠”前启动装置，把自己弹到另一片区域，落地接着跑。  跟着NPC跑图同样可以，流萤在前面带路，AI就在后面跟着，上楼梯、拐弯，一路跑到广场。  我勒个乖乖，这打Boss、开机关、跟人跑图，都让AI学会了。 这以后充值页面里，会不会有个“AI代肝”选项？ （注：《崩坏：星穹铁道》是米哈游开发的一款银河冒险题材的回合制角色扮演游戏。玩家乘坐星穹列车探索不同世界，通过跑图、对话和解谜推进剧情，并组建角色队伍进行回合制战斗。） VLA代肝，不烧心 咱言归正传，米哈游给Gamer的定位，是面向长流程、实时交互的通用视觉—语言—动作（VLA）基础模型。  上面演示玩《崩铁》的主力版本，由团队基于参数量80亿的Qwen3-VL-8B进一步训练而来。 它能根据游戏画面和任务，决定按哪些键、鼠标往哪里移动、什么时候点击，再把",
-          "summary_zh": "8B参数，50小时自主运行  米哈游，您是准备亲自下场研究“官方脚本”了？（doge） 就在米哈游崩坏AI研发团队最新发布的研究Gamer中—— 你敢信，AI竟然自己玩起了《崩坏：星穹铁道》。 键盘鼠标交给AI，上来就能和可可利亚打上一架。  碰上场景机关，也能自己上手。走到“气泡弹珠”前启动装置，把自己弹到另一片区域，落地接着跑。  跟着NPC跑图同样可以，流萤在前面带路，AI就在后面跟着，上楼梯、拐弯，一路跑到广场。  我勒个乖乖，这打Boss、开机关、跟人跑图，都让AI学会了。 这以后充值页面里，会不会有个“AI代肝”选项？ （注：《崩坏：星穹铁道》是米哈游开发的一款银河冒险题材的回合制角色扮演游戏。玩家乘坐星穹列车探索不同世界，通过跑图、对话和解谜推进剧情，并组建角色队伍进行回合制战斗。） VLA代肝，不烧心 咱言归正传，米哈游给Gamer的定位，是面向长流程、实时交互的通用视觉—语言—动作（VLA）基础模型。  上面演示玩《崩铁》的主力版本，由团队基于参数量80亿的Qwen3-VL-8B进一步训练而来。 它能根据游戏画面和任务，决定按哪些键、鼠标往哪里移动、什么时候点击，再把",
-          "publishedAt": "2026-11-20T16:25:26Z",
-          "published_at": "2026-11-20T16:25:26Z",
-          "votes_count": null,
-          "featured": null,
-          "topics": [],
-          "score_details": null
-        },
         {
           "id": "188eb957",
           "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
@@ -196,22 +212,22 @@
           "score_details": null
         },
         {
-          "id": "36c81cd0",
-          "title": "Flagship布局伦敦，打造AI原",
-          "title_en": "Flagship布局伦敦，打造AI原生科学创业平台",
-          "url": "https://www.jiqizhixin.com/articles",
-          "source": "机器之心",
+          "id": "30830ca4",
+          "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/511779.html",
+          "source": "量子位",
           "source_type": null,
-          "sourceName": "机器之心",
-          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/511779.html",
           "category": "cn-media",
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "Flagship布局伦敦，打造AI原生科学创业平台",
-          "summary_zh": "Flagship布局伦敦，打造AI原生科学创业平台",
-          "publishedAt": "2026-11-21T16:17:06Z",
-          "published_at": "2026-11-21T16:17:06Z",
+          "summary": "还实现可变形物体操控全球首通  GPT-6.2 Astra又给具身智能上强度了，狠狠来了一计天马流星拳。 机器人基础设施公司XDOF的最新实测中，GPT-6.2Astra操控双臂机器人完成16项操作任务的综合成功率，从两个月前GPT-6Astra的19.6%飙升至41.2%，翻了一倍有余。 打结、展开T恤这两项此前无AI通关的操作，这次也被它拿下。  公布成绩后，OpenAI Developers官方账号转发了这条消息，OpenAI联合创始人兼总裁Greg Brockman也骄傲发言： GPT-6.2 Astra在机器人技术方面表现得非常出色～～  为确保评测严谨，XDOF以六台YAM工作站并行试验，每项任务重复三十次，单日可完成480场实测，并由人工标注子步骤、抓取失误与碰撞，滤除硬件偏差与随机扰动。 纵使标准如此严苛，XDOF也在最新推文中表示，Ember‑0基准或不久后便会被模型能力饱和。 两个月成绩翻倍，到底有多强？ 要理解这次突破的含金量，得先搞明白测试任务究竟难在哪里。 GPT-6.2Astra参加的是XDOF推出的Ember-0测试。 这是一套面向真实物理环境的机器人评测",
+          "summary_zh": "还实现可变形物体操控全球首通  GPT-6.2 Astra又给具身智能上强度了，狠狠来了一计天马流星拳。 机器人基础设施公司XDOF的最新实测中，GPT-6.2Astra操控双臂机器人完成16项操作任务的综合成功率，从两个月前GPT-6Astra的19.6%飙升至41.2%，翻了一倍有余。 打结、展开T恤这两项此前无AI通关的操作，这次也被它拿下。  公布成绩后，OpenAI Developers官方账号转发了这条消息，OpenAI联合创始人兼总裁Greg Brockman也骄傲发言： GPT-6.2 Astra在机器人技术方面表现得非常出色～～  为确保评测严谨，XDOF以六台YAM工作站并行试验，每项任务重复三十次，单日可完成480场实测，并由人工标注子步骤、抓取失误与碰撞，滤除硬件偏差与随机扰动。 纵使标准如此严苛，XDOF也在最新推文中表示，Ember‑0基准或不久后便会被模型能力饱和。 两个月成绩翻倍，到底有多强？ 要理解这次突破的含金量，得先搞明白测试任务究竟难在哪里。 GPT-6.2Astra参加的是XDOF推出的Ember-0测试。 这是一套面向真实物理环境的机器人评测",
+          "publishedAt": "2026-11-21T06:35:59Z",
+          "published_at": "2026-11-21T06:35:59Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -238,7 +254,7 @@
       "summary_zh": "AI client relationship assistant that thinks a",
       "publishedAt": "2026-11-21T08:01:00Z",
       "published_at": "2026-11-21T08:01:00Z",
-      "votes_count": 202,
+      "votes_count": 256,
       "featured": true,
       "topics": [
         {
@@ -276,7 +292,7 @@
       "summary_zh": "Memory you control, synced to every agent, too",
       "publishedAt": "2026-11-21T08:01:00Z",
       "published_at": "2026-11-21T08:01:00Z",
-      "votes_count": 159,
+      "votes_count": 207,
       "featured": true,
       "topics": [
         {
@@ -314,7 +330,7 @@
       "summary_zh": "Run GitHub Actions 3x faster Run GitHub Action",
       "publishedAt": "2026-11-21T08:01:00Z",
       "published_at": "2026-11-21T08:01:00Z",
-      "votes_count": 129,
+      "votes_count": 173,
       "featured": true,
       "topics": [
         {
@@ -336,25 +352,41 @@
       "score_details": null
     },
     {
-      "id": "598d990d",
-      "title": "米哈游发了个VLA论文",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/11/511740.html",
-      "source": "量子位",
+      "id": "1f93e6dc",
+      "title": "产品更新：Glassmail",
+      "title_en": "Glassmail",
+      "url": "https://www.producthunt.com/products/glassmail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
       "source_type": null,
-      "sourceName": "量子位",
-      "sourceUrl": "https://www.qbitai.com/2026/11/511740.html",
-      "category": "cn-media",
-      "score": 5,
-      "rank_score": 5.0,
-      "rankingScore": 5.0,
-      "summary": "8B参数，50小时自主运行  米哈游，您是准备亲自下场研究“官方脚本”了？（doge） 就在米哈游崩坏AI研发团队最新发布的研究Gamer中—— 你敢信，AI竟然自己玩起了《崩坏：星穹铁道》。 键盘鼠标交给AI，上来就能和可可利亚打上一架。  碰上场景机关，也能自己上手。走到“气泡弹珠”前启动装置，把自己弹到另一片区域，落地接着跑。  跟着NPC跑图同样可以，流萤在前面带路，AI就在后面跟着，上楼梯、拐弯，一路跑到广场。  我勒个乖乖，这打Boss、开机关、跟人跑图，都让AI学会了。 这以后充值页面里，会不会有个“AI代肝”选项？ （注：《崩坏：星穹铁道》是米哈游开发的一款银河冒险题材的回合制角色扮演游戏。玩家乘坐星穹列车探索不同世界，通过跑图、对话和解谜推进剧情，并组建角色队伍进行回合制战斗。） VLA代肝，不烧心 咱言归正传，米哈游给Gamer的定位，是面向长流程、实时交互的通用视觉—语言—动作（VLA）基础模型。  上面演示玩《崩铁》的主力版本，由团队基于参数量80亿的Qwen3-VL-8B进一步训练而来。 它能根据游戏画面和任务，决定按哪些键、鼠标往哪里移动、什么时候点击，再把",
-      "summary_zh": "8B参数，50小时自主运行  米哈游，您是准备亲自下场研究“官方脚本”了？（doge） 就在米哈游崩坏AI研发团队最新发布的研究Gamer中—— 你敢信，AI竟然自己玩起了《崩坏：星穹铁道》。 键盘鼠标交给AI，上来就能和可可利亚打上一架。  碰上场景机关，也能自己上手。走到“气泡弹珠”前启动装置，把自己弹到另一片区域，落地接着跑。  跟着NPC跑图同样可以，流萤在前面带路，AI就在后面跟着，上楼梯、拐弯，一路跑到广场。  我勒个乖乖，这打Boss、开机关、跟人跑图，都让AI学会了。 这以后充值页面里，会不会有个“AI代肝”选项？ （注：《崩坏：星穹铁道》是米哈游开发的一款银河冒险题材的回合制角色扮演游戏。玩家乘坐星穹列车探索不同世界，通过跑图、对话和解谜推进剧情，并组建角色队伍进行回合制战斗。） VLA代肝，不烧心 咱言归正传，米哈游给Gamer的定位，是面向长流程、实时交互的通用视觉—语言—动作（VLA）基础模型。  上面演示玩《崩铁》的主力版本，由团队基于参数量80亿的Qwen3-VL-8B进一步训练而来。 它能根据游戏画面和任务，决定按哪些键、鼠标往哪里移动、什么时候点击，再把",
-      "publishedAt": "2026-11-20T16:25:26Z",
-      "published_at": "2026-11-20T16:25:26Z",
-      "votes_count": null,
-      "featured": null,
-      "topics": [],
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/glassmail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "A fast Mac email app with AI that never leaves",
+      "summary_zh": "A fast Mac email app with AI that never leaves",
+      "publishedAt": "2026-11-21T08:01:00Z",
+      "published_at": "2026-11-21T08:01:00Z",
+      "votes_count": 135,
+      "featured": true,
+      "topics": [
+        {
+          "id": "19",
+          "name": "Mac",
+          "slug": "mac"
+        },
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
       "score_details": null
     },
     {
@@ -402,22 +434,22 @@
       "score_details": null
     },
     {
-      "id": "36c81cd0",
-      "title": "Flagship布局伦敦，打造AI原",
-      "title_en": "Flagship布局伦敦，打造AI原生科学创业平台",
-      "url": "https://www.jiqizhixin.com/articles",
-      "source": "机器之心",
+      "id": "30830ca4",
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/511779.html",
+      "source": "量子位",
       "source_type": null,
-      "sourceName": "机器之心",
-      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511779.html",
       "category": "cn-media",
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "Flagship布局伦敦，打造AI原生科学创业平台",
-      "summary_zh": "Flagship布局伦敦，打造AI原生科学创业平台",
-      "publishedAt": "2026-11-21T16:17:06Z",
-      "published_at": "2026-11-21T16:17:06Z",
+      "summary": "还实现可变形物体操控全球首通  GPT-6.2 Astra又给具身智能上强度了，狠狠来了一计天马流星拳。 机器人基础设施公司XDOF的最新实测中，GPT-6.2Astra操控双臂机器人完成16项操作任务的综合成功率，从两个月前GPT-6Astra的19.6%飙升至41.2%，翻了一倍有余。 打结、展开T恤这两项此前无AI通关的操作，这次也被它拿下。  公布成绩后，OpenAI Developers官方账号转发了这条消息，OpenAI联合创始人兼总裁Greg Brockman也骄傲发言： GPT-6.2 Astra在机器人技术方面表现得非常出色～～  为确保评测严谨，XDOF以六台YAM工作站并行试验，每项任务重复三十次，单日可完成480场实测，并由人工标注子步骤、抓取失误与碰撞，滤除硬件偏差与随机扰动。 纵使标准如此严苛，XDOF也在最新推文中表示，Ember‑0基准或不久后便会被模型能力饱和。 两个月成绩翻倍，到底有多强？ 要理解这次突破的含金量，得先搞明白测试任务究竟难在哪里。 GPT-6.2Astra参加的是XDOF推出的Ember-0测试。 这是一套面向真实物理环境的机器人评测",
+      "summary_zh": "还实现可变形物体操控全球首通  GPT-6.2 Astra又给具身智能上强度了，狠狠来了一计天马流星拳。 机器人基础设施公司XDOF的最新实测中，GPT-6.2Astra操控双臂机器人完成16项操作任务的综合成功率，从两个月前GPT-6Astra的19.6%飙升至41.2%，翻了一倍有余。 打结、展开T恤这两项此前无AI通关的操作，这次也被它拿下。  公布成绩后，OpenAI Developers官方账号转发了这条消息，OpenAI联合创始人兼总裁Greg Brockman也骄傲发言： GPT-6.2 Astra在机器人技术方面表现得非常出色～～  为确保评测严谨，XDOF以六台YAM工作站并行试验，每项任务重复三十次，单日可完成480场实测，并由人工标注子步骤、抓取失误与碰撞，滤除硬件偏差与随机扰动。 纵使标准如此严苛，XDOF也在最新推文中表示，Ember‑0基准或不久后便会被模型能力饱和。 两个月成绩翻倍，到底有多强？ 要理解这次突破的含金量，得先搞明白测试任务究竟难在哪里。 GPT-6.2Astra参加的是XDOF推出的Ember-0测试。 这是一套面向真实物理环境的机器人评测",
+      "publishedAt": "2026-11-21T06:35:59Z",
+      "published_at": "2026-11-21T06:35:59Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

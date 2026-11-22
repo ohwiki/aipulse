@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-21T16:17:44Z",
-  "generatedAt": "2026-11-21T16:17:44Z",
+  "generated_at": "2026-11-22T00:30:57Z",
+  "generatedAt": "2026-11-22T00:30:57Z",
   "count": 194,
   "total": 194,
   "entries": [
     {
       "date": "2026-11-22",
-      "generated_at": "2026-11-21T16:17:44Z",
-      "generatedAt": "2026-11-21T16:17:44Z",
+      "generated_at": "2026-11-22T00:30:57Z",
+      "generatedAt": "2026-11-22T00:30:57Z",
       "total": 7,
       "sectionCount": 2,
       "highlights": [
@@ -28,7 +28,7 @@
           "summary_zh": "AI client relationship assistant that thinks a",
           "publishedAt": "2026-11-21T08:01:00Z",
           "published_at": "2026-11-21T08:01:00Z",
-          "votes_count": 202,
+          "votes_count": 256,
           "featured": true,
           "topics": [
             {
@@ -66,7 +66,7 @@
           "summary_zh": "Memory you control, synced to every agent, too",
           "publishedAt": "2026-11-21T08:01:00Z",
           "published_at": "2026-11-21T08:01:00Z",
-          "votes_count": 159,
+          "votes_count": 207,
           "featured": true,
           "topics": [
             {
@@ -104,7 +104,7 @@
           "summary_zh": "Run GitHub Actions 3x faster Run GitHub Action",
           "publishedAt": "2026-11-21T08:01:00Z",
           "published_at": "2026-11-21T08:01:00Z",
-          "votes_count": 129,
+          "votes_count": 173,
           "featured": true,
           "topics": [
             {
