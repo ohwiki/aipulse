@@ -1,9 +1,116 @@
 {
-  "generated_at": "2026-11-22T00:30:57Z",
-  "generatedAt": "2026-11-22T00:30:57Z",
-  "count": 194,
-  "total": 194,
+  "generated_at": "2026-11-22T16:31:25Z",
+  "generatedAt": "2026-11-22T16:31:25Z",
+  "count": 195,
+  "total": 195,
   "entries": [
+    {
+      "date": "2026-11-23",
+      "generated_at": "2026-11-22T16:31:25Z",
+      "generatedAt": "2026-11-22T16:31:25Z",
+      "total": 6,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "362a8578",
+          "title": "产品更新：Yoroll",
+          "title_en": "Yoroll",
+          "url": "https://www.producthunt.com/products/yoroll?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/yoroll?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build playable stories without a game engine Y",
+          "summary_zh": "Build playable stories without a game engine Y",
+          "publishedAt": "2026-11-22T08:01:00Z",
+          "published_at": "2026-11-22T08:01:00Z",
+          "votes_count": 192,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3f9342b7",
+          "title": "产品更新：Rankhog",
+          "title_en": "Rankhog",
+          "url": "https://www.producthunt.com/products/rankhog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/rankhog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Get customers from Reddit on autopilot Rankhog",
+          "summary_zh": "Get customers from Reddit on autopilot Rankhog",
+          "publishedAt": "2026-11-22T08:00:00Z",
+          "published_at": "2026-11-22T08:00:00Z",
+          "votes_count": 194,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "283",
+              "name": "reddit",
+              "slug": "reddit"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "3e78eef3",
+          "title": "让机器人从实验执行走向科学决策：Bi",
+          "title_en": "让机器人从实验执行走向科学决策：BioMARS 2.0打造新一代机器人生物学家",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5,
+          "rankingScore": 5,
+          "summary": "让机器人从实验执行走向科学决策：BioMARS 2.0打造新一代机器人生物学家",
+          "summary_zh": "让机器人从实验执行走向科学决策：BioMARS 2.0打造新一代机器人生物学家",
+          "publishedAt": "2026-11-22T16:30:50Z",
+          "published_at": "2026-11-22T16:30:50Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "generated_at": "2026-11-22T00:30:57Z",

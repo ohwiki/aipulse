@@ -1,0 +1,351 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-22T16:31:25Z",
+  "generatedAt": "2026-11-22T16:31:25Z",
+  "total": 6,
+  "count": 6,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "3f9342b7",
+          "title": "产品更新：Rankhog",
+          "title_en": "Rankhog",
+          "url": "https://www.producthunt.com/products/rankhog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/rankhog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Get customers from Reddit on autopilot Rankhog",
+          "summary_zh": "Get customers from Reddit on autopilot Rankhog",
+          "publishedAt": "2026-11-22T08:00:00Z",
+          "published_at": "2026-11-22T08:00:00Z",
+          "votes_count": 194,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "283",
+              "name": "reddit",
+              "slug": "reddit"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "362a8578",
+          "title": "产品更新：Yoroll",
+          "title_en": "Yoroll",
+          "url": "https://www.producthunt.com/products/yoroll?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/yoroll?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Build playable stories without a game engine Y",
+          "summary_zh": "Build playable stories without a game engine Y",
+          "publishedAt": "2026-11-22T08:01:00Z",
+          "published_at": "2026-11-22T08:01:00Z",
+          "votes_count": 192,
+          "featured": true,
+          "topics": [
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "353",
+              "name": "Games",
+              "slug": "games"
+            },
+            {
+              "id": "470",
+              "name": "No-Code",
+              "slug": "no-code"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "90f985cf",
+          "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/511870.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/511870.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "乔迟 发自 凹非寺量子位 | 公众号QbitAI 黎曼猜想的消息还没消化完，另一道千禧难题又被同一个数学家，同样与Claude合作证明了。 一边是黎曼猜想，关乎素数分布；另一边是Navier–Stokes存在性与光滑性问题，关乎描述水和空气运动的方程，能否一直给出平滑的解。 站在两项主张背后的，是34岁的Anthropic数学家Levent Alpöge。 11月20日，Alpöge与纽约大学教授Tristan Buckmaster公布论文，声称证明了三维Navier–Stokes方程的无外力有限时间爆破。 论文共79页，同时公开了Lean形式化证明代码。 陶哲轩也已专门发文讨论。他认为，这次NS证明的大体策略已经清楚，但仍需进一步整理成规范、专业的证明文本。两项主张究竟能否站住，接下来要看独立核验。  一个在Anthropic工作的数学家，拉上高校同行，再联手Claude，一天公布两道千禧难题的证明主张——这是不给其他还在坚持“手搓”的数学家喘口气的时间啊。。。 但是人类数学家不甘示弱，他们已经开始“反击”了！ 来自意大利罗马、拥有斯坦福大学数学博士学位的数学家Alessandro",
+          "summary_zh": "乔迟 发自 凹非寺量子位 | 公众号QbitAI 黎曼猜想的消息还没消化完，另一道千禧难题又被同一个数学家，同样与Claude合作证明了。 一边是黎曼猜想，关乎素数分布；另一边是Navier–Stokes存在性与光滑性问题，关乎描述水和空气运动的方程，能否一直给出平滑的解。 站在两项主张背后的，是34岁的Anthropic数学家Levent Alpöge。 11月20日，Alpöge与纽约大学教授Tristan Buckmaster公布论文，声称证明了三维Navier–Stokes方程的无外力有限时间爆破。 论文共79页，同时公开了Lean形式化证明代码。 陶哲轩也已专门发文讨论。他认为，这次NS证明的大体策略已经清楚，但仍需进一步整理成规范、专业的证明文本。两项主张究竟能否站住，接下来要看独立核验。  一个在Anthropic工作的数学家，拉上高校同行，再联手Claude，一天公布两道千禧难题的证明主张——这是不给其他还在坚持“手搓”的数学家喘口气的时间啊。。。 但是人类数学家不甘示弱，他们已经开始“反击”了！ 来自意大利罗马、拥有斯坦福大学数学博士学位的数学家Alessandro",
+          "publishedAt": "2026-11-22T06:03:54Z",
+          "published_at": "2026-11-22T06:03:54Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "6acc362d",
+          "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/511904.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/511904.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "用葡萄糖发电控制血糖。  好消息！ 不用打胰岛素，糖尿病可以靠体内葡萄糖发电刺激神经来控制了。 Nature最新研究，新加坡国立大学、南京邮电大学造出了一款植入装置，成功让糖尿病大鼠恢复了正常血糖。 实验结果来看，二型糖尿病大鼠在植入装置仅仅两周后，血糖就降到了接近健康大鼠的水平；而一型糖尿病大鼠则在治疗八周后恢复正常血糖控制，研究人员甚至观察到了胰岛β细胞的增殖和恢复。 这款装置的基本原理是，利用葡萄糖发电，再通过电刺激迷走神经，调动身体原本就存在的神经免疫调节机制，同时根据血糖变化，自动决定启动刺激和停止的时间。 研究团队将这套系统命名为NeuroAxis（人工神经免疫轴）。    △图源论文 为何刺激迷走神经就能控糖？ 我们知道，胰岛素是人体调节血糖的关键激素，它由胰腺中的胰岛β细胞分泌，能够帮助身体里的细胞吸收和利用葡萄糖，从而降低血糖。 但糖尿病患者的这套调节机制出了问题，需要通过补充胰岛素、促进胰岛素分泌或改善胰岛素敏感性等方式来控制血糖。 其中，一型糖尿病主要是因为免疫系统错误地攻击胰岛β细胞，导致身体无法分泌足够的胰岛素。 二型糖尿病则主要涉及胰岛素抵抗，以及胰岛β细胞",
+          "summary_zh": "用葡萄糖发电控制血糖。  好消息！ 不用打胰岛素，糖尿病可以靠体内葡萄糖发电刺激神经来控制了。 Nature最新研究，新加坡国立大学、南京邮电大学造出了一款植入装置，成功让糖尿病大鼠恢复了正常血糖。 实验结果来看，二型糖尿病大鼠在植入装置仅仅两周后，血糖就降到了接近健康大鼠的水平；而一型糖尿病大鼠则在治疗八周后恢复正常血糖控制，研究人员甚至观察到了胰岛β细胞的增殖和恢复。 这款装置的基本原理是，利用葡萄糖发电，再通过电刺激迷走神经，调动身体原本就存在的神经免疫调节机制，同时根据血糖变化，自动决定启动刺激和停止的时间。 研究团队将这套系统命名为NeuroAxis（人工神经免疫轴）。    △图源论文 为何刺激迷走神经就能控糖？ 我们知道，胰岛素是人体调节血糖的关键激素，它由胰腺中的胰岛β细胞分泌，能够帮助身体里的细胞吸收和利用葡萄糖，从而降低血糖。 但糖尿病患者的这套调节机制出了问题，需要通过补充胰岛素、促进胰岛素分泌或改善胰岛素敏感性等方式来控制血糖。 其中，一型糖尿病主要是因为免疫系统错误地攻击胰岛β细胞，导致身体无法分泌足够的胰岛素。 二型糖尿病则主要涉及胰岛素抵抗，以及胰岛β细胞",
+          "publishedAt": "2026-11-22T06:21:47Z",
+          "published_at": "2026-11-22T06:21:47Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "3e78eef3",
+          "title": "让机器人从实验执行走向科学决策：Bi",
+          "title_en": "让机器人从实验执行走向科学决策：BioMARS 2.0打造新一代机器人生物学家",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "让机器人从实验执行走向科学决策：BioMARS 2.0打造新一代机器人生物学家",
+          "summary_zh": "让机器人从实验执行走向科学决策：BioMARS 2.0打造新一代机器人生物学家",
+          "publishedAt": "2026-11-22T16:30:50Z",
+          "published_at": "2026-11-22T16:30:50Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "fdf14eff",
+          "title": "AI资讯更新：AI for Scienc",
+          "title_en": "AI for Science（AI4S）",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "AI for Science（AI4S）",
+          "summary_zh": "AI for Science（AI4S）",
+          "publishedAt": "2026-11-22T16:30:50Z",
+          "published_at": "2026-11-22T16:30:50Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "3f9342b7",
+      "title": "产品更新：Rankhog",
+      "title_en": "Rankhog",
+      "url": "https://www.producthunt.com/products/rankhog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/rankhog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Get customers from Reddit on autopilot Rankhog",
+      "summary_zh": "Get customers from Reddit on autopilot Rankhog",
+      "publishedAt": "2026-11-22T08:00:00Z",
+      "published_at": "2026-11-22T08:00:00Z",
+      "votes_count": 194,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "283",
+          "name": "reddit",
+          "slug": "reddit"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "362a8578",
+      "title": "产品更新：Yoroll",
+      "title_en": "Yoroll",
+      "url": "https://www.producthunt.com/products/yoroll?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/yoroll?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Build playable stories without a game engine Y",
+      "summary_zh": "Build playable stories without a game engine Y",
+      "publishedAt": "2026-11-22T08:01:00Z",
+      "published_at": "2026-11-22T08:01:00Z",
+      "votes_count": 192,
+      "featured": true,
+      "topics": [
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "353",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "470",
+          "name": "No-Code",
+          "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "90f985cf",
+      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/511870.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511870.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "乔迟 发自 凹非寺量子位 | 公众号QbitAI 黎曼猜想的消息还没消化完，另一道千禧难题又被同一个数学家，同样与Claude合作证明了。 一边是黎曼猜想，关乎素数分布；另一边是Navier–Stokes存在性与光滑性问题，关乎描述水和空气运动的方程，能否一直给出平滑的解。 站在两项主张背后的，是34岁的Anthropic数学家Levent Alpöge。 11月20日，Alpöge与纽约大学教授Tristan Buckmaster公布论文，声称证明了三维Navier–Stokes方程的无外力有限时间爆破。 论文共79页，同时公开了Lean形式化证明代码。 陶哲轩也已专门发文讨论。他认为，这次NS证明的大体策略已经清楚，但仍需进一步整理成规范、专业的证明文本。两项主张究竟能否站住，接下来要看独立核验。  一个在Anthropic工作的数学家，拉上高校同行，再联手Claude，一天公布两道千禧难题的证明主张——这是不给其他还在坚持“手搓”的数学家喘口气的时间啊。。。 但是人类数学家不甘示弱，他们已经开始“反击”了！ 来自意大利罗马、拥有斯坦福大学数学博士学位的数学家Alessandro",
+      "summary_zh": "乔迟 发自 凹非寺量子位 | 公众号QbitAI 黎曼猜想的消息还没消化完，另一道千禧难题又被同一个数学家，同样与Claude合作证明了。 一边是黎曼猜想，关乎素数分布；另一边是Navier–Stokes存在性与光滑性问题，关乎描述水和空气运动的方程，能否一直给出平滑的解。 站在两项主张背后的，是34岁的Anthropic数学家Levent Alpöge。 11月20日，Alpöge与纽约大学教授Tristan Buckmaster公布论文，声称证明了三维Navier–Stokes方程的无外力有限时间爆破。 论文共79页，同时公开了Lean形式化证明代码。 陶哲轩也已专门发文讨论。他认为，这次NS证明的大体策略已经清楚，但仍需进一步整理成规范、专业的证明文本。两项主张究竟能否站住，接下来要看独立核验。  一个在Anthropic工作的数学家，拉上高校同行，再联手Claude，一天公布两道千禧难题的证明主张——这是不给其他还在坚持“手搓”的数学家喘口气的时间啊。。。 但是人类数学家不甘示弱，他们已经开始“反击”了！ 来自意大利罗马、拥有斯坦福大学数学博士学位的数学家Alessandro",
+      "publishedAt": "2026-11-22T06:03:54Z",
+      "published_at": "2026-11-22T06:03:54Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "6acc362d",
+      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/511904.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511904.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "用葡萄糖发电控制血糖。  好消息！ 不用打胰岛素，糖尿病可以靠体内葡萄糖发电刺激神经来控制了。 Nature最新研究，新加坡国立大学、南京邮电大学造出了一款植入装置，成功让糖尿病大鼠恢复了正常血糖。 实验结果来看，二型糖尿病大鼠在植入装置仅仅两周后，血糖就降到了接近健康大鼠的水平；而一型糖尿病大鼠则在治疗八周后恢复正常血糖控制，研究人员甚至观察到了胰岛β细胞的增殖和恢复。 这款装置的基本原理是，利用葡萄糖发电，再通过电刺激迷走神经，调动身体原本就存在的神经免疫调节机制，同时根据血糖变化，自动决定启动刺激和停止的时间。 研究团队将这套系统命名为NeuroAxis（人工神经免疫轴）。    △图源论文 为何刺激迷走神经就能控糖？ 我们知道，胰岛素是人体调节血糖的关键激素，它由胰腺中的胰岛β细胞分泌，能够帮助身体里的细胞吸收和利用葡萄糖，从而降低血糖。 但糖尿病患者的这套调节机制出了问题，需要通过补充胰岛素、促进胰岛素分泌或改善胰岛素敏感性等方式来控制血糖。 其中，一型糖尿病主要是因为免疫系统错误地攻击胰岛β细胞，导致身体无法分泌足够的胰岛素。 二型糖尿病则主要涉及胰岛素抵抗，以及胰岛β细胞",
+      "summary_zh": "用葡萄糖发电控制血糖。  好消息！ 不用打胰岛素，糖尿病可以靠体内葡萄糖发电刺激神经来控制了。 Nature最新研究，新加坡国立大学、南京邮电大学造出了一款植入装置，成功让糖尿病大鼠恢复了正常血糖。 实验结果来看，二型糖尿病大鼠在植入装置仅仅两周后，血糖就降到了接近健康大鼠的水平；而一型糖尿病大鼠则在治疗八周后恢复正常血糖控制，研究人员甚至观察到了胰岛β细胞的增殖和恢复。 这款装置的基本原理是，利用葡萄糖发电，再通过电刺激迷走神经，调动身体原本就存在的神经免疫调节机制，同时根据血糖变化，自动决定启动刺激和停止的时间。 研究团队将这套系统命名为NeuroAxis（人工神经免疫轴）。    △图源论文 为何刺激迷走神经就能控糖？ 我们知道，胰岛素是人体调节血糖的关键激素，它由胰腺中的胰岛β细胞分泌，能够帮助身体里的细胞吸收和利用葡萄糖，从而降低血糖。 但糖尿病患者的这套调节机制出了问题，需要通过补充胰岛素、促进胰岛素分泌或改善胰岛素敏感性等方式来控制血糖。 其中，一型糖尿病主要是因为免疫系统错误地攻击胰岛β细胞，导致身体无法分泌足够的胰岛素。 二型糖尿病则主要涉及胰岛素抵抗，以及胰岛β细胞",
+      "publishedAt": "2026-11-22T06:21:47Z",
+      "published_at": "2026-11-22T06:21:47Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "3e78eef3",
+      "title": "让机器人从实验执行走向科学决策：Bi",
+      "title_en": "让机器人从实验执行走向科学决策：BioMARS 2.0打造新一代机器人生物学家",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "让机器人从实验执行走向科学决策：BioMARS 2.0打造新一代机器人生物学家",
+      "summary_zh": "让机器人从实验执行走向科学决策：BioMARS 2.0打造新一代机器人生物学家",
+      "publishedAt": "2026-11-22T16:30:50Z",
+      "published_at": "2026-11-22T16:30:50Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "fdf14eff",
+      "title": "AI资讯更新：AI for Scienc",
+      "title_en": "AI for Science（AI4S）",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "AI for Science（AI4S）",
+      "summary_zh": "AI for Science（AI4S）",
+      "publishedAt": "2026-11-22T16:30:50Z",
+      "published_at": "2026-11-22T16:30:50Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
