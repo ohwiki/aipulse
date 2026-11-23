@@ -1,0 +1,503 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-23T20:26:54Z",
+  "generatedAt": "2026-11-23T20:26:54Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "29cefaeb",
+          "title": "产品更新：Letter Visitors",
+          "title_en": "Letter Visitors",
+          "url": "https://www.producthunt.com/products/visitors?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/visitors?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "See website visitors on your website itself Kn",
+          "summary_zh": "See website visitors on your website itself Kn",
+          "publishedAt": "2026-11-23T08:01:00Z",
+          "published_at": "2026-11-23T08:01:00Z",
+          "votes_count": 289,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "2346af55",
+          "title": "AI资讯更新：Gauth Persona",
+          "title_en": "Gauth Personal Study Agent",
+          "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "An AI study agent that remembers where you str",
+          "summary_zh": "An AI study agent that remembers where you str",
+          "publishedAt": "2026-11-23T08:01:00Z",
+          "published_at": "2026-11-23T08:01:00Z",
+          "votes_count": 228,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "782",
+              "name": "Online Learning",
+              "slug": "online-learning"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "7903b06c",
+          "title": "产品更新：Modem",
+          "title_en": "Modem",
+          "url": "https://www.producthunt.com/products/modem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/modem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Find, fix, and follow up on every customer con",
+          "summary_zh": "Find, fix, and follow up on every customer con",
+          "publishedAt": "2026-11-23T08:01:00Z",
+          "published_at": "2026-11-23T08:01:00Z",
+          "votes_count": 177,
+          "featured": true,
+          "topics": [
+            {
+              "id": "55",
+              "name": "Customer Success",
+              "slug": "customer-success"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "1e77835b",
+          "title": "产品更新：Dog Translator",
+          "title_en": "Dog Translator SuperTranslator",
+          "url": "https://www.producthunt.com/products/dog-translator-supertranslator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/dog-translator-supertranslator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Dogs talking in English (real) What if your do",
+          "summary_zh": "Dogs talking in English (real) What if your do",
+          "publishedAt": "2026-11-23T08:01:00Z",
+          "published_at": "2026-11-23T08:01:00Z",
+          "votes_count": 160,
+          "featured": true,
+          "topics": [
+            {
+              "id": "199",
+              "name": "Pets",
+              "slug": "pets"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "711",
+              "name": "Science",
+              "slug": "science"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "c9424c72",
+          "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/511921.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/511921.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "还透露了不少训练背后的秘诀  听雨 发自 凹非寺 量子位 | 公众号QbitAI Hy小模型已经在路线图上，面向24GB显存的模型也有计划。 今天凌晨，姚顺雨和腾讯混元团队来到Reddit社区，围绕刚发布的Hy4和Hy4 flash做了一场AMA。  AMA是「Ask Me Anything」的缩写，意思是「有什么想问的，尽管问」。网友在评论区提问，混元团队成员直接回帖。  参与名单上只列了Reddit账号，至于哪个马甲是姚顺雨，我们还没对上号…… 这场AMA的主角，是混元本月接连发布的两款模型。 11月4日发布的Hy4是旗舰，能理解文本、图像和视频，适合长程软件工程这类需要多步推理、反复调用工具的复杂任务。 11月16日发布的Hy4 flash，主打日常办公的速度和成本。它支持图文输入和最长100万Token的上下文，每个Token激活约120亿参数。 Hy4和Hy4 flash都已接入腾讯WorkBuddy。混元团队还把WorkBuddy里的修表、改文档、做PPT等典型任务纳入了内部评测WorkIndex，按这套评测测算，Hy4 flash的平均单任务成本约为旗舰Hy4的1/20。",
+          "summary_zh": "还透露了不少训练背后的秘诀  听雨 发自 凹非寺 量子位 | 公众号QbitAI Hy小模型已经在路线图上，面向24GB显存的模型也有计划。 今天凌晨，姚顺雨和腾讯混元团队来到Reddit社区，围绕刚发布的Hy4和Hy4 flash做了一场AMA。  AMA是「Ask Me Anything」的缩写，意思是「有什么想问的，尽管问」。网友在评论区提问，混元团队成员直接回帖。  参与名单上只列了Reddit账号，至于哪个马甲是姚顺雨，我们还没对上号…… 这场AMA的主角，是混元本月接连发布的两款模型。 11月4日发布的Hy4是旗舰，能理解文本、图像和视频，适合长程软件工程这类需要多步推理、反复调用工具的复杂任务。 11月16日发布的Hy4 flash，主打日常办公的速度和成本。它支持图文输入和最长100万Token的上下文，每个Token激活约120亿参数。 Hy4和Hy4 flash都已接入腾讯WorkBuddy。混元团队还把WorkBuddy里的修表、改文档、做PPT等典型任务纳入了内部评测WorkIndex，按这套评测测算，Hy4 flash的平均单任务成本约为旗舰Hy4的1/20。",
+          "publishedAt": "2026-11-23T02:09:59Z",
+          "published_at": "2026-11-23T02:09:59Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "3b658ada",
+          "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/511933.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/511933.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "豆包工作是目前字节优先级最高的产品  听雨 发自 凹非寺 量子位 | 公众号QbitAI 去不了字节打工，现在可以让字节的AI给你打工了。 豆包工作把这套能力开放了出来，最近上线的新功能「工作台」，一口气铺开21个专业场景。 从金融投研、创意设计，到医疗、教育，各有各的工作空间，预先配置了相应的技能和工具。  相当于你要找个帮手，豆包工作先替你把岗位分好、工具备齐，再由你来派活。 豆包工作上线三个月，DAU突破800万，企业客户ARR突破20亿元。有业内人士告诉量子位，豆包工作目前是字节优先级最高的产品。 那么，它刚上的新功能「工作台」，到底能干到哪一步？ 我们挑了金融投研、创意设计、医生和教师四个工作台进行实测，挨个交真实任务，自己看结果。 先说结论：按这次实测的表现，我们愿意给80分。豆包工作已经能交出有用的工作底稿，值得专业人士继续往下做。 比如，设计工作台能连续完成电商主图、海报和局部修改；教师工作台写教案时，还会提前列出学生容易犯的错，配上老师可以追问的问题。 当然，素材里的事实需要审核，专业判断以及成品能否交付，都需要人来拍板。 那么，这80分是怎么打出来的？我们实测走起～",
+          "summary_zh": "豆包工作是目前字节优先级最高的产品  听雨 发自 凹非寺 量子位 | 公众号QbitAI 去不了字节打工，现在可以让字节的AI给你打工了。 豆包工作把这套能力开放了出来，最近上线的新功能「工作台」，一口气铺开21个专业场景。 从金融投研、创意设计，到医疗、教育，各有各的工作空间，预先配置了相应的技能和工具。  相当于你要找个帮手，豆包工作先替你把岗位分好、工具备齐，再由你来派活。 豆包工作上线三个月，DAU突破800万，企业客户ARR突破20亿元。有业内人士告诉量子位，豆包工作目前是字节优先级最高的产品。 那么，它刚上的新功能「工作台」，到底能干到哪一步？ 我们挑了金融投研、创意设计、医生和教师四个工作台进行实测，挨个交真实任务，自己看结果。 先说结论：按这次实测的表现，我们愿意给80分。豆包工作已经能交出有用的工作底稿，值得专业人士继续往下做。 比如，设计工作台能连续完成电商主图、海报和局部修改；教师工作台写教案时，还会提前列出学生容易犯的错，配上老师可以追问的问题。 当然，素材里的事实需要审核，专业判断以及成品能否交付，都需要人来拍板。 那么，这80分是怎么打出来的？我们实测走起～",
+          "publishedAt": "2026-11-23T02:29:24Z",
+          "published_at": "2026-11-23T02:29:24Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "d7268feb",
+          "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/511978.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/511978.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "RoboChallenge正式发布全新评测基准RoboChallenge Zero  RoboChallenge正式发布全新评测基准RoboChallenge Zero，旨在通过真实机器人任务检验模型的具身零样本能力，并同步公布首批11个多模态大模型在6项任务、330次真机测试中的评测结果。 随着通用多模态大模型在具身相关评测中的表现不断提升，行业内开始出现一种讨论：通用大模型是否会替代专用具身模型，直接承担机器人的理解、决策与操作？要讨论这种可能性，需要先回答一个具体的问题：当大模型接上真实机器人，面对实际的物体、空间和接触关系时，究竟能把任务完成到什么程度？为此，我们推出了真实机器人零样本评测基准RoboChallenge Zero，用测试机器人的方式，检验大模型的具身能力。 首期评测中，我们将11个多模态大模型接入统一的机器人控制接口，在两类真实机器人平台上开展6项操作任务，共完成330次独立测试。结果显示，整体成功率为44.85%，表现最好的模型成功率达到70.00%。但不同任务之间存在显著差异：放置较大积木的成功率为89.09%，书写“Z0”仅为7.27%，在“解开并按要求铺",
+          "summary_zh": "RoboChallenge正式发布全新评测基准RoboChallenge Zero  RoboChallenge正式发布全新评测基准RoboChallenge Zero，旨在通过真实机器人任务检验模型的具身零样本能力，并同步公布首批11个多模态大模型在6项任务、330次真机测试中的评测结果。 随着通用多模态大模型在具身相关评测中的表现不断提升，行业内开始出现一种讨论：通用大模型是否会替代专用具身模型，直接承担机器人的理解、决策与操作？要讨论这种可能性，需要先回答一个具体的问题：当大模型接上真实机器人，面对实际的物体、空间和接触关系时，究竟能把任务完成到什么程度？为此，我们推出了真实机器人零样本评测基准RoboChallenge Zero，用测试机器人的方式，检验大模型的具身能力。 首期评测中，我们将11个多模态大模型接入统一的机器人控制接口，在两类真实机器人平台上开展6项操作任务，共完成330次独立测试。结果显示，整体成功率为44.85%，表现最好的模型成功率达到70.00%。但不同任务之间存在显著差异：放置较大积木的成功率为89.09%，书写“Z0”仅为7.27%，在“解开并按要求铺",
+          "publishedAt": "2026-11-23T03:13:06Z",
+          "published_at": "2026-11-23T03:13:06Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "f6af5052",
+          "title": "突发！黄仁勋重任英伟达CEO，恢复全",
+          "title_en": "突发！黄仁勋重任英伟达CEO，恢复全部职位",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "突发！黄仁勋重任英伟达CEO，恢复全部职位",
+          "summary_zh": "突发！黄仁勋重任英伟达CEO，恢复全部职位",
+          "publishedAt": "2026-11-23T20:26:20Z",
+          "published_at": "2026-11-23T20:26:20Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "29cefaeb",
+      "title": "产品更新：Letter Visitors",
+      "title_en": "Letter Visitors",
+      "url": "https://www.producthunt.com/products/visitors?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/visitors?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "See website visitors on your website itself Kn",
+      "summary_zh": "See website visitors on your website itself Kn",
+      "publishedAt": "2026-11-23T08:01:00Z",
+      "published_at": "2026-11-23T08:01:00Z",
+      "votes_count": 289,
+      "featured": true,
+      "topics": [
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "2346af55",
+      "title": "AI资讯更新：Gauth Persona",
+      "title_en": "Gauth Personal Study Agent",
+      "url": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "An AI study agent that remembers where you str",
+      "summary_zh": "An AI study agent that remembers where you str",
+      "publishedAt": "2026-11-23T08:01:00Z",
+      "published_at": "2026-11-23T08:01:00Z",
+      "votes_count": 228,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "204",
+          "name": "Education",
+          "slug": "education"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "782",
+          "name": "Online Learning",
+          "slug": "online-learning"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "7903b06c",
+      "title": "产品更新：Modem",
+      "title_en": "Modem",
+      "url": "https://www.producthunt.com/products/modem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/modem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Find, fix, and follow up on every customer con",
+      "summary_zh": "Find, fix, and follow up on every customer con",
+      "publishedAt": "2026-11-23T08:01:00Z",
+      "published_at": "2026-11-23T08:01:00Z",
+      "votes_count": 177,
+      "featured": true,
+      "topics": [
+        {
+          "id": "55",
+          "name": "Customer Success",
+          "slug": "customer-success"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "1e77835b",
+      "title": "产品更新：Dog Translator",
+      "title_en": "Dog Translator SuperTranslator",
+      "url": "https://www.producthunt.com/products/dog-translator-supertranslator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/dog-translator-supertranslator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Dogs talking in English (real) What if your do",
+      "summary_zh": "Dogs talking in English (real) What if your do",
+      "publishedAt": "2026-11-23T08:01:00Z",
+      "published_at": "2026-11-23T08:01:00Z",
+      "votes_count": 160,
+      "featured": true,
+      "topics": [
+        {
+          "id": "199",
+          "name": "Pets",
+          "slug": "pets"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "711",
+          "name": "Science",
+          "slug": "science"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "c9424c72",
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/511921.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511921.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "还透露了不少训练背后的秘诀  听雨 发自 凹非寺 量子位 | 公众号QbitAI Hy小模型已经在路线图上，面向24GB显存的模型也有计划。 今天凌晨，姚顺雨和腾讯混元团队来到Reddit社区，围绕刚发布的Hy4和Hy4 flash做了一场AMA。  AMA是「Ask Me Anything」的缩写，意思是「有什么想问的，尽管问」。网友在评论区提问，混元团队成员直接回帖。  参与名单上只列了Reddit账号，至于哪个马甲是姚顺雨，我们还没对上号…… 这场AMA的主角，是混元本月接连发布的两款模型。 11月4日发布的Hy4是旗舰，能理解文本、图像和视频，适合长程软件工程这类需要多步推理、反复调用工具的复杂任务。 11月16日发布的Hy4 flash，主打日常办公的速度和成本。它支持图文输入和最长100万Token的上下文，每个Token激活约120亿参数。 Hy4和Hy4 flash都已接入腾讯WorkBuddy。混元团队还把WorkBuddy里的修表、改文档、做PPT等典型任务纳入了内部评测WorkIndex，按这套评测测算，Hy4 flash的平均单任务成本约为旗舰Hy4的1/20。",
+      "summary_zh": "还透露了不少训练背后的秘诀  听雨 发自 凹非寺 量子位 | 公众号QbitAI Hy小模型已经在路线图上，面向24GB显存的模型也有计划。 今天凌晨，姚顺雨和腾讯混元团队来到Reddit社区，围绕刚发布的Hy4和Hy4 flash做了一场AMA。  AMA是「Ask Me Anything」的缩写，意思是「有什么想问的，尽管问」。网友在评论区提问，混元团队成员直接回帖。  参与名单上只列了Reddit账号，至于哪个马甲是姚顺雨，我们还没对上号…… 这场AMA的主角，是混元本月接连发布的两款模型。 11月4日发布的Hy4是旗舰，能理解文本、图像和视频，适合长程软件工程这类需要多步推理、反复调用工具的复杂任务。 11月16日发布的Hy4 flash，主打日常办公的速度和成本。它支持图文输入和最长100万Token的上下文，每个Token激活约120亿参数。 Hy4和Hy4 flash都已接入腾讯WorkBuddy。混元团队还把WorkBuddy里的修表、改文档、做PPT等典型任务纳入了内部评测WorkIndex，按这套评测测算，Hy4 flash的平均单任务成本约为旗舰Hy4的1/20。",
+      "publishedAt": "2026-11-23T02:09:59Z",
+      "published_at": "2026-11-23T02:09:59Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "3b658ada",
+      "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/511933.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511933.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "豆包工作是目前字节优先级最高的产品  听雨 发自 凹非寺 量子位 | 公众号QbitAI 去不了字节打工，现在可以让字节的AI给你打工了。 豆包工作把这套能力开放了出来，最近上线的新功能「工作台」，一口气铺开21个专业场景。 从金融投研、创意设计，到医疗、教育，各有各的工作空间，预先配置了相应的技能和工具。  相当于你要找个帮手，豆包工作先替你把岗位分好、工具备齐，再由你来派活。 豆包工作上线三个月，DAU突破800万，企业客户ARR突破20亿元。有业内人士告诉量子位，豆包工作目前是字节优先级最高的产品。 那么，它刚上的新功能「工作台」，到底能干到哪一步？ 我们挑了金融投研、创意设计、医生和教师四个工作台进行实测，挨个交真实任务，自己看结果。 先说结论：按这次实测的表现，我们愿意给80分。豆包工作已经能交出有用的工作底稿，值得专业人士继续往下做。 比如，设计工作台能连续完成电商主图、海报和局部修改；教师工作台写教案时，还会提前列出学生容易犯的错，配上老师可以追问的问题。 当然，素材里的事实需要审核，专业判断以及成品能否交付，都需要人来拍板。 那么，这80分是怎么打出来的？我们实测走起～",
+      "summary_zh": "豆包工作是目前字节优先级最高的产品  听雨 发自 凹非寺 量子位 | 公众号QbitAI 去不了字节打工，现在可以让字节的AI给你打工了。 豆包工作把这套能力开放了出来，最近上线的新功能「工作台」，一口气铺开21个专业场景。 从金融投研、创意设计，到医疗、教育，各有各的工作空间，预先配置了相应的技能和工具。  相当于你要找个帮手，豆包工作先替你把岗位分好、工具备齐，再由你来派活。 豆包工作上线三个月，DAU突破800万，企业客户ARR突破20亿元。有业内人士告诉量子位，豆包工作目前是字节优先级最高的产品。 那么，它刚上的新功能「工作台」，到底能干到哪一步？ 我们挑了金融投研、创意设计、医生和教师四个工作台进行实测，挨个交真实任务，自己看结果。 先说结论：按这次实测的表现，我们愿意给80分。豆包工作已经能交出有用的工作底稿，值得专业人士继续往下做。 比如，设计工作台能连续完成电商主图、海报和局部修改；教师工作台写教案时，还会提前列出学生容易犯的错，配上老师可以追问的问题。 当然，素材里的事实需要审核，专业判断以及成品能否交付，都需要人来拍板。 那么，这80分是怎么打出来的？我们实测走起～",
+      "publishedAt": "2026-11-23T02:29:24Z",
+      "published_at": "2026-11-23T02:29:24Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "d7268feb",
+      "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/511978.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/511978.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "RoboChallenge正式发布全新评测基准RoboChallenge Zero  RoboChallenge正式发布全新评测基准RoboChallenge Zero，旨在通过真实机器人任务检验模型的具身零样本能力，并同步公布首批11个多模态大模型在6项任务、330次真机测试中的评测结果。 随着通用多模态大模型在具身相关评测中的表现不断提升，行业内开始出现一种讨论：通用大模型是否会替代专用具身模型，直接承担机器人的理解、决策与操作？要讨论这种可能性，需要先回答一个具体的问题：当大模型接上真实机器人，面对实际的物体、空间和接触关系时，究竟能把任务完成到什么程度？为此，我们推出了真实机器人零样本评测基准RoboChallenge Zero，用测试机器人的方式，检验大模型的具身能力。 首期评测中，我们将11个多模态大模型接入统一的机器人控制接口，在两类真实机器人平台上开展6项操作任务，共完成330次独立测试。结果显示，整体成功率为44.85%，表现最好的模型成功率达到70.00%。但不同任务之间存在显著差异：放置较大积木的成功率为89.09%，书写“Z0”仅为7.27%，在“解开并按要求铺",
+      "summary_zh": "RoboChallenge正式发布全新评测基准RoboChallenge Zero  RoboChallenge正式发布全新评测基准RoboChallenge Zero，旨在通过真实机器人任务检验模型的具身零样本能力，并同步公布首批11个多模态大模型在6项任务、330次真机测试中的评测结果。 随着通用多模态大模型在具身相关评测中的表现不断提升，行业内开始出现一种讨论：通用大模型是否会替代专用具身模型，直接承担机器人的理解、决策与操作？要讨论这种可能性，需要先回答一个具体的问题：当大模型接上真实机器人，面对实际的物体、空间和接触关系时，究竟能把任务完成到什么程度？为此，我们推出了真实机器人零样本评测基准RoboChallenge Zero，用测试机器人的方式，检验大模型的具身能力。 首期评测中，我们将11个多模态大模型接入统一的机器人控制接口，在两类真实机器人平台上开展6项操作任务，共完成330次独立测试。结果显示，整体成功率为44.85%，表现最好的模型成功率达到70.00%。但不同任务之间存在显著差异：放置较大积木的成功率为89.09%，书写“Z0”仅为7.27%，在“解开并按要求铺",
+      "publishedAt": "2026-11-23T03:13:06Z",
+      "published_at": "2026-11-23T03:13:06Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "f6af5052",
+      "title": "突发！黄仁勋重任英伟达CEO，恢复全",
+      "title_en": "突发！黄仁勋重任英伟达CEO，恢复全部职位",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "突发！黄仁勋重任英伟达CEO，恢复全部职位",
+      "summary_zh": "突发！黄仁勋重任英伟达CEO，恢复全部职位",
+      "publishedAt": "2026-11-23T20:26:20Z",
+      "published_at": "2026-11-23T20:26:20Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}
