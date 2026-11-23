@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-22T16:31:25Z",
-  "generatedAt": "2026-11-22T16:31:25Z",
+  "generated_at": "2026-11-23T00:59:55Z",
+  "generatedAt": "2026-11-23T00:59:55Z",
   "days": 7,
-  "total": 6,
-  "count": 6,
+  "total": 8,
+  "count": 8,
   "items": [
     {
       "id": "3f9342b7",
@@ -22,7 +22,7 @@
       "summary_zh": "Get customers from Reddit on autopilot Rankhog",
       "publishedAt": "2026-11-22T08:00:00Z",
       "published_at": "2026-11-22T08:00:00Z",
-      "votes_count": 194,
+      "votes_count": 265,
       "featured": true,
       "topics": [
         {
@@ -60,7 +60,7 @@
       "summary_zh": "Build playable stories without a game engine Y",
       "publishedAt": "2026-11-22T08:01:00Z",
       "published_at": "2026-11-22T08:01:00Z",
-      "votes_count": 192,
+      "votes_count": 249,
       "featured": true,
       "topics": [
         {
@@ -77,6 +77,82 @@
           "id": "470",
           "name": "No-Code",
           "slug": "no-code"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "7cb45d1e",
+      "title": "产品更新：Resurf",
+      "title_en": "Resurf",
+      "url": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Personal Knowledge Base & Bookmark Manager for",
+      "summary_zh": "Personal Knowledge Base & Bookmark Manager for",
+      "publishedAt": "2026-11-22T08:01:00Z",
+      "published_at": "2026-11-22T08:01:00Z",
+      "votes_count": 156,
+      "featured": true,
+      "topics": [
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "96",
+          "name": "Notes",
+          "slug": "notes"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "45f22835",
+      "title": "产品更新：Daymaker",
+      "title_en": "Daymaker",
+      "url": "https://www.producthunt.com/products/daymaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/daymaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Gifts so personal, your prospects take the mee",
+      "summary_zh": "Gifts so personal, your prospects take the mee",
+      "publishedAt": "2026-11-22T08:01:00Z",
+      "published_at": "2026-11-22T08:01:00Z",
+      "votes_count": 126,
+      "featured": true,
+      "topics": [
+        {
+          "id": "39",
+          "name": "Email",
+          "slug": "email"
+        },
+        {
+          "id": "71",
+          "name": "Sales",
+          "slug": "sales"
+        },
+        {
+          "id": "164",
+          "name": "Marketing",
+          "slug": "marketing"
         }
       ],
       "score_details": null
@@ -140,8 +216,8 @@
       "rankingScore": 5.0,
       "summary": "让机器人从实验执行走向科学决策：BioMARS 2.0打造新一代机器人生物学家",
       "summary_zh": "让机器人从实验执行走向科学决策：BioMARS 2.0打造新一代机器人生物学家",
-      "publishedAt": "2026-11-22T16:30:50Z",
-      "published_at": "2026-11-22T16:30:50Z",
+      "publishedAt": "2026-11-23T00:58:30Z",
+      "published_at": "2026-11-23T00:58:30Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
@@ -162,8 +238,8 @@
       "rankingScore": 5.0,
       "summary": "AI for Science（AI4S）",
       "summary_zh": "AI for Science（AI4S）",
-      "publishedAt": "2026-11-22T16:30:50Z",
-      "published_at": "2026-11-22T16:30:50Z",
+      "publishedAt": "2026-11-23T00:58:30Z",
+      "published_at": "2026-11-23T00:58:30Z",
       "votes_count": null,
       "featured": null,
       "topics": [],
