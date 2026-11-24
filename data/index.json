@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-11-24T04:52:23Z",
-  "generatedAt": "2026-11-24T04:52:23Z",
-  "count": 196,
-  "total": 196,
+  "generated_at": "2026-11-24T19:37:40Z",
+  "generatedAt": "2026-11-24T19:37:40Z",
+  "count": 197,
+  "total": 197,
   "entries": [
+    {
+      "date": "2026-11-25",
+      "generated_at": "2026-11-24T19:37:40Z",
+      "generatedAt": "2026-11-24T19:37:40Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "044cdf36",
+          "title": "产品更新：distribution.de",
+          "title_en": "distribution.dev",
+          "url": "https://www.producthunt.com/products/distribution-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/distribution-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Advertise to developers on many sites with one",
+          "summary_zh": "Advertise to developers on many sites with one",
+          "publishedAt": "2026-11-24T08:01:00Z",
+          "published_at": "2026-11-24T08:01:00Z",
+          "votes_count": 208,
+          "featured": true,
+          "topics": [
+            {
+              "id": "164",
+              "name": "Marketing",
+              "slug": "marketing"
+            },
+            {
+              "id": "207",
+              "name": "Advertising",
+              "slug": "advertising"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9f2f4bce",
+          "title": "产品更新：Granular.Build",
+          "title_en": "Granular.Build",
+          "url": "https://www.producthunt.com/products/granular-build?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/granular-build?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Put your AI agents to work in a visual workspa",
+          "summary_zh": "Put your AI agents to work in a visual workspa",
+          "publishedAt": "2026-11-24T08:01:00Z",
+          "published_at": "2026-11-24T08:01:00Z",
+          "votes_count": 164,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "500be1aa",
+          "title": "产品更新：SparrowDesk Pho",
+          "title_en": "SparrowDesk Phone Calls",
+          "url": "https://www.producthunt.com/products/sparrowdesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/sparrowdesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Phone support in the same inbox as email, chat",
+          "summary_zh": "Phone support in the same inbox as email, chat",
+          "publishedAt": "2026-11-24T08:01:00Z",
+          "published_at": "2026-11-24T08:01:00Z",
+          "votes_count": 132,
+          "featured": true,
+          "topics": [
+            {
+              "id": "55",
+              "name": "Customer Success",
+              "slug": "customer-success"
+            },
+            {
+              "id": "123",
+              "name": "Customer Communication",
+              "slug": "customer-communication"
+            },
+            {
+              "id": "237",
+              "name": "SaaS",
+              "slug": "saas"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-24",
       "generated_at": "2026-11-24T04:52:23Z",
