@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-24T19:37:40Z",
-  "generatedAt": "2026-11-24T19:37:40Z",
+  "generated_at": "2026-11-25T03:36:25Z",
+  "generatedAt": "2026-11-25T03:36:25Z",
   "total": 8,
   "count": 8,
   "sections": [
@@ -26,7 +26,7 @@
           "summary_zh": "Your inbox, safely shared with AI agents Your",
           "publishedAt": "2026-11-24T08:00:00Z",
           "published_at": "2026-11-24T08:00:00Z",
-          "votes_count": 151,
+          "votes_count": 168,
           "featured": true,
           "topics": [
             {
@@ -64,7 +64,7 @@
           "summary_zh": "Advertise to developers on many sites with one",
           "publishedAt": "2026-11-24T08:01:00Z",
           "published_at": "2026-11-24T08:01:00Z",
-          "votes_count": 208,
+          "votes_count": 256,
           "featured": true,
           "topics": [
             {
@@ -102,7 +102,7 @@
           "summary_zh": "Put your AI agents to work in a visual workspa",
           "publishedAt": "2026-11-24T08:01:00Z",
           "published_at": "2026-11-24T08:01:00Z",
-          "votes_count": 164,
+          "votes_count": 200,
           "featured": true,
           "topics": [
             {
@@ -124,39 +124,44 @@
           "score_details": null
         },
         {
-          "id": "500be1aa",
-          "title": "产品更新：SparrowDesk Pho",
-          "title_en": "SparrowDesk Phone Calls",
-          "url": "https://www.producthunt.com/products/sparrowdesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "6807c92f",
+          "title": "产品更新：Viktor Code",
+          "title_en": "Viktor Code",
+          "url": "https://www.producthunt.com/products/viktor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/sparrowdesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/viktor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8.0,
           "rankingScore": 8.0,
-          "summary": "Phone support in the same inbox as email, chat",
-          "summary_zh": "Phone support in the same inbox as email, chat",
+          "summary": "Coding agents know your repo. Viktor knows you",
+          "summary_zh": "Coding agents know your repo. Viktor knows you",
           "publishedAt": "2026-11-24T08:01:00Z",
           "published_at": "2026-11-24T08:01:00Z",
-          "votes_count": 132,
+          "votes_count": 166,
           "featured": true,
           "topics": [
             {
-              "id": "55",
-              "name": "Customer Success",
-              "slug": "customer-success"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
-              "id": "123",
-              "name": "Customer Communication",
-              "slug": "customer-communication"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
             {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "279",
+              "name": "YouTube",
+              "slug": "youtube"
             }
           ],
           "score_details": null
@@ -234,9 +239,9 @@
           "score_details": null
         },
         {
-          "id": "6c2d103a",
-          "title": "看一遍就会，60ms出手，最强生产力",
-          "title_en": "看一遍就会，60ms出手，最强生产力模型来了",
+          "id": "470169c2",
+          "title": "曾负责 Grok 大规模推理基础设施",
+          "title_en": "曾负责 Grok 大规模推理基础设施，马斯克旗下 xAI 前核心成员回归中科大",
           "url": "https://www.jiqizhixin.com/articles",
           "source": "机器之心",
           "source_type": null,
@@ -246,10 +251,10 @@
           "score": 5,
           "rank_score": 5.0,
           "rankingScore": 5.0,
-          "summary": "看一遍就会，60ms出手，最强生产力模型来了",
-          "summary_zh": "看一遍就会，60ms出手，最强生产力模型来了",
-          "publishedAt": "2026-11-24T19:37:00Z",
-          "published_at": "2026-11-24T19:37:00Z",
+          "summary": "曾负责 Grok 大规模推理基础设施，马斯克旗下 xAI 前核心成员回归中科大",
+          "summary_zh": "曾负责 Grok 大规模推理基础设施，马斯克旗下 xAI 前核心成员回归中科大",
+          "publishedAt": "2026-11-25T03:35:51Z",
+          "published_at": "2026-11-25T03:35:51Z",
           "votes_count": null,
           "featured": null,
           "topics": [],
@@ -276,7 +281,7 @@
       "summary_zh": "Your inbox, safely shared with AI agents Your",
       "publishedAt": "2026-11-24T08:00:00Z",
       "published_at": "2026-11-24T08:00:00Z",
-      "votes_count": 151,
+      "votes_count": 168,
       "featured": true,
       "topics": [
         {
@@ -314,7 +319,7 @@
       "summary_zh": "Advertise to developers on many sites with one",
       "publishedAt": "2026-11-24T08:01:00Z",
       "published_at": "2026-11-24T08:01:00Z",
-      "votes_count": 208,
+      "votes_count": 256,
       "featured": true,
       "topics": [
         {
@@ -352,7 +357,7 @@
       "summary_zh": "Put your AI agents to work in a visual workspa",
       "publishedAt": "2026-11-24T08:01:00Z",
       "published_at": "2026-11-24T08:01:00Z",
-      "votes_count": 164,
+      "votes_count": 200,
       "featured": true,
       "topics": [
         {
@@ -374,39 +379,44 @@
       "score_details": null
     },
     {
-      "id": "500be1aa",
-      "title": "产品更新：SparrowDesk Pho",
-      "title_en": "SparrowDesk Phone Calls",
-      "url": "https://www.producthunt.com/products/sparrowdesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "id": "6807c92f",
+      "title": "产品更新：Viktor Code",
+      "title_en": "Viktor Code",
+      "url": "https://www.producthunt.com/products/viktor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "source": "Product Hunt AI",
       "source_type": null,
       "sourceName": "Product Hunt AI",
-      "sourceUrl": "https://www.producthunt.com/products/sparrowdesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "sourceUrl": "https://www.producthunt.com/products/viktor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
       "category": "ai-products",
       "score": 7,
       "rank_score": 8.0,
       "rankingScore": 8.0,
-      "summary": "Phone support in the same inbox as email, chat",
-      "summary_zh": "Phone support in the same inbox as email, chat",
+      "summary": "Coding agents know your repo. Viktor knows you",
+      "summary_zh": "Coding agents know your repo. Viktor knows you",
       "publishedAt": "2026-11-24T08:01:00Z",
       "published_at": "2026-11-24T08:01:00Z",
-      "votes_count": 132,
+      "votes_count": 166,
       "featured": true,
       "topics": [
         {
-          "id": "55",
-          "name": "Customer Success",
-          "slug": "customer-success"
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
         },
         {
-          "id": "123",
-          "name": "Customer Communication",
-          "slug": "customer-communication"
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
         },
         {
-          "id": "237",
-          "name": "SaaS",
-          "slug": "saas"
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "279",
+          "name": "YouTube",
+          "slug": "youtube"
         }
       ],
       "score_details": null
@@ -478,9 +488,9 @@
       "score_details": null
     },
     {
-      "id": "6c2d103a",
-      "title": "看一遍就会，60ms出手，最强生产力",
-      "title_en": "看一遍就会，60ms出手，最强生产力模型来了",
+      "id": "470169c2",
+      "title": "曾负责 Grok 大规模推理基础设施",
+      "title_en": "曾负责 Grok 大规模推理基础设施，马斯克旗下 xAI 前核心成员回归中科大",
       "url": "https://www.jiqizhixin.com/articles",
       "source": "机器之心",
       "source_type": null,
@@ -490,10 +500,10 @@
       "score": 5,
       "rank_score": 5.0,
       "rankingScore": 5.0,
-      "summary": "看一遍就会，60ms出手，最强生产力模型来了",
-      "summary_zh": "看一遍就会，60ms出手，最强生产力模型来了",
-      "publishedAt": "2026-11-24T19:37:00Z",
-      "published_at": "2026-11-24T19:37:00Z",
+      "summary": "曾负责 Grok 大规模推理基础设施，马斯克旗下 xAI 前核心成员回归中科大",
+      "summary_zh": "曾负责 Grok 大规模推理基础设施，马斯克旗下 xAI 前核心成员回归中科大",
+      "publishedAt": "2026-11-25T03:35:51Z",
+      "published_at": "2026-11-25T03:35:51Z",
       "votes_count": null,
       "featured": null,
       "topics": [],

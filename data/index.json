@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-24T19:37:40Z",
-  "generatedAt": "2026-11-24T19:37:40Z",
+  "generated_at": "2026-11-25T03:36:25Z",
+  "generatedAt": "2026-11-25T03:36:25Z",
   "count": 197,
   "total": 197,
   "entries": [
     {
       "date": "2026-11-25",
-      "generated_at": "2026-11-24T19:37:40Z",
-      "generatedAt": "2026-11-24T19:37:40Z",
+      "generated_at": "2026-11-25T03:36:25Z",
+      "generatedAt": "2026-11-25T03:36:25Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
@@ -28,7 +28,7 @@
           "summary_zh": "Advertise to developers on many sites with one",
           "publishedAt": "2026-11-24T08:01:00Z",
           "published_at": "2026-11-24T08:01:00Z",
-          "votes_count": 208,
+          "votes_count": 256,
           "featured": true,
           "topics": [
             {
@@ -66,7 +66,7 @@
           "summary_zh": "Put your AI agents to work in a visual workspa",
           "publishedAt": "2026-11-24T08:01:00Z",
           "published_at": "2026-11-24T08:01:00Z",
-          "votes_count": 164,
+          "votes_count": 200,
           "featured": true,
           "topics": [
             {
@@ -88,39 +88,44 @@
           "score_details": null
         },
         {
-          "id": "500be1aa",
-          "title": "产品更新：SparrowDesk Pho",
-          "title_en": "SparrowDesk Phone Calls",
-          "url": "https://www.producthunt.com/products/sparrowdesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "6807c92f",
+          "title": "产品更新：Viktor Code",
+          "title_en": "Viktor Code",
+          "url": "https://www.producthunt.com/products/viktor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/sparrowdesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/viktor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Phone support in the same inbox as email, chat",
-          "summary_zh": "Phone support in the same inbox as email, chat",
+          "summary": "Coding agents know your repo. Viktor knows you",
+          "summary_zh": "Coding agents know your repo. Viktor knows you",
           "publishedAt": "2026-11-24T08:01:00Z",
           "published_at": "2026-11-24T08:01:00Z",
-          "votes_count": 132,
+          "votes_count": 166,
           "featured": true,
           "topics": [
             {
-              "id": "55",
-              "name": "Customer Success",
-              "slug": "customer-success"
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
             },
             {
-              "id": "123",
-              "name": "Customer Communication",
-              "slug": "customer-communication"
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
             },
             {
-              "id": "237",
-              "name": "SaaS",
-              "slug": "saas"
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "279",
+              "name": "YouTube",
+              "slug": "youtube"
             }
           ],
           "score_details": null
