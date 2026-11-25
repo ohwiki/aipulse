@@ -1,9 +1,122 @@
 {
-  "generated_at": "2026-11-25T03:36:25Z",
-  "generatedAt": "2026-11-25T03:36:25Z",
-  "count": 197,
-  "total": 197,
+  "generated_at": "2026-11-25T18:45:01Z",
+  "generatedAt": "2026-11-25T18:45:01Z",
+  "count": 198,
+  "total": 198,
   "entries": [
+    {
+      "date": "2026-11-26",
+      "generated_at": "2026-11-25T18:45:01Z",
+      "generatedAt": "2026-11-25T18:45:01Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "ff064cc1",
+          "title": "产品更新：MyClaw 3.0",
+          "title_en": "MyClaw 3.0",
+          "url": "https://www.producthunt.com/products/myclaw-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/myclaw-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Build an always-on AI team with shared memory",
+          "summary_zh": "Build an always-on AI team with shared memory",
+          "publishedAt": "2026-11-25T08:01:00Z",
+          "published_at": "2026-11-25T08:01:00Z",
+          "votes_count": 236,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "570",
+              "name": "Business",
+              "slug": "business"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "c3a74609",
+          "title": "产品更新：Airbot",
+          "title_en": "Airbot",
+          "url": "https://www.producthunt.com/products/airbots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/airbots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The AI chief of staff that texts you first Mos",
+          "summary_zh": "The AI chief of staff that texts you first Mos",
+          "publishedAt": "2026-11-25T08:01:00Z",
+          "published_at": "2026-11-25T08:01:00Z",
+          "votes_count": 201,
+          "featured": true,
+          "topics": [
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "71",
+              "name": "Sales",
+              "slug": "sales"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "435d4a20",
+          "title": "产品更新：Canva MCP",
+          "title_en": "Canva MCP",
+          "url": "https://www.producthunt.com/products/canva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/canva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turn any AI agent into a creative powerhouse C",
+          "summary_zh": "Turn any AI agent into a creative powerhouse C",
+          "publishedAt": "2026-11-25T08:01:00Z",
+          "published_at": "2026-11-25T08:01:00Z",
+          "votes_count": 127,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "generated_at": "2026-11-25T03:36:25Z",
