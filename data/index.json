@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-11-26T02:56:27Z",
-  "generatedAt": "2026-11-26T02:56:27Z",
-  "count": 198,
-  "total": 198,
+  "generated_at": "2026-11-26T18:33:13Z",
+  "generatedAt": "2026-11-26T18:33:13Z",
+  "count": 199,
+  "total": 199,
   "entries": [
+    {
+      "date": "2026-11-27",
+      "generated_at": "2026-11-26T18:33:13Z",
+      "generatedAt": "2026-11-26T18:33:13Z",
+      "total": 7,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "3f7fee10",
+          "title": "AI资讯更新：Hub",
+          "title_en": "Hub",
+          "url": "https://www.producthunt.com/products/hub-20?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/hub-20?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Run 100 Claude Code or Codex sessions like 5 O",
+          "summary_zh": "Run 100 Claude Code or Codex sessions like 5 O",
+          "publishedAt": "2026-11-26T08:01:00Z",
+          "published_at": "2026-11-26T08:01:00Z",
+          "votes_count": 298,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "091dd402",
+          "title": "产品更新：ExtraOrbital",
+          "title_en": "ExtraOrbital",
+          "url": "https://www.producthunt.com/products/extraorbital-deleted-1365752?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/extraorbital-deleted-1365752?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "✦ Open bar databases, storage buckets & AI key",
+          "summary_zh": "✦ Open bar databases, storage buckets & AI key",
+          "publishedAt": "2026-11-26T08:01:00Z",
+          "published_at": "2026-11-26T08:01:00Z",
+          "votes_count": 136,
+          "featured": true,
+          "topics": [
+            {
+              "id": "89",
+              "name": "Open Source",
+              "slug": "open-source"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "1194",
+              "name": "Vibe coding",
+              "slug": "vibe-coding"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "b35670d8",
+          "title": "AI资讯更新：QA.tech MCP",
+          "title_en": "QA.tech MCP",
+          "url": "https://www.producthunt.com/products/qa-tech?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/qa-tech?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Verify every change from your IDE with QA agen",
+          "summary_zh": "Verify every change from your IDE with QA agen",
+          "publishedAt": "2026-11-26T08:00:00Z",
+          "published_at": "2026-11-26T08:00:00Z",
+          "votes_count": 156,
+          "featured": true,
+          "topics": [
+            {
+              "id": "247",
+              "name": "Software Engineering",
+              "slug": "software-engineering"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-26",
       "generated_at": "2026-11-26T02:56:27Z",
