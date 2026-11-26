@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-25T18:45:01Z",
-  "generatedAt": "2026-11-25T18:45:01Z",
+  "generated_at": "2026-11-26T02:56:27Z",
+  "generatedAt": "2026-11-26T02:56:27Z",
   "count": 198,
   "total": 198,
   "entries": [
     {
       "date": "2026-11-26",
-      "generated_at": "2026-11-25T18:45:01Z",
-      "generatedAt": "2026-11-25T18:45:01Z",
+      "generated_at": "2026-11-26T02:56:27Z",
+      "generatedAt": "2026-11-26T02:56:27Z",
       "total": 8,
       "sectionCount": 2,
       "highlights": [
@@ -28,7 +28,7 @@
           "summary_zh": "Build an always-on AI team with shared memory",
           "publishedAt": "2026-11-25T08:01:00Z",
           "published_at": "2026-11-25T08:01:00Z",
-          "votes_count": 236,
+          "votes_count": 270,
           "featured": true,
           "topics": [
             {
@@ -66,7 +66,7 @@
           "summary_zh": "The AI chief of staff that texts you first Mos",
           "publishedAt": "2026-11-25T08:01:00Z",
           "published_at": "2026-11-25T08:01:00Z",
-          "votes_count": 201,
+          "votes_count": 244,
           "featured": true,
           "topics": [
             {
@@ -88,29 +88,39 @@
           "score_details": null
         },
         {
-          "id": "435d4a20",
-          "title": "产品更新：Canva MCP",
-          "title_en": "Canva MCP",
-          "url": "https://www.producthunt.com/products/canva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "id": "7b5ab3ef",
+          "title": "产品更新：Hiring Right No",
+          "title_en": "Hiring Right Now",
+          "url": "https://www.producthunt.com/products/hiring-right-now?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "source": "Product Hunt AI",
           "source_type": null,
           "sourceName": "Product Hunt AI",
-          "sourceUrl": "https://www.producthunt.com/products/canva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "sourceUrl": "https://www.producthunt.com/products/hiring-right-now?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
           "category": "ai-products",
           "score": 7,
           "rank_score": 8,
           "rankingScore": 8,
-          "summary": "Turn any AI agent into a creative powerhouse C",
-          "summary_zh": "Turn any AI agent into a creative powerhouse C",
+          "summary": "Which startups would hire you? Paste your Link",
+          "summary_zh": "Which startups would hire you? Paste your Link",
           "publishedAt": "2026-11-25T08:01:00Z",
           "published_at": "2026-11-25T08:01:00Z",
-          "votes_count": 127,
+          "votes_count": 152,
           "featured": true,
           "topics": [
             {
-              "id": "44",
-              "name": "Design Tools",
-              "slug": "design-tools"
+              "id": "41",
+              "name": "Hiring",
+              "slug": "hiring"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "835",
+              "name": "Career",
+              "slug": "career"
             }
           ],
           "score_details": null
