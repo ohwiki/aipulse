@@ -1,0 +1,523 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-27T18:20:37Z",
+  "generatedAt": "2026-11-27T18:20:37Z",
+  "total": 8,
+  "count": 8,
+  "sections": [
+    {
+      "category": "ai-products",
+      "label": "产品发布/更新",
+      "items": [
+        {
+          "id": "f8a45af4",
+          "title": "产品更新：Contral",
+          "title_en": "Contral",
+          "url": "https://www.producthunt.com/products/contral?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/contral?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "The AI coding agent that checks its work and t",
+          "summary_zh": "The AI coding agent that checks its work and t",
+          "publishedAt": "2026-11-27T08:00:00Z",
+          "published_at": "2026-11-27T08:00:00Z",
+          "votes_count": 156,
+          "featured": true,
+          "topics": [
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5cd8abc1",
+          "title": "产品更新：Periscope",
+          "title_en": "Periscope",
+          "url": "https://www.producthunt.com/products/periscope-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/periscope-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Turn any work into an API Describe a task and",
+          "summary_zh": "Turn any work into an API Describe a task and",
+          "publishedAt": "2026-11-27T08:00:00Z",
+          "published_at": "2026-11-27T08:00:00Z",
+          "votes_count": 139,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "9c6b03b6",
+          "title": "产品更新：Pushary Calls",
+          "title_en": "Pushary Calls",
+          "url": "https://www.producthunt.com/products/pushary?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/pushary?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Miss your AI agent’s ping? Pushary calls you.",
+          "summary_zh": "Miss your AI agent’s ping? Pushary calls you.",
+          "publishedAt": "2026-11-27T08:00:00Z",
+          "published_at": "2026-11-27T08:00:00Z",
+          "votes_count": 126,
+          "featured": true,
+          "topics": [
+            {
+              "id": "2",
+              "name": "Android",
+              "slug": "android"
+            },
+            {
+              "id": "46",
+              "name": "Productivity",
+              "slug": "productivity"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "272",
+              "name": "GitHub",
+              "slug": "github"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "718d0aa2",
+          "title": "AI资讯更新：Wizstar R1",
+          "title_en": "Wizstar R1",
+          "url": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8.0,
+          "rankingScore": 8.0,
+          "summary": "Seedance 2.0-level product videos at a lower c",
+          "summary_zh": "Seedance 2.0-level product videos at a lower c",
+          "publishedAt": "2026-11-27T08:01:00Z",
+          "published_at": "2026-11-27T08:01:00Z",
+          "votes_count": 234,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
+    {
+      "category": "cn-media",
+      "label": "中文媒体精选",
+      "items": [
+        {
+          "id": "a063b16e",
+          "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/513125.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/513125.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "焦虑，焦虑，焦虑。 这是当前具身智能行业的普遍感受之一。 一方面，资本降温，融资环境迅速变冷，行业洗牌期可能即将到来。 另一方面，GPT-6 Astra、Claude Fable 5.2这些新一代通用大模型来势汹汹。巨头跨界降维打击，很可能分走具身智能的一大块蛋糕。    大浪淘沙，接下来，该怎样把有限的资源集中到有价值的工作上，才能活下来？这是每家公司都在考虑的问题。 在11月24日的智源REAL物理AI开放日上，来自千寻智能、银河通用、星海图、星动纪元、西湖机器人、源策未来、智源研究院等头部公司和机构的创始人展开了一场深度圆桌讨论。    他们的共识与分歧，也指明了接下来行业突围的方向。 通用大模型越来越强，具身公司还有必要自研吗？ 在具身智能的技术框架中，通常会将系统划分为不同的层级：  System 2是认知/任务规划层，负责看懂环境、听懂指令、把任务拆成步骤； System 1是动作/技能层，负责把目标翻译成连贯轨迹； System 0则是运控/执行层，负责实时运动控制、身体平衡与底层执行。  在这套体系中，S0、S1被归入快系统，负责实时的动作生成与控制，S2是慢系统，负责",
+          "summary_zh": "焦虑，焦虑，焦虑。 这是当前具身智能行业的普遍感受之一。 一方面，资本降温，融资环境迅速变冷，行业洗牌期可能即将到来。 另一方面，GPT-6 Astra、Claude Fable 5.2这些新一代通用大模型来势汹汹。巨头跨界降维打击，很可能分走具身智能的一大块蛋糕。    大浪淘沙，接下来，该怎样把有限的资源集中到有价值的工作上，才能活下来？这是每家公司都在考虑的问题。 在11月24日的智源REAL物理AI开放日上，来自千寻智能、银河通用、星海图、星动纪元、西湖机器人、源策未来、智源研究院等头部公司和机构的创始人展开了一场深度圆桌讨论。    他们的共识与分歧，也指明了接下来行业突围的方向。 通用大模型越来越强，具身公司还有必要自研吗？ 在具身智能的技术框架中，通常会将系统划分为不同的层级：  System 2是认知/任务规划层，负责看懂环境、听懂指令、把任务拆成步骤； System 1是动作/技能层，负责把目标翻译成连贯轨迹； System 0则是运控/执行层，负责实时运动控制、身体平衡与底层执行。  在这套体系中，S0、S1被归入快系统，负责实时的动作生成与控制，S2是慢系统，负责",
+          "publishedAt": "2026-11-27T03:33:11Z",
+          "published_at": "2026-11-27T03:33:11Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "637318b7",
+          "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/513155.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/513155.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "3D生成的竞争重点正在从“能看”转向“能用”  11月27日，腾讯混元发布最新一代3D大模型Hy3D 3.6。新版本面向专业3D创作，重点优化了高模和PBR材质贴图的生成能力。生成的几何表面整洁、结构清晰、高模刻画细腻，贴图质量也更高，可以为艺术家、建模师、技术美术和3D内容创作者提供高质量的3D资产。 目前，Hy3D 3.6已经上线腾讯云Token Hub，对外提供API服务。腾讯AI创意智能体Miora、腾讯游戏旗下专业资产生成平台LAP、专业影视AI平台WorkRally等也已接入，用户可在这些产品中直接使用。  腾讯内部组织了数百位专业3D美术与建模师进行盲测，结果显示，Hy3D 3.6的几何整体质量、纹理整体质量和可用性显著优于业界同类模型。几何方面，Hy3D 3.6的大形结构还原度和清晰度更高，形体表达更合理，表面更平整，在表面质量、硬表面和结构表达上优势突出。纹理方面，色彩和细节更贴近原画，贴图更整洁，和模型形体的匹配度也更高。 与通用语言模型通过编写代码、组合基础图元来生成3D模型不同，Hy3D 3.6作为原生3D生成模型，在训练阶段直接“学习” 3D资产中几何、纹理与",
+          "summary_zh": "3D生成的竞争重点正在从“能看”转向“能用”  11月27日，腾讯混元发布最新一代3D大模型Hy3D 3.6。新版本面向专业3D创作，重点优化了高模和PBR材质贴图的生成能力。生成的几何表面整洁、结构清晰、高模刻画细腻，贴图质量也更高，可以为艺术家、建模师、技术美术和3D内容创作者提供高质量的3D资产。 目前，Hy3D 3.6已经上线腾讯云Token Hub，对外提供API服务。腾讯AI创意智能体Miora、腾讯游戏旗下专业资产生成平台LAP、专业影视AI平台WorkRally等也已接入，用户可在这些产品中直接使用。  腾讯内部组织了数百位专业3D美术与建模师进行盲测，结果显示，Hy3D 3.6的几何整体质量、纹理整体质量和可用性显著优于业界同类模型。几何方面，Hy3D 3.6的大形结构还原度和清晰度更高，形体表达更合理，表面更平整，在表面质量、硬表面和结构表达上优势突出。纹理方面，色彩和细节更贴近原画，贴图更整洁，和模型形体的匹配度也更高。 与通用语言模型通过编写代码、组合基础图元来生成3D模型不同，Hy3D 3.6作为原生3D生成模型，在训练阶段直接“学习” 3D资产中几何、纹理与",
+          "publishedAt": "2026-11-27T03:45:19Z",
+          "published_at": "2026-11-27T03:45:19Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "3e105643",
+          "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+          "title_en": null,
+          "url": "https://www.qbitai.com/2026/11/513163.html",
+          "source": "量子位",
+          "source_type": null,
+          "sourceName": "量子位",
+          "sourceUrl": "https://www.qbitai.com/2026/11/513163.html",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "Quickwit查询总耗时降31%，最高降87%  AI写代码，已经不是什么新鲜事了。 但如果让20个AI Agents组成一支工程团队，不告诉它们具体该改哪一行代码，让它们自己寻找性能瓶颈、提出技术方案、设计实验，甚至互相审查代码呢？ 它们能做到什么程度？ 近日，AI初创公司TabbyML公布了一项颇有意思的工作。他们将一支由20个AI Agents组成的系统工程团队，投入到了一个真实的开源搜索引擎Quickwit中。  人类设定优化目标和工程约束，剩下的工作交给AI。 4天后，这支AI团队交出了一份成绩单：  自主开展约350次工程实验； 最终保留6项通过审查的优化； 亿级数据测试中，总热查询耗时从40.5秒降至27.9秒，下降31%； 部分查询耗时降幅高达87%。  更重要的是，在数据库性能基准ClickBench的数据湖类别中，经过AI优化的Quickwit，在同口径热查询评分对比中，超越了此前所有公开成绩。 这一次，AI做的不只是写代码，它开始承担一支专业系统工程团队的工作。 20个AI Agents，向真实系统性能发起挑战 这次被选中进行优化的，是TabbyML在实际业务中",
+          "summary_zh": "Quickwit查询总耗时降31%，最高降87%  AI写代码，已经不是什么新鲜事了。 但如果让20个AI Agents组成一支工程团队，不告诉它们具体该改哪一行代码，让它们自己寻找性能瓶颈、提出技术方案、设计实验，甚至互相审查代码呢？ 它们能做到什么程度？ 近日，AI初创公司TabbyML公布了一项颇有意思的工作。他们将一支由20个AI Agents组成的系统工程团队，投入到了一个真实的开源搜索引擎Quickwit中。  人类设定优化目标和工程约束，剩下的工作交给AI。 4天后，这支AI团队交出了一份成绩单：  自主开展约350次工程实验； 最终保留6项通过审查的优化； 亿级数据测试中，总热查询耗时从40.5秒降至27.9秒，下降31%； 部分查询耗时降幅高达87%。  更重要的是，在数据库性能基准ClickBench的数据湖类别中，经过AI优化的Quickwit，在同口径热查询评分对比中，超越了此前所有公开成绩。 这一次，AI做的不只是写代码，它开始承担一支专业系统工程团队的工作。 20个AI Agents，向真实系统性能发起挑战 这次被选中进行优化的，是TabbyML在实际业务中",
+          "publishedAt": "2026-11-27T03:53:49Z",
+          "published_at": "2026-11-27T03:53:49Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        },
+        {
+          "id": "fd246143",
+          "title": "大神Karpathy又整活！Clau",
+          "title_en": "大神Karpathy又整活！Claude 7小时把真实美国搬进《文明》",
+          "url": "https://www.jiqizhixin.com/articles",
+          "source": "机器之心",
+          "source_type": null,
+          "sourceName": "机器之心",
+          "sourceUrl": "https://www.jiqizhixin.com/articles",
+          "category": "cn-media",
+          "score": 5,
+          "rank_score": 5.0,
+          "rankingScore": 5.0,
+          "summary": "大神Karpathy又整活！Claude 7小时把真实美国搬进《文明》",
+          "summary_zh": "大神Karpathy又整活！Claude 7小时把真实美国搬进《文明》",
+          "publishedAt": "2026-11-27T18:20:02Z",
+          "published_at": "2026-11-27T18:20:02Z",
+          "votes_count": null,
+          "featured": null,
+          "topics": [],
+          "score_details": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "f8a45af4",
+      "title": "产品更新：Contral",
+      "title_en": "Contral",
+      "url": "https://www.producthunt.com/products/contral?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/contral?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "The AI coding agent that checks its work and t",
+      "summary_zh": "The AI coding agent that checks its work and t",
+      "publishedAt": "2026-11-27T08:00:00Z",
+      "published_at": "2026-11-27T08:00:00Z",
+      "votes_count": 156,
+      "featured": true,
+      "topics": [
+        {
+          "id": "204",
+          "name": "Education",
+          "slug": "education"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "5cd8abc1",
+      "title": "产品更新：Periscope",
+      "title_en": "Periscope",
+      "url": "https://www.producthunt.com/products/periscope-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/periscope-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Turn any work into an API Describe a task and",
+      "summary_zh": "Turn any work into an API Describe a task and",
+      "publishedAt": "2026-11-27T08:00:00Z",
+      "published_at": "2026-11-27T08:00:00Z",
+      "votes_count": 139,
+      "featured": true,
+      "topics": [
+        {
+          "id": "88",
+          "name": "API",
+          "slug": "api-1"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "9c6b03b6",
+      "title": "产品更新：Pushary Calls",
+      "title_en": "Pushary Calls",
+      "url": "https://www.producthunt.com/products/pushary?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/pushary?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Miss your AI agent’s ping? Pushary calls you.",
+      "summary_zh": "Miss your AI agent’s ping? Pushary calls you.",
+      "publishedAt": "2026-11-27T08:00:00Z",
+      "published_at": "2026-11-27T08:00:00Z",
+      "votes_count": 126,
+      "featured": true,
+      "topics": [
+        {
+          "id": "2",
+          "name": "Android",
+          "slug": "android"
+        },
+        {
+          "id": "46",
+          "name": "Productivity",
+          "slug": "productivity"
+        },
+        {
+          "id": "267",
+          "name": "Developer Tools",
+          "slug": "developer-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "272",
+          "name": "GitHub",
+          "slug": "github"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "718d0aa2",
+      "title": "AI资讯更新：Wizstar R1",
+      "title_en": "Wizstar R1",
+      "url": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "source": "Product Hunt AI",
+      "source_type": null,
+      "sourceName": "Product Hunt AI",
+      "sourceUrl": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+      "category": "ai-products",
+      "score": 7,
+      "rank_score": 8.0,
+      "rankingScore": 8.0,
+      "summary": "Seedance 2.0-level product videos at a lower c",
+      "summary_zh": "Seedance 2.0-level product videos at a lower c",
+      "publishedAt": "2026-11-27T08:01:00Z",
+      "published_at": "2026-11-27T08:01:00Z",
+      "votes_count": 234,
+      "featured": true,
+      "topics": [
+        {
+          "id": "44",
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "id": "268",
+          "name": "Artificial Intelligence",
+          "slug": "artificial-intelligence"
+        },
+        {
+          "id": "857",
+          "name": "Video",
+          "slug": "video"
+        }
+      ],
+      "score_details": null
+    },
+    {
+      "id": "a063b16e",
+      "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/513125.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/513125.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "焦虑，焦虑，焦虑。 这是当前具身智能行业的普遍感受之一。 一方面，资本降温，融资环境迅速变冷，行业洗牌期可能即将到来。 另一方面，GPT-6 Astra、Claude Fable 5.2这些新一代通用大模型来势汹汹。巨头跨界降维打击，很可能分走具身智能的一大块蛋糕。    大浪淘沙，接下来，该怎样把有限的资源集中到有价值的工作上，才能活下来？这是每家公司都在考虑的问题。 在11月24日的智源REAL物理AI开放日上，来自千寻智能、银河通用、星海图、星动纪元、西湖机器人、源策未来、智源研究院等头部公司和机构的创始人展开了一场深度圆桌讨论。    他们的共识与分歧，也指明了接下来行业突围的方向。 通用大模型越来越强，具身公司还有必要自研吗？ 在具身智能的技术框架中，通常会将系统划分为不同的层级：  System 2是认知/任务规划层，负责看懂环境、听懂指令、把任务拆成步骤； System 1是动作/技能层，负责把目标翻译成连贯轨迹； System 0则是运控/执行层，负责实时运动控制、身体平衡与底层执行。  在这套体系中，S0、S1被归入快系统，负责实时的动作生成与控制，S2是慢系统，负责",
+      "summary_zh": "焦虑，焦虑，焦虑。 这是当前具身智能行业的普遍感受之一。 一方面，资本降温，融资环境迅速变冷，行业洗牌期可能即将到来。 另一方面，GPT-6 Astra、Claude Fable 5.2这些新一代通用大模型来势汹汹。巨头跨界降维打击，很可能分走具身智能的一大块蛋糕。    大浪淘沙，接下来，该怎样把有限的资源集中到有价值的工作上，才能活下来？这是每家公司都在考虑的问题。 在11月24日的智源REAL物理AI开放日上，来自千寻智能、银河通用、星海图、星动纪元、西湖机器人、源策未来、智源研究院等头部公司和机构的创始人展开了一场深度圆桌讨论。    他们的共识与分歧，也指明了接下来行业突围的方向。 通用大模型越来越强，具身公司还有必要自研吗？ 在具身智能的技术框架中，通常会将系统划分为不同的层级：  System 2是认知/任务规划层，负责看懂环境、听懂指令、把任务拆成步骤； System 1是动作/技能层，负责把目标翻译成连贯轨迹； System 0则是运控/执行层，负责实时运动控制、身体平衡与底层执行。  在这套体系中，S0、S1被归入快系统，负责实时的动作生成与控制，S2是慢系统，负责",
+      "publishedAt": "2026-11-27T03:33:11Z",
+      "published_at": "2026-11-27T03:33:11Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "637318b7",
+      "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/513155.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/513155.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "3D生成的竞争重点正在从“能看”转向“能用”  11月27日，腾讯混元发布最新一代3D大模型Hy3D 3.6。新版本面向专业3D创作，重点优化了高模和PBR材质贴图的生成能力。生成的几何表面整洁、结构清晰、高模刻画细腻，贴图质量也更高，可以为艺术家、建模师、技术美术和3D内容创作者提供高质量的3D资产。 目前，Hy3D 3.6已经上线腾讯云Token Hub，对外提供API服务。腾讯AI创意智能体Miora、腾讯游戏旗下专业资产生成平台LAP、专业影视AI平台WorkRally等也已接入，用户可在这些产品中直接使用。  腾讯内部组织了数百位专业3D美术与建模师进行盲测，结果显示，Hy3D 3.6的几何整体质量、纹理整体质量和可用性显著优于业界同类模型。几何方面，Hy3D 3.6的大形结构还原度和清晰度更高，形体表达更合理，表面更平整，在表面质量、硬表面和结构表达上优势突出。纹理方面，色彩和细节更贴近原画，贴图更整洁，和模型形体的匹配度也更高。 与通用语言模型通过编写代码、组合基础图元来生成3D模型不同，Hy3D 3.6作为原生3D生成模型，在训练阶段直接“学习” 3D资产中几何、纹理与",
+      "summary_zh": "3D生成的竞争重点正在从“能看”转向“能用”  11月27日，腾讯混元发布最新一代3D大模型Hy3D 3.6。新版本面向专业3D创作，重点优化了高模和PBR材质贴图的生成能力。生成的几何表面整洁、结构清晰、高模刻画细腻，贴图质量也更高，可以为艺术家、建模师、技术美术和3D内容创作者提供高质量的3D资产。 目前，Hy3D 3.6已经上线腾讯云Token Hub，对外提供API服务。腾讯AI创意智能体Miora、腾讯游戏旗下专业资产生成平台LAP、专业影视AI平台WorkRally等也已接入，用户可在这些产品中直接使用。  腾讯内部组织了数百位专业3D美术与建模师进行盲测，结果显示，Hy3D 3.6的几何整体质量、纹理整体质量和可用性显著优于业界同类模型。几何方面，Hy3D 3.6的大形结构还原度和清晰度更高，形体表达更合理，表面更平整，在表面质量、硬表面和结构表达上优势突出。纹理方面，色彩和细节更贴近原画，贴图更整洁，和模型形体的匹配度也更高。 与通用语言模型通过编写代码、组合基础图元来生成3D模型不同，Hy3D 3.6作为原生3D生成模型，在训练阶段直接“学习” 3D资产中几何、纹理与",
+      "publishedAt": "2026-11-27T03:45:19Z",
+      "published_at": "2026-11-27T03:45:19Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "3e105643",
+      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/11/513163.html",
+      "source": "量子位",
+      "source_type": null,
+      "sourceName": "量子位",
+      "sourceUrl": "https://www.qbitai.com/2026/11/513163.html",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "Quickwit查询总耗时降31%，最高降87%  AI写代码，已经不是什么新鲜事了。 但如果让20个AI Agents组成一支工程团队，不告诉它们具体该改哪一行代码，让它们自己寻找性能瓶颈、提出技术方案、设计实验，甚至互相审查代码呢？ 它们能做到什么程度？ 近日，AI初创公司TabbyML公布了一项颇有意思的工作。他们将一支由20个AI Agents组成的系统工程团队，投入到了一个真实的开源搜索引擎Quickwit中。  人类设定优化目标和工程约束，剩下的工作交给AI。 4天后，这支AI团队交出了一份成绩单：  自主开展约350次工程实验； 最终保留6项通过审查的优化； 亿级数据测试中，总热查询耗时从40.5秒降至27.9秒，下降31%； 部分查询耗时降幅高达87%。  更重要的是，在数据库性能基准ClickBench的数据湖类别中，经过AI优化的Quickwit，在同口径热查询评分对比中，超越了此前所有公开成绩。 这一次，AI做的不只是写代码，它开始承担一支专业系统工程团队的工作。 20个AI Agents，向真实系统性能发起挑战 这次被选中进行优化的，是TabbyML在实际业务中",
+      "summary_zh": "Quickwit查询总耗时降31%，最高降87%  AI写代码，已经不是什么新鲜事了。 但如果让20个AI Agents组成一支工程团队，不告诉它们具体该改哪一行代码，让它们自己寻找性能瓶颈、提出技术方案、设计实验，甚至互相审查代码呢？ 它们能做到什么程度？ 近日，AI初创公司TabbyML公布了一项颇有意思的工作。他们将一支由20个AI Agents组成的系统工程团队，投入到了一个真实的开源搜索引擎Quickwit中。  人类设定优化目标和工程约束，剩下的工作交给AI。 4天后，这支AI团队交出了一份成绩单：  自主开展约350次工程实验； 最终保留6项通过审查的优化； 亿级数据测试中，总热查询耗时从40.5秒降至27.9秒，下降31%； 部分查询耗时降幅高达87%。  更重要的是，在数据库性能基准ClickBench的数据湖类别中，经过AI优化的Quickwit，在同口径热查询评分对比中，超越了此前所有公开成绩。 这一次，AI做的不只是写代码，它开始承担一支专业系统工程团队的工作。 20个AI Agents，向真实系统性能发起挑战 这次被选中进行优化的，是TabbyML在实际业务中",
+      "publishedAt": "2026-11-27T03:53:49Z",
+      "published_at": "2026-11-27T03:53:49Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    },
+    {
+      "id": "fd246143",
+      "title": "大神Karpathy又整活！Clau",
+      "title_en": "大神Karpathy又整活！Claude 7小时把真实美国搬进《文明》",
+      "url": "https://www.jiqizhixin.com/articles",
+      "source": "机器之心",
+      "source_type": null,
+      "sourceName": "机器之心",
+      "sourceUrl": "https://www.jiqizhixin.com/articles",
+      "category": "cn-media",
+      "score": 5,
+      "rank_score": 5.0,
+      "rankingScore": 5.0,
+      "summary": "大神Karpathy又整活！Claude 7小时把真实美国搬进《文明》",
+      "summary_zh": "大神Karpathy又整活！Claude 7小时把真实美国搬进《文明》",
+      "publishedAt": "2026-11-27T18:20:02Z",
+      "published_at": "2026-11-27T18:20:02Z",
+      "votes_count": null,
+      "featured": null,
+      "topics": [],
+      "score_details": null
+    }
+  ]
+}

@@ -1,9 +1,132 @@
 {
-  "generated_at": "2026-11-27T03:00:03Z",
-  "generatedAt": "2026-11-27T03:00:03Z",
-  "count": 199,
-  "total": 199,
+  "generated_at": "2026-11-27T18:20:37Z",
+  "generatedAt": "2026-11-27T18:20:37Z",
+  "count": 200,
+  "total": 200,
   "entries": [
+    {
+      "date": "2026-11-28",
+      "generated_at": "2026-11-27T18:20:37Z",
+      "generatedAt": "2026-11-27T18:20:37Z",
+      "total": 8,
+      "sectionCount": 2,
+      "highlights": [
+        {
+          "id": "718d0aa2",
+          "title": "AI资讯更新：Wizstar R1",
+          "title_en": "Wizstar R1",
+          "url": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Seedance 2.0-level product videos at a lower c",
+          "summary_zh": "Seedance 2.0-level product videos at a lower c",
+          "publishedAt": "2026-11-27T08:01:00Z",
+          "published_at": "2026-11-27T08:01:00Z",
+          "votes_count": 234,
+          "featured": true,
+          "topics": [
+            {
+              "id": "44",
+              "name": "Design Tools",
+              "slug": "design-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            },
+            {
+              "id": "857",
+              "name": "Video",
+              "slug": "video"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "f8a45af4",
+          "title": "产品更新：Contral",
+          "title_en": "Contral",
+          "url": "https://www.producthunt.com/products/contral?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/contral?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "The AI coding agent that checks its work and t",
+          "summary_zh": "The AI coding agent that checks its work and t",
+          "publishedAt": "2026-11-27T08:00:00Z",
+          "published_at": "2026-11-27T08:00:00Z",
+          "votes_count": 156,
+          "featured": true,
+          "topics": [
+            {
+              "id": "204",
+              "name": "Education",
+              "slug": "education"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        },
+        {
+          "id": "5cd8abc1",
+          "title": "产品更新：Periscope",
+          "title_en": "Periscope",
+          "url": "https://www.producthunt.com/products/periscope-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "source": "Product Hunt AI",
+          "source_type": null,
+          "sourceName": "Product Hunt AI",
+          "sourceUrl": "https://www.producthunt.com/products/periscope-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+prohunt+%28ID%3A+197029%29",
+          "category": "ai-products",
+          "score": 7,
+          "rank_score": 8,
+          "rankingScore": 8,
+          "summary": "Turn any work into an API Describe a task and",
+          "summary_zh": "Turn any work into an API Describe a task and",
+          "publishedAt": "2026-11-27T08:00:00Z",
+          "published_at": "2026-11-27T08:00:00Z",
+          "votes_count": 139,
+          "featured": true,
+          "topics": [
+            {
+              "id": "88",
+              "name": "API",
+              "slug": "api-1"
+            },
+            {
+              "id": "267",
+              "name": "Developer Tools",
+              "slug": "developer-tools"
+            },
+            {
+              "id": "268",
+              "name": "Artificial Intelligence",
+              "slug": "artificial-intelligence"
+            }
+          ],
+          "score_details": null
+        }
+      ]
+    },
     {
       "date": "2026-11-27",
       "generated_at": "2026-11-27T03:00:03Z",
